@@ -8,18 +8,23 @@ tasks:
     type: html
     url: https://www.hncsmtr.com/909/932/index.htm
     webhook: webpage
+    parser: changsha
+    force_encoding: gb18030
 
   - name: BlogsClub新成员
     type: html
     url: https://www.blogsclub.org/members.html
     webhook: webpage
+    parser: auto
 
   - name: 月光博客RSS
     type: rss
     url: https://www.williamlong.info/rss.xml
     webhook: rss
+    parser: auto
 
   - name: 芳姐保健汤
     type: rss
     url: https://www.healthy-food.hk/?feed=rss2
     webhook: rss
+    parser: auto
