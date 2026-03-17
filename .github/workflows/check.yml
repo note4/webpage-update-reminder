@@ -13,31 +13,78 @@ on:
       - "config.yml"
       - ".github/workflows/**"
 
+# ✅ 防止并发冲突
+concurrency:
+  group: webpage-monitor
+  cancel-in-progress: true
+
 jobs:
   check:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: 拉代码
+      # 1️⃣ 拉代码
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.ACTIONS_TOKEN }}   # ⭐ 用你的token checkout
+          token: ${{ secrets.ACTIONS_TOKEN }}
+          fetch-depth: 0
 
-      - name: 安装Python
+      # 2️⃣ Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      - name: 安装依赖
-        run: pip install requests pyyaml
+      # 3️⃣ 缓存 pip
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-v2   # ⭐ 改 key，避免旧缓存污染
+          restore-keys: |
+            pip-${{ runner.os }}
 
-      - name: 执行脚本
-        run: python check.py
+      # 4️⃣ 安装依赖（关键修复点）
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install requests pyyaml beautifulsoup4 lxml feedparser
 
-      - name: 提交状态
+      # 5️⃣ 验证依赖（防止再次踩坑）
+      - name: Verify deps
+        run: |
+          python -c "import yaml, bs4, lxml, feedparser; print('deps ok')"
+
+      # 6️⃣ 初始化 data.json
+      - name: Init state file
+        run: |
+          if [ ! -f data.json ]; then
+            echo "{}" > data.json
+          fi
+
+      # 7️⃣ 执行脚本（带重试）
+      - name: Run script
+        run: |
+          python check.py || (echo "retry..." && sleep 5 && python check.py)
+
+      # 8️⃣ 提交状态（增强稳定性）
+      - name: Commit state
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
           git add data.json
-          git commit -m "update state" || exit 0
-          git push
+
+          # 没变化直接退出
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "update state"
+
+          # ⭐ 防冲突推送
+          git pull --rebase origin ${{ github.ref_name }}
+          git push origin HEAD:${{ github.ref_name }}
