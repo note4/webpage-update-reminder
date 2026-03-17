@@ -9,9 +9,9 @@ tasks:
     url: https://www.hncsmtr.com/909/932/index.htm
     webhook: webpage
 
-  - name: 月光博客首页
+  - name: BlogsClub新成员
     type: html
-    url: https://www.williamlong.info/
+    url: https://www.blogsclub.org/members.html
     webhook: webpage
 
   - name: 月光博客RSS
