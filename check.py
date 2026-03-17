@@ -1,18 +1,21 @@
 import requests
-import re
 import json
 import os
 import yaml
 import time
-import xml.etree.ElementTree as ET
+import re
+import feedparser
+
+from datetime import datetime
+from zoneinfo import ZoneInfo
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin, urlparse
+from collections import Counter
 
 # ======================
 # 基础配置
 # ======================
-HEADERS = {
-    "User-Agent": "Mozilla/5.0"
-}
-
+HEADERS = {"User-Agent": "Mozilla/5.0"}
 TIMEOUT = 10
 RETRY = 3
 STATE_FILE = "data.json"
@@ -27,12 +30,10 @@ def load_yaml():
 def load_state():
     if not os.path.exists(STATE_FILE):
         return {}
-    with open(STATE_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
+    return json.load(open(STATE_FILE, "r", encoding="utf-8"))
 
 def save_state(state):
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=2)
+    json.dump(state, open(STATE_FILE, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
 
 def request_with_retry(url):
     for i in range(RETRY):
@@ -44,144 +45,274 @@ def request_with_retry(url):
     raise Exception("请求失败")
 
 def send_feishu(webhook, text):
-    data = {
+    requests.post(webhook, json={
         "msg_type": "text",
         "content": {"text": text}
-    }
-    requests.post(webhook, json=data, timeout=10)
+    }, timeout=10)
 
 # ======================
-# HTML 处理（强绑定解析）
+# 时间处理
+# ======================
+def format_time(time_str):
+    if not time_str or time_str == "无":
+        return "无"
+
+    try:
+        dt = datetime(*time.strptime(time_str, "%a, %d %b %Y %H:%M:%S %z")[:6])
+        dt = dt.astimezone(ZoneInfo("Asia/Shanghai"))
+        return dt.strftime("%Y-%m-%d %H:%M")
+    except:
+        pass
+
+    try:
+        dt = datetime.fromisoformat(time_str.replace("Z", "+00:00"))
+        dt = dt.astimezone(ZoneInfo("Asia/Shanghai"))
+        return dt.strftime("%Y-%m-%d %H:%M")
+    except:
+        pass
+
+    return time_str
+
+def extract_time(text):
+    patterns = [
+        r"\d{4}-\d{1,2}-\d{1,2}",
+        r"\d{4}/\d{1,2}/\d{1,2}",
+        r"\d{4}年\d{1,2}月\d{1,2}日"
+    ]
+    for p in patterns:
+        m = re.search(p, text)
+        if m:
+            return m.group(0)
+    return "无"
+
+def make_key(item):
+    return f"{item['title']}|{item['link']}"
+
+# ======================
+# URL规则学习
+# ======================
+def learn_url_patterns(links):
+    paths = []
+
+    for link in links:
+        path = urlparse(link).path
+        if re.search(r'/\d+', path):
+            paths.append(re.sub(r'\d+', '{num}', path))
+        else:
+            paths.append(path)
+
+    counter = Counter(paths)
+    return [p for p, _ in counter.most_common(3)]
+
+def match_url_pattern(link, patterns):
+    path = urlparse(link).path
+    for p in patterns:
+        regex = p.replace("{num}", r"\d+")
+        if re.match(regex, path):
+            return True
+    return False
+
+# ======================
+# DOM评分
+# ======================
+def score_container(c):
+    links = c.find_all("a")
+    if len(links) < 5:
+        return 0
+
+    text = c.get_text(" ", strip=True)
+    text_len = len(text)
+
+    if text_len == 0:
+        return 0
+
+    density = len(links) / text_len
+
+    score = len(links) * 2
+    score += density * 1000
+
+    if re.search(r"\d{4}[-/年]\d{1,2}", text):
+        score += 30
+
+    if text_len > 3000:
+        score -= 20
+
+    return score
+
+def find_best_container(soup):
+    candidates = soup.find_all(["div", "ul", "section", "article"])
+
+    best = None
+    best_score = 0
+
+    for c in candidates:
+        s = score_container(c)
+        if s > best_score:
+            best_score = s
+            best = c
+
+    return best
+
+# ======================
+# 翻页
+# ======================
+def find_next_page(soup, base_url):
+    for a in soup.find_all("a"):
+        text = a.get_text()
+        if any(k in text for k in ["下一页", "Next", ">", "»"]):
+            href = a.get("href")
+            if href:
+                return urljoin(base_url, href)
+    return None
+
+# ======================
+# HTML处理
 # ======================
 def handle_html(task, state, webhooks):
     name = task["name"]
     url = task["url"]
-    conf = task["html"]
 
     try:
-        resp = request_with_retry(url)
-        html = resp.text
+        all_results = []
+        visited = set()
+        current_url = url
 
-        container_regex = conf.get("container")
-        item_regex = conf.get("item")
+        for _ in range(3):
+            if current_url in visited:
+                break
+            visited.add(current_url)
 
-        if container_regex:
-            match = re.search(container_regex, html, re.S)
-            if not match:
-                raise Exception("container 未匹配")
-            html = match.group(1)
+            resp = request_with_retry(current_url)
+            soup = BeautifulSoup(resp.text, "lxml")
 
-        items = re.findall(item_regex, html, re.S)
+            container = find_best_container(soup)
+            if not container:
+                break
 
-        results = []
-        for item in items:
-            if len(item) == 3:
-                link, title, pub_time = item
-            elif len(item) == 2:
-                link, title = item
-                pub_time = "无"
-            else:
-                continue
+            for a in container.find_all("a"):
+                title = a.get_text(strip=True)
+                if not title or len(title) < 6:
+                    continue
 
-            results.append({
-                "title": title.strip(),
-                "link": link.strip(),
-                "time": pub_time.strip() if pub_time else "无"
-            })
+                href = a.get("href")
+                if not href:
+                    continue
 
-        # 去重 key
-        new_keys = [r["title"] for r in results]
+                link = urljoin(current_url, href)
+                if "javascript:" in link:
+                    continue
 
-        old_keys = state.get(name, {}).get("keys", [])
+                parent_text = a.parent.get_text(" ", strip=True)
+                t = extract_time(parent_text)
 
-        diff = [r for r in results if r["title"] not in old_keys]
+                all_results.append({
+                    "title": title,
+                    "link": link,
+                    "time": format_time(t)
+                })
 
-        if diff:
-            text = f"【{name} 有更新】\n\n"
-            for d in diff[:5]:
-                text += f"{d['title']}\n时间：{d['time']}\n{d['link']}\n\n"
+            next_page = find_next_page(soup, current_url)
+            if not next_page:
+                break
 
-            webhook = webhooks[task["webhook"]]
-            send_feishu(webhook, text)
+            current_url = next_page
 
-        # 更新状态
-        state[name] = {
-            "keys": new_keys[:20],
-            "fail": 0
-        }
+        # URL规则过滤
+        patterns = learn_url_patterns([r["link"] for r in all_results])
+
+        filtered = [
+            r for r in all_results
+            if match_url_pattern(r["link"], patterns)
+        ]
+
+        # 去重
+        seen = set()
+        clean = []
+        for r in filtered:
+            k = make_key(r)
+            if k not in seen:
+                seen.add(k)
+                clean.append(r)
+
+        clean = clean[:30]
+
+        if not clean:
+            raise Exception("解析为空")
+
+        process_results(name, task, clean, state, webhooks)
 
     except Exception as e:
-        print(f"[HTML失败] {name}: {e}")
         handle_fail(task, state, webhooks, str(e))
 
 # ======================
-# RSS 处理
+# RSS处理
 # ======================
 def handle_rss(task, state, webhooks):
     name = task["name"]
     url = task["url"]
 
     try:
-        resp = request_with_retry(url)
-        root = ET.fromstring(resp.content)
-
-        items = root.findall(".//item")
+        feed = feedparser.parse(url)
 
         results = []
-        for item in items:
-            title = item.find("title")
-            link = item.find("link")
-
-            pub = (
-                item.find("pubDate") or
-                item.find("{http://purl.org/dc/elements/1.1/}date") or
-                item.find("updated")
-            )
+        for e in feed.entries:
+            t = e.get("published") or e.get("updated") or "无"
 
             results.append({
-                "title": title.text.strip() if title is not None else "",
-                "link": link.text.strip() if link is not None else "",
-                "time": pub.text.strip() if pub is not None else "无"
+                "title": e.get("title", "").strip(),
+                "link": e.get("link", "").strip(),
+                "time": format_time(t)
             })
 
-        new_keys = [r["title"] for r in results]
-        old_keys = state.get(name, {}).get("keys", [])
-
-        diff = [r for r in results if r["title"] not in old_keys]
-
-        if diff:
-            text = f"【{name} 有更新】\n\n"
-            for d in diff[:5]:
-                text += f"{d['title']}\n时间：{d['time']}\n{d['link']}\n\n"
-
-            webhook = webhooks[task["webhook"]]
-            send_feishu(webhook, text)
-
-        state[name] = {
-            "keys": new_keys[:20],
-            "fail": 0
-        }
+        process_results(name, task, results, state, webhooks)
 
     except Exception as e:
-        print(f"[RSS失败] {name}: {e}")
         handle_fail(task, state, webhooks, str(e))
 
 # ======================
-# 失败处理（连续10次报警）
+# 核心逻辑
+# ======================
+def process_results(name, task, results, state, webhooks):
+    keys = [make_key(r) for r in results]
+    old_keys = state.get(name, {}).get("keys")
+
+    if old_keys is None:
+        push = results[:6]
+    else:
+        push = [r for r in results if make_key(r) not in old_keys]
+
+    if push:
+        text = f"【{name} 有更新】\n\n"
+        for i in push:
+            text += f"{i['title']}\n时间：{i['time']}\n{i['link']}\n\n"
+
+        send_feishu(webhooks[task["webhook"]], text)
+
+    state[name] = {
+        "keys": keys[:30],
+        "fail": 0,
+        "last_error": ""
+    }
+
+# ======================
+# 失败处理
 # ======================
 def handle_fail(task, state, webhooks, err):
     name = task["name"]
 
-    fail_count = state.get(name, {}).get("fail", 0) + 1
+    fail = state.get(name, {}).get("fail", 0) + 1
 
     state[name] = {
         "keys": state.get(name, {}).get("keys", []),
-        "fail": fail_count
+        "fail": fail,
+        "last_error": str(err)[:200]
     }
 
-    if fail_count >= 10:
-        webhook = webhooks[task["webhook"]]
-        send_feishu(webhook, f"【告警】{name} 连续失败 {fail_count} 次\n错误：{err}")
+    if fail >= 10:
+        send_feishu(
+            webhooks[task["webhook"]],
+            f"【告警】{name} 连续失败 {fail} 次\n{err}"
+        )
 
 # ======================
 # 主函数
@@ -193,14 +324,13 @@ def main():
 
     state = load_state()
 
-    for task in tasks:
-        if task["type"] == "html":
-            handle_html(task, state, webhooks)
-        elif task["type"] == "rss":
-            handle_rss(task, state, webhooks)
+    for t in tasks:
+        if t["type"] == "html":
+            handle_html(t, state, webhooks)
+        else:
+            handle_rss(t, state, webhooks)
 
     save_state(state)
-
 
 if __name__ == "__main__":
     main()
