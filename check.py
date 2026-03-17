@@ -1,86 +1,105 @@
 import requests
-import hashlib
 import json
 import re
-
-# ===== 配置 =====
-URL_1 = "https://www.hncsmtr.com/909/932/index.htm"
-WEBHOOK_1 = "https://open.feishu.cn/open-apis/bot/v2/hook/f918cda7-c0dc-4039-b7b9-5ae1ed036f50"
-
-URL_2 = "https://www.williamlong.info/"
-WEBHOOK_2 = "https://open.feishu.cn/open-apis/bot/v2/hook/9d8ce6c5-f99e-4ee8-8fdc-c112d1fbf06b"
+import yaml
+import xml.etree.ElementTree as ET
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
-# ===== 工具函数 =====
+# ===== 工具 =====
 def push(webhook, msg):
     requests.post(webhook, json={
         "msg_type": "text",
         "content": {"text": msg}
     })
 
-def md5(text):
-    return hashlib.md5(text.encode()).hexdigest()
-
-def load():
+def load_json(file):
     try:
-        with open("data.json", "r") as f:
+        with open(file, "r") as f:
             return json.load(f)
     except:
         return {}
 
-def save(data):
-    with open("data.json", "w") as f:
-        json.dump(data, f)
+def save_json(file, data):
+    with open(file, "w") as f:
+        json.dump(data, f, ensure_ascii=False)
+
+def load_yaml(file):
+    with open(file, "r", encoding="utf-8") as f:
+        return yaml.safe_load(f)
 
 
-# ===== 任务1：长沙地铁 =====
-def check_metro(data):
-    html = requests.get(URL_1, headers=HEADERS).text
+# ===== HTML 统一处理 =====
+def handle_html(task, state):
+    html = requests.get(task["url"], headers=HEADERS).text
 
-    # 只取列表部分
-    match = re.search(r'<ul.*?list.*?>(.*?)</ul>', html, re.S)
-    list_html = match.group(1) if match else ""
+    container = task["html"].get("container")
+    item_regex = task["html"]["item"]
 
-    new_hash = md5(list_html)
-    old_hash = data.get("metro")
+    content = html
+    if container:
+        match = re.search(container, html, re.S)
+        if not match:
+            return
+        content = match.group(1)
 
-    if old_hash and old_hash != new_hash:
-        titles = re.findall(r'<a.*?>(.*?)</a>', list_html)
-        msg = "【长沙地铁更新】\n" + "\n".join(titles[:5])
-        push(WEBHOOK_1, msg)
+    items = re.findall(item_regex, content)
 
-    data["metro"] = new_hash
+    parsed = []
+    for link, title in items:
+        link = requests.compat.urljoin(task["url"], link)
+        title = re.sub('<.*?>', '', title).strip()
+        parsed.append({"title": title, "link": link})
+
+    old_links = set(state.get(task["name"], []))
+    current_links = set([i["link"] for i in parsed])
+
+    added = [i for i in parsed if i["link"] not in old_links]
+
+    for item in added[:5]:
+        msg = f"【{task['name']}更新】\n{item['title']}\n{item['link']}"
+        push(task["webhook"], msg)
+
+    state[task["name"]] = list(current_links)
 
 
-# ===== 任务2：月光博客 =====
-def check_blog(data):
-    html = requests.get(URL_2, headers=HEADERS).text
+# ===== RSS 处理 =====
+def handle_rss(task, state):
+    xml = requests.get(task["url"], headers=HEADERS).content
+    root = ET.fromstring(xml)
 
-    # 提取文章标题（WordPress结构）
-    titles = re.findall(r'<h2.*?>(.*?)</h2>', html)
+    items = []
+    for item in root.iter("item"):
+        title = item.find("title").text
+        link = item.find("link").text
+        items.append({"title": title, "link": link})
 
-    content = "\n".join(titles[:10])
-    new_hash = md5(content)
-    old_hash = data.get("blog")
+    old_links = set(state.get(task["name"], []))
+    current_links = set([i["link"] for i in items])
 
-    if old_hash and old_hash != new_hash:
-        msg = "【月光博客更新】\n" + "\n".join(titles[:5])
-        push(WEBHOOK_2, msg)
+    added = [i for i in items if i["link"] not in old_links]
 
-    data["blog"] = new_hash
+    for item in added[:5]:
+        msg = f"【{task['name']}更新】\n{item['title']}\n{item['link']}"
+        push(task["webhook"], msg)
+
+    state[task["name"]] = list(current_links)
 
 
 # ===== 主流程 =====
 def main():
-    data = load()
+    config = load_yaml("config.yml")
+    state = load_json("data.json")
 
-    check_metro(data)
-    check_blog(data)
+    for task in config.get("tasks", []):
+        if task["type"] == "html":
+            handle_html(task, state)
+        elif task["type"] == "rss":
+            handle_rss(task, state)
 
-    save(data)
+    save_json("data.json", state)
 
 
 if __name__ == "__main__":
