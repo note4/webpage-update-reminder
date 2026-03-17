@@ -7,25 +7,19 @@ tasks:
   - name: 长沙地铁
     type: html
     url: https://www.hncsmtr.com/909/932/index.htm
-    html:
-      container: '<ul.*?list.*?>(.*?)</ul>'
-      item: '<li>.*?<a.*?href="(.*?)".*?>(.*?)</a>.*?<span.*?>(.*?)</span>.*?</li>'
     webhook: webpage
 
-  - name: 月光博客
+  - name: 月光博客首页
     type: html
     url: https://www.williamlong.info/
-    html:
-      container: ""   # 可为空（表示整页）
-      item: '<h2.*?><a href="(.*?)".*?>(.*?)</a>.*?<span class="date">(.*?)</span>'
     webhook: webpage
 
-  - name: 月光博客
+  - name: 月光博客RSS
     type: rss
     url: https://www.williamlong.info/rss.xml
     webhook: rss
 
-  - name: 芳姐保健湯餸
+  - name: 芳姐保健汤
     type: rss
     url: https://www.healthy-food.hk/?feed=rss2
     webhook: rss
