@@ -21,7 +21,9 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+
+    # ⭐ 全局超时（防卡死）
+    timeout-minutes: 6
 
     steps:
       # 1️⃣ 拉代码
@@ -31,45 +33,51 @@ jobs:
           token: ${{ secrets.ACTIONS_TOKEN }}
           fetch-depth: 0
 
-      # 2️⃣ Python
+      # 2️⃣ 设置时区（关键新增）
+      - name: Set timezone
+        run: |
+          sudo timedatectl set-timezone Asia/Shanghai
+          date
+
+      # 3️⃣ Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      # 3️⃣ 缓存 pip
+      # 4️⃣ 缓存 pip
       - name: Cache pip
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: pip-${{ runner.os }}-v2   # ⭐ 改 key，避免旧缓存污染
+          key: pip-${{ runner.os }}-v3   # ⭐ 再升级缓存key
           restore-keys: |
             pip-${{ runner.os }}
 
-      # 4️⃣ 安装依赖（关键修复点）
+      # 5️⃣ 安装依赖
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
           python -m pip install requests pyyaml beautifulsoup4 lxml feedparser
 
-      # 5️⃣ 验证依赖（防止再次踩坑）
+      # 6️⃣ 验证依赖
       - name: Verify deps
         run: |
           python -c "import yaml, bs4, lxml, feedparser; print('deps ok')"
 
-      # 6️⃣ 初始化 data.json
+      # 7️⃣ 初始化 data.json
       - name: Init state file
         run: |
           if [ ! -f data.json ]; then
             echo "{}" > data.json
           fi
 
-      # 7️⃣ 执行脚本（带重试）
+      # 8️⃣ 执行脚本（增强重试 + 超时保护）
       - name: Run script
         run: |
-          python check.py || (echo "retry..." && sleep 5 && python check.py)
+          timeout 300 python check.py || (echo "retry..." && sleep 5 && timeout 300 python check.py)
 
-      # 8️⃣ 提交状态（增强稳定性）
+      # 9️⃣ 提交状态（增强稳定性）
       - name: Commit state
         run: |
           git config --global user.name "github-actions[bot]"
@@ -85,6 +93,6 @@ jobs:
 
           git commit -m "update state"
 
-          # ⭐ 防冲突推送
-          git pull --rebase origin ${{ github.ref_name }}
-          git push origin HEAD:${{ github.ref_name }}
+          # ⭐ 防冲突推送（更稳）
+          git pull --rebase origin ${{ github.ref_name }} || true
+          git push origin HEAD:${{ github.ref_name }} || echo "push failed, skip"
