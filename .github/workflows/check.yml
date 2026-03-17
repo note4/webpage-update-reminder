@@ -12,6 +12,10 @@ on:
       - "check.py"
       - "config.yml"
       - ".github/workflows/**"
+    
+  # ⭐ 保活触发（关键）
+  repository_dispatch:
+    types: [keepalive]
 
 # ✅ 防止并发冲突
 concurrency:
