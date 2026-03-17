@@ -1,26 +1,31 @@
+webhooks:
+  rss: https://open.feishu.cn/open-apis/bot/v2/hook/f918cda7-c0dc-4039-b7b9-5ae1ed036f50
+  webpage: https://open.feishu.cn/open-apis/bot/v2/hook/9d8ce6c5-f99e-4ee8-8fdc-c112d1fbf06b
+  noname_1: https://open.feishu.cn/open-apis/bot/v2/hook/4d0f2691-aac8-40d0-87c1-53aee6110c1d
+
 tasks:
   - name: 长沙地铁
     type: html
     url: https://www.hncsmtr.com/909/932/index.htm
     html:
       container: '<ul.*?list.*?>(.*?)</ul>'
-      item: '<a.*?href="(.*?)".*?>(.*?)</a>'
-    webhook: https://open.feishu.cn/open-apis/bot/v2/hook/f918cda7-c0dc-4039-b7b9-5ae1ed036f50
+      item: '<li>.*?<a.*?href="(.*?)".*?>(.*?)</a>.*?<span.*?>(.*?)</span>.*?</li>'
+    webhook: webpage
 
   - name: 月光博客
     type: html
     url: https://www.williamlong.info/
     html:
       container: ""   # 可为空（表示整页）
-      item: '<h2.*?><a href="(.*?)".*?>(.*?)</a>'
-    webhook: https://open.feishu.cn/open-apis/bot/v2/hook/9d8ce6c5-f99e-4ee8-8fdc-c112d1fbf06b
+      item: '<h2.*?><a href="(.*?)".*?>(.*?)</a>.*?<span class="date">(.*?)</span>'
+    webhook: webpage
 
   - name: 月光博客
     type: rss
     url: https://www.williamlong.info/rss.xml
-    webhook: https://open.feishu.cn/open-apis/bot/v2/hook/9d8ce6c5-f99e-4ee8-8fdc-c112d1fbf06b
+    webhook: rss
 
   - name: 芳姐保健湯餸
     type: rss
     url: https://www.healthy-food.hk/?feed=rss2
-    webhook: https://open.feishu.cn/open-apis/bot/v2/hook/4d0f2691-aac8-40d0-87c1-53aee6110c1d
+    webhook: rss
