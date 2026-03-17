@@ -1,9 +1,12 @@
 name: webpage-update-reminder
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule:
-    - cron: "*/10 * * * *"   # 每10分钟
-  workflow_dispatch:        # 支持手动触发
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
 
 jobs:
   check:
@@ -11,10 +14,12 @@ jobs:
 
     steps:
       - name: 拉代码
-        uses: actions/checkout@v4   # 更新为最新版本
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ACTIONS_TOKEN }}   # ⭐ 用你的token checkout
 
       - name: 安装Python
-        uses: actions/setup-python@v5  # 更新为最新版本
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
@@ -26,9 +31,8 @@ jobs:
 
       - name: 提交状态
         run: |
-          git config --global user.name "bot"
-          git config --global user.email "bot@example.com"
-          git remote set-url origin https://x-token-auth:${{ secrets.ACTIONS_TOKEN }}@github.com/your-user/your-repo.git  # 使用 GitHub Token
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git commit -m "update state" || echo "no change"
+          git commit -m "update state" || exit 0
           git push
