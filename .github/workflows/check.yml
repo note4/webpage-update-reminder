@@ -10,8 +10,8 @@ on:
   push:
     paths:
       - "check.py"
-      - "config.yml"
-      - ".github/workflows/**"
+      - "config_check.yml"
+      - ".github/workflows/check.yml"
     
   # ⭐ 保活触发（关键）
   repository_dispatch:
