@@ -9,7 +9,7 @@ STATE_FILE = "data.json"
 # 基础
 # ======================
 def load_yaml():
-    return yaml.safe_load(open("config.yml", encoding="utf-8"))
+    return yaml.safe_load(open("config_check.yml", encoding="utf-8"))
 
 def load_state():
     if not os.path.exists(STATE_FILE):
