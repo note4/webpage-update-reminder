@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '*/10 * * * *'
   workflow_dispatch:
+  push:
+    paths:
+      - "monitor.py"
+      - "config_monitor.yml"
+      - ".github/workflows/monitor.yml"
 
 permissions:
   contents: write

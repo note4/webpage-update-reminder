@@ -6,7 +6,7 @@ import json
 import os
 
 # 配置常量
-CONFIG_FILE = 'config.yaml'
+CONFIG_FILE = 'config_monitor.yaml'
 DATA_DIR = '_sitedata'
 
 # 确保数据目录存在
