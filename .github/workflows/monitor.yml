@@ -32,7 +32,7 @@ jobs:
 
       - name: Run Monitor Script
         env:
-          FEISHU_RSS_HOOK: ${{ secrets.FEISHU_RSS_HOOK }}
+          FEISHU_HOOK_RSS: ${{ secrets.FEISHU_HOOK_RSS }}
           FEISHU_HOOK_WEBPAGE: ${{ secrets.FEISHU_HOOK_WEBPAGE }}
         run: python monitor.py
 

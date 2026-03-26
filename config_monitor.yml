@@ -4,7 +4,7 @@
 #   noname_1: https://open.feishu.cn/open-apis/bot/v2/hook/4d0f2691-aac8-40d0-87c1-53aee6110c1d
 
 webhooks:
-  rss: FEISHU_RSS_HOOK
+  rss: FEISHU_HOOK_RSS
   webpage: FEISHU_HOOK_WEBPAGE
 
 tasks:
