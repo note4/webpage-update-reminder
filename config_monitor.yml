@@ -1,0 +1,41 @@
+# webhooks:
+#   rss: https://open.feishu.cn/open-apis/bot/v2/hook/f918cda7-c0dc-4039-b7b9-5ae1ed036f50
+#   webpage: https://open.feishu.cn/open-apis/bot/v2/hook/9d8ce6c5-f99e-4ee8-8fdc-c112d1fbf06b
+#   noname_1: https://open.feishu.cn/open-apis/bot/v2/hook/4d0f2691-aac8-40d0-87c1-53aee6110c1d
+
+webhooks:
+  rss: FEISHU_RSS_HOOK
+  webpage: FEISHU_HOOK_WEBPAGE
+
+tasks:
+  - name: 长沙地铁
+    type: html
+    url: https://www.hncsmtr.com/909/932/index.htm
+    webhook: webpage
+    parser: changsha
+    force_encoding: gb18030
+
+  - name: 铁路招聘信息
+    type: html
+    url: https://rczp.china-railway.com.cn/page/recruitment/rec_info.html
+    webhook: webpage
+    parser: changsha
+    force_encoding: gb18030
+
+  - name: 艰难地学习写博客
+    type: html
+    url: https://learncodethehardway.com/blog/
+    webhook: webpage
+    parser: auto
+
+  - name: 月光博客RSS
+    type: rss
+    url: https://www.williamlong.info/rss.xml
+    webhook: rss
+    parser: auto
+
+  - name: 芳姐保健汤
+    type: rss
+    url: https://www.healthy-food.hk/?feed=rss2
+    webhook: rss
+    parser: auto

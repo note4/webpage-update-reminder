@@ -1,0 +1,41 @@
+name: Site Monitor Bot
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pyyaml feedparser
+
+      - name: Run Monitor Script
+        env:
+          FEISHU_RSS_HOOK: ${{ secrets.FEISHU_RSS_HOOK }}
+          FEISHU_HOOK_WEBPAGE: ${{ secrets.FEISHU_HOOK_WEBPAGE }}
+        run: python monitor.py
+
+      - name: Auto Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # 添加 _sitedata 目录下的所有 json 文件
+          git add _sitedata/*.json
+          git commit -m "chore: update site data" || exit 0
+          git push
