@@ -6,9 +6,11 @@ on:
   workflow_dispatch:
   push:
     paths:
+      - "index.html"
       - "monitor.py"
       - "config_monitor.yml"
       - ".github/workflows/monitor.yml"
+      - "_datea/**"
 
 permissions:
   contents: write
@@ -27,8 +29,7 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run Monitor Script
         env:
@@ -40,7 +41,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # 添加 _sitedata 目录下的所有 json 文件
-          git add _sitedata/*.json
-          git commit -m "chore: update site data" || exit 0
+          
+          git add _data/sitedata/*.json
+          git commit -m "chore: update logs $(date +'%Y-%m-%d %H:%M')" || exit 0
           git push

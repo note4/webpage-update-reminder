@@ -1,0 +1,33 @@
+---
+layout: 
+title: 站点监控面板
+---
+
+# 实时监控看板
+
+<div class="monitor-grid">
+{% for site_data in site.data.sitedata %}
+  {% assign site_name = site_data[0] %}
+  {% assign records = site_data[1] %}
+  
+  <div class="site-card">
+    <h2>{{ site_name }}</h2>
+    <ul class="history-list">
+      {% for item in records %}
+        <li>
+          <span class="time">[{{ item.date }}]</span>
+          <a href="{{ item.link }}" target="_blank">{{ item.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endfor %}
+</div>
+
+<style>
+  .monitor-grid { display: grid; gap: 20px; }
+  .site-card { border: 1px solid #eee; padding: 15px; border-radius: 8px; }
+  .history-list { list-style: none; padding-left: 0; }
+  .history-list li { margin-bottom: 8px; font-size: 0.9em; }
+  .time { color: #888; margin-right: 10px; font-family: monospace; }
+</style>
