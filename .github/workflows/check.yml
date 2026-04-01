@@ -10,7 +10,7 @@ on:
   push:
     paths:
       - "check.py"
-      - "config_check.yml"
+      - "_config.check.yml"
       - ".github/workflows/check.yml"
     
   # ⭐ 保活触发（关键）
