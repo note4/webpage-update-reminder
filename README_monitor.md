@@ -71,3 +71,9 @@ pip3 list
 
 ```
 
+
+## Run the homepage locally
+
+```bash
+bundle exec jekyll serve
+```
