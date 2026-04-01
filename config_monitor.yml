@@ -8,26 +8,6 @@ webhooks:
   webpage: FEISHU_HOOK_WEBPAGE
 
 tasks:
-  - name: 长沙地铁
-    type: html
-    url: https://www.hncsmtr.com/909/932/index.htm
-    webhook: webpage
-    parser: changsha
-    force_encoding: gb18030
-
-  - name: 铁路招聘信息
-    type: html
-    url: https://rczp.china-railway.com.cn/page/recruitment/rec_info.html
-    webhook: webpage
-    parser: changsha
-    force_encoding: gb18030
-
-  - name: 艰难地学习写博客
-    type: html
-    url: https://learncodethehardway.com/blog/
-    webhook: webpage
-    parser: auto
-
   - name: 月光博客RSS
     type: rss
     url: https://www.williamlong.info/rss.xml
@@ -39,3 +19,26 @@ tasks:
     url: https://www.healthy-food.hk/?feed=rss2
     webhook: rss
     parser: auto
+
+  - name: 艰难地学习写博客
+    type: html
+    url: https://learncodethehardway.com/blog/
+    webhook: webpage
+    selector: "posts > tile:nth-child(2) > middle > h2 > a" # 需根据实际DOM调整
+    parser: auto
+    
+  - name: 长沙地铁
+    type: html
+    url: https://www.hncsmtr.com/909/932/index.htm
+    webhook: webpage
+    parser: changsha
+    selector: ".list_right .datedesc a .list_scontent"
+    force_encoding: gb18030
+
+  - name: 铁路招聘信息
+    type: html
+    url: https://rczp.china-railway.com.cn/page/recruitment/rec_info.html
+    webhook: webpage
+    parser: changsha
+    selector: ".rec_table tr td a"
+    force_encoding: gb18030
