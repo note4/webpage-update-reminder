@@ -1,17 +1,17 @@
 ---
-layout: 
-title: 站点监控面板
+layout: default 
+title: 监控看板
 ---
 
-# 实时监控看板
+<h2>实时监控看板</h2>
 
 <div class="monitor-grid">
-{% for site_data in site.data.sitedata %}
-  {% assign site_name = site_data[0] %}
-  {% assign records = site_data[1] %}
+{% for file_entry in site.data.sitedata %}
+  {% assign task_name = file_entry[0] %}
+  {% assign records = file_entry[1] %}
   
   <div class="site-card">
-    <h2>{{ site_name }}</h2>
+    <h3>{{ task_name }}</h3>
     <ul class="history-list">
       {% for item in records %}
         <li>
@@ -25,9 +25,12 @@ title: 站点监控面板
 </div>
 
 <style>
-  .monitor-grid { display: grid; gap: 20px; }
-  .site-card { border: 1px solid #eee; padding: 15px; border-radius: 8px; }
-  .history-list { list-style: none; padding-left: 0; }
-  .history-list li { margin-bottom: 8px; font-size: 0.9em; }
-  .time { color: #888; margin-right: 10px; font-family: monospace; }
+  .monitor-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+  .site-card { border: 1px solid #e1e4e8; padding: 15px; border-radius: 10px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+  .history-list { list-style: none; padding-left: 0; margin-top: 10px; }
+  .history-list li { margin-bottom: 10px; padding-bottom: 5px; border-bottom: 1px dashed #eee; font-size: 14px; }
+  .history-list li:last-child { border-bottom: none; }
+  .time { color: #6a737d; margin-right: 8px; font-family: "SFMono-Regular", Consolas, monospace; font-size: 12px; }
+  .history-list a { color: #0366d6; text-decoration: none; font-weight: 500; }
+  .history-list a:hover { text-decoration: underline; }
 </style>
