@@ -1,152 +1,157 @@
 import yaml
 import requests
 import feedparser
-import hashlib
 import json
 import os
 import re
+import hashlib
 from datetime import datetime
+import pytz
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+from googletrans import Translator
+from email.utils import parsedate_to_datetime
 
-# 路徑鎖定為 _data/sitedata
-CONFIG_FILE = 'config_monitor.yml'
+# 配置常量
+CONFIG_FILE = '_config.monitor.yml'
 DATA_DIR = '_data/sitedata' 
 MAX_HISTORY = 10 
+TZ_SHANGHAI = pytz.timezone('Asia/Shanghai')
+
+translator = Translator(service_urls=['translate.google.com', 'translate.google.cn'])
 
 if not os.path.exists(DATA_DIR):
     os.makedirs(DATA_DIR)
 
-# 加載配置文件
 with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
     config = yaml.safe_load(f)
 
-def is_all_eng(text):
-    """判斷是否為純英文標題"""
-    return all(ord(c) < 128 for c in text) and any(c.isalpha() for c in text)
+def format_date_str(date_input):
+    """统一时间格式"""
+    if not date_input or date_input == "未知时间":
+        return datetime.now(TZ_SHANGHAI).strftime("%Y-%m-%d")
+    try:
+        dt = parsedate_to_datetime(date_input)
+        return dt.astimezone(TZ_SHANGHAI).strftime("%Y-%m-%d %H:%M:%S")
+    except:
+        pass
+    try:
+        clean_date = re.sub(r'Published|at|on', '', date_input, flags=re.I).strip()
+        for fmt in ("%b %d, %Y", "%B %d, %Y", "%Y-%m-%d"):
+            try:
+                dt = datetime.strptime(clean_date, fmt)
+                return dt.strftime("%Y-%m-%d")
+            except:
+                continue
+    except:
+        pass
+    return datetime.now(TZ_SHANGHAI).strftime("%Y-%m-%d")
 
-def translate_mock(text):
-    """
-    由於 googletrans 在 GitHub Actions 或本地易超時導致腳本卡死，
-    建議僅在標題後標註 (English)。如需真翻譯，請確保環境可訪問 Google。
-    """
-    if is_all_eng(text):
-        return f"[英] {text}"
+def translate_if_needed(text):
+    """翻译纯英文标题"""
+    if not text: return text
+    has_alpha = any(c.isalpha() for c in text)
+    has_chinese = any('\u4e00' <= c <= '\u9fff' for c in text)
+    if has_alpha and not has_chinese:
+        try:
+            result = translator.translate(text, dest='zh-cn')
+            if result and result.text:
+                return f"{result.text} ({text})"
+        except:
+            return f"[英] {text}"
     return text
 
-def send_feishu(webhook_url, title, link):
-    """發送飛書卡片消息"""
-    data = {
-        "msg_type": "post",
-        "content": {
-            "post": {
-                "zh_cn": {
-                    "title": "📢 更新通知",
-                    "content": [
-                        [{"tag": "text", "text": f"{title}\n"}],
-                        [{"tag": "a", "text": "點擊查看原文", "href": link}]
-                    ]
-                }
-            }
-        }
-    }
+def send_feishu_batch(webhook_url, site_name, new_items):
+    """发送格式：标题 (时间)"""
+    if not new_items: return
+    post_content = []
+    for item in new_items:
+        post_content.append([
+            {"tag": "a", "text": f"{item['title']}", "href": item['link']},
+            {"tag": "text", "text": f" ({item['date']})\n"}
+        ])
+    data = {"msg_type": "post", "content": {"post": {"zh_cn": {"title": site_name, "content": post_content}}}}
     try:
-        r = requests.post(webhook_url, json=data, timeout=10)
-        r.raise_for_status()
+        requests.post(webhook_url, json=data, timeout=15).raise_for_status()
     except Exception as e:
-        print(f"發送飛書失敗: {e}")
+        print(f"❌ {site_name} 推送失败: {e}")
 
-def get_history(task_name):
-    """讀取該站點的歷史記錄列表"""
-    file_path = os.path.join(DATA_DIR, f"{task_name}.json")
+def get_storage_path(url):
+    """优化 1：使用 URL 的 MD5 作为文件名避免冲突"""
+    file_name = hashlib.md5(url.encode('utf-8')).hexdigest()
+    return os.path.join(DATA_DIR, f"{file_name}.json")
+
+def get_history(url):
+    file_path = get_storage_path(url)
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
-            try:
-                data = json.load(f)
-                return data if isinstance(data, list) else []
+            try: return json.load(f)
             except: return []
     return []
 
-def save_history(task_name, history_list):
-    """保存更新後的歷史記錄列表"""
-    file_path = os.path.join(DATA_DIR, f"{task_name}.json")
+def save_history(url, history_list):
+    file_path = get_storage_path(url)
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(history_list, f, ensure_ascii=False, indent=2)
 
+# 执行任务
 for task in config['tasks']:
-    name = task['name']
-    url = task['url']
-    env_name = config['webhooks'].get(task['webhook'])
-    webhook_url = os.environ.get(env_name) if env_name else None
-    
-    if not webhook_url:
-        print(f"⚠️ 任務 [{name}] 跳過：未找到環境變量 {env_name}")
-        continue
+    name, url = task['name'], task['url']
+    webhook_url = os.environ.get(config['webhooks'].get(task['webhook']))
+    if not webhook_url: continue
 
-    print(f"正在檢查: {name}")
+    print(f"🔍 检查中: {name}")
     try:
         current_list = []
         if task['type'] == 'rss':
-            # RSS 抓取前 10 條
             feed = feedparser.parse(url)
             for item in feed.entries[:MAX_HISTORY]:
-                title = translate_mock(item.title)
                 current_list.append({
-                    "sign": item.get('id', item.link),
-                    "title": title,
                     "link": item.link,
-                    "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                    "title": translate_if_needed(item.title),
+                    "date": format_date_str(item.get('published', item.get('updated', '')))
                 })
         else:
-            # HTML 監測邏輯
-            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-            resp = requests.get(url, timeout=20, headers=headers)
+            resp = requests.get(url, timeout=30, headers={'User-Agent': 'Mozilla/5.0'})
             resp.encoding = task.get('force_encoding', 'utf-8')
             soup = BeautifulSoup(resp.text, 'html.parser')
             
-            selector = task.get('selector')
-            if selector:
-                # 獲取匹配選擇器的前 10 個節點
-                elements = soup.select(selector)[:MAX_HISTORY]
-                for el in elements:
-                    # 關鍵修復：僅提取當前標籤內的直接文本，過濾子標籤（描述）
-                    raw_title = el.find(text=True, recursive=False) or el.get_text(strip=True)
-                    raw_title = raw_title.strip()
-                    
-                    # 處理長標題或混入描述的情況（截斷）
-                    if len(raw_title) > 100: raw_title = raw_title[:100] + "..."
-                    
-                    title = translate_mock(raw_title)
-                    link = urljoin(url, el['href']) if el.name == 'a' and el.get('href') else url
-                    
-                    current_list.append({
-                        "sign": hashlib.md5((raw_title + link).encode('utf-8')).hexdigest(),
-                        "title": title,
-                        "link": link,
-                        "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                    })
+            elements = soup.select(task.get('selector'))[:MAX_HISTORY]
+            for el in elements:
+                # 优化 2：修复 hckr news 标题抓取错误
+                # 优先寻找 class="link" 的 a 标签（hckr news 特征）
+                link_el = el.select_one('a.link') or el.select_one('h2 a') or el.select_one('a')
+                if not link_el: continue
+                
+                # 移除 source 标签内容（如 "(ccunpacked.dev)"），仅保留标题文字
+                source_tag = link_el.select_one('.source')
+                if source_tag: source_tag.decompose() 
+                
+                raw_title = link_el.get_text(strip=True)
+                link = urljoin(url, link_el.get('href', ''))
+                
+                # 日期提取逻辑
+                date_el = el.select_one('info b') or el.find(string=re.compile(r'[a-zA-Z]+ \d+, \d{4}'))
+                raw_date = date_el.get_text(strip=True) if hasattr(date_el, 'get_text') else str(date_el)
 
-        if not current_list:
-            print(f"❓ {name} 未抓取到內容，請檢查選擇器")
-            continue
+                current_list.append({
+                    "link": link,
+                    "title": translate_if_needed(raw_title),
+                    "date": format_date_str(raw_date)
+                })
 
-        # 讀取歷史數據
-        old_history = get_history(name)
-        old_top_sign = old_history[0]['sign'] if old_history else None
-        new_top_sign = current_list[0]['sign']
+        if not current_list: continue
 
-        # 變動判斷：僅當最新一條發生變化時觸發通知，但更新全部 10 條數據
-        if old_top_sign != new_top_sign:
-            if old_top_sign is not None:
-                print(f"🚀 {name} 檢測到新內容，發送通知")
-                send_feishu(webhook_url, current_list[0]['title'], current_list[0]['link'])
-            else:
-                print(f"📝 {name} 初始數據已存入")
-            
-            # 保存最新的 10 條數據到 JSON
-            save_history(name, current_list)
+        old_history = get_history(url)
+        old_links = {h['link'] for h in old_history}
+        new_items = [item for item in current_list if item['link'] not in old_links]
+
+        if new_items:
+            send_feishu_batch(webhook_url, name, new_items)
+            save_history(url, current_list)
+            print(f"🚀 {name} 已发送 {len(new_items)} 条通知")
         else:
-            print(f"✅ {name} 無變化")
+            print(f"✅ {name} 无新内容")
 
     except Exception as e:
-        print(f"❌ 任務 {name} 運行失敗: {e}")
+        print(f"❌ {name} 任务失败: {e}")

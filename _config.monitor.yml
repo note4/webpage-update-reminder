@@ -8,15 +8,27 @@ webhooks:
   webpage: FEISHU_HOOK_WEBPAGE
 
 tasks:
-  - name: 月光博客RSS
+  - name: 月光博客 RSS
     type: rss
     url: https://www.williamlong.info/rss.xml
     webhook: rss
     parser: auto
 
-  - name: 芳姐保健汤
+  - name: 芳姐保健汤 RSS
     type: rss
     url: https://www.healthy-food.hk/?feed=rss2
+    webhook: rss
+    parser: auto
+
+  - name: Google台灣官方部落格 RSS
+    type: rss
+    url: https://blog.google/intl/zh-tw/rss/
+    webhook: rss
+    parser: auto
+
+  - name: Google The Keyword RSS
+    type: rss
+    url: https://blog.google/rss/
     webhook: rss
     parser: auto
 
@@ -24,9 +36,16 @@ tasks:
     type: html
     url: https://learncodethehardway.com/blog/
     webhook: webpage
-    selector: "posts > tile:nth-child(2) > middle > h2 > a" # 需根据实际DOM调整
+    selector: "posts  middle"
     parser: auto
     
+  - name: hckr news
+    type: html
+    url: https://hckrnews.com/
+    webhook: webpage
+    selector: "#entries li.entry"
+    parser: auto
+
   - name: 长沙地铁
     type: html
     url: https://www.hncsmtr.com/909/932/index.htm
