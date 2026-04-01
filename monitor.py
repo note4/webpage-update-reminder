@@ -111,22 +111,52 @@ for task in config['tasks']:
             
             elements = soup.select(task.get('selector'))[:MAX_HISTORY]
             for el in elements:
+                # 1. 查找 a 標籤
                 link_el = el.select_one('a.link') or el.select_one('h2 a') or el.select_one('a')
                 if not link_el: continue
                 
-                source_tag = link_el.select_one('.source')
-                if source_tag: source_tag.decompose() 
-                
-                raw_title = link_el.get_text(strip=True)
+                # 2. 提取鏈接
                 link = urljoin(url, link_el.get('href', ''))
                 
-                date_el = el.select_one('info b') or el.find(string=re.compile(r'[a-zA-Z]+ \d+, \d{4}'))
-                raw_date = date_el.get_text(strip=True) if hasattr(date_el, 'get_text') else str(date_el)
+                # 3. 提取標題 [兼容性修復]
+                # 策略：優先取 title 屬性 -> 其次取內部的 h2 -> 最後取 a 標籤的純文本（排除摘要）
+                raw_title = link_el.get('title', '').strip()
+                
+                if not raw_title:
+                    h2_el = link_el.select_one('h2')
+                    if h2_el:
+                        raw_title = h2_el.get_text(strip=True)
+                    else:
+                        # 複製節點以剔除干擾標籤（如長沙地鐵的 em 摘要或 i 標籤）
+                        temp_el = BeautifulSoup(str(link_el), 'html.parser').a
+                        for noise in temp_el.select('.list_scontent, .source, em, i'):
+                            noise.decompose()
+                        raw_title = temp_el.get_text(strip=True)
+
+                if not raw_title:
+                    raw_title = "無標題"
+
+                # 4. 提取日期 [兼容性修復]
+                day_el = el.select_one('.listday')
+                year_month_el = el.select_one('.listyear')
+                
+                if day_el and year_month_el:
+                    # 針對長沙地鐵的拼接邏輯
+                    date_str = f"{year_month_el.get_text(strip=True)}-{day_el.get_text(strip=True)}"
+                else:
+                    # 通用日期提取：尋找符合日期格式的標籤或文本
+                    date_el = el.select_one('.date, .time, span[class*="date"]')
+                    if date_el:
+                        date_str = date_el.get_text(strip=True)
+                    else:
+                        # 正則匹配文本中的日期
+                        date_search = el.find(string=re.compile(r'\d{4}[-/]\d{2}[-/]\d{2}'))
+                        date_str = str(date_search) if date_search else ""
 
                 current_list.append({
                     "link": link,
                     "title": translate_if_needed(raw_title),
-                    "date": format_date_str(raw_date)
+                    "date": format_date_str(date_str)
                 })
 
         if not current_list: continue
