@@ -8,7 +8,7 @@ on:
     paths:
       - "index.html"
       - "monitor.py"
-      - "config_monitor.yml"
+      - "_config.monitor.yml"
       - ".github/workflows/monitor.yml"
       - "_datea/**"
 

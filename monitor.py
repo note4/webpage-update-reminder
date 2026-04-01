@@ -4,7 +4,6 @@ import feedparser
 import json
 import os
 import re
-import hashlib
 from datetime import datetime
 import pytz
 from bs4 import BeautifulSoup
@@ -12,7 +11,7 @@ from urllib.parse import urljoin
 from googletrans import Translator
 from email.utils import parsedate_to_datetime
 
-# 配置常量
+# 配置文件名锁定
 CONFIG_FILE = '_config.monitor.yml'
 DATA_DIR = '_data/sitedata' 
 MAX_HISTORY = 10 
@@ -62,7 +61,7 @@ def translate_if_needed(text):
     return text
 
 def send_feishu_batch(webhook_url, site_name, new_items):
-    """发送格式：标题 (时间)"""
+    """发送飞书通知"""
     if not new_items: return
     post_content = []
     for item in new_items:
@@ -76,31 +75,25 @@ def send_feishu_batch(webhook_url, site_name, new_items):
     except Exception as e:
         print(f"❌ {site_name} 推送失败: {e}")
 
-def get_storage_path(url):
-    """优化 1：使用 URL 的 MD5 作为文件名避免冲突"""
-    file_name = hashlib.md5(url.encode('utf-8')).hexdigest()
-    return os.path.join(DATA_DIR, f"{file_name}.json")
-
-def get_history(url):
-    file_path = get_storage_path(url)
-    if os.path.exists(file_path):
-        with open(file_path, 'r', encoding='utf-8') as f:
-            try: return json.load(f)
-            except: return []
-    return []
-
-def save_history(url, history_list):
-    file_path = get_storage_path(url)
-    with open(file_path, 'w', encoding='utf-8') as f:
-        json.dump(history_list, f, ensure_ascii=False, indent=2)
+def get_storage_path(slug):
+    """使用 slug 确定存储路径"""
+    return os.path.join(DATA_DIR, f"{slug}.json")
 
 # 执行任务
 for task in config['tasks']:
-    name, url = task['name'], task['url']
+    name = task['name']
+    url = task['url']
+    slug = task.get('slug') # 替换 dataname 为 slug
+    
+    # 强制要求配置 slug，否则跳过，防止乱生成文件名
+    if not slug:
+        print(f"⚠️ 跳过任务 [{name}]: 未在配置文件中指定 slug。")
+        continue
+
     webhook_url = os.environ.get(config['webhooks'].get(task['webhook']))
     if not webhook_url: continue
 
-    print(f"🔍 检查中: {name}")
+    print(f"🔍 检查中: {name} (Slug: {slug})")
     try:
         current_list = []
         if task['type'] == 'rss':
@@ -118,19 +111,15 @@ for task in config['tasks']:
             
             elements = soup.select(task.get('selector'))[:MAX_HISTORY]
             for el in elements:
-                # 优化 2：修复 hckr news 标题抓取错误
-                # 优先寻找 class="link" 的 a 标签（hckr news 特征）
                 link_el = el.select_one('a.link') or el.select_one('h2 a') or el.select_one('a')
                 if not link_el: continue
                 
-                # 移除 source 标签内容（如 "(ccunpacked.dev)"），仅保留标题文字
                 source_tag = link_el.select_one('.source')
                 if source_tag: source_tag.decompose() 
                 
                 raw_title = link_el.get_text(strip=True)
                 link = urljoin(url, link_el.get('href', ''))
                 
-                # 日期提取逻辑
                 date_el = el.select_one('info b') or el.find(string=re.compile(r'[a-zA-Z]+ \d+, \d{4}'))
                 raw_date = date_el.get_text(strip=True) if hasattr(date_el, 'get_text') else str(date_el)
 
@@ -142,14 +131,24 @@ for task in config['tasks']:
 
         if not current_list: continue
 
-        old_history = get_history(url)
-        old_links = {h['link'] for h in old_history}
+        # 基于 slug 获取历史记录
+        file_path = get_storage_path(slug)
+        old_links = set()
+        if os.path.exists(file_path):
+            with open(file_path, 'r', encoding='utf-8') as f:
+                try:
+                    old_data = json.load(f)
+                    old_links = {h['link'] for h in old_data}
+                except: pass
+
         new_items = [item for item in current_list if item['link'] not in old_links]
 
         if new_items:
             send_feishu_batch(webhook_url, name, new_items)
-            save_history(url, current_list)
-            print(f"🚀 {name} 已发送 {len(new_items)} 条通知")
+            # 保存新记录
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(current_list, f, ensure_ascii=False, indent=2)
+            print(f"🚀 {name} 已更新 -> {slug}.json")
         else:
             print(f"✅ {name} 无新内容")
 

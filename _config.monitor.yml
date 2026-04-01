@@ -9,30 +9,35 @@ webhooks:
 
 tasks:
   - name: 月光博客 RSS
+    slug: williamlong.info
     type: rss
     url: https://www.williamlong.info/rss.xml
     webhook: rss
     parser: auto
 
   - name: 芳姐保健汤 RSS
+    slug: healthy-food.hk
     type: rss
     url: https://www.healthy-food.hk/?feed=rss2
     webhook: rss
     parser: auto
 
   - name: Google台灣官方部落格 RSS
+    slug: google_blog_tw
     type: rss
     url: https://blog.google/intl/zh-tw/rss/
     webhook: rss
     parser: auto
 
   - name: Google The Keyword RSS
+    slug: blog.google
     type: rss
     url: https://blog.google/rss/
     webhook: rss
     parser: auto
 
   - name: 艰难地学习写博客
+    slug: learncodethehardway.com
     type: html
     url: https://learncodethehardway.com/blog/
     webhook: webpage
@@ -40,6 +45,7 @@ tasks:
     parser: auto
     
   - name: hckr news
+    slug: hckrnews.com
     type: html
     url: https://hckrnews.com/
     webhook: webpage
@@ -47,6 +53,7 @@ tasks:
     parser: auto
 
   - name: 长沙地铁
+    slug: hncsmtr.com_zhaopin
     type: html
     url: https://www.hncsmtr.com/909/932/index.htm
     webhook: webpage
@@ -55,6 +62,7 @@ tasks:
     force_encoding: gb18030
 
   - name: 铁路招聘信息
+    slug: /rczp.china-railway.com.cn_zhaopin
     type: html
     url: https://rczp.china-railway.com.cn/page/recruitment/rec_info.html
     webhook: webpage
