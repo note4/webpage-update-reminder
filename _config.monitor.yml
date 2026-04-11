@@ -31,7 +31,7 @@ tasks:
     webhook: rss
     parser: auto
 
-  - name: 艰难地学习写博客
+  - name: 关关难过关关过
     slug: learncodethehardway.com
     type: html
     url: https://learncodethehardway.com/blog/
