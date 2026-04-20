@@ -76,8 +76,10 @@ def send_feishu_batch(webhook_url, site_name, new_items):
         print(f"❌ {site_name} 推送失败: {e}")
 
 def get_storage_path(slug):
-    """使用 slug 确定存储路径"""
-    return os.path.join(DATA_DIR, f"{slug}.json")
+    """使用 slug 确定存储路径，並清理路徑字符"""
+    # 清理 slug 中可能存在的斜槓，防止路徑遍歷或權限錯誤
+    safe_slug = slug.strip('/').replace('/', '_').replace('\\', '_')
+    return os.path.join(DATA_DIR, f"{safe_slug}.json")
 
 # 执行任务
 for task in config['tasks']:

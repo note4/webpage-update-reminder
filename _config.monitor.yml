@@ -57,7 +57,7 @@ tasks:
     force_encoding: gb18030
 
   - name: 铁路招聘信息
-    slug: /rczp.china-railway.com.cn_zhaopin
+    slug: rczp.china-railway.com.cn_zhaopin
     type: html
     url: https://rczp.china-railway.com.cn/page/recruitment/rec_info.html
     webhook: webpage
