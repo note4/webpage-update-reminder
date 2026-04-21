@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://github.com/itsmeadarsh2008/backlit-kbd",
+    "title": "[英] Show HN: Backlit Keyboard API for Python",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://claude.com/pricing",
+    "title": "[英] Claude Code removed from Anthropic's Pro plan",
+    "date": "2026-04-22"
+  },
+  {
     "link": "https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376",
     "title": "[英] California has more money than projected after admin miscalculated state budget",
     "date": "2026-04-22"
@@ -37,16 +47,6 @@
   {
     "link": "https://openai.com/live/",
     "title": "[英] OpenAI Livestream: ChatGPT Images 2.0",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://neugierig.org/software/blog/2026/04/theseus.html",
-    "title": "[英] Theseus, a Static Windows Emulator",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://github.com/Arc1011/KernelUNO",
-    "title": "[英] Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)",
     "date": "2026-04-22"
   }
 ]
