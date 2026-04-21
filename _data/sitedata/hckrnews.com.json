@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://binaryigor.com/modern-frontend-complexity.html",
+    "title": "[英] Modern Front end Complexity: essential or accidental?",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://cheesemap.netlify.app/",
+    "title": "[英] A Periodic Map of Cheese",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+    "title": "[英] The Vercel breach: OAuth attack exposes risk in platform environment variables",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
+    "title": "[英] Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://github.com/dchu917/ctx",
+    "title": "[英] Show HN: Ctx – a /resume that works across Claude Code and Codex",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://thepointmag.com/criticism/a-history-of-erasures/",
+    "title": "[英] A History of Erasures Learning to Write Like Leylâ Erbil",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://mattstromawn.com/writing/expansion-artifacts/",
+    "title": "[英] Expansion Artifacts",
+    "date": "2026-04-22"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=47824738",
     "title": "[英] Recommended GPU Repairshop in Europe (Germany)",
     "date": "2026-04-22"
@@ -12,41 +47,6 @@
   {
     "link": "https://phys.org/news/2026-04-colorado-river-geological-million-years.html",
     "title": "[英] Colorado River disappeared record for 5M years: now we know where it was",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://github.com/Yus314/kasane",
-    "title": "[英] Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://clojure.org/reference/transducers",
-    "title": "[英] Clojure: Transducers",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47849131",
-    "title": "[英] undefined",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker",
-    "title": "[英] Original GrapheneOS responses to WIRED fact checker",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose",
-    "title": "[英] Your favorite brands got worse on purpose",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.wired.com/story/ai-generated-maga-girls/",
-    "title": "[英] Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://e360.yale.edu/digest/great-white-sharks-climate",
-    "title": "[英] As Oceans Warm, Great White Sharks Are Overheating",
     "date": "2026-04-22"
   }
 ]
