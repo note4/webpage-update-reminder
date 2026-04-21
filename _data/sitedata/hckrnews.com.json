@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://github.com/i12bp8/TagTinker",
+    "title": "[英] Edit store price tags using Flipper Zero",
+    "date": "2026-04-21"
+  },
+  {
     "link": "http://mnt.stanleylieber.com/reform/",
     "title": "[英] MNT Reform is an open hardware laptop, designed and assembled in Germany",
     "date": "2026-04-21"
@@ -42,11 +47,6 @@
   {
     "link": "https://aphyr.com/data/posts/411/the-future-of-everything-is-lies.pdf",
     "title": "[英] Bullshit About Bullshit Machines [pdf]",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://www.timdavis.com/blog/probabilistic-engineering-and-the-24-7-employee",
-    "title": "[英] Tim Davis – Probabilistic engineering and the 24-7 employee",
     "date": "2026-04-21"
   }
 ]
