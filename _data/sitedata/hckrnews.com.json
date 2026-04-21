@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://neugierig.org/software/blog/2026/04/theseus.html",
+    "title": "[英] Theseus, a Static Windows Emulator",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://github.com/Arc1011/KernelUNO",
+    "title": "[英] Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://github.com/calcom/cal.diy",
+    "title": "[英] Cal.diy: open-source community edition of cal.com",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://frame.work/laptop13pro",
+    "title": "[英] Framework Laptop 13 Pro",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr",
+    "title": "[英] Meta capturing employee mouse movements, keystrokes for AI training data",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://britannica11.org/",
+    "title": "[英] Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+    "date": "2026-04-22"
+  },
+  {
     "link": "https://binaryigor.com/modern-frontend-complexity.html",
     "title": "[英] Modern Front end Complexity: essential or accidental?",
     "date": "2026-04-22"
@@ -17,36 +47,6 @@
   {
     "link": "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
     "title": "[英] Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://github.com/dchu917/ctx",
-    "title": "[英] Show HN: Ctx – a /resume that works across Claude Code and Codex",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://thepointmag.com/criticism/a-history-of-erasures/",
-    "title": "[英] A History of Erasures Learning to Write Like Leylâ Erbil",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://mattstromawn.com/writing/expansion-artifacts/",
-    "title": "[英] Expansion Artifacts",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47824738",
-    "title": "[英] Recommended GPU Repairshop in Europe (Germany)",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://charlielabs.ai/",
-    "title": "[英] Show HN: Daemons – we pivoted from building agents to cleaning up after them",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://phys.org/news/2026-04-colorado-river-geological-million-years.html",
-    "title": "[英] Colorado River disappeared record for 5M years: now we know where it was",
     "date": "2026-04-22"
   }
 ]
