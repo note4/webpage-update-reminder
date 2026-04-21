@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://lawsofsoftwareengineering.com",
+    "title": "[英] Laws of Software Engineering",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://fsfe.org/news/2026/news-20260420-01.html",
+    "title": "[英] Apple ignores DMA interoperability requests and contradicts own documentation",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://codemix.com/graph",
+    "title": "[英] A type-safe, realtime collaborative Graph Database in a CRDT",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://jchandra.com/posts/hae-ols/",
+    "title": "[英] High-Fidelity KV Cache Summarization Using Entropy and Low-Rank Reconstruction",
+    "date": "2026-04-21"
+  },
+  {
     "link": "https://github.com/i12bp8/TagTinker",
     "title": "[英] Edit store price tags using Flipper Zero",
     "date": "2026-04-21"
@@ -27,26 +47,6 @@
   {
     "link": "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html",
     "title": "[英] Types and Neural Networks",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://aadamjacobscollection.org/",
-    "title": "[英] A mad undertaking: An undefinitive guide to the Aadam Jacobs collection",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
-    "title": "[英] Louis Zocchi, inventor of the d100, has died",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/",
-    "title": "[英] Using Changesets in a polyglot monorepo",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://aphyr.com/data/posts/411/the-future-of-everything-is-lies.pdf",
-    "title": "[英] Bullshit About Bullshit Machines [pdf]",
     "date": "2026-04-21"
   }
 ]
