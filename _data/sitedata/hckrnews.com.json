@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
+    "title": "[英] Running a Minecraft Server and More on a 1960s Univac Computer",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://vidstudio.app/video-editor",
+    "title": "[英] Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cn08jy6w0l5o",
+    "title": "[英] Smoking ban for people born after 2008 in the UK agreed",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://connla.substack.com/p/pho-in-hanoi-a-purists-guide",
+    "title": "[英] The purist's guide to phở in Hanoi",
+    "date": "2026-04-21"
+  },
+  {
     "link": "https://lawsofsoftwareengineering.com",
     "title": "[英] Laws of Software Engineering",
     "date": "2026-04-21"
@@ -27,26 +47,6 @@
   {
     "link": "http://mnt.stanleylieber.com/reform/",
     "title": "[英] MNT Reform is an open hardware laptop, designed and assembled in Germany",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://people.kernel.org/paulmck/stupid-rcu-tricks-corner-case-rcu-implementations",
-    "title": "[英] Corner-Case RCU Implementations",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
-    "title": "[英] Salmon exposed to cocaine and its main byproduct roam more widely",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://nial.se/blog/less-human-ai-agents-please/",
-    "title": "[英] Less human AI agents, please",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html",
-    "title": "[英] Types and Neural Networks",
     "date": "2026-04-21"
   }
 ]
