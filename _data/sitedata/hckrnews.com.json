@@ -1,12 +1,22 @@
 [
   {
+    "link": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+    "title": "[英] 10 years: Stephen's Sausage Roll still one of the most influential puzzle games",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://chatgpt.com/images/",
+    "title": "[英] ChatGPT Images 2.0",
+    "date": "2026-04-22"
+  },
+  {
     "link": "https://sawyer.dev/posts/practitioner-program-analysis/",
     "title": "[英] My practitioner view of program analysis",
     "date": "2026-04-22"
   },
   {
     "link": "https://openai.com/live/",
-    "title": "[英] OpenAI Livestream",
+    "title": "[英] OpenAI Livestream: ChatGPT Images 2.0",
     "date": "2026-04-22"
   },
   {
@@ -37,16 +47,6 @@
   {
     "link": "https://britannica11.org/",
     "title": "[英] Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://binaryigor.com/modern-frontend-complexity.html",
-    "title": "[英] Modern Front end Complexity: essential or accidental?",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://cheesemap.netlify.app/",
-    "title": "[英] A Periodic Map of Cheese",
     "date": "2026-04-22"
   }
 ]
