@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/",
+    "title": "[英] Stitch’s DESIGN.md format is now open-source so you can use it across platforms.",
+    "date": "2026-04-22 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/devices/how-to-use-gemini-continued-conversation/",
+    "title": "[英] Make chats more natural and efficient with Continued Conversation, now in Gemini for Home",
+    "date": "2026-04-22 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/",
+    "title": "[英] Deep Research Max: a step change for autonomous research agents",
+    "date": "2026-04-21 23:30:00"
+  },
+  {
     "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
     "title": "[英] 3 new ways Ads Advisor is making Google Ads safer and faster",
     "date": "2026-04-21 22:30:00"
@@ -33,20 +48,5 @@
     "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
     "title": "[英] 7 ways to travel smarter this summer, with help from Google",
     "date": "2026-04-17 22:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/travel/2026-travel-trends/",
-    "title": "[英] Discover this year’s trending summer travel destinations and activities",
-    "date": "2026-04-17 22:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-    "title": "[英] A new way to explore the web with AI Mode in Chrome",
-    "date": "2026-04-17 01:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/inside-google/doodles/2026-voting/",
-    "title": "[英] Voting is live: Help choose the next Doodle for Google winner",
-    "date": "2026-04-17 00:30:00"
   }
 ]
