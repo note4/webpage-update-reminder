@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.onesteppower.com/post/subsea-cable-repair",
+    "title": "[英] How a subsea cable is repaired",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://www.flyingpenguin.com/freebsd-cve-2026-4747-log-suggests-mythos-is-a-marketing-trick/",
+    "title": "[英] FreeBSD CVE-2026-4747 Log Suggests Mythos Is a Marketing Trick",
+    "date": "2026-04-21"
+  },
+  {
     "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119470",
     "title": "[英] Real-Time Visualization of Human Finger Joint Cavitation (2015)",
     "date": "2026-04-21"
@@ -37,16 +47,6 @@
   {
     "link": "https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html",
     "title": "[英] Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://ccs.getmonero.org/ideas/",
-    "title": "[英] Monero Community Crowdfunding System",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://www.gingerbill.org/article/2026/04/20/odin-wikipedia-fiasco/",
-    "title": "[英] Odin's Fiasco with Wikipedia",
     "date": "2026-04-21"
   }
 ]
