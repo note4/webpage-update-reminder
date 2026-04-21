@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html",
+    "title": "[英] SpaceX Strikes Deal With Cursor for $60 Billion",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+    "title": "[英] Meta to start capturing employee mouse movements, keystrokes for AI training",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+    "title": "[英] ChatGPT Images 2.0",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+    "title": "[英] Changes to GitHub Copilot individual plans",
+    "date": "2026-04-22"
+  },
+  {
     "link": "https://github.com/itsmeadarsh2008/backlit-kbd",
     "title": "[英] Show HN: Backlit Keyboard API for Python",
     "date": "2026-04-22"
@@ -27,26 +47,6 @@
   {
     "link": "https://electrek.co/2026/04/18/in-the-uk-evs-are-cheaper-than-petrol-cars-thanks-to-chinese-competition/",
     "title": "[英] In the UK, EVs are cheaper than petrol cars, thanks to Chinese competition",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
-    "title": "[英] 10 years: Stephen's Sausage Roll still one of the most influential puzzle games",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://chatgpt.com/images/",
-    "title": "[英] ChatGPT Images 2.0",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://sawyer.dev/posts/practitioner-program-analysis/",
-    "title": "[英] My practitioner view of program analysis",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://openai.com/live/",
-    "title": "[英] OpenAI Livestream: ChatGPT Images 2.0",
     "date": "2026-04-22"
   }
 ]
