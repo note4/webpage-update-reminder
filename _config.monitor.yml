@@ -47,6 +47,22 @@ tasks:
     selector: "#entries li.entry"
     parser: auto
 
+  - name: techcrunch
+    slug: techcrunch.com
+    type: html
+    url: https://techcrunch.com/latest/
+    webhook: webpage
+    selector: ".elementor-widget-theme-post-title"
+    parser: auto
+
+  - name: techorange
+    slug: techorange.com
+    type: html
+    url: https://techorange.com/latest/
+    webhook: webpage
+    selector: ".loop-card--post-type-post"
+    parser: auto
+
   - name: 长沙地铁
     slug: hncsmtr.com_zhaopin
     type: html
