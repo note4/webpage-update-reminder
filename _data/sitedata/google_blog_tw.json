@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://blog.google/intl/zh-tw/products/android-chrome-play/gemini-in-chrome/",
+    "title": "Chrome 全新 AI 功能正式在台推出",
+    "date": "2026-04-21 07:00:00"
+  },
+  {
+    "link": "https://blog.google/intl/zh-tw/company-news/technology/2025-ads-safety-report/",
+    "title": "2025 廣告安全報告：由 Gemini 驅動的防禦網",
+    "date": "2026-04-17 07:00:00"
+  },
+  {
+    "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/personal-intelligence-taiwan/",
+    "title": "Gemini 個人化智慧服務正式在台推出：讓 AI 成為最懂你的生活助手",
+    "date": "2026-04-15 05:00:00"
+  },
+  {
+    "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/gemini-mental-health/",
+    "title": "我們協助照顧心理健康的最新進展",
+    "date": "2026-04-08 06:00:00"
+  },
+  {
     "link": "https://blog.google/intl/zh-tw/products/cloud/hotai-motor-accelerates-digital-transformation-with-gemini-enterprise/",
     "title": "和泰汽車導入 Gemini Enterprise 將 AI 代理轉化為驅動企業數位轉型的關鍵引擎",
     "date": "2026-03-30 17:38:00"
@@ -28,25 +48,5 @@
     "link": "https://blog.google/intl/zh-tw/company-news/google-20-ai-for-health/",
     "title": "Google 深耕台灣 20 年：打造全球首創 AI 健康網",
     "date": "2026-03-04 22:00:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/devices-services/pixel-10a-ai/",
-    "title": "全新 Pixel 10a 讓 AI 應用更平易近人",
-    "date": "2026-02-24 22:00:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/gemini-lunar-new-year/",
-    "title": "搞定春節大小事的 9 個 Gemini 實用方法",
-    "date": "2026-02-13 10:00:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/youtube-shopping-affiliate/",
-    "title": "看到就是買到：YouTube 與蝦皮購物開啟台灣「無縫購物」新紀元",
-    "date": "2026-01-29 22:00:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/ai-plus/",
-    "title": "Google AI Plus 正式在台推出：讓 AI 成為你提升生產力與創意的最佳夥伴",
-    "date": "2026-01-28 07:00:00"
   }
 ]
