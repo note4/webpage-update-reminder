@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://nial.se/blog/less-human-ai-agents-please/",
+    "title": "[英] Less human AI agents, please",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html",
+    "title": "[英] Types and Neural Networks",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://aadamjacobscollection.org/",
+    "title": "[英] A mad undertaking: An undefinitive guide to the Aadam Jacobs collection",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
+    "title": "[英] Louis Zocchi, inventor of the d100, has died",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/",
+    "title": "[英] Using Changesets in a polyglot monorepo",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://aphyr.com/data/posts/411/the-future-of-everything-is-lies.pdf",
+    "title": "[英] Bullshit About Bullshit Machines [pdf]",
+    "date": "2026-04-21"
+  },
+  {
     "link": "https://www.timdavis.com/blog/probabilistic-engineering-and-the-24-7-employee",
     "title": "[英] Tim Davis – Probabilistic engineering and the 24-7 employee",
     "date": "2026-04-21"
@@ -17,36 +47,6 @@
   {
     "link": "https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/",
     "title": "[英] Prediction markets are breaking the news and becoming their own beat",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://docs.openclaw.ai/providers/anthropic",
-    "title": "[英] Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-    "title": "[英] A Roblox cheat and one AI tool brought down Vercel's platform",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-026-01099-2",
-    "title": "[英] Air Is Full of DNA",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://mediator.ai/",
-    "title": "[英] Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://www.onesteppower.com/post/subsea-cable-repair",
-    "title": "[英] How a subsea cable is repaired",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://www.flyingpenguin.com/freebsd-cve-2026-4747-log-suggests-mythos-is-a-marketing-trick/",
-    "title": "[英] FreeBSD CVE-2026-4747 Log Suggests Mythos Is a Marketing Trick",
     "date": "2026-04-21"
   }
 ]
