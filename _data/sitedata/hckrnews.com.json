@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://sawyer.dev/posts/practitioner-program-analysis/",
+    "title": "[英] My practitioner view of program analysis",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://openai.com/live/",
+    "title": "[英] OpenAI Livestream",
+    "date": "2026-04-22"
+  },
+  {
     "link": "https://neugierig.org/software/blog/2026/04/theseus.html",
     "title": "[英] Theseus, a Static Windows Emulator",
     "date": "2026-04-22"
@@ -37,16 +47,6 @@
   {
     "link": "https://cheesemap.netlify.app/",
     "title": "[英] A Periodic Map of Cheese",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-    "title": "[英] The Vercel breach: OAuth attack exposes risk in platform environment variables",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
-    "title": "[英] Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
     "date": "2026-04-22"
   }
 ]
