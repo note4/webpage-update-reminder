@@ -1,5 +1,20 @@
 [
   {
+    "link": "http://mnt.stanleylieber.com/reform/",
+    "title": "[英] MNT Reform is an open hardware laptop, designed and assembled in Germany",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://people.kernel.org/paulmck/stupid-rcu-tricks-corner-case-rcu-implementations",
+    "title": "[英] Corner-Case RCU Implementations",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
+    "title": "[英] Salmon exposed to cocaine and its main byproduct roam more widely",
+    "date": "2026-04-21"
+  },
+  {
     "link": "https://nial.se/blog/less-human-ai-agents-please/",
     "title": "[英] Less human AI agents, please",
     "date": "2026-04-21"
@@ -32,21 +47,6 @@
   {
     "link": "https://www.timdavis.com/blog/probabilistic-engineering-and-the-24-7-employee",
     "title": "[英] Tim Davis – Probabilistic engineering and the 24-7 employee",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says",
-    "title": "[英] Israeli soldiers using sexual assault to force Palestinians out of West Bank",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-    "title": "[英] The Beauty of Bonsai Styles",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/",
-    "title": "[英] Prediction markets are breaking the news and becoming their own beat",
     "date": "2026-04-21"
   }
 ]
