@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.timdavis.com/blog/probabilistic-engineering-and-the-24-7-employee",
+    "title": "[英] Tim Davis – Probabilistic engineering and the 24-7 employee",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says",
+    "title": "[英] Israeli soldiers using sexual assault to force Palestinians out of West Bank",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+    "title": "[英] The Beauty of Bonsai Styles",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/",
+    "title": "[英] Prediction markets are breaking the news and becoming their own beat",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://docs.openclaw.ai/providers/anthropic",
+    "title": "[英] Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+    "title": "[英] A Roblox cheat and one AI tool brought down Vercel's platform",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://www.nature.com/articles/d41586-026-01099-2",
+    "title": "[英] Air Is Full of DNA",
+    "date": "2026-04-21"
+  },
+  {
+    "link": "https://mediator.ai/",
+    "title": "[英] Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+    "date": "2026-04-21"
+  },
+  {
     "link": "https://www.onesteppower.com/post/subsea-cable-repair",
     "title": "[英] How a subsea cable is repaired",
     "date": "2026-04-21"
@@ -7,46 +47,6 @@
   {
     "link": "https://www.flyingpenguin.com/freebsd-cve-2026-4747-log-suggests-mythos-is-a-marketing-trick/",
     "title": "[英] FreeBSD CVE-2026-4747 Log Suggests Mythos Is a Marketing Trick",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119470",
-    "title": "[英] Real-Time Visualization of Human Finger Joint Cavitation (2015)",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://arxiv.org/abs/2604.15356",
-    "title": "[英] KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/04/17/climate/japan-cherry-blossom-database-scientist.html",
-    "title": "[英] Japan's Cherry Blossom Database, 1,200 Years Old, Has a New Keeper",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://zef-lang.dev/implementation",
-    "title": "[英] How to make a fast dynamic language interpreter",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://www.defined.net/blog/year-of-the-ipv6-overlay-network/",
-    "title": "[英] Year of the IPv6 Overlay Network",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://prismml.com/news/ternary-bonsai",
-    "title": "[英] Ternary Bonsai: Top Intelligence at 1.58 Bits",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
-    "title": "[英] Even 'uncensored' models can't say what they want",
-    "date": "2026-04-21"
-  },
-  {
-    "link": "https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html",
-    "title": "[英] Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
     "date": "2026-04-21"
   }
 ]
