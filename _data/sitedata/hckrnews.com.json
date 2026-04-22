@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://fitzgen.com/2024/02/06/safe-gc.html",
+    "title": "[英] Garbage Collection Without Unsafe Code",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://github.com/justrach/kuri",
+    "title": "[英] Kuri – Zig based agent-browser alternative",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://www.storybytes.com/view-moof/articles/mim.html",
+    "title": "[英] Clarus, Moofo, and Lackey",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://bitsavers.org/pdf/amdahl/history/20000_Gates_and_20_MIPS_199011.pdf",
+    "title": "[英] 20000 Gates and 20 MIPS [pdf]",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://blog.exe.dev/http-proxy-secrets",
+    "title": "[英] Some secret management belongs in your HTTP proxy",
+    "date": "2026-04-22"
+  },
+  {
     "link": "https://www.owlposting.com/p/the-printing-press-for-biological",
     "title": "[英] A printing press for biological data",
     "date": "2026-04-22"
@@ -22,31 +47,6 @@
   {
     "link": "https://www.brutman.com/Adventures_In_Code/EtherSlip_ARP/EtherSlip_ARP.html",
     "title": "[英] Hunting a 34 year old pointer bug in EtherSlip",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.politico.com/news/2026/04/21/southern-poverty-law-center-justice-department-investigation-00885376",
-    "title": "[英] Southern Poverty Law Center indicted for fraud, money laundering",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/",
-    "title": "[英] FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://developers.openai.com/codex/memories/chronicle",
-    "title": "[英] OpenAI reinvents Recall except everything is stored remotely",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://victoriametrics.com/blog/kubecon-eu-2026-sampling/index.html",
-    "title": "[英] Optimizing Tail Sampling in OpenTelemetry with Retroactive Sampling",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
-    "title": "[英] Global growth in solar \"the largest ever observed for any source\"",
     "date": "2026-04-22"
   }
 ]
