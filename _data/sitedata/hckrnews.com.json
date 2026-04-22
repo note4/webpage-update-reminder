@@ -1,12 +1,42 @@
 [
   {
+    "link": "https://www.mythoswatch.org/",
+    "title": "[英] MythosWatch: Tracking who has access to Anthropic's Mythos AI",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
+    "title": "[英] Anker made its own chip to bring AI to all its products",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
+    "title": "[英] Surveillance Pricing: Exploiting Information Asymmetries",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://martinfowler.com/fragments/2026-04-14.html",
+    "title": "[英] Martin Fowler: Technical, Cognitive, and Intent Debt",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://maurycyz.com/projects/mcufont/",
+    "title": "[英] 5x5 Pixel font for tiny screens",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/",
+    "title": "[英] Startups Brag They Spend More Money on AI Than Human Employees",
+    "date": "2026-04-23"
+  },
+  {
     "link": "https://www.forever-wars.com/the-tech-oligarchs-republic/",
     "title": "[英] The Tech Oligarch's Republic",
     "date": "2026-04-23"
   },
   {
     "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-    "title": "[英] Alberta Startup Sells No-Tech Tractors for Half Price",
+    "title": "[英] Alberta startup sells no-tech tractors for half price",
     "date": "2026-04-23"
   },
   {
@@ -17,36 +47,6 @@
   {
     "link": "https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html",
     "title": "[英] Youth Suicides Declined After Creation of National Hotline",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://gizmodo.com/sam-altmans-creepy-eyeball-scanning-company-gets-in-bed-with-zoom-and-tinder-2000748013",
-    "title": "[英] Sam Altman's Creepy Eyeball-Scanning Company Gets in Bed with Zoom and Tinder",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://codeberg.org/hails/wsl9x",
-    "title": "[英] Windows 9x Subsystem for Linux",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://bodegacatsofnewyork.com",
-    "title": "[英] Bodega Cats of New York",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/",
-    "title": "[英] Top MAGA influencer revealed to be AI",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://blog.alcazarsec.com/tech/posts/best-time-to-post-on-hacker-news",
-    "title": "[英] The best time to post on Hacker News",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://qwen.ai/blog?id=qwen3.6-27b",
-    "title": "[英] Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
     "date": "2026-04-23"
   }
 ]
