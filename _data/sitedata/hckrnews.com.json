@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://gardenandgun.com/new-orleans-neon-king",
+    "title": "[英] The Neon King of New Orleans",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://codeberg.org/jjba23/olive-css",
+    "title": "[英] Olive CSS: Lisp powered vanilla CSS utility-Class A la Tailwind",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://www.chiply.dev/post-vompeccc-spot",
+    "title": "[英] A Vompeccc Case Study: Spotify as Pure ICR in Emacs",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+    "title": "[英] Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://malejandro.com/reflections/en/adobe-is-cooked/",
+    "title": "[英] Adobe Is Cooked",
+    "date": "2026-04-23"
+  },
+  {
     "link": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
     "title": "[英] The Illuminated Man: an unconventional portrait of JG Ballard",
     "date": "2026-04-23"
@@ -16,37 +41,12 @@
   },
   {
     "link": "https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/",
-    "title": "[英] New study compares growing corn for energy to solar production. It's no contest",
+    "title": "[英] New study compares growing corn for energy to solar production",
     "date": "2026-04-23"
   },
   {
     "link": "https://torch.football/homegrown",
     "title": "[英] Homegrown – An interactive map of every 2025 FBS college football player",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
-    "title": "[英] Scores decline again for 13-year-old students in reading and mathematics",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://twitter.com/orsonscottcard/status/2046702294406680751",
-    "title": "[英] You don't need advice from editors on rejected manuscripts",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://flipbook.page/",
-    "title": "[英] Website streamed live directly from a model",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://blog.cryptographyengineering.com/2026/04/17/anonymous-credentials-an-illustrated-primer-part-2/",
-    "title": "[英] Anonymous credentials: an illustrated primer (Part 2)",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-    "title": "[英] We found a stable Firefox identifier linking all your private Tor identities",
     "date": "2026-04-23"
   }
 ]
