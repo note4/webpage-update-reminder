@@ -1,7 +1,32 @@
 [
   {
-    "link": "https://www.mythoswatch.org/",
-    "title": "[英] MythosWatch: Tracking who has access to Anthropic's Mythos AI",
+    "link": "https://openai.com/business/workspace-agents/",
+    "title": "[英] OpenAI: Workspace Agents for Business",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+    "title": "[英] Workspace Agents in ChatGPT",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html",
+    "title": "[英] Who Killed the Florida Orange?",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://nrehiew.github.io/blog/minimal_editing/",
+    "title": "[英] Coding Models Are Doing Too Much",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://zed.dev/blog/parallel-agents",
+    "title": "[英] Parallel Agents in Zed",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47866297",
+    "title": "[英] undefined",
     "date": "2026-04-23"
   },
   {
@@ -22,31 +47,6 @@
   {
     "link": "https://maurycyz.com/projects/mcufont/",
     "title": "[英] 5x5 Pixel font for tiny screens",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/",
-    "title": "[英] Startups Brag They Spend More Money on AI Than Human Employees",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://www.forever-wars.com/the-tech-oligarchs-republic/",
-    "title": "[英] The Tech Oligarch's Republic",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-    "title": "[英] Alberta startup sells no-tech tractors for half price",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://github.com/besimple-oss/broccoli",
-    "title": "[英] Show HN: Broccoli, one shot coding agent on the cloud",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html",
-    "title": "[英] Youth Suicides Declined After Creation of National Hotline",
     "date": "2026-04-23"
   }
 ]
