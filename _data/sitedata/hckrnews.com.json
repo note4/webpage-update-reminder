@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/",
+    "title": "[英] Top MAGA influencer revealed to be AI",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://blog.alcazarsec.com/tech/posts/best-time-to-post-on-hacker-news",
+    "title": "[英] The best time to post on Hacker News",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://qwen.ai/blog?id=qwen3.6-27b",
+    "title": "[英] Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://www.adriankrebs.ch/blog/design-slop/",
+    "title": "[英] Show HN submissions tripled and now mostly have the same vibe-coded look",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://duckdb.org/2026/04/13/announcing-duckdb-152",
+    "title": "[英] DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser",
+    "date": "2026-04-22"
+  },
+  {
     "link": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
     "title": "[英] Treetops glowing during storms captured on film for first time",
     "date": "2026-04-22"
@@ -22,31 +47,6 @@
   {
     "link": "https://daringfireball.net/2026/04/another_day_has_come",
     "title": "[英] Another Day Has Come",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
-    "title": "[英] Columnar Storage Is Normalization",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://allthingssmitty.com/2026/04/20/why-i-dont-chain-everything-in-javascript-anymore/",
-    "title": "[英] I don't chain everything in JavaScript anymore",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-    "title": "[英] Our eighth generation TPUs: two chips for the agentic era",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://lwn.net/Articles/1068928/",
-    "title": "[英] Kernel code removals driven by LLM-created security reports",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://tech.marksblogg.com/american-solar-farms-v2.html",
-    "title": "[英] 3.4M Solar Panels",
     "date": "2026-04-22"
   }
 ]
