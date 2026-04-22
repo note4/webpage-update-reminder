@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
+    "title": "[英] Treetops glowing during storms captured on film for first time",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://github.com/BlackBeltTechnology/pi-agent-dashboard",
+    "title": "[英] Monitor your Pi / OMP sessions",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://www.millersbookreview.com/p/no-books-are-not-remotely-too-expensive",
+    "title": "[英] Books Are Not Remotely Too Expensive",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive",
+    "title": "[英] The eighth-generation TPU: An architecture deep dive",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://daringfireball.net/2026/04/another_day_has_come",
+    "title": "[英] Another Day Has Come",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
+    "title": "[英] Columnar Storage Is Normalization",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://allthingssmitty.com/2026/04/20/why-i-dont-chain-everything-in-javascript-anymore/",
+    "title": "[英] I don't chain everything in JavaScript anymore",
+    "date": "2026-04-22"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
     "title": "[英] Our eighth generation TPUs: two chips for the agentic era",
     "date": "2026-04-22"
@@ -12,41 +47,6 @@
   {
     "link": "https://tech.marksblogg.com/american-solar-farms-v2.html",
     "title": "[英] 3.4M Solar Panels",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://cli.github.com/telemetry",
-    "title": "[英] GitHub CLI now collects pseudoanonymous telemetry",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million",
-    "title": "[英] Nobody Got Fired for Uber's $8M Ledger Mistake?",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-04-17/how-bands-like-cameron-winter-s-geese-are-manufacturing-sold-out-shows",
-    "title": "[英] Why Musicians Are Manufacturing Sold-Out Shows",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.ft.com/content/56d65763-69fe-4756-baf4-c8192b7aadaf",
-    "title": "[英] Anthropic investigating unauthorised access of powerful Mythos AI model",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/iran-claims-us-exploited-networking-equipment-backdoors-during-strikes",
-    "title": "[英] Iran claims US exploited networking equipment backdoors during strikes",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
-    "title": "[英] CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://arxiv.org/abs/2604.15039",
-    "title": "[英] Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter",
     "date": "2026-04-22"
   }
 ]
