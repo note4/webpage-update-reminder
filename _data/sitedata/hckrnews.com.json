@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
+    "title": "[英] Irony as Meta staff unhappy about running surveillance software on work PCs",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://perthirtysix.com/how-the-heck-does-gps-work",
+    "title": "[英] How the Heck Does GPS Work?",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://www.aravindjayendran.com/writing/context-is-not-learning",
+    "title": "[英] Context Is Software, Weights Are Hardware",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://social.hails.org/@hailey/116446826733136456",
+    "title": "[英] Windows 9x Subsystem for Linux",
+    "date": "2026-04-22"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=47861009",
     "title": "[英] Ask HN: Why Opus4.6 was silently removed from Claude Code?",
     "date": "2026-04-22"
@@ -27,26 +47,6 @@
   {
     "link": "https://www.tanumworldheritage.se/rock-carving-facts/?lang=en",
     "title": "[英] Rock carving facts – Tanum Sweden",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
-    "title": "[英] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
-    "title": "[英] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://fitzgen.com/2024/02/06/safe-gc.html",
-    "title": "[英] Garbage Collection Without Unsafe Code",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://github.com/justrach/kuri",
-    "title": "[英] Kuri – Zig based agent-browser alternative",
     "date": "2026-04-22"
   }
 ]
