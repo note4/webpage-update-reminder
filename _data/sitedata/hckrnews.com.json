@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.tanumworldheritage.se/rock-carving-facts/?lang=en",
+    "title": "[英] Rock carving facts – Tanum Sweden",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
+    "title": "[英] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
+    "title": "[英] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
+    "date": "2026-04-22"
+  },
+  {
     "link": "https://fitzgen.com/2024/02/06/safe-gc.html",
     "title": "[英] Garbage Collection Without Unsafe Code",
     "date": "2026-04-22"
@@ -32,21 +47,6 @@
   {
     "link": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
     "title": "[英] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-    "title": "[英] Making RAM at Home [video]",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-    "title": "[英] Making RAM at Home",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.brutman.com/Adventures_In_Code/EtherSlip_ARP/EtherSlip_ARP.html",
-    "title": "[英] Hunting a 34 year old pointer bug in EtherSlip",
     "date": "2026-04-22"
   }
 ]
