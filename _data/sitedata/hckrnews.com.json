@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+    "title": "[英] Our eighth generation TPUs: two chips for the agentic era",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://lwn.net/Articles/1068928/",
+    "title": "[英] Kernel code removals driven by LLM-created security reports",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://tech.marksblogg.com/american-solar-farms-v2.html",
+    "title": "[英] 3.4M Solar Panels",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://cli.github.com/telemetry",
+    "title": "[英] GitHub CLI now collects pseudoanonymous telemetry",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million",
+    "title": "[英] Nobody Got Fired for Uber's $8M Ledger Mistake?",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-04-17/how-bands-like-cameron-winter-s-geese-are-manufacturing-sold-out-shows",
+    "title": "[英] Why Musicians Are Manufacturing Sold-Out Shows",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://www.ft.com/content/56d65763-69fe-4756-baf4-c8192b7aadaf",
+    "title": "[英] Anthropic investigating unauthorised access of powerful Mythos AI model",
+    "date": "2026-04-22"
+  },
+  {
     "link": "https://www.tomshardware.com/tech-industry/cyber-security/iran-claims-us-exploited-networking-equipment-backdoors-during-strikes",
     "title": "[英] Iran claims US exploited networking equipment backdoors during strikes",
     "date": "2026-04-22"
@@ -12,41 +47,6 @@
   {
     "link": "https://arxiv.org/abs/2604.15039",
     "title": "[英] Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
-    "title": "[英] Irony as Meta staff unhappy about running surveillance software on work PCs",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://perthirtysix.com/how-the-heck-does-gps-work",
-    "title": "[英] How the Heck Does GPS Work?",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.aravindjayendran.com/writing/context-is-not-learning",
-    "title": "[英] Context Is Software, Weights Are Hardware",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://social.hails.org/@hailey/116446826733136456",
-    "title": "[英] Windows 9x Subsystem for Linux",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47861009",
-    "title": "[英] Ask HN: Why Opus4.6 was silently removed from Claude Code?",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
-    "title": "[英] Meta employees are up in arms over a mandatory program to train AI on their",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://zknill.io/posts/all-your-agents-are-going-async/",
-    "title": "[英] All your agents are going async",
     "date": "2026-04-22"
   }
 ]
