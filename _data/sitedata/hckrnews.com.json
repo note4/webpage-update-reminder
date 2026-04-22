@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
+    "title": "[英] The Illuminated Man: an unconventional portrait of JG Ballard",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
+    "title": "[英] Ping-pong robot beats top-level human players",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://www.livpost.co.uk/the-great-scouse-pasty-war/",
+    "title": "[英] The great Scouse pasty war",
+    "date": "2026-04-23"
+  },
+  {
     "link": "https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/",
     "title": "[英] New study compares growing corn for energy to solar production. It's no contest",
     "date": "2026-04-23"
@@ -32,21 +47,6 @@
   {
     "link": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
     "title": "[英] We found a stable Firefox identifier linking all your private Tor identities",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://openai.com/business/workspace-agents/",
-    "title": "[英] OpenAI: Workspace Agents for Business",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-    "title": "[英] Workspace Agents in ChatGPT",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html",
-    "title": "[英] Who Killed the Florida Orange?",
     "date": "2026-04-23"
   }
 ]
