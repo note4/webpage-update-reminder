@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=47861009",
+    "title": "[英] Ask HN: Why Opus4.6 was silently removed from Claude Code?",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+    "title": "[英] Meta employees are up in arms over a mandatory program to train AI on their",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://zknill.io/posts/all-your-agents-are-going-async/",
+    "title": "[英] All your agents are going async",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://github.com/google-deepmind/mujoco",
+    "title": "[英] MuJoCo – Advanced Physics Simulation",
+    "date": "2026-04-22"
+  },
+  {
+    "link": "https://causality.blog/essays/what-async-promised/",
+    "title": "[英] What Async Promised and What It Delivered",
+    "date": "2026-04-22"
+  },
+  {
     "link": "https://www.tanumworldheritage.se/rock-carving-facts/?lang=en",
     "title": "[英] Rock carving facts – Tanum Sweden",
     "date": "2026-04-22"
@@ -22,31 +47,6 @@
   {
     "link": "https://github.com/justrach/kuri",
     "title": "[英] Kuri – Zig based agent-browser alternative",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.storybytes.com/view-moof/articles/mim.html",
-    "title": "[英] Clarus, Moofo, and Lackey",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://bitsavers.org/pdf/amdahl/history/20000_Gates_and_20_MIPS_199011.pdf",
-    "title": "[英] 20000 Gates and 20 MIPS [pdf]",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://blog.exe.dev/http-proxy-secrets",
-    "title": "[英] Some secret management belongs in your HTTP proxy",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.owlposting.com/p/the-printing-press-for-biological",
-    "title": "[英] A printing press for biological data",
-    "date": "2026-04-22"
-  },
-  {
-    "link": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
-    "title": "[英] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
     "date": "2026-04-22"
   }
 ]
