@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
+    "title": "[英] Using the internet like it's 1999",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
+    "title": "[英] Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009580.html",
+    "title": "[英] WireGuard for Windows Reaches v1.0",
+    "date": "2026-04-24"
+  },
+  {
     "link": "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/",
     "title": "[英] Astronomers Find the Edge of the Milky Way",
     "date": "2026-04-24"
@@ -32,21 +47,6 @@
   {
     "link": "https://openai.com/index/introducing-gpt-5-5/",
     "title": "[英] GPT-5.5",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://techcrunch.com/2026/04/23/x-is-shutting-down-communities-because-of-low-usage-and-lots-of-spam/",
-    "title": "[英] X is shutting down Communities because of low usage and lots of spam",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://www.anthropic.com/engineering/april-23-postmortem",
-    "title": "[英] An update on recent Claude Code quality reports",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
-    "title": "[英] People Do Not Yearn for Automation",
     "date": "2026-04-24"
   }
 ]
