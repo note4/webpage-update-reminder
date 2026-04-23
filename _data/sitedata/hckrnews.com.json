@@ -1,52 +1,52 @@
 [
   {
+    "link": "https://perthirtysix.com/how-the-heck-does-shazam-work",
+    "title": "[英] How the Heck does Shazam work?",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://verus-lang.github.io/verus/guide/",
+    "title": "[英] Verus is a tool for verifying the correctness of code written in Rust",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://openai.com/index/axios-developer-tool-compromise/",
+    "title": "[英] OpenAI's response to the Axios developer tool compromise",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://tempest.homemade.systems",
+    "title": "[英] Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age",
+    "title": "[英] The handmade beauty of Machine Age data visualizations",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://github.com/shreeve/rip-lang",
+    "title": "[英] Rip language. Compiles to ES2022. Built-in reactivity",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://effekt-lang.org/blog/recursion-schemes/",
+    "title": "[英] Effectful Recursion Schemes",
+    "date": "2026-04-23"
+  },
+  {
     "link": "https://jtomschroeder.com/blog/approximating-tanh/",
     "title": "[英] Approximating Hyperbolic Tangent",
     "date": "2026-04-23"
   },
   {
     "link": "https://lataco.com/stop-sgv-data-center-building",
-    "title": "[英] How to Stop a Data Center in Your Backyard",
+    "title": "[英] How to stop a data center in your backyard",
     "date": "2026-04-23"
   },
   {
     "link": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
     "title": "[英] Bring your own Agent to MS Teams",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47870528",
-    "title": "[英] undefined",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://matthartman.github.io/ghost-pepper/",
-    "title": "[英] Show HN: Ghost Pepper Meet local meeting transcription and diarization",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://github.com/PearsonZero/kodak-pcd0992-statistical-characterization",
-    "title": "[英] First per-image PCA decomposition of Kodak suite reveals deliberate curation",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://www.millersbookreview.com/p/no-books-are-not-remotely-too-expensive",
-    "title": "[英] Books are not too expensive",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://gardenandgun.com/new-orleans-neon-king",
-    "title": "[英] The Neon King of New Orleans",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://codeberg.org/jjba23/olive-css",
-    "title": "[英] Olive CSS: Lisp powered vanilla CSS utility-Class A la Tailwind",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://www.chiply.dev/post-vompeccc-spot",
-    "title": "[英] A Vompeccc Case Study: Spotify as Pure ICR in Emacs",
     "date": "2026-04-23"
   }
 ]
