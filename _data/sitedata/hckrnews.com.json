@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
+    "title": "[英] Highlights from Git 2.54",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
+    "title": "[英] Writing a C Compiler, in Zig",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html",
+    "title": "[英] Do you want the US to \"win\" AI?",
+    "date": "2026-04-23"
+  },
+  {
     "link": "https://craigmod.com/essays/ipad_neo/",
     "title": "[英] MacBook Neo and How the iPad Should Be",
     "date": "2026-04-23"
@@ -15,8 +30,8 @@
     "date": "2026-04-23"
   },
   {
-    "link": "https://www.youtube.com/watch?v=o1Zsb1IijYY",
-    "title": "[英] FIU Student Arrested After Joking About Netanyahu on WhatsApp",
+    "link": "https://news.ycombinator.com/item?id=47873646",
+    "title": "[英] undefined",
     "date": "2026-04-23"
   },
   {
@@ -32,21 +47,6 @@
   {
     "link": "https://simonomi.dev/blog/color-code-your-bytes/",
     "title": "[英] Your hex editor should color-code bytes",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
-    "title": "[英] Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://bookdna.com/best-books/silk-road",
-    "title": "[英] An amateur historian's favorite books about the Silk Road",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-    "title": "[英] Our newsroom AI policy",
     "date": "2026-04-23"
   }
 ]
