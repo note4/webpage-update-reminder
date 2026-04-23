@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://github.com/refactoringhq/tolaria",
+    "title": "[英] Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://xbow.com/blog/mythos-like-hacking-open-to-all",
+    "title": "[英] GPT-5.5: Mythos-Like Hacking, Open to All",
+    "date": "2026-04-24"
+  },
+  {
     "link": "https://newrepublic.com/article/208876/tech-world-evil-musk-bezos-thiel",
     "title": "[英] How the Tech World Turned Evil",
     "date": "2026-04-24"
@@ -37,16 +47,6 @@
   {
     "link": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
     "title": "[英] Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009580.html",
-    "title": "[英] WireGuard for Windows Reaches v1.0",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/",
-    "title": "[英] Astronomers find the edge of the Milky Way",
     "date": "2026-04-24"
   }
 ]
