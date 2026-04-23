@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://bookdna.com/best-books/silk-road",
+    "title": "[英] An amateur historian's favorite books about the Silk Road",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "title": "[英] Ars Technica: Our newsroom AI policy",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://spritetm.github.io/plexus_20_emu/",
+    "title": "[英] Plexus P/20 Emulator",
+    "date": "2026-04-23"
+  },
+  {
     "link": "https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html",
     "title": "[英] The Onion to Take over InfoWars",
     "date": "2026-04-23"
@@ -32,21 +47,6 @@
   {
     "link": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
     "title": "[英] Borrow-checking without type-checking",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://perthirtysix.com/how-the-heck-does-shazam-work",
-    "title": "[英] How does Shazam work?",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://verus-lang.github.io/verus/guide/",
-    "title": "[英] Verus is a tool for verifying the correctness of code written in Rust",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://openai.com/index/axios-developer-tool-compromise/",
-    "title": "[英] OpenAI's response to the Axios developer tool compromise",
     "date": "2026-04-23"
   }
 ]
