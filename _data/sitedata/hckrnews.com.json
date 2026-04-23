@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://boardgamegeek.com/blog/10755/blogpost/124992/modern-board-games-and-why-you-should-play-them",
+    "title": "[英] Modern Board Games: and why you should play them (2022)",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cdxd0xxp0jko",
+    "title": "[英] Trump administration reclassifies cannabis as less dangerous",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://github.com/raysan5/raylib/releases/tag/6.0",
+    "title": "[英] Raylib v6.0",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
+    "title": "[英] A Renaissance gambling dispute spawned probability theory",
+    "date": "2026-04-23"
+  },
+  {
     "link": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
     "title": "[英] Surveillance vendors caught abusing access to telcos to track people's locations",
     "date": "2026-04-23"
@@ -27,26 +47,6 @@
   {
     "link": "https://github.com/russellromney/honker",
     "title": "[英] Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47874673",
-    "title": "[英] undefined",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://buttondown.com/blog/x400-vs-smtp-email",
-    "title": "[英] Email could have been X.400 times better",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
-    "title": "[英] Highlights from Git 2.54",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
-    "title": "[英] Writing a C Compiler, in Zig",
     "date": "2026-04-23"
   }
 ]
