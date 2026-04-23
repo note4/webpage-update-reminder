@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://jtomschroeder.com/blog/approximating-tanh/",
+    "title": "[英] Approximating Hyperbolic Tangent",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://lataco.com/stop-sgv-data-center-building",
+    "title": "[英] How to Stop a Data Center in Your Backyard",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
+    "title": "[英] Bring your own Agent to MS Teams",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47870528",
+    "title": "[英] undefined",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://matthartman.github.io/ghost-pepper/",
+    "title": "[英] Show HN: Ghost Pepper Meet local meeting transcription and diarization",
+    "date": "2026-04-23"
+  },
+  {
     "link": "https://github.com/PearsonZero/kodak-pcd0992-statistical-characterization",
     "title": "[英] First per-image PCA decomposition of Kodak suite reveals deliberate curation",
     "date": "2026-04-23"
@@ -22,31 +47,6 @@
   {
     "link": "https://www.chiply.dev/post-vompeccc-spot",
     "title": "[英] A Vompeccc Case Study: Spotify as Pure ICR in Emacs",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-    "title": "[英] Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://malejandro.com/reflections/en/adobe-is-cooked/",
-    "title": "[英] Adobe Is Cooked",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
-    "title": "[英] The Illuminated Man: an unconventional portrait of JG Ballard",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
-    "title": "[英] Ping-pong robot beats top-level human players",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://www.livpost.co.uk/the-great-scouse-pasty-war/",
-    "title": "[英] The great Scouse pasty war",
     "date": "2026-04-23"
   }
 ]
