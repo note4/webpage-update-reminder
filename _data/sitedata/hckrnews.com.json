@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://simonomi.dev/blog/color-code-your-bytes/",
+    "title": "[英] Your hex editor should color-code bytes",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
+    "title": "[英] Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
+    "date": "2026-04-23"
+  },
+  {
     "link": "https://bookdna.com/best-books/silk-road",
     "title": "[英] An amateur historian's favorite books about the Silk Road",
     "date": "2026-04-23"
@@ -37,16 +47,6 @@
   {
     "link": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
     "title": "[英] A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://openreview.net/pdf?id=C1bkDPqvDW",
-    "title": "[英] Flow Map Learning via Nongradient Vector Flow [pdf]",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
-    "title": "[英] Borrow-checking without type-checking",
     "date": "2026-04-23"
   }
 ]
