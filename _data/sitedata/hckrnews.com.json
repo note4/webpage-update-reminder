@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+    "title": "[英] Surveillance vendors caught abusing access to telcos to track people's locations",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
+    "title": "[英] Sneaky spam in conversational replies to blog posts",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://hisorty.app/",
+    "title": "[英] Show HN: Built a daily game where you sort historical events chronologically",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
+    "title": "[英] Work with the Garage Door Up",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://jiga.io/about-us/",
+    "title": "[英] Jiga (YC W21) Is Hiring",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://github.com/russellromney/honker",
+    "title": "[英] Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47874673",
+    "title": "[英] undefined",
+    "date": "2026-04-23"
+  },
+  {
+    "link": "https://buttondown.com/blog/x400-vs-smtp-email",
+    "title": "[英] Email could have been X.400 times better",
+    "date": "2026-04-23"
+  },
+  {
     "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
     "title": "[英] Highlights from Git 2.54",
     "date": "2026-04-23"
@@ -7,46 +47,6 @@
   {
     "link": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
     "title": "[英] Writing a C Compiler, in Zig",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html",
-    "title": "[英] Do you want the US to \"win\" AI?",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://craigmod.com/essays/ipad_neo/",
-    "title": "[英] MacBook Neo and How the iPad Should Be",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://isopod.site/",
-    "title": "[英] Isopods of the world",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/",
-    "title": "[英] Fundamental Theorem of Calculus",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47873646",
-    "title": "[英] undefined",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://vuseum.wordpress.com/2025/07/22/ex-spie-israeliane-dellunita-8200-assunte-da-apple/",
-    "title": "[英] Former Israeli intelligence agents from Unit 8200 hired by Apple",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://spectrum.ieee.org/hershey-electric-railway-cuba",
-    "title": "[英] The Forgotten History of Hershey's Electric Railway (1916) in Cuba",
-    "date": "2026-04-23"
-  },
-  {
-    "link": "https://simonomi.dev/blog/color-code-your-bytes/",
-    "title": "[英] Your hex editor should color-code bytes",
     "date": "2026-04-23"
   }
 ]
