@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://dynomight.net/aspartame/",
+    "title": "[英] Aspartame is not that bad?",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/",
+    "title": "[英] The operating cost of adult and gambling startups",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://github.com/AndrewVos/endless-toil",
+    "title": "[英] Hear your agent suffer through your code",
+    "date": "2026-04-24"
+  },
+  {
     "link": "https://wisp.mobile",
     "title": "[英] Wisp – Social that's fun again",
     "date": "2026-04-24"
@@ -32,21 +47,6 @@
   {
     "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
     "title": "[英] S. Korea police arrest man over AI image of runaway wolf that misled authorities",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://github.com/matz/spinel",
-    "title": "[英] Spinel: Ruby AOT Native Compiler",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://ynarwal.github.io/how-llms-work/",
-    "title": "[英] Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://github.com/NV404/gova",
-    "title": "[英] Show HN: Gova – The declarative GUI framework for Go",
     "date": "2026-04-24"
   }
 ]
