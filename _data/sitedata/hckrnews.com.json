@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://lwn.net/Articles/1069399/",
+    "title": "[英] Ubuntu 26.04 LTS Released",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://www.nature.com/articles/s41467-026-71264-8",
+    "title": "[英] Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://xark.es/b/mythos-firefox-150",
+    "title": "[英] A quick look at Mythos run on Firefox: too much hype?",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://api-docs.deepseek.com/",
+    "title": "[英] DeepSeek v4",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+    "title": "[英] DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+    "title": "[英] US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://railsdeveloper.com/survey/",
+    "title": "[英] 2026 Ruby on Rails Community Survey",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
+    "title": "[英] Why I Write (1946)",
+    "date": "2026-04-24"
+  },
+  {
     "link": "https://www.cam.ac.uk/stories/fixing-the-roads-turnpikes",
     "title": "[英] How tolls saved Britain from pothole hell in the Industrial Revolution",
     "date": "2026-04-24"
@@ -7,46 +47,6 @@
   {
     "link": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
     "title": "[英] U.S. soldier charged with using classified info to profit from prediction market",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
-    "title": "[英] TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://github.com/refactoringhq/tolaria",
-    "title": "[英] Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://xbow.com/blog/mythos-like-hacking-open-to-all",
-    "title": "[英] GPT-5.5: Mythos-Like Hacking, Open to All",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://newrepublic.com/article/208876/tech-world-evil-musk-bezos-thiel",
-    "title": "[英] How the Tech World Turned Evil",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://github.com/Infisical/agent-vault",
-    "title": "[英] Show HN: Agent Vault – Open-source credential proxy and vault for agents",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://infisical.com/blog/agent-vault-the-open-source-credential-proxy-and-vault-for-agents",
-    "title": "[英] Agent Vault: Open-source credential proxy and vault for agents",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/",
-    "title": "[英] Microsoft offers buyouts up to 7% of US employees",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://biobank.rocher.lc",
-    "title": "[英] UK Biobank health data keeps ending up on GitHub",
     "date": "2026-04-24"
   }
 ]
