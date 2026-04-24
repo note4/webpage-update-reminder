@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Wikipedia:Artificial_intelligence",
+    "title": "[英] Wikipedia's AI Policy",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+    "title": "[英] S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+    "date": "2026-04-24"
+  },
+  {
     "link": "https://github.com/matz/spinel",
     "title": "[英] Spinel: Ruby AOT Native Compiler",
     "date": "2026-04-24"
@@ -37,16 +47,6 @@
   {
     "link": "https://felixbarbalet.com/familiarity-is-the-enemy/",
     "title": "[英] Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://lwn.net/Articles/1069399/",
-    "title": "[英] Ubuntu 26.04",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://www.nature.com/articles/s41467-026-71264-8",
-    "title": "[英] Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
     "date": "2026-04-24"
   }
 ]
