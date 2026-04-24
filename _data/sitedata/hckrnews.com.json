@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://argemma.com/blog/long-lived-keys/",
+    "title": "[英] You don't want long-lived keys",
+    "date": "2026-04-25"
+  },
+  {
     "link": "https://github.com/manankharwar/fusioncore",
     "title": "[英] FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
     "date": "2026-04-25"
@@ -21,7 +26,7 @@
   },
   {
     "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-    "title": "[英] Google Plans to Invest Up to $40B in Anthropic",
+    "title": "[英] Google plans to invest up to $40B in Anthropic",
     "date": "2026-04-25"
   },
   {
@@ -42,11 +47,6 @@
   {
     "link": "https://driggsby.com/blog/claude-code-routine-watch-my-finances",
     "title": "[英] Could a Claude Code routine watch my finances?",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://www.minizinc.org",
-    "title": "[英] MiniZinc, constraint modelling language solve discrete optimisation problems",
     "date": "2026-04-25"
   }
 ]
