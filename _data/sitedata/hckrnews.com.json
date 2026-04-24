@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://evdc.me/blog/css-query",
+    "title": "[英] CSS as a Query Language",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://github.com/microsoft/openclaw",
+    "title": "[英] Microsoft OpenClaw",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://www.recurse.com/blog/192-redesigning-the-recurse-center-application",
+    "title": "[英] Redesigning the Recurse Center application to inspire curious programmers",
+    "date": "2026-04-25"
+  },
+  {
     "link": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/",
     "title": "[英] Tesla (TSLA) discloses $2B AI hardware company acquisition buried",
     "date": "2026-04-25"
@@ -32,21 +47,6 @@
   {
     "link": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
     "title": "[英] I'm done making desktop applications (2009)",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://buttondown.com/maiht3k/archive/why-you-should-refuse-to-let-your-doctor-record/",
-    "title": "[英] Refuse to let your doctor record you",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://arxiv.org/abs/2604.18799",
-    "title": "[英] Machine Learning Reveals Unknown Transient Phenomena in Historic Images",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://github.com/RivoLink/leaf",
-    "title": "[英] Show HN: leaf – a terminal Markdown previewer with a GUI-like experience",
     "date": "2026-04-25"
   }
 ]
