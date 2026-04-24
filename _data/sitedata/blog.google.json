@@ -5,6 +5,11 @@
     "date": "2026-04-25 03:00:00"
   },
   {
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-next-26-recap/",
+    "title": "[英] 7 highlights from Google Cloud Next ‘26",
+    "date": "2026-04-25 02:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-drop-april-2026/",
     "title": "[英] Find out what’s new in the Gemini app in April's Gemini Drop.",
     "date": "2026-04-25 00:00:00"
@@ -43,10 +48,5 @@
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
     "title": "[英] Here’s how our TPUs power increasingly demanding AI workloads.",
     "date": "2026-04-23 20:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-    "title": "[英] Elevating Austria: Google invests in its first data center in the Alps.",
-    "date": "2026-04-23 17:00:00"
   }
 ]

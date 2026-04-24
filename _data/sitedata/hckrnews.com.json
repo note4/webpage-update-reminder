@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+    "title": "[英] Google Plans to Invest Up to $40B in Anthropic",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47895029",
+    "title": "[英] Tell HN: Claude 4.7 is ignoring stop hooks",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://github.com/adam-s/HNswered",
+    "title": "[英] Show HN: HNswered – watches for replies to your Hacker News posts and comments",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://www.thehistoryblog.com/archives/75877",
+    "title": "[英] Iliad fragment found in Roman-era mummy",
+    "date": "2026-04-25"
+  },
+  {
     "link": "https://driggsby.com/blog/claude-code-routine-watch-my-finances",
     "title": "[英] Could a Claude Code routine watch my finances?",
     "date": "2026-04-25"
@@ -27,26 +47,6 @@
   {
     "link": "https://hhh.hn/rodecaster-duo-fw/",
     "title": "[英] My audio interface has SSH enabled by default",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-    "title": "[英] The Classic American Diner",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://dylancastillo.co/til/llm-research-on-hacker-news-is-dying.html",
-    "title": "[英] LLM research on Hacker News is drying up",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://www.wsj.com/finance/investing/google-expands-anthropic-investment-with-40-billion-commitment-99b4de74",
-    "title": "[英] Google investing up to $40B in Anthropic",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://developers.openai.com/api/docs/changelog",
-    "title": "[英] OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
     "date": "2026-04-25"
   }
 ]
