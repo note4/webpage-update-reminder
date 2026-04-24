@@ -1,7 +1,12 @@
 [
   {
-    "link": "https://www.lawdork.com/p/splc-indictment-united-klans-of-america",
-    "title": "[英] The SPLC indictment, the Klan history behind it, and ignominy of Todd Blanche",
+    "link": "https://github.com/manankharwar/fusioncore",
+    "title": "[英] FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47862870",
+    "title": "[英] undefined",
     "date": "2026-04-25"
   },
   {
@@ -42,11 +47,6 @@
   {
     "link": "https://www.minizinc.org",
     "title": "[英] MiniZinc, constraint modelling language solve discrete optimisation problems",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://gdm-tipsv2.github.io/",
-    "title": "[英] TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment",
     "date": "2026-04-25"
   }
 ]
