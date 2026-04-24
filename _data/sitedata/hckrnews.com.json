@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://hhh.hn/rodecaster-duo-fw/",
+    "title": "[英] My audio interface has SSH enabled by default",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+    "title": "[英] The Classic American Diner",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://dylancastillo.co/til/llm-research-on-hacker-news-is-dying.html",
+    "title": "[英] LLM research on Hacker News is drying up",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://www.wsj.com/finance/investing/google-expands-anthropic-investment-with-40-billion-commitment-99b4de74",
+    "title": "[英] Google investing up to $40B in Anthropic",
+    "date": "2026-04-25"
+  },
+  {
     "link": "https://developers.openai.com/api/docs/changelog",
     "title": "[英] OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
     "date": "2026-04-25"
@@ -27,26 +47,6 @@
   {
     "link": "https://evdc.me/blog/css-query",
     "title": "[英] CSS as a Query Language",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47893541",
-    "title": "[英] undefined",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://www.recurse.com/blog/192-redesigning-the-recurse-center-application",
-    "title": "[英] Redesigning the Recurse Center application to inspire curious programmers",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/",
-    "title": "[英] Tesla (TSLA) discloses $2B AI hardware company acquisition buried",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://github.com/libsdl-org/SDL/pull/15377",
-    "title": "[英] SDL Now Supports DOS",
     "date": "2026-04-25"
   }
 ]
