@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://wisp.mobile",
+    "title": "[英] Wisp – Social that's fun again",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://nate.leaflet.pub/3mk4xkaxobc2p",
+    "title": "[英] How to be anti-social – a guide to incoherent and isolating social experiences",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://hostednowhere.com/",
+    "title": "[英] nowhere: an entire website encoded in a URL",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://www.bmj.com/content/393/bmj.s781",
+    "title": "[英] UK Biobank leak: Health details of 500 000 people are offered for sale",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://jeroen.github.io/notes/webassembly-tar/",
+    "title": "[英] Mounting tar archives as a filesystem in WebAssembly",
+    "date": "2026-04-24"
+  },
+  {
     "link": "https://en.wikipedia.org/wiki/Wikipedia:Artificial_intelligence",
     "title": "[英] Wikipedia's AI Policy",
     "date": "2026-04-24"
@@ -22,31 +47,6 @@
   {
     "link": "https://github.com/NV404/gova",
     "title": "[英] Show HN: Gova – The declarative GUI framework for Go",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://mceglowski.substack.com/p/why-not-venus",
-    "title": "[英] Why Not Venus?",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://www.cambra.dev/blog/announcement/",
-    "title": "[英] Composition Shouldn't be this Hard",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://www.businesswire.com/news/home/20260309160253/en/New-Study-Reveals-75-of-Enterprises-Report-Double-Digit-AI-Failure-Rates-as-Fragmented-Observability-Hits-Its-Breaking-Point",
-    "title": "[英] Study Reveals 75% of Enterprises Report Double-Digit AI Failure Rates",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://github.com/Nimaoth/Nev",
-    "title": "[英] Nev – keyboard focused GUI and terminal text editor",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://felixbarbalet.com/familiarity-is-the-enemy/",
-    "title": "[英] Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
     "date": "2026-04-24"
   }
 ]
