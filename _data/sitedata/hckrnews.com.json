@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://github.com/matz/spinel",
+    "title": "[英] Spinel: Ruby AOT Native Compiler",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://ynarwal.github.io/how-llms-work/",
+    "title": "[英] Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://github.com/NV404/gova",
+    "title": "[英] Show HN: Gova – The declarative GUI framework for Go",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://mceglowski.substack.com/p/why-not-venus",
+    "title": "[英] Why Not Venus?",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://www.cambra.dev/blog/announcement/",
+    "title": "[英] Composition Shouldn't be this Hard",
+    "date": "2026-04-24"
+  },
+  {
+    "link": "https://www.businesswire.com/news/home/20260309160253/en/New-Study-Reveals-75-of-Enterprises-Report-Double-Digit-AI-Failure-Rates-as-Fragmented-Observability-Hits-Its-Breaking-Point",
+    "title": "[英] Study Reveals 75% of Enterprises Report Double-Digit AI Failure Rates",
+    "date": "2026-04-24"
+  },
+  {
     "link": "https://github.com/Nimaoth/Nev",
     "title": "[英] Nev – keyboard focused GUI and terminal text editor",
     "date": "2026-04-24"
@@ -17,36 +47,6 @@
   {
     "link": "https://www.nature.com/articles/s41467-026-71264-8",
     "title": "[英] Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://xark.es/b/mythos-firefox-150",
-    "title": "[英] A quick look at Mythos run on Firefox: too much hype?",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://api-docs.deepseek.com/",
-    "title": "[英] DeepSeek v4",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-    "title": "[英] DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-    "title": "[英] US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://railsdeveloper.com/survey/",
-    "title": "[英] 2026 Ruby on Rails Community Survey",
-    "date": "2026-04-24"
-  },
-  {
-    "link": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
-    "title": "[英] Why I Write (1946)",
     "date": "2026-04-24"
   }
 ]
