@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+    "title": "[英] Hokusai and Tesselations",
+    "date": "2026-04-26"
+  },
+  {
     "link": "https://boilingsteam.com/framework-laptop-13-pro-announced/",
     "title": "[英] Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center",
     "date": "2026-04-26"
@@ -16,7 +21,7 @@
   },
   {
     "link": "https://github.com/niri-wm/niri/releases/tag/v26.04",
-    "title": "[英] Niri 26.04 was just released (scrollable-tiling Wayland compositor)",
+    "title": "[英] Niri 26.04: Scrollable-tiling Wayland compositor",
     "date": "2026-04-26"
   },
   {
@@ -31,12 +36,12 @@
   },
   {
     "link": "https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains",
-    "title": "[英] What's Missing in the 'Agentic' Story",
+    "title": "[英] What's missing in the 'agentic' story: a well-defined user agent role",
     "date": "2026-04-26"
   },
   {
     "link": "https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf",
-    "title": "[英] A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf]",
+    "title": "[英] A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf] (2023)",
     "date": "2026-04-26"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://jorgenmelau.substack.com/p/the-first-sixty-seconds",
     "title": "[英] Jumping into cold water can stop your heart",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://www.jakeworth.com/posts/on-commenting-and-approving-pull-requests/",
-    "title": "[英] Commenting and Approving Pull Requests",
     "date": "2026-04-26"
   }
 ]
