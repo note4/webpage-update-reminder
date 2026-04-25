@@ -1,12 +1,17 @@
 [
   {
+    "link": "https://www.jakeworth.com/posts/on-commenting-and-approving-pull-requests/",
+    "title": "[英] Commenting and Approving Pull Requests",
+    "date": "2026-04-25"
+  },
+  {
     "link": "https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/",
     "title": "[英] Only One Side Will Be the True Successor to MS-DOS – Windows 2.x",
     "date": "2026-04-25"
   },
   {
     "link": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-    "title": "[英] 1-Bit Hokusai's \"The Great Wave\"",
+    "title": "[英] 1-Bit Hokusai's \"The Great Wave\" (2023)",
     "date": "2026-04-25"
   },
   {
@@ -50,13 +55,13 @@
     "date": "2026-04-25"
   },
   {
-    "link": "https://github.com/nex-crm/wuphf",
-    "title": "[英] Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+    "link": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
+    "title": "[英] How to Implement an FPS Counter",
     "date": "2026-04-25"
   },
   {
-    "link": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
-    "title": "[英] How to Implement an FPS Counter",
+    "link": "https://github.com/nex-crm/wuphf",
+    "title": "[英] Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
     "date": "2026-04-25"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://nikomc.com/2026/04/22/pcr/",
     "title": "[英] PCR is a surprisingly near-optimal technology",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-    "title": "[英] New 10 GbE USB adapters are cooler, smaller, cheaper",
     "date": "2026-04-25"
   }
 ]
