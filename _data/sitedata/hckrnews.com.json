@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://spectrum.ieee.org/eniac-80th-anniversary-weaving",
+    "title": "[英] ENIAC's Architects Wove Stories Through Computing",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://ky.fyi/posts/ai-burnout",
+    "title": "[英] Do I belong in tech anymore?",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://clad.you/blog/posts/questionnaire-mlp/",
+    "title": "[英] A 3D Body from Eight Questions – No Photo, No GPU",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://ky.fyi/posts/ai-burnout",
+    "title": "[英] Do I belong in tech anymore?",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://github.com/magiblot/tvision",
+    "title": "[英] Turbo Vision 2.0 – a modern port",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://github.com/vinhnx/VTCode",
+    "title": "[英] Show HN: VT Code – Rust TUI coding agent with multi-provider support",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf",
+    "title": "[英] Oxford All Souls College General Examination (2025) [pdf]",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)00259-9",
+    "title": "[英] A disabled kea parrot is the alpha male of his circus",
+    "date": "2026-04-25"
+  },
+  {
     "link": "https://www.furrtek.org/?a=esl",
     "title": "[英] Reverse-engineering infrared-based electronic shelf labels",
     "date": "2026-04-25"
@@ -7,46 +47,6 @@
   {
     "link": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
     "title": "[英] (Blender) Cosmology with Geometry Nodes",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-    "title": "[英] \"Plain text has been around for decades and it's here to stay.\" – Unsung",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://www.science.org/content/article/simple-house-may-help-prevent-multiple-fatal-diseases-african-children",
-    "title": "[英] $8800 house design helps prevent fatal diseases in African children",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-    "title": "[英] Firefox Has Integrated Brave's Adblock Engine",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-    "title": "[英] Replace IBM Quantum back end with /dev/urandom",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-    "title": "[英] Paraloid B-72",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://leontrolski.github.io/alt.html",
-    "title": "[英] Generalised plusequals",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
-    "title": "[英] Education must go beyond the mere production of words",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-    "title": "[英] Humpback whales are forming super-groups",
     "date": "2026-04-25"
   }
 ]
