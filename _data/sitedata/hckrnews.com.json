@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://dupr.at/thermodynamic-efficiency-inversion",
+    "title": "[英] Show HN: LLMs consume 5.4x less mobile energy than ad-supported web search",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://hedgehogreview.com/web-features/thr/posts/the-man-who-invented-the-future",
+    "title": "[英] A Man Who Invented the Future",
+    "date": "2026-04-25"
+  },
+  {
     "link": "https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web",
     "title": "[英] Escrow Security for iCloud Keychain",
     "date": "2026-04-25"
@@ -62,16 +72,6 @@
   {
     "link": "https://ky.fyi/posts/ai-burnout",
     "title": "[英] Do I belong in tech anymore?",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://github.com/magiblot/tvision",
-    "title": "[英] Turbo Vision 2.0 – a modern port",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://github.com/vinhnx/VTCode",
-    "title": "[英] Show HN: VT Code – Rust TUI coding agent with multi-provider support",
     "date": "2026-04-25"
   }
 ]
