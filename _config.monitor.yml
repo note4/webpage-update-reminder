@@ -3,6 +3,7 @@ webhooks:
   webpage: FEISHU_HOOK_WEBPAGE
 
 tasks:
+
   - name: 月光博客 RSS
     slug: williamlong.info
     type: rss
@@ -31,6 +32,27 @@ tasks:
     webhook: rss
     parser: auto
 
+  - name: cnBeta RSS
+    slug: cnbeta.com.tw
+    type: rss
+    url: https://rss.cnbeta.com.tw/
+    webhook: rss
+    parser: auto
+
+  - name: techcrunch RSS
+    slug: techcrunch.com
+    type: rss
+    url: https://techcrunch.com/feed/
+    webhook: rss
+    parser: auto
+
+  - name: techorange
+    slug: techorange.com
+    type: rss
+    url: https://techorange.com/feed/
+    webhook: rss
+    parser: auto
+
   - name: 关关难过关关过
     slug: learncodethehardway.com
     type: html
@@ -47,21 +69,14 @@ tasks:
     selector: "#entries li.entry"
     parser: auto
 
-  - name: techcrunch
-    slug: techcrunch.com
+  - name: kalzumeus
+    slug: kalzumeus.com
     type: html
-    url: https://techcrunch.com/latest/
+    url: https://www.kalzumeus.com/archive/
     webhook: webpage
-    selector: ".elementor-widget-theme-post-title"
+    selector: ".page-archive > p"
     parser: auto
 
-  - name: techorange
-    slug: techorange.com
-    type: html
-    url: https://techorange.com/latest/
-    webhook: webpage
-    selector: ".loop-card--post-type-post"
-    parser: auto
 
   - name: 长沙地铁
     slug: hncsmtr.com_zhaopin
@@ -70,13 +85,4 @@ tasks:
     webhook: webpage
     parser: changsha
     selector: ".datedesc"
-    force_encoding: gb18030
-
-  - name: 铁路招聘信息
-    slug: rczp.china-railway.com.cn_zhaopin
-    type: html
-    url: https://rczp.china-railway.com.cn/page/recruitment/rec_info.html
-    webhook: webpage
-    parser: changsha
-    selector: ".rec_table tr td a"
     force_encoding: gb18030
