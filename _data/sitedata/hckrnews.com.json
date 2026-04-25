@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://lute.luau.org/",
+    "title": "[英] Lute: A Standalone Runtime for Luau",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+    "title": "[英] It's OK to Use Agentic to Revive the Projects You Never Were Going to Finish",
+    "date": "2026-04-26"
+  },
+  {
     "link": "https://www.bbc.com/news/articles/c51y797v200o",
     "title": "[英] Desmond Morris has died",
     "date": "2026-04-26"
@@ -62,16 +72,6 @@
   {
     "link": "https://nypost.com/2026/04/21/world-news/uk-to-permanently-ban-future-generations-from-buying-cigarettes/",
     "title": "[英] UK to permanently ban future generations from buying cigarettes",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-    "title": "[英] GPT 5.5 biosafety bounty",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://fabiensanglard.net/discret11/",
-    "title": "[英] Discret 11, the French TV encryption of the 80s",
     "date": "2026-04-26"
   }
 ]
