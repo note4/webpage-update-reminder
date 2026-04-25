@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://github.com/MartinGalway/C64_music",
+    "title": "[英] Martin Galway's music source files from 1980's Commodore 64 games",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://victortaelin.github.io/lambench/",
+    "title": "[英] Lambda Calculus Benchmark for AI",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://github.com/nakagami/grdpwasm",
+    "title": "[英] A web-based RDP client built with Go WebAssembly and grdp",
+    "date": "2026-04-25"
+  },
+  {
     "link": "https://www.historytoday.com/archive/feature/panipat-rise-mughals",
     "title": "[英] Panipat: The Rise of the Mughals",
     "date": "2026-04-25"
@@ -25,13 +40,13 @@
     "date": "2026-04-25"
   },
   {
-    "link": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
-    "title": "[英] How to Implement an FPS Counter",
+    "link": "https://github.com/nex-crm/wuphf",
+    "title": "[英] Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
     "date": "2026-04-25"
   },
   {
-    "link": "https://github.com/nex-crm/wuphf",
-    "title": "[英] Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+    "link": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
+    "title": "[英] How to Implement an FPS Counter",
     "date": "2026-04-25"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
     "title": "[英] The mail sent to a video game publisher",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://spectrum.ieee.org/eniac-80th-anniversary-weaving",
-    "title": "[英] ENIAC's Architects Wove Stories Through Computing",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://ky.fyi/posts/ai-burnout",
-    "title": "[英] Do I belong in tech anymore?",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://clad.you/blog/posts/questionnaire-mlp/",
-    "title": "[英] A 3D Body from Eight Questions – No Photo, No GPU",
     "date": "2026-04-25"
   }
 ]
