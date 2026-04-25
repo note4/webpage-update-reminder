@@ -14,7 +14,7 @@ from email.utils import parsedate_to_datetime
 # 配置文件名锁定
 CONFIG_FILE = '_config.monitor.yml'
 DATA_DIR = '_data/sitedata' 
-MAX_HISTORY = 10 
+MAX_HISTORY = 15 
 TZ_SHANGHAI = pytz.timezone('Asia/Shanghai')
 
 translator = Translator(service_urls=['translate.google.com', 'translate.google.cn'])
