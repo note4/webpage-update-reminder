@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.thenation.com/article/culture/larry-mcmurtry-biography/",
+    "title": "[英] Larry McMurtry's Tall Tales",
+    "date": "2026-04-25"
+  },
+  {
     "link": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
     "title": "[英] How to Implement an FPS Counter",
     "date": "2026-04-25"
@@ -67,11 +72,6 @@
   {
     "link": "https://github.com/vinhnx/VTCode",
     "title": "[英] Show HN: VT Code – Rust TUI coding agent with multi-provider support",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)00259-9",
-    "title": "[英] A disabled kea parrot is the alpha male of his circus",
     "date": "2026-04-25"
   }
 ]
