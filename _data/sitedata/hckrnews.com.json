@@ -1,7 +1,12 @@
 [
   {
+    "link": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
+    "title": "[英] A Powerful New 'QR Code' Untangles Math's Knottiest Knots",
+    "date": "2026-04-25"
+  },
+  {
     "link": "https://nikomc.com/2026/04/22/pcr/",
-    "title": "[英] PCR Is a (Surprisingly) Near-Optimal Technology",
+    "title": "[英] PCR is a surprisingly near-optimal technology",
     "date": "2026-04-25"
   },
   {
@@ -42,11 +47,6 @@
   {
     "link": "https://github.com/magiblot/tvision",
     "title": "[英] Turbo Vision 2.0 – a modern port",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://github.com/vinhnx/VTCode",
-    "title": "[英] Show HN: VT Code – Rust TUI coding agent with multi-provider support",
     "date": "2026-04-25"
   }
 ]
