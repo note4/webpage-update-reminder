@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
+    "title": "[英] How to Implement an FPS Counter",
+    "date": "2026-04-25"
+  },
+  {
+    "link": "https://github.com/nex-crm/wuphf",
+    "title": "[英] Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+    "date": "2026-04-25"
+  },
+  {
     "link": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
     "title": "[英] A Powerful New 'QR Code' Untangles Math's Knottiest Knots",
     "date": "2026-04-25"
@@ -37,16 +47,6 @@
   {
     "link": "https://clad.you/blog/posts/questionnaire-mlp/",
     "title": "[英] A 3D Body from Eight Questions – No Photo, No GPU",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://ky.fyi/posts/ai-burnout",
-    "title": "[英] Do I belong in tech anymore?",
-    "date": "2026-04-25"
-  },
-  {
-    "link": "https://github.com/magiblot/tvision",
-    "title": "[英] Turbo Vision 2.0 – a modern port",
     "date": "2026-04-25"
   }
 ]
