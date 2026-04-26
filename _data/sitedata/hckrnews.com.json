@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://v8.dev/blog/orinoco-parallel-scavenger",
+    "title": "[英] Orinoco: Young Generation Garbage Collection",
+    "date": "2026-04-27"
+  },
+  {
     "link": "https://shankwiler.com/posts/button-survival-hypothetical/",
     "title": "[英] If more than 50% press blue, everyone survives. Red pressers always survive",
     "date": "2026-04-27"
@@ -67,11 +72,6 @@
   {
     "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
     "title": "[英] Why SWE-bench Verified no longer measures frontier coding capabilities",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/",
-    "title": "[英] QNX on the Commodore 900 – Raiders of the lost hard drive [video]",
     "date": "2026-04-27"
   }
 ]
