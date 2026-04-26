@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+    "title": "[英] Why SWE-bench Verified no longer measures frontier coding capabilities",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/",
+    "title": "[英] QNX on the Commodore 900 – Raiders of the lost hard drive [video]",
+    "date": "2026-04-26"
+  },
+  {
     "link": "https://blog.cynthia.re/post/nintendo-switch-ethernet-switch",
     "title": "[英] The Nintendo Switch Switch (2019)",
     "date": "2026-04-26"
@@ -62,16 +72,6 @@
   {
     "link": "https://mastodon.catgirl.cloud/@sophie/116467789133733136",
     "title": "[英] Tip: Web requests should not be measured in Hz [Hertz]",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://www.journal.media-culture.org.au/index.php/mcjournal/article/view/299",
-    "title": "[英] Tushonka: Cultivating Soviet Postwar Taste (2010)",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://www.jsoftware.com/papers/perlis78.htm",
-    "title": "[英] APL is more French than English",
     "date": "2026-04-26"
   }
 ]
