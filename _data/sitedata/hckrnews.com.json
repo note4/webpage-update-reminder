@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://coalton-lang.github.io/20260424-mine/",
+    "title": "[英] Mine, a Coalton and Common Lisp IDE",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation",
+    "title": "[英] At least 10 people tied to sensitive US research have died or disappeared",
+    "date": "2026-04-26"
+  },
+  {
     "link": "https://shift1w.com/blog/config-of-theseus/",
     "title": "[英] My .config Ship of Theseus",
     "date": "2026-04-26"
@@ -62,16 +72,6 @@
   {
     "link": "https://ciechanow.ski/exposing-floating-point/",
     "title": "[英] Exposing Floating Point – Bartosz Ciechanowski (2019)",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
-    "title": "[英] Quirks of Human Anatomy",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
-    "title": "[英] Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
     "date": "2026-04-26"
   }
 ]
