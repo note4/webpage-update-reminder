@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
+    "title": "[英] Dear friend, you have built a Kubernetes (2024)",
+    "date": "2026-04-27"
+  },
+  {
     "link": "https://thermodynamicsbook.com/",
     "title": "[英] Free Textbook on Engineering Thermodynamics",
     "date": "2026-04-27"
@@ -67,11 +72,6 @@
   {
     "link": "https://chalkdustmagazine.com/features/cheating-at-tetris/",
     "title": "[英] Cheating at Tetris",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
-    "title": "[英] Show HN: Turning a Gaussian Splat into a videogame",
     "date": "2026-04-27"
   }
 ]
