@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://github.com/knight-lang/knight-lang/tree/master",
+    "title": "[英] The Knight Programming Language",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://www.npmjs.com/package/ooko",
+    "title": "[英] I spent 6 years building my Kanban as I hated how managers run the boards",
+    "date": "2026-04-26"
+  },
+  {
     "link": "https://mastodon.catgirl.cloud/@sophie/116467789133733136",
     "title": "[英] Tip: Web requests should not be measured in Hz [Hertz]",
     "date": "2026-04-26"
@@ -62,16 +72,6 @@
   {
     "link": "https://sfconservancy.org/blog/2026/apr/02/fcc-router-ban/",
     "title": "[英] What the FCC router ban means for FOSS",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://asteriskmag.com/issues/14/shall-we-play-a-game",
-    "title": "[英] The route from Prussian military headquarters to Gary Gygax’s basement",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://wandel.ca/homepage/pbx.html",
-    "title": "[英] My Homemade PBX (2002)",
     "date": "2026-04-26"
   }
 ]
