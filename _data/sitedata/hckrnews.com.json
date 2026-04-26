@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://eblong.com/infocom/visi/zork1/",
+    "title": "[英] The Visible Zorker: Zork 1",
+    "date": "2026-04-27"
+  },
+  {
     "link": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
     "title": "[英] Dear friend, you have built a Kubernetes (2024)",
     "date": "2026-04-27"
@@ -67,11 +72,6 @@
   {
     "link": "https://jumpstartsignal.com/",
     "title": "[英] Show HN: A free ESG stock screener that publishes its losses and methodology",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://chalkdustmagazine.com/features/cheating-at-tetris/",
-    "title": "[英] Cheating at Tetris",
     "date": "2026-04-27"
   }
 ]
