@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
+    "title": "[英] Show HN: Turning a Gaussian Splat into a videogame",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://www.edenai.co",
+    "title": "[英] Eden AI – European Alternative to OpenRouter",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://statecharts.dev/",
+    "title": "[英] Statecharts: hierarchical state machines",
+    "date": "2026-04-26"
+  },
+  {
     "link": "https://github.com/knight-lang/knight-lang/tree/master",
     "title": "[英] The Knight Programming Language",
     "date": "2026-04-26"
@@ -57,21 +72,6 @@
   {
     "link": "https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/",
     "title": "[英] AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://github.com/PearsonZero/kodak-pcd0992-statistical-characterization/tree/main/baseline",
-    "title": "[英] Per-image PCA characterization of the Kodak image suite (PDF and JSON)",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
-    "title": "[英] GnuPG – post-quantum crypto landing in mainline",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://sfconservancy.org/blog/2026/apr/02/fcc-router-ban/",
-    "title": "[英] What the FCC router ban means for FOSS",
     "date": "2026-04-26"
   }
 ]
