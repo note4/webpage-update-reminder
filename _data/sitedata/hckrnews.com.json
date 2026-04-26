@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://porticoquarterly.com/book/the-last-of-the-lost-generation/",
+    "title": "[英] The Last of the Lost Generation",
+    "date": "2026-04-27"
+  },
+  {
     "link": "https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca",
     "title": "[英] Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3",
     "date": "2026-04-27"
@@ -67,11 +72,6 @@
   {
     "link": "https://github.com/sachitrafa/YourMemory",
     "title": "[英] Show HN: AI memory with biological decay (52% recall)",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://auge.franzai.com/",
-    "title": "[英] Show HN: Auge Vision from Your Terminal",
     "date": "2026-04-27"
   }
 ]
