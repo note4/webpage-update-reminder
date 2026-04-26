@@ -1,17 +1,57 @@
 [
   {
+    "link": "https://openai.com/index/introducing-openai-privacy-filter/",
+    "title": "[英] OpenAI Privacy Filter",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://dl.acm.org/doi/10.1145/3669940.3707274",
+    "title": "[英] Optimizing Datalog for the GPU",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://www.politico.eu/article/europe-exploit-dunald-trump-brain-drain-academic-research-progressive-institutions/",
+    "title": "[英] Europe to burned American scientists: We'll take you in (2025)",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software",
+    "title": "[英] Agents Aren't Coworkers, Embed Them in Your Software",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+    "title": "[英] Why has there been so little progress on Alzheimer's disease?",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://fosstodon.org/@carlrichell/116460505717380644",
+    "title": "[英] Colorado Adds Open-Source Exemption to Age-Verification Bill",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html",
+    "title": "[英] Her Life Savings Mysteriously Disappeared After a Systems Glitch",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
+    "title": "[英] Flickr: The first and last great photo platform",
+    "date": "2026-04-26"
+  },
+  {
     "link": "http://miod.online.fr/software/openbsd/stories/vaxfp.html",
-    "title": "[英] Math Is Hard",
+    "title": "[英] Math Is Hard – OpenBSD Stories",
     "date": "2026-04-26"
   },
   {
     "link": "https://fabiensanglard.net/usbcheat/index.html",
-    "title": "[英] USB Cheat Sheet",
+    "title": "[英] USB Cheat Sheet (2022)",
     "date": "2026-04-26"
   },
   {
     "link": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
-    "title": "[英] Trump fires all 24 members of the U.S. National Science Foundation",
+    "title": "[英] Trump fires NSF's oversight board",
     "date": "2026-04-26"
   },
   {
@@ -26,52 +66,12 @@
   },
   {
     "link": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
-    "title": "[英] The AI Industry Is Discovering That the Public Hates It",
+    "title": "[英] The AI industry is discovering that the public hates it",
     "date": "2026-04-26"
   },
   {
     "link": "https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/",
     "title": "[英] How Hard Is It to Open a File?",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
-    "title": "[英] Simulacrum of Knowledge Work",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://github.com/rockcat/HATS",
-    "title": "[英] AI agents that argue with each other to improve decisions",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://coalton-lang.github.io/mine/",
-    "title": "[英] Mine, an IDE for Coalton and Common Lisp",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
-    "title": "[英] America's Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://milletsalliance.org/",
-    "title": "[英] North American Millets Alliance(2023)",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://getkloak.io/",
-    "title": "[英] Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=1sd26pWhfmg",
-    "title": "[英] Nicholas Carlini – Black-hat LLMs [video]",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://www.theatlantic.com/ideas/2026/04/stanford-students-power/686920/",
-    "title": "[英] The Stanford Freshmen Who Want to Rule the World",
     "date": "2026-04-26"
   }
 ]
