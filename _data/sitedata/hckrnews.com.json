@@ -1,17 +1,32 @@
 [
   {
+    "link": "https://github.com/xdgrulez/human-source-license",
+    "title": "[英] Human Source License (HSL)",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.barwypowstania.pl/",
+    "title": "[英] The 1944 Warsaw Uprising, in Color",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/",
+    "title": "[英] Fast16: Cyberweapon that predates Stuxnet by five years",
+    "date": "2026-04-27"
+  },
+  {
     "link": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
-    "title": "[英] Magic: The Gathering Took Me from N2 to Japanese Fluency",
+    "title": "[英] Magic: The Gathering took me from N2 to Japanese fluency",
     "date": "2026-04-27"
   },
   {
     "link": "https://evalcode.com/posts/if-you-stop-hiring-juniors-your-seniors-own-you/",
-    "title": "[英] If You Stop Hiring Juniors, Your Senior Engineers Own You",
+    "title": "[英] If you stop hiring juniors, your senior engineers own you",
     "date": "2026-04-27"
   },
   {
     "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-    "title": "[英] A.I. is creating engineers who can't think without it",
+    "title": "[英] AI should elevate your thinking, not replace it",
     "date": "2026-04-27"
   },
   {
@@ -26,7 +41,7 @@
   },
   {
     "link": "https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo",
-    "title": "[英] Waymo says expecting driverless taxis to stay out of bike lanes is unrealistic",
+    "title": "[英] Waymo says can't avoid bike lanes because riders want to be dropped off in them",
     "date": "2026-04-27"
   },
   {
@@ -46,7 +61,7 @@
   },
   {
     "link": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-    "title": "[英] GoDaddy Gave a Domain to a Stranger Without Any Documentation",
+    "title": "[英] GoDaddy gave a domain to a stranger without any documentation",
     "date": "2026-04-27"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
     "title": "[英] Dear friend, you have built a Kubernetes (2024)",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-    "title": "[英] An AI agent deleted our production database. The agent's confession is below",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://thermodynamicsbook.com/",
-    "title": "[英] Free Textbook on Engineering Thermodynamics",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://arpitbhayani.me/blogs/defensive-databases/",
-    "title": "[英] Databases Were Not Designed for This",
     "date": "2026-04-27"
   }
 ]
