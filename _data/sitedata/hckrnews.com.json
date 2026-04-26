@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca",
+    "title": "[英] Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://playtiao.com",
+    "title": "[英] Show HN: Tiao, A two-player turn-based board game",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://dystroy.org/blog/box-to-save-memory/",
+    "title": "[英] Box to Save Memory in Rust",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://options-game-polymathrobotics.pythonanywhere.com/",
+    "title": "[英] Show HN: Startup Equity Adventure Game",
+    "date": "2026-04-27"
+  },
+  {
     "link": "https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core",
     "title": "[英] Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
     "date": "2026-04-27"
@@ -35,13 +55,13 @@
     "date": "2026-04-27"
   },
   {
-    "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-    "title": "[英] Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+    "link": "https://xoxofest.com/",
+    "title": "[英] XOXO Festival Archive",
     "date": "2026-04-27"
   },
   {
-    "link": "https://xoxofest.com/",
-    "title": "[英] XOXO Festival Archive",
+    "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+    "title": "[英] Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
     "date": "2026-04-27"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://auge.franzai.com/",
     "title": "[英] Show HN: Auge Vision from Your Terminal",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://github.com/xdgrulez/human-source-license",
-    "title": "[英] Human Source License (HSL)",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.barwypowstania.pl/",
-    "title": "[英] The 1944 Warsaw Uprising, in Color",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-    "title": "[英] Fast16: High-precision software sabotage 5 years before Stuxnet",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
-    "title": "[英] Magic: The Gathering took me from N2 to Japanese fluency",
     "date": "2026-04-27"
   }
 ]
