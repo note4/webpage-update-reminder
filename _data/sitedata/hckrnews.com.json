@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://ciechanow.ski/exposing-floating-point/",
+    "title": "[英] Exposing Floating Point – Bartosz Ciechanowski",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
+    "title": "[英] Quirks of Human Anatomy",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
+    "title": "[英] Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+    "title": "[英] The West Forgot How to Make Things. Now It's Forgetting How to Code",
+    "date": "2026-04-26"
+  },
+  {
     "link": "https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/",
     "title": "[英] Rediscovering the Handcart",
     "date": "2026-04-26"
@@ -52,26 +72,6 @@
   {
     "link": "https://fabiensanglard.net/snes_carts/",
     "title": "[英] The Super Nintendo Cartridges (2024)",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://wakamoleguy.com/p/reviving-browserid-in-2026",
-    "title": "[英] Reviving BrowserID in 2026",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://freakonomics.com/podcast/does-advertising-actually-work-part-2-digital-ep-441/",
-    "title": "[英] Does internet advertising work? (2020)",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47906253",
-    "title": "[英] Tell HN: An app is silently installing itself on my iPhone every day",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://www.lmsys.org/blog/2026-04-25-deepseek-v4/",
-    "title": "[英] DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles",
     "date": "2026-04-26"
   }
 ]
