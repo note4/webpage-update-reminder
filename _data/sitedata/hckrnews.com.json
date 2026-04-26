@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core",
+    "title": "[英] Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+    "title": "[英] I bought Friendster for $30k – Here's what I'm doing with it",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on",
+    "title": "[英] Chernobyl Wildlife Forty Years On",
+    "date": "2026-04-27"
+  },
+  {
     "link": "https://moq.dev/blog/moq-boy/",
     "title": "[英] MoQ Boy",
     "date": "2026-04-27"
@@ -20,13 +35,13 @@
     "date": "2026-04-27"
   },
   {
-    "link": "https://xoxofest.com/",
-    "title": "[英] XOXO Festival Archive",
+    "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+    "title": "[英] Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
     "date": "2026-04-27"
   },
   {
-    "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-    "title": "[英] Sawe smashes two-hour mark to 'move goalposts for marathon running'",
+    "link": "https://xoxofest.com/",
+    "title": "[英] XOXO Festival Archive",
     "date": "2026-04-27"
   },
   {
@@ -50,28 +65,13 @@
     "date": "2026-04-27"
   },
   {
-    "link": "https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/",
-    "title": "[英] Fast16: Cyberweapon that predates Stuxnet by five years",
+    "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+    "title": "[英] Fast16: High-precision software sabotage 5 years before Stuxnet",
     "date": "2026-04-27"
   },
   {
     "link": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
     "title": "[英] Magic: The Gathering took me from N2 to Japanese fluency",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://evalcode.com/posts/if-you-stop-hiring-juniors-your-seniors-own-you/",
-    "title": "[英] If you stop hiring juniors, your senior engineers own you",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-    "title": "[英] AI should elevate your thinking, not replace it",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://v8.dev/blog/orinoco-parallel-scavenger",
-    "title": "[英] Orinoco: Young Generation Garbage Collection",
     "date": "2026-04-27"
   }
 ]
