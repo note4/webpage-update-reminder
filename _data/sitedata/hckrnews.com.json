@@ -1,7 +1,22 @@
 [
   {
+    "link": "https://mastodon.catgirl.cloud/@sophie/116467789133733136",
+    "title": "[英] Tip: Web requests should not be measured in Hz [Hertz]",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://www.journal.media-culture.org.au/index.php/mcjournal/article/view/299",
+    "title": "[英] Tushonka: Cultivating Soviet Postwar Taste (2010)",
+    "date": "2026-04-26"
+  },
+  {
+    "link": "https://www.jsoftware.com/papers/perlis78.htm",
+    "title": "[英] APL is more French than English",
+    "date": "2026-04-26"
+  },
+  {
     "link": "https://ciechanow.ski/exposing-floating-point/",
-    "title": "[英] Exposing Floating Point – Bartosz Ciechanowski",
+    "title": "[英] Exposing Floating Point – Bartosz Ciechanowski (2019)",
     "date": "2026-04-26"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://wandel.ca/homepage/pbx.html",
     "title": "[英] My Homemade PBX (2002)",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
-    "title": "[英] EU Age Control: The trojan horse for digital IDs",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://themahjong.guide/",
-    "title": "[英] Mahjong: A Visual Guide",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://fabiensanglard.net/snes_carts/",
-    "title": "[英] The Super Nintendo Cartridges (2024)",
     "date": "2026-04-26"
   }
 ]
