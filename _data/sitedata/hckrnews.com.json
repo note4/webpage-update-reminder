@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://moq.dev/blog/moq-boy/",
+    "title": "[英] MoQ Boy",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html",
+    "title": "[英] U.S. Mint Buys Drug Cartel Gold and Sells It as 'American'",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
+    "title": "[英] Butterflies are in decline across North America, a look at the Western Monarch",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-shatters-the-2-hour-barrier-at-2026-london-marathon/",
+    "title": "[英] 1:59:30: Sabastian Sawe Shatters the 2-Hour Barrier at 2026 London Marathon",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://xoxofest.com/",
+    "title": "[英] XOXO Festival Archive",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+    "title": "[英] Sawe smashes two-hour mark to 'move goalposts for marathon running'",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://github.com/sachitrafa/YourMemory",
+    "title": "[英] Show HN: AI memory with biological decay (52% recall)",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://auge.franzai.com/",
+    "title": "[英] Show HN: Auge Vision from Your Terminal",
+    "date": "2026-04-27"
+  },
+  {
     "link": "https://github.com/xdgrulez/human-source-license",
     "title": "[英] Human Source License (HSL)",
     "date": "2026-04-27"
@@ -32,46 +72,6 @@
   {
     "link": "https://v8.dev/blog/orinoco-parallel-scavenger",
     "title": "[英] Orinoco: Young Generation Garbage Collection",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://shankwiler.com/posts/button-survival-hypothetical/",
-    "title": "[英] If more than 50% press blue, everyone survives. Red pressers always survive",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo",
-    "title": "[英] Waymo says can't avoid bike lanes because riders want to be dropped off in them",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422",
-    "title": "[英] Plants can sense the sound of rain, a new study finds",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://dillo-browser.org/release/3.3.0/",
-    "title": "[英] Dillo Browser Release 3.3.0",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.markround.com/blog/2026/04/19/sloppy-copies/",
-    "title": "[英] Sloppy Copies",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-    "title": "[英] GoDaddy gave a domain to a stranger without any documentation",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://eblong.com/infocom/visi/zork1/",
-    "title": "[英] The Visible Zorker: Zork 1",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
-    "title": "[英] Dear friend, you have built a Kubernetes (2024)",
     "date": "2026-04-27"
   }
 ]
