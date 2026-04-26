@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.cynthia.re/post/nintendo-switch-ethernet-switch",
+    "title": "[英] The Nintendo Switch Switch (2019)",
+    "date": "2026-04-26"
+  },
+  {
     "link": "https://coalton-lang.github.io/20260424-mine/",
     "title": "[英] Mine, a Coalton and Common Lisp IDE",
     "date": "2026-04-26"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.jsoftware.com/papers/perlis78.htm",
     "title": "[英] APL is more French than English",
-    "date": "2026-04-26"
-  },
-  {
-    "link": "https://ciechanow.ski/exposing-floating-point/",
-    "title": "[英] Exposing Floating Point – Bartosz Ciechanowski (2019)",
     "date": "2026-04-26"
   }
 ]
