@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.bloomberg.com/news/articles/2026-04-24/viral-tin-can-phone-brings-landline-nostalgia-back-for-kids-in-2026",
+    "title": "[英] The Hottest Phone for Kids Right Now Is a $100 Landline",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://jordanlord.co.uk/blog/3-constraints/",
+    "title": "[英] Three constraints before I build anything",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://arun.is/blog/cheap-cool/",
+    "title": "[英] When the cheap one is the cool one",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://interblah.net/self-updating-screenshots",
+    "title": "[英] Self-updating screenshots",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/",
+    "title": "[英] The fastest Linux timestamps",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.alejandro.pe/writing/sail-muddy-lessons",
+    "title": "[英] Lessons from building multiplayer browsers",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://computer.rip/2026-04-26-voice-modems.html",
+    "title": "[英] Voice Modems",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://github.com/ebrandi/FDD-book",
+    "title": "[英] FreeBSD Device Drivers Book",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+    "title": "[英] Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.ianvisits.co.uk/articles/a-garden-built-from-its-own-ruins-opens-in-regents-park-89152/",
+    "title": "[英] The QEII garden – built from its own ruins – opens in Regent's Park",
+    "date": "2026-04-27"
+  },
+  {
     "link": "https://porticoquarterly.com/book/the-last-of-the-lost-generation/",
     "title": "[英] The Last of the Lost Generation",
     "date": "2026-04-27"
@@ -16,62 +66,12 @@
   },
   {
     "link": "https://dystroy.org/blog/box-to-save-memory/",
-    "title": "[英] Box to Save Memory in Rust",
+    "title": "[英] Box to save memory in Rust",
     "date": "2026-04-27"
   },
   {
     "link": "https://options-game-polymathrobotics.pythonanywhere.com/",
     "title": "[英] Show HN: Startup Equity Adventure Game",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core",
-    "title": "[英] Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-    "title": "[英] I bought Friendster for $30k – Here's what I'm doing with it",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on",
-    "title": "[英] Chernobyl Wildlife Forty Years On",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://moq.dev/blog/moq-boy/",
-    "title": "[英] MoQ Boy",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html",
-    "title": "[英] U.S. Mint Buys Drug Cartel Gold and Sells It as 'American'",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
-    "title": "[英] Butterflies are in decline across North America, a look at the Western Monarch",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-shatters-the-2-hour-barrier-at-2026-london-marathon/",
-    "title": "[英] 1:59:30: Sabastian Sawe Shatters the 2-Hour Barrier at 2026 London Marathon",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://xoxofest.com/",
-    "title": "[英] XOXO Festival Archive",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-    "title": "[英] Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://github.com/sachitrafa/YourMemory",
-    "title": "[英] Show HN: AI memory with biological decay (52% recall)",
     "date": "2026-04-27"
   }
 ]
