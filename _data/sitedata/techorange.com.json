@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/04/27/xpeng-sets-august-goal-overtake-teslas-self-driving-tech-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "小鵬喊今年 8 月超越 Tesla FSD：從 VLA 2.0 到自研 AI 晶片，中國 EV 技術戰升級",
+    "date": "2026-04-27 16:04:34"
+  },
+  {
+    "link": "https://techorange.com/2026/04/27/openai-mediatek-qualcomm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 傳合作聯發科、高通開發手機處理器，打造「AI 代理手機」",
+    "date": "2026-04-27 15:44:24"
+  },
+  {
     "link": "https://techorange.com/2026/04/27/anthropic-project-deal-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Anthropic 實驗：讓 AI 自己談價買賣東西，186 筆交易揭商業定價新模式",
     "date": "2026-04-27 13:08:00"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/04/24/meta-layoffs-8000-ai-restructuring-may-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Meta 裁員 8,000 人後，還要留下的員工訓練 AI 代理：科技業用人邏輯正在被改寫",
     "date": "2026-04-24 12:11:06"
-  },
-  {
-    "link": "https://techorange.com/2026/04/24/cloudmile-openclaw-gpt-context-window/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Openclaw 跟 GPT 有什麼不同？為什麼可以表現得這麼好？ OpenClaw 原理大解密",
-    "date": "2026-04-24 11:28:18"
-  },
-  {
-    "link": "https://techorange.com/2026/04/24/nemoclaw-openclaw-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "給龍蝦穿上防彈衣 NemoClaw 如何為 OpenClaw 打造企業級安全沙盒？",
-    "date": "2026-04-24 11:27:38"
   }
 ]

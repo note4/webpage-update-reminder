@@ -1,7 +1,37 @@
 [
   {
-    "link": "https://github.com/Coherence-Daddy/use-ollama-to-enhance-claude",
-    "title": "[英] The cost math behind routing Claude Code through Ollama (~90% cut)",
+    "link": "http://amasci.com/static/electrostatic1.html",
+    "title": "[英] Electrostatics and High Voltage Links",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
+    "title": "[英] Bob Odenkirk would like to remind you that life is a meaningless farce",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
+    "title": "[英] Rust Memory Management: Ownership vs. Reference Counting",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+    "title": "[英] It's OK to abandon your side-project",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/",
+    "title": "[英] The Mushroom That Makes People Have the Exact Same Hallucination",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://airandspace.si.edu/stories/editorial/military-rockets-launched-space-age",
+    "title": "[英] The Military Rockets That Launched the Space Age (2023)",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47918239",
+    "title": "[英] undefined",
     "date": "2026-04-27"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://developer.chrome.com/docs/ai/prompt-api",
     "title": "[英] The Prompt API",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://github.com/evanklem/evanflow",
-    "title": "[英] EvanFlow – A TDD driven feedback loop for Claude Code",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://arkaung.github.io/interactive-turboquant/",
-    "title": "[英] TurboQuant: A first-principles walkthrough",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://notepad-plus-plus-mac.org/",
-    "title": "[英] Notepad++ for Mac – Independent community port",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes",
-    "title": "[英] When your digital life vanishes",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://github.com/drio/unixmagic",
-    "title": "[英] Show HN: The Unix Magic poster, annotated (updated)",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.acornelectron.co.uk/eug/72/a-musi.html",
-    "title": "[英] Music of the BBC Microcomputer System",
     "date": "2026-04-27"
   }
 ]
