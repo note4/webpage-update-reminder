@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://flipdisc.io",
+    "title": "[英] Flipdiscs",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.youtube.com/post/UgkxiDyyBsYJwX0PKsnu2_AOGMhMYwm0qPKm",
+    "title": "[英] YouTube Removes Alt-Right Criticism",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://blog.apnic.net/2026/04/24/revocation-of-x-509-certificates/",
+    "title": "[英] Revocation of X.509 Certificates",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://developer.chrome.com/docs/ai/prompt-api",
+    "title": "[英] The Prompt API",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://arkaung.github.io/interactive-turboquant/",
+    "title": "[英] TurboQuant: A First-Principles Walkthrough",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://github.com/evanklem/evanflow",
+    "title": "[英] EvanFlow – A TDD driven feedback loop for Claude Code",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://notepad-plus-plus-mac.org/",
+    "title": "[英] Notepad++ for Mac – Independent community port",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes",
+    "title": "[英] When Your Digital Life Vanishes",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://github.com/drio/unixmagic",
+    "title": "[英] Show HN: The Unix Magic poster, annotated (updated)",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.acornelectron.co.uk/eug/72/a-musi.html",
+    "title": "[英] Music of the BBC Microcomputer System",
+    "date": "2026-04-27"
+  },
+  {
     "link": "https://www.bloomberg.com/news/articles/2026-04-24/viral-tin-can-phone-brings-landline-nostalgia-back-for-kids-in-2026",
     "title": "[英] The Hottest Phone for Kids Right Now Is a $100 Landline",
     "date": "2026-04-27"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/",
     "title": "[英] The fastest Linux timestamps",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.alejandro.pe/writing/sail-muddy-lessons",
-    "title": "[英] Lessons from building multiplayer browsers",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://computer.rip/2026-04-26-voice-modems.html",
-    "title": "[英] Voice Modems",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://github.com/ebrandi/FDD-book",
-    "title": "[英] FreeBSD Device Drivers Book",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
-    "title": "[英] Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.ianvisits.co.uk/articles/a-garden-built-from-its-own-ruins-opens-in-regents-park-89152/",
-    "title": "[英] The QEII garden – built from its own ruins – opens in Regent's Park",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://porticoquarterly.com/book/the-last-of-the-lost-generation/",
-    "title": "[英] The Last of the Lost Generation",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca",
-    "title": "[英] Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://playtiao.com",
-    "title": "[英] Show HN: Tiao, A two-player turn-based board game",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://dystroy.org/blog/box-to-save-memory/",
-    "title": "[英] Box to save memory in Rust",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://options-game-polymathrobotics.pythonanywhere.com/",
-    "title": "[英] Show HN: Startup Equity Adventure Game",
     "date": "2026-04-27"
   }
 ]
