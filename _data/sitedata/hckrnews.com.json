@@ -1,7 +1,22 @@
 [
   {
+    "link": "https://anniecherkaev.com/the-secret-life-of-nan",
+    "title": "[英] The Secret Life of NaN",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://status.npmjs.org",
+    "title": "[英] NPM Website Is Down",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://ismy.blue/",
+    "title": "[英] Is my blue your blue?",
+    "date": "2026-04-28"
+  },
+  {
     "link": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
-    "title": "[英] Three men are facing 44 charges in Toronto SMS Blaster Arrests",
+    "title": "[英] Three men are facing 44 charges in Toronto SMS Blaster arrests",
     "date": "2026-04-28"
   },
   {
@@ -46,32 +61,17 @@
   },
   {
     "link": "https://publicdomainreview.org/essay/magic-by-return-of-post/",
-    "title": "[英] Magic by Return of Post: How Mail Order Delivered the Occult",
+    "title": "[英] Magic by return of post: How mail order delivered the occult",
     "date": "2026-04-28"
   },
   {
     "link": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
-    "title": "[英] The Quiet Resurgence of RF Engineering",
+    "title": "[英] The quiet resurgence of RF engineering",
     "date": "2026-04-28"
   },
   {
     "link": "https://zsnes.com/",
     "title": "[英] Super ZSNES – GPU Powered SNES Emulator",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://www.githubstatus.com",
-    "title": "[英] GitHub is having issues now",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://github.com/Hanqaqa/Easyduino",
-    "title": "[英] Easyduino: Open Source PCB Devboards for KiCad",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://bugs.mojang.com/browse/MC/issues/MC-119369",
-    "title": "[英] Boats crash/break and can kill their passengers when falling certain distances",
     "date": "2026-04-28"
   }
 ]
