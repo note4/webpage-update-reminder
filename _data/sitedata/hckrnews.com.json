@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://bugs.mojang.com/browse/MC/issues/MC-119369",
+    "title": "[英] Boats crash/break and can kill their passengers when falling certain distances",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://deepmind.google/blog/decoupled-diloco/",
+    "title": "[英] Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238",
+    "title": "[英] Canada's first sovereign wealth fund",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47924167",
+    "title": "[英] undefined",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://learnings.aleixmorgadas.dev/p/adding-a-team-was-the-wrong-strategic",
+    "title": "[英] Adding a team was the wrong strategic decision",
+    "date": "2026-04-28"
+  },
+  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
     "title": "[英] Canva apologizes after its AI tool replaces 'Palestine' in designs",
     "date": "2026-04-28"
@@ -26,12 +51,12 @@
   },
   {
     "link": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
-    "title": "[英] Apple is dropping AFP/TimeCapsule support in macOS 27",
+    "title": "[英] Networking changes coming in macOS 27",
     "date": "2026-04-28"
   },
   {
     "link": "https://muffin.ink/blog/scratch-svg-sanitization/",
-    "title": "[英] The Woes of Sanitizing SVGs",
+    "title": "[英] The woes of sanitizing SVGs",
     "date": "2026-04-28"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
     "title": "[英] \"Why not just use Lean?\"",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://watchmysys.com/blog/2026/03/managing-the-unmanaged-switch/",
-    "title": "[英] Managing the Unmanaged Switch",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
-    "title": "[英] Running local LLMs offline on a ten-hour flight",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://github.com/serverless-dna/tendril",
-    "title": "[英] Tendril – a self-extending agent that builds and registers its own tools",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://www.theregister.com/2026/04/26/windows_second_chance_setup/",
-    "title": "[英] Windows 11's second-chance setup dialogs hurt IT, drain productivity",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-    "title": "[英] Microsoft and OpenAI end their exclusive and revenue-sharing deal",
     "date": "2026-04-28"
   }
 ]
