@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://github.com/pgbackrest/pgbackrest",
+    "title": "[英] Pgbackrest is no longer being maintained",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://github.com/WeebLabs/DSPi",
+    "title": "[英] Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
+    "title": "[英] France's Mistral Built a $14B AI Empire by Not Being American",
+    "date": "2026-04-27"
+  },
+  {
     "link": "http://amasci.com/static/electrostatic1.html",
     "title": "[英] Electrostatics and High Voltage Links",
     "date": "2026-04-27"
@@ -16,7 +31,7 @@
   },
   {
     "link": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
-    "title": "[英] It's OK to abandon your side-project",
+    "title": "[英] It's OK to abandon your side-project (2024)",
     "date": "2026-04-27"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://flipdisc.io",
     "title": "[英] Flipdiscs",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.youtube.com/post/UgkxiDyyBsYJwX0PKsnu2_AOGMhMYwm0qPKm",
-    "title": "[英] YouTube Removes Alt-Right Criticism",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://blog.apnic.net/2026/04/24/revocation-of-x-509-certificates/",
-    "title": "[英] Revocation of X.509 Certificates",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://developer.chrome.com/docs/ai/prompt-api",
-    "title": "[英] The Prompt API",
     "date": "2026-04-27"
   }
 ]
