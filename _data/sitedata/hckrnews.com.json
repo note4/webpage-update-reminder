@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://github.com/Coherence-Daddy/use-ollama-to-enhance-claude",
+    "title": "[英] The cost math behind routing Claude Code through Ollama (~90% cut)",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "http://www.os2museum.com/wp/mystery-cpuid-bit/",
+    "title": "[英] Mystery Cpuid Bit",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
+    "title": "[英] AI can cost more than human workers now",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://pressbooks-dev.oer.hawaii.edu/epet302/",
+    "title": "[英] A Guide to CubeSat Mission and Bus Design",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.epicresearch.org/articles/low-dose-aspirin-usage-for-primary-prevention-of-cardiovascular-disease-has-fallen-by-more-than-half-since-2018",
+    "title": "[英] Low-Dose Aspirin Usage for Primary Prevention Has Fallen by >50% Since 2018",
+    "date": "2026-04-27"
+  },
+  {
     "link": "https://flipdisc.io",
     "title": "[英] Flipdiscs",
     "date": "2026-04-27"
@@ -20,13 +45,13 @@
     "date": "2026-04-27"
   },
   {
-    "link": "https://arkaung.github.io/interactive-turboquant/",
-    "title": "[英] TurboQuant: A First-Principles Walkthrough",
+    "link": "https://github.com/evanklem/evanflow",
+    "title": "[英] EvanFlow – A TDD driven feedback loop for Claude Code",
     "date": "2026-04-27"
   },
   {
-    "link": "https://github.com/evanklem/evanflow",
-    "title": "[英] EvanFlow – A TDD driven feedback loop for Claude Code",
+    "link": "https://arkaung.github.io/interactive-turboquant/",
+    "title": "[英] TurboQuant: A first-principles walkthrough",
     "date": "2026-04-27"
   },
   {
@@ -36,7 +61,7 @@
   },
   {
     "link": "https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes",
-    "title": "[英] When Your Digital Life Vanishes",
+    "title": "[英] When your digital life vanishes",
     "date": "2026-04-27"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://www.acornelectron.co.uk/eug/72/a-musi.html",
     "title": "[英] Music of the BBC Microcomputer System",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-04-24/viral-tin-can-phone-brings-landline-nostalgia-back-for-kids-in-2026",
-    "title": "[英] The Hottest Phone for Kids Right Now Is a $100 Landline",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://jordanlord.co.uk/blog/3-constraints/",
-    "title": "[英] Three constraints before I build anything",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://arun.is/blog/cheap-cool/",
-    "title": "[英] When the cheap one is the cool one",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://interblah.net/self-updating-screenshots",
-    "title": "[英] Self-updating screenshots",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/",
-    "title": "[英] The fastest Linux timestamps",
     "date": "2026-04-27"
   }
 ]
