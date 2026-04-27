@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://publicdomainreview.org/essay/magic-by-return-of-post/",
+    "title": "[英] Magic by Return of Post: How Mail Order Delivered the Occult",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
+    "title": "[英] The Quiet Resurgence of RF Engineering",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://zsnes.com/",
+    "title": "[英] Super ZSNES – GPU Powered SNES Emulator",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://www.githubstatus.com",
+    "title": "[英] GitHub is having issues now",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://github.com/Hanqaqa/Easyduino",
+    "title": "[英] Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
+    "date": "2026-04-28"
+  },
+  {
     "link": "https://bugs.mojang.com/browse/MC/issues/MC-119369",
     "title": "[英] Boats crash/break and can kill their passengers when falling certain distances",
     "date": "2026-04-28"
@@ -46,32 +71,7 @@
   },
   {
     "link": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
-    "title": "[英] US Supreme Court Reviews Police Use of Cell Location Data to Find Criminals",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
-    "title": "[英] Networking changes coming in macOS 27",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://muffin.ink/blog/scratch-svg-sanitization/",
-    "title": "[英] The woes of sanitizing SVGs",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://www.svtplay.se/video/jXv3A5G/den-stora-algvandringen/idag-00-00",
-    "title": "[英] Den stora Älgvandringen – The great moose migration (live)",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
-    "title": "[英] Dutch central bank ditches AWS and chooses Lidl for European Cloud",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
-    "title": "[英] \"Why not just use Lean?\"",
+    "title": "[英] US Supreme Court reviews police use of cell location data",
     "date": "2026-04-28"
   }
 ]
