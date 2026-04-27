@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
+    "title": "[英] FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+    "title": "[英] Men Who Stare at Walls",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://forkle.co.uk/",
+    "title": "[英] Show HN: I built a dual crossword puzzle where two crosswords share one grid",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://github.com/garritfra/cell",
+    "title": "[英] Show HN: A terminal spreadsheet editor with Vim keybindings",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://github.com/dirac-run/dirac",
+    "title": "[英] Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
+    "title": "[英] Getting my daily news from a dot matrix printer 2024",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://quarkdown.com/",
+    "title": "[英] Quarkdown – Markdown with Superpowers",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html",
+    "title": "[英] Branimir Lambov from IBM on Cassandra",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/",
+    "title": "[英] Moleskine's AI Lord of the Rings collection can only mock",
+    "date": "2026-04-27"
+  },
+  {
     "link": "https://github.com/pgbackrest/pgbackrest",
     "title": "[英] Pgbackrest is no longer being maintained",
     "date": "2026-04-27"
@@ -27,51 +72,6 @@
   {
     "link": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
     "title": "[英] Rust Memory Management: Ownership vs. Reference Counting",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
-    "title": "[英] It's OK to abandon your side-project (2024)",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/",
-    "title": "[英] The Mushroom That Makes People Have the Exact Same Hallucination",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://airandspace.si.edu/stories/editorial/military-rockets-launched-space-age",
-    "title": "[英] The Military Rockets That Launched the Space Age (2023)",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47918239",
-    "title": "[英] undefined",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "http://www.os2museum.com/wp/mystery-cpuid-bit/",
-    "title": "[英] Mystery Cpuid Bit",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
-    "title": "[英] AI can cost more than human workers now",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://pressbooks-dev.oer.hawaii.edu/epet302/",
-    "title": "[英] A Guide to CubeSat Mission and Bus Design",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.epicresearch.org/articles/low-dose-aspirin-usage-for-primary-prevention-of-cardiovascular-disease-has-fallen-by-more-than-half-since-2018",
-    "title": "[英] Low-Dose Aspirin Usage for Primary Prevention Has Fallen by >50% Since 2018",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://flipdisc.io",
-    "title": "[英] Flipdiscs",
     "date": "2026-04-27"
   }
 ]
