@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+    "title": "[英] \"Why not just use Lean?\"",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://watchmysys.com/blog/2026/03/managing-the-unmanaged-switch/",
+    "title": "[英] Managing the Unmanaged Switch",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
+    "title": "[英] Running Local LLMs Offline on a Ten-Hour Flight",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://github.com/serverless-dna/tendril",
+    "title": "[英] Tendril – a self-extending agent that builds and registers its own tools",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.theregister.com/2026/04/26/windows_second_chance_setup/",
+    "title": "[英] Windows 11's second-chance setup dialogs hurt IT, drain productivity",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+    "title": "[英] Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+    "title": "[英] The next phase of the Microsoft OpenAI partnership – OpenAI",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://www.mpie.de/5151287/short-circuit-solid-state-batteries",
+    "title": "[英] Understanding the short circuit in solid-state batteries",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://routerjockey.com/tim-cook-is-leaving-good/",
+    "title": "[英] Tim Cook Is Leaving. Good",
+    "date": "2026-04-27"
+  },
+  {
+    "link": "https://app.oravys.com/blog/mercor-breach-2026",
+    "title": "[英] 4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "date": "2026-04-27"
+  },
+  {
     "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
     "title": "[英] FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss",
     "date": "2026-04-27"
@@ -22,56 +72,6 @@
   {
     "link": "https://github.com/dirac-run/dirac",
     "title": "[英] Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
-    "title": "[英] Getting my daily news from a dot matrix printer 2024",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://quarkdown.com/",
-    "title": "[英] Quarkdown – Markdown with Superpowers",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html",
-    "title": "[英] Branimir Lambov from IBM on Cassandra",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/",
-    "title": "[英] Moleskine's AI Lord of the Rings collection can only mock",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://github.com/pgbackrest/pgbackrest",
-    "title": "[英] Pgbackrest is no longer being maintained",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://github.com/WeebLabs/DSPi",
-    "title": "[英] Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
-    "title": "[英] France's Mistral Built a $14B AI Empire by Not Being American",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "http://amasci.com/static/electrostatic1.html",
-    "title": "[英] Electrostatics and High Voltage Links",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
-    "title": "[英] Bob Odenkirk would like to remind you that life is a meaningless farce",
-    "date": "2026-04-27"
-  },
-  {
-    "link": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
-    "title": "[英] Rust Memory Management: Ownership vs. Reference Counting",
     "date": "2026-04-27"
   }
 ]
