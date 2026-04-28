@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://quuxplusone.github.io/blog/2026/04/24/define-static-array/",
+    "title": "[英] Things C++26 define_static_array can't do",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://github.com/BookStackApp/BookStack/issues/4551",
+    "title": "[英] BookStack Moves from GitHub to Codeberg",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+    "title": "[英] GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.anthropic.com/news/claude-for-creative-work",
+    "title": "[英] Claude for Creative Work",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/",
+    "title": "[英] Physicists Discover the Most Complex Forms of Ice Yet",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628",
+    "title": "[英] Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://nullprogram.com/blog/2026/04/26/",
+    "title": "[英] I have officially retired from Emacs",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
+    "title": "[英] AI's Economics Don't Make Sense",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://poolside.ai/blog/laguna-a-deeper-dive",
+    "title": "[英] Laguna XS.2 and M.1",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media/",
+    "title": "[英] Greece to ban anonymity on social media",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind",
+    "title": "[英] After Spain's blackout, its shift to renewables and grid evolution power on",
+    "date": "2026-04-29"
+  },
+  {
     "link": "https://www.theregister.com/2026/04/27/from_a_massive_skills_gap/",
     "title": "[英] Cybersec is a thankless job: expanding workload and shrinking pay packet",
     "date": "2026-04-29"
   },
   {
     "link": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-    "title": "[英] AI uncovers 38 vulnerabilities in largest open source medical record software",
+    "title": "[英] AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
     "date": "2026-04-29"
   },
   {
-    "link": "https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/",
-    "title": "[英] Nvidia executive says AI is more expensive than human workers",
+    "link": "https://news.ycombinator.com/item?id=47936209",
+    "title": "[英] undefined",
     "date": "2026-04-29"
   },
   {
     "link": "https://www.warp.dev/blog/warp-is-now-open-source",
     "title": "[英] Warp is now open-source",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/",
-    "title": "[英] Anthropic Joins the Blender Development Fund as Corporate Patron",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://deeleeramone.github.io/PyWry/",
-    "title": "[英] PyWry: Cross-Platform Rendering Engine in Python",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
-    "title": "[英] FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-    "title": "[英] Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://keepandroidopen.org/en/",
-    "title": "[英] Phone is about to stop being yours",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
-    "title": "[英] GitHub Actions is the weakest link",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://reggieescobar.com/blog/how-i-forgot-to-code",
-    "title": "[英] I Forgot to Code",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://firethering.com/mimo-v2-5-pro-xiaomi-coding-model/",
-    "title": "[英] Xiaomi releases MiMo-v2.5 Family weights with strong coding and agent benchmarks",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47934878",
-    "title": "[英] undefined",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.ideagames.fun/middle-class-museum",
-    "title": "[英] I built \"Middle Class Museum\", a tour of things that used to be affordable",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html",
-    "title": "[英] Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",
     "date": "2026-04-29"
   }
 ]
