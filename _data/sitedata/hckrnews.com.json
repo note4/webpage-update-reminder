@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://electrek.co/2026/04/27/byd-seal-08-blade-battery-2-1000km-range-beijing-auto-show/",
+    "title": "[英] BYD Seal 08 debuts with Blade Battery 2.0: 1,000km range, 5-min charging, 684hp",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://apod.nasa.gov/apod/ap260427.html",
+    "title": "[英] Can You Find the Comet?",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
+    "title": "[英] WASM is not quite a stack machine",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47931470",
+    "title": "[英] Scraping 241 UK council planning portals – 2.6M decisions so far",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://gshock.casio.com/intl/products/g-lide/gbx-h5600/",
+    "title": "[英] First G-SHOCK with a heart rate monitor, also featuring Smartphone Link",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://gtfobins.org/",
+    "title": "[英] GTFOBins",
+    "date": "2026-04-28"
+  },
+  {
     "link": "https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/",
     "title": "[英] Vibe Coding Will Break Your Company",
     "date": "2026-04-28"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.hvdfonts.com/fonts/hvd-bodedo",
     "title": "[英] HVD Bodedo (2007)",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/",
-    "title": "[英] Using Rust to Build a $1 Handheld Gaming Console",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://fabiensanglard.net/curse/",
-    "title": "[英] Mo RAM, Mo Problems (2025)",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://github.com/hpennington/agentswift",
-    "title": "[英] Show HN: AgentSwift – Open-source iOS builder agent",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://dynomight.net/drinking/",
-    "title": "[英] I quit drinking for a year",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://github.com/49Agents/49Agents",
-    "title": "[英] Show HN: 49Agents – Infinite canvas IDE for AI agents",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://gitperf.com/",
-    "title": "[英] High Performance Git",
     "date": "2026-04-28"
   }
 ]
