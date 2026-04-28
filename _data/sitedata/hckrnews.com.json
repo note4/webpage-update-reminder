@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://dl.acm.org/doi/epdf/10.1145/97811.97845",
+    "title": "[英] APL\\? (1990)",
+    "date": "2026-04-29"
+  },
+  {
     "link": "https://github.com/techomancer/iris",
     "title": "[英] Show HN: My friend and his AI homies wrote SGI Indy emulator in Rust",
     "date": "2026-04-29"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
     "title": "[英] A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
-    "title": "[英] A playable DOOM MCP app",
     "date": "2026-04-29"
   }
 ]
