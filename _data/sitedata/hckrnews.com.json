@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://mitchellh.com/writing/ghostty-leaving-github",
+    "title": "[英] Ghostty Is Leaving GitHub",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+    "title": "[英] Interview with OpenAI and AWS CEOs about Bedrock Managed Agents",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://samizdat.dev/phantom-patch/",
+    "title": "[英] Patch applies fake diffs from commit messages",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://dyne.org/cjit/",
+    "title": "[英] C, Just In Time!",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
+    "title": "[英] A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+    "title": "[英] DOOM running in ChatGPT and Claude",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://github.com/warpdotdev/warp",
+    "title": "[英] Warp is now Open-Source",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent",
+    "title": "[英] Bankruptcies increase 11.9 percent",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.electricitybills.uk/",
+    "title": "[英] GB Electricity Bills",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/apr/28/americans-queueing-up-renounce-citizenship-dictatorship",
+    "title": "[英] The Americans queueing up to renounce their citizenship",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://waymo.com/blog/shorts/waymo-in-portland/",
+    "title": "[英] Waymo in Portland",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://github.com/Ag3497120/verantyx",
+    "title": "[英] Verantyx – A native IDE that obfuscates code before sending it to Cloud LLMs",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://status.claude.com/incidents/9l93x2ht4s5w",
+    "title": "[英] Claude.ai unavailable and elevated errors on the API",
+    "date": "2026-04-29"
+  },
+  {
     "link": "https://quuxplusone.github.io/blog/2026/04/24/define-static-array/",
     "title": "[英] Things C++26 define_static_array can't do",
     "date": "2026-04-29"
@@ -7,71 +72,6 @@
   {
     "link": "https://github.com/BookStackApp/BookStack/issues/4551",
     "title": "[英] BookStack Moves from GitHub to Codeberg",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-    "title": "[英] GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.anthropic.com/news/claude-for-creative-work",
-    "title": "[英] Claude for Creative Work",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/",
-    "title": "[英] Physicists Discover the Most Complex Forms of Ice Yet",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628",
-    "title": "[英] Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://nullprogram.com/blog/2026/04/26/",
-    "title": "[英] I have officially retired from Emacs",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
-    "title": "[英] AI's Economics Don't Make Sense",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://poolside.ai/blog/laguna-a-deeper-dive",
-    "title": "[英] Laguna XS.2 and M.1",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media/",
-    "title": "[英] Greece to ban anonymity on social media",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind",
-    "title": "[英] After Spain's blackout, its shift to renewables and grid evolution power on",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.theregister.com/2026/04/27/from_a_massive_skills_gap/",
-    "title": "[英] Cybersec is a thankless job: expanding workload and shrinking pay packet",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-    "title": "[英] AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47936209",
-    "title": "[英] undefined",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.warp.dev/blog/warp-is-now-open-source",
-    "title": "[英] Warp is now open-source",
     "date": "2026-04-29"
   }
 ]
