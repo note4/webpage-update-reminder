@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://proton.me/blog/what-is-your-data-worth-to-google",
+    "title": "[英] $1,605: average annual ad value of a U.S. Google user",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://paulmakeswebsites.com/writing/six-months-of-tiled-words/",
+    "title": "[英] Tiled Words 6 Month Update",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+    "title": "[英] The World's Most Complex Machine",
+    "date": "2026-04-28"
+  },
+  {
     "link": "https://electrek.co/2026/04/27/byd-seal-08-blade-battery-2-1000km-range-beijing-auto-show/",
     "title": "[英] BYD Seal 08 debuts with Blade Battery 2.0: 1,000km range, 5-min charging, 684hp",
     "date": "2026-04-28"
@@ -50,28 +65,13 @@
     "date": "2026-04-28"
   },
   {
-    "link": "https://github.com/pgcentralfoundation/pgrx",
-    "title": "[英] Pgrx: Build Postgres Extensions with Rust",
-    "date": "2026-04-28"
-  },
-  {
     "link": "https://www.bbc.com/news/articles/cg4047qnpk2o",
     "title": "[英] Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs",
     "date": "2026-04-28"
   },
   {
-    "link": "https://github.com/ftaip/waiting-game",
-    "title": "[英] Show HN: Waiting for LLMs Suck – Give your user a game",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/",
-    "title": "[英] The Moat or the Commons",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://www.hvdfonts.com/fonts/hvd-bodedo",
-    "title": "[英] HVD Bodedo (2007)",
+    "link": "https://github.com/pgcentralfoundation/pgrx",
+    "title": "[英] Pgrx: Build Postgres Extensions with Rust",
     "date": "2026-04-28"
   }
 ]
