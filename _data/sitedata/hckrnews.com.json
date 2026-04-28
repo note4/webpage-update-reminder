@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/",
+    "title": "[英] Vibe Coding Will Break Your Company",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://london.apped.uk/faq",
+    "title": "[英] London Reverse Marathon FAQ",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
+    "title": "[英] San Francisco, AI capital of the world, is an economic laggard",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://technology.robbyant.com/lingbot-map",
+    "title": "[英] LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+    "date": "2026-04-28"
+  },
+  {
     "link": "https://github.com/pgcentralfoundation/pgrx",
     "title": "[英] Pgrx: Build Postgres Extensions with Rust",
     "date": "2026-04-28"
@@ -51,27 +71,7 @@
   },
   {
     "link": "https://gitperf.com/",
-    "title": "[英] Ted Nyman – High Performance Git",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor",
-    "title": "[英] How I leared what a decoupling capacitor is for, the hard way",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
-    "title": "[英] Generative AI Vegetarianism",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
-    "title": "[英] To my students",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://support.claude.com/en/articles/11940350-claude-code-model-configuration",
-    "title": "[英] Claude Pro: Opus model will only be available if extra usage is enabled",
+    "title": "[英] High Performance Git",
     "date": "2026-04-28"
   }
 ]
