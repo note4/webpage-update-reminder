@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://github.com/pgcentralfoundation/pgrx",
+    "title": "[英] Pgrx: Build Postgres Extensions with Rust",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cg4047qnpk2o",
+    "title": "[英] Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://github.com/ftaip/waiting-game",
+    "title": "[英] Show HN: Waiting for LLMs Suck – Give your user a game",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/",
+    "title": "[英] The Moat or the Commons",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://www.hvdfonts.com/fonts/hvd-bodedo",
+    "title": "[英] HVD Bodedo (2007)",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/",
+    "title": "[英] Using Rust to Build a $1 Handheld Gaming Console",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://fabiensanglard.net/curse/",
+    "title": "[英] Mo RAM, Mo Problems (2025)",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://github.com/hpennington/agentswift",
+    "title": "[英] Show HN: AgentSwift – Open-source iOS builder agent",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://dynomight.net/drinking/",
+    "title": "[英] I quit drinking for a year",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://github.com/49Agents/49Agents",
+    "title": "[英] Show HN: 49Agents – Infinite canvas IDE for AI agents",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://gitperf.com/",
+    "title": "[英] Ted Nyman – High Performance Git",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor",
+    "title": "[英] How I leared what a decoupling capacitor is for, the hard way",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
+    "title": "[英] Generative AI Vegetarianism",
+    "date": "2026-04-28"
+  },
+  {
+    "link": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+    "title": "[英] To my students",
+    "date": "2026-04-28"
+  },
+  {
     "link": "https://support.claude.com/en/articles/11940350-claude-code-model-configuration",
     "title": "[英] Claude Pro: Opus model will only be available if extra usage is enabled",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://www.mooreds.com/wordpress/archives/3734",
-    "title": "[英] Meetings Are Forcing Functions",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://talkie-lm.com/introducing-talkie",
-    "title": "[英] Talkie: a 13B vintage language model from 1930",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
-    "title": "[英] New Integrated by Design FreeBSD Book",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c1d9wvd2e4ro",
-    "title": "[英] Ukraine's drone commander has Russian oil, troops and morale in his sights",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://radarlaboratory.com/",
-    "title": "[英] Radar Laboratory – Interactive Radar Phenomenology",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://anniecherkaev.com/the-secret-life-of-nan",
-    "title": "[英] The Secret Life of NaN",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://status.npmjs.org",
-    "title": "[英] NPM website was down",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://ismy.blue/",
-    "title": "[英] Is my blue your blue?",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
-    "title": "[英] Three men are facing charges in Toronto SMS Blaster arrests",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://www.jonoalderson.com/conjecture/four-ways-to-build-a-website/",
-    "title": "[英] There are only four sensible ways to build a website",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://github.com/duane1024/l123",
-    "title": "[英] L123: A Lotus 1-2-3–style terminal spreadsheet with modern Excel compatibility",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/",
-    "title": "[英] U.S. companies back Sam Altman's World ID even as much of the world pushes back",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://www.bbc.com/sport/athletics/articles/cp383n09030o",
-    "title": "[英] Sebastian Sawe breaks iconic sub-two-hour marathon barrier",
-    "date": "2026-04-28"
-  },
-  {
-    "link": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
-    "title": "[英] Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
     "date": "2026-04-28"
   }
 ]
