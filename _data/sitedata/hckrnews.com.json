@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://sites.google.com/view/elizagen-org/blog/parry-parries-again",
+    "title": "[英] Parry Parries Again: Reanimating the Famous Paranoid Chatbot (In a Day)",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://dustri.org/b/carrot-disclosure-forgejo.html",
+    "title": "[英] Carrot Disclosure: Forgejo",
+    "date": "2026-04-29"
+  },
+  {
     "link": "https://dl.acm.org/doi/epdf/10.1145/97811.97845",
     "title": "[英] APL\\? (1990)",
     "date": "2026-04-29"
@@ -11,7 +21,7 @@
   },
   {
     "link": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-    "title": "[英] A New Type of Neuroplasticity Rewires the Brain After a Single Experience",
+    "title": "[英] Behavioral timescale synaptic plasticity rewires the brain after an experience",
     "date": "2026-04-29"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://samizdat.dev/phantom-patch/",
     "title": "[英] Patch applies fake diffs from commit messages",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://dyne.org/cjit/",
-    "title": "[英] CJIT: C, Just in Time",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
-    "title": "[英] A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
     "date": "2026-04-29"
   }
 ]
