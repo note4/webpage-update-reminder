@@ -1,12 +1,32 @@
 [
   {
+    "link": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+    "title": "[英] I Won a Championship That Doesn't Exist",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://github.com/trycua/cua",
+    "title": "[英] Show HN: Drive any macOS app in the background without stealing the cursor",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
+    "title": "[英] Intel Arc Pro B70 Review",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://aws.amazon.com/bedrock/openai/",
+    "title": "[英] OpenAI Models on Amazon Bedrock",
+    "date": "2026-04-29"
+  },
+  {
     "link": "https://mitchellh.com/writing/ghostty-leaving-github",
-    "title": "[英] Ghostty Is Leaving GitHub",
+    "title": "[英] Ghostty is leaving GitHub",
     "date": "2026-04-29"
   },
   {
     "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-    "title": "[英] Interview with OpenAI and AWS CEOs about Bedrock Managed Agents",
+    "title": "[英] OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
     "date": "2026-04-29"
   },
   {
@@ -16,7 +36,7 @@
   },
   {
     "link": "https://dyne.org/cjit/",
-    "title": "[英] C, Just In Time!",
+    "title": "[英] CJIT: C, Just in Time",
     "date": "2026-04-29"
   },
   {
@@ -26,7 +46,7 @@
   },
   {
     "link": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
-    "title": "[英] DOOM running in ChatGPT and Claude",
+    "title": "[英] A playable DOOM MCP app",
     "date": "2026-04-29"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://waymo.com/blog/shorts/waymo-in-portland/",
     "title": "[英] Waymo in Portland",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://github.com/Ag3497120/verantyx",
-    "title": "[英] Verantyx – A native IDE that obfuscates code before sending it to Cloud LLMs",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://status.claude.com/incidents/9l93x2ht4s5w",
-    "title": "[英] Claude.ai unavailable and elevated errors on the API",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://quuxplusone.github.io/blog/2026/04/24/define-static-array/",
-    "title": "[英] Things C++26 define_static_array can't do",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://github.com/BookStackApp/BookStack/issues/4551",
-    "title": "[英] BookStack Moves from GitHub to Codeberg",
     "date": "2026-04-29"
   }
 ]
