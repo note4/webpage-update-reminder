@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/",
+    "title": "[英] DRAM Crunch: Lessons for System Design",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m",
+    "title": "[英] > Be Alexandra Elbakyan",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.numberempire.com/8647",
+    "title": "[英] 8647 Is a Prime Number",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://github.com/aallan/vera",
+    "title": "[英] Vera: a programming language designed for machines to write",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://lina.sh/blog/ddos-honeypot",
+    "title": "[英] I accidentally made law enforcement shut down their fake honeypot",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
+    "title": "[英] I benchmarked Claude Code's caveman plugin against \"be brief.\"",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://localmonero.co/blocks/search/47xmhbRuYpSYSrVZx2RsPBhaAQByZq3ucAT6ULxHvDAu8c853ErpLHqBdDmpVzcmWFdZFCWrfZYwp3rqs14zxXx95S7Fyv2",
+    "title": "[英] View transactions sent to a Monero address",
+    "date": "2026-04-30"
+  },
+  {
     "link": "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/",
     "title": "[英] Germany has become the largest ammunition producer in the world",
     "date": "2026-04-30"
@@ -37,41 +72,6 @@
   {
     "link": "https://www.foxnews.com/politics/pentagon-jumps-from-225m-55b-drones-cheap-attacks-overwhelm-us-defenses",
     "title": "[英] Pentagon spending on drones jumps from $225M to $55B in one year",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://opentrafficmap.org/",
-    "title": "[英] OpenTrafficMap",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://jivx.com/kyoto-bloom",
-    "title": "[英] Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
-    "title": "[英] \"People who don't use AI will be left behind\"",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://simme.dev/posts/the-end-of-just-ask-sarah/",
-    "title": "[英] The end of \"Just ask Sarah\"",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
-    "title": "[英] Why I still reach for Lisp and Scheme instead of Haskell",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://github.com/anthropics/claude-code/issues/53262",
-    "title": "[英] HERMES.md in commit messages causes requests to route to extra usage billing",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/",
-    "title": "[英] Virtualisation on Apple Silicon Macs is different",
     "date": "2026-04-30"
   }
 ]
