@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://zed.dev/blog/zed-1-0",
+    "title": "[英] Zed is 1.0",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html",
+    "title": "[英] Fidelity Won't Let Fund Holders Donate to Southern Poverty Law Center",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/04/27/well/facebook-supplements-health.html",
+    "title": "[英] Facebook Has a Health Scam Problem",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari",
+    "title": "[英] Improving ICU handovers by learning from Scuderia Ferrari F1 team",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://blog.tangled.org/federation/",
+    "title": "[英] Tangled – We need a federation of forges",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://github.com/DOS-History/Paterson-Listings",
+    "title": "[英] GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+    "title": "[英] Letting AI play my game – building an agentic test harness to help play-testing",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.macrumors.com/2026/04/29/notepad-plus-plus-editor-comes-to-mac/",
+    "title": "[英] Notepad++ Code Editor Comes to Mac After 20-Year Wait",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://github.com/electricant/adblock-rust-manager",
+    "title": "[英] Show HN: Adblock-rust Manager – Firefox extension to enable the Brave ad blocker",
+    "date": "2026-04-29"
+  },
+  {
     "link": "https://beehiiv-reader.vercel.app/",
     "title": "[英] Read any beehiiv site paywall/distraction free",
     "date": "2026-04-29"
@@ -27,51 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=47946578",
     "title": "[英] undefined",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.thetimes.com/uk/technology-uk/article/babies-and-under-2s-screen-time-6jbdmnjlg",
-    "title": "[英] Two-thirds of babies watch screens – some for eight hours a day",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://lawvm.org/why-law-is-law-shaped/",
-    "title": "[英] Why Law Is Law-Shaped",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://rip.so",
-    "title": "[英] Show HN: Rip.so – a graveyard for dead internet things",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-    "title": "[英] Soft launch of open-source code platform for government",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47945522",
-    "title": "[英] Tell HN: An update from the new Tindie team",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.theguardian.com/technology/2026/apr/29/meta-found-in-breach-of-eu-law-for-failing-to-keep-children-off-platforms",
-    "title": "[英] Meta found in breach of EU law for failing to keep children off platforms",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html",
-    "title": "[英] Wire to Replace Signal as Standard in the Bundestag",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://dl.acm.org/doi/abs/10.1145/3767295.3803591",
-    "title": "[英] Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://github.com/rocky-data/rocky",
-    "title": "[英] Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
     "date": "2026-04-29"
   }
 ]
