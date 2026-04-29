@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx",
+    "title": "[英] Alphabet Announces First Quarter 2026 Results",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.foxnews.com/politics/pentagon-jumps-from-225m-55b-drones-cheap-attacks-overwhelm-us-defenses",
+    "title": "[英] Pentagon spending on drones jumps from $225M to $55B in one year",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://opentrafficmap.org/",
+    "title": "[英] OpenTrafficMap",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://jivx.com/kyoto-bloom",
+    "title": "[英] Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
+    "date": "2026-04-30"
+  },
+  {
     "link": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
     "title": "[英] \"People who don't use AI will be left behind\"",
     "date": "2026-04-30"
@@ -45,33 +65,13 @@
     "date": "2026-04-30"
   },
   {
-    "link": "https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop",
-    "title": "[英] Why Software Needs a Third Loop [audio]",
-    "date": "2026-04-30"
-  },
-  {
     "link": "https://lawsofux.com/",
     "title": "[英] Laws of UX",
     "date": "2026-04-30"
   },
   {
-    "link": "https://deepmind.google/research/publications/231971/",
-    "title": "[英] The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://neal.fun/cursor-camp/",
-    "title": "[英] Cursor Camp",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
-    "title": "[英] Maryland becomes first state to ban surveillance pricing in grocery stores",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
-    "title": "[英] How to Build the Future: Demis Hassabis [video]",
+    "link": "https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop",
+    "title": "[英] Why Software Needs a Third Loop [audio]",
     "date": "2026-04-30"
   }
 ]
