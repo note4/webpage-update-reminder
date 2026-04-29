@@ -1,12 +1,62 @@
 [
   {
+    "link": "https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/",
+    "title": "[英] When the Internet Was a Place",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://failedarchitecture.com/bridging-west-papua-through-dispossession/",
+    "title": "[英] Bridging West Papua Through Dispossession",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+    "title": "[英] Bugs Rust won't catch",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
+    "title": "[英] We still don't have a more precise value for \"Big G\"",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
+    "title": "[英] Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/",
+    "title": "[英] Nonlinearity Affects a Pendulum",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results",
+    "title": "[英] Apple CMF (Color-Matching Functions) 2026",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47942952",
+    "title": "[英] undefined",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://eartharchives.org/index.html",
+    "title": "[英] The biggest insect ever was a \"dragonfly\"",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.mendral.com/blog/frontier-model-lower-costs",
+    "title": "[英] We decreased our LLM costs with Opus",
+    "date": "2026-04-29"
+  },
+  {
     "link": "https://choochoowords.chyuang.com/",
     "title": "[英] Choo Choo Words: Spell words to make train tracks, stop the train from crashing",
     "date": "2026-04-29"
   },
   {
     "link": "https://github.com/anthropics/claude-code/issues/49363",
-    "title": "[英] Claude system prompt bug wastes user money and bricks managed agents",
+    "title": "[英] Regression: malware reminder on every read still causes subagent refusals",
     "date": "2026-04-29"
   },
   {
@@ -16,62 +66,12 @@
   },
   {
     "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-    "title": "[英] ChatGPT serves ads. Here's the full attribution loop",
+    "title": "[英] How ChatGPT serves ads",
     "date": "2026-04-29"
   },
   {
     "link": "https://sites.google.com/view/elizagen-org/blog/parry-parries-again",
     "title": "[英] Parry Parries Again: Reanimating the Famous Paranoid Chatbot (In a Day)",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://dustri.org/b/carrot-disclosure-forgejo.html",
-    "title": "[英] Carrot Disclosure: Forgejo",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://dl.acm.org/doi/epdf/10.1145/97811.97845",
-    "title": "[英] APL\\? (1990)",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47940203",
-    "title": "[英] undefined",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-    "title": "[英] Behavioral timescale synaptic plasticity rewires the brain after an experience",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-    "title": "[英] Before GitHub",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c2eveyvgn9no",
-    "title": "[英] BP profits more than double as Iran war sends oil prices higher",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/",
-    "title": "[英] Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
-    "title": "[英] I won a championship that doesn't exist",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://github.com/trycua/cua",
-    "title": "[英] Show HN: Drive any macOS app in the background without stealing the cursor",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
-    "title": "[英] Intel Arc Pro B70 Review",
     "date": "2026-04-29"
   }
 ]

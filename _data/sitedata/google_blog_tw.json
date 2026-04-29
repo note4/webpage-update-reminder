@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/google-translate-20/",
+    "title": "Google 翻譯 20 週年：跨越語言隔閡的 5 個發現",
+    "date": "2026-04-29 17:00:00"
+  },
+  {
     "link": "https://blog.google/intl/zh-tw/products/cloud/the_dawn_of_-the_agentic_enterprise_at_next_26/",
     "title": "Google Cloud 於 Next ‘26 大會宣布開啟「代理式企業」新時代",
     "date": "2026-04-23 04:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/youtube-shopping-affiliate/",
     "title": "看到就是買到：YouTube 與蝦皮購物開啟台灣「無縫購物」新紀元",
     "date": "2026-01-29 22:00:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/ai-plus/",
-    "title": "Google AI Plus 正式在台推出：讓 AI 成為你提升生產力與創意的最佳夥伴",
-    "date": "2026-01-28 07:00:00"
   }
 ]
