@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://zed.dev/blog/zed-1-0",
-    "title": "[英] Zed is 1.0",
-    "date": "2026-04-29"
+    "link": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+    "title": "[英] FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies",
+    "date": "2026-04-30"
   },
   {
-    "link": "https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html",
-    "title": "[英] Fidelity Won't Let Fund Holders Donate to Southern Poverty Law Center",
-    "date": "2026-04-29"
+    "link": "https://en.wikipedia.org/wiki/SHRDLU",
+    "title": "[英] Shrdlu",
+    "date": "2026-04-30"
   },
   {
-    "link": "https://www.nytimes.com/2026/04/27/well/facebook-supplements-health.html",
-    "title": "[英] Facebook Has a Health Scam Problem",
-    "date": "2026-04-29"
+    "link": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
+    "title": "[英] Show HN: A new benchmark for testing LLMs for deterministic outputs",
+    "date": "2026-04-30"
   },
   {
-    "link": "https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari",
-    "title": "[英] Improving ICU handovers by learning from Scuderia Ferrari F1 team",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://blog.tangled.org/federation/",
-    "title": "[英] Tangled – We need a federation of forges",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://github.com/DOS-History/Paterson-Listings",
-    "title": "[英] GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://blog.jeffschomay.com/letting-ai-play-my-game",
-    "title": "[英] Letting AI play my game – building an agentic test harness to help play-testing",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.macrumors.com/2026/04/29/notepad-plus-plus-editor-comes-to-mac/",
-    "title": "[英] Notepad++ Code Editor Comes to Mac After 20-Year Wait",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://github.com/electricant/adblock-rust-manager",
-    "title": "[英] Show HN: Adblock-rust Manager – Firefox extension to enable the Brave ad blocker",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://beehiiv-reader.vercel.app/",
-    "title": "[英] Read any beehiiv site paywall/distraction free",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
-    "title": "[英] He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://physicsworld.com/a/coffee-with-a-splash-of-physics-how-to-make-the-most-out-of-your-brew/",
-    "title": "[英] Coffee with a splash of physics: how to make the most out of your brew",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead",
-    "title": "[英] Stardex Is Hiring a Founding Customer Success Lead",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
-    "title": "[英] HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47946578",
+    "link": "https://news.ycombinator.com/item?id=47950605",
     "title": "[英] undefined",
-    "date": "2026-04-29"
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://github.com/GliaX/Stethoscope",
+    "title": "[英] An open-source stethoscope that costs between $2.5 and $5 to produce",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+    "title": "[英] Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://cowboystatedaily.com/2026/04/28/court-rules-2nd-amendment-covers-firearms-parts-good-news-for-those-who-build-guns/",
+    "title": "[英] Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.texastribune.org/2026/04/28/data-centers-texas-electricians-builders/",
+    "title": "[英] Data center boom strains Texas homebuilders' need for electricians",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://read.thecoder.cafe/p/linux-broke-postgresql",
+    "title": "[英] Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://xcancel.com/GlennMeder/status/2049088498163216560",
+    "title": "[英] Online age verification is the hill to die on",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.metabase.com/blog/ten-custom-subagents",
+    "title": "[英] I built ten custom subagents to tame a 500K-line Clojure codebase",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/",
+    "title": "[英] U.S. war in Iran has cost $25B so far, says Pentagon official",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+    "title": "[英] Why AI companies want you to be afraid of them",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+    "title": "[英] Mistral Medium 3.5",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://zed.dev/blog/zed-1-0",
+    "title": "[英] Zed 1.0",
+    "date": "2026-04-30"
   }
 ]
