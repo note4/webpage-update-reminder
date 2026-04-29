@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/",
+    "title": "[英] Germany has become the largest ammunition producer in the world",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Blaster_beam",
+    "title": "[英] Blaster Beam (Musical Instrument)",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://tradingeconomics.com/commodity/brent-crude-oil",
+    "title": "[英] Brent Crude hits $119.56/barrel peak today",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
+    "title": "[英] Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
+    "date": "2026-04-30"
+  },
+  {
     "link": "https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/",
     "title": "[英] Postgres's lateral joins allow for quite the good eDSL",
     "date": "2026-04-30"
@@ -46,32 +66,12 @@
   },
   {
     "link": "https://github.com/anthropics/claude-code/issues/53262",
-    "title": "[英] HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
+    "title": "[英] HERMES.md in commit messages causes requests to route to extra usage billing",
     "date": "2026-04-30"
   },
   {
     "link": "https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/",
     "title": "[英] Virtualisation on Apple Silicon Macs is different",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://atproto.com/",
-    "title": "[英] At Protocol: Building the Social Internet",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://copy.fail/",
-    "title": "[英] Copy Fail – CVE-2026-31431",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-    "title": "[英] Ramp's Sheets AI Exfiltrates Financials",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin/",
-    "title": "[英] Rise of the Forward Deployed Engineer",
     "date": "2026-04-30"
   }
 ]
