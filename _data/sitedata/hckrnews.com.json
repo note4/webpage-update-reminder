@@ -1,7 +1,62 @@
 [
   {
+    "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+    "title": "[英] Ramp's Sheets AI Exfiltrates Financials",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin/",
+    "title": "[英] Rise of the Forward Deployed Engineer",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop",
+    "title": "[英] Why Software Needs a Third Loop [audio]",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://lawsofux.com/",
+    "title": "[英] Laws of UX",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://deepmind.google/research/publications/231971/",
+    "title": "[英] The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://neal.fun/cursor-camp/",
+    "title": "[英] Cursor Camp",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
+    "title": "[英] Maryland becomes first state to ban surveillance pricing in grocery stores",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
+    "title": "[英] How to Build the Future: Demis Hassabis [video]",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://kviss.eu/",
+    "title": "[英] Show HN: My retired dad and I made a daily, somewhat difficult, quiz",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation",
+    "title": "[英] Third Editor Fired in Elsevier's Citation Cartel Crackdown",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.wired.com/story/colorado-anti-repair-bill-is-dead/",
+    "title": "[英] Attempt to repeal Colorado's right-to-repair law fails",
+    "date": "2026-04-30"
+  },
+  {
     "link": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-    "title": "[英] FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies",
+    "title": "[英] FastCGI: 30 years old and still the better protocol for reverse proxies",
     "date": "2026-04-30"
   },
   {
@@ -17,61 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=47950605",
     "title": "[英] undefined",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://github.com/GliaX/Stethoscope",
-    "title": "[英] An open-source stethoscope that costs between $2.5 and $5 to produce",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
-    "title": "[英] Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://cowboystatedaily.com/2026/04/28/court-rules-2nd-amendment-covers-firearms-parts-good-news-for-those-who-build-guns/",
-    "title": "[英] Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.texastribune.org/2026/04/28/data-centers-texas-electricians-builders/",
-    "title": "[英] Data center boom strains Texas homebuilders' need for electricians",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://read.thecoder.cafe/p/linux-broke-postgresql",
-    "title": "[英] Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://xcancel.com/GlennMeder/status/2049088498163216560",
-    "title": "[英] Online age verification is the hill to die on",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.metabase.com/blog/ten-custom-subagents",
-    "title": "[英] I built ten custom subagents to tame a 500K-line Clojure codebase",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/",
-    "title": "[英] U.S. war in Iran has cost $25B so far, says Pentagon official",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
-    "title": "[英] Why AI companies want you to be afraid of them",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-    "title": "[英] Mistral Medium 3.5",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://zed.dev/blog/zed-1-0",
-    "title": "[英] Zed 1.0",
     "date": "2026-04-30"
   }
 ]
