@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+    "title": "[英] Soft launch of open-source code platform for government",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47945522",
+    "title": "[英] Tell HN: An update from the new Tindie team",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.theguardian.com/technology/2026/apr/29/meta-found-in-breach-of-eu-law-for-failing-to-keep-children-off-platforms",
+    "title": "[英] Meta found in breach of EU law for failing to keep children off platforms",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html",
+    "title": "[英] Wire to Replace Signal as Standard in the Bundestag",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://dl.acm.org/doi/abs/10.1145/3767295.3803591",
+    "title": "[英] Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://github.com/rocky-data/rocky",
+    "title": "[英] Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409",
+    "title": "[英] Germany Overtakes US in Ammunition Production Capacity",
+    "date": "2026-04-29"
+  },
+  {
     "link": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
     "title": "[英] HardenedBSD Is Now Officially on Radicle",
     "date": "2026-04-29"
@@ -37,41 +72,6 @@
   {
     "link": "https://failedarchitecture.com/bridging-west-papua-through-dispossession/",
     "title": "[英] Bridging West Papua Through Dispossession",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-    "title": "[英] Bugs Rust won't catch",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
-    "title": "[英] We still don't have a more precise value for \"Big G\"",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
-    "title": "[英] Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/",
-    "title": "[英] Nonlinearity Affects a Pendulum",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results",
-    "title": "[英] Apple CMF (Color-Matching Functions) 2026",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47942952",
-    "title": "[英] undefined",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://eartharchives.org/index.html",
-    "title": "[英] The biggest insect ever was a \"dragonfly\"",
     "date": "2026-04-29"
   }
 ]
