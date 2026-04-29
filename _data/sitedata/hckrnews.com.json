@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://choochoowords.chyuang.com/",
+    "title": "[英] Choo Choo Words: Spell words to make train tracks, stop the train from crashing",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://github.com/anthropics/claude-code/issues/49363",
+    "title": "[英] Claude system prompt bug wastes user money and bricks managed agents",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.anthropic.com/news/claude-for-creative-work",
+    "title": "[英] Claude for Creative Work",
+    "date": "2026-04-29"
+  },
+  {
+    "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+    "title": "[英] ChatGPT serves ads. Here's the full attribution loop",
+    "date": "2026-04-29"
+  },
+  {
     "link": "https://sites.google.com/view/elizagen-org/blog/parry-parries-again",
     "title": "[英] Parry Parries Again: Reanimating the Famous Paranoid Chatbot (In a Day)",
     "date": "2026-04-29"
@@ -15,8 +35,8 @@
     "date": "2026-04-29"
   },
   {
-    "link": "https://github.com/techomancer/iris",
-    "title": "[英] Show HN: My friend and his AI homies wrote SGI Indy emulator in Rust",
+    "link": "https://news.ycombinator.com/item?id=47940203",
+    "title": "[英] undefined",
     "date": "2026-04-29"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
     "title": "[英] Intel Arc Pro B70 Review",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://aws.amazon.com/bedrock/openai/",
-    "title": "[英] OpenAI Models on Amazon Bedrock",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://mitchellh.com/writing/ghostty-leaving-github",
-    "title": "[英] Ghostty is leaving GitHub",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-    "title": "[英] OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://samizdat.dev/phantom-patch/",
-    "title": "[英] Patch applies fake diffs from commit messages",
     "date": "2026-04-29"
   }
 ]
