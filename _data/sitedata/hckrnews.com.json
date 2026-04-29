@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/",
+    "title": "[英] Postgres's lateral joins allow for quite the good eDSL",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://kmph.com/news/local/california-high-speed-rail-price-tag-jumps-to-231b-nearly-seven-times-2008-estimate",
+    "title": "[英] California high-speed rail price tag jumps to $231B, nearly 7x 2008 estimate",
+    "date": "2026-04-30"
+  },
+  {
     "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx",
     "title": "[英] Alphabet Announces First Quarter 2026 Results",
     "date": "2026-04-30"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin/",
     "title": "[英] Rise of the Forward Deployed Engineer",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://lawsofux.com/",
-    "title": "[英] Laws of UX",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop",
-    "title": "[英] Why Software Needs a Third Loop [audio]",
     "date": "2026-04-30"
   }
 ]
