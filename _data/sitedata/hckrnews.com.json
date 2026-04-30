@@ -1,12 +1,27 @@
 [
   {
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271",
+    "title": "[英] Consequences of passing too few register parameters to a C function",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
+    "title": "[英] What can we gain by losing infinity?",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://increment.com/open-source/the-lingua-franca-of-latex/",
+    "title": "[英] The Lingua Franca of LaTeX (2019)",
+    "date": "2026-04-30"
+  },
+  {
     "link": "https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/",
     "title": "[英] DRAM Crunch: Lessons for System Design",
     "date": "2026-04-30"
   },
   {
     "link": "https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m",
-    "title": "[英] > Be Alexandra Elbakyan",
+    "title": "[英] Be Alexandra Elbakyan",
     "date": "2026-04-30"
   },
   {
@@ -30,8 +45,8 @@
     "date": "2026-04-30"
   },
   {
-    "link": "https://localmonero.co/blocks/search/47xmhbRuYpSYSrVZx2RsPBhaAQByZq3ucAT6ULxHvDAu8c853ErpLHqBdDmpVzcmWFdZFCWrfZYwp3rqs14zxXx95S7Fyv2",
-    "title": "[英] View transactions sent to a Monero address",
+    "link": "https://news.ycombinator.com/item?id=47955677",
+    "title": "[英] undefined",
     "date": "2026-04-30"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/",
     "title": "[英] Postgres's lateral joins allow for quite the good eDSL",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://kmph.com/news/local/california-high-speed-rail-price-tag-jumps-to-231b-nearly-seven-times-2008-estimate",
-    "title": "[英] California high-speed rail price tag jumps to $231B, nearly 7x 2008 estimate",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx",
-    "title": "[英] Alphabet Announces First Quarter 2026 Results",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.foxnews.com/politics/pentagon-jumps-from-225m-55b-drones-cheap-attacks-overwhelm-us-defenses",
-    "title": "[英] Pentagon spending on drones jumps from $225M to $55B in one year",
     "date": "2026-04-30"
   }
 ]
