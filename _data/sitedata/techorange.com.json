@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/04/30/china-deploys-an-army-of-humanoid-robots-to-maintain-its-power-grid/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "中國把全球最大公用事業變成 Physical AI 測試場：8,500 台機器人從巡檢、救援到特高壓維護全面落地",
+    "date": "2026-04-30 10:25:51"
+  },
+  {
+    "link": "https://techorange.com/2026/04/30/kilo-openclaw-kiloclaw-organizations-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "員工養龍蝦成企業資安新漏洞，Kilo 推企業級 OpenClaw 終結影子 AI 時代",
+    "date": "2026-04-30 09:31:48"
+  },
+  {
     "link": "https://techorange.com/2026/04/30/ai-supply-chain-lifts-taiwan-to-6th-globally-as-stock-market-value-surpasses-canada/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】AI 供應鏈把台灣推上全球第 6，台股市值正式超越加拿大",
     "date": "2026-04-30 06:50:00"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/04/28/openai-microsoft-new-partnership/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "不再綁定 Azure、AGI 條款退場：OpenAI 微軟達成新協議，對雙方各有什麼好處？",
     "date": "2026-04-28 12:51:07"
-  },
-  {
-    "link": "https://techorange.com/2026/04/28/galaxy-software-fhir-medical-vitals-kpim/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "叡揚指標管理與預測式 AI 接軌 FHIR，驅動醫院智慧治理",
-    "date": "2026-04-28 12:33:26"
-  },
-  {
-    "link": "https://techorange.com/2026/04/28/kinematic-intelligence-helps-robots-learn-their-limits/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "破解機器人硬體碎片化難題：EPFL 研發「運動學智慧」，讓不同機器人無縫複製技能",
-    "date": "2026-04-28 09:48:22"
   }
 ]

@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271",
-    "title": "[英] Consequences of passing too few register parameters to a C function",
+    "link": "https://www.noctua.at/en/3d-cad-models",
+    "title": "[英] Noctua releases official 3D CAD models for its cooling fans",
     "date": "2026-04-30"
   },
   {
-    "link": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-    "title": "[英] What can we gain by losing infinity?",
+    "link": "https://blog.zulip.com/2026/04/27/zulip-12-0-released/",
+    "title": "[英] Zulip 12.0 Released",
     "date": "2026-04-30"
   },
   {
-    "link": "https://increment.com/open-source/the-lingua-franca-of-latex/",
-    "title": "[英] The Lingua Franca of LaTeX (2019)",
+    "link": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+    "title": "[英] Functional Programmers need to take a look at Zig",
     "date": "2026-04-30"
   },
   {
-    "link": "https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/",
-    "title": "[英] DRAM Crunch: Lessons for System Design",
+    "link": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+    "title": "[英] Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs",
     "date": "2026-04-30"
   },
   {
-    "link": "https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m",
-    "title": "[英] Be Alexandra Elbakyan",
+    "link": "https://burrito.bio/essays/biology-is-a-burrito",
+    "title": "[英] Biology is a Burrito: A text- and visual-based journey through a living cell",
     "date": "2026-04-30"
   },
   {
-    "link": "https://www.numberempire.com/8647",
-    "title": "[英] 8647 Is a Prime Number",
+    "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+    "title": "[英] The Zig project's rationale for their firm anti-AI contribution policy",
     "date": "2026-04-30"
   },
   {
-    "link": "https://github.com/aallan/vera",
-    "title": "[英] Vera: a programming language designed for machines to write",
+    "link": "https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/",
+    "title": "[英] Microsoft open sources DOS 1.00 on 45th anniversary",
     "date": "2026-04-30"
   },
   {
-    "link": "https://lina.sh/blog/ddos-honeypot",
-    "title": "[英] I accidentally made law enforcement shut down their fake honeypot",
+    "link": "https://openai.com/index/where-the-goblins-came-from/",
+    "title": "[英] Where the goblins came from",
     "date": "2026-04-30"
   },
   {
-    "link": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
-    "title": "[英] I benchmarked Claude Code's caveman plugin against \"be brief.\"",
+    "link": "https://github.com/qumulator/qumulator-sdk",
+    "title": "[英] Show HN: Qumulator – quantum circuit simulator, 1000 qubits, no GPU",
     "date": "2026-04-30"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=47955677",
-    "title": "[英] undefined",
+    "link": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
+    "title": "[英] A Grounded Conceptual Model for Ownership Types in Rust",
     "date": "2026-04-30"
   },
   {
-    "link": "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/",
-    "title": "[英] Germany has become the largest ammunition producer in the world",
+    "link": "https://mikeoss.com/",
+    "title": "[英] Mike: open-source legal AI",
     "date": "2026-04-30"
   },
   {
-    "link": "https://en.wikipedia.org/wiki/Blaster_beam",
-    "title": "[英] Blaster Beam (Musical Instrument)",
+    "link": "https://amandahinton.com/blog/creating-a-color-palette-from-an-image",
+    "title": "[英] Creating a Color Palette from an Image",
     "date": "2026-04-30"
   },
   {
-    "link": "https://tradingeconomics.com/commodity/brent-crude-oil",
-    "title": "[英] Brent Crude hits $119.56/barrel peak today",
+    "link": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+    "title": "[英] Joby kicks off NYC electric air taxi demos with historic JFK flight",
     "date": "2026-04-30"
   },
   {
-    "link": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
-    "title": "[英] Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
+    "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+    "title": "[英] Craig Venter has died",
     "date": "2026-04-30"
   },
   {
-    "link": "https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/",
-    "title": "[英] Postgres's lateral joins allow for quite the good eDSL",
+    "link": "https://news.ycombinator.com/item?id=47956890",
+    "title": "[英] Claude.ai down again?",
     "date": "2026-04-30"
   }
 ]
