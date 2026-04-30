@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+    "title": "[英] The More Young People Use AI, the More They Hate It",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://twitter.com/theo/status/2049645973350363168",
+    "title": "[英] Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
+    "title": "[英] You can beat the binary search",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://markready.io/blog/fcc-accredited-test-labs-complete-guide",
+    "title": "[英] The FCC is about to ban 21% of its test labs today. I mapped them all",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+    "title": "[英] How an Oil Refinery Works",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.economist.com/leaders/2026/04/30/the-uae-doubles-down-on-israel-and-america",
+    "title": "[英] The UAE doubles down on Israel and America",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://tingouw.com/blog/cloud_notes/badwater_intro",
+    "title": "[英] I Built a WebAssembly Runtime in 5 Days",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/",
+    "title": "[英] The Science Behind Honey's Eternal Shelf Life (2013)",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+    "title": "[英] Meta in row after workers who saw smart glasses users having sex lose jobs",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.wsj.com/economy/u-s-debt-tops-100-of-gdp-81c013d7",
+    "title": "[英] U.S. Debt Tops 100% of GDP",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html",
+    "title": "[英] My Stratum-0 Atomic Clock",
+    "date": "2026-04-30"
+  },
+  {
     "link": "https://bidprowl.com",
     "title": "[英] I aggregated 28 US Government auction sites into one search",
     "date": "2026-04-30"
@@ -17,61 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=47926506",
     "title": "[英] undefined",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://gcc.gnu.org/gcc-16/changes.html",
-    "title": "[英] GCC 16 has been released",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/",
-    "title": "[英] How to Disable Firefox's New Emoji Picker",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://github.com/NorskHelsenett/copy-fail-destroyer",
-    "title": "[英] Copy-fail-destroyer: K8s remediation for CVE-2026-31431",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html",
-    "title": "[英] 1.4 GW: battery storage at former Grohnde nuclear power plant",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://pomax.github.io/bezierinfo/",
-    "title": "[英] A Primer on Bézier Curves – So What Makes a Bézier Curve?",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-    "title": "[英] Granite 4.1: IBM's 8B Model Matching 32B MoE",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://newsletter.semianalysis.com/p/mi300x-vs-h100-vs-h200-benchmark-part-1-training",
-    "title": "[英] Why isn't AMD's MI300X competitive?",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://datacenter.fm/",
-    "title": "[英] DataCenter.FM – background noise app featuring the sound of the AI bubble",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/",
-    "title": "[英] \"Parse, don't validate\" through the years with C++",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://github.com/mozilla/standards-positions/issues/1213",
-    "title": "[英] Mozilla's Opposition to Chrome's Prompt API",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.plagiarismtoday.com/2026/04/20/a-25-year-fight-over-a-2-second-sample/",
-    "title": "[英] A 25-Year-Fight over a 2-Second Sample",
     "date": "2026-04-30"
   }
 ]
