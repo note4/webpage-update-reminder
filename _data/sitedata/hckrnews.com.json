@@ -1,12 +1,27 @@
 [
   {
+    "link": "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/",
+    "title": "[英] \"Parse, don't validate\" through the years with C++",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://github.com/mozilla/standards-positions/issues/1213",
+    "title": "[英] Mozilla's Opposition to Chrome's Prompt API",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.plagiarismtoday.com/2026/04/20/a-25-year-fight-over-a-2-second-sample/",
+    "title": "[英] A 25-Year-Fight over a 2-Second Sample",
+    "date": "2026-04-30"
+  },
+  {
     "link": "https://scienceblog.com/the-silent-frequency-that-makes-old-buildings-feel-haunted/",
     "title": "[英] The Silent Frequency That Makes Old Buildings Feel Haunted",
     "date": "2026-04-30"
   },
   {
     "link": "https://scottaaronson.blog/?p=9718",
-    "title": "[英] Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"",
+    "title": "[英] Will you heed my warnings now?",
     "date": "2026-04-30"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://burrito.bio/essays/biology-is-a-burrito",
     "title": "[英] Biology is a Burrito: A text- and visual-based journey through a living cell",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-    "title": "[英] The Zig project's rationale for their firm anti-AI contribution policy",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/",
-    "title": "[英] Microsoft open sources DOS 1.00 on 45th anniversary",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://openai.com/index/where-the-goblins-came-from/",
-    "title": "[英] Where the goblins came from",
     "date": "2026-04-30"
   }
 ]
