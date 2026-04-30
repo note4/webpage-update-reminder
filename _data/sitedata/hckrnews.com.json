@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://pu.dev/",
+    "title": "[英] Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/",
+    "title": "[英] Apple reports second quarter results",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://github.com/rootsecdev/cve_2026_31431",
+    "title": "[英] Patch Your Kernel NOW: 732byte Python rootkit, cracks all distros since 2017",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/",
+    "title": "[英] Hackers are actively exploiting a bug in cPanel and WHM",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time",
+    "title": "[英] American Dads Became the Parents Their Fathers Never Were",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://theupsellgame.com/",
+    "title": "[英] The upsell game – Vercel upselling tactics revealed",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+    "title": "[英] Rivian allows you to disable all internet connectivity",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+    "title": "[英] LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
+    "title": "[英] The Church Rock Uranium Mill Spill",
+    "date": "2026-05-01"
+  },
+  {
     "link": "https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd",
     "title": "[英] U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets",
     "date": "2026-05-01"
@@ -15,63 +60,18 @@
     "date": "2026-05-01"
   },
   {
-    "link": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
-    "title": "[英] Does Postgres Scale?",
-    "date": "2026-05-01"
-  },
-  {
     "link": "https://contralabs.com/research/human-creativity-benchmark",
     "title": "[英] The Human Creativity Benchmark – Evaluating Generative AI in Creative Work",
     "date": "2026-05-01"
   },
   {
+    "link": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+    "title": "[英] Does Postgres Scale?",
+    "date": "2026-05-01"
+  },
+  {
     "link": "https://tokipona.net/wile-pona/",
     "title": "[英] A statement from members of the Toki Pona community",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-    "title": "[英] Full-Text Search with DuckDB",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.techadvisor.com/article/3128472/if-apple-makes-an-ipad-neo-its-all-over.html",
-    "title": "[英] If Apple makes an iPad Neo, it's all over",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.siliconimist.com/p/semiconductors-made-in-america",
-    "title": "[英] How Semiconductors Were Made in America",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
-    "title": "[英] Recovering files from beyond the grave using PhotoRec",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-    "title": "[英] CopyFail was not disclosed to Gentoo developer",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47965709",
-    "title": "[英] undefined",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://github.com/kubereboot/kured",
-    "title": "[英] Kubereboot/Kured: Kubernetes Reboot Daemon",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://github.com/carlovalenti/TRiP",
-    "title": "[英] Show HN: TRiP – a complete transformer engine in C built from scratch just by me",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-    "title": "[英] I built a Game Boy emulator in F#",
     "date": "2026-05-01"
   }
 ]
