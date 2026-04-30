@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd",
+    "title": "[英] U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
+    "title": "[英] Follow-up to Carrot disclosure: Forgejo",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://phulin.me/blog/simtower",
+    "title": "[英] Reverse Engineering SimTower",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+    "title": "[英] Does Postgres Scale?",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://contralabs.com/research/human-creativity-benchmark",
+    "title": "[英] The Human Creativity Benchmark – Evaluating Generative AI in Creative Work",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://tokipona.net/wile-pona/",
+    "title": "[英] A statement from members of the Toki Pona community",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+    "title": "[英] Full-Text Search with DuckDB",
+    "date": "2026-05-01"
+  },
+  {
     "link": "https://www.techadvisor.com/article/3128472/if-apple-makes-an-ipad-neo-its-all-over.html",
     "title": "[英] If Apple makes an iPad Neo, it's all over",
     "date": "2026-05-01"
@@ -16,7 +51,7 @@
   },
   {
     "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-    "title": "[英] CopyFail Was Not Disclosed to Distros",
+    "title": "[英] CopyFail was not disclosed to Gentoo developer",
     "date": "2026-05-01"
   },
   {
@@ -25,53 +60,18 @@
     "date": "2026-05-01"
   },
   {
-    "link": "https://github.com/carlovalenti/TRiP",
-    "title": "[英] Show HN: TRiP – a complete transformer engine in C built from scratch just by me",
-    "date": "2026-05-01"
-  },
-  {
     "link": "https://github.com/kubereboot/kured",
     "title": "[英] Kubereboot/Kured: Kubernetes Reboot Daemon",
     "date": "2026-05-01"
   },
   {
+    "link": "https://github.com/carlovalenti/TRiP",
+    "title": "[英] Show HN: TRiP – a complete transformer engine in C built from scratch just by me",
+    "date": "2026-05-01"
+  },
+  {
     "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
     "title": "[英] I built a Game Boy emulator in F#",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
-    "title": "[英] 10Gb/s Ethernet: what I did to get it working in my home",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://burla-cloud.github.io/examples/airbnb-burla-demo/",
-    "title": "[英] I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-    "title": "[英] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/",
-    "title": "[英] Largest Digital Human Rights Conference Suddenly Canceled",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-    "title": "[英] How Mark Klein told the EFF about Room 641A [book excerpt]",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://github.com/Pathos0925/SatoshiGuesser",
-    "title": "[英] SatoshiGuesser – Roll for Bitcoin",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
-    "title": "[英] A 1960s art school experiment that redefined creativity",
     "date": "2026-05-01"
   }
 ]
