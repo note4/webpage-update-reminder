@@ -1,12 +1,27 @@
 [
   {
+    "link": "https://www.techadvisor.com/article/3128472/if-apple-makes-an-ipad-neo-its-all-over.html",
+    "title": "[英] If Apple makes an iPad Neo, it's all over",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://www.siliconimist.com/p/semiconductors-made-in-america",
+    "title": "[英] How Semiconductors Were Made in America",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
+    "title": "[英] Recovering files from beyond the grave using PhotoRec",
+    "date": "2026-05-01"
+  },
+  {
     "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
     "title": "[英] CopyFail Was Not Disclosed to Distros",
     "date": "2026-05-01"
   },
   {
-    "link": "https://thenewstack.io/meta-abandons-llama-spark/",
-    "title": "[英] Meta abandons open-source Llama for proprietary Muse Spark",
+    "link": "https://news.ycombinator.com/item?id=47965709",
+    "title": "[英] undefined",
     "date": "2026-05-01"
   },
   {
@@ -46,7 +61,7 @@
   },
   {
     "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-    "title": "[英] The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'",
+    "title": "[英] How Mark Klein told the EFF about Room 641A [book excerpt]",
     "date": "2026-05-01"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
     "title": "[英] A 1960s art school experiment that redefined creativity",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://github.com/manankharwar/fusioncore",
-    "title": "[英] Show HN: FusionCore: ROS 2 sensor fusion that outperforms robot_localization",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-    "title": "[英] Spain's parliament will act against massive IP blockages by LaLiga",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://honker.dev/",
-    "title": "[英] Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
     "date": "2026-05-01"
   }
 ]
