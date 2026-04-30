@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+    "title": "[英] Granite 4.1: IBM's 8B Model Matching 32B MoE",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://newsletter.semianalysis.com/p/mi300x-vs-h100-vs-h200-benchmark-part-1-training",
+    "title": "[英] Why isn't AMD's MI300X competitive?",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://datacenter.fm/",
+    "title": "[英] DataCenter.FM – background noise app featuring the sound of the AI bubble",
+    "date": "2026-04-30"
+  },
+  {
     "link": "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/",
     "title": "[英] \"Parse, don't validate\" through the years with C++",
     "date": "2026-04-30"
@@ -15,8 +30,8 @@
     "date": "2026-04-30"
   },
   {
-    "link": "https://scienceblog.com/the-silent-frequency-that-makes-old-buildings-feel-haunted/",
-    "title": "[英] The Silent Frequency That Makes Old Buildings Feel Haunted",
+    "link": "https://news.ycombinator.com/item?id=47933608",
+    "title": "[英] undefined",
     "date": "2026-04-30"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://blog.zulip.com/2026/04/27/zulip-12-0-released/",
     "title": "[英] Zulip 12.0 Released",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
-    "title": "[英] Functional programmers need to take a look at Zig",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-    "title": "[英] Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://burrito.bio/essays/biology-is-a-burrito",
-    "title": "[英] Biology is a Burrito: A text- and visual-based journey through a living cell",
     "date": "2026-04-30"
   }
 ]
