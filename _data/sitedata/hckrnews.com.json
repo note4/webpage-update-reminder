@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://scienceblog.com/the-silent-frequency-that-makes-old-buildings-feel-haunted/",
+    "title": "[英] The Silent Frequency That Makes Old Buildings Feel Haunted",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://scottaaronson.blog/?p=9718",
+    "title": "[英] Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://sheep.horse/2026/4/who_is_that_knocking_at_my_%28ssh%29_door.html",
+    "title": "[英] Who Is That Knocking at My (SSH) Door?",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.groundcover.com/blog/otel-normalizer-genai-part-1",
+    "title": "[英] Lessons from Building an OTel Normalizer for GenAI",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://xint.io/blog/copy-fail-linux-distributions",
+    "title": "[英] Copy Fail: 732 Bytes to Root on Every Major Linux Distribution",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://wiki.haskell.org/Monad_tutorials_timeline",
+    "title": "[英] Monad Tutorials Timeline",
+    "date": "2026-04-30"
+  },
+  {
+    "link": "https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html",
+    "title": "[英] London to Calcutta by Bus (2022)",
+    "date": "2026-04-30"
+  },
+  {
     "link": "https://www.noctua.at/en/3d-cad-models",
     "title": "[英] Noctua releases official 3D CAD models for its cooling fans",
     "date": "2026-04-30"
@@ -11,12 +46,12 @@
   },
   {
     "link": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
-    "title": "[英] Functional Programmers need to take a look at Zig",
+    "title": "[英] Functional programmers need to take a look at Zig",
     "date": "2026-04-30"
   },
   {
     "link": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-    "title": "[英] Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs",
+    "title": "[英] Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
     "date": "2026-04-30"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://openai.com/index/where-the-goblins-came-from/",
     "title": "[英] Where the goblins came from",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://github.com/qumulator/qumulator-sdk",
-    "title": "[英] Show HN: Qumulator – quantum circuit simulator, 1000 qubits, no GPU",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
-    "title": "[英] A Grounded Conceptual Model for Ownership Types in Rust",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://mikeoss.com/",
-    "title": "[英] Mike: open-source legal AI",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://amandahinton.com/blog/creating-a-color-palette-from-an-image",
-    "title": "[英] Creating a Color Palette from an Image",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
-    "title": "[英] Joby kicks off NYC electric air taxi demos with historic JFK flight",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-    "title": "[英] Craig Venter has died",
-    "date": "2026-04-30"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47956890",
-    "title": "[英] Claude.ai down again?",
     "date": "2026-04-30"
   }
 ]
