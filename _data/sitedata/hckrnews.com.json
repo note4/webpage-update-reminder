@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "title": "[英] CopyFail Was Not Disclosed to Distros",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://thenewstack.io/meta-abandons-llama-spark/",
+    "title": "[英] Meta abandons open-source Llama for proprietary Muse Spark",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://github.com/carlovalenti/TRiP",
+    "title": "[英] Show HN: TRiP – a complete transformer engine in C built from scratch just by me",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://github.com/kubereboot/kured",
+    "title": "[英] Kubereboot/Kured: Kubernetes Reboot Daemon",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+    "title": "[英] I built a Game Boy emulator in F#",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
+    "title": "[英] 10Gb/s Ethernet: what I did to get it working in my home",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://burla-cloud.github.io/examples/airbnb-burla-demo/",
+    "title": "[英] I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "title": "[英] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/",
+    "title": "[英] Largest Digital Human Rights Conference Suddenly Canceled",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+    "title": "[英] The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://github.com/Pathos0925/SatoshiGuesser",
+    "title": "[英] SatoshiGuesser – Roll for Bitcoin",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
+    "title": "[英] A 1960s art school experiment that redefined creativity",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://github.com/manankharwar/fusioncore",
+    "title": "[英] Show HN: FusionCore: ROS 2 sensor fusion that outperforms robot_localization",
+    "date": "2026-05-01"
+  },
+  {
     "link": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
     "title": "[英] Spain's parliament will act against massive IP blockages by LaLiga",
     "date": "2026-05-01"
@@ -7,71 +72,6 @@
   {
     "link": "https://honker.dev/",
     "title": "[英] Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html",
-    "title": "[英] Because It Doesn't Have To",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.404media.co/japan-cardboard-drones-air-kamuy/",
-    "title": "[英] Japan Is Building Cardboard Suicide Drones",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://medium.com/@alirezarezvani/the-complete-claude-setup-checklist-72-steps-from-default-to-power-user-082d8bf0d390",
-    "title": "[英] The Complete Claude Setup Checklist: 72 Steps from Default to Power User",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://spectrelang.org/log/devlog#cubedoom",
-    "title": "[英] Show HN: I wrote a DOOM clone in my own programming language",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
-    "title": "[英] The More Young People Use AI, the More They Hate It",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://twitter.com/theo/status/2049645973350363168",
-    "title": "[英] Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-    "title": "[英] You can beat the binary search",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://markready.io/blog/fcc-accredited-test-labs-complete-guide",
-    "title": "[英] The FCC is about to ban 21% of its test labs today. I mapped them all",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-    "title": "[英] How an Oil Refinery Works",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.economist.com/leaders/2026/04/30/the-uae-doubles-down-on-israel-and-america",
-    "title": "[英] The UAE doubles down on Israel and America",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://tingouw.com/blog/cloud_notes/badwater_intro",
-    "title": "[英] I Built a WebAssembly Runtime in 5 Days",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/",
-    "title": "[英] The Science Behind Honey's Eternal Shelf Life (2013)",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
-    "title": "[英] Meta in row after workers who saw smart glasses users having sex lose jobs",
     "date": "2026-05-01"
   }
 ]
