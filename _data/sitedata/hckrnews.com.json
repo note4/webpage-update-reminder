@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=nHwxV0Sd9V8",
+    "title": "[英] Flock cameras keep telling police a man who doesn't have a warrant has a warrant",
+    "date": "2026-05-02"
+  },
+  {
     "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
     "title": "[英] Uber Torches 2026 AI Budget on Claude Code in Four Months",
     "date": "2026-05-02"
@@ -20,13 +25,13 @@
     "date": "2026-05-02"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=47975676",
-    "title": "[英] I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+    "link": "https://news.ycombinator.com/item?id=47975570",
+    "title": "[英] Ask HN: Who wants to be hired? (May 2026)",
     "date": "2026-05-02"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=47975570",
-    "title": "[英] Ask HN: Who wants to be hired? (May 2026)",
+    "link": "https://news.ycombinator.com/item?id=47975676",
+    "title": "[英] I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
     "date": "2026-05-02"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://www.jsoftware.com/papers/Dijkstra_Letter.htm",
     "title": "[英] A Letter from Dijkstra on APL (1982)",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://github.com/intel/auto-round",
-    "title": "[英] Advanced Quantization Algorithm for LLMs",
     "date": "2026-05-02"
   }
 ]
