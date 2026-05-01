@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://btxx.org/posts/beginners-guide-sourcehut/",
+    "title": "[英] Git Your Freedom Back: A Beginner's Guide to Sourcehut (2025)",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+    "title": "[英] After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://skysedge.com/telecom/RUSP/index.html",
+    "title": "[英] The Rotary Un-Smartphone",
+    "date": "2026-05-01"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=47972888",
     "title": "[英] Show HN: Perfect Bluetooth MIDI for Windows",
     "date": "2026-05-01"
@@ -16,7 +31,7 @@
   },
   {
     "link": "https://scsipub.com/blog/how-we-run-iscsi-over-the-internet",
-    "title": "[英] We Run iSCSI over the Internet",
+    "title": "[英] How we run iSCSI over the internet",
     "date": "2026-05-01"
   },
   {
@@ -36,7 +51,7 @@
   },
   {
     "link": "https://matduggan.com/if-i-could-make-my-own-github/",
-    "title": "[英] If I Could Make My Own GitHub",
+    "title": "[英] If I could make my own GitHub",
     "date": "2026-05-01"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
     "title": "[英] Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://idlemachines.co.uk/essays/softmax",
-    "title": "[英] Softmax, can you derive the Jacobian? And should you care?",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-    "title": "[英] New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
-    "title": "[英] Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
     "date": "2026-05-01"
   }
 ]
