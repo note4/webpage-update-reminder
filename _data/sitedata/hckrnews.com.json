@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
+    "title": "[英] Whimsical Animations Course Open House",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+    "title": "[英] Ubuntu servers taken offline by \"sustained, cross-border attack\"",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://ews.kylemcdonald.net/",
+    "title": "[英] Apocalypse Early Warning System",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://alearningaday.blog/2026/05/01/artemis-ii-fault-tolerance/",
+    "title": "[英] Artemis II Fault Tolerance",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+    "title": "[英] New research suggests people can communicate and practice skills while dreaming",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://fusion.adam.new/install",
+    "title": "[英] Show HN: AI CAD Harness",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+    "title": "[英] City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+    "date": "2026-05-02"
+  },
+  {
     "link": "https://www.rightscon.org/rc26-statement/",
     "title": "[英] A statement about why RightsCon 2026 will not take place in Zambia",
     "date": "2026-05-02"
@@ -21,7 +56,7 @@
   },
   {
     "link": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
-    "title": "[英] AI Uses Less Water Than the Public Thinks",
+    "title": "[英] AI uses less water than the public thinks",
     "date": "2026-05-02"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
     "title": "[英] AWS stops billing Middle East cloud customers as repairs to war damage drag on",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://github.com/calebwin/gitgres",
-    "title": "[英] Show HN: My Private GitHub on Postgres",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=nHwxV0Sd9V8",
-    "title": "[英] Flock cameras keep telling police a man who doesn't have a warrant has a warrant",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-    "title": "[英] Uber Torches 2026 AI Budget on Claude Code in Four Months",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/",
-    "title": "[英] Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://www.middleeasteye.net/news/telegraph-and-politico-owner-says-journalists-must-support-israel-or-resign",
-    "title": "[英] Telegraph and Politico owner says journalists must support Israel or resign",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://www.theregister.com/2026/05/01/canonical_confirms_ubuntu_infrastructure_under/",
-    "title": "[英] Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47975570",
-    "title": "[英] Ask HN: Who wants to be hired? (May 2026)",
     "date": "2026-05-02"
   }
 ]
