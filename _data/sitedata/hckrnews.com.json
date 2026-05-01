@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=47972888",
+    "title": "[英] Show HN: Perfect Bluetooth MIDI for Windows",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://github.com/darrylmorley/whatcable",
+    "title": "[英] Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/",
+    "title": "[英] Your Biggest Vulnerability is your Shitty Compensation",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://scsipub.com/blog/how-we-run-iscsi-over-the-internet",
+    "title": "[英] We Run iSCSI over the Internet",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://docs.x.ai/developers/models/grok-4.3",
+    "title": "[英] Grok 4.3",
+    "date": "2026-05-01"
+  },
+  {
     "link": "https://en.wikipedia.org/wiki/Auto_polo",
     "title": "[英] Auto Polo",
     "date": "2026-05-01"
@@ -47,31 +72,6 @@
   {
     "link": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
     "title": "[英] Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://phys.org/news/2026-04-universal-patterns-emerge-languages-vocabularies.html",
-    "title": "[英] Universal patterns emerge across 22 languages, mapping how vocabularies evolve",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://gregraiz.com/blog/local-vibe/",
-    "title": "[英] I Got Sick of Remembering Port Numbers",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://github.com/kernalix7/winpodx",
-    "title": "[英] Show HN: Winpodx – run Windows apps on Linux as native windows",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://fabiensanglard.net/snes_hearts/",
-    "title": "[英] The Hearts of the Super Nintendo",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://toolkit.whysonil.dev/how-it-works/internet-timeline/",
-    "title": "[英] Show HN: What happens when you load a webpage (Interactive)",
     "date": "2026-05-01"
   }
 ]
