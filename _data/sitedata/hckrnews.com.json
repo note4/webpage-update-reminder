@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=47975570",
+    "title": "[英] Ask HN: Who wants to be hired? (May 2026)",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47975676",
+    "title": "[英] I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47975571",
+    "title": "[英] Ask HN: Who is hiring? (May 2026)",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://www.elenaverna.com/p/confessions-of-a-millennial-in-tech",
+    "title": "[英] Confessions of a Millennial in Tech",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://keepthingsopen.com",
+    "title": "[英] An open letter asking NHS England to keep its code open",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://github.com/leox255/loopsy",
+    "title": "[英] Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://www.online-tribute.com/SallyMcKee",
+    "title": "[英] Sally McKee, who coined the term \"the Memory Wall\", has died",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://github.com/whohas/whohas",
+    "title": "[英] whohas – Command-line utility for cross-distro, cross-repository package search",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://www.ghost.charity/",
+    "title": "[英] GhostBox – disposable little machines from the Global Free Tier.",
+    "date": "2026-05-01"
+  },
+  {
     "link": "https://www.jsoftware.com/papers/Dijkstra_Letter.htm",
     "title": "[英] A Letter from Dijkstra on APL",
     "date": "2026-05-01"
@@ -27,51 +72,6 @@
   {
     "link": "https://xcancel.com/aaronp613/status/2049986504617820551",
     "title": "[英] Apple accidentally left Claude.md files Apple Support app",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes",
-    "title": "[英] Our agent found a bug with WireGuard in Google Kubernetes Engine",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://matduggan.com/if-i-could-make-my-own-github/",
-    "title": "[英] If I could make my own GitHub",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://btxx.org/posts/beginners-guide-sourcehut/",
-    "title": "[英] A beginner's guide to Sourcehut (2025)",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-    "title": "[英] After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://skysedge.com/telecom/RUSP/index.html",
-    "title": "[英] The Rotary Un-Smartphone (2023)",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47972888",
-    "title": "[英] Show HN: Perfect Bluetooth MIDI for Windows",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://github.com/darrylmorley/whatcable",
-    "title": "[英] Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/",
-    "title": "[英] Your biggest vulnerability is your shitty compensation",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://scsipub.com/blog/how-we-run-iscsi-over-the-internet",
-    "title": "[英] How we run iSCSI over the internet",
     "date": "2026-05-01"
   }
 ]
