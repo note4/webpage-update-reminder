@@ -1,7 +1,27 @@
 [
   {
+    "link": "https://websmith.studio/blog/your-website-is-not-for-you/",
+    "title": "[英] Your Website Is Not for You",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://xcancel.com/aaronp613/status/2049986504617820551",
+    "title": "[英] Apple accidentally left Claude.md files Apple Support app",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes",
+    "title": "[英] Our agent found a bug with WireGuard in Google Kubernetes Engine",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://matduggan.com/if-i-could-make-my-own-github/",
+    "title": "[英] If I could make my own GitHub",
+    "date": "2026-05-01"
+  },
+  {
     "link": "https://btxx.org/posts/beginners-guide-sourcehut/",
-    "title": "[英] Git Your Freedom Back: A Beginner's Guide to Sourcehut (2025)",
+    "title": "[英] A beginner's guide to Sourcehut (2025)",
     "date": "2026-05-01"
   },
   {
@@ -11,7 +31,7 @@
   },
   {
     "link": "https://skysedge.com/telecom/RUSP/index.html",
-    "title": "[英] The Rotary Un-Smartphone",
+    "title": "[英] The Rotary Un-Smartphone (2023)",
     "date": "2026-05-01"
   },
   {
@@ -26,7 +46,7 @@
   },
   {
     "link": "https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/",
-    "title": "[英] Your Biggest Vulnerability is your Shitty Compensation",
+    "title": "[英] Your biggest vulnerability is your shitty compensation",
     "date": "2026-05-01"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://matduggan.com/if-i-could-make-my-own-github/",
     "title": "[英] If I could make my own GitHub",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://nikhiljha.com/posts/vt100/",
-    "title": "[英] Using a 1978 terminal in 2026 (DEC VT-100)",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://yadin.com/notes/toasted/",
-    "title": "[英] It’s Toasted",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.propublica.org/article/trump-social-security-ssi-disability-benefits-cuts-parents-children",
-    "title": "[英] U.S. Aims to Penalize Disabled Adults Who Live with Their Families",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
-    "title": "[英] Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
     "date": "2026-05-01"
   }
 ]
