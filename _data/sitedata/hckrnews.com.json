@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://github.com/intel/auto-round",
+    "title": "[英] Advanced Quantization Algorithm for LLMs",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://sitemogging.com",
+    "title": "[英] Show HN: Site Mogging",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://www.pagetable.com/?p=1854",
+    "title": "[英] Running Adobe's 1991 PostScript Interpreter in the Browser",
+    "date": "2026-05-01"
+  },
+  {
     "link": "https://websmith.studio/blog/your-website-is-not-for-you/",
     "title": "[英] Your Website Is Not for You",
     "date": "2026-05-01"
@@ -57,21 +72,6 @@
   {
     "link": "https://docs.x.ai/developers/models/grok-4.3",
     "title": "[英] Grok 4.3",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Auto_polo",
-    "title": "[英] Auto Polo",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
-    "title": "[英] Canonical/Ubuntu have been under DDoS for more than 15h",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://matduggan.com/if-i-could-make-my-own-github/",
-    "title": "[英] If I could make my own GitHub",
     "date": "2026-05-01"
   }
 ]
