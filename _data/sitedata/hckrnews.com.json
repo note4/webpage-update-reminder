@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Auto_polo",
+    "title": "[英] Auto Polo",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
+    "title": "[英] Canonical/Ubuntu have been under DDoS for more than 15h",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://matduggan.com/if-i-could-make-my-own-github/",
+    "title": "[英] If I Could Make My Own GitHub",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://nikhiljha.com/posts/vt100/",
+    "title": "[英] Using a 1978 terminal in 2026 (DEC VT-100)",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://yadin.com/notes/toasted/",
+    "title": "[英] It’s Toasted",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://www.propublica.org/article/trump-social-security-ssi-disability-benefits-cuts-parents-children",
+    "title": "[英] U.S. Aims to Penalize Disabled Adults Who Live with Their Families",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
+    "title": "[英] Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
+    "date": "2026-05-01"
+  },
+  {
     "link": "https://idlemachines.co.uk/essays/softmax",
     "title": "[英] Softmax, can you derive the Jacobian? And should you care?",
     "date": "2026-05-01"
@@ -37,41 +72,6 @@
   {
     "link": "https://toolkit.whysonil.dev/how-it-works/internet-timeline/",
     "title": "[英] Show HN: What happens when you load a webpage (Interactive)",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://openwarp.zerx.dev",
-    "title": "[英] OpenWarp",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://internals.laxmena.com/p/what-youre-actually-writing-when",
-    "title": "[英] AI Skills as loader spec, not prompts – why the architecture changes everything",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://herbertlui.net/maladaptive-frugality/",
-    "title": "[英] Maladaptive Frugality",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-    "title": "[英] CPanel and WHM Authentication Bypass – CVE-2026-41940",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://biohub.org/news/virtual-biology-initiative/",
-    "title": "[英] $500M for Virtual Biology Initiative, Funded by Zuckerbergs",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://clawirc.com/",
-    "title": "[英] ClawIRC – IRC Chat for Agents",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://0xkrt26.github.io/math_behind_security/2026/04/28/the-accidental-ancestor-Luhn-algorithm.html",
-    "title": "[英] The Accidental Ancestor – How Verifying Numbers Shaped Modern Hashing",
     "date": "2026-05-01"
   }
 ]
