@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+    "title": "[英] Coatue has a plan to buy up land for data centers, possibly for Anthropic",
+    "date": "2026-05-02 02:23:04"
+  },
+  {
     "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
     "title": "[英] Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
     "date": "2026-05-02 00:02:36"
@@ -8,6 +13,11 @@
     "link": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
     "title": "[英] Ubuntu services hit by outages after DDoS attack",
     "date": "2026-05-01 23:00:14"
+  },
+  {
+    "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+    "title": "[英] Musk v. Altman is just getting started",
+    "date": "2026-05-01 22:00:00"
   },
   {
     "link": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
@@ -63,15 +73,5 @@
     "link": "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/",
     "title": "[英] EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting",
     "date": "2026-05-01 02:56:59"
-  },
-  {
-    "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-    "title": "[英] OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-    "date": "2026-05-01 02:20:03"
-  },
-  {
-    "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-    "title": "[英] Elon Musk testifies that xAI trained Grok on OpenAI models",
-    "date": "2026-05-01 02:03:57"
   }
 ]
