@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://gregraiz.com/blog/local-vibe/",
+    "title": "[英] I Got Sick of Remembering Port Numbers",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://github.com/kernalix7/winpodx",
+    "title": "[英] Show HN: Winpodx – run Windows apps on Linux as native windows",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://fabiensanglard.net/snes_hearts/",
+    "title": "[英] The Hearts of the Super Nintendo",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://openwarp.zerx.dev",
+    "title": "[英] OpenWarp",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://toolkit.whysonil.dev/how-it-works/internet-timeline/",
+    "title": "[英] Show HN: What happens when you load a webpage (Interactive)",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://internals.laxmena.com/p/what-youre-actually-writing-when",
+    "title": "[英] AI Skills as loader spec, not prompts – why the architecture changes everything",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://herbertlui.net/maladaptive-frugality/",
+    "title": "[英] Maladaptive Frugality",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+    "title": "[英] CPanel and WHM Authentication Bypass – CVE-2026-41940",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://biohub.org/news/virtual-biology-initiative/",
+    "title": "[英] $500M for Virtual Biology Initiative, Funded by Zuckerbergs",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://clawirc.com/",
+    "title": "[英] ClawIRC – IRC Chat for Agents",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://0xkrt26.github.io/math_behind_security/2026/04/28/the-accidental-ancestor-Luhn-algorithm.html",
+    "title": "[英] The Accidental Ancestor – How Verifying Numbers Shaped Modern Hashing",
+    "date": "2026-05-01"
+  },
+  {
     "link": "https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all",
     "title": "[英] AI discovery reveals DNA isn’t locked away in cells after all",
     "date": "2026-05-01"
@@ -17,61 +72,6 @@
   {
     "link": "https://nik.digital/posts/compositing-blending",
     "title": "[英] Compositing and Blending – Exploring the math and intuition behind blend modes",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html",
-    "title": "[英] SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-    "title": "[英] Opus 4.7 knows the real Kelsey",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://wideluxx.com",
-    "title": "[英] New mechanical panoramic film camera from Jeff Bridges",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://pu.dev/",
-    "title": "[英] Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/",
-    "title": "[英] Apple reports second quarter results",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://github.com/rootsecdev/cve_2026_31431",
-    "title": "[英] Patch Your Kernel NOW: 732byte Python rootkit, cracks all distros since 2017",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/",
-    "title": "[英] Hackers are actively exploiting a bug in cPanel and WHM",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time",
-    "title": "[英] American Dads Became the Parents Their Fathers Never Were",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://theupsellgame.com/",
-    "title": "[英] The upsell game – Vercel upselling tactics revealed",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-    "title": "[英] Rivian allows you to disable all internet connectivity",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
-    "title": "[英] LinkedIn scans for 6,278 extensions and encrypts the results into every request",
     "date": "2026-05-01"
   }
 ]
