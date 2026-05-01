@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://idlemachines.co.uk/essays/softmax",
+    "title": "[英] Softmax, can you derive the Jacobian? And should you care?",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+    "title": "[英] New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
+    "title": "[英] Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
+    "date": "2026-05-01"
+  },
+  {
+    "link": "https://phys.org/news/2026-04-universal-patterns-emerge-languages-vocabularies.html",
+    "title": "[英] Universal patterns emerge across 22 languages, mapping how vocabularies evolve",
+    "date": "2026-05-01"
+  },
+  {
     "link": "https://gregraiz.com/blog/local-vibe/",
     "title": "[英] I Got Sick of Remembering Port Numbers",
     "date": "2026-05-01"
@@ -15,13 +35,13 @@
     "date": "2026-05-01"
   },
   {
-    "link": "https://openwarp.zerx.dev",
-    "title": "[英] OpenWarp",
+    "link": "https://toolkit.whysonil.dev/how-it-works/internet-timeline/",
+    "title": "[英] Show HN: What happens when you load a webpage (Interactive)",
     "date": "2026-05-01"
   },
   {
-    "link": "https://toolkit.whysonil.dev/how-it-works/internet-timeline/",
-    "title": "[英] Show HN: What happens when you load a webpage (Interactive)",
+    "link": "https://openwarp.zerx.dev",
+    "title": "[英] OpenWarp",
     "date": "2026-05-01"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://0xkrt26.github.io/math_behind_security/2026/04/28/the-accidental-ancestor-Luhn-algorithm.html",
     "title": "[英] The Accidental Ancestor – How Verifying Numbers Shaped Modern Hashing",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all",
-    "title": "[英] AI discovery reveals DNA isn’t locked away in cells after all",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://www.alphaxiv.org/abs/2604.23468",
-    "title": "[英] A Milestone in Formalization: The Sphere Packing Problem in Dimension 8",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
-    "title": "[英] Snowball Earth may hide a far stranger climate cycle than anyone expected",
-    "date": "2026-05-01"
-  },
-  {
-    "link": "https://nik.digital/posts/compositing-blending",
-    "title": "[英] Compositing and Blending – Exploring the math and intuition behind blend modes",
     "date": "2026-05-01"
   }
 ]
