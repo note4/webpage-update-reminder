@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "title": "[英] Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "date": "2026-05-02 00:02:36"
+  },
+  {
     "link": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
     "title": "[英] Ubuntu services hit by outages after DDoS attack",
     "date": "2026-05-01 23:00:14"
@@ -68,10 +73,5 @@
     "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
     "title": "[英] Elon Musk testifies that xAI trained Grok on OpenAI models",
     "date": "2026-05-01 02:03:57"
-  },
-  {
-    "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
-    "title": "[英] FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-    "date": "2026-05-01 01:53:53"
   }
 ]
