@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
+    "title": "[英] Why are there both TMP and TEMP environment variables, and which one is right?",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+    "title": "[英] Show HN: Filling PDF forms with AI using client-side tool calling",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://github.com/InsaneInfinity/Balistic",
+    "title": "[英] Open source ballistic simulator with NASA SRTM terrain masking (Python/C#)",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://github.com/Teaonly/SKILL.make",
+    "title": "[英] SKILL.make: Makefile Styled Skill File",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://iesna.eu/?wasm=skyglow_demo",
+    "title": "[英] Show HN: Browser-based light pollution simulator using real photometric data",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://github.com/mxgmn/WaveFunctionCollapse",
+    "title": "[英] Bitmap and tilemap generation from a single example",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+    "title": "[英] DeepSeek V4–almost on the frontier, a fraction of the price",
+    "date": "2026-05-02"
+  },
+  {
     "link": "https://github.com/ninjahawk/hollow-agentOS",
     "title": "[英] Show HN: Hollow is an open-sourced self-modifying agentic system",
     "date": "2026-05-02"
@@ -37,41 +72,6 @@
   {
     "link": "https://github.com/rancher/k3k",
     "title": "[英] K3k: Kubernetes in Kubernetes",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://www.liquid.ai/blog/lfm2-24b-a2b",
-    "title": "[英] LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
-    "title": "[英] CollectWise (YC F24) Is Hiring",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://github.com/lahfir/agent-desktop",
-    "title": "[英] I built the Playwright for desktop apps. 80% token savings",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://github.com/0xhimanshu/governor",
-    "title": "[英] Governor – a Claude Code plugin to reduce token/context waste",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://github.com/upenn/web-scroll-video",
-    "title": "[英] Create an MP4 video of a web page scrolling at a steady speed",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://www.ask.com/",
-    "title": "[英] Ask.com has closed",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/",
-    "title": "[英] Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity",
     "date": "2026-05-02"
   }
 ]
