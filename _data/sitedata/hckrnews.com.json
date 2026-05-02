@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://github.com/microsoft/vscode/pull/310226",
+    "title": "[英] VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://github.com/federico-busato/Modern-CPP-Programming",
+    "title": "[英] Modern C++ Programming: Busato",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://xn--gckvb8fzb.com/i-do-not-recommend-bitwarden/",
+    "title": "[英] I Do Not Recommend Bitwarden",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=PyGlHtvihXA",
+    "title": "[英] Demonstrating the idea of gamma camera imaging [video]",
+    "date": "2026-05-03"
+  },
+  {
     "link": "https://status.canonical.com",
     "title": "[英] Canonical Under Attack",
     "date": "2026-05-03"
@@ -52,26 +72,6 @@
   {
     "link": "https://nethack.org/v500/release.html",
     "title": "[英] NetHack 5.0.0",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
-    "title": "[英] Roblox shares plummet 18% as child safety measures weigh on bookings",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47988268",
-    "title": "[英] Ask HN: Is the Job Market Actually Bad?",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://github.com/facebook/pyrefly/issues/3292",
-    "title": "[英] Meta's Pyrefly sabotages competing Python extensions without telling you",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
-    "title": "[英] Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
     "date": "2026-05-03"
   }
 ]
