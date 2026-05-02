@@ -1,7 +1,37 @@
 [
   {
+    "link": "https://mljar.com/",
+    "title": "[英] Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://simdrive.xyz/",
+    "title": "[英] Show HN: SimDrive – a browser racing game with your phone as the controller:D",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+    "title": "[英] How fast is a macOS VM, and how small could it be?",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://github.com/shadcn-ui/ui",
+    "title": "[英] Shadcn/UI: A set of beautifully designed components that you can customize",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://snewpapers.com/",
+    "title": "[英] Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://github.com/bruin-data/dac",
+    "title": "[英] Show HN: DAC – open-source dashboard as code tool for agents and humans",
+    "date": "2026-05-02"
+  },
+  {
     "link": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
-    "title": "[英] Why are there both TMP and TEMP environment variables, and which one is right?",
+    "title": "[英] Why are there both TMP and TEMP environment variables? (2015)",
     "date": "2026-05-02"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://randsinrepose.com/archives/the-usb-situation/",
     "title": "[英] The USB Situation",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://miren.dev/blog/gopher-meets-crab",
-    "title": "[英] A Gopher Meets a Crab",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://mathstick.github.io",
-    "title": "[英] Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://www.spiritrestructuring.com/",
-    "title": "[英] Spirit Airlines Is Winding Down All Operations",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://danluu.com/integer-overflow/",
-    "title": "[英] Integer Overflow Checking Cost",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-    "title": "[英] Why does it take so long to release black fan versions?",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://github.com/rancher/k3k",
-    "title": "[英] K3k: Kubernetes in Kubernetes",
     "date": "2026-05-02"
   }
 ]
