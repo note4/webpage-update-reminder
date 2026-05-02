@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://miren.dev/blog/gopher-meets-crab",
+    "title": "[英] A Gopher Meets a Crab",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://mathstick.github.io",
+    "title": "[英] Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://www.spiritrestructuring.com/",
+    "title": "[英] Spirit Airlines Is Winding Down All Operations",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://danluu.com/integer-overflow/",
+    "title": "[英] Integer Overflow Checking Cost",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+    "title": "[英] Why does it take so long to release black fan versions?",
+    "date": "2026-05-02"
+  },
+  {
     "link": "https://github.com/rancher/k3k",
     "title": "[英] K3k: Kubernetes in Kubernetes",
     "date": "2026-05-02"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.sourcefeed.app/",
     "title": "[英] Sourcefeed – a pop-up RSS service",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
-    "title": "[英] Job Postings for Software Engineers Are Rapidly Rising",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://www.nature.com/articles/s41467-026-71526-5",
-    "title": "[英] Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
-    "title": "[英] Good developers learn to program. Most courses teach a language",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47982293",
-    "title": "[英] undefined",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47981800",
-    "title": "[英] undefined",
     "date": "2026-05-02"
   }
 ]
