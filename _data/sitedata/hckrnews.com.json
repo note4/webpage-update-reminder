@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+    "title": "[英] The agent harness belongs outside the sandbox",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://hnup.date/hn-sota",
+    "title": "[英] Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+    "date": "2026-05-03"
+  },
+  {
     "link": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
     "title": "[英] Six Years Perfecting Maps on WatchOS",
     "date": "2026-05-03"
@@ -62,16 +72,6 @@
   {
     "link": "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/",
     "title": "[英] Unsigned Sizes: A Five Year Mistake",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47989105",
-    "title": "[英] Ask HN: Where can I go to ask for help?",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://flueframework.com/",
-    "title": "[英] Flue is a TypeScript framework for building the next generation of agents",
     "date": "2026-05-03"
   }
 ]
