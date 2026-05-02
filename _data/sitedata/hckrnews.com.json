@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://flueframework.com/",
+    "title": "[英] Flue is a TypeScript framework for building the next generation of agents",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://fergusfinn.com/blog/understanding-rans/",
+    "title": "[英] Also-RANS: Asymmetric Numeral Systems for Entropy Coding",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://code.videolan.org/videolan/dav2d",
+    "title": "[英] Videolan Dav2d",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/clypjx3rg2go",
+    "title": "[英] California to begin ticketing driverless cars that violate traffic laws",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://nethack.org/v500/release.html",
+    "title": "[英] NetHack 5.0.0",
+    "date": "2026-05-03"
+  },
+  {
     "link": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
     "title": "[英] Roblox shares plummet 18% as child safety measures weigh on bookings",
     "date": "2026-05-03"
@@ -47,31 +72,6 @@
   {
     "link": "https://en.wikipedia.org/wiki/Zugzwang",
     "title": "[英] Zugzwang",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://arxiv.org/abs/2509.00462",
-    "title": "[英] AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://github.com/EnterpriseDB/barman",
-    "title": "[英] Barman – Backup and Recovery Manager for PostgreSQL",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://arxiv.org/abs/2406.11717",
-    "title": "[英] Refusal in Language Models Is Mediated by a Single Direction",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html",
-    "title": "[英] Oil tanker hijacked off Yemen, steers toward Somalia",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://terminalbytes.com/best-mini-pc-for-local-llm-2026/",
-    "title": "[英] Mini PC for local LLMs in 2026",
     "date": "2026-05-03"
   }
 ]
