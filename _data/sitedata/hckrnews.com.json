@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://github.com/ninjahawk/hollow-agentOS",
+    "title": "[英] Show HN: Hollow is an open-sourced self-modifying agentic system",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://randsinrepose.com/archives/the-usb-situation/",
+    "title": "[英] The USB Situation",
+    "date": "2026-05-02"
+  },
+  {
     "link": "https://miren.dev/blog/gopher-meets-crab",
     "title": "[英] A Gopher Meets a Crab",
     "date": "2026-05-02"
@@ -62,16 +72,6 @@
   {
     "link": "https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/",
     "title": "[英] Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
-    "title": "[英] To Restore an Island Paradise, Add Fungi",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://www.sourcefeed.app/",
-    "title": "[英] Sourcefeed – a pop-up RSS service",
     "date": "2026-05-02"
   }
 ]
