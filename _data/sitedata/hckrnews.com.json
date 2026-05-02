@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html",
+    "title": "[英] Oil tanker hijacked off Yemen, steers toward Somalia",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://terminalbytes.com/best-mini-pc-for-local-llm-2026/",
+    "title": "[英] Mini PC for local LLMs in 2026",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://resobscura.substack.com/p/are-vintage-llms-the-start-of-a-new",
+    "title": "[英] Thoughts on Historical Language Models and Talkie-1930",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://www.bettedangerous.com/p/russia-poisons-wikipedia",
+    "title": "[英] Russia Poisons Wikipedia",
+    "date": "2026-05-02"
+  },
+  {
     "link": "https://www.economist.com/science-and-technology/2022/10/21/becoming-a-father-shrinks-your-cerebrum",
     "title": "[英] Becoming a father shrinks your cerebrum",
     "date": "2026-05-02"
@@ -52,26 +72,6 @@
   {
     "link": "https://github.com/dotcl/dotcl",
     "title": "[英] Dotcl: Common Lisp Implementation on .NET",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://mljar.com/",
-    "title": "[英] Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://simdrive.xyz/",
-    "title": "[英] Show HN: SimDrive – a browser racing game with your phone as the controller:D",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-    "title": "[英] How fast is a macOS VM, and how small could it be?",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://github.com/shadcn-ui/ui",
-    "title": "[英] Shadcn/UI: A set of beautifully designed components that you can customize",
     "date": "2026-05-02"
   }
 ]
