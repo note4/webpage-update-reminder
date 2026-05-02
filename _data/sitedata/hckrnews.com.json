@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://piruet.app",
+    "title": "[英] Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://github.com/dotcl/dotcl",
+    "title": "[英] Dotcl: Common Lisp Implementation on .NET",
+    "date": "2026-05-02"
+  },
+  {
     "link": "https://mljar.com/",
     "title": "[英] Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
     "date": "2026-05-02"
@@ -62,16 +72,6 @@
   {
     "link": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
     "title": "[英] DeepSeek V4–almost on the frontier, a fraction of the price",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://github.com/ninjahawk/hollow-agentOS",
-    "title": "[英] Show HN: Hollow is an open-sourced self-modifying agentic system",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://randsinrepose.com/archives/the-usb-situation/",
-    "title": "[英] The USB Situation",
     "date": "2026-05-02"
   }
 ]
