@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+    "title": "[英] Six Years Perfecting Maps on WatchOS",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+    "title": "[英] Neanderthals ran 'fat factories' 125,000 years ago",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://ladybird.org/newsletter/2026-04-30/",
+    "title": "[英] This Month in Ladybird - April 2026",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://easel.games/blog/2026-rollback-physics",
+    "title": "[英] A Physics Engine with Incremental Rollback for Multiplayer Games",
+    "date": "2026-05-03"
+  },
+  {
     "link": "https://github.com/microsoft/vscode/pull/310226",
     "title": "[英] VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
     "date": "2026-05-03"
@@ -52,26 +72,6 @@
   {
     "link": "https://flueframework.com/",
     "title": "[英] Flue is a TypeScript framework for building the next generation of agents",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://fergusfinn.com/blog/understanding-rans/",
-    "title": "[英] Also-RANS: Asymmetric Numeral Systems for Entropy Coding",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://code.videolan.org/videolan/dav2d",
-    "title": "[英] Dav2d",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/clypjx3rg2go",
-    "title": "[英] California to begin ticketing driverless cars that violate traffic laws",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://nethack.org/v500/release.html",
-    "title": "[英] NetHack 5.0.0",
     "date": "2026-05-03"
   }
 ]
