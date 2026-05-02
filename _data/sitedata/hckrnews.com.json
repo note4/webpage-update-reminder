@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://github.com/EnterpriseDB/barman",
+    "title": "[英] Barman – Backup and Recovery Manager for PostgreSQL",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://arxiv.org/abs/2406.11717",
+    "title": "[英] Refusal in Language Models Is Mediated by a Single Direction",
+    "date": "2026-05-02"
+  },
+  {
     "link": "https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html",
     "title": "[英] Oil tanker hijacked off Yemen, steers toward Somalia",
     "date": "2026-05-02"
@@ -21,7 +31,7 @@
   },
   {
     "link": "https://www.economist.com/science-and-technology/2022/10/21/becoming-a-father-shrinks-your-cerebrum",
-    "title": "[英] Becoming a father shrinks your cerebrum",
+    "title": "[英] Becoming a father shrinks your cerebrum (2022)",
     "date": "2026-05-02"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.science.org/content/article/pushed-trump-policies-top-u-s-battery-scientist-moving-singapore",
     "title": "[英] Pushed by Trump policies, top U.S. battery scientist is moving to Singapore",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://piruet.app",
-    "title": "[英] Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://github.com/dotcl/dotcl",
-    "title": "[英] Dotcl: Common Lisp Implementation on .NET",
     "date": "2026-05-02"
   }
 ]
