@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de",
+    "title": "[英] GameStop Preparing Offer for eBay",
+    "date": "2026-05-02"
+  },
+  {
+    "link": "https://www.science.org/content/article/pushed-trump-policies-top-u-s-battery-scientist-moving-singapore",
+    "title": "[英] Pushed by Trump policies, top U.S. battery scientist is moving to Singapore",
+    "date": "2026-05-02"
+  },
+  {
     "link": "https://piruet.app",
     "title": "[英] Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
     "date": "2026-05-02"
@@ -62,16 +72,6 @@
   {
     "link": "https://iesna.eu/?wasm=skyglow_demo",
     "title": "[英] Show HN: Browser-based light pollution simulator using real photometric data",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://github.com/mxgmn/WaveFunctionCollapse",
-    "title": "[英] Bitmap and tilemap generation from a single example",
-    "date": "2026-05-02"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
-    "title": "[英] DeepSeek V4–almost on the frontier, a fraction of the price",
     "date": "2026-05-02"
   }
 ]
