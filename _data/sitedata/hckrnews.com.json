@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
+    "title": "[英] Roblox shares plummet 18% as child safety measures weigh on bookings",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47988268",
+    "title": "[英] Ask HN: Is the Job Market Actually Bad?",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://github.com/facebook/pyrefly/issues/3292",
+    "title": "[英] Meta's Pyrefly sabotages competing Python extensions without telling you",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+    "title": "[英] Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
+    "date": "2026-05-03"
+  },
+  {
     "link": "https://www.sfgate.com/food/article/santa-cruz-restaurant-ai-21955920.php",
     "title": "[英] Santa Cruz restaurant changes logo after flurry of negative reviews for AI art",
     "date": "2026-05-03"
@@ -16,7 +36,7 @@
   },
   {
     "link": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-    "title": "[英] Uber wants to turn its drivers into a sensor grid for AV companies",
+    "title": "[英] Uber wants to turn its drivers into a sensor grid for self-driving companies",
     "date": "2026-05-03"
   },
   {
@@ -31,7 +51,7 @@
   },
   {
     "link": "https://arxiv.org/abs/2509.00462",
-    "title": "[英] LLMs consistently pick resumes they generate over ones by humans or other models",
+    "title": "[英] AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
     "date": "2026-05-03"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://terminalbytes.com/best-mini-pc-for-local-llm-2026/",
     "title": "[英] Mini PC for local LLMs in 2026",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://resobscura.substack.com/p/are-vintage-llms-the-start-of-a-new",
-    "title": "[英] Thoughts on Historical Language Models and Talkie-1930",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://www.bettedangerous.com/p/russia-poisons-wikipedia",
-    "title": "[英] Russia Poisons Wikipedia",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://www.economist.com/science-and-technology/2022/10/21/becoming-a-father-shrinks-your-cerebrum",
-    "title": "[英] Becoming a father shrinks your cerebrum (2022)",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
-    "title": "[英] Craig Venter of Human Genome Project Dies at 79",
     "date": "2026-05-03"
   }
 ]
