@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
+    "title": "[英] Group averages obscure how an individual's brain controls behavior: study",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://arxiv.org/abs/2510.26792",
+    "title": "[英] Learning Pseudorandom Numbers with Transformers",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a",
+    "title": "[英] Investors pile into clean energy as Iran war drives push for energy security",
+    "date": "2026-05-03"
+  },
+  {
     "link": "https://www.python.org/downloads/release/pymanager-261/",
     "title": "[英] Executable installer will stop being released with Python 3.16",
     "date": "2026-05-03"
@@ -11,7 +26,7 @@
   },
   {
     "link": "https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/",
-    "title": "[英] Forging ZK proofs to mint arbitrary DUSK tokens",
+    "title": "[英] Unverified Evaluations in Dusk's PLONK",
     "date": "2026-05-03"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
     "title": "[英] Windows API is Successful Cross-Platform API (2024)",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://remy.wang/blog/si.html",
-    "title": "[英] Simple and correct snapshot isolation",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
-    "title": "[英] Open source does not imply open community",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://goblin.run",
-    "title": "[英] Show HN: Golang binaries built for your users depending on their arch and system",
     "date": "2026-05-03"
   }
 ]
