@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://arxiv.org/abs/2604.25679",
+    "title": "[英] Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://orbitaltoday.com/2026/05/03/all-four-sentinel-1-satellites-are-now-live-and-europes-earth-watch-just-got-stronger/",
+    "title": "[英] All Four Sentinel-1 Satellites Are Now Live",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://github.com/systalyze/utilyze",
+    "title": "[英] Utilyze measures how efficiently your GPU is doing useful work",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://wannalaunch.com/",
+    "title": "[英] Show HN: I built a tool that helps predict HN front page success",
+    "date": "2026-05-03"
+  },
+  {
     "link": "https://blog.detail.dev/posts/bug-scanner/",
     "title": "[英] Benchmarking a Bug Scanner",
     "date": "2026-05-03"
@@ -52,26 +72,6 @@
   {
     "link": "https://acai.sh/blog/specsmaxxing",
     "title": "[英] Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/",
-    "title": "[英] Windows quality update: Progress we've made since March",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=47993636",
-    "title": "[英] undefined",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://j-nelson.net/san-francisco-streets-with-similar-names/",
-    "title": "[英] San Francisco streets with confusingly similar names",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://fshot.org/techzone/the-algorithm-knows.php",
-    "title": "[英] AI, Intimacy, and the Data You Never Meant to Share",
     "date": "2026-05-03"
   }
 ]
