@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+    "title": "[英] Statue of a man blinded by a flag put up by Banksy in central London",
+    "date": "2026-05-04"
+  },
+  {
     "link": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
     "title": "[英] US–Indian space mission maps extreme subsidence in Mexico City",
     "date": "2026-05-04"
@@ -35,13 +40,13 @@
     "date": "2026-05-04"
   },
   {
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks",
-    "title": "[英] Denuvo has been cracked in all single-player games it previously protected",
+    "link": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
+    "title": "[英] Why TUIs Are Back",
     "date": "2026-05-04"
   },
   {
-    "link": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
-    "title": "[英] Why TUIs Are Back",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks",
+    "title": "[英] Denuvo has been cracked in all single-player games it previously protected",
     "date": "2026-05-04"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
     "title": "[英] Bad Connection: Global telecom exploitation by covert surveillance actors",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://github.com/earthtojake/text-to-cad",
-    "title": "[英] Text-to-CAD",
     "date": "2026-05-04"
   }
 ]
