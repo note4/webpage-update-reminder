@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+    "title": "[英] Agentic Coding Is a Trap",
+    "date": "2026-05-04"
+  },
+  {
+    "link": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
+    "title": "[英] Tar files made in macOS generate \"xattr\" errors when expanded in Linux",
+    "date": "2026-05-04"
+  },
+  {
+    "link": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+    "title": "[英] The 'Hidden' Costs of Great Abstractions",
+    "date": "2026-05-04"
+  },
+  {
+    "link": "https://www.lelanthran.com/chap15/content.html",
+    "title": "[英] LLMs Are Not a Higher Level of Abstraction",
+    "date": "2026-05-04"
+  },
+  {
     "link": "https://validator.w3.org/feed/docs/atom.html",
     "title": "[英] Introduction to Atom",
     "date": "2026-05-04"
@@ -21,7 +41,7 @@
   },
   {
     "link": "https://guessingheadlights.com/colorado-grandma-keeps-getting-pulled-over-because-police-cameras-cannot-tell-the-difference-between-a-zero-and-the-letter-o/",
-    "title": "[英] Flock repeatedly flags 76-year old Grandmother for arrest, erroring zero for \"O\"",
+    "title": "[英] Colorado grandma keeps getting pulled over due to database error",
     "date": "2026-05-04"
   },
   {
@@ -36,12 +56,12 @@
   },
   {
     "link": "https://ambrook.com/offrange/environment/a-forest-in-your-pocket",
-    "title": "[英] Make Your Own Microforest",
+    "title": "[英] Make your own microforest (2025)",
     "date": "2026-05-04"
   },
   {
     "link": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-    "title": "[英] Statue of a man blinded by a flag put up by Banksy in central London",
+    "title": "[英] New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
     "date": "2026-05-04"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://github.com/bschoepke/ableton-live-mcp",
     "title": "[英] Show HN: Ableton Live MCP",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://miraos.org/blog/2026/05/02/talking-to-transformers",
-    "title": "[英] Talking to Transformers",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://www.washingtonpost.com/health/2026/04/30/adhd-subtype-extreme-brain-scans/",
-    "title": "[英] Brain scans reveal 3 ADHD subtypes",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
-    "title": "[英] Infrasound waves stop kitchen fires, but can they replace sprinklers?",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-    "title": "[英] OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
     "date": "2026-05-04"
   }
 ]
