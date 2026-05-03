@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/",
+    "title": "[英] Windows quality update: Progress we've made since March",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=47993636",
+    "title": "[英] undefined",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://j-nelson.net/san-francisco-streets-with-similar-names/",
+    "title": "[英] San Francisco streets with confusingly similar names",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://fshot.org/techzone/the-algorithm-knows.php",
+    "title": "[英] AI, Intimacy, and the Data You Never Meant to Share",
+    "date": "2026-05-03"
+  },
+  {
     "link": "https://www.newsonjapan.com/article/149075.php",
     "title": "[英] Care Homes and Hotels in Japan Shut as Expansion Strategy Unravels",
     "date": "2026-05-03"
@@ -16,7 +36,7 @@
   },
   {
     "link": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
-    "title": "[英] Windows API Is Successful Cross-Platform API",
+    "title": "[英] Windows API is Successful Cross-Platform API (2024)",
     "date": "2026-05-03"
   },
   {
@@ -36,7 +56,7 @@
   },
   {
     "link": "https://www.bbc.com/news/articles/cvgzk91leweo",
-    "title": "[英] Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+    "title": "[英] A network smuggling Starlink tech into Iran to beat internet blackout",
     "date": "2026-05-03"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
     "title": "[英] Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://lwn.net/Articles/1066156/",
-    "title": "[英] A more efficient implementation of Shor's algorithm",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
-    "title": "[英] When Dawkins met Claude – Could this AI be conscious?",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-    "title": "[英] A Couple Million Lines of Haskell: Production Engineering at Mercury",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://agis.io/post/dabbling-in-erlang-a-minimal-introduction/",
-    "title": "[英] Dabbling in Erlang, part 2: A minimal introduction (2013)",
     "date": "2026-05-03"
   }
 ]
