@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://validator.w3.org/feed/docs/atom.html",
+    "title": "[英] Introduction to Atom",
+    "date": "2026-05-04"
+  },
+  {
+    "link": "https://sagi.org/posts/buckets-and-objects-are-not-enough/",
+    "title": "[英] Buckets and objects are not enough",
+    "date": "2026-05-04"
+  },
+  {
+    "link": "https://github.com/aattaran/deepclaude",
+    "title": "[英] DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+    "date": "2026-05-04"
+  },
+  {
+    "link": "https://zamundaaa.github.io/wayland,display/2026/04/24/automatic-brightness.html",
+    "title": "[英] Automatic Brightness in Plasma",
+    "date": "2026-05-04"
+  },
+  {
+    "link": "https://guessingheadlights.com/colorado-grandma-keeps-getting-pulled-over-because-police-cameras-cannot-tell-the-difference-between-a-zero-and-the-letter-o/",
+    "title": "[英] Flock repeatedly flags 76-year old Grandmother for arrest, erroring zero for \"O\"",
+    "date": "2026-05-04"
+  },
+  {
     "link": "https://www.bbc.co.uk/news/articles/cn4pvyw82exo",
     "title": "[英] How did Banksy erect a statue in Central London?",
     "date": "2026-05-04"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
     "title": "[英] OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
-    "title": "[英] I built my own hair electrolysis machine",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
-    "title": "[英] Why TUIs Are Back",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks",
-    "title": "[英] Denuvo has been cracked in all single-player games it previously protected",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://death-of-scrum.net/",
-    "title": "[英] The Death of Scrum – Built for a slower world, performed by those who left",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://www.americanscientist.org/article/each-blade-a-single-crystal",
-    "title": "[英] Modern jet engine turbines: each blade a single crystal (2015)",
     "date": "2026-05-04"
   }
 ]
