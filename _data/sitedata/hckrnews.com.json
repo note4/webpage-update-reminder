@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://blog.detail.dev/posts/bug-scanner/",
+    "title": "[英] Benchmarking a Bug Scanner",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://github.com/siddsachar/Thoth",
+    "title": "[英] Thoth – open-source Local-first AI Assistant",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://github.com/Matheus-git/systemd-manager-tui",
+    "title": "[英] Systemd-manager-TUI: A TUI application for managing systemd services",
+    "date": "2026-05-03"
+  },
+  {
+    "link": "https://github.com/bring-shrubbery/ml-sharp-web",
+    "title": "[英] Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web",
+    "date": "2026-05-03"
+  },
+  {
     "link": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
     "title": "[英] Group averages obscure how an individual's brain controls behavior: study",
     "date": "2026-05-03"
@@ -52,26 +72,6 @@
   {
     "link": "https://fshot.org/techzone/the-algorithm-knows.php",
     "title": "[英] AI, Intimacy, and the Data You Never Meant to Share",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://www.newsonjapan.com/article/149075.php",
-    "title": "[英] Care homes and hotels in Japan shut as expansion strategy unravels",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-    "title": "[英] Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
-    "title": "[英] The IBM Granite 4.1 family of models",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
-    "title": "[英] Windows API is Successful Cross-Platform API (2024)",
     "date": "2026-05-03"
   }
 ]
