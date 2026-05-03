@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://wiki.haskell.org/Debugging",
+    "title": "[英] Haskell: Debugging",
+    "date": "2026-05-03"
+  },
+  {
     "link": "https://arxiv.org/abs/2604.25679",
     "title": "[英] Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case",
     "date": "2026-05-03"
@@ -67,11 +72,6 @@
   {
     "link": "https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/",
     "title": "[英] Unverified Evaluations in Dusk's PLONK",
-    "date": "2026-05-03"
-  },
-  {
-    "link": "https://acai.sh/blog/specsmaxxing",
-    "title": "[英] Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
     "date": "2026-05-03"
   }
 ]
