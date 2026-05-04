@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+    "title": "[英] US healthcare marketplaces shared citizenship and race data with ad tech giants",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.dayswithoutgithubincident.com/",
+    "title": "[英] Days Without GitHub Incidents",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs",
+    "title": "[英] Trillions in Retirement Dollars Flow into Opaque Trusts",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+    "title": "[英] Stop big tech from making users behave in ways they don't want to",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://wwj.dev/posts/i-am-worried-about-bun/",
+    "title": "[英] I am worried about Bun",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+    "title": "[英] Sierra Raises $950M at $15B Valuation",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=909UTYDtuGY",
+    "title": "[英] Robot dogs with tech boss faces roam Berlin art exhibit",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums",
+    "title": "[英] Homebridge 2.0 is here, and it speaks Matter",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+    "title": "[英] OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48010992",
+    "title": "[英] undefined",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.nber.org/papers/w35117",
+    "title": "[英] Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://arxiv.org/abs/2401.11817",
+    "title": "[英] Hallucination Is Inevitable: An Innate Limitation of Large Language Models",
+    "date": "2026-05-05"
+  },
+  {
     "link": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
     "title": "[英] 1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
     "date": "2026-05-05"
@@ -12,66 +72,6 @@
   {
     "link": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
     "title": "[英] GitHub Is Down",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/",
-    "title": "[英] Alberta voter list leak is a potential public safety disaster",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://pomiferous.com/",
-    "title": "[英] Pomiferous: The most extensive apples (pommes) database",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
-    "title": "[英] Removable batteries in smartphones will be mandatory in the EU starting in 2027",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://github.com/vivekg13186/Daisy-DAG",
-    "title": "[英] DAG Workflow Engine",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://antirez.com/news/164",
-    "title": "[英] Redis array: short story of a long development process",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
-    "title": "[英] How Monero's proof of work works",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://github.com/p32929/let",
-    "title": "[英] Show HN: Let – Offline-first life events tracker (React Native, SQLite)",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html",
-    "title": "[英] Someone allegedly used a hairdryer to rig Polymarket weather bets",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
-    "title": "[英] PyInfra 3.8.0 Is Out",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11",
-    "title": "[英] Why Almost Everyone Loses–Except a Few Sharks–On Prediction Markets",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
-    "title": "[英] Newton's law of gravity passes its biggest test",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-    "title": "[英] Talking to 35 Strangers at the Gym",
     "date": "2026-05-05"
   }
 ]
