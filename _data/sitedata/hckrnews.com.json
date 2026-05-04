@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke",
+    "title": "[英] Jonathan Swift's Last Joke",
+    "date": "2026-05-05"
+  },
+  {
     "link": "https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/",
     "title": "[英] What do we lose when AI does our work?",
     "date": "2026-05-05"
@@ -67,11 +72,6 @@
   {
     "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
     "title": "[英] How OpenAI delivers low-latency voice AI at scale",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
-    "title": "[英] White House Considers Vetting A.I. Models Before They Are Released",
     "date": "2026-05-05"
   }
 ]
