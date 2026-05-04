@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://techorange.com/2026/05/04/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI o1 急診分診正確率達 67%、超車資深醫師：哈佛研究揭醫療 AI 的價值、風險與落地邊界",
+    "date": "2026-05-04 12:42:20"
+  },
+  {
+    "link": "https://techorange.com/2026/05/04/physical-ai-foxconn-dassault-nexuni/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "如何用 Physical AI 重構製造生產效率？鴻海、達梭與耐思尼解析產線自主化的落地實踐",
+    "date": "2026-05-04 11:41:34"
+  },
+  {
+    "link": "https://techorange.com/2026/05/04/physicalai-foxconn-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "鴻海攜手 NVIDIA 共同打造製造工廠虛擬練功場，解析 Physical AI 的落地實踐",
+    "date": "2026-05-04 11:40:00"
+  },
+  {
+    "link": "https://techorange.com/2026/05/04/meet-noscroll/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "不想滑社群，但又不能錯過你要的情報？Noscroll AI 機器人幫你盯著所有消息",
+    "date": "2026-05-04 11:08:02"
+  },
+  {
+    "link": "https://techorange.com/2026/05/04/2026-global-ai-in-financial-services-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "81% 金融業已導入 AI，監管卻跟不上！劍橋報告示警銀行老舊系統與「資料盲點」恐成致命破口",
+    "date": "2026-05-04 09:59:37"
+  },
+  {
+    "link": "https://techorange.com/2026/05/04/google-search-ai-seo-geo-poisoning/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【行銷產業陷焦慮】為讓 AI 推薦自家產品，虛假文章、投毒操縱花招盡出",
+    "date": "2026-05-04 09:54:49"
+  },
+  {
     "link": "https://techorange.com/2026/05/04/ai-is-expensive-meta-cut-10-jobs-tech-cost-trade-offs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】AI 還沒變便宜，Meta 先裁員 10%，科技業成本取捨浮上檯面",
     "date": "2026-05-04 06:50:00"
@@ -43,35 +73,5 @@
     "link": "https://techorange.com/2026/04/30/china-deploys-an-army-of-humanoid-robots-to-maintain-its-power-grid/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "中國把全球最大公用事業變成 Physical AI 測試場：8,500 台機器人從巡檢、救援到特高壓維護全面落地",
     "date": "2026-04-30 10:25:51"
-  },
-  {
-    "link": "https://techorange.com/2026/04/30/kilo-openclaw-kiloclaw-organizations-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "員工養龍蝦成企業資安新漏洞，Kilo 推企業級 OpenClaw 終結影子 AI 時代",
-    "date": "2026-04-30 09:31:48"
-  },
-  {
-    "link": "https://techorange.com/2026/04/30/ai-supply-chain-lifts-taiwan-to-6th-globally-as-stock-market-value-surpasses-canada/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】AI 供應鏈把台灣推上全球第 6，台股市值正式超越加拿大",
-    "date": "2026-04-30 06:50:00"
-  },
-  {
-    "link": "https://techorange.com/2026/04/29/synopsys-ansys-2026-r1/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 如何重塑工程模擬？新思科技推出 Ansys 2026 R1 支援系統級研發",
-    "date": "2026-04-29 20:09:54"
-  },
-  {
-    "link": "https://techorange.com/2026/04/29/unixecure-chelpis-quantum-resilience/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "台灣邁入量子韌性元年：智慧資安攜手 CHELPIS 打造企業級量子防禦盾，聚焦金融與政府場域",
-    "date": "2026-04-29 18:47:06"
-  },
-  {
-    "link": "https://techorange.com/2026/04/29/google-mastercard-ai-agents-credit-cards/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "代理式 AI 商務加速落地！FIDO 聯盟攜 Google、Mastercard 制定交易標準防失控",
-    "date": "2026-04-29 17:49:45"
-  },
-  {
-    "link": "https://techorange.com/2026/04/29/amazon-connects-contact-center-agentic-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "不只賣雲端！AWS 推 AI 代理搶攻辦公市場，微軟、甲骨文迎來正面對決",
-    "date": "2026-04-29 15:31:34"
   }
 ]
