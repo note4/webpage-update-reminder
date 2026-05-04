@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://arxiv.org/abs/2510.19315",
+    "title": "[英] Transformers Are Inherently Succinct",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.javiertordable.com/claude-is-dead/",
+    "title": "[英] Claude Is Dead",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607",
+    "title": "[英] Welcome to Gas City",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.heise.de/en/news/Google-is-discontinuing-its-free-web-search-index-for-developers-11152411.html",
+    "title": "[英] Google is discontinuing its free web search index for developers",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://github.com/stacklok/frizbee",
+    "title": "[英] Frizbee is a tool you may throw a tag at and it comes back with a checksum",
+    "date": "2026-05-05"
+  },
+  {
     "link": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
     "title": "[英] Formatting a 25M-line codebase overnight",
     "date": "2026-05-05"
@@ -31,7 +56,7 @@
   },
   {
     "link": "https://github.com/lsferreira42/nfsdiag",
-    "title": "[英] Show HN: nfsdiag - a NFS diagnostic application",
+    "title": "[英] Show HN: nfsdiag – A NFS diagnostic application",
     "date": "2026-05-05"
   },
   {
@@ -46,32 +71,7 @@
   },
   {
     "link": "https://www.b-list.org/weblog/2026/apr/09/llms/",
-    "title": "[英] Let's Talk about LLMs",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-    "title": "[英] Microsoft Edge stores all passwords in memory in clear text, even when unused",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://ipvm.com/reports/flock-closed-police-marketing",
-    "title": "[英] Flock Holding Closed Police Conference, Requires Police Consent for Marketing",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-    "title": "[英] Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358",
-    "title": "[英] Offenders sentenced up to 10 years for spying on TSMC",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
-    "title": "[英] Heat pump sales rise across Europe",
+    "title": "[英] Let's talk about LLMs",
     "date": "2026-05-05"
   }
 ]
