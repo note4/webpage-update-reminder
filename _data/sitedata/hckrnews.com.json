@@ -1,12 +1,32 @@
 [
   {
+    "link": "https://github.com/alexellis/k3sup",
+    "title": "[英] K3sup – bootstrap K3s over SSH in < 60s",
+    "date": "2026-05-04"
+  },
+  {
+    "link": "https://samcollins.blog/underdrawings/",
+    "title": "[英] Using \"underdrawings\" for accurate text and numbers",
+    "date": "2026-05-04"
+  },
+  {
+    "link": "https://letsbuyspiritair.com/",
+    "title": "[英] Let's Buy Spirit Air",
+    "date": "2026-05-04"
+  },
+  {
+    "link": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+    "title": "[英] The text mode lie: why modern TUIs are a nightmare for accessibility",
+    "date": "2026-05-04"
+  },
+  {
     "link": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
     "title": "[英] Agentic Coding Is a Trap",
     "date": "2026-05-04"
   },
   {
     "link": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
-    "title": "[英] Tar files made in macOS generate \"xattr\" errors when expanded in Linux",
+    "title": "[英] Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
     "date": "2026-05-04"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://www.dailynk.com/english/lost-in-translation-the-linguistic-challenges-facing-n-korean-defectors/",
     "title": "[英] Lost in translation: The linguistic challenges facing N. Korean defectors (2025)",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://ambrook.com/offrange/environment/a-forest-in-your-pocket",
-    "title": "[英] Make your own microforest (2025)",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-    "title": "[英] New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
-    "title": "[英] US–Indian space mission maps extreme subsidence in Mexico City",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://github.com/bschoepke/ableton-live-mcp",
-    "title": "[英] Show HN: Ableton Live MCP",
     "date": "2026-05-04"
   }
 ]
