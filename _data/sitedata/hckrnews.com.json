@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html",
+    "title": "[英] Someone allegedly used a hairdryer to rig Polymarket weather bets",
+    "date": "2026-05-04"
+  },
+  {
+    "link": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+    "title": "[英] PyInfra 3.8.0 Is Out",
+    "date": "2026-05-04"
+  },
+  {
+    "link": "https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11",
+    "title": "[英] Why Almost Everyone Loses–Except a Few Sharks–On Prediction Markets",
+    "date": "2026-05-04"
+  },
+  {
+    "link": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
+    "title": "[英] Newton's law of gravity passes its biggest test",
+    "date": "2026-05-04"
+  },
+  {
+    "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+    "title": "[英] Talking to 35 Strangers at the Gym",
+    "date": "2026-05-04"
+  },
+  {
     "link": "https://reiner.org/neural-net-ciphers",
     "title": "[英] Why are neural networks and cryptographic ciphers so similar? (2025)",
     "date": "2026-05-04"
@@ -47,31 +72,6 @@
   {
     "link": "https://cacm.acm.org/news/the-road-to-a-billion-token-context/",
     "title": "[英] The Road to a Billion-Token Context",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=SVTPv4sI_Jc",
-    "title": "[英] Debunking the CIA's “magic” heartbeat sensor [video]",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152",
-    "title": "[英] Over 8M Thermos jars and bottles recalled after 3 people lost vision",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://evilgeniuslabs.ca/blog/from-cvs-to-git-thirty-years-of-source-control",
-    "title": "[英] From CVS to Git, thirty years of source control",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://astian.org/midori-en/performance-adblock-and-more-in-midori-11-7-1/",
-    "title": "[英] Midori, the first browser to offer a VPN with Mesh technology",
-    "date": "2026-05-04"
-  },
-  {
-    "link": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
-    "title": "[英] Texico: Learn the principles of programming without even touching a computer",
     "date": "2026-05-04"
   }
 ]
