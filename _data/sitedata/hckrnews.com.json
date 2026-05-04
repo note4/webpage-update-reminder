@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+    "title": "[英] Formatting a 25M-line codebase overnight",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap",
+    "title": "[英] A little comparison between R and Kap",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://eblong.com/infocom/visi/zork3/",
+    "title": "[英] The Visible Zorker: Zork 3",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "title": "[英] How OpenAI delivers low-latency voice AI at scale",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+    "title": "[英] White House Considers Vetting A.I. Models Before They Are Released",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/",
+    "title": "[英] DHS demanded Google surrender data on a Canadian man over anti-ICE posts",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://github.com/lsferreira42/nfsdiag",
+    "title": "[英] Show HN: nfsdiag - a NFS diagnostic application",
+    "date": "2026-05-05"
+  },
+  {
     "link": "https://geeksandgamers.com/remove-star-wars-sequel-trilogy/",
     "title": "[英] Rumor: Disney to Remove Star Wars Sequel Trilogy from Timeline",
     "date": "2026-05-05"
@@ -36,42 +71,7 @@
   },
   {
     "link": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
-    "title": "[英] Heat pump sales rise 17% across Europe in Q1 as energy prices surge",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview",
-    "title": "[英] 'Kitten Space Agency' Is the Spiritual Successor to 'Kerbal Space Program'",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-    "title": "[英] US healthcare marketplaces shared citizenship and race data with ad tech giants",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.dayswithoutgithubincident.com/",
-    "title": "[英] Days Without GitHub Incidents",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs",
-    "title": "[英] Trillions in Retirement Dollars Flow into Opaque Trusts",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
-    "title": "[英] Stop big tech from making users behave in ways they don't want to",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://wwj.dev/posts/i-am-worried-about-bun/",
-    "title": "[英] I am worried about Bun",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
-    "title": "[英] Sierra Raises $950M at $15B Valuation",
+    "title": "[英] Heat pump sales rise across Europe",
     "date": "2026-05-05"
   }
 ]
