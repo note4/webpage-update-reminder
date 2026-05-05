@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://afilina.com/why-phpc-tv",
+    "title": "[英] Why I Created phpc.tv",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls",
+    "title": "[英] The Frog for Whom the Bell Tolls",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "title": "[英] Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+    "title": "[英] Async Rust never left the MVP state",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+    "title": "[英] Lessons for Agentic Coding: What should we do when code is cheap?",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://nautil.us/farewell-to-a-giant-of-botany-1280409",
+    "title": "[英] Farewell to a Giant of Botany",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6182901",
+    "title": "[英] Transgender Homicides in Britain, 2000-2025: Victims and Perpetrators",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://github.com/yattsu/biscuit",
+    "title": "[英] Biscuit",
+    "date": "2026-05-05"
+  },
+  {
     "link": "https://www.lunduniversity.lu.se/article/nocturnal-migratory-birds-follow-rhythm-moon",
     "title": "[英] Nocturnal migratory birds follow rhythm of the moon",
     "date": "2026-05-05"
@@ -32,46 +72,6 @@
   {
     "link": "https://walzr.com/empty-screenings",
     "title": "[英] About 10% of AMC movie showings sell zero tickets. This site finds them",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://github.com/angelos-p/llm-from-scratch",
-    "title": "[英] Train Your Own LLM from Scratch",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48017602",
-    "title": "[英] undefined",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.nature.com/articles/s43016-025-01173-4",
-    "title": "[英] Gaps in national food production, worldwide",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.lucasaguiar.xyz/posts/linux-windows-macos-qual-usar-2026/",
-    "title": "[英] Linux, Windows or macOS: Which Operating System to Use in 2026?",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-    "title": "[英] CVE-2026-31431: Copy Fail vs. rootless containers",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://nobodyaskedforthis.lol/posts/connected-car/",
-    "title": "[英] The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
-    "title": "[英] Pulitzer Prize Winner in International Reporting",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/",
-    "title": "[英] pgxbackup: Continuity Support for pgBackRest",
     "date": "2026-05-05"
   }
 ]
