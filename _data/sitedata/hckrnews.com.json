@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://paletteinspiration.com/",
+    "title": "[英] Show HN: Explore color palettes inspired by 3000 master painter artworks",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
+    "title": "[英] Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.stavros.io/posts/adding-a-feature-to-a-closed-source-app/",
+    "title": "[英] Adding a feature to a closed-source app",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+    "title": "[英] California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/",
+    "title": "[英] Clarification on the Notepad++ Trademark Issue",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://openai.com/index/gpt-5-5-instant/",
+    "title": "[英] GPT‑5.5 Instant",
+    "date": "2026-05-06"
+  },
+  {
     "link": "https://arxiv.org/abs/2604.26752",
     "title": "[英] GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
     "date": "2026-05-06"
@@ -16,7 +46,7 @@
   },
   {
     "link": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
-    "title": "[英] I'm Scared About Biological Computing",
+    "title": "[英] I'm scared about biological computing",
     "date": "2026-05-06"
   },
   {
@@ -26,7 +56,7 @@
   },
   {
     "link": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-    "title": "[英] Computer Use Is 45x More Expensive Than Structured APIs",
+    "title": "[英] Computer Use is 45x more expensive than structured APIs",
     "date": "2026-05-06"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
     "title": "[英] Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
-    "title": "[英] UK: Two millionth electric car registered as market rebounds strongly",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-    "title": "[英] EEVblog: The 555 Timer is 55 years old",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://wp.lancs.ac.uk/aurorawatchuk/2016/03/16/did-i-photgraph-the-aurora-or-was-it-something-else/",
-    "title": "[英] Did I photograph the Aurora or was it something else? (2016)",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://debarshibasak.github.io/awesome-paas/",
-    "title": "[英] New Landing Page for Awesome PaaS",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48023496",
-    "title": "[英] Show HN: Airbyte Agents – context for agents across multiple data sources",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://www.githubstatus.com/incidents/1j40g94rn22j",
-    "title": "[英] Incident with Actions",
     "date": "2026-05-06"
   }
 ]
