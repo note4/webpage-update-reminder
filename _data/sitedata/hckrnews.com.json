@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=48027022",
+    "title": "[英] undefined",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://physicsworld.com/a/researchers-print-structural-colour-with-an-inkjet-printer/",
+    "title": "[英] Researchers print structural colour with an inkjet printer",
+    "date": "2026-05-06"
+  },
+  {
     "link": "https://paletteinspiration.com/",
     "title": "[英] Show HN: Explore color palettes inspired by 3000 master painter artworks",
     "date": "2026-05-06"
@@ -51,7 +61,7 @@
   },
   {
     "link": "https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html",
-    "title": "[英] Collaborative Editing in CodeMirror",
+    "title": "[英] Collaborative Editing in CodeMirror (2020)",
     "date": "2026-05-06"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
     "title": "[英] Proliferate (YC S25) Is Hiring- 200k for junior engineers",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://www.macrumors.com/2026/05/05/psa-instagram-encrypted-messaging-ends-may-8/",
-    "title": "[英] Instagram Encrypted Messaging Ends on Friday, May 8",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-    "title": "[英] Accelerating Gemma 4: faster inference with multi-token prediction drafters",
     "date": "2026-05-06"
   }
 ]
