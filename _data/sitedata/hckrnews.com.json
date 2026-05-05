@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://arxiv.org/abs/2604.26752",
+    "title": "[英] GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
+    "title": "[英] Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
+    "title": "[英] IBM didn't want Microsoft to use the Tab key to move between dialog fields",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+    "title": "[英] I'm Scared About Biological Computing",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html",
+    "title": "[英] Collaborative Editing in CodeMirror",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+    "title": "[英] Computer Use Is 45x More Expensive Than Structured APIs",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+    "title": "[英] Proliferate (YC S25) Is Hiring- 200k for junior engineers",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.macrumors.com/2026/05/05/psa-instagram-encrypted-messaging-ends-may-8/",
+    "title": "[英] Instagram Encrypted Messaging Ends on Friday, May 8",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+    "title": "[英] Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
+    "title": "[英] UK: Two millionth electric car registered as market rebounds strongly",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+    "title": "[英] EEVblog: The 555 Timer is 55 years old",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://wp.lancs.ac.uk/aurorawatchuk/2016/03/16/did-i-photgraph-the-aurora-or-was-it-something-else/",
+    "title": "[英] Did I photograph the Aurora or was it something else? (2016)",
+    "date": "2026-05-06"
+  },
+  {
     "link": "https://debarshibasak.github.io/awesome-paas/",
     "title": "[英] New Landing Page for Awesome PaaS",
     "date": "2026-05-06"
@@ -11,67 +71,7 @@
   },
   {
     "link": "https://www.githubstatus.com/incidents/1j40g94rn22j",
-    "title": "[英] Yet Another GitHub Incident",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://susam.net/inverse-laws-of-robotics.html",
-    "title": "[英] Three Inverse Laws of AI",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://www.anthropic.com/news/finance-agents",
-    "title": "[英] Agents for financial services and insurance",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/",
-    "title": "[英] Comparing the Z80 and 6502 to Their Relatives",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://github.com/aragossa/pii-shield",
-    "title": "[英] Show HN: A Mutating Webhook to automatically strip PII from K8s logs",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://tech.yahoo.com/vpn/article/its-official-utah-is-the-us-state-closest-to-banning-vpns-153556814.html",
-    "title": "[英] It's official: Utah is the U.S. state closest to banning VPNs",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/",
-    "title": "[英] The fun has been optimized out of the Internet",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://phsne.org/the-first-photograph-published-in-a-newspaper-1848/",
-    "title": "[英] The first photo published in a newspaper",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-    "title": "[英] AI didn't delete your database, you did",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://zozo123.github.io/meta-harness-on-islo-page/",
-    "title": "[英] Simple Meta-Harness on Islo.dev",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://www.wsj.com/tech/ai/google-microsoft-and-xai-agree-to-share-early-ai-models-with-u-s-f95a88d1",
-    "title": "[英] Google, Microsoft and xAI Agree to Share Early AI Models with U.S.",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://flux.community/matthew-sheffield/2026/05/richard-dawkins-and-the-claude-delusion/",
-    "title": "[英] Richard Dawkins and the Claude Delusion",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://docs.docker.com/engine/storage/containerd",
-    "title": "[英] Docker 29 has changed its default image store for new installs",
+    "title": "[英] Incident with Actions",
     "date": "2026-05-06"
   }
 ]
