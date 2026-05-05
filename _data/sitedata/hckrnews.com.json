@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+    "title": "[英] Why Most Product Tours Get Skipped",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+    "title": "[英] Write some software, give it away for free",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://andonlabs.com/blog/ai-cafe-stockholm",
+    "title": "[英] Our AI started a cafe in Stockholm",
+    "date": "2026-05-06"
+  },
+  {
     "link": "https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/",
     "title": "[英] Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens",
     "date": "2026-05-06"
@@ -57,21 +72,6 @@
   {
     "link": "https://arxiv.org/abs/2604.26752",
     "title": "[英] GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
-    "title": "[英] Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
-    "title": "[英] IBM didn't want Microsoft to use the Tab key to move between dialog fields",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
-    "title": "[英] I'm scared about biological computing",
     "date": "2026-05-06"
   }
 ]
