@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.tomshardware.com/software/a-suspected-youtube-interface-bug-spikes-ram-usage-above-7-gigabytes-users-report-severe-lag-and-frozen-tabs-bug-might-be-trapping-browsers-in-an-endless-layout-loop",
+    "title": "[英] Suspected YouTube bug spikes RAM over 7gbs users report lag and frozen tabs",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://knhash.in/built-an-exhibit/",
+    "title": "[英] Show HN: I Built a Museum Exhibit",
+    "date": "2026-05-05"
+  },
+  {
     "link": "https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke",
     "title": "[英] Jonathan Swift's Last Joke",
     "date": "2026-05-05"
@@ -31,7 +41,7 @@
   },
   {
     "link": "https://arxiv.org/abs/2510.19315",
-    "title": "[英] Transformers Are Inherently Succinct",
+    "title": "[英] Transformers Are Inherently Succinct (2025)",
     "date": "2026-05-05"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap",
     "title": "[英] A little comparison between R and Kap",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://eblong.com/infocom/visi/zork3/",
-    "title": "[英] The Visible Zorker: Zork 3",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-    "title": "[英] How OpenAI delivers low-latency voice AI at scale",
     "date": "2026-05-05"
   }
 ]
