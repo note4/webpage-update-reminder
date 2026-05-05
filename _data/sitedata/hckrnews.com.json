@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://getclaw.site/#demo",
+    "title": "[英] An LLM agent that runs on any Linux box",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.nature.com/articles/s43016-025-01173-4",
+    "title": "[英] Gaps in national food production, worldwide",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.lucasaguiar.xyz/posts/linux-windows-macos-qual-usar-2026/",
+    "title": "[英] Linux, Windows or macOS: Which Operating System to Use in 2026?",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+    "title": "[英] CVE-2026-31431: Copy Fail vs. rootless containers",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://nobodyaskedforthis.lol/posts/connected-car/",
+    "title": "[英] The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
+    "title": "[英] Pulitzer Prize Winner in International Reporting",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/",
+    "title": "[英] pgxbackup: Continuity Support for pgBackRest",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+    "title": "[英] What I'm Hearing About Cognitive Debt (So Far)",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://marc.info/?l=util-linux-ng&m=126351534518733&w=2",
+    "title": "[英] Re: Slow USB storage device? (util-Linux-ng, 2010)",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+    "title": "[英] When Networking Doesn't Work",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+    "title": "[英] Y Combinator's Stake in OpenAI (0.6%)",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://github.com/SprintiQ-Incorporated/sprintiq",
+    "title": "[英] SprintiQ – open-source sprint planning for Claude Code",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+    "title": "[英] Bun is being ported from Zig to Rust",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://ivanludvig.dev/pi-needle/",
+    "title": "[英] Buffon's needle problem visualized",
+    "date": "2026-05-05"
+  },
+  {
     "link": "https://www.tomshardware.com/software/a-suspected-youtube-interface-bug-spikes-ram-usage-above-7-gigabytes-users-report-severe-lag-and-frozen-tabs-bug-might-be-trapping-browsers-in-an-endless-layout-loop",
     "title": "[英] Suspected YouTube bug spikes RAM over 7gbs users report lag and frozen tabs",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://knhash.in/built-an-exhibit/",
-    "title": "[英] Show HN: I Built a Museum Exhibit",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke",
-    "title": "[英] Jonathan Swift's Last Joke",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://rickyyean.com/2026/05/04/what-do-we-lose-when-ai-does-our-work/",
-    "title": "[英] What do we lose when AI does our work?",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis",
-    "title": "[英] 'Point of no return': New Orleans relocation must start now due to sea level",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://addyosmani.com/blog/agent-skills/",
-    "title": "[英] Agent Skills",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
-    "title": "[英] Testing macOS on the Apple Network Server 2.0 ROMs",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.pulitzer.org/prize-winners-by-year/2026",
-    "title": "[英] Pulitzer Prize Winners 2026",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://arxiv.org/abs/2510.19315",
-    "title": "[英] Transformers Are Inherently Succinct (2025)",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48015006",
-    "title": "[英] undefined",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607",
-    "title": "[英] Welcome to Gas City",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.heise.de/en/news/Google-is-discontinuing-its-free-web-search-index-for-developers-11152411.html",
-    "title": "[英] Google is discontinuing its free web search index for developers",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://github.com/stacklok/frizbee",
-    "title": "[英] Frizbee is a tool you may throw a tag at and it comes back with a checksum",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-    "title": "[英] Formatting a 25M-line codebase overnight",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap",
-    "title": "[英] A little comparison between R and Kap",
     "date": "2026-05-05"
   }
 ]
