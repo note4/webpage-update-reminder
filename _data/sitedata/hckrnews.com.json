@@ -1,7 +1,22 @@
 [
   {
+    "link": "https://mohibulsblog.netlify.app/java/100daysofjava/graph/",
+    "title": "[英] I completed 100 Days of Java over 5 years and mapped the journey as a graph",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
+    "title": "[英] Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
+    "title": "[英] NPR finds \"no sign\" of Polymarket at its Panama HQ address",
+    "date": "2026-05-06"
+  },
+  {
     "link": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-    "title": "[英] Why Most Product Tours Get Skipped",
+    "title": "[英] Why most product tours get skipped",
     "date": "2026-05-06"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
     "title": "[英] California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/",
-    "title": "[英] Clarification on the Notepad++ Trademark Issue",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://openai.com/index/gpt-5-5-instant/",
-    "title": "[英] GPT‑5.5 Instant",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://arxiv.org/abs/2604.26752",
-    "title": "[英] GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
     "date": "2026-05-06"
   }
 ]
