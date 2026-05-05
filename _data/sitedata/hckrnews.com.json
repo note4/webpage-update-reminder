@@ -1,7 +1,47 @@
 [
   {
-    "link": "https://getclaw.site/#demo",
-    "title": "[英] An LLM agent that runs on any Linux box",
+    "link": "https://www.lunduniversity.lu.se/article/nocturnal-migratory-birds-follow-rhythm-moon",
+    "title": "[英] Nocturnal migratory birds follow rhythm of the moon",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+    "title": "[英] Kids bypass age verification with fake moustaches",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.2dcurves.com/",
+    "title": "[英] 2-D Mathematical Curves",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://sethmlarson.dev/hand-drawn-qr-codes",
+    "title": "[英] Hand Drawn QR Codes",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48018098",
+    "title": "[英] undefined",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://www.sciencedaily.com/releases/2026/05/260502015359.htm",
+    "title": "[英] 18th-century mechanical volcano roars to life 250 years later",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://walzr.com/empty-screenings",
+    "title": "[英] About 10% of AMC movie showings sell zero tickets. This site finds them",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://github.com/angelos-p/llm-from-scratch",
+    "title": "[英] Train Your Own LLM from Scratch",
+    "date": "2026-05-05"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48017602",
+    "title": "[英] undefined",
     "date": "2026-05-05"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/",
     "title": "[英] pgxbackup: Continuity Support for pgBackRest",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-    "title": "[英] What I'm Hearing About Cognitive Debt (So Far)",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://marc.info/?l=util-linux-ng&m=126351534518733&w=2",
-    "title": "[英] Re: Slow USB storage device? (util-Linux-ng, 2010)",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
-    "title": "[英] When Networking Doesn't Work",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-    "title": "[英] Y Combinator's Stake in OpenAI (0.6%)",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://github.com/SprintiQ-Incorporated/sprintiq",
-    "title": "[英] SprintiQ – open-source sprint planning for Claude Code",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-    "title": "[英] Bun is being ported from Zig to Rust",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://ivanludvig.dev/pi-needle/",
-    "title": "[英] Buffon's needle problem visualized",
-    "date": "2026-05-05"
-  },
-  {
-    "link": "https://www.tomshardware.com/software/a-suspected-youtube-interface-bug-spikes-ram-usage-above-7-gigabytes-users-report-severe-lag-and-frozen-tabs-bug-might-be-trapping-browsers-in-an-endless-layout-loop",
-    "title": "[英] Suspected YouTube bug spikes RAM over 7gbs users report lag and frozen tabs",
     "date": "2026-05-05"
   }
 ]
