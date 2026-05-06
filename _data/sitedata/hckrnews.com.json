@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code",
+    "title": "[英] Apple is enforcing an old App Store rule against a new kind of software",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://github.com/olivier-ls/php-fts",
+    "title": "[英] Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/",
+    "title": "[英] Mythos is the best cybersecurity news in a decade",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://github.com/crosspoint-reader/crosspoint-reader",
+    "title": "[英] Community firmware for the Xteink X4 e-paper reader",
+    "date": "2026-05-07"
+  },
+  {
     "link": "https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/",
     "title": "[英] MIT’s virtual violin offers luthiers a new design tool",
     "date": "2026-05-07"
@@ -52,26 +72,6 @@
   {
     "link": "https://www.propublica.org/article/more-parents-decline-vitamin-k-shot-newborns",
     "title": "[英] Babies Are Bleeding to Death as Parents Reject a Vitamin Shot Given at Birth",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://apnews.com/article/mexico-city-sinking-nasa-satellite-imagery-b5a70fbc2f73a789f248ab69b08c75e7",
-    "title": "[英] Mexico City is sinking so quickly, it can be seen from space",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-    "title": "[英] Google Cloud fraud defense, the next evolution of reCAPTCHA",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
-    "title": "[英] Going Full Time on Open Source",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://blog.val.town/better-auth",
-    "title": "[英] From Supabase to Clerk to Better Auth",
     "date": "2026-05-07"
   }
 ]
