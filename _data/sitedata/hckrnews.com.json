@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+    "title": "[英] YouTube, your RSS feeds are broken",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://github.com/microsoft/vscode/issues/314311",
+    "title": "[英] Update on \"Co-authored-by: Copilot\" in commit messages",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+    "title": "[英] Ombudsman column: The Pentagon is trying to silence me",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.theassemblync.com/news/business/american-efficient-ferc-durham-fine/",
+    "title": "[英] Feds Fine Durham Energy Efficiency Co $722M",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://blog.cloudflare.com/agents-stripe-projects/",
+    "title": "[英] Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://statsandsociety.substack.com/p/fully-explaining-the-italian-south",
+    "title": "[英] Why is southern Italy poorer than northern Italy?",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://jamiesimon.io/blog/cell-fight/",
+    "title": "[英] Simulating Cells Fighting to the Death",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+    "title": "[英] Telus Uses AI to Alter Call-Agent Accents",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://us.starlabs.systems/pages/starfighter",
+    "title": "[英] StarFighter 16-Inch",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://davidoks.blog/p/why-airlines-are-always-going-bankrupt",
+    "title": "[英] Why airlines are always going bankrupt",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+    "title": "[英] Wiki Builder: Skill to Build LLM Knowledge Bases",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.ferrari.com/en-US/auto/past-model",
+    "title": "[英] Past Ferrari Models, 1947–2023",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/",
+    "title": "[英] Xbox CEO ends Copilot AI development and overhauls leadership",
+    "date": "2026-05-06"
+  },
+  {
     "link": "https://sfcrime.pages.dev/",
     "title": "[英] A website ranking judges by elo for the cases they dismiss in SF",
     "date": "2026-05-06"
@@ -7,71 +72,6 @@
   {
     "link": "https://www.audubon.org/news/urban-birds-are-rising-earlier-because-traffic-noise",
     "title": "[英] Urban Birds Are Rising Earlier Because of Traffic Noise (2013)",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://mohibulsblog.netlify.app/java/100daysofjava/graph/",
-    "title": "[英] I completed 100 Days of Java over 5 years and mapped the journey as a graph",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
-    "title": "[英] Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
-    "title": "[英] NPR finds \"no sign\" of Polymarket at its Panama HQ address",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-    "title": "[英] Why most product tours get skipped",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-    "title": "[英] Write some software, give it away for free",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://andonlabs.com/blog/ai-cafe-stockholm",
-    "title": "[英] Our AI started a cafe in Stockholm",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/",
-    "title": "[英] Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://academic.oup.com/logcom/article/34/6/1032/7158523",
-    "title": "[英] The extended predicative Mahlo universe in Martin-Löf type theory",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-    "title": "[英] .de TLD offline due to DNSSEC?",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48027022",
-    "title": "[英] undefined",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://physicsworld.com/a/researchers-print-structural-colour-with-an-inkjet-printer/",
-    "title": "[英] Researchers print structural colour with an inkjet printer",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://paletteinspiration.com/",
-    "title": "[英] Show HN: Explore color palettes inspired by 3000 master painter artworks",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
-    "title": "[英] Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
     "date": "2026-05-06"
   }
 ]
