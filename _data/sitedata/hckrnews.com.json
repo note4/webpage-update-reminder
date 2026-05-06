@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429",
+    "title": "[英] Virtual violin produces realistic sounds",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley",
+    "title": "[英] The AI operator: Biggest role in Silicon Valley",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.happydaze.se/wolf/",
+    "title": "[英] Wolfenstein 3D for Gameboy Color on custom cartridge (2016)",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.terrygodier.com/the-boring-internet",
+    "title": "[英] The Boring Internet",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48033729",
+    "title": "[英] undefined",
+    "date": "2026-05-06"
+  },
+  {
     "link": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
     "title": "[英] Batteries Not Included, or Required, for These Smart Home Sensors",
     "date": "2026-05-06"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.aaedmusa.com/projects/cara2",
     "title": "[英] CARA 2.0 – “I Built a Better Robot Dog”",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
-    "title": "[英] 245TB Micron 6600 ION Data Center SSD Now Shipping",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://tautme.github.io/phone-sensors/sensor-etch.html",
-    "title": "[英] Make some art with your phone sensors",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://openrss.org/blog/youtube-your-feeds-are-broken",
-    "title": "[英] YouTube, your RSS feeds are broken",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
-    "title": "[英] Ombudsman column: The Pentagon is trying to silence me",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://github.com/microsoft/vscode/issues/314311",
-    "title": "[英] Update on \"Co-authored-by: Copilot\" in commit messages",
     "date": "2026-05-06"
   }
 ]
