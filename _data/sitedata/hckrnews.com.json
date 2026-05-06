@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://sfcrime.pages.dev/",
+    "title": "[英] A website ranking judges by elo for the cases they dismiss in SF",
+    "date": "2026-05-06"
+  },
+  {
+    "link": "https://www.audubon.org/news/urban-birds-are-rising-earlier-because-traffic-noise",
+    "title": "[英] Urban Birds Are Rising Earlier Because of Traffic Noise (2013)",
+    "date": "2026-05-06"
+  },
+  {
     "link": "https://mohibulsblog.netlify.app/java/100daysofjava/graph/",
     "title": "[英] I completed 100 Days of Java over 5 years and mapped the journey as a graph",
     "date": "2026-05-06"
@@ -62,16 +72,6 @@
   {
     "link": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
     "title": "[英] Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://www.stavros.io/posts/adding-a-feature-to-a-closed-source-app/",
-    "title": "[英] Adding a feature to a closed-source app",
-    "date": "2026-05-06"
-  },
-  {
-    "link": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-    "title": "[英] California farmers to destroy 420k peach trees following Del Monte bankruptcy",
     "date": "2026-05-06"
   }
 ]
