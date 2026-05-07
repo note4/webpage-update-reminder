@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://xeiaso.net/blog/2026/abstain-from-install/",
+    "title": "[英] Maybe you shouldn't install new software for a bit",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://openclaw.ai/blog/openclaw-rough-week",
+    "title": "[英] OpenClaw Had a Rough Week",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://eieio.games/blog/marc-andreessen-egg-game/",
+    "title": "[英] Draw Marc Andreessen on an Egg",
+    "date": "2026-05-08"
+  },
+  {
     "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
     "title": "[英] Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
     "date": "2026-05-08"
@@ -57,21 +72,6 @@
   {
     "link": "https://aicoding.leaflet.pub/3md5ftetaes2e",
     "title": "[英] The Deletion Test – The Phoenix Architecture",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://blog.cloudflare.com/building-for-the-future/",
-    "title": "[英] Building for the Future",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-    "title": "[英] Dirtyfrag: Universal Linux LPE",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://skiplabs.io/blog/codegen_as_compiler",
-    "title": "[英] Nobody Reviews Compiler Output",
     "date": "2026-05-08"
   }
 ]
