@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "title": "[英] Agents need control flow, not more prompts",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://www.motortrend.com/news/tesla-cybertruck-rwd-recall-brake-rotor",
+    "title": "[英] Only 173? Tesla Cybertruck RWD Recall Reveals Low Sales",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://github.com/PySimpleGUI/PySimpleGUI",
+    "title": "[英] PySimpleGUI 6",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+    "title": "[英] Chrome removes claim of On-device Al not sending data to Google Servers",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html",
+    "title": "[英] I switched from Mac to a Lenovo Chromebook, and you can too",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
+    "title": "[英] OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/",
+    "title": "[英] Authorities say Flock cameras' data allegedly used for immigration enforcement",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
+    "title": "[英] MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://twitter.com/antirez/status/2052405820235678175",
+    "title": "[英] DS4, a specialized inference engine for DeepSeek v4 Flash",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://newsletter.signoz.io/p/why-should-a-trace-id-be-128-bits",
+    "title": "[英] Why should a Trace-ID be 128 bits? (A Surprisingly Long Answer)",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+    "title": "[英] Motherboard sales are now collapsing amid unprecedented shortages fueled by AI",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+    "title": "[英] I Want to Live Like Costco People",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://predr.ag/blog/the-self-cancelling-subscription/",
+    "title": "[英] The Self-Cancelling Subscription",
+    "date": "2026-05-08"
+  },
+  {
     "link": "https://deepmind.google/blog/alphaevolve-impact/",
     "title": "[英] AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-    "date": "2026-05-07"
+    "date": "2026-05-08"
   },
   {
     "link": "https://github.com/alikamp/Parks-KPBM-Scaling",
     "title": "[英] 37x Speedup in Lattice Boltzmann Cylinder Flow",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-026-00796-2",
-    "title": "[英] Child marriages plunged when girls stayed in school in Nigeria",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.not-ship.com/burning-man-moop/",
-    "title": "[英] The map that keeps Burning Man honest",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
-    "title": "[英] Cloudflare responded to the \"Copy Fail\" Linux vulnerability",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://iopscience.iop.org/article/10.1088/1367-2630/ae4acc",
-    "title": "[英] The mechanical latching memory of an adhesive tape",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://ofdollarsanddata.com/the-upper-middle-class-trap/",
-    "title": "[英] The Upper Middle Class Trap",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://ratex.lites.dev/",
-    "title": "[英] RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
-    "title": "[英] Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
-    "title": "[英] GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://nltimes.nl/2026/05/07/klm-flight-attendant-hospitalized-contact-hantavirus-cruise-ship-passenger",
-    "title": "[英] KLM flight attendant hospitalized after contact with hantavirus",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
-    "title": "[英] Indian matchbox labels as a visual archive",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
-    "title": "[英] LinkedIn profile visitor lists belong to the people, says Noyb",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://ahk.cardor.dev",
-    "title": "[英] Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van",
-    "title": "[英] The brave souls who bought a used, 340k-mile rental camper van",
-    "date": "2026-05-07"
+    "date": "2026-05-08"
   }
 ]
