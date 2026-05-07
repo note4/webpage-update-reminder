@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
+    "title": "[英] Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
+    "title": "[英] GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://nltimes.nl/2026/05/07/klm-flight-attendant-hospitalized-contact-hantavirus-cruise-ship-passenger",
+    "title": "[英] KLM flight attendant hospitalized after contact with hantavirus",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
+    "title": "[英] Indian matchbox labels as a visual archive",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
+    "title": "[英] LinkedIn profile visitor lists belong to the people, says Noyb",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://ahk.cardor.dev",
+    "title": "[英] Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van",
+    "title": "[英] The brave souls who bought a used, 340k-mile rental camper van",
+    "date": "2026-05-07"
+  },
+  {
     "link": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
     "title": "[英] ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
     "date": "2026-05-07"
@@ -37,41 +72,6 @@
   {
     "link": "https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/",
     "title": "[英] Photoshop's challenges with focus, pt. 2",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://ads.apple.com/maps",
-    "title": "[英] Ads on Apple Maps",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.chevrolet.com/performance-parts/crate-engines/ecrate",
-    "title": "[英] Chevrolet Performance eCrate package (400v/200hp)",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.theparisreview.org/blog/2026/05/04/wolfgang-koeppens-structural-musicality/",
-    "title": "[英] Wolfgang Koeppen's Structural Musicality",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
-    "title": "[英] Building the TD4 4-Bit CPU",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.03546",
-    "title": "[英] ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://aniket.foo/posts/20260505-netboot/",
-    "title": "[英] Diskless Linux boot using ZFS, iSCSI and PXE",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
-    "title": "[英] The Mathematical Dance Inside Plant Cells",
     "date": "2026-05-07"
   }
 ]
