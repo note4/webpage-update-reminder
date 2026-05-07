@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+    "title": "[英] Dirtyfrag: Universal Linux LPE",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://skiplabs.io/blog/codegen_as_compiler",
+    "title": "[英] Nobody Reviews Compiler Output",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://chosker.github.io/blog/colored-shadow-penumbra",
+    "title": "[英] Colored Shadow Penumbra",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "title": "[英] AI Slop Is Killing Online Communities",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://twitter.com/trevin/status/2051316002730991795",
+    "title": "[英] Principles for agent-native CLIs",
+    "date": "2026-05-08"
+  },
+  {
     "link": "https://www.anthropic.com/research/natural-language-autoencoders",
     "title": "[英] Natural Language Autoencoders: Turning Claude's Thoughts into Text",
     "date": "2026-05-08"
@@ -47,31 +72,6 @@
   {
     "link": "https://github.com/PySimpleGUI/PySimpleGUI",
     "title": "[英] PySimpleGUI 6",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-    "title": "[英] Chrome removes claim of On-device Al not sending data to Google Servers",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html",
-    "title": "[英] I switched from Mac to a Lenovo Chromebook",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
-    "title": "[英] OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/",
-    "title": "[英] Authorities say Flock cameras' data allegedly used for immigration enforcement",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
-    "title": "[英] MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
     "date": "2026-05-08"
   }
 ]
