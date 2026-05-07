@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://deepmind.google/blog/alphaevolve-impact/",
+    "title": "[英] AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://github.com/alikamp/Parks-KPBM-Scaling",
+    "title": "[英] 37x Speedup in Lattice Boltzmann Cylinder Flow",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://www.nature.com/articles/d41586-026-00796-2",
+    "title": "[英] Child marriages plunged when girls stayed in school in Nigeria",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://www.not-ship.com/burning-man-moop/",
+    "title": "[英] The map that keeps Burning Man honest",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+    "title": "[英] Cloudflare responded to the \"Copy Fail\" Linux vulnerability",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://iopscience.iop.org/article/10.1088/1367-2630/ae4acc",
+    "title": "[英] The mechanical latching memory of an adhesive tape",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://ofdollarsanddata.com/the-upper-middle-class-trap/",
+    "title": "[英] The Upper Middle Class Trap",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://ratex.lites.dev/",
+    "title": "[英] RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+    "date": "2026-05-07"
+  },
+  {
     "link": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
     "title": "[英] Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
     "date": "2026-05-07"
@@ -32,46 +72,6 @@
   {
     "link": "https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van",
     "title": "[英] The brave souls who bought a used, 340k-mile rental camper van",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
-    "title": "[英] ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-    "title": "[英] Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://CringeOut.com",
-    "title": "[英] Show HN: Social Network for Corporate Cringe",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://github.com/wojtczyk/trust",
-    "title": "[英] Show HN: Trust – Coding Rust like it's 1989",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://unsloth.ai/blog/nvidia-collab",
-    "title": "[英] Making LLM Training Faster with Unsloth and NVIDIA",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://singleride.nyc/",
-    "title": "[英] SingleRide: Longest route on NYC Subway without visiting the same station twice",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://github.com/darkrishabh/agent-skills-eval",
-    "title": "[英] Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/",
-    "title": "[英] Photoshop's challenges with focus, pt. 2",
     "date": "2026-05-07"
   }
 ]
