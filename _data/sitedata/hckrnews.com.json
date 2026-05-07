@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+    "title": "[英] Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://blog.apnic.net/2026/05/05/rolling-the-root-key/",
+    "title": "[英] Rolling the Root Key",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+    "title": "[英] Two Home Affairs officials suspended after AI 'hallucinations' found",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+    "title": "[英] Mozilla says 271 vulnerabilities found by Mythos and \"almost no false positives\"",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://militarymachine.com/pentagon-missile-production-surge-2026",
+    "title": "[英] Why The Pentagon Is Quadrupling Missile Production, and Why It Won't Be Enough",
+    "date": "2026-05-08"
+  },
+  {
     "link": "https://blog.wilsonb.com/posts/2026-02-27-easy-random-trees.html",
     "title": "[英] Easy Random Trees",
     "date": "2026-05-08"
@@ -47,31 +72,6 @@
   {
     "link": "https://skiplabs.io/blog/codegen_as_compiler",
     "title": "[英] Nobody Reviews Compiler Output",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://chosker.github.io/blog/colored-shadow-penumbra",
-    "title": "[英] Colored Shadow Penumbra",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-    "title": "[英] AI slop is killing online communities",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://twitter.com/trevin/status/2051316002730991795",
-    "title": "[英] Principles for agent-native CLIs",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://www.anthropic.com/research/natural-language-autoencoders",
-    "title": "[英] Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
-    "title": "[英] Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
     "date": "2026-05-08"
   }
 ]
