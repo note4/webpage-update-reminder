@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "title": "[英] Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+    "title": "[英] Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://pluralistic.net/2026/05/07/dump-the-pumpers/",
+    "title": "[英] Bubbles Are Really Evil",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://fi-le.net/print/",
+    "title": "[英] Printing Blogs",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://github.com/ReviewStage/stage-cli",
+    "title": "[英] Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://kmph.com/news/local/california-leaders-report-four-to-six-weeks-worth-of-gasoline-and-diesel-in-supply",
+    "title": "[英] California leaders report four to six weeks worth of gasoline and diesel supply",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://github.com/antirez/ds4",
+    "title": "[英] DeepSeek 4 Flash local inference engine for Metal",
+    "date": "2026-05-08"
+  },
+  {
     "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
     "title": "[英] Agents need control flow, not more prompts",
     "date": "2026-05-08"
@@ -21,7 +56,7 @@
   },
   {
     "link": "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html",
-    "title": "[英] I switched from Mac to a Lenovo Chromebook, and you can too",
+    "title": "[英] I switched from Mac to a Lenovo Chromebook",
     "date": "2026-05-08"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
     "title": "[英] MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://twitter.com/antirez/status/2052405820235678175",
-    "title": "[英] DS4, a specialized inference engine for DeepSeek v4 Flash",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://newsletter.signoz.io/p/why-should-a-trace-id-be-128-bits",
-    "title": "[英] Why should a Trace-ID be 128 bits? (A Surprisingly Long Answer)",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
-    "title": "[英] Motherboard sales are now collapsing amid unprecedented shortages fueled by AI",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://tastecooking.com/i-want-to-live-like-costco-people/",
-    "title": "[英] I Want to Live Like Costco People",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://predr.ag/blog/the-self-cancelling-subscription/",
-    "title": "[英] The Self-Cancelling Subscription",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://deepmind.google/blog/alphaevolve-impact/",
-    "title": "[英] AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://github.com/alikamp/Parks-KPBM-Scaling",
-    "title": "[英] 37x Speedup in Lattice Boltzmann Cylinder Flow",
     "date": "2026-05-08"
   }
 ]
