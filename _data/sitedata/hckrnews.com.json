@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://github.com/pthom/imgui_bundle",
+    "title": "[英] Show HN: Full Python GUI apps in the browser – no JavaScript, no server",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://aicoding.leaflet.pub/3md5ftetaes2e",
+    "title": "[英] The Deletion Test – The Phoenix Architecture",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://blog.cloudflare.com/building-for-the-future/",
+    "title": "[英] Building for the Future",
+    "date": "2026-05-08"
+  },
+  {
     "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
     "title": "[英] Dirtyfrag: Universal Linux LPE",
     "date": "2026-05-08"
@@ -46,7 +61,7 @@
   },
   {
     "link": "https://github.com/ReviewStage/stage-cli",
-    "title": "[英] Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
+    "title": "[英] Show HN: Stage CLI – An easier way of reading your AI generated changes locally",
     "date": "2026-05-08"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://github.com/antirez/ds4",
     "title": "[英] DeepSeek 4 Flash local inference engine for Metal",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-    "title": "[英] Agents need control flow, not more prompts",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://www.motortrend.com/news/tesla-cybertruck-rwd-recall-brake-rotor",
-    "title": "[英] Only 173? Tesla Cybertruck RWD Recall Reveals Low Sales",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://github.com/PySimpleGUI/PySimpleGUI",
-    "title": "[英] PySimpleGUI 6",
     "date": "2026-05-08"
   }
 ]
