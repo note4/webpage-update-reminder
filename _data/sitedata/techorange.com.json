@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/05/07/anthropic-spacex-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "化敵為友的百萬瓦級交易：拆解 Anthropic 承租 SpaceX Colossus 1 背後的算力焦慮",
+    "date": "2026-05-07 12:04:41"
+  },
+  {
+    "link": "https://techorange.com/2026/05/07/chow-tai-fook-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "投放逾 400 個 AI 代理的零售實驗：銷售轉化提升 57%，周大福如何導入 AI？",
+    "date": "2026-05-07 12:00:00"
+  },
+  {
+    "link": "https://techorange.com/2026/05/07/ai-challenges-saas-giants/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 開始反噬 SaaS 巨頭：Citizens 分析師警告，三分之二頂尖軟體公司恐撐不過 AI 轉型期",
+    "date": "2026-05-07 10:52:53"
+  },
+  {
     "link": "https://techorange.com/2026/05/07/ai-agent-race-long-term-anthropic-commits-200-billion-amd-sees-new-cpu-demand/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】AI 代理戰燒到算力長約，Anthropic 傳砸 2,000 億美元、AMD 看見 CPU 新需求",
     "date": "2026-05-07 06:50:00"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/05/05/amazon-supply-chain-services-for-business/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "打造「物流版 AWS」：Amazon 開放自建供應鏈、搶攻 B2B 市場，FedEx 與 DHL 迎來科技平台對手",
     "date": "2026-05-05 16:59:34"
-  },
-  {
-    "link": "https://techorange.com/2026/05/05/galaxysoftware-gsssolutionsday-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 落地改變企業應用場景 叡揚 Solutions Day 帶來解方",
-    "date": "2026-05-05 15:41:58"
-  },
-  {
-    "link": "https://techorange.com/2026/05/05/galaxy-software-npo-vitalcrm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "NPO 邁向高效營運時代：從繁瑣行政到智慧管理的關鍵一哩路",
-    "date": "2026-05-05 15:32:17"
-  },
-  {
-    "link": "https://techorange.com/2026/05/05/sas-50-aiagents-sas-viya-sas-ai-navigator-sas-quantum-lab/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "SAS 迎 50 周年 深化可信任 AI 與代理型 AI 布局加速企業 AI 規模化落地，並前瞻量子 AI 新世代",
-    "date": "2026-05-05 14:38:17"
   }
 ]

@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.theparisreview.org/blog/2026/05/04/wolfgang-koeppens-structural-musicality/",
+    "title": "[英] Wolfgang Koeppen's Structural Musicality",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
+    "title": "[英] Building the TD4 4-Bit CPU",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://arxiv.org/abs/2605.03546",
+    "title": "[英] ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://aniket.foo/posts/20260505-netboot/",
+    "title": "[英] Diskless Linux boot using ZFS, iSCSI and PXE",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
+    "title": "[英] The Mathematical Dance Inside Plant Cells",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
+    "title": "[英] RSS Feeds Send Me More Traffic Than Google",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://www.smbc-comics.com/comic/2011-09-08",
+    "title": "[英] We programmed a program to program new programs (2011)",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://mendelgreenberg.com/posts/ourcar/",
+    "title": "[英] What I Learned Making an App for My Family",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://apnews.com/article/pen-pals-letters-comeback-bc87e1b9c229665bafd368e19751d6ca",
+    "title": "[英] Pen pal programs endure in a digital age",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://permacomputing.net/principles/",
+    "title": "[英] Permacomputing Principles",
+    "date": "2026-05-07"
+  },
+  {
+    "link": "https://www.lttlabs.com/articles/2026/05/05/testing-psu-series",
+    "title": "[英] Finding the differences in a series of power supplies",
+    "date": "2026-05-07"
+  },
+  {
     "link": "https://www.noetik.blog/p/perturb-mars-reading-mouse-experiments",
     "title": "[英] Perturb-MARS: Reading mouse experiments through a human lens",
     "date": "2026-05-07"
@@ -17,61 +72,6 @@
   {
     "link": "https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry",
     "title": "[英] What British people mean when they say 'sorry'",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://therecord.media/ADT-data-breach-cyberattack",
-    "title": "[英] ADT says customer data stolen in cyber intrusion",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
-    "title": "[英] The Old Guard: Confronting America's Gerontocratic Crisis",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/",
-    "title": "[英] How I made $350K from an open-source JavaScript library using dual licensing",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/",
-    "title": "[英] Iran hit more U.S. military targets than has been reported, satellite images",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://niccolorastrelli.com/they-dont-look-like-me",
-    "title": "[英] They don't look like me",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296",
-    "title": "[英] How do I inform Windows that I'm writing a binary file?",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.usatoday.com/story/news/nation/2026/05/06/pope-leo-bank-customer-service-chicago/89960592007/",
-    "title": "[英] Pope Leo called his bank's customer service line. They hung up on him",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://api-docs.deepseek.com/quick_start/pricing",
-    "title": "[英] DeepSeek V4 Pro at 75% off until 31 May",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.theatlantic.com/politics/2026/05/kash-patel-fbi-bourbon/687066/",
-    "title": "[英] Kash Patel's Personalized Bourbon Stash",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
-    "title": "[英] Programming Still Sucks",
-    "date": "2026-05-07"
-  },
-  {
-    "link": "http://ai.stanford.edu/blog/feedback-descent/",
-    "title": "[英] Following the Text Gradient at Scale (2025)",
     "date": "2026-05-07"
   }
 ]
