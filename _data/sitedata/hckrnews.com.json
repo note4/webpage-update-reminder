@@ -1,12 +1,52 @@
 [
   {
+    "link": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
+    "title": "[英] Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://agentmgmt.dev/",
+    "title": "[英] Show HN: The independent guide to agent orchestrators",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://github.com/V4bel/dirtyfrag",
+    "title": "[英] Dirty Frag: Universal Linux LPE",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://www.anthropic.com/research/teaching-claude-why",
+    "title": "[英] Teaching Claude Why",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://www.reuters.com/business/retail-consumer/amazon-cloud-unit-says-data-center-overheating-north-virginia-disrupts-services-2026-05-08/",
+    "title": "[英] AWS says data center overheating in North Virginia disrupts services",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
+    "title": "[英] All means are fair except solving the problem",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
+    "title": "[英] Non-determinism is an issue with patching CVEs",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
+    "title": "[英] Looking at the data behind prediction markets",
+    "date": "2026-05-09"
+  },
+  {
     "link": "https://www.mux.com/jobs",
     "title": "[英] Mux (YC W16) Is Hiring",
     "date": "2026-05-09"
   },
   {
     "link": "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/",
-    "title": "[英] Man Finds $1M Worth of Yu-Gi-Oh Cards in a Dumpster",
+    "title": "[英] Man finds $1M worth of Yu-Gi-Oh cards in a dumpster",
     "date": "2026-05-09"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/",
     "title": "[英] My first in-prod corrupted hard drive problem",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.getadb.com/",
-    "title": "[英] Show HN: GETadb.com – every GET request creates a DB",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://github.com/dventimisupabase/pg_flight_recorder",
-    "title": "[英] pg_flight_recorder: Continuously sample PostgreSQL system state via pg_cron",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
-    "title": "[英] What we lost the last time code got cheap",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-    "title": "[英] Google Broke reCAPTCHA for De-Googled Android Users",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.techdirt.com/2026/05/08/court-to-doge-bros-asking-chatgpt-yo-is-this-dei-is-not-proper-legal-process-also-a-first-amendment-violation/",
-    "title": "[英] Court to DOGE: Asking ChatGPT 'Is This DEI?' Is Not Proper Legal Process",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-    "title": "[英] AI is breaking two vulnerability cultures",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=rMi1dIqMwNw",
-    "title": "[英] Defeating Works by Design's Unpickable Lock [video]",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
-    "title": "[英] How do I deal with memory leaks? (2022)",
     "date": "2026-05-09"
   }
 ]
