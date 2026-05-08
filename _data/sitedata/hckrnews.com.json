@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://docs.merca.earth/blog/floats-dont-agree-with-themselves",
+    "title": "[英] Floats Don't Agree with Themselves",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48060054",
+    "title": "[英] Ask HN: We just had an actual UUID v4 collision...",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
+    "title": "[英] Nintendo announces price increases for Nintendo Switch 2",
+    "date": "2026-05-08"
+  },
+  {
     "link": "https://sdocs.dev/blogs/journey-to-pdf-generation",
     "title": "[英] The surprisingly complex journey to text-selectable client-side generated PDFs",
     "date": "2026-05-08"
@@ -57,21 +72,6 @@
   {
     "link": "https://github.com/graemeg/blaise",
     "title": "[英] Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://chipsandcheese.com/p/evaluating-geekbench-6",
-    "title": "[英] Evaluating Geekbench 6",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://addyosmani.com/blog/agentic-engineering/",
-    "title": "[英] Agentic Engineering",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
-    "title": "[英] How to make SSE token streams resumable, cancellable, and multi-device",
     "date": "2026-05-08"
   }
 ]
