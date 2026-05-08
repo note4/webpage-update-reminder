@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://btxx.org/posts/memory/",
+    "title": "[英] Serving a Website on a Raspberry Pi Zero Running in RAM",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://github.com/regent-vcs/re_gent",
+    "title": "[英] Show HN: Git for AI Agents",
+    "date": "2026-05-09"
+  },
+  {
     "link": "https://lwn.net/Articles/1071775/",
     "title": "[英] Four stable kernels with partial fixes for Dirty Frag",
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
     "link": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
     "title": "[英] PC Engine CPU",
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
     "link": "https://sinceyouarrived.world/taken",
     "title": "[英] A web page that shows you everything the browser told it without asking",
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
     "link": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
     "title": "[英] Google Cloud Fraud Defence is just WEI repackaged",
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
     "link": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
     "title": "[英] Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
     "link": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
     "title": "[英] Podman rootless containers and the Copy Fail exploit",
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
     "link": "https://www.war.gov/UFO/#release",
     "title": "[英] UFO Release 1: Presidential Unsealing and Reporting System for UAP Encounters",
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
     "link": "https://blainsmith.com/articles/just-fucking-use-go/",
-    "title": "[英] Just Fucking Use Go",
-    "date": "2026-05-08"
+    "title": "[英] Just Use Go",
+    "date": "2026-05-09"
   },
   {
     "link": "https://www.war.gov/UFO/",
     "title": "[英] US Government releases first batch of UAP documents and videos",
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
     "link": "https://c9x.me/compile/",
     "title": "[英] QBE – Compiler Back End",
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
     "link": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-    "title": "[英] Poland is now among the 20 largest economies. How it happened",
-    "date": "2026-05-08"
+    "title": "[英] Poland is now among the 20 largest economies",
+    "date": "2026-05-09"
   },
   {
     "link": "https://meshtastic.org/docs/introduction/",
     "title": "[英] An Introduction to Meshtastic",
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
     "link": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
     "title": "[英] Hackers breach JDownloader's website to serve malware-laced downloads",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://geojson.org/",
-    "title": "[英] GeoJSON",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://docs.merca.earth/blog/floats-dont-agree-with-themselves",
-    "title": "[英] Floats Don't Agree with Themselves",
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   }
 ]
