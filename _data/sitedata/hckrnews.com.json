@@ -1,7 +1,32 @@
 [
   {
+    "link": "https://www.mux.com/jobs",
+    "title": "[英] Mux (YC W16) Is Hiring",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/",
+    "title": "[英] Man Finds $1M Worth of Yu-Gi-Oh Cards in a Dumpster",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://theoffingmag.com/essay/roadside-attraction/",
+    "title": "[英] Roadside Attraction",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://discordstatus.com",
+    "title": "[英] Discord Incident",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://ze3tar.github.io/post-zcrx.html",
+    "title": "[英] You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+    "date": "2026-05-09"
+  },
+  {
     "link": "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3",
-    "title": "[英] Lets Encrypt Stopping Issuance for Potential Incident",
+    "title": "[英] Let’s Encrypt – Stopping Issuance for Potential Incident",
     "date": "2026-05-09"
   },
   {
@@ -36,7 +61,7 @@
   },
   {
     "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-    "title": "[英] AI Is Breaking Two Vulnerability Cultures",
+    "title": "[英] AI is breaking two vulnerability cultures",
     "date": "2026-05-09"
   },
   {
@@ -46,32 +71,7 @@
   },
   {
     "link": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
-    "title": "[英] Bjarne Stroustrup: How do I deal with memory leaks? (2022)",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
-    "title": "[英] Apple, Intel have reached preliminary chip-making deal",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.01428",
-    "title": "[英] Hallucinations Undermine Trust; Metacognition Is a Way Forward",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-    "title": "[英] Cartoon Network Flash Games",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.not-ship.com/banks-are-funding-climate-chaos-you-dont-have-to-2/",
-    "title": "[英] Banks are funding climate chaos. You don't have to",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-    "title": "[英] David Attenborough's 100th Birthday",
+    "title": "[英] How do I deal with memory leaks? (2022)",
     "date": "2026-05-09"
   }
 ]
