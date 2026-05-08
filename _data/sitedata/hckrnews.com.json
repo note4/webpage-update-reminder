@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://c9x.me/compile/",
+    "title": "[英] QBE – Compiler Back End",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+    "title": "[英] Poland is now among the 20 largest economies. How it happened",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://meshtastic.org/docs/introduction/",
+    "title": "[英] An Introduction to Meshtastic",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
+    "title": "[英] Hackers breach JDownloader website to serve malware-laced downloads",
+    "date": "2026-05-08"
+  },
+  {
     "link": "https://geojson.org/",
     "title": "[英] GeoJSON",
     "date": "2026-05-08"
@@ -52,26 +72,6 @@
   {
     "link": "https://www.historytoday.com/archive/history-matters/inventing-cyrillic",
     "title": "[英] Inventing Cyrillic",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://lwn.net/Articles/1066418/",
-    "title": "[英] Digging into Drama at the Document Foundation",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6",
-    "title": "[英] US will start revoking passports for parents who owe child support",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
-    "title": "[英] A polynomial autoencoder beats PCA on transformer embeddings",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://mojolang.org/",
-    "title": "[英] Mojo 1.0 Beta",
     "date": "2026-05-08"
   }
 ]
