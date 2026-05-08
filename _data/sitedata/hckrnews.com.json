@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+    "title": "[英] Google Broke reCAPTCHA for De-Googled Android Users",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://www.techdirt.com/2026/05/08/court-to-doge-bros-asking-chatgpt-yo-is-this-dei-is-not-proper-legal-process-also-a-first-amendment-violation/",
+    "title": "[英] Court to DOGE: Asking ChatGPT 'Is This DEI?' Is Not Proper Legal Process",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+    "title": "[英] AI Is Breaking Two Vulnerability Cultures",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=rMi1dIqMwNw",
+    "title": "[英] Defeating Works by Design's Unpickable Lock [video]",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
+    "title": "[英] Bjarne Stroustrup: How do I deal with memory leaks? (2022)",
+    "date": "2026-05-09"
+  },
+  {
     "link": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
     "title": "[英] Apple, Intel have reached preliminary chip-making deal",
     "date": "2026-05-09"
@@ -26,7 +51,7 @@
   },
   {
     "link": "https://btxx.org/posts/memory/",
-    "title": "[英] Serving a Website on a Raspberry Pi Zero Running in RAM",
+    "title": "[英] Serving a website on a Raspberry Pi Zero running in RAM",
     "date": "2026-05-09"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://sinceyouarrived.world/taken",
     "title": "[英] A web page that shows you everything the browser told it without asking",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-    "title": "[英] Google Cloud Fraud Defence is just WEI repackaged",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
-    "title": "[英] Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
-    "title": "[英] Podman rootless containers and the Copy Fail exploit",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.war.gov/UFO/#release",
-    "title": "[英] UFO Release 1: Presidential Unsealing and Reporting System for UAP Encounters",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://blainsmith.com/articles/just-fucking-use-go/",
-    "title": "[英] Just Use Go",
     "date": "2026-05-09"
   }
 ]
