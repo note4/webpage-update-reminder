@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://sdocs.dev/blogs/journey-to-pdf-generation",
+    "title": "[英] The surprisingly complex journey to text-selectable client-side generated PDFs",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://ikesau.co/blog/dithering-with-css/",
+    "title": "[英] Dithering with CSS",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://clojurescript.org/news/2026-05-07-release",
+    "title": "[英] ClojureScript Gets Async/Await",
+    "date": "2026-05-08"
+  },
+  {
     "link": "https://hantawatch.net/",
     "title": "[英] HantaWatch Real time hantavirus outbreak tracker",
     "date": "2026-05-08"
@@ -57,21 +72,6 @@
   {
     "link": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
     "title": "[英] How to make SSE token streams resumable, cancellable, and multi-device",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo",
-    "title": "[英] Copy Fail 2: Electric Boogaloo",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-    "title": "[英] Hardening Firefox with Claude Mythos Preview",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://www.reuters.com/legal/government/new-york-state-set-ban-law-enforcement-including-ice-wearing-masks-2026-05-07/",
-    "title": "[英] New York state set to ban law enforcement, including ICE, from wearing masks",
     "date": "2026-05-08"
   }
 ]
