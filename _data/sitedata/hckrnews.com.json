@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6",
+    "title": "[英] US will start revoking passports for parents who owe child support",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+    "title": "[英] A polynomial autoencoder beats PCA on transformer embeddings",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://mojolang.org/",
+    "title": "[英] Mojo 1.0 Beta",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://github.com/graemeg/blaise",
+    "title": "[英] Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://chipsandcheese.com/p/evaluating-geekbench-6",
+    "title": "[英] Evaluating Geekbench 6",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://addyosmani.com/blog/agentic-engineering/",
+    "title": "[英] Agentic Engineering",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
+    "title": "[英] How to make SSE token streams resumable, cancellable, and multi-device",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo",
+    "title": "[英] Copy Fail 2: Electric Boogaloo",
+    "date": "2026-05-08"
+  },
+  {
     "link": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
     "title": "[英] Hardening Firefox with Claude Mythos Preview",
     "date": "2026-05-08"
@@ -32,46 +72,6 @@
   {
     "link": "https://www.wespiser.com/posts/2026-05-04-traveling-salesdog.html",
     "title": "[英] The Traveling Salesdog Problem",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://etke.cc/blog/introducing-komai",
-    "title": "[英] Komai: a fine Matrix chat app you can get to love",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://github.com/robertdfrench/ifuncd-up",
-    "title": "[英] GNU IFUNC is the real culprit behind CVE-2024-3094",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
-    "title": "[英] Gambling ads on social media reach more than twice as many men as women: study",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://placesjournal.org/article/the-disappearance-of-the-public-bench/",
-    "title": "[英] The Disappearance of the Public Bench",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
-    "title": "[英] Hackers deface school login pages after claiming another Instructure hack",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
-    "title": "[英] Nonprofit hospitals spend billions on consultants with no clear effect",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-    "title": "[英] Plasticity and language in the anaesthetized human hippocampus",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/",
-    "title": "[英] Tools in the Grass: Raising the next generation of crafts person",
     "date": "2026-05-08"
   }
 ]

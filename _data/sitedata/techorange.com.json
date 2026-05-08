@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/05/08/zara-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "季末庫存剩 0.6%、退貨率降一成、碳排減 25%：Zara 供應鏈怎麼用 AI 做到？",
+    "date": "2026-05-08 12:55:10"
+  },
+  {
+    "link": "https://techorange.com/2026/05/08/anthropics-mythos-firefoxs-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Anthropic Mythos 太會找漏洞：Firefox 修補數暴增 13 倍，工程師坦言還沒有自動化解方",
+    "date": "2026-05-08 12:43:50"
+  },
+  {
+    "link": "https://techorange.com/2026/05/08/openais-ai-chip-deal-broadcom-hits-18-billion-financing-snag/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 與博通 180 億美元晶片融資卡關：Nexus 計畫要落地，為何還得看 Microsoft 臉色？",
+    "date": "2026-05-08 12:39:31"
+  },
+  {
     "link": "https://techorange.com/2026/05/08/ai-bristol-myers-squibb-drugs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 熱潮進入製藥工廠端：BMS 產量提升 40%，Eli Lilly 如何用數位孿生突破產能瓶頸？",
     "date": "2026-05-08 10:06:10"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/05/06/samsung-hits-1-trillion-valuation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "從 HBM4 到 Apple 供應鏈備援：三星獲利狂飆 48 倍，AI 正重新定價半導體產業",
     "date": "2026-05-06 18:56:07"
-  },
-  {
-    "link": "https://techorange.com/2026/05/06/ai-china-targets-domestic-silicon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "全球供應版圖重組！12 吋矽晶圓成關鍵戰場，中國力拚 70% 國產供應",
-    "date": "2026-05-06 17:13:38"
-  },
-  {
-    "link": "https://techorange.com/2026/05/06/twister5-across-ecosystem-aidaptiv/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "極風雲創推出企業級 AI 入口 Across，以 Agentic OS 架構，攜手群聯電子、GoTrust 等夥伴建構台灣 AI 治理生態圈",
-    "date": "2026-05-06 15:54:47"
-  },
-  {
-    "link": "https://techorange.com/2026/05/06/solana-foundation-pay-sh-collaboration-google-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Solana 聯手 Google Cloud 推 AI 代理支付平台！AI 可自主用穩定幣買 API 服務",
-    "date": "2026-05-06 14:09:46"
   }
 ]
