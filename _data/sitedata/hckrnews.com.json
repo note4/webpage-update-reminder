@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://geojson.org/",
+    "title": "[英] GeoJSON",
+    "date": "2026-05-08"
+  },
+  {
     "link": "https://docs.merca.earth/blog/floats-dont-agree-with-themselves",
     "title": "[英] Floats Don't Agree with Themselves",
     "date": "2026-05-08"
@@ -67,11 +72,6 @@
   {
     "link": "https://mojolang.org/",
     "title": "[英] Mojo 1.0 Beta",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://github.com/graemeg/blaise",
-    "title": "[英] Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
     "date": "2026-05-08"
   }
 ]
