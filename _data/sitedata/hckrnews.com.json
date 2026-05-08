@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://lwn.net/Articles/1071775/",
+    "title": "[英] Four stable kernels with partial fixes for Dirty Frag",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+    "title": "[英] PC Engine CPU",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://sinceyouarrived.world/taken",
+    "title": "[英] A web page that shows you everything the browser told it without asking",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+    "title": "[英] Google Cloud Fraud Defence is just WEI repackaged",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
+    "title": "[英] Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+    "title": "[英] Podman rootless containers and the Copy Fail exploit",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://www.war.gov/UFO/#release",
+    "title": "[英] UFO Release 1: Presidential Unsealing and Reporting System for UAP Encounters",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://blainsmith.com/articles/just-fucking-use-go/",
+    "title": "[英] Just Fucking Use Go",
+    "date": "2026-05-08"
+  },
+  {
+    "link": "https://www.war.gov/UFO/",
+    "title": "[英] US Government releases first batch of UAP documents and videos",
+    "date": "2026-05-08"
+  },
+  {
     "link": "https://c9x.me/compile/",
     "title": "[英] QBE – Compiler Back End",
     "date": "2026-05-08"
@@ -16,7 +61,7 @@
   },
   {
     "link": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
-    "title": "[英] Hackers breach JDownloader website to serve malware-laced downloads",
+    "title": "[英] Hackers breach JDownloader's website to serve malware-laced downloads",
     "date": "2026-05-08"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://docs.merca.earth/blog/floats-dont-agree-with-themselves",
     "title": "[英] Floats Don't Agree with Themselves",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48060054",
-    "title": "[英] Ask HN: We just had an actual UUID v4 collision...",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
-    "title": "[英] Nintendo announces price increases for Nintendo Switch 2",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://sdocs.dev/blogs/journey-to-pdf-generation",
-    "title": "[英] The surprisingly complex journey to text-selectable client-side generated PDFs",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://ikesau.co/blog/dithering-with-css/",
-    "title": "[英] Dithering with CSS",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://clojurescript.org/news/2026-05-07-release",
-    "title": "[英] ClojureScript Gets Async/Await",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://hantawatch.net/",
-    "title": "[英] HantaWatch Real time hantavirus outbreak tracker",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48037336",
-    "title": "[英] Rumors of my death are slightly exaggerated",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-    "title": "[英] GPT-5.5 Price Increase: What It Costs",
-    "date": "2026-05-08"
-  },
-  {
-    "link": "https://www.historytoday.com/archive/history-matters/inventing-cyrillic",
-    "title": "[英] Inventing Cyrillic",
     "date": "2026-05-08"
   }
 ]
