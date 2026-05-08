@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3",
+    "title": "[英] Lets Encrypt Stopping Issuance for Potential Incident",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/",
+    "title": "[英] My first in-prod corrupted hard drive problem",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://www.getadb.com/",
+    "title": "[英] Show HN: GETadb.com – every GET request creates a DB",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://github.com/dventimisupabase/pg_flight_recorder",
+    "title": "[英] pg_flight_recorder: Continuously sample PostgreSQL system state via pg_cron",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
+    "title": "[英] What we lost the last time code got cheap",
+    "date": "2026-05-09"
+  },
+  {
     "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
     "title": "[英] Google Broke reCAPTCHA for De-Googled Android Users",
     "date": "2026-05-09"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
     "title": "[英] David Attenborough's 100th Birthday",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://btxx.org/posts/memory/",
-    "title": "[英] Serving a website on a Raspberry Pi Zero running in RAM",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://github.com/regent-vcs/re_gent",
-    "title": "[英] Show HN: Git for AI Agents",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://lwn.net/Articles/1071775/",
-    "title": "[英] Four stable kernels with partial fixes for Dirty Frag",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
-    "title": "[英] PC Engine CPU",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://sinceyouarrived.world/taken",
-    "title": "[英] A web page that shows you everything the browser told it without asking",
     "date": "2026-05-09"
   }
 ]
