@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://portalvr.io/motion",
+    "title": "[英] PortalVR Motion – use any VR content in 2D with 3D tracked Joy-Cons",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://twitter.com/trq212/status/2052809885763747935",
+    "title": "[英] Using Claude Code: The unreasonable effectiveness of HTML",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+    "title": "[英] A recent experience with ChatGPT 5.5 Pro",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
+    "title": "[英] The Soul of Maintaining a New Machine",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+    "title": "[英] A recent experience with ChatGPT 5.5 Pro",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
+    "title": "[英] Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
+    "date": "2026-05-09"
+  },
+  {
     "link": "https://modal.com/blog/boosting-multimodal-inference-performance-by-greater-than-10-with-a-single-python-dictionary",
     "title": "[英] Boosting multimodal inference performance by >10% with a single Python dict",
     "date": "2026-05-09"
@@ -42,36 +72,6 @@
   {
     "link": "https://pankajpipada.com/posts/2026-05-08-human-habits-tokens/",
     "title": "[英] Human typing habits and token counts",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-    "title": "[英] Can LLMs model real-world systems in TLA+?",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://lachlan.nz/blog/the-react2shell-story/",
-    "title": "[英] The React2Shell Story",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
-    "title": "[英] When is your birthday? The math behind hash collisions",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://github.com/riscv-non-isa/riscv-server-platform/releases/tag/v1.0",
-    "title": "[英] RISC-V Server Platform Spec Ratified",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48069844",
-    "title": "[英] undefined",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://cadara.app",
-    "title": "[英] Show HN: CADara – I made an open-source in-browser CAD",
     "date": "2026-05-09"
   }
 ]
