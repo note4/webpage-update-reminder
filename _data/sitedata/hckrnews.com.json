@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://visualeaf.com/blog/mongodb-query-optimization-indexes/",
+    "title": "[英] How to Optimize MongoDB Query Performance with Indexes",
+    "date": "2026-05-09"
+  },
+  {
     "link": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
     "title": "[英] All my clients wanted a carousel, now it's an AI chatbot",
     "date": "2026-05-09"
@@ -67,11 +72,6 @@
   {
     "link": "https://modal.com/blog/boosting-multimodal-inference-performance-by-greater-than-10-with-a-single-python-dictionary",
     "title": "[英] Boosting multimodal inference performance by >10% with a single Python dict",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://martinfowler.com/bliki/MythicalManMonth.html",
-    "title": "[英] Mythical Man Month",
     "date": "2026-05-09"
   }
 ]
