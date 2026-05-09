@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://tieknots.how/",
+    "title": "[英] Random Tie Knots",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://undecidability.net/senior/",
+    "title": "[英] I Caught the Car",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+    "title": "[英] FreeBSD: Local Privilege Escalation via Execve()",
+    "date": "2026-05-10"
+  },
+  {
     "link": "https://www.copahost.com/blog/dirty-frag-cve-2026-43284/",
     "title": "[英] \"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days",
     "date": "2026-05-10"
@@ -57,21 +72,6 @@
   {
     "link": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
     "title": "[英] Introduction to Beaver Triples",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://mochijs.com/",
-    "title": "[英] Show HN: Mochi.js: bun-native high-fidelity browser automation library",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://thenewstack.io/subquadratic-12-million-context-window/",
-    "title": "[英] The context window has been shattered: Subquadratic debuts a 12M token window",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://tia.mat.br/posts/2026/05/06/a-new-hash-table-for-lwan.html",
-    "title": "[英] A new hash table for Lwan",
     "date": "2026-05-10"
   }
 ]
