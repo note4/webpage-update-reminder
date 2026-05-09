@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+    "title": "[英] The Serial TTL connector we deserve",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+    "title": "[英] France Moves to Break Encrypted Messaging",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://github.com/ThatXliner/rust-but-lisp",
+    "title": "[英] Rust but Lisp",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://debarshibasak.github.io/readables/blogs/death-of-roadmap.html",
+    "title": "[英] The Death of the Roadmap",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+    "title": "[英] Getting Arrested in Japan",
+    "date": "2026-05-10"
+  },
+  {
     "link": "https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/",
     "title": "[英] The 90 Day disclosure policy is dead",
     "date": "2026-05-10"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
     "title": "[英] Meta's embrace of A.I. is making its employees miserable",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://getspace.app/cli",
-    "title": "[英] Show HN: Create flashcards with Space CLI",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
-    "title": "[英] Bun ported to Rust in 6 days",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "http://writingball.blogspot.com/2026/05/the-rokr-wooden-typewriter-closer-look.html",
-    "title": "[英] The ROKR wooden typewriter: a closer look",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-    "title": "[英] Distributing Mac software is increasing my cortisol levels",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://zed.dev/theme-builder",
-    "title": "[英] Zed Editor Theme-Builder",
     "date": "2026-05-10"
   }
 ]
