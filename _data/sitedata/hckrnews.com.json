@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://stonetools.ghost.io/pipedream-archimedes/",
+    "title": "[英] PipeDream on the Acorn Archimedes",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://tack.pics",
+    "title": "[英] Show HN: Free tool to mark points and polygon regions",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number",
+    "title": "[英] The FCC Wants Your ID Before You Get a Phone Number",
+    "date": "2026-05-09"
+  },
+  {
     "link": "https://fractalbits.com/blog/remove-fsync/",
     "title": "[英] Removing fsync from our local storage engine",
     "date": "2026-05-09"
@@ -57,21 +72,6 @@
   {
     "link": "https://www.economist.com/by-invitation/2026/05/06/vladimir-putin-is-losing-his-grip-on-russia",
     "title": "[英] Vladimir Putin is losing his grip on Russia",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://flow.byu.edu/posts/julia-c++",
-    "title": "[英] Making Julia as Fast as C++ (2019)",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://visualeaf.com/blog/mongodb-query-optimization-indexes/",
-    "title": "[英] How to Optimize MongoDB Query Performance with Indexes",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
-    "title": "[英] All my clients wanted a carousel, now it's an AI chatbot",
     "date": "2026-05-09"
   }
 ]
