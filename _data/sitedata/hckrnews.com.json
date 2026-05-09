@@ -1,7 +1,27 @@
 [
   {
+    "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+    "title": "[英] Meta's Embrace of A.I. Is Making Its Employees Miserable",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://getspace.app/cli",
+    "title": "[英] Show HN: Create flashcards with Space CLI",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
+    "title": "[英] Bun ported to Rust in 6 days",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "http://writingball.blogspot.com/2026/05/the-rokr-wooden-typewriter-closer-look.html",
+    "title": "[英] The ROKR wooden typewriter: a closer look",
+    "date": "2026-05-10"
+  },
+  {
     "link": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-    "title": "[英] Apple is increasing my cortisol levels",
+    "title": "[英] Distributing Mac software is increasing my cortisol levels",
     "date": "2026-05-10"
   },
   {
@@ -51,27 +71,7 @@
   },
   {
     "link": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-    "title": "[英] The Intolerable Hypocrisy of Cyberlibertarianism",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
-    "title": "[英] GrapheneOS fixes Android VPN leak Google refused to patch",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://stonetools.ghost.io/pipedream-archimedes/",
-    "title": "[英] PipeDream on the Acorn Archimedes",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://tack.pics",
-    "title": "[英] Show HN: Free tool to mark points and polygon regions",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number",
-    "title": "[英] The FCC Wants Your ID Before You Get a Phone Number",
+    "title": "[英] The hypocrisy of cyberlibertarianism",
     "date": "2026-05-10"
   }
 ]
