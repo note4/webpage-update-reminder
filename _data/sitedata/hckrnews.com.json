@@ -1,12 +1,27 @@
 [
   {
+    "link": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+    "title": "[英] Making your own programming language is easier than you think (but also harder)",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://github.com/nooga/let-go",
+    "title": "[英] Show HN: I made a Clojure-like language in Go, boots in 7ms",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/may/06/uk-territory-gibraltar-dumps-raw-sewage-mediterranean",
+    "title": "[英] Gibraltar dumping all of its raw sewage into Mediterranean",
+    "date": "2026-05-10"
+  },
+  {
     "link": "https://tieknots.how/",
-    "title": "[英] Random Tie Knots",
+    "title": "[英] Random tie knots (2014)",
     "date": "2026-05-10"
   },
   {
     "link": "https://undecidability.net/senior/",
-    "title": "[英] I Caught the Car",
+    "title": "[英] I caught the car",
     "date": "2026-05-10"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://chrismorgan.info/no-query-strings",
     "title": "[英] I’ve banned query strings",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://github.com/navid-m/flightsim",
-    "title": "[英] Show HN: I wrote a flight simulator in my own programming language",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-    "title": "[英] CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
-    "title": "[英] Introduction to Beaver Triples",
     "date": "2026-05-10"
   }
 ]
