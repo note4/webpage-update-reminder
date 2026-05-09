@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+    "title": "[英] Apple is increasing my cortisol levels",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://zed.dev/theme-builder",
+    "title": "[英] Zed Editor Theme-Builder",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://susam.net/no-query-strings.html",
+    "title": "[英] I Will Not Add Query Strings to Your URLs",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://github.com/navid-m/flightsim",
+    "title": "[英] Show HN: I wrote a flight simulator in my own programming language",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+    "title": "[英] CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+    "date": "2026-05-10"
+  },
+  {
     "link": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
     "title": "[英] Introduction to Beaver Triples",
     "date": "2026-05-10"
@@ -47,31 +72,6 @@
   {
     "link": "https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number",
     "title": "[英] The FCC Wants Your ID Before You Get a Phone Number",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://fractalbits.com/blog/remove-fsync/",
-    "title": "[英] Removing fsync from our local storage engine",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/",
-    "title": "[英] Read Programming as Theory Building",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
-    "title": "[英] Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
-    "title": "[英] How LEDs are made (2014)",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://arxiv.org/abs/2604.15597",
-    "title": "[英] LLMs Corrupt Your Documents When You Delegate",
     "date": "2026-05-10"
   }
 ]
