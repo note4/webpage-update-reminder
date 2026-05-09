@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://fractalbits.com/blog/remove-fsync/",
+    "title": "[英] Removing fsync from our local storage engine",
+    "date": "2026-05-09"
+  },
+  {
     "link": "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/",
     "title": "[英] Read Programming as Theory Building",
     "date": "2026-05-09"
@@ -67,11 +72,6 @@
   {
     "link": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
     "title": "[英] All my clients wanted a carousel, now it's an AI chatbot",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://apnews.com/projects/pfas-forever-stained/",
-    "title": "[英] America's carpet capital: an empire and its toxic legacy",
     "date": "2026-05-09"
   }
 ]
