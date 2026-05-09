@@ -1,7 +1,27 @@
 [
   {
-    "link": "https://apnews.com/article/trump-doge-humanities-funding-cuts-dda1383436c41be08da3bbf7cc08818e",
-    "title": "[英] Judge rules DOGE cancellation of humanities grants was unconstitutional",
+    "link": "https://news.ycombinator.com/item?id=48069844",
+    "title": "[英] undefined",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://cadara.app",
+    "title": "[英] Show HN: CADara – I made an open-source in-browser CAD",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
+    "title": "[英] Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://m4rt.nl/blog/hosting-on-a-pi",
+    "title": "[英] Hosting a Site on a Raspberry Pi",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48069354",
+    "title": "[英] undefined",
     "date": "2026-05-09"
   },
   {
@@ -45,33 +65,13 @@
     "date": "2026-05-09"
   },
   {
-    "link": "https://www.reuters.com/business/retail-consumer/amazon-cloud-unit-says-data-center-overheating-north-virginia-disrupts-services-2026-05-08/",
-    "title": "[英] AWS says data center overheating in North Virginia disrupts services",
+    "link": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+    "title": "[英] AWS North Virginia data center outage – recovery to take hours",
     "date": "2026-05-09"
   },
   {
     "link": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
     "title": "[英] All means are fair except solving the problem",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
-    "title": "[英] Non-determinism is an issue with patching CVEs",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
-    "title": "[英] Looking at the data behind prediction markets",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.mux.com/jobs",
-    "title": "[英] Mux (YC W16) Is Hiring",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/",
-    "title": "[英] Man finds $1M worth of Yu-Gi-Oh cards in a dumpster",
     "date": "2026-05-09"
   }
 ]
