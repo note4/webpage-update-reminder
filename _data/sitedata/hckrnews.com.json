@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.economist.com/by-invitation/2026/05/06/vladimir-putin-is-losing-his-grip-on-russia",
+    "title": "[英] Vladimir Putin is losing his grip on Russia",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://flow.byu.edu/posts/julia-c++",
+    "title": "[英] Making Julia as Fast as C++ (2019)",
+    "date": "2026-05-09"
+  },
+  {
     "link": "https://visualeaf.com/blog/mongodb-query-optimization-indexes/",
     "title": "[英] How to Optimize MongoDB Query Performance with Indexes",
     "date": "2026-05-09"
@@ -56,22 +66,12 @@
   },
   {
     "link": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
-    "title": "[英] The Soul of Maintaining a New Machine",
+    "title": "[英] The soul of maintaining a new machine",
     "date": "2026-05-09"
   },
   {
     "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
     "title": "[英] A recent experience with ChatGPT 5.5 Pro",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
-    "title": "[英] Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://modal.com/blog/boosting-multimodal-inference-performance-by-greater-than-10-with-a-single-python-dictionary",
-    "title": "[英] Boosting multimodal inference performance by >10% with a single Python dict",
     "date": "2026-05-09"
   }
 ]
