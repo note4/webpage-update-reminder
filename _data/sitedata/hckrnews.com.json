@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
+    "title": "[英] Introduction to Beaver Triples",
+    "date": "2026-05-10"
+  },
+  {
     "link": "https://mochijs.com/",
     "title": "[英] Show HN: Mochi.js: bun-native high-fidelity browser automation library",
     "date": "2026-05-10"
@@ -67,11 +72,6 @@
   {
     "link": "https://arxiv.org/abs/2604.15597",
     "title": "[英] LLMs Corrupt Your Documents When You Delegate",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://dillo-browser.org/lab/web-fork/",
-    "title": "[英] Forking the Web",
     "date": "2026-05-10"
   }
 ]
