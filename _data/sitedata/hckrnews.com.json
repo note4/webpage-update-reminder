@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://modal.com/blog/boosting-multimodal-inference-performance-by-greater-than-10-with-a-single-python-dictionary",
+    "title": "[英] Boosting multimodal inference performance by >10% with a single Python dict",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://martinfowler.com/bliki/MythicalManMonth.html",
+    "title": "[英] Mythical Man Month",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://mccue.dev/pages/5-8-26-ai-art",
+    "title": "[英] People Hate AI Art",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://github-store.org/blog/how-i-built-github-store/",
+    "title": "[英] I built GitHub Store to 12,500 stars in 6 months – I started at 16",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
+    "title": "[英] Bitter Lessons from the ISSpresso",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
+    "title": "[英] Light without electricity? Glowing algae could make it possible",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://yourbrainonmoney.substack.com/p/low-trust-society-cost",
+    "title": "[英] The Tax of Living in a Low-Trust Society: How Collapsed Trust Costs You",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://moq.dev/blog/webrtc-is-the-problem/",
+    "title": "[英] OpenAI's WebRTC problem",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://pankajpipada.com/posts/2026-05-08-human-habits-tokens/",
+    "title": "[英] Human typing habits and token counts",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+    "title": "[英] Can LLMs model real-world systems in TLA+?",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://lachlan.nz/blog/the-react2shell-story/",
+    "title": "[英] The React2Shell Story",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
+    "title": "[英] When is your birthday? The math behind hash collisions",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://github.com/riscv-non-isa/riscv-server-platform/releases/tag/v1.0",
+    "title": "[英] RISC-V Server Platform Spec Ratified",
+    "date": "2026-05-09"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=48069844",
     "title": "[英] undefined",
     "date": "2026-05-09"
@@ -7,71 +72,6 @@
   {
     "link": "https://cadara.app",
     "title": "[英] Show HN: CADara – I made an open-source in-browser CAD",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
-    "title": "[英] Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://m4rt.nl/blog/hosting-on-a-pi",
-    "title": "[英] Hosting a Site on a Raspberry Pi",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48069354",
-    "title": "[英] undefined",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://ifanyonebuildsit.com/",
-    "title": "[英] If Anyone Builds It, Everyone Dies",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.science.org/doi/10.1126/sciadv.aeb0166",
-    "title": "[英] Compound drivers of Antarctic sea ice loss and Southern Ocean destratification",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.wiisfi.com/",
-    "title": "[英] Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-    "title": "[英] AWS data center outage hits trading on Fanduel, Coinbase",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
-    "title": "[英] Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://agentmgmt.dev/",
-    "title": "[英] Show HN: The independent guide to agent orchestrators",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://github.com/V4bel/dirtyfrag",
-    "title": "[英] Dirty Frag: Universal Linux LPE",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.anthropic.com/research/teaching-claude-why",
-    "title": "[英] Teaching Claude Why",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-    "title": "[英] AWS North Virginia data center outage – recovery to take hours",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
-    "title": "[英] All means are fair except solving the problem",
     "date": "2026-05-09"
   }
 ]
