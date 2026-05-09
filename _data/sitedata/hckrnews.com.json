@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/",
+    "title": "[英] The 90 Day disclosure policy is dead",
+    "date": "2026-05-10"
+  },
+  {
     "link": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
     "title": "[英] Making your own programming language is easier than you think (but also harder)",
     "date": "2026-05-10"
@@ -41,7 +46,7 @@
   },
   {
     "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-    "title": "[英] Meta's Embrace of A.I. Is Making Its Employees Miserable",
+    "title": "[英] Meta's embrace of A.I. is making its employees miserable",
     "date": "2026-05-10"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://zed.dev/theme-builder",
     "title": "[英] Zed Editor Theme-Builder",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://chrismorgan.info/no-query-strings",
-    "title": "[英] I’ve banned query strings",
     "date": "2026-05-10"
   }
 ]
