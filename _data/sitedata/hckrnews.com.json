@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
+    "title": "[英] Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://www.kutilek.de/selectric/",
+    "title": "[英] Reviving the IBM Selectric Composer Fonts (2023)",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
+    "title": "[英] Killswitch: Per-function short-circuit mitigation primitive",
+    "date": "2026-05-09"
+  },
+  {
+    "link": "https://english.elpais.com/international/2026-05-07/hondurasgate-the-alleged-us-and-israeli-interference-plot-to-destabilize-mexico-and-other-progressive-governments.html",
+    "title": "[英] Hondurasgate: US, Israeli Plot to Destabilize Mexico, Latin America",
+    "date": "2026-05-09"
+  },
+  {
     "link": "https://www.economist.com/by-invitation/2026/05/06/vladimir-putin-is-losing-his-grip-on-russia",
     "title": "[英] Vladimir Putin is losing his grip on Russia",
     "date": "2026-05-09"
@@ -52,26 +72,6 @@
   {
     "link": "https://portalvr.io/motion",
     "title": "[英] PortalVR Motion – use any VR content in 2D with 3D tracked Joy-Cons",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://twitter.com/trq212/status/2052809885763747935",
-    "title": "[英] Using Claude Code: The unreasonable effectiveness of HTML",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-    "title": "[英] A recent experience with ChatGPT 5.5 Pro",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
-    "title": "[英] The soul of maintaining a new machine",
-    "date": "2026-05-09"
-  },
-  {
-    "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-    "title": "[英] A recent experience with ChatGPT 5.5 Pro",
     "date": "2026-05-09"
   }
 ]
