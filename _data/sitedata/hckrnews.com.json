@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+    "title": "[英] Emerich Juettner: The One Dollar Counterfeiter",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+    "title": "[英] Gemini API File Search is now multimodal",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://github.com/imtomt/ymawky",
+    "title": "[英] Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
+    "title": "[英] Casio S100X Japanese Lacquer Edition (JP Page Only)",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
+    "title": "[英] Sparse Cholesky Elimination Tree",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://twitter.com/tszzl/status/2053022747765457005",
+    "title": "[英] Opus 4.7 and DeepSeek V4-Pro select Buddhism as preferred religion",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://theamericanscholar.org/on-the-trail-of-jeremiah/",
+    "title": "[英] The Trail of Jeremiah",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
+    "title": "[英] I'm writing a history of Visual Basic, Chapter 1 is up",
+    "date": "2026-05-10"
+  },
+  {
     "link": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
     "title": "[英] The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
     "date": "2026-05-10"
@@ -21,57 +61,17 @@
   },
   {
     "link": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
-    "title": "[英] France Moves to Break Encrypted Messaging",
+    "title": "[英] France moves to break encrypted messaging",
     "date": "2026-05-10"
   },
   {
     "link": "https://github.com/ThatXliner/rust-but-lisp",
-    "title": "[英] Rust but Lisp",
+    "title": "[英] Show HN: Rust but Lisp",
     "date": "2026-05-10"
   },
   {
     "link": "https://debarshibasak.github.io/readables/blogs/death-of-roadmap.html",
     "title": "[英] The Death of the Roadmap",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://sundaicity.com/blogs/getting-arrested-in-japan",
-    "title": "[英] Getting arrested in Japan",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/",
-    "title": "[英] The 90 Day disclosure policy is dead",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
-    "title": "[英] Making your own programming language is easier than you think (but also harder)",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://github.com/nooga/let-go",
-    "title": "[英] Show HN: I made a Clojure-like language in Go, boots in 7ms",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/may/06/uk-territory-gibraltar-dumps-raw-sewage-mediterranean",
-    "title": "[英] Gibraltar dumping all of its raw sewage into Mediterranean",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://tieknots.how/",
-    "title": "[英] Random tie knots (2014)",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://undecidability.net/senior/",
-    "title": "[英] I caught the car",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-    "title": "[英] FreeBSD: Local Privilege Escalation via Execve()",
     "date": "2026-05-10"
   }
 ]
