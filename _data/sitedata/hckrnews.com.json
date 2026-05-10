@@ -1,7 +1,22 @@
 [
   {
+    "link": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+    "title": "[英] Debian must ship reproducible packages",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://www.mathstat.dal.ca/~selinger/hat-partition/",
+    "title": "[英] A construction of the Hat tilings by a Markov partition",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
+    "title": "[英] We see something that works, and then we understand it",
+    "date": "2026-05-10"
+  },
+  {
     "link": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-    "title": "[英] Emerich Juettner: The One Dollar Counterfeiter",
+    "title": "[英] The One Dollar Counterfeiter",
     "date": "2026-05-10"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
     "title": "[英] The Serial TTL connector we deserve",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
-    "title": "[英] France moves to break encrypted messaging",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://github.com/ThatXliner/rust-but-lisp",
-    "title": "[英] Show HN: Rust but Lisp",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://debarshibasak.github.io/readables/blogs/death-of-roadmap.html",
-    "title": "[英] The Death of the Roadmap",
     "date": "2026-05-10"
   }
 ]
