@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+    "title": "[英] Space Cadet Pinball on Linux",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
+    "title": "[英] Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://thegrimhistorian.substack.com/p/36-doctors-just-staged-the-quietest",
+    "title": "[英] Doctors Just Staged the Quietest Coup in American History",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://mbmccoy.dev/posts/buffons-noodle/",
+    "title": "[英] From Buffon's Needle to Buffon's Noodle",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://vez.mrsk.me/freebsd-defaults",
+    "title": "[英] FreeBSD – A Lesson in Poor Defaults",
+    "date": "2026-05-10"
+  },
+  {
     "link": "https://arxiv.org/abs/2605.05419",
     "title": "[英] LLMorphism: When humans come to see themselves as language models",
     "date": "2026-05-10"
@@ -47,31 +72,6 @@
   {
     "link": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
     "title": "[英] Debian must ship reproducible packages",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://www.mathstat.dal.ca/~selinger/hat-partition/",
-    "title": "[英] A construction of the Hat tilings by a Markov partition",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
-    "title": "[英] We see something that works, and then we understand it",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-    "title": "[英] The One Dollar Counterfeiter",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-    "title": "[英] Gemini API File Search is now multimodal",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://github.com/imtomt/ymawky",
-    "title": "[英] Show HN: Building a web server in assembly to give my life (a lack of) meaning",
     "date": "2026-05-10"
   }
 ]
