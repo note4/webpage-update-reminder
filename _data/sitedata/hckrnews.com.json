@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=48085993",
+    "title": "[英] Ask HN: What Are You Working On? (May 2026)",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+    "title": "[英] Incident Report: CVE-2024-YIKES",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+    "title": "[英] Stop MitM on the first SSH connection, on any VPS or cloud provider",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+    "title": "[英] Hardware Attestation as Monopoly Enabler",
+    "date": "2026-05-11"
+  },
+  {
     "link": "https://www.quarter--mile.com/The-Locals-Dont-Know",
     "title": "[英] The Locals Don't Know",
     "date": "2026-05-11"
@@ -35,43 +55,23 @@
     "date": "2026-05-11"
   },
   {
-    "link": "https://dbushell.com/2026/04/29/github-is-sinking/",
-    "title": "[英] GitHub Is Sinking",
-    "date": "2026-05-11"
-  },
-  {
     "link": "https://theindex.fyi",
     "title": "[英] Show HN: An index of indie web/blog indexes",
     "date": "2026-05-11"
   },
   {
+    "link": "https://dbushell.com/2026/04/29/github-is-sinking/",
+    "title": "[英] GitHub is sinking",
+    "date": "2026-05-11"
+  },
+  {
     "link": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
-    "title": "[英] Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem",
+    "title": "[英] Walking slower? Your ears, not your knees, might be the problem",
     "date": "2026-05-11"
   },
   {
     "link": "https://e360.yale.edu/features/amoc-climate-change",
     "title": "[英] Scientists warn Atlantic current at risk of shutting down",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-    "title": "[英] Chrome's AI features may be hogging 4GB of your computer storage",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://github.com/Imbad0202/academic-research-skills",
-    "title": "[英] Academic Research Skills for Claude Code",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-    "title": "[英] Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.taxpayeradvocate.irs.gov/news/nta-blog/tens-of-millions-of-taxpayers-may-be-eligible-for-significant-tax-refunds/2026/04/",
-    "title": "[英] Taxpayers May Be Eligible for Significant Tax Refunds – If They Act by July 10",
     "date": "2026-05-11"
   }
 ]
