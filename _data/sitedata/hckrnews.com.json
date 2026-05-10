@@ -1,7 +1,22 @@
 [
   {
+    "link": "https://ycombinator.fyi/",
+    "title": "[英] YC's Biggest Scandals",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "title": "[英] Local AI needs to be the norm",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://dechifro.org/dcraw/",
+    "title": "[英] Decoding raw digital photos in Linux (1997)",
+    "date": "2026-05-11"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=48085993",
-    "title": "[英] Ask HN: What Are You Working On? (May 2026)",
+    "title": "[英] Ask HN: What are you working on? (May 2026)",
     "date": "2026-05-11"
   },
   {
@@ -21,22 +36,22 @@
   },
   {
     "link": "https://www.quarter--mile.com/The-Locals-Dont-Know",
-    "title": "[英] The Locals Don't Know",
+    "title": "[英] The locals don't know",
     "date": "2026-05-11"
   },
   {
     "link": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
-    "title": "[英] Spain just became one of Europe's cheapest power markets. Here is how",
+    "title": "[英] Spain has become one of Europe’s cheapest power markets",
     "date": "2026-05-11"
   },
   {
     "link": "https://tracesofhumanity.org/hello-world/",
-    "title": "[英] Tracesofhumanity.org by Joanna Rutkowska",
+    "title": "[英] Traces Of Humanity",
     "date": "2026-05-11"
   },
   {
     "link": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
-    "title": "[英] 5x perf increase on writes with FPW disabled in Postgres",
+    "title": "[英] Lakebase architecture delivers faster Postgres writes",
     "date": "2026-05-11"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://theindex.fyi",
     "title": "[英] Show HN: An index of indie web/blog indexes",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://dbushell.com/2026/04/29/github-is-sinking/",
-    "title": "[英] GitHub is sinking",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
-    "title": "[英] Walking slower? Your ears, not your knees, might be the problem",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://e360.yale.edu/features/amoc-climate-change",
-    "title": "[英] Scientists warn Atlantic current at risk of shutting down",
     "date": "2026-05-11"
   }
 ]
