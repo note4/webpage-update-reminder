@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
+    "title": "[英] First tunnel element of the Fehmarnbelt Tunnel immersed",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep",
+    "title": "[英] Why modern parents feel more sleep deprived than our ancestors did",
+    "date": "2026-05-11"
+  },
+  {
     "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
     "title": "[英] Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
     "date": "2026-05-11"
@@ -62,16 +72,6 @@
   {
     "link": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
     "title": "[英] Spain has become one of Europe’s cheapest power markets",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://tracesofhumanity.org/hello-world/",
-    "title": "[英] Traces Of Humanity",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
-    "title": "[英] Lakebase architecture delivers faster Postgres writes",
     "date": "2026-05-11"
   }
 ]
