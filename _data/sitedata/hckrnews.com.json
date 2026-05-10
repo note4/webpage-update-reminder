@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
+    "title": "[英] Guy Goma's Accidental BBC Interview Lives on After 20 Years",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://www.androidauthority.com/plex-price-hikes-get-jellyfin-3663600/",
+    "title": "[英] Plex's price hikes prove I was right to switch to Jellyfin",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+    "title": "[英] Obsidian plugin was abused to deploy a remote access trojan",
+    "date": "2026-05-11"
+  },
+  {
     "link": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
     "title": "[英] First tunnel element of the Fehmarnbelt Tunnel immersed",
     "date": "2026-05-11"
@@ -57,21 +72,6 @@
   {
     "link": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
     "title": "[英] Stop MitM on the first SSH connection, on any VPS or cloud provider",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-    "title": "[英] Hardware Attestation as Monopoly Enabler",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.quarter--mile.com/The-Locals-Dont-Know",
-    "title": "[英] The locals don't know",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
-    "title": "[英] Spain has become one of Europe’s cheapest power markets",
     "date": "2026-05-11"
   }
 ]
