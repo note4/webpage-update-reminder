@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://blog.dochia.dev/blog/idempotency/",
+    "title": "[英] Idempotency Is Easy Until the Second Request Is Different",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
+    "title": "[英] Rotten Dot Com",
+    "date": "2026-05-10"
+  },
+  {
     "link": "https://medium.com/hackernoon/introducing-immer-immutability-the-easy-way-9d73d8f71cb3",
     "title": "[英] Immer: Immutability the easy way (2018)",
     "date": "2026-05-10"
@@ -62,16 +72,6 @@
   {
     "link": "https://theamericanscholar.org/on-the-trail-of-jeremiah/",
     "title": "[英] The Trail of Jeremiah",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
-    "title": "[英] I'm writing a history of Visual Basic, Chapter 1 is up",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
-    "title": "[英] The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
     "date": "2026-05-10"
   }
 ]
