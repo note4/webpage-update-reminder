@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://medium.com/hackernoon/introducing-immer-immutability-the-easy-way-9d73d8f71cb3",
+    "title": "[英] Immer: Immutability the easy way (2018)",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://www.cnn.com/2026/05/07/business/jobs-small-business-trump-economy",
+    "title": "[英] Jobs at mom-and-pop shops are disappearing",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+    "title": "[英] Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+    "date": "2026-05-10"
+  },
+  {
     "link": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
     "title": "[英] Debian must ship reproducible packages",
     "date": "2026-05-10"
@@ -57,21 +72,6 @@
   {
     "link": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
     "title": "[英] The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/",
-    "title": "[英] User just tricked Grok and Bankrbot to send tokens with Morse code",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
-    "title": "[英] Surfel-based global illumination on the web",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
-    "title": "[英] The Serial TTL connector we deserve",
     "date": "2026-05-10"
   }
 ]
