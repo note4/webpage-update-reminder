@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.quarter--mile.com/The-Locals-Dont-Know",
+    "title": "[英] The Locals Don't Know",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
+    "title": "[英] Spain just became one of Europe's cheapest power markets. Here is how",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://tracesofhumanity.org/hello-world/",
+    "title": "[英] Tracesofhumanity.org by Joanna Rutkowska",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
+    "title": "[英] 5x perf increase on writes with FPW disabled in Postgres",
+    "date": "2026-05-11"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=48085384",
     "title": "[英] Remind HN: Today is Mother's Day, call your moms",
     "date": "2026-05-11"
@@ -15,13 +35,13 @@
     "date": "2026-05-11"
   },
   {
-    "link": "https://theindex.fyi",
-    "title": "[英] Show HN: An index of indie web/blog indexes",
+    "link": "https://dbushell.com/2026/04/29/github-is-sinking/",
+    "title": "[英] GitHub Is Sinking",
     "date": "2026-05-11"
   },
   {
-    "link": "https://dbushell.com/2026/04/29/github-is-sinking/",
-    "title": "[英] GitHub Is Sinking",
+    "link": "https://theindex.fyi",
+    "title": "[英] Show HN: An index of indie web/blog indexes",
     "date": "2026-05-11"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://www.taxpayeradvocate.irs.gov/news/nta-blog/tens-of-millions-of-taxpayers-may-be-eligible-for-significant-tax-refunds/2026/04/",
     "title": "[英] Taxpayers May Be Eligible for Significant Tax Refunds – If They Act by July 10",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://rarehistoricalphotos.com/weird-japanese-inventions/",
-    "title": "[英] Chindogu: Weird and Useless Japanese Inventions",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.rewildingmag.com/the-river-otters-remarkable-comeback/",
-    "title": "[英] The River Otter's Remarkable Comeback",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
-    "title": "[英] What's a Mathematician to Do?",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.seangoedecke.com/the-left-wing-case-for-ai/",
-    "title": "[英] The left-wing case for AI",
     "date": "2026-05-11"
   }
 ]
