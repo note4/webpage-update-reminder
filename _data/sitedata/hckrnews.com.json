@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://arxiv.org/abs/2605.05419",
+    "title": "[英] LLMorphism: When humans come to see themselves as language models",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+    "title": "[英] Task Paralysis and AI",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://cookingthehashishcookbook.com/",
+    "title": "[英] Cooking the Hashish Cookbook",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount",
+    "title": "[英] Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
+    "date": "2026-05-10"
+  },
+  {
     "link": "https://blog.dochia.dev/blog/idempotency/",
     "title": "[英] Idempotency Is Easy Until the Second Request Is Different",
     "date": "2026-05-10"
@@ -52,26 +72,6 @@
   {
     "link": "https://github.com/imtomt/ymawky",
     "title": "[英] Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-    "title": "[英] Casio S100X Japanese Lacquer Edition (JP Page Only)",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
-    "title": "[英] Sparse Cholesky Elimination Tree",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://twitter.com/tszzl/status/2053022747765457005",
-    "title": "[英] Opus 4.7 and DeepSeek V4-Pro select Buddhism as preferred religion",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://theamericanscholar.org/on-the-trail-of-jeremiah/",
-    "title": "[英] The Trail of Jeremiah",
     "date": "2026-05-10"
   }
 ]
