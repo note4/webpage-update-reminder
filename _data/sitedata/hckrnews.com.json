@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
+    "title": "[英] The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/",
+    "title": "[英] User just tricked Grok and Bankrbot to send tokens with Morse code",
+    "date": "2026-05-10"
+  },
+  {
+    "link": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
+    "title": "[英] Surfel-based global illumination on the web",
+    "date": "2026-05-10"
+  },
+  {
     "link": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
     "title": "[英] The Serial TTL connector we deserve",
     "date": "2026-05-10"
@@ -21,7 +36,7 @@
   },
   {
     "link": "https://sundaicity.com/blogs/getting-arrested-in-japan",
-    "title": "[英] Getting Arrested in Japan",
+    "title": "[英] Getting arrested in Japan",
     "date": "2026-05-10"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
     "title": "[英] FreeBSD: Local Privilege Escalation via Execve()",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://www.copahost.com/blog/dirty-frag-cve-2026-43284/",
-    "title": "[英] \"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
-    "title": "[英] Production engineering when trading billions of dollars a day [video]",
-    "date": "2026-05-10"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-    "title": "[英] Meta's embrace of A.I. is making its employees miserable",
     "date": "2026-05-10"
   }
 ]
