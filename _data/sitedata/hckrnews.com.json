@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://github.com/mamba-studio/TypedMemory",
+    "title": "[英] Library for fast mapping of Java records to native memory",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
+    "title": "[英] Counting Fast in Erlang with:counters and:atomics",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
+    "title": "[英] Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
+    "title": "[英] The Boston Library Where You Still Can Borrow a Giant Puppet",
+    "date": "2026-05-12"
+  },
+  {
     "link": "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602",
     "title": "[英] Microsoft Israel chief leaves amid ethical controversy",
     "date": "2026-05-12"
@@ -52,26 +72,6 @@
   {
     "link": "https://www.theatlantic.com/newsletters/archive/2023/02/friendship-aging/673026/",
     "title": "[英] Why we lose our friends as we age (2023)",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-    "title": "[英] Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://kurtis.weblog.lol/2026/05/whats-wrong-with-ai",
-    "title": "[英] What's Wrong with AI?",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://hugoib.beehiiv.com/p/how-are-we-going-to-get-out-of-meta-or-social-media-in-general",
-    "title": "[英] How are we going to get out of Meta? (Or social media in general)",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://botcost.dev",
-    "title": "[英] Show HN: Free tool to see how much AI bots are costing your site",
     "date": "2026-05-12"
   }
 ]
