@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://bsidesaustin.com/",
+    "title": "[英] BSides Austin Is on Hold",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://willmanning.com/writing/conways-law-and-cross-hatching",
+    "title": "[英] Conway's Law and Cross-Hatching",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://roadlessread.com/views/ss-macwright",
+    "title": "[英] Shelf Source: Tom MacWright",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+    "title": "[英] The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://delphinightmares.substack.com/p/dbase-1979-2026",
+    "title": "[英] dBase: 1979-2026",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+    "title": "[英] I'm going back to writing code by hand",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+    "title": "[英] How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://www.brendanoconnor.net/case-studies/microsoft-enterprise-channel/",
+    "title": "[英] I designed Microsoft's EA channel in 2001. It's being dismantled in 2026",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48089319",
+    "title": "[英] undefined",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+    "title": "[英] An AI coding agent, used to write code, needs to reduce your maintenance costs",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
+    "title": "[英] Make America AI ready: Strengths, weaknesses, and recommendations",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://yalereview.org/article/james-schuylers-genius",
+    "title": "[英] James Schuyler's Genius",
+    "date": "2026-05-11"
+  },
+  {
     "link": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
     "title": "[英] PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
     "date": "2026-05-11"
@@ -12,66 +72,6 @@
   {
     "link": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
     "title": "[英] Guy Goma's Accidental BBC Interview Lives on After 20 Years",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.androidauthority.com/plex-price-hikes-get-jellyfin-3663600/",
-    "title": "[英] Plex's price hikes prove I was right to switch to Jellyfin",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-    "title": "[英] Obsidian plugin was abused to deploy a remote access trojan",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
-    "title": "[英] First tunnel element of the Fehmarnbelt Tunnel immersed",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep",
-    "title": "[英] Why modern parents feel more sleep deprived than our ancestors did",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
-    "title": "[英] Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://thenarwhal.ca/bird-banding-ontario/",
-    "title": "[英] The people preserving the scientific practice of bird banding",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.cbc.ca/news/science/spacex-data-centre-one-million-satellites-9.7117772",
-    "title": "[英] SpaceX wants to launch a million satellites",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://thechipletter.substack.com/p/eight-more-8-bit-era-microprocessors",
-    "title": "[英] Eight More 8-bit Era Microprocessors (2024)",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://ycombinator.fyi/",
-    "title": "[英] YC's Biggest Scandals",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-    "title": "[英] Local AI needs to be the norm",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://dechifro.org/dcraw/",
-    "title": "[英] Decoding raw digital photos in Linux (1997)",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48085993",
-    "title": "[英] Ask HN: What are you working on? (May 2026)",
     "date": "2026-05-11"
   }
 ]
