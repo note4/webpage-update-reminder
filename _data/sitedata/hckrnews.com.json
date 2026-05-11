@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Bliss_(photograph)",
+    "title": "[英] Bliss (Photograph)",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://github.com/phel-lang/phel-lang/releases/tag/v0.36.0",
+    "title": "[英] Phel v0.36.0 – Lisp on PHP, now with numeric tower and first-class Vars",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://www.npr.org/2026/05/08/nx-s1-5749358/trump-truth-social-online-posts-iran-white-house-ballroom",
+    "title": "[英] Truth Social lays bare narrow obsessions of an online president",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv",
+    "title": "[英] Writers are fleeing the Substack Tax",
+    "date": "2026-05-11"
+  },
+  {
+    "link": "https://tautme.github.io/phone-sensors/accel-tuner.html",
+    "title": "[英] Guitar tuner that uses phone accelerometer",
+    "date": "2026-05-11"
+  },
+  {
     "link": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
     "title": "[英] Mythos Finds a Curl Vulnerability",
     "date": "2026-05-11"
@@ -47,31 +72,6 @@
   {
     "link": "https://roadlessread.com/views/ss-macwright",
     "title": "[英] Shelf Source: Tom MacWright",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-    "title": "[英] The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://delphinightmares.substack.com/p/dbase-1979-2026",
-    "title": "[英] dBase: 1979-2026",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-    "title": "[英] I'm going back to writing code by hand",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-    "title": "[英] How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-    "date": "2026-05-11"
-  },
-  {
-    "link": "https://www.brendanoconnor.net/case-studies/microsoft-enterprise-channel/",
-    "title": "[英] I designed Microsoft's EA channel in 2001. It's being dismantled in 2026",
     "date": "2026-05-11"
   }
 ]
