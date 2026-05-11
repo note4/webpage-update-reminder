@@ -1,12 +1,52 @@
 [
   {
+    "link": "https://thinkingmachines.ai/blog/interaction-models/",
+    "title": "[英] Interaction Models",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://github.com/TanStack/router/issues/7383",
+    "title": "[英] TanStack NPM Packages Compromised",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://about.gitlab.com/blog/gitlab-act-2/",
+    "title": "[英] GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://github.com/Mnexa-AI/e2a",
+    "title": "[英] Show HN: E2a – Open-source email gateway for AI agents",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+    "title": "[英] Google says criminal hackers used AI to find a major software flaw",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil",
+    "title": "[英] The rise and fall of snake oil",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+    "title": "[英] I let AI build a tool to help me figure out what was waking me up at night",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://user8.bearblog.dev/rant/",
+    "title": "[英] I hate soldering existentially",
+    "date": "2026-05-12"
+  },
+  {
     "link": "https://github.com/ab-613/opengravity",
     "title": "[英] Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
     "date": "2026-05-12"
   },
   {
     "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-    "title": "[英] If AI Writes Your Code, Why Use Python?",
+    "title": "[英] If AI writes your code, why use Python?",
     "date": "2026-05-12"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
     "title": "[英] UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://www.hollywoodreporter.com/music/music-industry-news/wmg-acquired-red-hot-chili-peppers-catalog-for-350-million-1236589567/",
-    "title": "[英] Red Hot Chili Peppers ink $300M deal with Warner Music to sell catalog",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://github.com/mamba-studio/TypedMemory",
-    "title": "[英] Library for fast mapping of Java records to native memory",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
-    "title": "[英] Counting Fast in Erlang with:counters and:atomics",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-    "title": "[英] Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
-    "title": "[英] The Boston library where you still can borrow a giant puppet",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602",
-    "title": "[英] Microsoft Israel chief leaves amid ethical controversy",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://bild.ai/jobs",
-    "title": "[英] Bild AI (YC W25) Is Hiring Founding Product Engineers",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
-    "title": "[英] Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
     "date": "2026-05-12"
   }
 ]
