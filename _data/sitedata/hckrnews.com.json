@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://github.com/ab-613/opengravity",
+    "title": "[英] Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+    "title": "[英] If AI Writes Your Code, Why Use Python?",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://finance.yahoo.com/markets/stocks/articles/590-000-buyers-paid-59-223500998.html",
+    "title": "[英] 590k buyers paid $59M for Trump's gold phone, but not one has shipped",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "http://picmel.com/blog/outlook-dpi-scaling-bug",
+    "title": "[英] Outlook on Windows silently scales your email by 1.5×",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://gilesorr.com/blog/linux-terminal-memory-usage.html",
+    "title": "[英] Linux Terminal Memory Usage",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/",
+    "title": "[英] What a Japanese cooking principle taught me about overcoming AI fatigue",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+    "title": "[英] UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://www.hollywoodreporter.com/music/music-industry-news/wmg-acquired-red-hot-chili-peppers-catalog-for-350-million-1236589567/",
+    "title": "[英] Red Hot Chili Peppers ink $300M deal with Warner Music to sell catalog",
+    "date": "2026-05-12"
+  },
+  {
     "link": "https://github.com/mamba-studio/TypedMemory",
     "title": "[英] Library for fast mapping of Java records to native memory",
     "date": "2026-05-12"
@@ -16,7 +56,7 @@
   },
   {
     "link": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
-    "title": "[英] The Boston Library Where You Still Can Borrow a Giant Puppet",
+    "title": "[英] The Boston library where you still can borrow a giant puppet",
     "date": "2026-05-12"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
     "title": "[英] Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online",
-    "title": "[英] Should you leave red herrings about yourself online?",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://supernuclear.substack.com/p/building-a-space-people-never-want",
-    "title": "[英] Holding Community Space",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://www.a-side.social/blog/how-to-leave-instagram/",
-    "title": "[英] How to Leave Instagram",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-    "title": "[英] Interfaze: A new model architecture built for high accuracy at scale",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://old.reddit.com/r/UIUC/comments/1ta8b3o/i_opened_my_email_expecting_exam_postponed_hang/",
-    "title": "[英] Canvas got hacked, provost banned exams, professor responded by assigning Hayek",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://nvlabs.github.io/cuda-oxide/index.html",
-    "title": "[英] CUDA-oxide: Nvidia's official Rust to CUDA compiler",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://andreaturchet.github.io/website/index.html",
-    "title": "[英] Show HN: TikTok but for Scientific Papers",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://www.theatlantic.com/newsletters/archive/2023/02/friendship-aging/673026/",
-    "title": "[英] Why we lose our friends as we age (2023)",
     "date": "2026-05-12"
   }
 ]
