@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/05/12/openai-daybreak-codex-securityintel-cisco/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "聯手 Intel、Cisco 等巨頭！OpenAI 推出 Daybreak，打造橫跨軟體供應鏈的資安防線",
+    "date": "2026-05-12 14:34:46"
+  },
+  {
+    "link": "https://techorange.com/2026/05/12/google-hackers-attack-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Google 首次攔截 AI 零日攻擊，駭客武器化漏洞的高速戰役正式開打",
+    "date": "2026-05-12 12:40:11"
+  },
+  {
+    "link": "https://techorange.com/2026/05/12/openai-launches-the-deployment-company/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 成立 Deployment Company：引進 150 名前線部署專家，瞄準企業 AI 落地難題",
+    "date": "2026-05-12 12:32:36"
+  },
+  {
     "link": "https://techorange.com/2026/05/12/sting-tao-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "軟體開發成本趨近於零，企業護城河還剩什麼？陶韻智：下一個競爭關鍵是獲客、價值主張與 AI 管理力",
     "date": "2026-05-12 10:43:26"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/05/08/cloudmile-google-cloud-wiz-aiagents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【Google Cloud NEXT 2026】AI 時代資安怎麼做？Google Cloud 聯手 Wiz，從「防駭」走向自動化防禦",
     "date": "2026-05-08 18:29:22"
-  },
-  {
-    "link": "https://techorange.com/2026/05/08/autonomous-vehicles-technology-other-uses/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "自駕車商業化卡關，感測技術卻先突圍：LiDAR、雷達與 3D 感測如何打開港口、機器人與智慧城市新市場？",
-    "date": "2026-05-08 17:49:59"
-  },
-  {
-    "link": "https://techorange.com/2026/05/08/eu-countries-lawmakers-strike-provisional-ai-rules/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【AI 監管降溫】歐盟 AI 法案首次重大讓步，高風險規範延後一年生效",
-    "date": "2026-05-08 17:49:02"
-  },
-  {
-    "link": "https://techorange.com/2026/05/08/amazon-bedrock-agentcore-payments-x402-coinbase/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 開啟穩定幣交易新時代：AWS 攜 Stripe、Coinbase 發表 AI 代理金融系統",
-    "date": "2026-05-08 13:58:44"
   }
 ]
