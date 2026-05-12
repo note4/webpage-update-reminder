@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy",
+    "title": "[英] Remembering Planet Source Code: Sharing Code Before GitHub Made It Easy",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://github.com/pion/rtwatch",
+    "title": "[英] Rtwatch: Watch videos with friends using WebRTC",
+    "date": "2026-05-12"
+  },
+  {
     "link": "https://semiengineering.com/when-semiconductor-materials-misbehave/",
     "title": "[英] When semiconductor materials misbehave",
     "date": "2026-05-12"
@@ -62,16 +72,6 @@
   {
     "link": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
     "title": "[英] Fake building: Claude wrote 3k lines instead of import pywikibot",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://github.com/davmlaw/they_live_adblocker",
-    "title": "[英] They Live (1988) inspired Adblocker",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/",
-    "title": "[英] A lost ancient script reveals how writing as we know it began",
     "date": "2026-05-12"
   }
 ]
