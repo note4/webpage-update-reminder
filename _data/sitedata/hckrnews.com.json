@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+    "title": "[英] Foucault's Order of Things Explained with Trading Cards [video]",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+    "title": "[英] Kraftwerk's radical 1976 track",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant",
+    "title": "[英] EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
+    "date": "2026-05-13"
+  },
+  {
     "link": "https://x86.lol/generic/2022/11/26/lanzaboote.html",
     "title": "[英] Lanzaboote – NixOS Secure Boot",
     "date": "2026-05-13"
@@ -57,21 +72,6 @@
   {
     "link": "https://chreke.com/posts/sql-incorrect-by-construction",
     "title": "[英] SQL: Incorrect by Construction",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://amrshawky.com/posts/we-accidentally-recreated-fb/",
-    "title": "[英] We accidentally recreated old Facebook",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/",
-    "title": "[英] The Rise of the Bullshittery",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-    "title": "[英] Quack: The DuckDB Client-Server Protocol",
     "date": "2026-05-13"
   }
 ]
