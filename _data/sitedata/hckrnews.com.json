@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+    "title": "[英] Quack: The DuckDB Client-Server Protocol",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://github.com/cactus-compute/needle",
+    "title": "[英] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://themoth.org/dispatches/story-map",
+    "title": "[英] The Moth Story Map",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+    "title": "[英] CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://www.thecooldown.com/green-business/ai-data-center-vineland-new-jersey-backlash/",
+    "title": "[英] New Jersey residents say they can't even wash their clothes due to data centers",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://www.lttlabs.com/articles/2026/05/12/ups-exploration",
+    "title": "[英] Testing UPS Output Waveforms",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://deepmind.google/blog/ai-pointer/",
+    "title": "[英] Reimagining the mouse pointer for the AI era",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://github.com/statewright/statewright",
+    "title": "[英] Show HN: Statewright – Visual state machines that make AI agents reliable",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+    "title": "[英] Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+    "title": "[英] Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://googlebook.google/",
+    "title": "[英] Googlebook",
+    "date": "2026-05-13"
+  },
+  {
     "link": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
     "title": "[英] When life gives you lemons, write better error messages",
     "date": "2026-05-13"
@@ -17,61 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48110593",
     "title": "[英] Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-    "title": "[英] Why senior developers fail to communicate their expertise",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://storica.club/blog/troy-was-real/",
-    "title": "[英] The Real Story of Troy",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
-    "title": "[英] Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.wheresyoured.at/where-are-all-the-data-centers/",
-    "title": "[英] Where Are All the Data Centers?",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://obsidian.md/blog/future-of-plugins/",
-    "title": "[英] The Future of Obsidian Plugins",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://voker.ai",
-    "title": "[英] Launch HN: Voker (YC S24) – Analytics for AI Agents",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.epicfurious.com/",
-    "title": "[英] Operation: Epic Furious",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
-    "title": "[英] eBay Rejects GameStop's $56B Takeover as Not Credible",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Jank%C3%B3_keyboard",
-    "title": "[英] Jankó Keyboard",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-    "title": "[英] Bambu Lab is abusing the open source social contract",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.jvt.me/posts/2026/05/12/open-source/",
-    "title": "[英] I hate the recent open-source rise",
     "date": "2026-05-13"
   }
 ]
