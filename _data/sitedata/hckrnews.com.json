@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://x86.lol/generic/2022/11/26/lanzaboote.html",
+    "title": "[英] Lanzaboote – NixOS Secure Boot",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+    "title": "[英] Restore full BambuNetwork support for Bambu Lab printers",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
+    "title": "[英] Israel's AI targeting system: how data from a phone become a death sentence",
+    "date": "2026-05-13"
+  },
+  {
     "link": "https://www.theguardian.com/us-news/2026/may/09/los-angeles-subway-public-transportation",
     "title": "[英] Riding the D in Los Angeles: city hopes new subway stations will be game changer",
     "date": "2026-05-13"
@@ -57,21 +72,6 @@
   {
     "link": "https://duckdb.org/2026/05/12/quack-remote-protocol",
     "title": "[英] Quack: The DuckDB Client-Server Protocol",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://github.com/cactus-compute/needle",
-    "title": "[英] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://themoth.org/dispatches/story-map",
-    "title": "[英] The Moth Story Map",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-    "title": "[英] CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
     "date": "2026-05-13"
   }
 ]
