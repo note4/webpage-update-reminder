@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://unsung.aresluna.org/a-preview-of-the-future/",
+    "title": "[英] A Preview of the Future",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://arxiv.org/abs/2605.05242",
+    "title": "[英] Beyond Semantic Similarity",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+    "title": "[英] How to make your text look futuristic",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/",
+    "title": "[英] Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams",
+    "title": "[英] Unauthorized Anthropic stock sales and investment scams",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://chreke.com/posts/sql-incorrect-by-construction",
+    "title": "[英] SQL: Incorrect by Construction",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://amrshawky.com/posts/we-accidentally-recreated-fb/",
+    "title": "[英] We accidentally recreated old Facebook",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/",
+    "title": "[英] The Rise of the Bullshittery",
+    "date": "2026-05-13"
+  },
+  {
     "link": "https://duckdb.org/2026/05/12/quack-remote-protocol",
     "title": "[英] Quack: The DuckDB Client-Server Protocol",
     "date": "2026-05-13"
@@ -32,46 +72,6 @@
   {
     "link": "https://deepmind.google/blog/ai-pointer/",
     "title": "[英] Reimagining the mouse pointer for the AI era",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://github.com/statewright/statewright",
-    "title": "[英] Show HN: Statewright – Visual state machines that make AI agents reliable",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
-    "title": "[英] Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
-    "title": "[英] Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://googlebook.google/",
-    "title": "[英] Googlebook",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
-    "title": "[英] When life gives you lemons, write better error messages",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.hypercubic.ai/hopper",
-    "title": "[英] Show HN: Agentic interface for mainframes and COBOL",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
-    "title": "[英] Instructure pays ransom to Canvas hackers",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48110593",
-    "title": "[英] Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
     "date": "2026-05-13"
   }
 ]
