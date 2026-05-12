@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.theguardian.com/us-news/2026/may/09/los-angeles-subway-public-transportation",
+    "title": "[英] Riding the D in Los Angeles: city hopes new subway stations will be game changer",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://www.reuters.com/sustainability/society-equity/meta-us-employees-organize-protest-against-mouse-tracking-tech-2026-05-12/",
+    "title": "[英] Meta employees protest against mouse tracking tech at US offices",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650",
+    "title": "[英] Is this why science advances one funeral at a time?",
+    "date": "2026-05-13"
+  },
+  {
     "link": "https://unsung.aresluna.org/a-preview-of-the-future/",
     "title": "[英] A Preview of the Future",
     "date": "2026-05-13"
@@ -11,7 +26,7 @@
   },
   {
     "link": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-    "title": "[英] How to make your text look futuristic",
+    "title": "[英] How to make your text look futuristic (2016)",
     "date": "2026-05-13"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
     "title": "[英] CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.thecooldown.com/green-business/ai-data-center-vineland-new-jersey-backlash/",
-    "title": "[英] New Jersey residents say they can't even wash their clothes due to data centers",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.lttlabs.com/articles/2026/05/12/ups-exploration",
-    "title": "[英] Testing UPS Output Waveforms",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://deepmind.google/blog/ai-pointer/",
-    "title": "[英] Reimagining the mouse pointer for the AI era",
     "date": "2026-05-13"
   }
 ]
