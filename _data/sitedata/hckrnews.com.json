@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Jank%C3%B3_keyboard",
+    "title": "[英] Jankó Keyboard",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+    "title": "[英] Bambu Lab is abusing the open source social contract",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://www.jvt.me/posts/2026/05/12/open-source/",
+    "title": "[英] I hate the recent open-source rise",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html",
+    "title": "[英] Analysis points to a unexpected cause of reading difficulties",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://www.economist.com/asia/2026/05/07/the-gutting-of-usaid-has-left-a-void-china-will-not-fill",
+    "title": "[英] The gutting of USAID has left a void China will not fill",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://poolside.ai/blog/through-the-looking-glass",
+    "title": "[英] Through the looking glass of benchmark hacking",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://www.construction-physics.com/p/the-surprisingly-long-life-of-the",
+    "title": "[英] The Surprisingly Long Life of the Vacuum Tube",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c202pgxx89lo",
+    "title": "[英] US inflation jumps to 3.8% as energy costs surge from Iran war",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+    "title": "[英] Rendering the Sky, Sunsets, and Planets",
+    "date": "2026-05-12"
+  },
+  {
+    "link": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
+    "title": "[英] Profiling.sampling – Statistical Profiler",
+    "date": "2026-05-12"
+  },
+  {
     "link": "https://liquidream.itch.io/undune2",
     "title": "[英] UnDUNE II",
     "date": "2026-05-12"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
     "title": "[英] Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48104663",
-    "title": "[英] A HN post with negative points – how?",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://bogomolov.work/blog/posts/wasm-vs-docker/",
-    "title": "[英] Docker images are MB; a full game engine compiles to 35MB WASM",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
-    "title": "[英] EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/",
-    "title": "[英] Coursera and Udemy are now one company",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Yabasic",
-    "title": "[英] Yabasic (Yet Another Basic)",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://www.echooff.dev/blog/developer-experience-is-a-performance-feature",
-    "title": "[英] Optimize for change not application performance",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/",
-    "title": "[英] Unitree GD01: China's $537k rideable transformer robot is now in production",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://arc.quanten.co/archetype",
-    "title": "[英] Music has scales / raagas. What about storytelling in movies and prestige shows?",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://www.phoronix.com/news/HDMI-2.1-DSC-AMDGPU-FRL",
-    "title": "[英] HDMI 2.1 Display Stream Compression (DSC) Ready for Amdgpu Linux Driver",
-    "date": "2026-05-12"
-  },
-  {
-    "link": "https://matklad.github.io/2026/05/12/software-architecture.html",
-    "title": "[英] Learning Software Architecture",
     "date": "2026-05-12"
   }
 ]
