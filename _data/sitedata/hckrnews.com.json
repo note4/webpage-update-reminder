@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://kerkour.com/the-limits-of-rust",
+    "title": "[英] The limits of Rust, or why you should probably not follow Amazon and Cloudflare",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://dynomight.net/lifespan/",
+    "title": "[英] Heritability of human life span is ~50% when heritability is redefined",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://fredchan.org/blog/locality-domains-guide/",
+    "title": "[英] Setting up a free *.city.state.us locality domain",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://greem.co.uk/otherbits/jelly.html",
+    "title": "[英] Nailing jelly to a wall: is it possible? (2005)",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/",
+    "title": "[英] The AI Backlash Could Get Ugly",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+    "title": "[英] The US Is Winning the AI Race",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+    "title": "[英] Reverting the incremental GC in Python 3.14 and 3.15",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
+    "title": "[英] Software Developers Say AI Is Rotting Their Brains",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
+    "title": "[英] Dutch suicide prevention website shares data with tech companies without consent",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+    "title": "[英] Why I'm leaving GitHub for Forgejo",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
+    "title": "[英] An idiot's guide to lead optimisation for proteins",
+    "date": "2026-05-13"
+  },
+  {
     "link": "https://f055.net/thattimei/that-time-i-asked-ai-to-write-sci-fi-for-eternity/",
     "title": "[英] Show HN: I asked AI to write Sci-Fi for eternity",
     "date": "2026-05-13"
@@ -17,61 +72,6 @@
   {
     "link": "http://wii.sjmulder.nl/",
     "title": "[英] Web Server on a Nintendo Wii",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://twitter.com/v12sec/status/2054491454064746629",
-    "title": "[英] Another day, another universal Linux LPE",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
-    "title": "[英] Cost of enum-to-string: C++26 reflection vs. the old ways",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-    "title": "[英] I Moved My Digital Stack to Europe",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-    "title": "[英] Preserving Fisher-Price Pixter",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/",
-    "title": "[英] The Boring Part of Bell Labs (2025)",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-    "title": "[英] New stainless steel can survive conditions for hydrogen production in seawater",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.thestandard.com.hk/world/article/331886/I-applied-to-be-pope-Losing-grip-on-reality-while-using-ChatGPT",
-    "title": "[英] “I applied to be pope”: Losing grip on reality while using ChatGPT",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://blogsystem5.substack.com/p/no-basic-in-endbasic",
-    "title": "[英] What if there was no BASIC in EndBASIC?",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
-    "title": "[英] SecurityBaseline.eu",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://aluminium-os.com/",
-    "title": "[英] AluminiumOS, by Google: Android Reimagined for the Desktop",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48118573",
-    "title": "[英] undefined",
     "date": "2026-05-13"
   }
 ]
