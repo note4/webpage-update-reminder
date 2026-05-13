@@ -1,8 +1,8 @@
 [
   {
-    "link": "https://blog.google/products-and-platforms/products/chrome/bringing-chrome-ai-to-android/",
-    "title": "[英] Bringing the best of Gemini in Chrome to Android",
-    "date": "2026-05-13 01:00:00"
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/scams-fraud-protection/",
+    "title": "[英] Our fight against fraud: 5 ways we’re keeping you safer",
+    "date": "2026-05-13 14:00:00"
   },
   {
     "link": "https://blog.google/products-and-platforms/platforms/android/meet-googlebook/",
@@ -10,13 +10,13 @@
     "date": "2026-05-13 01:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/platforms/android/android-17-creator-features/",
-    "title": "[英] More ways to create and share with Android",
+    "link": "https://blog.google/products-and-platforms/products/chrome/bringing-chrome-ai-to-android/",
+    "title": "[英] Bringing the best of Gemini in Chrome to Android",
     "date": "2026-05-13 01:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/platforms/android/pause-point/",
-    "title": "[英] Reclaim your time with Pause Point.",
+    "link": "https://blog.google/products-and-platforms/platforms/android/android-17-creator-features/",
+    "title": "[英] More ways to create and share with Android",
     "date": "2026-05-13 01:00:00"
   },
   {
@@ -35,13 +35,18 @@
     "date": "2026-05-13 01:00:00"
   },
   {
+    "link": "https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
+    "title": "[英] The Android Show: I/O Edition 2026",
+    "date": "2026-05-13 01:00:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/",
     "title": "[英] A smarter, more proactive Android with Gemini Intelligence",
     "date": "2026-05-13 01:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
-    "title": "[英] The Android Show: I/O Edition 2026",
+    "link": "https://blog.google/products-and-platforms/platforms/android/pause-point/",
+    "title": "[英] Reclaim your time with Pause Point.",
     "date": "2026-05-13 01:00:00"
   },
   {
@@ -68,10 +73,5 @@
     "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
     "title": "[英] The new AI-powered Google Finance is expanding to Europe.",
     "date": "2026-05-11 14:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-    "title": "[英] See what happens when creative legends use AI to make ads for small businesses.",
-    "date": "2026-05-08 23:00:00"
   }
 ]

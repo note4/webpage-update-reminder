@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://blogsystem5.substack.com/p/no-basic-in-endbasic",
+    "title": "[英] What if there was no BASIC in EndBASIC? – by Julio Merino",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
+    "title": "[英] European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://aluminium-os.com/",
+    "title": "[英] AluminiumOS, by Google: Android Reimagined for the Desktop",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://www.mynameisfeng.com/blog/one-startup-is-gambling-ten-is-mathematics",
+    "title": "[英] One Startup Is Gambling. Ten Is Mathematics",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://github.com/user-with-username/crow",
+    "title": "[英] I made rust's cargo copy but for CPP",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://thebaffler.com/odds-and-ends/the-profession-that-does-not-exist-symposium",
+    "title": "[英] Up in Smoke",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://www.wink.co/documentation/Neural-Super-Resolution-Pre-Filter-LPR-2026",
+    "title": "[英] We tested super-resolution pre-filter for LPR OCR. It did nothing",
+    "date": "2026-05-13"
+  },
+  {
     "link": "https://arxiv.org/abs/2605.08419",
     "title": "[英] Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
     "date": "2026-05-13"
@@ -37,41 +72,6 @@
   {
     "link": "https://gardinerbryant.com/you-dont-look-like-a-gamer/",
     "title": "[英] You Don't Look Like a Gamer: On Toxicity, Gatekeeping, & Women Who Share Gaming",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.spacex.com/updates#starship-v3",
-    "title": "[英] Starship V3",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://github.com/tracewayapp/traceway",
-    "title": "[英] Traceway: MIT-licensed observability stack you can self-host in ~90s",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-    "title": "[英] When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.bayareaeconomy.org/files/pdf/CostofDoingBusiness_TaxStudy_May2026.pdf",
-    "title": "[英] The Cost of Doing Business: How SF's Tax Structure Constrains Economic Growth [pdf]",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
-    "title": "[英] Scrcpy v4.0",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://github.com/xtellect/fc",
-    "title": "[英] Fc, a lossless compressor for floating-point streams",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.savethearchive.com/newsleaders/",
-    "title": "[英] Tell NYT, Atlantic, USA Today to keep Wayback Machine",
     "date": "2026-05-13"
   }
 ]
