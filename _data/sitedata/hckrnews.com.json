@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+    "title": "[英] A History of IDEs at Google",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://www.tryardent.com/",
+    "title": "[英] Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://www.haiku-os.org",
+    "title": "[英] Haiku",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html",
+    "title": "[英] U.S. intelligence shows Iran retains substantial missile capabilities",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://www.phoronix.com/news/Linux-Fragnesia",
+    "title": "[英] Fragnesia Made Public as Latest Linux Local Privilege Escalation Vulnerability",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://www.siliconcontinent.com/p/european-stagnation-is-real",
+    "title": "[英] European Stagnation Is Real",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://grantmestrength.github.io/S100/",
+    "title": "[英] S-100 Virtual Workbench",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://github.com/nooga/xsofy",
+    "title": "[英] Xs of Y – roguelike that names itself every run. Written in 4kLoC",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://ossresistance.com/",
+    "title": "[英] Open Source Resistance: keep OSS alive on company time",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/",
+    "title": "[英] 50K Tahoe residents need power as utility eyes redirecting lines to data centers",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
+    "title": "[英] Kickstarter is forced to ban adult content by payment processors",
+    "date": "2026-05-14"
+  },
+  {
     "link": "https://kerkour.com/the-limits-of-rust",
     "title": "[英] The limits of Rust, or why you should probably not follow Amazon and Cloudflare",
-    "date": "2026-05-13"
+    "date": "2026-05-14"
   },
   {
     "link": "https://dynomight.net/lifespan/",
     "title": "[英] Heritability of human life span is ~50% when heritability is redefined",
-    "date": "2026-05-13"
+    "date": "2026-05-14"
   },
   {
     "link": "https://fredchan.org/blog/locality-domains-guide/",
     "title": "[英] Setting up a free *.city.state.us locality domain",
-    "date": "2026-05-13"
+    "date": "2026-05-14"
   },
   {
     "link": "https://greem.co.uk/otherbits/jelly.html",
     "title": "[英] Nailing jelly to a wall: is it possible? (2005)",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/",
-    "title": "[英] The AI Backlash Could Get Ugly",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-    "title": "[英] The US Is Winning the AI Race",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-    "title": "[英] Reverting the incremental GC in Python 3.14 and 3.15",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
-    "title": "[英] Software Developers Say AI Is Rotting Their Brains",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
-    "title": "[英] Dutch suicide prevention website shares data with tech companies without consent",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-    "title": "[英] Why I'm leaving GitHub for Forgejo",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
-    "title": "[英] An idiot's guide to lead optimisation for proteins",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://f055.net/thattimei/that-time-i-asked-ai-to-write-sci-fi-for-eternity/",
-    "title": "[英] Show HN: I asked AI to write Sci-Fi for eternity",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html",
-    "title": "[英] Using OR-Tools CP-SAT for Scheduling Problems",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
-    "title": "[英] Substrate (YC S24) Is Hiring a Technical Success Manager",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "http://wii.sjmulder.nl/",
-    "title": "[英] Web Server on a Nintendo Wii",
-    "date": "2026-05-13"
+    "date": "2026-05-14"
   }
 ]
