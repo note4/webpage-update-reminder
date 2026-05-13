@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.jackhogan.me/blog/marco-polo",
+    "title": "[英] Marco Polo: Finding a friend with only distance and motion",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48128003",
+    "title": "[英] Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+    "date": "2026-05-14"
+  },
+  {
     "link": "https://medium.com/@noborutakahashi/a-40-year-old-memory-map-comparable-to-todays-raspberry-pi-pico-932c4309260d",
     "title": "[英] Comparing a 1980s memory map to the Raspi Pico",
     "date": "2026-05-14"
@@ -61,17 +71,7 @@
   },
   {
     "link": "https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/",
-    "title": "[英] The great memory panic of 2026",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48125194",
-    "title": "[英] undefined",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://nginx.org/en/CHANGES",
-    "title": "[英] Nginx.org/En/Changes",
+    "title": "[英] How can Apple deal with the memory shortage?",
     "date": "2026-05-14"
   }
 ]
