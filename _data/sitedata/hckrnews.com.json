@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+    "title": "[英] Meta won't let you block its AI account on Threads",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
+    "title": "[英] Princeton mandates proctoring in-person exams, upending 133 years of precedent",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://bitplane.net/log/2026/05/rars/",
+    "title": "[英] Rars: a Rust RAR implementation, mostly written by LLMs",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://algorithmicpattern.org/2026/03/11/exploring-8-shaft-weaving/",
+    "title": "[英] Exploring 8 Shaft Weaving",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations",
+    "title": "[英] \"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+    "title": "[英] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://reactos.org/",
+    "title": "[英] ReactOS",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
+    "title": "[英] Making the news available at no cost is a victory",
+    "date": "2026-05-14"
+  },
+  {
     "link": "https://github.com/composer/composer/security/advisories/GHSA-f9f8-rm49-7jv2",
     "title": "[英] GitHub Actions issued GitHub_TOKEN disclosure in GitHub Actions logs",
     "date": "2026-05-14"
@@ -10,8 +50,8 @@
     "date": "2026-05-14"
   },
   {
-    "link": "https://lazybea.rs/telegram-is-gone/",
-    "title": "[英] Telegram Is Gone",
+    "link": "https://news.ycombinator.com/item?id=48125194",
+    "title": "[英] undefined",
     "date": "2026-05-14"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://electrek.co/2026/05/13/data-centers-grid-strain-driving-residential-solar-battery-demand/",
     "title": "[英] Data centers cutting power to homes, driving homeowners to solar and batteries",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-    "title": "[英] Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-    "title": "[英] The Emacsification of Software",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-    "title": "[英] Twin brothers wipe 96 government databases minutes after being fired",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-    "title": "[英] A History of IDEs at Google",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.tryardent.com/",
-    "title": "[英] Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.haiku-os.org",
-    "title": "[英] Haiku",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html",
-    "title": "[英] U.S. intelligence shows Iran retains substantial missile capabilities",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.phoronix.com/news/Linux-Fragnesia",
-    "title": "[英] Fragnesia Made Public as Latest Linux Local Privilege Escalation Vulnerability",
     "date": "2026-05-14"
   }
 ]
