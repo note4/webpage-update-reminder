@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+    "title": "[英] When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://www.bayareaeconomy.org/files/pdf/CostofDoingBusiness_TaxStudy_May2026.pdf",
+    "title": "[英] The Cost of Doing Business: How SF's Tax Structure Constrains Economic Growth [pdf]",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
+    "title": "[英] Scrcpy v4.0",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://github.com/xtellect/fc",
+    "title": "[英] Fc, a lossless compressor for floating-point streams",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://www.savethearchive.com/newsleaders/",
+    "title": "[英] Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+    "date": "2026-05-13"
+  },
+  {
+    "link": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+    "title": "[英] My graduation cap runs Rust",
+    "date": "2026-05-13"
+  },
+  {
     "link": "https://www.youtube.com/watch?v=1TbHYjGvS68",
     "title": "[英] Foucault's Order of Things Explained with Trading Cards [video]",
     "date": "2026-05-13"
@@ -42,36 +72,6 @@
   {
     "link": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650",
     "title": "[英] Is this why science advances one funeral at a time?",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://unsung.aresluna.org/a-preview-of-the-future/",
-    "title": "[英] A Preview of the Future",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.05242",
-    "title": "[英] Beyond Semantic Similarity",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-    "title": "[英] How to make your text look futuristic (2016)",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/",
-    "title": "[英] Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams",
-    "title": "[英] Unauthorized Anthropic stock sales and investment scams",
-    "date": "2026-05-13"
-  },
-  {
-    "link": "https://chreke.com/posts/sql-incorrect-by-construction",
-    "title": "[英] SQL: Incorrect by Construction",
     "date": "2026-05-13"
   }
 ]
