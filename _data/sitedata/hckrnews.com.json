@@ -1,12 +1,27 @@
 [
   {
+    "link": "https://medium.com/@noborutakahashi/a-40-year-old-memory-map-comparable-to-todays-raspberry-pi-pico-932c4309260d",
+    "title": "[英] Comparing a 1980s memory map to the Raspi Pico",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "title": "[英] Medicare's new payment model is built for AI. Most of the tech world has no idea",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://ardoedo.it/kempelen/",
+    "title": "[英] Chess puzzle I found in my dad's old book",
+    "date": "2026-05-14"
+  },
+  {
     "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
     "title": "[英] Meta won't let you block its AI account on Threads",
     "date": "2026-05-14"
   },
   {
     "link": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-    "title": "[英] Princeton mandates proctoring in-person exams, upending 133 years of precedent",
+    "title": "[英] In-person examinations at Princeton will be proctored starting July 1",
     "date": "2026-05-14"
   },
   {
@@ -41,12 +56,12 @@
   },
   {
     "link": "https://github.com/composer/composer/security/advisories/GHSA-f9f8-rm49-7jv2",
-    "title": "[英] GitHub Actions issued GitHub_TOKEN disclosure in GitHub Actions logs",
+    "title": "[英] Composer leaks contents of tokens configured as GitHub OAuth tokens",
     "date": "2026-05-14"
   },
   {
     "link": "https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/",
-    "title": "[英] The great memory panic of 2026 – Asymco",
+    "title": "[英] The great memory panic of 2026",
     "date": "2026-05-14"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://nginx.org/en/CHANGES",
     "title": "[英] Nginx.org/En/Changes",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
-    "title": "[英] Altman forced to confront claims at OpenAI trial that he's a prolific liar",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://andreafortuna.org/2026/05/13/amarcord/",
-    "title": "[英] A sentimental tour of late 1990s and early 2000s hacking tools",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://electrek.co/2026/05/13/data-centers-grid-strain-driving-residential-solar-battery-demand/",
-    "title": "[英] Data centers cutting power to homes, driving homeowners to solar and batteries",
     "date": "2026-05-14"
   }
 ]
