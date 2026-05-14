@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.adn.com/alaska-news/science/2026/05/08/after-3-decades-of-splendid-scientific-communication-this-ones-for-you-ned/",
+    "title": "[英] After 3 decades of splendid scientific communication, this one's for you, Ned",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://www.intercom.com/blog/today-intercom-becomes-fin/",
+    "title": "[英] Intercom changes name to Fin",
+    "date": "2026-05-14"
+  },
+  {
     "link": "https://www.jackhogan.me/blog/marco-polo",
     "title": "[英] Marco Polo: Finding a friend with only distance and motion",
     "date": "2026-05-14"
@@ -31,7 +41,7 @@
   },
   {
     "link": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-    "title": "[英] In-person examinations at Princeton will be proctored starting July 1",
+    "title": "[英] Princeton mandates proctoring for in-person exams, upending 133 year precedent",
     "date": "2026-05-14"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
     "title": "[英] Making the news available at no cost is a victory",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://github.com/composer/composer/security/advisories/GHSA-f9f8-rm49-7jv2",
-    "title": "[英] Composer leaks contents of tokens configured as GitHub OAuth tokens",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/",
-    "title": "[英] How can Apple deal with the memory shortage?",
     "date": "2026-05-14"
   }
 ]
