@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://zknill.io/posts/llms-are-breaking-20-year-old-system-design/",
+    "title": "[英] LLMs are breaking 20 year old system design",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://blog.andr2i.com/posts/2026-05-03-notes-from-optimizing-cpu-bound-go-hot-paths",
+    "title": "[英] Notes from Optimizing CPU-Bound Go Hot Paths",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://github.com/DrCatHicks/learning-opportunities",
+    "title": "[英] A Claude Code and Codex Skill for Deliberate Skill Development",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://text.marvinborner.de/2026-04-09-17.html",
+    "title": "[英] Extraordinary Ordinals",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://switchlab.dev/",
+    "title": "[英] Switchlab.dev – Learn switching and routing through interactive labs",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://www.deltatime.life/",
+    "title": "[英] delta time",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://www.wsj.com/arts-culture/books/a-four-eyed-world-review-the-story-of-spectacles-504334ac",
+    "title": "[英] 'A Four-Eyed World' Review: The Story of Spectacles",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://mayerwin.github.io/AI-Arena-History/",
+    "title": "[英] Arena AI Model ELO History",
+    "date": "2026-05-14"
+  },
+  {
     "link": "https://doscienceto.it/blog/posts/2026-04-27-golden-testing-cad.html",
     "title": "[英] Golden Testing a CAD Library",
     "date": "2026-05-14"
@@ -26,52 +66,12 @@
   },
   {
     "link": "https://blogs.cisco.com/news/our-path-forward",
-    "title": "[英] Cisco Workforce Reductions",
+    "title": "[英] Cisco workforce reductions",
     "date": "2026-05-14"
   },
   {
     "link": "https://www.etive-mor.com/blog/can-a-language-model-paint/",
     "title": "[英] Can a Language Model Paint?",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://github.com/aep-dev/aeps",
-    "title": "[英] AEPs: API Enhancement Proposals",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
-    "title": "[英] Mystery Microsoft bug leaker keeps the zero-days coming",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "http://www.scorch2000.com/web/",
-    "title": "[英] Scorched Earth 2000 – Web",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.construction-physics.com/p/the-age-of-the-amplifier",
-    "title": "[英] The Age of the Amplifier",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://github.com/monkeysee-ai/rotunda",
-    "title": "[英] Show HN: Rotunda - A browser built for agents with simulated typing",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
-    "title": "[英] Who Trusts Sam Altman?",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
-    "title": "[英] The Other Half of AI Safety",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.adn.com/alaska-news/science/2026/05/08/after-3-decades-of-splendid-scientific-communication-this-ones-for-you-ned/",
-    "title": "[英] After 3 decades of splendid scientific communication, this one's for you, Ned",
     "date": "2026-05-14"
   }
 ]
