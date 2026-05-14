@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://github.com/anthropics/claude-for-legal",
+    "title": "[英] Claude for Legal",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://scrapewithruno.com/",
+    "title": "[英] Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://chefcinnamon.github.io/memo/posts/minimal-structures/",
+    "title": "[英] Minimal Structures",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://acesounderglass.com/2025/10/13/the-biochemical-beauty-of-retatrutide-how-glp-1s-actually-work/",
+    "title": "[英] The Biochemical Beauty of Retatrutide: How GLP-1s Work",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://openai.com/index/work-with-codex-from-anywhere/",
+    "title": "[英] Work with Codex from Anywhere",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+    "title": "[英] Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate",
+    "title": "[英] Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
+    "title": "[英] Amazonbot is finally respecting robots.txt",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://twitter.com/tdietterich/status/2055000956144935055",
+    "title": "[英] New arXiv policy: 1-year ban for hallucinated references",
+    "date": "2026-05-15"
+  },
+  {
     "link": "https://router.start9.com/",
     "title": "[英] RISC-V Router",
     "date": "2026-05-15"
@@ -27,51 +72,6 @@
   {
     "link": "https://www.nytimes.com/2026/05/14/us/politics/green-cards-immigration-deportation-trump.html",
     "title": "[英] Green Card Holders Targeted for Deportation by New 'Removal Apparatus'",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.theregister.com/oses/2026/05/14/kde-bags-13m-as-europe-realizes-it-might-need-an-os-of-its-own/5240562",
-    "title": "[英] Germany's Sovereign Tech Fund Backs KDE with €1.3M",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "http://un0rick.cc/pic0rick",
-    "title": "[英] DIY open-source ultrasound hardware on the rp2040/rp2350",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.thenewcritic.com/p/the-great-zombification",
-    "title": "[英] The AI Zombification of Universities",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897",
-    "title": "[英] German intelligence offices snub Palantir software",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://lookup.london/londons-smallest-public-sculptures/",
-    "title": "[英] London's Smallest Public Sculptures",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
-    "title": "[英] You Don't Align an AI, You Align with It",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
-    "title": "[英] The Power of a Free Popsicle (2018)",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-    "title": "[英] First public macOS kernel memory corruption exploit on Apple M5",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://internals-for-interns.com/posts/linux-kernel-startup/",
-    "title": "[英] Understanding the Linux Kernel: The Linux Kernel Startup",
     "date": "2026-05-15"
   }
 ]
