@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://antirez.com/news/165",
+    "title": "[英] A Few Words on DS4",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://github.com/simonw/go-to-wheel",
+    "title": "[英] Wrap Go binaries in Python wheels",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.openvehicles.com/home",
+    "title": "[英] OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+    "date": "2026-05-15"
+  },
+  {
     "link": "https://github.com/anthropics/claude-for-legal",
     "title": "[英] Claude for Legal",
     "date": "2026-05-15"
@@ -57,21 +72,6 @@
   {
     "link": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
     "title": "[英] Porting 3D Movie Maker to Linux",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096",
-    "title": "[英] WinUI 3 Performance: A Leap Forward",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.opendata.dev/blog/introducing-vector/",
-    "title": "[英] OpenData Vector: MIT-Licensed Vector Search on Object Storage",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/05/14/us/politics/green-cards-immigration-deportation-trump.html",
-    "title": "[英] Green Card Holders Targeted for Deportation by New 'Removal Apparatus'",
     "date": "2026-05-15"
   }
 ]
