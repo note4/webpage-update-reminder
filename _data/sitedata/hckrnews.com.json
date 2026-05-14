@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+    "title": "[英] New Nginx Exploit",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://arxiv.org/abs/2510.03154",
+    "title": "[英] EditLens: Quantifying the extent of AI editing in text (2025)",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.workatastartup.com/companies/terranox-ai",
+    "title": "[英] Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.upi.com/Top_News/World-News/2026/05/14/Cuba-says-oil-reserves-totally-drained/9311778746907/",
+    "title": "[英] Cuba says it has run out of fuel, blames U.S. embargo",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
+    "title": "[英] Fossils show millipede and centipede ancestors evolved legs underwater",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+    "title": "[英] RTX 5090 and M4 MacBook Air: Can It Game?",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://journal.kvibber.com/2026/05/agents-txt-on-dreamhost/",
+    "title": "[英] New agents.txt file found on DreamHost",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.marginalia.nu/log/a_137_linkedin_fanfiction/",
+    "title": "[英] LinkedIn Fanfiction",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48136712",
+    "title": "[英] undefined",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/",
+    "title": "[英] On The Conflation of Money and Things",
+    "date": "2026-05-15"
+  },
+  {
     "link": "https://www.anthropic.com/news/gates-foundation-partnership",
     "title": "[英] Anthropic forms $200M partnership with the Gates Foundation",
-    "date": "2026-05-14"
+    "date": "2026-05-15"
   },
   {
     "link": "https://martypc.blogspot.com/2026/05/60fps-video-on-cga-glyphblaster.html",
     "title": "[英] 60fps Video on a CGA? – The GlyphBlaster",
-    "date": "2026-05-14"
+    "date": "2026-05-15"
   },
   {
     "link": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
     "title": "[英] MIT: 20% drop in incoming graduate students",
-    "date": "2026-05-14"
+    "date": "2026-05-15"
   },
   {
     "link": "https://news.ycombinator.com/item?id=48136234",
     "title": "[英] undefined",
-    "date": "2026-05-14"
+    "date": "2026-05-15"
   },
   {
     "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
     "title": "[英] Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
-    "title": "[英] Meta's New Reality: Record High Profits. Record Low Morale",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/05/13/world/europe/france-drunk-deer.html",
-    "title": "[英] Beware of Drunk Deer, French Police Say, Announcing Season of Inebriation",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.browserbase.com/blog/what-is-firecracker",
-    "title": "[英] What is Firecracker? (A beginners intro)",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48134808",
-    "title": "[英] Claude Account Suspended Seconds After Purchase?",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.niemanlab.org/2026/05/the-eu-backs-italys-right-to-make-meta-pay-for-news/",
-    "title": "[英] The European Union backs Italy's right to make Meta pay for news",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
-    "title": "[英] Computer Hobby Movement in Canada",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
-    "title": "[英] USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d",
-    "title": "[英] Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://twitter.com/josevalim/status/2054887621336174799",
-    "title": "[英] The Whole Anthropic Kerfuffle",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://github.com/oven-sh/bun/pull/30680",
-    "title": "[英] Remove .zig Files from Bun",
-    "date": "2026-05-14"
+    "date": "2026-05-15"
   }
 ]
