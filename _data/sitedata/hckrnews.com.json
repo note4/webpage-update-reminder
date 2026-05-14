@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://joshuahhh.com/dims-of-feedback/",
+    "title": "[英] Technical Dimensions of Live Feedback in Programming Systems",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://github.com/oven-sh/bun/pull/30412",
+    "title": "[英] Rewrite Bun in Rust has been merged",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://classic7.lol/",
+    "title": "[英] Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/",
+    "title": "[英] What the Hell Was Going on with Cigarette Ads in the 70s? (2024)",
+    "date": "2026-05-14"
+  },
+  {
+    "link": "https://www.theatlantic.com/past/docs/unbound/flashbks/james/jnote.htm",
+    "title": "[英] The Deathbed Notes of Henry James (1968)",
+    "date": "2026-05-14"
+  },
+  {
     "link": "https://zknill.io/posts/llms-are-breaking-20-year-old-system-design/",
     "title": "[英] LLMs are breaking 20 year old system design",
     "date": "2026-05-14"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.anthropic.com/news/claude-for-small-business",
     "title": "[英] Claude for Small Business",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
-    "title": "[英] Avoiding and reducing microplastic false positives from dry glove contact",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://github.com/glouw/nibble",
-    "title": "[英] Show HN: Nibble",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
-    "title": "[英] Microsoft BitLocker – YellowKey zero-day exploit",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://blogs.cisco.com/news/our-path-forward",
-    "title": "[英] Cisco workforce reductions",
-    "date": "2026-05-14"
-  },
-  {
-    "link": "https://www.etive-mor.com/blog/can-a-language-model-paint/",
-    "title": "[英] Can a Language Model Paint?",
     "date": "2026-05-14"
   }
 ]
