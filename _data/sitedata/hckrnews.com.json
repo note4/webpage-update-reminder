@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://router.start9.com/",
+    "title": "[英] RISC-V Router",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://twitter.com/openai/status/2055016850849993072",
+    "title": "[英] Codex is now available on mobile via ChatGPT app",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
+    "title": "[英] Porting 3D Movie Maker to Linux",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096",
+    "title": "[英] WinUI 3 Performance: A Leap Forward",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.opendata.dev/blog/introducing-vector/",
+    "title": "[英] OpenData Vector: MIT-Licensed Vector Search on Object Storage",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/05/14/us/politics/green-cards-immigration-deportation-trump.html",
+    "title": "[英] Green Card Holders Targeted for Deportation by New 'Removal Apparatus'",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.theregister.com/oses/2026/05/14/kde-bags-13m-as-europe-realizes-it-might-need-an-os-of-its-own/5240562",
+    "title": "[英] Germany's Sovereign Tech Fund Backs KDE with €1.3M",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "http://un0rick.cc/pic0rick",
+    "title": "[英] DIY open-source ultrasound hardware on the rp2040/rp2350",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.thenewcritic.com/p/the-great-zombification",
+    "title": "[英] The AI Zombification of Universities",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897",
+    "title": "[英] German intelligence offices snub Palantir software",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://lookup.london/londons-smallest-public-sculptures/",
+    "title": "[英] London's Smallest Public Sculptures",
+    "date": "2026-05-15"
+  },
+  {
     "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
     "title": "[英] You Don't Align an AI, You Align with It",
     "date": "2026-05-15"
@@ -17,61 +72,6 @@
   {
     "link": "https://internals-for-interns.com/posts/linux-kernel-startup/",
     "title": "[英] Understanding the Linux Kernel: The Linux Kernel Startup",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://nobodywho.ooo/posts/whats-in-a-gguf/",
-    "title": "[英] What's in a GGUF, besides the weights – and what's still missing?",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://x.ai/news/grok-build-cli",
-    "title": "[英] Grok Build",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48138869",
-    "title": "[英] undefined",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-    "title": "[英] God Damn AI is making me dumb",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://gynvael.coldwind.pl/?id=372",
-    "title": "[英] Int a = 5; a = a++ + ++a; a =? (2011)",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.nbcnews.com/tech/tech-news/deal-reached-hackers-delete-data-stolen-canvas-educational-platform-rcna344693",
-    "title": "[英] Deal reached with hackers to delete data stolen from the Canvas platform",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://old.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/",
-    "title": "[英] Bun's Rust rewrite has been merged",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://icode4.coffee/?p=1465",
-    "title": "[英] HDD Firmware Hacking",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight",
-    "title": "[英] Apple-OpenAI Relationship Frays, Setting Up Possible Legal Fight",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-    "title": "[英] Removing the modem and GPS from my 2024 RAV4 hybrid",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-    "title": "[英] New Nginx Exploit",
     "date": "2026-05-15"
   }
 ]
