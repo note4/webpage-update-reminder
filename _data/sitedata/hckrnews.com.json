@@ -1,7 +1,37 @@
 [
   {
+    "link": "https://lmilz.dev/blog/2026/04/19/Embedded-Hello-World.html",
+    "title": "[英] Bare-metal STM32: vector table, linker script, and startup code from scratch",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://openipv8.org/",
+    "title": "[英] IPv8",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+    "title": "[英] More than half of U.S. faces worst drought in decades",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
+    "title": "[英] 'Millions' of pounds saved by replacing Palantir tech in refugee system",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://extency.com/blog/markdown-versioned-folders-agent-brain-2026",
+    "title": "[英] Best \"Brain\" for Agents Is Just Versioned Folders of Markdown Files",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+    "title": "[英] Ontario auditors find doctors' AI note takers routinely blow basic facts",
+    "date": "2026-05-15"
+  },
+  {
     "link": "https://antirez.com/news/165",
-    "title": "[英] A Few Words on DS4",
+    "title": "[英] A few words on DS4",
     "date": "2026-05-15"
   },
   {
@@ -20,8 +50,8 @@
     "date": "2026-05-15"
   },
   {
-    "link": "https://scrapewithruno.com/",
-    "title": "[英] Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones",
+    "link": "https://news.ycombinator.com/item?id=48141206",
+    "title": "[英] undefined",
     "date": "2026-05-15"
   },
   {
@@ -36,42 +66,12 @@
   },
   {
     "link": "https://openai.com/index/work-with-codex-from-anywhere/",
-    "title": "[英] Work with Codex from Anywhere",
+    "title": "[英] Codex is now in the ChatGPT mobile app",
     "date": "2026-05-15"
   },
   {
     "link": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
     "title": "[英] Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate",
-    "title": "[英] Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
-    "title": "[英] Amazonbot is finally respecting robots.txt",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://twitter.com/tdietterich/status/2055000956144935055",
-    "title": "[英] New arXiv policy: 1-year ban for hallucinated references",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://router.start9.com/",
-    "title": "[英] RISC-V Router",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://twitter.com/openai/status/2055016850849993072",
-    "title": "[英] Codex is now available on mobile via ChatGPT app",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
-    "title": "[英] Porting 3D Movie Maker to Linux",
     "date": "2026-05-15"
   }
 ]
