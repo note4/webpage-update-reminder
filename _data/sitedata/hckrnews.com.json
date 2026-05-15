@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://signoz.io/careers",
+    "title": "[英] SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.metabase.com/blog/strip-mining-era-of-open-source-security",
+    "title": "[英] Welcome to the Strip Mining Era of OSS Security",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://spectrum.ieee.org/steve-jobs-next-computer",
+    "title": "[英] Steve Jobs Next Computer: His Forgotten Exile Years",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+    "title": "[英] O(x)Caml in Space",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/",
+    "title": "[英] Where's Ed: Anthropic Told Court $5B but Public $19B",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/ckgpyn30dp3o",
+    "title": "[英] Overseas fakers using AI videos to push a narrative of UK decline, BBC finds",
+    "date": "2026-05-15"
+  },
+  {
     "link": "https://github.com/Andyyyy64/whichllm",
     "title": "[英] Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
     "date": "2026-05-15"
@@ -42,36 +72,6 @@
   {
     "link": "https://dylan.gr/1775146616",
     "title": "[英] Solar-based sleep patterns compared to modern norms",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://github.com/pike00/coldkey",
-    "title": "[英] Coldkey – Post-quantum age key generation and paper backup tool",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops",
-    "title": "[英] reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-    "title": "[英] Details of the Daring Airdrop at Tristan Da Cunha",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-    "title": "[英] How Claude Code works in large codebases",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.townandcountrymag.com/leisure/drinks/a71219491/japanese-whisky-house-of-suntory-history-facts/",
-    "title": "[英] The Founding Story Behind the House of Suntory",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://writing.antonleicht.me/p/cut-off",
-    "title": "[英] Access to frontier AI will soon be limited by economic and security constraints",
     "date": "2026-05-15"
   }
 ]
