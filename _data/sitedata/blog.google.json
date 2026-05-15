@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/products/education/ai-policy-guidance-labs/",
+    "title": "[英] From policy to practice: supporting the future of AI in education",
+    "date": "2026-05-15 16:00:00"
+  },
+  {
     "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/es-devlins-a-national-portrait-for-the-national-portrait-gallery/",
     "title": "[英] Es Devlin’s ‘A National Portrait’ for the National Portrait Gallery",
     "date": "2026-05-14 16:00:00"
@@ -67,11 +72,6 @@
   {
     "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/",
     "title": "[英] A smarter, more proactive Android with Gemini Intelligence",
-    "date": "2026-05-13 01:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/platforms/android/pause-point/",
-    "title": "[英] Reclaim your time with Pause Point.",
     "date": "2026-05-13 01:00:00"
   }
 ]
