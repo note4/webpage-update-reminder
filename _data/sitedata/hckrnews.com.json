@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.lanl.gov/media/publications/1663/proton-power-for-public-health",
+    "title": "[英] The nuclear-physics infrastructure behind PET scans",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://twitter.com/baseballot/status/2055309076209492208",
+    "title": "[英] ABC News has taken all FiveThirtyEight articles offline",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
+    "title": "[英] Travelers on Air Force One ordered to throw away gifts, phones after China trip",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
+    "title": "[英] Waymo recalls 3,800 robotaxis after they drive into flood waters",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://github.com/oven-sh/bun/issues/30719",
+    "title": "[英] Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://github.com/bahdotsh/feedr",
+    "title": "[英] Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal",
+    "date": "2026-05-16"
+  },
+  {
     "link": "https://github.com/sleuth-io/sx",
     "title": "[英] Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
     "date": "2026-05-16"
@@ -42,36 +72,6 @@
   {
     "link": "https://github.com/neilsonnn/image-blaster",
     "title": "[英] Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://jpain.io/i-love-linux-but-i-cant-quit-windows/",
-    "title": "[英] I love Linux, but I can't quit Windows",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
-    "title": "[英] The sigmoids won't save you",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://www.gutenberg.org/",
-    "title": "[英] Project Gutenberg – keeps getting better",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/05/14/style/ucf-commencement-ai-booed-gloria-caulfield.html",
-    "title": "[英] UCF Commencement Speaker Draws Boos After A.I. Remarks",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://smorgasb.org/zenith-tech/",
-    "title": "[英] I built Zenith: a live local-first fixed viewport planetarium",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://ppo.gradexp.xyz/",
-    "title": "[英] Show HN: Watch a neural net learn to play Snake",
     "date": "2026-05-16"
   }
 ]
