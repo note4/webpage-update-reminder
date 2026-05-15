@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://github.com/Andyyyy64/whichllm",
+    "title": "[英] Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://sive.rs/4d",
+    "title": "[英] Geography is four-dimensional",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://relax.ai/docs",
+    "title": "[英] UK sovereign LLM inference",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://explorer.samismith.com/",
+    "title": "[英] Explore Wikipedia Like a Windows XP Desktop",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://github.com/GlycemicGPT/GlycemicGPT",
+    "title": "[英] Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://hghalebi.github.io/category_theory_transformer_rs/",
+    "title": "[英] Building ML framework with Rust and Category Theory",
+    "date": "2026-05-15"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=48145524",
     "title": "[英] Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?",
     "date": "2026-05-15"
@@ -42,36 +72,6 @@
   {
     "link": "https://writing.antonleicht.me/p/cut-off",
     "title": "[英] Access to frontier AI will soon be limited by economic and security constraints",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://sub-processors.com/subprocessor/elasticsearch",
-    "title": "[英] Find vendors used by any company",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://github.com/gyroflow/gyroflow",
-    "title": "[英] Gyroflow: Video stabilization using gyroscope data",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://github.com/rust-lang/rust-forge/pull/1040",
-    "title": "[英] LLM Policy for Rust Compiler",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
-    "title": "[英] Mullvad exit IPs are surprisingly identifying",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=x8jLOtZoOOU",
-    "title": "[英] What could Functional Architecture mean? [video]",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.theembeddedrustacean.com/uferris",
-    "title": "[英] UFerris a Versatile Learner Board for Rust Embedded Beginners",
     "date": "2026-05-15"
   }
 ]
