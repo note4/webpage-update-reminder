@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.thenational.scot/news/26055524.palantir-hired-30-senior-uk-government-officials/",
+    "title": "[英] Palantir has hired more than 30 senior UK Government officials",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+    "title": "[英] California bill would require patches or refunds when online games shut down",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://trevorhowsam.com/",
+    "title": "[英] Trevor Howsam Limited: 19th- and 20th-Century Props and Wallpaper",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction",
+    "title": "[英] Microscale Thermite Reaction",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/",
+    "title": "[英] Meta to receive $3.3B in tax breaks for its $10B Louisiana data center",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+    "title": "[英] The Zulip Foundation",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://genius.com/Pink-floyd-echoes-live-at-pompeii-lyrics",
+    "title": "[英] Echoes (Live at Pompeii)",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://costhawk.ai/leaderboard",
+    "title": "[英] Show HN: Claude Code vs. Codex Global Usage Leaderboard",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://github.com/ThroatyMumbo/WinCE64",
+    "title": "[英] WinCE64 – Windows CE 2.11 for N64",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://lock.cmpxchg8b.com/umatrix.html",
+    "title": "[英] Building a UMatrix Replacement",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/05/15/us/kars4kids-advertising-banned-california.html",
+    "title": "[英] Judge Bars Kars4Kids from Broadcasting 'Misleading' Ads in California",
+    "date": "2026-05-16"
+  },
+  {
     "link": "https://www.lanl.gov/media/publications/1663/proton-power-for-public-health",
     "title": "[英] The nuclear-physics infrastructure behind PET scans",
     "date": "2026-05-16"
@@ -16,62 +71,7 @@
   },
   {
     "link": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
-    "title": "[英] Waymo recalls 3,800 robotaxis after they drive into flood waters",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://github.com/oven-sh/bun/issues/30719",
-    "title": "[英] Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://github.com/bahdotsh/feedr",
-    "title": "[英] Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://github.com/sleuth-io/sx",
-    "title": "[英] Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
-    "title": "[英] U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://github.com/gdevic/FPGA-Calculator",
-    "title": "[英] I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://aperio-lang.github.io/aperio/introduction.html",
-    "title": "[英] Aperio Lang",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://farm-to-door.com/",
-    "title": "[英] Show HN: Find local farms near you with raw dairy, pasture eggs, and more",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://newsletter.deenamousa.com/p/we-dont-know-why-malawi-is-poor",
-    "title": "[英] We don't know why Malawi is poor",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://hightouch.com/careers",
-    "title": "[英] Hightouch (YC S19) Is Hiring",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
-    "title": "[英] OpenAI is connecting ChatGPT to bank accounts via Plaid",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://github.com/neilsonnn/image-blaster",
-    "title": "[英] Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+    "title": "[英] Waymo updates 3,800 robotaxis after they 'drive into standing water'",
     "date": "2026-05-16"
   }
 ]
