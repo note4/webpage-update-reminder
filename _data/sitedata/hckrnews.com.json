@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.w3.org/TR/css-rhythm-1/",
+    "title": "[英] CSS Rhythmic Sizing Module Level 1",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://race-to-the-bottom.onrender.com",
+    "title": "[英] Show HN: Race to the Bottom",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://status.claude.com/incidents/8z7l5zcy0v3b",
+    "title": "[英] Elevated error rates on Opus 4.7",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.cremieux.xyz/p/do-teachers-need-advanced-degrees",
+    "title": "[英] Do teachers need advanced degrees?",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.gridtravel.app",
+    "title": "[英] Show HN: GridTravel- A community based travel app for users to share routes",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+    "title": "[英] Have a Coherent AI Policy",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://github.com/DmytroLopushanskyy/iclr2026-affiliations",
+    "title": "[英] ICLR 2026 – Institutional Affiliations Dataset and Analysis",
+    "date": "2026-05-15"
+  },
+  {
     "link": "https://lmilz.dev/blog/2026/04/19/Embedded-Hello-World.html",
     "title": "[英] Bare-metal STM32: vector table, linker script, and startup code from scratch",
     "date": "2026-05-15"
@@ -11,7 +46,7 @@
   },
   {
     "link": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
-    "title": "[英] More than half of U.S. faces worst drought in decades",
+    "title": "[英] More than sixty percent of the United States is experiencing drought conditions",
     "date": "2026-05-15"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://github.com/simonw/go-to-wheel",
     "title": "[英] Wrap Go binaries in Python wheels",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.openvehicles.com/home",
-    "title": "[英] OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://github.com/anthropics/claude-for-legal",
-    "title": "[英] Claude for Legal",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48141206",
-    "title": "[英] undefined",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://chefcinnamon.github.io/memo/posts/minimal-structures/",
-    "title": "[英] Minimal Structures",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://acesounderglass.com/2025/10/13/the-biochemical-beauty-of-retatrutide-how-glp-1s-actually-work/",
-    "title": "[英] The Biochemical Beauty of Retatrutide: How GLP-1s Work",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://openai.com/index/work-with-codex-from-anywhere/",
-    "title": "[英] Codex is now in the ChatGPT mobile app",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
-    "title": "[英] Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
     "date": "2026-05-15"
   }
 ]
