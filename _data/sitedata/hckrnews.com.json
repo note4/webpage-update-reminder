@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+    "title": "[英] Details of the Daring Airdrop at Tristan Da Cunha",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+    "title": "[英] How Claude Code works in large codebases",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.townandcountrymag.com/leisure/drinks/a71219491/japanese-whisky-house-of-suntory-history-facts/",
+    "title": "[英] The Founding Story Behind the House of Suntory",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://writing.antonleicht.me/p/cut-off",
+    "title": "[英] Access to frontier AI will soon be limited by economic and security constraints",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://sub-processors.com/subprocessor/elasticsearch",
+    "title": "[英] Find vendors used by any company",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://github.com/gyroflow/gyroflow",
+    "title": "[英] Gyroflow: Video stabilization using gyroscope data",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://github.com/rust-lang/rust-forge/pull/1040",
+    "title": "[英] LLM Policy for Rust Compiler",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+    "title": "[英] Mullvad exit IPs are surprisingly identifying",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=x8jLOtZoOOU",
+    "title": "[英] What could Functional Architecture mean? [video]",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.theembeddedrustacean.com/uferris",
+    "title": "[英] UFerris a Versatile Learner Board for Rust Embedded Beginners",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://www.washingtonpost.com/nation/2026/05/13/7-10-americans-oppose-data-centers-being-built-their-communities/",
+    "title": "[英] 7 in 10 Americans oppose data centers being built in their communities",
+    "date": "2026-05-15"
+  },
+  {
+    "link": "https://github.com/AliAmmar15/Velonus",
+    "title": "[英] Velonus – Open-source AppSec scanner that deduplicates SAST noise",
+    "date": "2026-05-15"
+  },
+  {
     "link": "https://www.w3.org/TR/css-rhythm-1/",
     "title": "[英] CSS Rhythmic Sizing Module Level 1",
     "date": "2026-05-15"
@@ -12,66 +72,6 @@
   {
     "link": "https://status.claude.com/incidents/8z7l5zcy0v3b",
     "title": "[英] Elevated error rates on Opus 4.7",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.cremieux.xyz/p/do-teachers-need-advanced-degrees",
-    "title": "[英] Do teachers need advanced degrees?",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.gridtravel.app",
-    "title": "[英] Show HN: GridTravel- A community based travel app for users to share routes",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
-    "title": "[英] Have a Coherent AI Policy",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://github.com/DmytroLopushanskyy/iclr2026-affiliations",
-    "title": "[英] ICLR 2026 – Institutional Affiliations Dataset and Analysis",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://lmilz.dev/blog/2026/04/19/Embedded-Hello-World.html",
-    "title": "[英] Bare-metal STM32: vector table, linker script, and startup code from scratch",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://openipv8.org/",
-    "title": "[英] IPv8",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
-    "title": "[英] More than sixty percent of the United States is experiencing drought conditions",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
-    "title": "[英] 'Millions' of pounds saved by replacing Palantir tech in refugee system",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://extency.com/blog/markdown-versioned-folders-agent-brain-2026",
-    "title": "[英] Best \"Brain\" for Agents Is Just Versioned Folders of Markdown Files",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-    "title": "[英] Ontario auditors find doctors' AI note takers routinely blow basic facts",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://antirez.com/news/165",
-    "title": "[英] A few words on DS4",
-    "date": "2026-05-15"
-  },
-  {
-    "link": "https://github.com/simonw/go-to-wheel",
-    "title": "[英] Wrap Go binaries in Python wheels",
     "date": "2026-05-15"
   }
 ]

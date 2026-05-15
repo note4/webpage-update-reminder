@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://techorange.com/2026/05/15/vibe-coding-hardware/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Vibe Coding 跨入實體世界：從寫軟體到造硬體原型，Lovable、Anthropic 相繼卡位",
+    "date": "2026-05-15 12:41:21"
+  },
+  {
+    "link": "https://techorange.com/2026/05/15/openai-floats-idea-of-global-ai-governance-body-with-us-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "美國想把 AI 領先變成規則制定權：OpenAI 提議成立「AI 版國際原子能總署」，美中談判聚焦最強模型護欄",
+    "date": "2026-05-15 12:41:06"
+  },
+  {
+    "link": "https://techorange.com/2026/05/15/prompt-engineering/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 輸出結果總是差強人意，讓 AI 回覆品質真正提升的提示詞習慣是什麼？",
+    "date": "2026-05-15 11:27:57"
+  },
+  {
+    "link": "https://techorange.com/2026/05/15/mercedes-benz-n8n/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Mercedes-Benz 如何用 n8n 串聯研發、生產與客服系統，將員工創意化為 AI 工作流？",
+    "date": "2026-05-15 11:13:11"
+  },
+  {
+    "link": "https://techorange.com/2026/05/15/moda-acs-ai-security/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "新興 AI 加速資安威脅，資安署三措施穩紮「資安基本功」",
+    "date": "2026-05-15 10:56:02"
+  },
+  {
     "link": "https://techorange.com/2026/05/15/hershey-ai-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 進入巧克力供應鏈：Hershey 估 5,000 萬美元生產力提升、減少 1 億美元庫存",
     "date": "2026-05-15 08:00:00"
@@ -48,30 +73,5 @@
     "link": "https://techorange.com/2026/05/14/engineers-in-the-ai-data-center/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "不寫程式也能吃到 AI 紅利：資料中心電工年薪可達 30 萬，不輸軟體工程師",
     "date": "2026-05-14 10:35:52"
-  },
-  {
-    "link": "https://techorange.com/2026/05/14/south-korea-ai-robots-rlwrld/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "韓國搶做「機器人大腦」： 新創 RLWRLD 如何把真實工作場景，變成 Physical AI 訓練資料？",
-    "date": "2026-05-14 10:13:33"
-  },
-  {
-    "link": "https://techorange.com/2026/05/14/johnson-johnson-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "醫療巨頭 J&amp;J 的 AI 實踐：加速新藥開發，開發前期的試驗時間減半",
-    "date": "2026-05-14 09:44:53"
-  },
-  {
-    "link": "https://techorange.com/2026/05/14/google-anthropic-east-asia-semiconductors-heat-up/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】Google、Anthropic、台日韓半導體同步升溫，AI 競爭從系統層燒到供應鏈",
-    "date": "2026-05-14 06:50:00"
-  },
-  {
-    "link": "https://techorange.com/2026/05/13/anthropic-expands-legal-ai-tools-claude-cowork/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Anthropic 大舉進軍法律 AI：Claude 推 12 款專用工具，讓律師工作流成為 AI Agent 新戰場",
-    "date": "2026-05-13 18:27:02"
-  },
-  {
-    "link": "https://techorange.com/2026/05/13/caio-artificial-intelligence-changing-boardrooms/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "IBM 揭秘 AI 革命下的權力大洗牌：76% 受訪企業設 AI 長，人資長影響力升溫",
-    "date": "2026-05-13 18:22:49"
   }
 ]
