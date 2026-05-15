@@ -1,7 +1,22 @@
 [
   {
+    "link": "https://yoeight.github.io/blog/2025/12/21/EventQL_A_SQL_Inspired_Query_Language_Designed_For_Event_Sourcing.html",
+    "title": "[英] A SQL-Inspired Query Language Designed for Event Sourcing (2025)",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://ca.news.yahoo.com/hawaii-law-targets-corporate-influence-024038159.html",
+    "title": "[英] Hawaii passes law bypassing Citizens United, governor signs it",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
+    "title": "[英] How to Write to SSDs [pdf]",
+    "date": "2026-05-16"
+  },
+  {
     "link": "https://www.bbc.com/news/videos/czx20g00ly1o",
-    "title": "[英] Waymo driverless cars become trapped in Atlanta suburb after glitch",
+    "title": "[英] Waymo driverless cars become trapped in Atlanta suburb after glitch [video]",
     "date": "2026-05-16"
   },
   {
@@ -11,12 +26,12 @@
   },
   {
     "link": "https://www.bbc.com/news/magazine-30500591",
-    "title": "[英] The day the Pintupi Nine entered the modern world",
+    "title": "[英] The day the Pintupi Nine entered the modern world (2014)",
     "date": "2026-05-16"
   },
   {
     "link": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "title": "[英] Mitchellh – I strongly believe there are entire companies now under AI psychosis",
+    "title": "[英] I believe there are entire companies right now under AI psychosis",
     "date": "2026-05-16"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://genius.com/Pink-floyd-echoes-live-at-pompeii-lyrics",
     "title": "[英] Echoes (Live at Pompeii) (1972)",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://costhawk.ai/leaderboard",
-    "title": "[英] Show HN: Claude Code vs. Codex Global Usage Leaderboard",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://github.com/ThroatyMumbo/WinCE64",
-    "title": "[英] WinCE64 – Windows CE 2.11 for N64",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://lock.cmpxchg8b.com/umatrix.html",
-    "title": "[英] Building a UMatrix Replacement",
     "date": "2026-05-16"
   }
 ]
