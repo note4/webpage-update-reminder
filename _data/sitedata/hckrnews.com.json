@@ -1,7 +1,17 @@
 [
   {
+    "link": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+    "title": "[英] A Nicer Voltmeter Clock",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://mmapped.blog/posts/48-the-third-hard-problem",
+    "title": "[英] The Third Hard Problem",
+    "date": "2026-05-17"
+  },
+  {
     "link": "https://github.com/ztc00/algora-scout/blob/main/POST.md",
-    "title": "[英] I tried to make Claude make me money on Algora bounties (data and tool)",
+    "title": "[英] I tried to make Claude make me money on open-source bounties",
     "date": "2026-05-17"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html",
     "title": "[英] Japan’s robot wolf sells out as record bear attacks drive demand",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://www.antipope.org/charlie/old/antipope.html",
-    "title": "[英] Why is this site named Antipope?",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
-    "title": "[英] US is starting to see heavy job losses in roles exposed to AI",
     "date": "2026-05-17"
   }
 ]
