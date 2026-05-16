@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/",
+    "title": "[英] Points are a weird and inconsistent unit of measure",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+    "title": "[英] Moving away from Tailwind, and learning to structure my CSS",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://sfstandard.com/pacific-standard-time/2026/05/15/meta-employee-gets-real-horror-working-right-now/",
+    "title": "[英] A Meta employee gets real about the horror of working there",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://nvlabs.github.io/Sana/WM/",
+    "title": "[英] SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://www.wired.com/story/the-physicsand-physicalityof-extreme-juggling/",
+    "title": "[英] The Physics–and Physicality–Of Extreme Juggling (2018)",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://twitter.com/steipete/status/2055346265869721905",
+    "title": "[英] OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+    "title": "[英] Accelerando (2005)",
+    "date": "2026-05-16"
+  },
+  {
     "link": "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community",
     "title": "[英] Kyber (YC W23) Is Hiring a Founding Marketer",
     "date": "2026-05-16"
@@ -37,41 +72,6 @@
   {
     "link": "https://aweb.ai/blog/ai-first-company-howto",
     "title": "[英] Setting up an AI-native organization",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.12357",
-    "title": "[英] Δ-Mem: Efficient Online Memory for Large Language Models",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681",
-    "title": "[英] Where to buy a non-Apple, non-Google smartphone",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://github.com/mietek/charity-lang/blob/master/doc/README.md",
-    "title": "[英] Charity – Categorical programming language (1998)",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/",
-    "title": "[英] Someone Shared a Real Monet Painting as AI and Asked for Critiques",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://triyambakam-apex-corp.hf.space",
-    "title": "[英] Show HN: AI that audits your codebase in 60 seconds",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://arxiv.org/abs/2604.27012",
-    "title": "[英] EMiX: Emulating Beyond Single-FPGA Limits",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
-    "title": "[英] Frontier AI has broken the open CTF format",
     "date": "2026-05-16"
   }
 ]
