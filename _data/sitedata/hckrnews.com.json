@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://triyambakam-apex-corp.hf.space",
+    "title": "[英] Show HN: AI that audits your codebase in 60 seconds",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://arxiv.org/abs/2604.27012",
+    "title": "[英] EMiX: Emulating Beyond Single-FPGA Limits",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
+    "title": "[英] Frontier AI has broken the open CTF format",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://www.mathworks.com/products/communications.html",
+    "title": "[英] Matlab: Communications Toolbox",
+    "date": "2026-05-16"
+  },
+  {
     "link": "https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/",
     "title": "[英] California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
     "date": "2026-05-16"
@@ -52,26 +72,6 @@
   {
     "link": "https://phoboslab.org/log/2026/05/n64-additive-blending",
     "title": "[英] Additive Blending on the Nintendo 64",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
-    "title": "[英] 'No way to prevent this,' says only package manager where this regularly happens",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
-    "title": "[英] The bird eye was pushed to an evolutionary extreme",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://ljtn.github.io/epiq/",
-    "title": "[英] Show HN: Epiq – Distributed Git based issue tracker TUI",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/",
-    "title": "[英] ESP-EEG is an affordable 8-channel biosensing board",
     "date": "2026-05-16"
   }
 ]
