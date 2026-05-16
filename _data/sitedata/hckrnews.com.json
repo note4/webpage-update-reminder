@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+    "title": "[英] We've made the world too complicated",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html",
+    "title": "[英] Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://futhark-lang.org/examples.html",
+    "title": "[英] Futhark by Example",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://aweb.ai/blog/ai-first-company-howto",
+    "title": "[英] Setting up an AI-native organization",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://arxiv.org/abs/2605.12357",
+    "title": "[英] Δ-Mem: Efficient Online Memory for Large Language Models",
+    "date": "2026-05-16"
+  },
+  {
+    "link": "https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681",
+    "title": "[英] Where to buy a non-Apple, non-Google smartphone",
+    "date": "2026-05-16"
+  },
+  {
     "link": "https://github.com/mietek/charity-lang/blob/master/doc/README.md",
     "title": "[英] Charity – Categorical programming language (1998)",
     "date": "2026-05-16"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.nature.com/articles/s40494-026-02592-7",
     "title": "[英] Research on mildew contamination affecting the sound quality of analog tapes",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://github.com/chiennv2000/orthrus",
-    "title": "[英] Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/England_runestones",
-    "title": "[英] England Runestones",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
-    "title": "[英] SQL patterns I use to catch transaction fraud",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://gwern.net/vaping",
-    "title": "[英] NYT and vaping: How to lie by saying only true things (2022)",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/",
-    "title": "[英] I Bought a “Junk” PSP From Japan",
-    "date": "2026-05-16"
-  },
-  {
-    "link": "https://ploopy.co/shop/bean-pointing-stick/",
-    "title": "[英] Ploopy Bean: a trackpoint for every computer",
     "date": "2026-05-16"
   }
 ]
