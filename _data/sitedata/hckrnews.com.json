@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.science.org/doi/10.1126/science.aea3321",
+    "title": "[英] A molecule with half-Möbius topology",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://www.popsci.com/environment/japan-robot-wolf-army/",
+    "title": "[英] Japan runs out of robot wolves in fight against bears",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://www.antipope.org/charlie/old/antipope.html",
+    "title": "[英] Why is Charlie Stross's site named Antipope?",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+    "title": "[英] US Is Starting to See Heavy Job Losses in Roles Exposed to AI",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=FNVBK7-h9Fs",
+    "title": "[英] I 3D Printed Origami [video]",
+    "date": "2026-05-17"
+  },
+  {
     "link": "https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/",
     "title": "[英] Fame! A Misunderstanding: A new translation of Albert Camus's complete notebooks",
     "date": "2026-05-17"
@@ -31,7 +56,7 @@
   },
   {
     "link": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
-    "title": "[英] You don't know HTML Lists",
+    "title": "[英] HTML Lists",
     "date": "2026-05-17"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
     "title": "[英] Tesla reveals two Robotaxi crashes involving teleoperators",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://www.history.com/articles/what-were-ancient-roman-curse-tablets",
-    "title": "[英] What Were Ancient Greco-Roman Curse Tablets?",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://www.seangoedecke.com/steering-vectors/",
-    "title": "[英] DeepSeek-V4-Flash means LLM steering is interesting again",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://github.com/noahgolmant/pytorch-hessian-eigenthings",
-    "title": "[英] After 8 years, I rewrote my open-source PyTorch curvature library",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://dariusforoux.com/i-spent-my-whole-career-building-passive-income-heres-what-i-got-wrong/",
-    "title": "[英] I spent my whole career building passive income. Here's what I got wrong",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
-    "title": "[英] My Favorite Bugs: Invalid Surrogate Pairs",
     "date": "2026-05-17"
   }
 ]
