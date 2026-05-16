@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://github.com/ztc00/algora-scout/blob/main/POST.md",
+    "title": "[英] I tried to make Claude make me money on Algora bounties (data and tool)",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://crates.io/crates/zerostack/1.0.0",
+    "title": "[英] Zerostack – A Unix-inspired coding agent written in pure Rust",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+    "title": "[英] MCP Hello Page",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://www.buildbuddy.io/blog/content-defined-chunking/",
+    "title": "[英] Content-defined chunking added to Bazel",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48164173",
+    "title": "[英] Ask HN: When did computers stop being fun?",
+    "date": "2026-05-17"
+  },
+  {
     "link": "https://bfeldman.me/3dgs-weekend/",
     "title": "[英] 3D Gaussian Splatting in a Weekend",
     "date": "2026-05-17"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
     "title": "[英] US is starting to see heavy job losses in roles exposed to AI",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=FNVBK7-h9Fs",
-    "title": "[英] I 3D Printed Origami [video]",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/",
-    "title": "[英] Fame! A Misunderstanding: A new translation of Albert Camus's complete notebooks",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-    "title": "[英] Kioxia and Dell cram 10 PB into slim 2RU server",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://tangled.org/rocksky.app/rocksky",
-    "title": "[英] Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48161891",
-    "title": "[英] undefined",
     "date": "2026-05-17"
   }
 ]
