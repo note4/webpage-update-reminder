@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://bfeldman.me/3dgs-weekend/",
+    "title": "[英] 3D Gaussian Splatting in a Weekend",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://unstack.io/halt-and-catch-fire",
+    "title": "[英] Halt and Catch Fire",
+    "date": "2026-05-17"
+  },
+  {
     "link": "https://github.com/dmoews/logic-theorist",
     "title": "[英] Recreation of the 1956 IPL-I version of the Logic Theorist theorem prover",
     "date": "2026-05-17"
@@ -62,16 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48161891",
     "title": "[英] undefined",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://aranya.tech/blog/arrival-of-the-personal-cluster",
-    "title": "[英] Clusters become personal (like PCs did)",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://danielmay.co.uk/posts/cheap-agents-alumni-shirts-and-elias-thorne/",
-    "title": "[英] Mode collapse has a name, and he's selling cancer treatment advice on Amazon",
     "date": "2026-05-17"
   }
 ]
