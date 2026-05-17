@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://link.springer.com/article/10.1007/s42113-026-00271-1",
+    "title": "[英] Illusions of Understanding in the Sciences",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://twitter.com/grafana/status/2055827123236171827",
+    "title": "[英] Grafana Labs internal source code accessed",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+    "title": "[英] Tesla Solar Roof is on life support as it pivot to panels",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+    "title": "[英] Colossus: The Forbin Project",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php",
+    "title": "[英] Bear spray is exploding in the trash near Yellowstone National Park",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
+    "title": "[英] C++26 Shipped a SIMD Library Nobody Asked For",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://arxiv.org/abs/2601.19897",
+    "title": "[英] Self-Distillation Enables Continual Learning [pdf]",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://maurycyz.com/projects/mcusite/",
+    "title": "[英] Hosting a website on an 8-bit microcontroller",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
+    "title": "[英] Unknowable Math Can Help Hide Secrets",
+    "date": "2026-05-17"
+  },
+  {
     "link": "https://medium.com/@emilymenonbender/stochastic-parrots-frequently-unasked-questions-49c2e7d22d11",
     "title": "[英] Stochastic Parrots: Frequently Unasked Questions",
     "date": "2026-05-17"
@@ -27,51 +72,6 @@
   {
     "link": "https://github.com/ztc00/algora-scout/blob/main/POST.md",
     "title": "[英] I tried to make Claude make me money on open-source bounties",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://crates.io/crates/zerostack/1.0.0",
-    "title": "[英] Zerostack – A Unix-inspired coding agent written in pure Rust",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-    "title": "[英] MCP Hello Page",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://www.buildbuddy.io/blog/content-defined-chunking/",
-    "title": "[英] Content-defined chunking added to Bazel",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48164173",
-    "title": "[英] Ask HN: When did computers stop being fun?",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://bfeldman.me/3dgs-weekend/",
-    "title": "[英] 3D Gaussian Splatting in a Weekend",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://unstack.io/halt-and-catch-fire",
-    "title": "[英] Halt and Catch Fire",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://github.com/dmoews/logic-theorist",
-    "title": "[英] Recreation of the 1956 IPL-I version of the Logic Theorist theorem prover",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-    "title": "[英] OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://gamevibe.us/33-tower-defense",
-    "title": "[英] Show HN: Daily vibe-coding video games, day 33: Tower Defense (single prompt)",
     "date": "2026-05-17"
   }
 ]
