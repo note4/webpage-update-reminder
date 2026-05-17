@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=48143205",
+    "title": "[英] XS Programming Language",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+    "title": "[英] Playing Atari ST Music on the Amiga with Zero CPU",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all",
+    "title": "[英] Ten Signs of Fascism. America has all of them",
+    "date": "2026-05-17"
+  },
+  {
     "link": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
     "title": "[英] Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
     "date": "2026-05-17"
@@ -57,21 +72,6 @@
   {
     "link": "https://arxiv.org/abs/2601.19897",
     "title": "[英] Self-Distillation Enables Continual Learning [pdf]",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://maurycyz.com/projects/mcusite/",
-    "title": "[英] Hosting a website on an 8-bit microcontroller",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
-    "title": "[英] Unknowable Math Can Help Hide Secrets",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://medium.com/@emilymenonbender/stochastic-parrots-frequently-unasked-questions-49c2e7d22d11",
-    "title": "[英] Stochastic Parrots: Frequently Unasked Questions",
     "date": "2026-05-17"
   }
 ]
