@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://xslang.org",
+    "title": "[英] XS: A programming language. Anywhere, anytime, by anyone",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://legacyupdate.net/download-center/download/51025/update-for-windows-8.1-x64-kb3132080",
+    "title": "[英] Legacy Update for Windows 8.1 for x64-based Systems",
+    "date": "2026-05-18"
+  },
+  {
     "link": "https://www.chicagotribune.com/2026/05/15/sam-sianis-billy-goat-chicago-dies/",
     "title": "[英] Sam Sianis, Chicago's most famous saloonkeeper, has died",
     "date": "2026-05-18"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
     "title": "[英] Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-    "title": "[英] I don't think AI will make your processes go faster",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
-    "title": "[英] Apple Silicon costs more than OpenRouter",
     "date": "2026-05-18"
   }
 ]
