@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+    "title": "[英] Scientists believe ibogaine can help veterans overcome PTSD",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+    "title": "[英] Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+    "title": "[英] AI is a technology not a product",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/High-entropy_alloy",
+    "title": "[英] High-Entropy Alloy",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+    "title": "[英] WHO Declares Ebola Outbreak a Global Health Emergency",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://github.com/akiomik/mado",
+    "title": "[英] Mado: Fast Markdown linter written in Rust",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+    "title": "[英] Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+    "date": "2026-05-17"
+  },
+  {
     "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
     "title": "[英] I don't think AI will make your processes go faster",
     "date": "2026-05-17"
@@ -37,41 +72,6 @@
   {
     "link": "https://romanletters.org/",
     "title": "[英] Roman Letters",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48143205",
-    "title": "[英] XS Programming Language",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
-    "title": "[英] Playing Atari ST Music on the Amiga with Zero CPU",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all",
-    "title": "[英] Ten Signs of Fascism. America has all of them",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
-    "title": "[英] Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-    "title": "[英] Mozilla to UK regulators: VPNs are essential privacy and security tools",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://www.citroenet.org.uk/prototypes/metropolis/metropolis1.html",
-    "title": "[英] Citroën metropolis concept car (2010)",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://github.com/nkzw-tech/codiff/releases",
-    "title": "[英] Show HN: Codiff, a local diff review tool",
     "date": "2026-05-17"
   }
 ]
