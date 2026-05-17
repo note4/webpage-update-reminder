@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://addyosmani.com/blog/dont-outsource-learning/",
+    "title": "[英] Don't Outsource the Learning",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm",
+    "title": "[英] Scientists \"bottle the sun\" with a liquid battery that stores solar energy",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48171948",
+    "title": "[英] undefined",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://cp4space.hatsya.com/2026/05/03/schanuels-conjecture-and-the-semantics-of-fpsan/",
+    "title": "[英] Schanuel's Conjecture and the Semantics of Triton's FPSan",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake",
+    "title": "[英] The AI water issue is fake",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://opencivics-labs.github.io/dontsurveil.me/c22.html",
+    "title": "[英] Dontsurveil.me",
+    "date": "2026-05-18"
+  },
+  {
     "link": "https://github.com/MinishLab/semble",
     "title": "[英] Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
     "date": "2026-05-18"
@@ -36,42 +66,12 @@
   },
   {
     "link": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
-    "title": "[英] Americans Are Smashing Flock Cameras",
+    "title": "[英] At least 25 Flock cameras have been destroyed in five states since April 2025",
     "date": "2026-05-18"
   },
   {
     "link": "https://xslang.org",
     "title": "[英] XS: A programming language. Anywhere, anytime, by anyone",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://legacyupdate.net/download-center/download/51025/update-for-windows-8.1-x64-kb3132080",
-    "title": "[英] Legacy Update for Windows 8.1 for x64-based Systems",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.chicagotribune.com/2026/05/15/sam-sianis-billy-goat-chicago-dies/",
-    "title": "[英] Sam Sianis, Chicago's most famous saloonkeeper, has died",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://github.com/ShurikenTrade/shuriken-skills",
-    "title": "[英] Agentic Trading with Safe Guardrails",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.airships.net/hindenburg-smoking-room/",
-    "title": "[英] Hindenburg's Smoking Room",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://github.com/alternbits/awesome-cuda-books",
-    "title": "[英] CUDA Books",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://github.com/tech4bot/rk3562deb",
-    "title": "[英] I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
     "date": "2026-05-18"
   }
 ]
