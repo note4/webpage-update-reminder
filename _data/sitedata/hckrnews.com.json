@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://github.com/MinishLab/semble",
+    "title": "[英] Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/",
+    "title": "[英] EU weighs restricting use of US cloud platforms to process sensitive gov data",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+    "title": "[英] Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
+    "title": "[英] The occasional ECONNRESET",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://twitter.com/ryangrim/status/2055992439031185782",
+    "title": "[英] Meta deletes popular 1M follower account after Kuwaiti request",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5",
+    "title": "[英] Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://sphericalcowconsulting.com/2026/04/14/age-assurance/",
+    "title": "[英] Age Assurance on the Internet: Identity, Privacy, and the Limits of Verification",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+    "title": "[英] Americans Are Smashing Flock Cameras",
+    "date": "2026-05-18"
+  },
+  {
     "link": "https://xslang.org",
     "title": "[英] XS: A programming language. Anywhere, anytime, by anyone",
     "date": "2026-05-18"
@@ -32,46 +72,6 @@
   {
     "link": "https://github.com/tech4bot/rk3562deb",
     "title": "[英] I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48169255",
-    "title": "[英] undefined",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
-    "title": "[英] Scientists believe ibogaine can help veterans overcome PTSD",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-    "title": "[英] Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-    "title": "[英] AI is a technology not a product",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/High-entropy_alloy",
-    "title": "[英] High-Entropy Alloy",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
-    "title": "[英] WHO Declares Ebola Outbreak a Global Health Emergency",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://github.com/akiomik/mado",
-    "title": "[英] Mado: Fast Markdown linter written in Rust",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-    "title": "[英] Every AI Subscription Is a Ticking Time Bomb for Enterprise",
     "date": "2026-05-18"
   }
 ]
