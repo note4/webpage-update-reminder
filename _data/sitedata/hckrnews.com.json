@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+    "title": "[英] Prolog Basics Explained with Pokémon",
+    "date": "2026-05-17"
+  },
+  {
+    "link": "https://romanletters.org/",
+    "title": "[英] Roman Letters",
+    "date": "2026-05-17"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=48143205",
     "title": "[英] XS Programming Language",
     "date": "2026-05-17"
@@ -41,7 +51,7 @@
   },
   {
     "link": "https://link.springer.com/article/10.1007/s42113-026-00271-1",
-    "title": "[英] Illusions of Understanding in the Sciences",
+    "title": "[英] Illusions of understanding in the sciences",
     "date": "2026-05-17"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php",
     "title": "[英] Bear spray is exploding in the trash near Yellowstone National Park",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
-    "title": "[英] C++26 Shipped a SIMD Library Nobody Asked For",
-    "date": "2026-05-17"
-  },
-  {
-    "link": "https://arxiv.org/abs/2601.19897",
-    "title": "[英] Self-Distillation Enables Continual Learning [pdf]",
     "date": "2026-05-17"
   }
 ]
