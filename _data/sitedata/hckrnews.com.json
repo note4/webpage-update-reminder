@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://carette.xyz/posts/who_will_buy_your_services/",
+    "title": "[英] Who will buy your services if you fire us all?",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://baltazarstudios.com/calculator/",
+    "title": "[英] Designing an FPGA Calculator from Scratch",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://blog.bidisaster.party/spas/",
+    "title": "[英] The tyranny of single page apps",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://matthewkosarek.xyz/posts/jetbrains/",
+    "title": "[英] No More JetBrains Products for Me",
+    "date": "2026-05-19"
+  },
+  {
     "link": "https://loopmaster.xyz/",
     "title": "[英] loopmaster – Livecoding Music IDE",
     "date": "2026-05-19"
@@ -52,26 +72,6 @@
   {
     "link": "https://odyssey.ml/introducing-agora-1",
     "title": "[英] Agora-1: The Multi-Agent World Model",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/",
-    "title": "[英] Haiku OS runs on M1 Macs now",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
-    "title": "[英] Haiku OS runs on M1 Macs now",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cq6pz60p996o",
-    "title": "[英] At least 100 deaths reported in Ebola outbreak in DR Congo",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-    "title": "[英] Anduril and Meta's quest to make smart glasses for warfare",
     "date": "2026-05-19"
   }
 ]
