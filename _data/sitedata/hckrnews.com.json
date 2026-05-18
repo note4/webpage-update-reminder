@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://github.com/open-energy-transition/grid2poster",
+    "title": "[英] Design posters showcasing your country's electrical grid",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://jank-lang.org/blog/2026-05-08-optimization/",
+    "title": "[英] Jank now has its own custom IR",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment",
+    "title": "[英] An AI Hate Wave Is Here",
+    "date": "2026-05-18"
+  },
+  {
     "link": "https://xca-attacks.github.io/fabricked/",
     "title": "[英] Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
     "date": "2026-05-18"
@@ -57,21 +72,6 @@
   {
     "link": "https://spectrum.ieee.org/payphone-voip",
     "title": "[英] VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://twitter.com/kimmonismus/status/2055952702908355012",
-    "title": "[英] Microsoft AI CEO forecasts human-level AI in 18 months",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.72964",
-    "title": "[英] Multi-Species Canopy Latrines in Costa Rican Cloud Forests",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
-    "title": "[英] Magical Realism: “Northern Exposure” 25 Years Later (2015)",
     "date": "2026-05-18"
   }
 ]
