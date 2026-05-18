@@ -1,7 +1,52 @@
 [
   {
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/17/america-china-energy-oil-renewables",
-    "title": "[英] The American epoch of oil is collapsing. What comes next could be ugly",
+    "link": "https://github.com/ERufian/ksharp",
+    "title": "[英] kharp – k version 3 Language Interpreter in C#",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/",
+    "title": "[英] Profunctor Equipment in Haskell",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://twitter.com/josefprusa/status/2054602354851254330",
+    "title": "[英] BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://lalitm.com/post/which-country-voted-best-at-eurovision/",
+    "title": "[英] Which country voted the best at Eurovision?",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
+    "title": "[英] Crystals found inside wreckage from the first nuclear bomb test",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=1OIxzewWilc",
+    "title": "[英] Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://freelang.dev",
+    "title": "[英] Freelang – a Libc-free, direct sys/kernel call language with weird concurrency",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://github.com/ABGEO/mezz",
+    "title": "[英] Show HN: Mezz, a curl-able WiFi sandbox for IoT pentesting",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/",
+    "title": "[英] America's Most-Spoken Languages After English and Spanish",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48175061",
+    "title": "[英] undefined",
     "date": "2026-05-18"
   },
   {
@@ -11,7 +56,7 @@
   },
   {
     "link": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-    "title": "[英] There Is No 'Hard Problem of Consciousness'",
+    "title": "[英] It is time to give up the dualism introduced by the debate on consciousness",
     "date": "2026-05-18"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48174988",
     "title": "[英] undefined",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-    "title": "[英] WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://sites.math.rutgers.edu/~zeilberg/Opinion82.html",
-    "title": "[英] A Good Lemma Is Worth a Thousand Theorems (2007)",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.science.org/content/article/scientists-id-corkscrew-killer-behind-gruesome-seal-deaths",
-    "title": "[英] Cannibalistic attacks between gray seals leave telltale “corkscrew” injuries",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://github.com/open-energy-transition/grid2poster",
-    "title": "[英] Design posters showcasing your country's electrical grid",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://jank-lang.org/blog/2026-05-08-optimization/",
-    "title": "[英] Jank now has its own custom IR",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment",
-    "title": "[英] An AI Hate Wave Is Here",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://xca-attacks.github.io/fabricked/",
-    "title": "[英] Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-    "title": "[英] Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.jdhodges.com/blog/thinkpad-history/",
-    "title": "[英] The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
     "date": "2026-05-18"
   }
 ]
