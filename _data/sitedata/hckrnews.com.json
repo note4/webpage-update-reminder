@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
+    "title": "[英] Mexican government breached by solo user with Claude, 150 GB exfiltrated",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://loup-vaillant.fr/articles/lava-lamps-and-randomness",
+    "title": "[英] The Futility of Lava Lamps: What Random Means",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://arxiv.org/abs/2601.10160",
+    "title": "[英] Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://electrek.co/2026/05/18/us-bill-would-overcharge-evs-to-pay-for-road-damage-they-arent-doing/",
+    "title": "[英] US bill proposes new national EV tax, while some push to slash gas tax to zero",
+    "date": "2026-05-19"
+  },
+  {
     "link": "https://carette.xyz/posts/who_will_buy_your_services/",
     "title": "[英] Who will buy your services if you fire us all?",
     "date": "2026-05-19"
@@ -52,26 +72,6 @@
   {
     "link": "https://apnews.com/article/mamdani-nyc-hochul-tax-rich-a30833850bfdbd638634def266ca76dd",
     "title": "[英] New York to tax luxury second homes in NYC",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://hyperpolyglot.org/lisp",
-    "title": "[英] Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://andonlabs.com/blog/andon-fm",
-    "title": "[英] We let AIs run radio stations",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://dl.acm.org/doi/10.1145/3725843.3756043",
-    "title": "[英] Stratum: System-Hardware Co-Design with 3D-Stackable DRAM for Efficient Moe",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://odyssey.ml/introducing-agora-1",
-    "title": "[英] Agora-1: The Multi-Agent World Model",
     "date": "2026-05-19"
   }
 ]
