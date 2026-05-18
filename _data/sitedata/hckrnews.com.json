@@ -1,7 +1,62 @@
 [
   {
+    "link": "https://dl.acm.org/doi/10.1145/3725843.3756043",
+    "title": "[英] Stratum: System-Hardware Co-Design with 3D-Stackable DRAM for Efficient Moe",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://odyssey.ml/introducing-agora-1",
+    "title": "[英] Agora-1: The Multi-Agent World Model",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/",
+    "title": "[英] Haiku OS runs on M1 Macs now",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+    "title": "[英] Haiku OS runs on M1 Macs now",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cq6pz60p996o",
+    "title": "[英] At least 100 deaths reported in Ebola outbreak in DR Congo",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+    "title": "[英] Anduril and Meta's quest to make smart glasses for warfare",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://www.cnn.com/2026/05/17/middleeast/iran-hormuz-undersea-cables-intl",
+    "title": "[英] Iran will impose fees on subsea internet cables in Strait of Hormuz",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://modal.com/blog/truly-serverless-gpus",
+    "title": "[英] Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://fil-c.org/calling_convention",
+    "title": "[英] The Fil-C Optimized Calling Convention",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
+    "title": "[英] Garry Tan, the CEO of YC, accused me of unethical reporting",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "title": "[英] Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "date": "2026-05-19"
+  },
+  {
     "link": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
-    "title": "[英] Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait",
+    "title": "[英] Iran starts Bitcoin-backed ship insurance for Hormuz strait",
     "date": "2026-05-19"
   },
   {
@@ -11,67 +66,12 @@
   },
   {
     "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-    "title": "[英] Anthropic Acquires Stainless",
+    "title": "[英] Anthropic acquires Stainless",
     "date": "2026-05-19"
   },
   {
     "link": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
     "title": "[英] Qwen 3.7 Preview",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://alexplescan.com/posts/2025/08/16/kvm/",
-    "title": "[英] Two computers, one monitor, zero fiddling – Alex Plescan",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://github.com/InsForge/InsForge",
-    "title": "[英] Show HN: InsForge – Open-source Heroku for coding agents",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://www.npr.org/2026/05/18/nx-s1-5815315/stephen-colbert-final-show",
-    "title": "[英] For 20 years, Stephen Colbert distinguished truth from truthiness",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://github.com/KevinKenya/nairobi-connector-open-source",
-    "title": "[英] A Rust-Python thing I am working on. Apache 2 licence",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://walkinglabs.github.io/learn-harness-engineering/en/",
-    "title": "[英] Learn Harness Engineering",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "http://aesthetikx.info/blog/date_italy.html",
-    "title": "[英] What Is Date:Italy?",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
-    "title": "[英] Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://archestra.ai/blog/only-responsible-ai",
-    "title": "[英] We stopped AI bot spam in our GitHub repo using Git's –author flag",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://blog.cloudflare.com/cyber-frontier-models/",
-    "title": "[英] Project Glasswing: what Mythos showed us",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://www.wired.com/story/normie-vibe-code/",
-    "title": "[英] I'm a Normie. Can Normies Vibe Code?",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://gadallon.substack.com/p/the-third-time-amazon-did-this-what",
-    "title": "[英] What “Amazon Supply Chain Services” Tells Us About What Amazon Is",
     "date": "2026-05-19"
   }
 ]
