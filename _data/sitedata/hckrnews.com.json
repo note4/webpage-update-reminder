@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://storica.club/blog/alice-is-math-jokes/",
+    "title": "[英] Math Jokes in Alice in Wonderland",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://dogma25.dk/",
+    "title": "[英] Dogme 25 – Vow of Chastity",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://www.derekthompson.org/p/why-the-whole-world-stopped-having",
+    "title": "[英] The Global Fertility Crisis Is Worse Than You Probably Think",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
+    "title": "[英] NASA still maintains some of the Voyager spacecraft code from the 70s era",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://github.com/El-EnderJ/NeoCalculator",
+    "title": "[英] Graphing Scientific Calculator Based on the ESP32",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/",
+    "title": "[英] Where Are the Vibecoded Photoshops?",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "http://www.csl.sri.com/users/neumann/psos.pdf",
+    "title": "[英] The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
+    "title": "[英] Multiple commencement speakers booed for AI comments during graduation speeches",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://beeble.com/en/blog/the-30-hour-shift-that-turned-a-san-jose-robot-lab-into-a-global-spectacle",
+    "title": "[英] The 30-Hour Shift That Turned a San Jose Robot Lab into a Global Spectacle",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126",
+    "title": "[英] Germany goes from labour shortages to hiring freezes",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://howtocenterdiv.com/beyond-the-div/nobody-pushed-back",
+    "title": "[英] Nobody Pushed Back: Why Engineers Stay Silent Until It's Too Late",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://www.reuters.com/world/americas/colombian-singer-shakira-acquitted-tax-fraud-spain-2026-05-18/",
+    "title": "[英] Colombian singer Shakira acquitted of tax fraud in Spain",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://www.wired.com/story/build-a-radio-wave-detector-with-balls-of-aluminum-foil/",
+    "title": "[英] Build a Radio Wave Detector with Balls of Aluminum Foil",
+    "date": "2026-05-18"
+  },
+  {
+    "link": "https://www.reddit.com/r/pasadena/s/94BHlkE84r",
+    "title": "[英] Why is Google Maps back to showing old satellite images of Altadena?",
+    "date": "2026-05-18"
+  },
+  {
     "link": "https://github.com/ERufian/ksharp",
     "title": "[英] kharp – k version 3 Language Interpreter in C#",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/",
-    "title": "[英] Profunctor Equipment in Haskell",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://twitter.com/josefprusa/status/2054602354851254330",
-    "title": "[英] BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://lalitm.com/post/which-country-voted-best-at-eurovision/",
-    "title": "[英] Which country voted the best at Eurovision?",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
-    "title": "[英] Crystals found inside wreckage from the first nuclear bomb test",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=1OIxzewWilc",
-    "title": "[英] Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://freelang.dev",
-    "title": "[英] Freelang – a Libc-free, direct sys/kernel call language with weird concurrency",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://github.com/ABGEO/mezz",
-    "title": "[英] Show HN: Mezz, a curl-able WiFi sandbox for IoT pentesting",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/",
-    "title": "[英] America's Most-Spoken Languages After English and Spanish",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48175061",
-    "title": "[英] undefined",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://cognitum.one/RuView#capabilities",
-    "title": "[英] Sense Humans with WiFi – Ruview",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-    "title": "[英] It is time to give up the dualism introduced by the debate on consciousness",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
-    "title": "[英] Most Americans don't trust AI – or the people in charge of it (2025)",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://hardware.majix.org/computers/sgi/buyers-guide.shtml",
-    "title": "[英] The SGI Buyer's Guide (2003)",
-    "date": "2026-05-18"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48174988",
-    "title": "[英] undefined",
     "date": "2026-05-18"
   }
 ]
