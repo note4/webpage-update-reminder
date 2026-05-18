@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/05/18/pay-later-is-becoming-the-tiebreaker-at-checkout/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "結帳頁成零售新戰場：BNPL 如何從支付選項，升級為商家提高成交機會的新工具？",
+    "date": "2026-05-18 11:31:09"
+  },
+  {
+    "link": "https://techorange.com/2026/05/18/ai-lies-most/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "追求零幻覺可能是錯誤目標，AI 幻覺問題從無解變成「可管理的技術挑戰」",
+    "date": "2026-05-18 10:13:53"
+  },
+  {
+    "link": "https://techorange.com/2026/05/18/open-source-ai-for-enterprises/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "開源 AI 還是次要選項？模型效能已媲美商業產品，將以成本做為突破口",
+    "date": "2026-05-18 10:13:43"
+  },
+  {
     "link": "https://techorange.com/2026/05/18/openai-chatgpt-personal-finance-experience/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】ChatGPT 開始讀取銀行帳戶，OpenAI 把 AI 助理推進個人理財",
     "date": "2026-05-18 06:50:00"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/05/15/openai-capital-battle-heats-up-tsmc-bets-on-coupe/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】OpenAI 資本戰升溫、台積電押 COUPE，AI 競爭從算力燒到供應鏈",
     "date": "2026-05-15 06:50:00"
-  },
-  {
-    "link": "https://techorange.com/2026/05/14/rivian-rj-scaringes-mind-robotics-with-ai-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "直接進入 Rivian 產線練兵：新創 Mind Robotics 估值破 34 億美元，靠數據打造懂現場的 AI 機器人",
-    "date": "2026-05-14 18:14:04"
-  },
-  {
-    "link": "https://techorange.com/2026/05/14/nvidia-an-introduction-to-robot-simulation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "從 Sim-to-Real 到 Autonomous Agent：NVIDIA 專家揭 AI 機器人從模擬訓練提前試錯，再到真實部署的關鍵歷程",
-    "date": "2026-05-14 18:09:43"
-  },
-  {
-    "link": "https://techorange.com/2026/05/14/advantech-computex-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "研華 COMPUTEX 首度整合全球夥伴大會，強化全球邊緣 AI 生態系鏈結",
-    "date": "2026-05-14 17:53:20"
   }
 ]
