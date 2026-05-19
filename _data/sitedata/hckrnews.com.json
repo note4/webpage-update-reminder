@@ -1,7 +1,32 @@
 [
   {
+    "link": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/",
+    "title": "[英] When can the C++ compiler devirtualize a call?",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://vas-blog.pages.dev/qwen-censorship/",
+    "title": "[英] What political censorship looks like inside an LLM's weights (Qwen 3.5)",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://wickstrom.tech/2026-05-16-coding-on-paper.html",
+    "title": "[英] Coding on Paper",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+    "title": "[英] Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://isabisabel.com/gacha/",
+    "title": "[英] Show HN: Number Gacha, a gacha game distilled to its essence",
+    "date": "2026-05-19"
+  },
+  {
     "link": "https://clickclickclick.click/",
-    "title": "[英] Click",
+    "title": "[英] Click (2016)",
     "date": "2026-05-19"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://blog.bidisaster.party/spas/",
     "title": "[英] The tyranny of single page apps",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://matthewkosarek.xyz/posts/jetbrains/",
-    "title": "[英] No More JetBrains Products for Me",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://loopmaster.xyz/",
-    "title": "[英] Loopmaster – Livecoding Music IDE",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://www.standwithcrypto.org/eu/en/manifesto",
-    "title": "[英] Crypto industry lobbies to evade AML/CTF rules",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://www.codingexplorations.com/blog/understanding-singleflight-in-golang-a-solution-for-eliminating-redundant-work",
-    "title": "[英] Understanding Singleflight in Go",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://www.advanced-research.net/180db",
-    "title": "[英] Show HN: We missed Winamp, so we built an audio player for macOS",
     "date": "2026-05-19"
   }
 ]
