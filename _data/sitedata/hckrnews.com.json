@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://github.com/vostride/id-agent",
+    "title": "[英] Show HN: Id-agent – Token efficient UUID alternative for AI agents",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://github.com/Diolinux/PhotoGIMP",
+    "title": "[英] Photo GIMP – A Patch for GIMP 3 for Photoshop Users",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://superspl.at/scene/84df8849",
+    "title": "[英] Gaussian Splat of a Strawberry",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://runrepeat.com/guides/energy-return-in-running-shoes",
+    "title": "[英] Energy return in running shoes explained (2025)",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
+    "title": "[英] I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
+    "date": "2026-05-19"
+  },
+  {
     "link": "https://www.thesmallbow.com/p/consider-the-sister-2b94",
     "title": "[英] Consider the Sister",
     "date": "2026-05-19"
@@ -47,31 +72,6 @@
   {
     "link": "https://closedrings.sh/en",
     "title": "[英] Show HN: Closed Rings – A CLI-first time tracker for developers",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://www.llmcap.io/",
-    "title": "[英] LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://www.kv4p.com/",
-    "title": "[英] Turn your Android phone into a ham radio transceiver",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
-    "title": "[英] Codex-maxxing",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://github.com/harmont-dev/hsrs",
-    "title": "[英] Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://apps.apple.com/us/app/sieve-secret-scanner/id6767409365?mt=12",
-    "title": "[英] Sieve – scans Cursor/Claude chat history for leaked API keys",
     "date": "2026-05-19"
   }
 ]
