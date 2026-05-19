@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://setpose.com/",
+    "title": "[英] Show HN: I made a 3D pose maker for artists",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+    "title": "[英] CISA Admin Leaked AWS GovCloud Keys on GitHub",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/",
+    "title": "[英] Anthropic Is Preparing for IPO and We Should Be Worried",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/",
+    "title": "[英] Hanoi's humble beer glass and the memory of a nation",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/",
+    "title": "[英] An Apple (II) for Teacher",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://www.openbsd.org/79.html",
+    "title": "[英] OpenBSD 7.9 Released",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://www.timesofisrael.com/idf-struggles-to-throttle-endless-feed-of-soldiers-posting-misdeeds-on-social-media/",
+    "title": "[英] IDF struggles to curb endless feed of soldiers posting misdeeds on social media",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Colonization_of_Venus",
+    "title": "[英] Colonization of Venus",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://github.com/status-im/nim-presto",
+    "title": "[英] Nim-Presto – REST API Framework for Nim Language",
+    "date": "2026-05-19"
+  },
+  {
+    "link": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+    "title": "[英] New accessibility features powered by Apple Intelligence",
+    "date": "2026-05-19"
+  },
+  {
     "link": "https://github.com/vostride/id-agent",
     "title": "[英] Show HN: Id-agent – Token efficient UUID alternative for AI agents",
     "date": "2026-05-19"
@@ -22,56 +72,6 @@
   {
     "link": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
     "title": "[英] I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://www.thesmallbow.com/p/consider-the-sister-2b94",
-    "title": "[英] Consider the Sister",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://meertens.dev/blog/github-enables-domain-abuse/",
-    "title": "[英] My domain got abused on GitHub Pages",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/",
-    "title": "[英] The lasting influence of Netscape Time",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
-    "title": "[英] Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://polypad.amplify.com/",
-    "title": "[英] Polypad",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48181969",
-    "title": "[英] undefined",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir",
-    "title": "[英] Mug Shots: A Small Town Noir (2014)",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/",
-    "title": "[英] Make ZIP files smaller with ZIP Shrinker",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://github.com/clark-labs-inc/clark-browser",
-    "title": "[英] Show HN: Clark-Browser – Stealth Chromium",
-    "date": "2026-05-19"
-  },
-  {
-    "link": "https://closedrings.sh/en",
-    "title": "[英] Show HN: Closed Rings – A CLI-first time tracker for developers",
     "date": "2026-05-19"
   }
 ]
