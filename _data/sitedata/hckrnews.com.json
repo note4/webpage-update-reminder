@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://distill.pub/2020/growing-ca/",
+    "title": "[英] Growing Neural Cellular Automata",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://openai.com/index/advancing-content-provenance/",
+    "title": "[英] OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://github.com/crossplane-contrib/crossview",
+    "title": "[英] Crossview 4.4.0 is now available",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://www.autonocion.com/us/tesla-lithium-refinery-texas/",
+    "title": "[英] Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://www.linusakesson.net/programming/tty/index.php",
+    "title": "[英] The TTY Demystified (2008)",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
+    "title": "[英] Dumb Ways for an Open Source Project to Die",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://www.thevccorner.com/p/breaking-andrej-karpathy-joins-anthropic",
+    "title": "[英] Andrej Karpathy Joins Anthropic",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+    "title": "[英] Minnesota becomes first state to ban prediction markets",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://github.com/antoinezambelli/forge",
+    "title": "[英] Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
+    "title": "[英] Era: From Nature publication to catalyzing Computational Discovery",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+    "title": "[英] Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+    "title": "[英] Google changes its search box",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
+    "title": "[英] Disney erased FiveThirtyEight",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&smid=url-share",
+    "title": "[英] Google changes its search box for the first time in 25 years",
+    "date": "2026-05-20"
+  },
+  {
     "link": "https://thebowesmuseum.org.uk/collections/the-silver-swan/",
-    "title": "[英] The Silver Swan Automaton (1773)",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-    "title": "[英] Gemini 3.5 Flash",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome",
-    "title": "[英] AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html",
-    "title": "[英] Deciphering the Hashihara Castle Town Map",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
-    "title": "[英] Google Search as you know it is over",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://deepmind.google/models/gemini-omni/",
-    "title": "[英] Gemini Omni",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://touchdown-labs.com/blog/kv-cache-memory-hierarchy-inference.html",
-    "title": "[英] KV Cache Is Becoming the Memory Hierarchy of Inference",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://forum.cursor.com/t/cloud-agents-broken-ii/161036",
-    "title": "[英] Cursor Cloud Agents Down",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://www.theguardian.com/books/2026/may/18/big-tech-monopolies-democracy-mordecai-kurz",
-    "title": "[英] 'Capitalism has to become more humane': a Stanford economist on big tech",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://retractionwatch.com/2026/05/18/kaggle-dataset-clinical-models-stroke-diabetes/",
-    "title": "[英] 'Comically bad' datasets used to train clinical models for stroke and diabetes",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-    "title": "[英] Gemini 3.5 Flash: frontier intelligence with action",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac",
-    "title": "[英] Graduates are booing pep talks on AI at college commencements",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://github.com/raindrop-ai/workshop",
-    "title": "[英] Raindrop Workshop: Local OSS agent debugger",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
-    "title": "[英] KV Sharing, MHC, and Compressed Attention",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://insideevs.com/news/796222/ev-fee-gas-tax-house-bill-2026/",
-    "title": "[英] Congress Wants You to Pay $130 a Year Just to Drive an Electric Car",
+    "title": "[英] The Silver Swan",
     "date": "2026-05-20"
   }
 ]
