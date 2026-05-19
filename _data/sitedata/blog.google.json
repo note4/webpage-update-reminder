@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/products/education/measuring-the-impact-of-ai-on-teaching-and-learning/",
+    "title": "[英] Measuring the impact of AI on teaching and learning",
+    "date": "2026-05-19 15:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/partnering-with-unicef-to-support-innovation-in-education-across-the-globe/",
+    "title": "[英] Partnering with UNICEF to support innovation in education across the globe",
+    "date": "2026-05-19 15:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud/",
     "title": "[英] Blackstone will create a new TPU cloud in a joint venture with Google.",
     "date": "2026-05-19 09:00:00"
@@ -45,11 +55,6 @@
     "date": "2026-05-13 14:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/chrome/bringing-chrome-ai-to-android/",
-    "title": "[英] Bringing the best of Gemini in Chrome to Android",
-    "date": "2026-05-13 01:00:00"
-  },
-  {
     "link": "https://blog.google/products-and-platforms/platforms/android/meet-googlebook/",
     "title": "[英] Introducing Googlebook, designed for Gemini Intelligence",
     "date": "2026-05-13 01:00:00"
@@ -60,18 +65,13 @@
     "date": "2026-05-13 01:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/platforms/android/android-in-cars-updates/",
-    "title": "[英] Do more and have more fun with the next generation of Android in the car",
+    "link": "https://blog.google/products-and-platforms/products/chrome/bringing-chrome-ai-to-android/",
+    "title": "[英] Bringing the best of Gemini in Chrome to Android",
     "date": "2026-05-13 01:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/platforms/android/noto-3d-emoji/",
-    "title": "[英] Express yourself with our new 3D emoji.",
-    "date": "2026-05-13 01:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/platforms/android/new-android-updates/",
-    "title": "[英] Android makes it easier to share, switch and connect securely",
+    "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/",
+    "title": "[英] A smarter, more proactive Android with Gemini Intelligence",
     "date": "2026-05-13 01:00:00"
   }
 ]
