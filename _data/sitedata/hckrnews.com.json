@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://github.com/wiltodelta/remove-ai-watermarks",
+    "title": "[英] Remove AI Watermarks",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://leonardo-boquillon.com/photonic-cop-supply-chain",
+    "title": "[英] Tool mapping 90 companies in the photonics and CPO supply chain",
+    "date": "2026-05-20"
+  },
+  {
     "link": "https://sep.turbifycdn.com/ty/cdn/paulgraham/bbnexcerpts.txt",
     "title": "[英] Lisp in Web-Based Applications (2001)",
     "date": "2026-05-20"
@@ -45,8 +55,8 @@
     "date": "2026-05-20"
   },
   {
-    "link": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
-    "title": "[英] Era: From Nature publication to catalyzing Computational Discovery",
+    "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+    "title": "[英] Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
     "date": "2026-05-20"
   },
   {
@@ -55,23 +65,13 @@
     "date": "2026-05-20"
   },
   {
-    "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-    "title": "[英] Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
-    "title": "[英] Disney erased FiveThirtyEight",
+    "link": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
+    "title": "[英] Era: From Nature publication to catalyzing Computational Discovery",
     "date": "2026-05-20"
   },
   {
     "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
     "title": "[英] Google changes its search box",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&smid=url-share",
-    "title": "[英] Google changes its search box for the first time in 25 years",
     "date": "2026-05-20"
   }
 ]
