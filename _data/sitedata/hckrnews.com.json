@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://sep.turbifycdn.com/ty/cdn/paulgraham/bbnexcerpts.txt",
+    "title": "[英] Lisp in Web-Based Applications (2001)",
+    "date": "2026-05-20"
+  },
+  {
     "link": "https://distill.pub/2020/growing-ca/",
     "title": "[英] Growing Neural Cellular Automata",
     "date": "2026-05-20"
@@ -30,18 +35,13 @@
     "date": "2026-05-20"
   },
   {
-    "link": "https://www.thevccorner.com/p/breaking-andrej-karpathy-joins-anthropic",
-    "title": "[英] Andrej Karpathy Joins Anthropic",
-    "date": "2026-05-20"
-  },
-  {
     "link": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
     "title": "[英] Minnesota becomes first state to ban prediction markets",
     "date": "2026-05-20"
   },
   {
-    "link": "https://github.com/antoinezambelli/forge",
-    "title": "[英] Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+    "link": "https://www.thevccorner.com/p/breaking-andrej-karpathy-joins-anthropic",
+    "title": "[英] Andrej Karpathy Joins Anthropic",
     "date": "2026-05-20"
   },
   {
@@ -50,13 +50,13 @@
     "date": "2026-05-20"
   },
   {
-    "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-    "title": "[英] Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+    "link": "https://github.com/antoinezambelli/forge",
+    "title": "[英] Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
     "date": "2026-05-20"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-    "title": "[英] Google changes its search box",
+    "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+    "title": "[英] Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
     "date": "2026-05-20"
   },
   {
@@ -65,13 +65,13 @@
     "date": "2026-05-20"
   },
   {
-    "link": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&smid=url-share",
-    "title": "[英] Google changes its search box for the first time in 25 years",
+    "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+    "title": "[英] Google changes its search box",
     "date": "2026-05-20"
   },
   {
-    "link": "https://thebowesmuseum.org.uk/collections/the-silver-swan/",
-    "title": "[英] The Silver Swan",
+    "link": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&smid=url-share",
+    "title": "[英] Google changes its search box for the first time in 25 years",
     "date": "2026-05-20"
   }
 ]
