@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.jeremykun.com/shortform/2026-04-13-0700/",
+    "title": "[英] Unusual uses of OEIS sequences on GitHub",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://museumplantinmoretus.be/en/worlds-two-oldest-printing-presses",
+    "title": "[英] The two oldest printing presses",
+    "date": "2026-05-20"
+  },
+  {
     "link": "https://github.com/wiltodelta/remove-ai-watermarks",
     "title": "[英] Remove AI Watermarks",
     "date": "2026-05-20"
@@ -55,23 +65,13 @@
     "date": "2026-05-20"
   },
   {
-    "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-    "title": "[英] Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://github.com/antoinezambelli/forge",
-    "title": "[英] Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-    "date": "2026-05-20"
-  },
-  {
     "link": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
     "title": "[英] Era: From Nature publication to catalyzing Computational Discovery",
     "date": "2026-05-20"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-    "title": "[英] Google changes its search box",
+    "link": "https://github.com/antoinezambelli/forge",
+    "title": "[英] Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
     "date": "2026-05-20"
   }
 ]
