@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report",
+    "title": "[英] None of Starbucks' 'Widely Recyclable' Cups Ended Up at a Recycling Facility",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.reuters.com/world/middle-east/hormuz-closure-could-trigger-agrifood-shock-price-crisis-within-year-fao-warns-2026-05-20/",
+    "title": "[英] Hormuz closure could trigger 'agrifood shock', price crisis within a year",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
+    "title": "[英] Why is Inkwell stuck in review",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://newatlas.com/energy/cooling-copper-plates-data-center-energy-use/",
+    "title": "[英] Cooling copper plates could slash data center energy use by 90%",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/",
+    "title": "[英] Sharla Boehm, the programmer whose code underpins the Internet",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://jacobharr.is/personal/i-dont-vibe-code",
+    "title": "[英] I Don't Vibe Code",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://mikeveerman.github.io/tokenspeed/",
+    "title": "[英] How fast is N tokens per second really?",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48210590",
+    "title": "[英] Ask HN: Shouldn't Google need to give a public statement about Railway incident?",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.wsj.com/finance/banking/ceo-walks-back-comment-about-replacing-lower-value-human-capital-with-ai-15bdfc5c",
+    "title": "[英] CEO Walks Back Comment About Replacing 'Lower-Value Human Capital' with AI",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.404media.co/after-town-bans-flock-councilmember-crashes-out-proposes-internet-and-phone-ban/",
+    "title": "[英] After Town Bans Flock, Councilmember Crashes Out, Proposes Internet, Phone Ban",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://github.com/bytedance/Lance",
+    "title": "[英] Show HN: Lance – image/video generation and understanding in one model",
+    "date": "2026-05-21"
+  },
+  {
     "link": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
     "title": "[英] OpenAI Is Preparing to File for an IPO Soon",
     "date": "2026-05-21"
@@ -17,61 +72,6 @@
   {
     "link": "https://www.alexselimov.com/posts/forge_fragmentation/",
     "title": "[英] Handling the great code forge fragmentation",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
-    "title": "[英] Formal Verification Gates for AI Coding Loops",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.17991",
-    "title": "[英] Stable Audio 3",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
-    "title": "[英] SBCL: The Assembly Code Breadboard (2014)",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://github.com/ueberdosis/hocuspocus",
-    "title": "[英] Show HN: Hocuspocus 4 – Yjs collab server",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.edn.com/smartmedia-card-interface-spec-opened-available-for-free/#google_vignette",
-    "title": "[英] Smartmedia Card Spec Opened, available free (2000)",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://lithub.com/nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel/",
-    "title": "[英] Nobel laureate Olga Tokarczuk apparently used AI to write her latest novel",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://github.com/shenli/distributed-system-testing",
-    "title": "[英] Testing distributed systems with AI agents",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
-    "title": "[英] Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://medium.com/advanced-deep-learning/autoregressive-next-token-prediction-kv-cache-in-transformers-afad22285baf",
-    "title": "[英] Autoregressive next token prediction and KV Cache in transformers",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://bmjgroup.com/560-610-minutes-of-exercise-a-week-needed-for-substantial-heart-benefits/",
-    "title": "[英] 560-610 minutes of exercise a week needed for substantial heart benefits",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen",
-    "title": "[英] America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen",
     "date": "2026-05-21"
   }
 ]
