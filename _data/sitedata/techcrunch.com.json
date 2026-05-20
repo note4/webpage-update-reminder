@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
+    "title": "[英] GitHub says hackers stole data from thousands of internal repositories",
+    "date": "2026-05-20 21:25:58"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+    "title": "[英] Figma adds an AI assistant to its collaborative canvas",
+    "date": "2026-05-20 21:00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/20/quartermaster-is-building-a-maritime-hive-mind/",
+    "title": "[英] Quartermaster is building a maritime hive mind",
+    "date": "2026-05-20 21:00:00"
+  },
+  {
     "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
     "title": "[英] ‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
     "date": "2026-05-20 13:45:00"
@@ -58,20 +73,5 @@
     "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
     "title": "[英] Google Search as you know it is over",
     "date": "2026-05-20 01:46:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
-    "title": "[英] Google’s AI Studio now lets anyone build Android apps in minutes",
-    "date": "2026-05-20 01:45:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
-    "title": "[英] Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
-    "date": "2026-05-20 01:45:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
-    "title": "[英] Agentic app coding gets an upgrade with Google’s release of Android CLI",
-    "date": "2026-05-20 01:45:00"
   }
 ]
