@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.nature.com/articles/s41586-026-10501-y",
+    "title": "[英] Long-term editing of brain circuits using an engineered electrical synapse",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
+    "title": "[英] GitHub's take on age assurance for developers",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.openculture.com/2026/05/archaeologists-discover-ancient-egyptian-mummy-buried-with-pages-from-homers-iliad.html",
+    "title": "[英] Archaeologists find Egyptian mummy buried with the 'Iliad'",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+    "title": "[英] Google Declaring War on the Web",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.spacex.com/launches/starship-flight-12",
+    "title": "[英] Starship's Twelfth Flight Test",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://legiscan.com/CO/bill/SB051/2026",
+    "title": "[英] Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://github.com/mupt-ai/dari-docs",
+    "title": "[英] Show HN: Dari-docs – Optimize your docs using parallel coding agents",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://tldr.nettime.org/@tante/116605858023186072",
+    "title": "[英] In Yesterday's IO Keynote Google Declared War on the Remnants of the Web",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
+    "title": "[英] PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.tbray.org/ongoing/When/202x/2026/05/19/Declining-America",
+    "title": "[英] Declining America",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
+    "title": "[英] SpaceX S-1",
+    "date": "2026-05-21"
+  },
+  {
     "link": "https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death/",
     "title": "[英] SpaceX punts Starship launch as investigation opens into Starbase worker's death",
     "date": "2026-05-21"
@@ -17,61 +72,6 @@
   {
     "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
     "title": "[英] GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://irhum.github.io/blog/lorawd/",
-    "title": "[英] LoRA and Weight Decay (2023)",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-    "title": "[英] An OpenAI model has disproved a central conjecture in discrete geometry",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://docs.flipper.net/one/general/tech-specs",
-    "title": "[英] Flipper One Tech Specs",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://nodejs.org/en/blog/release/v26.0.0",
-    "title": "[英] Node.js 26.0.0 (Now with Temporal)",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
-    "title": "[英] Qian Xuesen: The missile genius America lost and China gained (2025)",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report",
-    "title": "[英] Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.reuters.com/world/middle-east/hormuz-closure-could-trigger-agrifood-shock-price-crisis-within-year-fao-warns-2026-05-20/",
-    "title": "[英] Hormuz closure could trigger 'agrifood shock', price crisis within a year",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
-    "title": "[英] Why is Inkwell stuck in review",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://newatlas.com/energy/cooling-copper-plates-data-center-energy-use/",
-    "title": "[英] Cooling copper plates could slash data center energy use by 90%",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/",
-    "title": "[英] Sharla Boehm, the programmer whose code underpins the Internet",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://jacobharr.is/personal/i-dont-vibe-code",
-    "title": "[英] Why I don’t vibe code",
     "date": "2026-05-21"
   }
 ]
