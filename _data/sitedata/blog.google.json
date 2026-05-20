@@ -1,12 +1,17 @@
 [
   {
+    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/singapore-government-partnership/",
+    "title": "[英] Accelerating AI impact in Singapore",
+    "date": "2026-05-20 09:30:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent/",
     "title": "[英] Running Guide agent: A step towards running unbounded",
     "date": "2026-05-20 08:01:00"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/",
-    "title": "[英] Building the agentic future: Developer highlights from I/O 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026/",
+    "title": "[英] Bring any idea to life: Google AI Studio at I/O 2026",
     "date": "2026-05-20 01:45:00"
   },
   {
@@ -20,8 +25,8 @@
     "date": "2026-05-20 01:45:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/platforms/android/android-halo/",
-    "title": "[英] Stay in sync with your agent with Android Halo.",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/",
+    "title": "[英] Building the agentic future: Developer highlights from I/O 2026",
     "date": "2026-05-20 01:45:00"
   },
   {
@@ -60,18 +65,13 @@
     "date": "2026-05-20 01:45:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/",
-    "title": "[英] Introducing the Universal Cart and more ways to help you shop",
+    "link": "https://blog.google/products-and-platforms/platforms/android/android-halo/",
+    "title": "[英] Stay in sync with your agent with Android Halo.",
     "date": "2026-05-20 01:45:00"
   },
   {
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/",
     "title": "[英] Introducing Managed Agents in the Gemini API",
-    "date": "2026-05-20 01:45:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/",
-    "title": "[英] Intelligent eyewear is coming this fall",
     "date": "2026-05-20 01:45:00"
   }
 ]
