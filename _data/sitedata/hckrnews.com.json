@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+    "title": "[英] Railway GCP Account Suspension Incident Report",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://www.economist.com/culture/2026/05/14/the-weird-wild-story-of-humanitys-obsession-with-gold",
+    "title": "[英] The weird, wild story of humanity's obsession with gold",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://sitelen.vercel.app/",
+    "title": "[英] Show HN: Typeset sitelen pona and copy a PNG (for toki pona speakers)",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+    "title": "[英] Learnings from 100K lines of Rust with AI (2025)",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48204998",
+    "title": "[英] undefined",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://grid.raster.finance/en/portfolio-analytics",
+    "title": "[英] Show HN: The AI Quant Desk for Onchain Finance",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://github.com/danindiana/rtx3080-rebar-vbios/tree/master",
+    "title": "[英] Enabling Resizable Bar on RTX 3080 Vbios via GitHub",
+    "date": "2026-05-20"
+  },
+  {
+    "link": "https://bumbershootsoft.wordpress.com/2026/05/16/simulated-evolution-on-the-pico-8/",
+    "title": "[英] Simulated Evolution on the PICO-8",
+    "date": "2026-05-20"
+  },
+  {
     "link": "https://xint.io/blog/copy-fail-pod-to-host",
     "title": "[英] CopyFail: From Pod to Host",
     "date": "2026-05-20"
@@ -16,7 +56,7 @@
   },
   {
     "link": "https://fprox.substack.com/p/risc-v-and-floating-point",
-    "title": "[英] RISC-V and Floating Point",
+    "title": "[英] RISC-V and Floating-Point",
     "date": "2026-05-20"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
     "title": "[英] Everything in C is undefined behavior",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://www.nostalgickitscentral.com/",
-    "title": "[英] Nostalgic Kits Central (2024)",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://andlukyane.com//blog/minimax-m27-workflows",
-    "title": "[英] Testing MiniMax M2.7 via API on three real ML and coding workflows",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://x.ai/news/grok-skills",
-    "title": "[英] Skills in Web, iOS, and Android",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://www.hindustantimes.com/india-news/indias-hottest-district-banda-shuts-at-10-am-as-mercury-breaches-48-degrees-celsius-mark-101779240653594.html",
-    "title": "[英] India's hottest district shuts at 10 am as mercury breaches 48 C mark",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://twitter.com/github/status/2056949168208552080",
-    "title": "[英] GitHub Compromised",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://producelikeapro.com/blog/how-one-recording-mistake-created-a-musical-phenomenon-in-the-80s/",
-    "title": "[英] In 1979 engineer Hugh Padgham discovered \"gated reverb\" – by accident",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://wanglun1996.github.io/blog/your-evals-will-break.html",
-    "title": "[英] Evals will break",
-    "date": "2026-05-20"
-  },
-  {
-    "link": "https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md",
-    "title": "[英] HTML-in-Canvas Demos",
     "date": "2026-05-20"
   }
 ]
