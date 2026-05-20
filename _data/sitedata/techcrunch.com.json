@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-has-arrived/",
+    "title": "[英] The SpaceX IPO filing has arrived",
+    "date": "2026-05-21 04:52:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/",
+    "title": "[英] Microsoft’s carbon removal plans aren’t dead after all",
+    "date": "2026-05-21 04:30:24"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+    "title": "[英] OpenAI claims it solved an 80-year-old math problem — for real this time",
+    "date": "2026-05-21 04:28:27"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+    "title": "[英] IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+    "date": "2026-05-21 03:47:20"
+  },
+  {
     "link": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
     "title": "[英] Tesla’s Full Self-Driving software is creeping into Europe",
     "date": "2026-05-21 02:32:06"
@@ -11,12 +31,12 @@
   },
   {
     "link": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
-    "title": "[英] Global EV market goes K-shaped as the U.S. gets left behind",
+    "title": "[英] Global EV market goes K-shaped as the US gets left behind",
     "date": "2026-05-21 01:34:00"
   },
   {
-    "link": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
-    "title": "[英] OpenAI barrels towards IPO that may happen in September",
+    "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+    "title": "[英] OpenAI barrels toward IPO that may happen in September",
     "date": "2026-05-21 01:24:24"
   },
   {
@@ -53,25 +73,5 @@
     "link": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
     "title": "[英] Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
     "date": "2026-05-20 22:00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
-    "title": "[英] GitHub says hackers stole data from thousands of internal repositories",
-    "date": "2026-05-20 21:25:58"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-    "title": "[英] Figma adds an AI assistant to its collaborative canvas",
-    "date": "2026-05-20 21:00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/20/this-startup-raised-43m-to-build-a-hive-mind-for-ships/",
-    "title": "[英] This startup raised $43M to build a hive mind for ships",
-    "date": "2026-05-20 21:00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
-    "title": "[英] ‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
-    "date": "2026-05-20 13:45:00"
   }
 ]

@@ -1,7 +1,52 @@
 [
   {
+    "link": "https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death/",
+    "title": "[英] SpaceX punts Starship launch as investigation opens into Starbase worker's death",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.panelook.com/",
+    "title": "[英] Panelook",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
+    "title": "[英] Not alive, but not dead: disembodied human brains used for drug testing",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+    "title": "[英] GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://irhum.github.io/blog/lorawd/",
+    "title": "[英] LoRA and Weight Decay (2023)",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+    "title": "[英] An OpenAI model has disproved a central conjecture in discrete geometry",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://docs.flipper.net/one/general/tech-specs",
+    "title": "[英] Flipper One Tech Specs",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://nodejs.org/en/blog/release/v26.0.0",
+    "title": "[英] Node.js 26.0.0 (Now with Temporal)",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+    "title": "[英] Qian Xuesen: The missile genius America lost and China gained (2025)",
+    "date": "2026-05-21"
+  },
+  {
     "link": "https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report",
-    "title": "[英] None of Starbucks' 'Widely Recyclable' Cups Ended Up at a Recycling Facility",
+    "title": "[英] Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling",
     "date": "2026-05-21"
   },
   {
@@ -26,52 +71,7 @@
   },
   {
     "link": "https://jacobharr.is/personal/i-dont-vibe-code",
-    "title": "[英] I Don't Vibe Code",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://mikeveerman.github.io/tokenspeed/",
-    "title": "[英] How fast is N tokens per second really?",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48210590",
-    "title": "[英] Ask HN: Shouldn't Google need to give a public statement about Railway incident?",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.wsj.com/finance/banking/ceo-walks-back-comment-about-replacing-lower-value-human-capital-with-ai-15bdfc5c",
-    "title": "[英] CEO Walks Back Comment About Replacing 'Lower-Value Human Capital' with AI",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.404media.co/after-town-bans-flock-councilmember-crashes-out-proposes-internet-and-phone-ban/",
-    "title": "[英] After Town Bans Flock, Councilmember Crashes Out, Proposes Internet, Phone Ban",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://github.com/bytedance/Lance",
-    "title": "[英] Show HN: Lance – image/video generation and understanding in one model",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
-    "title": "[英] OpenAI Is Preparing to File for an IPO Soon",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://twitter.com/pokemoncentral/status/2057123807404638250",
-    "title": "[英] Apparently Google hates us now",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://appleinsider.com/articles/26/05/20/google-io-2026-had-nothing-to-say-and-said-it-badly-ahead-of-apples-wwdc",
-    "title": "[英] Google I/O 2026 had nothing to say and said it badly ahead of Apple's WWDC",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.alexselimov.com/posts/forge_fragmentation/",
-    "title": "[英] Handling the great code forge fragmentation",
+    "title": "[英] Why I don’t vibe code",
     "date": "2026-05-21"
   }
 ]
