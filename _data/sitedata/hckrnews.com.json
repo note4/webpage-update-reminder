@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=48228491",
+    "title": "[英] undefined",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://afranca.com.br/thoughts-on-people-and-blogs/",
+    "title": "[英] Thoughts on People and Blogs",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://arxiv.org/abs/2605.12460",
+    "title": "[英] Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+    "title": "[英] Using Kagi Search with Low Vision",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://bsky.app/profile/did:plc:iu4j537hox5huj4bwnwgub4z/post/3mmeysgcjbs2j",
+    "title": "[英] AOC displays drinking water contaminated by data center",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+    "title": "[英] Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://paweldabrowski.com/farewell-to-rails-way/when-rails-way-does-not-work",
+    "title": "[英] When Rails-way does not work anymore?",
+    "date": "2026-05-22"
+  },
+  {
     "link": "https://freenet.org/",
     "title": "[英] Show HN: Freenet, a peer-to-peer platform for decentralized apps",
     "date": "2026-05-22"
@@ -16,7 +51,7 @@
   },
   {
     "link": "https://oldhome.schmorp.de/marc/bournegol.html",
-    "title": "[英] Bournegol???",
+    "title": "[英] Bournegol??? (2014)",
     "date": "2026-05-22"
   },
   {
@@ -36,42 +71,7 @@
   },
   {
     "link": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-    "title": "[英] More than 340 local news outlets are limiting the Internet Archive's access",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-    "title": "[英] Amazon, Facebook, FBI have access to a private intelligence-sharing network",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-    "title": "[英] Was my $48K GPU server worth it?",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/",
-    "title": "[英] Chewing gum restores dad's taste and smell years after Covid",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://www.calculators.de/",
-    "title": "[英] Museum of Pocket Calculating Devices",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://valhovey.github.io/gaia-mary/",
-    "title": "[英] Project Hail Mary – Stellar Navigation Chart",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48225852",
-    "title": "[英] ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://kenn.io/",
-    "title": "[英] Wes mckinney releases multiple bangers",
+    "title": "[英] News outlets are limiting the Internet Archive’s access to their journalism",
     "date": "2026-05-22"
   }
 ]
