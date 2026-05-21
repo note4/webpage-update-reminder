@@ -1,7 +1,47 @@
 [
   {
+    "link": "https://ryanjk5.github.io/posts/GOLDE/",
+    "title": "[英] Simulating Infinity in Conway's Game of Life with Modern C++",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.waterdictionary.net",
+    "title": "[英] Recreate famous water profiles using supermarket bottled water",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
+    "title": "[英] New features in GCC 16: Improved error messages and SARIF output",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+    "title": "[英] OpenAI to confidentially file for IPO as soon as Friday",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48217143",
+    "title": "[英] undefined",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+    "title": "[英] Haskell Foundation 2026 Update",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://blogsystem5.substack.com/p/markdown-based-test-suite",
+    "title": "[英] A Markdown-based test suite",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
+    "title": "[英] What is a Demand Coop",
+    "date": "2026-05-21"
+  },
+  {
     "link": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
-    "title": "[英] The Letter S, by Donald Knuth [pdf]",
+    "title": "[英] The Letter S, by Donald Knuth (1980) [pdf]",
     "date": "2026-05-21"
   },
   {
@@ -21,7 +61,7 @@
   },
   {
     "link": "https://github.com/kageroumado/phosphene",
-    "title": "[英] I reverse engineered Apple's video wallpapers",
+    "title": "[英] Show HN: I reverse engineered Apple's video wallpapers",
     "date": "2026-05-21"
   },
   {
@@ -30,48 +70,8 @@
     "date": "2026-05-21"
   },
   {
-    "link": "https://xcancel.com/nottombrown/status/2057194829986300375",
+    "link": "https://twitter.com/nottombrown/status/2057194829986300375",
     "title": "[英] Anthropic is expanding to Colossus2. Will use GB200",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.jeremykun.com/shortform/2026-04-09-0556/",
-    "title": "[英] The OEIS meta sequence and subway stations",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://dos.zone/",
-    "title": "[英] DOS Zone",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://github.com/kouhxp/yapsnap",
-    "title": "[英] Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10501-y",
-    "title": "[英] Long-term editing of brain circuits using an engineered electrical synapse",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
-    "title": "[英] GitHub's take on age assurance for developers",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.openculture.com/2026/05/archaeologists-discover-ancient-egyptian-mummy-buried-with-pages-from-homers-iliad.html",
-    "title": "[英] Archaeologists find Egyptian mummy buried with the 'Iliad'",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
-    "title": "[英] Google Declaring War on the Web",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.spacex.com/launches/starship-flight-12",
-    "title": "[英] Starship's Twelfth Flight Test",
     "date": "2026-05-21"
   }
 ]
