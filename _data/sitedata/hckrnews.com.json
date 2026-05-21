@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://freenet.org/",
+    "title": "[英] Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48225596",
+    "title": "[英] Show HN: Agent.email – sign up via curl, claim with a human OTP",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf",
+    "title": "[英] Serving Netflix Video Traffic at 400Gb/S and Beyond (2022) [pdf]",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://oldhome.schmorp.de/marc/bournegol.html",
+    "title": "[英] Bournegol???",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://www.thek6project.co.uk/",
+    "title": "[英] Where are all the UK red telephone kiosks?",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
+    "title": "[英] Spotify will start reserving concert tickets for fans",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://www.barebones.com/products/bbedit/bbedit16.html",
+    "title": "[英] BBEdit 16",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+    "title": "[英] More than 340 local news outlets are limiting the Internet Archive's access",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+    "title": "[英] Amazon, Facebook, FBI have access to a private intelligence-sharing network",
+    "date": "2026-05-22"
+  },
+  {
     "link": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
     "title": "[英] Was my $48K GPU server worth it?",
     "date": "2026-05-22"
@@ -27,51 +72,6 @@
   {
     "link": "https://kenn.io/",
     "title": "[英] Wes mckinney releases multiple bangers",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-    "title": "[英] Waymo pauses Atlanta service as its robotaxis keep driving into floods",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir",
-    "title": "[英] London Mayor Blocks Palantir",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://resobscura.substack.com/p/what-is-happening-to-publishing",
-    "title": "[英] What Is Happening to Publishing?",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://www.runtm.com/",
-    "title": "[英] Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/",
-    "title": "[英] We Reverse-Engineered Docker Sandbox's Undocumented MicroVM API",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://tessl.io/blog/coding-agent-failure-patterns-large-codebases/",
-    "title": "[英] What 1,281 agent runs reveal about coding agent failure in large codebases",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
-    "title": "[英] Mounting Git commits as folders with NFS",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48221896",
-    "title": "[英] Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-    "title": "[英] Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
     "date": "2026-05-22"
   }
 ]
