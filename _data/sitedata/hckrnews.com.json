@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://spectrum.ieee.org/trinity-nuclear-test",
+    "title": "[英] Lost Images from the 1945 Trinity Nuclear Test Restored",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+    "title": "[英] Cekura (YC F24) Is Hiring",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.newscientist.com/article/2518362-earth-is-now-heating-up-twice-as-fast-as-in-previous-decades/",
+    "title": "[英] Earth is now heating up twice as fast as in previous decades",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48220829",
+    "title": "[英] undefined",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments",
+    "title": "[英] Fender escalates legal campaign against S-style guitars",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+    "title": "[英] Flipper One – we need your help",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+    "title": "[英] Python 3.15: features that didn't make the headlines",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://noslopgrenade.com/",
+    "title": "[英] No Slop Grenade",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+    "title": "[英] Google officially announces that ads will be included in AI Mode search results",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://funes.world/apps/the-hanging-sculptures-of-the-xiaoxitian",
+    "title": "[英] Show HN: The Hanging Sculptures of the Xiaoxitian",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://github.com/helvesec/rmux",
+    "title": "[英] Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://github.com/pydata/numexpr",
+    "title": "[英] Numexpr: Fast numerical array expression evaluator for Python, NumPy, Pandas",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/",
+    "title": "[英] The famous O3 \"GeoGuessr\" prompt did not work",
+    "date": "2026-05-21"
+  },
+  {
     "link": "https://www.angellist.com/blog/the-interview-that-ships-to-production",
     "title": "[英] The Interview That Ships to Production: replacing whiteboards with pull requests",
     "date": "2026-05-21"
@@ -7,71 +72,6 @@
   {
     "link": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
     "title": "[英] Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-    "title": "[英] Vivaldi 8.0",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://andreapivetta.com/posts/all-the-bugs-they-found.html",
-    "title": "[英] All the bugs they found",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://silentshark.app/alpha/",
-    "title": "[英] Show HN: I made a tactical map-based WWII submarine simulator (public beta)",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://ryanjk5.github.io/posts/GOLDE/",
-    "title": "[英] Simulating Infinity in Conway's Game of Life with Modern C++",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.waterdictionary.net",
-    "title": "[英] Recreate famous water profiles using supermarket bottled water",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
-    "title": "[英] New features in GCC 16: Improved error messages and SARIF output",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
-    "title": "[英] OpenAI to confidentially file for IPO as soon as Friday",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48217143",
-    "title": "[英] undefined",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
-    "title": "[英] Haskell Foundation 2026 Update",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://blogsystem5.substack.com/p/markdown-based-test-suite",
-    "title": "[英] A Markdown-based test suite",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
-    "title": "[英] What is a Demand Coop",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
-    "title": "[英] The Letter S, by Donald Knuth (1980) [pdf]",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://yes-we-scan.app/details",
-    "title": "[英] Reviving old scanners with an in-browser Linux VM bridged to WebUSB over USB/IP",
     "date": "2026-05-21"
   }
 ]
