@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.angellist.com/blog/the-interview-that-ships-to-production",
+    "title": "[英] The Interview That Ships to Production: replacing whiteboards with pull requests",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
+    "title": "[英] Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+    "title": "[英] Vivaldi 8.0",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://andreapivetta.com/posts/all-the-bugs-they-found.html",
+    "title": "[英] All the bugs they found",
+    "date": "2026-05-21"
+  },
+  {
+    "link": "https://silentshark.app/alpha/",
+    "title": "[英] Show HN: I made a tactical map-based WWII submarine simulator (public beta)",
+    "date": "2026-05-21"
+  },
+  {
     "link": "https://ryanjk5.github.io/posts/GOLDE/",
     "title": "[英] Simulating Infinity in Conway's Game of Life with Modern C++",
     "date": "2026-05-21"
@@ -47,31 +72,6 @@
   {
     "link": "https://yes-we-scan.app/details",
     "title": "[英] Reviving old scanners with an in-browser Linux VM bridged to WebUSB over USB/IP",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-    "title": "[英] Intuit to lay off over 3k employees to refocus on AI",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://kevinkelly.substack.com/p/your-most-improbable-life",
-    "title": "[英] Your Most Improbable Life",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://github.com/kageroumado/phosphene",
-    "title": "[英] Show HN: I reverse engineered Apple's video wallpapers",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://github.com/cynchro/deepseekCLI",
-    "title": "[英] Deep – CLI/REPL for generating and iterating on codebases using DeepSeek",
-    "date": "2026-05-21"
-  },
-  {
-    "link": "https://twitter.com/nottombrown/status/2057194829986300375",
-    "title": "[英] Anthropic is expanding to Colossus2. Will use GB200",
     "date": "2026-05-21"
   }
 ]
