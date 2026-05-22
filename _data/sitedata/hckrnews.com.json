@@ -1,7 +1,17 @@
 [
   {
+    "link": "https://modrinth.com/mod/waylandcraft",
+    "title": "[英] A Wayland Compositor in Minecraft",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+    "title": "[英] NTSB pulls docket after AI recreates dead pilots' voices",
+    "date": "2026-05-23"
+  },
+  {
     "link": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
-    "title": "[英] Wi-Wi Is Wireless Time Sync at 1 Nanosecond",
+    "title": "[英] Wi-Wi is wireless time sync at 1 nanosecond",
     "date": "2026-05-23"
   },
   {
@@ -50,8 +60,8 @@
     "date": "2026-05-23"
   },
   {
-    "link": "https://nonogra.ph/the-ten-steps-towards-a-dictatorship-05-22-2026",
-    "title": "[英] The ten steps towards a dictatorship",
+    "link": "https://news.ycombinator.com/item?id=48239710",
+    "title": "[英] undefined",
     "date": "2026-05-23"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://github.com/DataIntellectTech/TorQ",
     "title": "[英] TorQ: Kdb+ Production Framework",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.cbsnews.com/news/cbs-news-radio-last-day/",
-    "title": "[英] CBS Radio signs off after nearly 100 years of broadcasting",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://case-trail.com/blog/ai-forensic-accounting-automation",
-    "title": "[英] Built AI forensic accounting software with my dad",
     "date": "2026-05-23"
   }
 ]
