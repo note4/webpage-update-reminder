@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
+    "title": "[英] Wi-Wi Is Wireless Time Sync at 1 Nanosecond",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://github.com/anomalyco/models.dev",
+    "title": "[英] Models.dev: open-source database of AI model specs, pricing, and capabilities",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://www.phoronix.com/news/Linux-7.1-Sound-Many-Fixes",
+    "title": "[英] Linux Sound Subsystem Also Seeing Many Fixes Driven by AI/LLMs",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
+    "title": "[英] Thinking in an array language (2022)",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://www.wheresyoured.at/anthropics-profitability-swindle/",
+    "title": "[英] Anthropic's \"Profitability\" Swindle",
+    "date": "2026-05-23"
+  },
+  {
     "link": "https://arxiv.org/abs/2605.22001",
     "title": "[英] Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
     "date": "2026-05-23"
@@ -47,31 +72,6 @@
   {
     "link": "https://case-trail.com/blog/ai-forensic-accounting-automation",
     "title": "[英] Built AI forensic accounting software with my dad",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-    "title": "[英] Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.kanbots.dev/",
-    "title": "[英] Open source Kanban desktop app that runs parallel agents on every card",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-    "title": "[英] Bun support is now limited and deprecated",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48239043",
-    "title": "[英] undefined",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-    "title": "[英] Microsoft starts canceling Claude Code licenses",
     "date": "2026-05-23"
   }
 ]
