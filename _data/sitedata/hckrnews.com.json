@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+    "title": "[英] Sleep research led to a new sleep apnea drug",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
+    "title": "[英] Comparing an LZ4 Decompressor on Four Legacy CPUs",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://apnews.com/article/kilmar-abrego-garcia-el-salvador-deportation-smuggling-035a2b2ded3ede65e77566cdf12b107f",
+    "title": "[英] Judge dismisses human smuggling charges against Kilmar Abrego Garcia",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://security.apple.com/blog/formal-verification-corecrypto/",
+    "title": "[英] A blueprint for formal verification of Apple corecrypto",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+    "title": "[英] Shipping a Laptop to a Refugee Camp in Uganda",
+    "date": "2026-05-23"
+  },
+  {
     "link": "https://modrinth.com/mod/waylandcraft",
     "title": "[英] A Wayland Compositor in Minecraft",
     "date": "2026-05-23"
@@ -25,13 +50,13 @@
     "date": "2026-05-23"
   },
   {
-    "link": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
-    "title": "[英] Thinking in an array language (2022)",
+    "link": "https://www.wheresyoured.at/anthropics-profitability-swindle/",
+    "title": "[英] Anthropic's \"Profitability\" Swindle",
     "date": "2026-05-23"
   },
   {
-    "link": "https://www.wheresyoured.at/anthropics-profitability-swindle/",
-    "title": "[英] Anthropic's \"Profitability\" Swindle",
+    "link": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
+    "title": "[英] Thinking in an array language (2022)",
     "date": "2026-05-23"
   },
   {
@@ -40,38 +65,13 @@
     "date": "2026-05-23"
   },
   {
-    "link": "https://www.cringely.com/",
-    "title": "[英] Robert X Cringely is back to blogging",
-    "date": "2026-05-23"
-  },
-  {
     "link": "https://bun.com/bun-unsafe-audit",
     "title": "[英] Bun's unreleased Rust port has 13,365 unsafe blocks",
     "date": "2026-05-23"
   },
   {
-    "link": "https://www.anthropic.com/research/glasswing-initial-update",
-    "title": "[英] Project Glasswing: An Initial Update",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary",
-    "title": "[英] USCIS Will Grant 'Adjustment of Status' Only in Extraordinary Circumstances",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48239710",
-    "title": "[英] undefined",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1807791/full",
-    "title": "[英] A scoping review of bicycling interventions’ impacts on well-being",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://github.com/DataIntellectTech/TorQ",
-    "title": "[英] TorQ: Kdb+ Production Framework",
+    "link": "https://www.cringely.com/2026/05/21/im-writing-again/",
+    "title": "[英] I’m Writing Again",
     "date": "2026-05-23"
   }
 ]
