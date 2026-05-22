@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+    "title": "[英] The AI Elephant in the Room",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost",
+    "title": "[英] Sam Altman Won in Court Against Elon Musk. But, We All Lost",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better",
+    "title": "[英] Breakthroughs for batteries could soon make them better",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/",
+    "title": "[英] Valve removes free game from Steam after players discover it contains malware",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+    "title": "[英] The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://annas-archive.gl/blog/llms-txt.html",
+    "title": "[英] If you're an LLM, please read this – Anna's Blog",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android",
+    "title": "[英] Circle Medical (YC S15) Is Hiring a Mobile Engineer",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://github.com/unprovable/ShadowCat",
+    "title": "[英] Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
+    "title": "[英] Chess Invariants",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://deno.com/blog/v2.8",
+    "title": "[英] Deno 2.8",
+    "date": "2026-05-22"
+  },
+  {
     "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
     "title": "[英] Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
     "date": "2026-05-22"
@@ -22,56 +72,6 @@
   {
     "link": "https://pokelike.xyz/",
     "title": "[英] Pokélike",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/",
-    "title": "[英] We should get rid of average CPU utilization",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/",
-    "title": "[英] Deepfakes Tore a High School Apart",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://hardwarelottery.github.io/",
-    "title": "[英] The Hardware Lottery",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://pythongiant.github.io/KVBoost/",
-    "title": "[英] Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.19269",
-    "title": "[英] CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
-    "title": "[英] The surprising story behind the first British person in space",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://slumber.lucaspickering.me",
-    "title": "[英] Slumber a TUI HTTP Client",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-    "title": "[英] Cleve Moler has died",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48231575",
-    "title": "[英] Show HN: Spec-Driven Development Workflow for Claude Code",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48231674",
-    "title": "[英] undefined",
     "date": "2026-05-22"
   }
 ]
