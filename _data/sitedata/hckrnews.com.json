@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
+    "title": "[英] The Death of the Brick and Mortar Toy Store",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/",
+    "title": "[英] The IBM-ification of Google?",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://kevquirk.com/replacing-my-isp-router-with-a-unifi-cloud-gateway-max",
+    "title": "[英] Replacing My ISP Router with a UniFi Cloud Gateway Max",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+    "title": "[英] The memory shortage is causing a repricing of consumer electronics",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48230104",
+    "title": "[英] Tell HN: I'm tired of AI-generated answers",
+    "date": "2026-05-22"
+  },
+  {
     "link": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
     "title": "[英] Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
     "date": "2026-05-22"
@@ -47,31 +72,6 @@
   {
     "link": "https://arxiv.org/abs/2605.12460",
     "title": "[英] Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-    "title": "[英] Using Kagi Search with Low Vision",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://bsky.app/profile/did:plc:iu4j537hox5huj4bwnwgub4z/post/3mmeysgcjbs2j",
-    "title": "[英] AOC displays drinking water contaminated by data center",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-    "title": "[英] Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://paweldabrowski.com/farewell-to-rails-way/when-rails-way-does-not-work",
-    "title": "[英] When Rails-way does not work anymore?",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://freenet.org/",
-    "title": "[英] Show HN: Freenet, a peer-to-peer platform for decentralized apps",
     "date": "2026-05-22"
   }
 ]
