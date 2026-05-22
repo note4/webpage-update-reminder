@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/05/22/us-government-2-billion-bet-quantum-computing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "量子運算還沒成熟，美國為何急著入股？投入 20 億美元押注 9 家公司，搶下一代算力主權",
+    "date": "2026-05-22 12:12:27"
+  },
+  {
+    "link": "https://techorange.com/2026/05/22/ai-amazon-alexa-for-shopping/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 直接串接庫存與物流：拆解亞馬遜砍掉 Rufus、押注 Alexa 的底層邏輯",
+    "date": "2026-05-22 09:02:21"
+  },
+  {
     "link": "https://techorange.com/2026/05/22/nvidia-financial-report-spacex-ipo-amd-taiwan-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】NVIDIA 財報超預期、SpaceX 衝 IPO，AMD 加碼台灣把 AI 基建戰推向新一輪",
     "date": "2026-05-22 06:50:00"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/05/20/pwc-supporting-agentic-scaffolding-ai-deployments/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 落地成效不佳有解！PwC 推 agentic scaffolding，改寫企業部署模式",
     "date": "2026-05-20 18:07:21"
-  },
-  {
-    "link": "https://techorange.com/2026/05/20/mistral-ai-physical-ai-emmi-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "結盟 ASML、切入工業模擬：Mistral AI 如何卡位新一波 AI 戰場",
-    "date": "2026-05-20 18:01:16"
-  },
-  {
-    "link": "https://techorange.com/2026/05/20/google-gemini-3-5-flash-omni-spark/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Google I/O 2026 最大訊號：AI 競爭從模型能力轉向 Agent 經濟學",
-    "date": "2026-05-20 15:40:49"
   }
 ]

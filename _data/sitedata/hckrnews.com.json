@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
+    "title": "[英] The surprising story behind the first British person in space",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://slumber.lucaspickering.me",
+    "title": "[英] Slumber a TUI HTTP Client",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+    "title": "[英] Cleve Moler (Matlab, MathWorks) passed away on May 20, 2026",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48231575",
+    "title": "[英] Show HN: Spec-Driven Development Workflow for Claude Code",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48231674",
+    "title": "[英] undefined",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://www.axios.com/2026/05/21/spacex-ipo-musk-ai",
+    "title": "[英] SpaceX not the behemoth everyone thought",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://coins.stream",
+    "title": "[英] Coins Stream",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://punchcards.tristandavey.com/",
+    "title": "[英] Tristan Davey's Punch Card Archive",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://user8.bearblog.dev/logging-off/",
+    "title": "[英] Logging Off",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://hacktivis.me/articles/no-noscript-element",
+    "title": "[英] The <Noscript> Element as a Trap",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://mrmarket.bearblog.dev/it-is-time-to-build-a-new-internet/",
+    "title": "[英] It is time to build a new internet",
+    "date": "2026-05-22"
+  },
+  {
+    "link": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+    "title": "[英] Samsung chip workers will get an average $340k bonus as AI profits soar",
+    "date": "2026-05-22"
+  },
+  {
     "link": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
     "title": "[英] The Death of the Brick and Mortar Toy Store",
     "date": "2026-05-22"
@@ -12,66 +72,6 @@
   {
     "link": "https://kevquirk.com/replacing-my-isp-router-with-a-unifi-cloud-gateway-max",
     "title": "[英] Replacing My ISP Router with a UniFi Cloud Gateway Max",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-    "title": "[英] The memory shortage is causing a repricing of consumer electronics",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48230104",
-    "title": "[英] Tell HN: I'm tired of AI-generated answers",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
-    "title": "[英] Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-    "title": "[英] Uv is fantastic, but its package management UX is a mess",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://github.com/eigenpal/docx-editor",
-    "title": "[英] Show HN: Open-source .docx editor library for building document apps",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://shira.app/",
-    "title": "[英] Shira: Anti Phishing Training Platform",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://filmicworlds.com/blog/compute-tessellation-with-clamped-parallelograms/",
-    "title": "[英] Triangle Tessellation with Clamped Parallelograms",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://www.dontbeasucker.blog/p/the-butterflies-in-your-stomach",
-    "title": "[英] Curtis Yarvin and the Political Evolution of Silicon Valley Reactionaries",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://odyssey.ml/introducing-starchild-1",
-    "title": "[英] Starchild-1: The First Real-Time Multimodal World Model",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48228491",
-    "title": "[英] undefined",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://afranca.com.br/thoughts-on-people-and-blogs/",
-    "title": "[英] Thoughts on People and Blogs",
-    "date": "2026-05-22"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.12460",
-    "title": "[英] Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
     "date": "2026-05-22"
   }
 ]
