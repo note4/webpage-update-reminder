@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://www.washingtonpost.com/immigration/2026/05/22/new-rule-requires-most-green-card-applicants-apply-outside-us/",
+    "title": "[英] New rule requires most green-card applicants to apply from outside U.S.",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+    "title": "[英] Microsoft reports AI is more expensive than paying human employees",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://spader.zone/sp/",
+    "title": "[英] Sp.h is the standard library that C deserves",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+    "title": "[英] Waymo expands pause to four cities as robotaxis keep driving into floods",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+    "title": "[英] Neutron scattering explains why gluten-free pasta falls apart (2025)",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://isaiprofitable.com/",
+    "title": "[英] Is AI Profitable Yet?",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://github.com/bkawa-bot/planet-maiko",
+    "title": "[英] I was bored so I turned my dev tools into an alien planet ruled by my dog",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/",
+    "title": "[英] GitHub introduces staged publishing and new install-time controls for NPM",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://cosmiciron.github.io/layoutmaster/exclusion-assembly.html",
+    "title": "[英] \"Stick\" – A primitive/fun interactive demo of a tiny rig to animate layout",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://www.psypost.org/tiktok-disproportionately-served-anti-democratic-videos-during-the-2024-election-study-finds/",
+    "title": "[英] TikTok disproportionately served anti-Democratic videos during the 2024 election",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
+    "title": "[英] FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
+    "title": "[英] Blood Pumping Mechanism of the Hoof",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48242996",
+    "title": "[英] undefined",
+    "date": "2026-05-23"
+  },
+  {
     "link": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
     "title": "[英] SpaceX launches Starship v3 rocket",
     "date": "2026-05-23"
@@ -7,71 +72,6 @@
   {
     "link": "https://dontquotetheai.com/",
     "title": "[英] Don't just paste the AI at me",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://lab174.com/blog/202601-yaml-norway/",
-    "title": "[英] YAML? That's Norway Problem",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.stopstratos.org",
-    "title": "[英] Why We've Filed a Referendum",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
-    "title": "[英] Sleep research led to a new sleep apnea drug",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
-    "title": "[英] Comparing an LZ4 Decompressor on Four Legacy CPUs",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://apnews.com/article/kilmar-abrego-garcia-el-salvador-deportation-smuggling-035a2b2ded3ede65e77566cdf12b107f",
-    "title": "[英] Judge dismisses human smuggling charges against Kilmar Abrego Garcia",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://security.apple.com/blog/formal-verification-corecrypto/",
-    "title": "[英] A blueprint for formal verification of Apple corecrypto",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-    "title": "[英] Shipping a Laptop to a Refugee Camp in Uganda",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://modrinth.com/mod/waylandcraft",
-    "title": "[英] A Wayland Compositor in Minecraft",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
-    "title": "[英] NTSB pulls docket after AI recreates dead pilots' voices",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
-    "title": "[英] Wi-Wi is wireless time sync at 1 nanosecond",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://github.com/anomalyco/models.dev",
-    "title": "[英] Models.dev: open-source database of AI model specs, pricing, and capabilities",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.phoronix.com/news/Linux-7.1-Sound-Many-Fixes",
-    "title": "[英] Linux Sound Subsystem Also Seeing Many Fixes Driven by AI/LLMs",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
-    "title": "[英] Thinking in an array language (2022)",
     "date": "2026-05-23"
   }
 ]
