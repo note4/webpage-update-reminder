@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://io.google/2026/explore/workshop-2",
+    "title": "[英] Software Engineering at the Tipping Point",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://ironpeak.be/blog/bypassing-apple-mie/",
+    "title": "[英] Pardon MIE?",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
+    "title": "[英] dotNET (OK, C#) gets union types",
+    "date": "2026-05-24"
+  },
+  {
     "link": "https://www.counting-stuff.com/reflections-on-building-forum-software/",
     "title": "[英] Reflections on Building Forum Software",
     "date": "2026-05-24"
@@ -57,21 +72,6 @@
   {
     "link": "https://victoriaritvo.com/blog/hengefinder/",
     "title": "[英] Hengefinder: Finding When the Sun Aligns with Your Street",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48248801",
-    "title": "[英] Show HN: I built a RAG and knowledge graph agent that runs locally",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://aiengineeringfromscratch.com",
-    "title": "[英] AI Engineering from Scratch",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
-    "title": "[英] Ebola Outbreak Now Third Largest Recorded and \"Spreading Rapidly\"",
     "date": "2026-05-24"
   }
 ]
