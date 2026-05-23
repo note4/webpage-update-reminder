@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.dusanmalusev.dev/blog/jwt-is-a-scam-and-your-app-doesnt-need-it",
+    "title": "[英] JWT is a scam and your app doesn't need it",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
+    "title": "[英] My two-part desk setup",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://chipsandcheese.com/p/evaluating-spec-cpu2026",
+    "title": "[英] Evaluating Spec CPU2026",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://victoriaritvo.com/blog/hengefinder/",
+    "title": "[英] Hengefinder: Finding When the Sun Aligns with Your Street",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48248801",
+    "title": "[英] Show HN: I built a RAG and knowledge graph agent that runs locally",
+    "date": "2026-05-24"
+  },
+  {
     "link": "https://aiengineeringfromscratch.com",
     "title": "[英] AI Engineering from Scratch",
     "date": "2026-05-24"
@@ -47,31 +72,6 @@
   {
     "link": "https://jola.dev/posts/highest-random-weight-in-elixir",
     "title": "[英] Highest Random Weight in Elixir",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-    "title": "[英] Oura says it gets government demands for user data",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://olano.dev/blog/dangerously-skip/",
-    "title": "[英] - -dangerously-skip-reading-code",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://www.dpolakovic.space/blogs/zork-part2",
-    "title": "[英] Solving the “Zork” Mystery",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://benmyers.dev/blog/on-the-dl/",
-    "title": "[英] On The <dl>",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://twitter.com/i/status/2058064720553222567",
-    "title": "[英] Electrobun 2.0 will be decoupled from Bun due to the rust rewrite",
     "date": "2026-05-24"
   }
 ]
