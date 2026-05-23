@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://flowtwo.io/post/php%27s-oddities",
+    "title": "[英] PHP's Oddities",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://susam.net/lisp-in-vim.html",
+    "title": "[英] Lisp in Vim (2019)",
+    "date": "2026-05-24"
+  },
+  {
     "link": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
     "title": "[英] The Art of Money Getting",
-    "date": "2026-05-23"
+    "date": "2026-05-24"
   },
   {
     "link": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
     "title": "[英] The FBI Wants 'Near Real-Time' Access to US License Plate Readers",
-    "date": "2026-05-23"
+    "date": "2026-05-24"
   },
   {
     "link": "https://nand2mario.github.io/posts/2026/z386/",
     "title": "[英] z386: An Open-Source 80386 Built Around Original Microcode",
-    "date": "2026-05-23"
+    "date": "2026-05-24"
   },
   {
     "link": "https://jola.dev/posts/highest-random-weight-in-elixir",
     "title": "[英] Highest Random Weight in Elixir",
-    "date": "2026-05-23"
+    "date": "2026-05-24"
   },
   {
     "link": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-    "title": "[英] Oura says it gets government demands for user data. Will it share how many?",
-    "date": "2026-05-23"
+    "title": "[英] Oura says it gets government demands for user data",
+    "date": "2026-05-24"
   },
   {
     "link": "https://olano.dev/blog/dangerously-skip/",
-    "title": "[英] - -dangerously-skip-reading-code – olano.dev",
-    "date": "2026-05-23"
+    "title": "[英] - -dangerously-skip-reading-code",
+    "date": "2026-05-24"
   },
   {
     "link": "https://www.dpolakovic.space/blogs/zork-part2",
-    "title": "[英] Solving the \"Zork\" Mystery",
-    "date": "2026-05-23"
+    "title": "[英] Solving the “Zork” Mystery",
+    "date": "2026-05-24"
   },
   {
     "link": "https://benmyers.dev/blog/on-the-dl/",
     "title": "[英] On The <dl>",
-    "date": "2026-05-23"
+    "date": "2026-05-24"
   },
   {
     "link": "https://twitter.com/i/status/2058064720553222567",
     "title": "[英] Electrobun 2.0 will be decoupled from Bun due to the rust rewrite",
-    "date": "2026-05-23"
+    "date": "2026-05-24"
   },
   {
     "link": "https://www.lanl.gov/media/publications/1663/science-of-unpredictability",
     "title": "[英] A 1955 Los Alamos computer experiment changed our understanding of chaos",
-    "date": "2026-05-23"
+    "date": "2026-05-24"
   },
   {
     "link": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
     "title": "[英] I Miss Terry Pratchett",
-    "date": "2026-05-23"
+    "date": "2026-05-24"
   },
   {
     "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
     "title": "[英] 80386 Microcode Disassembled",
-    "date": "2026-05-23"
+    "date": "2026-05-24"
   },
   {
     "link": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely",
     "title": "[英] DHS Quits Granting Green Cards–Almost",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://horace.io/brrr_intro.html",
-    "title": "[英] Making Deep Learning Go Brrrr from First Principles",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
-    "title": "[英] Improving C# Memory Safety",
-    "date": "2026-05-23"
+    "date": "2026-05-24"
   }
 ]
