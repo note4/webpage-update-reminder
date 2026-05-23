@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+    "title": "[英] The Art of Money Getting",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+    "title": "[英] The FBI Wants 'Near Real-Time' Access to US License Plate Readers",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://nand2mario.github.io/posts/2026/z386/",
+    "title": "[英] z386: An Open-Source 80386 Built Around Original Microcode",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://jola.dev/posts/highest-random-weight-in-elixir",
+    "title": "[英] Highest Random Weight in Elixir",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+    "title": "[英] Oura says it gets government demands for user data. Will it share how many?",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://olano.dev/blog/dangerously-skip/",
+    "title": "[英] - -dangerously-skip-reading-code – olano.dev",
+    "date": "2026-05-23"
+  },
+  {
     "link": "https://www.dpolakovic.space/blogs/zork-part2",
     "title": "[英] Solving the \"Zork\" Mystery",
     "date": "2026-05-23"
@@ -42,36 +72,6 @@
   {
     "link": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
     "title": "[英] Improving C# Memory Safety",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
-    "title": "[英] US tech firms share Dutch regulator officials' names with Senate",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "http://www.luschny.de/math/factorial/FastFactorialFunctions.htm",
-    "title": "[英] Fast Factorial Algorithms",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://arcbrush.com/",
-    "title": "[英] ArcBrush – Node-based 2D image editor",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://xcancel.com/josefprusa/status/2054602354851254330",
-    "title": "[英] BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://github.com/amatsuda/rubish",
-    "title": "[英] Rubish: A Unix shell written in pure Ruby",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://theconsensus.dev/p/2026/05/20/yeunjoo-choi-from-igalia-on-chromium.html",
-    "title": "[英] Yeunjoo Choi from Igalia on Chromium",
     "date": "2026-05-23"
   }
 ]
