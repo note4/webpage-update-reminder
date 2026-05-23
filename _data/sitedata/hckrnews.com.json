@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://aiengineeringfromscratch.com",
+    "title": "[英] AI Engineering from Scratch",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
+    "title": "[英] Ebola Outbreak Now Third Largest Recorded and \"Spreading Rapidly\"",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+    "title": "[英] Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+    "title": "[英] Reverse engineering circuitry in a Spacelab computer from 1980",
+    "date": "2026-05-24"
+  },
+  {
     "link": "https://flowtwo.io/post/php%27s-oddities",
     "title": "[英] PHP's Oddities",
     "date": "2026-05-24"
@@ -52,26 +72,6 @@
   {
     "link": "https://twitter.com/i/status/2058064720553222567",
     "title": "[英] Electrobun 2.0 will be decoupled from Bun due to the rust rewrite",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://www.lanl.gov/media/publications/1663/science-of-unpredictability",
-    "title": "[英] A 1955 Los Alamos computer experiment changed our understanding of chaos",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
-    "title": "[英] I Miss Terry Pratchett",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-    "title": "[英] 80386 Microcode Disassembled",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely",
-    "title": "[英] DHS Quits Granting Green Cards–Almost",
     "date": "2026-05-24"
   }
 ]
