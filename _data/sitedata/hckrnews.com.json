@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.dpolakovic.space/blogs/zork-part2",
+    "title": "[英] Solving the \"Zork\" Mystery",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://benmyers.dev/blog/on-the-dl/",
+    "title": "[英] On The <dl>",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://twitter.com/i/status/2058064720553222567",
+    "title": "[英] Electrobun 2.0 will be decoupled from Bun due to the rust rewrite",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://www.lanl.gov/media/publications/1663/science-of-unpredictability",
+    "title": "[英] A 1955 Los Alamos computer experiment changed our understanding of chaos",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+    "title": "[英] I Miss Terry Pratchett",
+    "date": "2026-05-23"
+  },
+  {
     "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
     "title": "[英] 80386 Microcode Disassembled",
     "date": "2026-05-23"
@@ -47,31 +72,6 @@
   {
     "link": "https://theconsensus.dev/p/2026/05/20/yeunjoo-choi-from-igalia-on-chromium.html",
     "title": "[英] Yeunjoo Choi from Igalia on Chromium",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://codecrafters.io/blog/pausing-new-challenges",
-    "title": "[英] Pausing New Challenges – Codecrafters",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
-    "title": "[英] Experience: We found a baby on the subway – now he's our 26-year-old son",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
-    "title": "[英] Kindle loyalists scramble as Amazon turns page on old e-readers",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://lunduke.substack.com/p/the-best-windows-is-linux",
-    "title": "[英] The Best Windows is Linux",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
-    "title": "[英] Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order",
     "date": "2026-05-23"
   }
 ]
