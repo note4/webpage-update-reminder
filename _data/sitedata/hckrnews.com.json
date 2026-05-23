@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
+    "title": "[英] SpaceX launches Starship v3 rocket",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://dontquotetheai.com/",
+    "title": "[英] Don't just paste the AI at me",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://lab174.com/blog/202601-yaml-norway/",
+    "title": "[英] YAML? That's Norway Problem",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://www.stopstratos.org",
+    "title": "[英] Why We've Filed a Referendum",
+    "date": "2026-05-23"
+  },
+  {
     "link": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
     "title": "[英] Sleep research led to a new sleep apnea drug",
     "date": "2026-05-23"
@@ -50,28 +70,8 @@
     "date": "2026-05-23"
   },
   {
-    "link": "https://www.wheresyoured.at/anthropics-profitability-swindle/",
-    "title": "[英] Anthropic's \"Profitability\" Swindle",
-    "date": "2026-05-23"
-  },
-  {
     "link": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
     "title": "[英] Thinking in an array language (2022)",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.22001",
-    "title": "[英] Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://bun.com/bun-unsafe-audit",
-    "title": "[英] Bun's unreleased Rust port has 13,365 unsafe blocks",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.cringely.com/2026/05/21/im-writing-again/",
-    "title": "[英] I’m Writing Again",
     "date": "2026-05-23"
   }
 ]
