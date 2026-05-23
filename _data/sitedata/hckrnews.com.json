@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.iconoclasts.blog/joe/markdown-is-not-latex",
+    "title": "[英] Markdown Is Not LaTeX",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/",
+    "title": "[英] New map reveals lost roads of the Roman Empire",
+    "date": "2026-05-24"
+  },
+  {
     "link": "https://io.google/2026/explore/workshop-2",
     "title": "[英] Software Engineering at the Tipping Point",
     "date": "2026-05-24"
@@ -11,7 +21,7 @@
   },
   {
     "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
-    "title": "[英] dotNET (OK, C#) gets union types",
+    "title": "[英] .NET (OK, C#) gets union types",
     "date": "2026-05-24"
   },
   {
@@ -36,7 +46,7 @@
   },
   {
     "link": "https://www.kcrg.com/2026/05/20/iowa-lawmakers-move-mandate-students-take-center-intellectual-freedom-classes-amid-low-enrollment/",
-    "title": "[英] Iowa lawmakers to mandate students take Center for Intellectual Freedom classes",
+    "title": "[英] Iowa to mandate students take Intellectual Freedom classes amid low enrollment",
     "date": "2026-05-24"
   },
   {
@@ -61,17 +71,7 @@
   },
   {
     "link": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
-    "title": "[英] My two-part desk setup",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://chipsandcheese.com/p/evaluating-spec-cpu2026",
-    "title": "[英] Evaluating Spec CPU2026",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://victoriaritvo.com/blog/hengefinder/",
-    "title": "[英] Hengefinder: Finding When the Sun Aligns with Your Street",
+    "title": "[英] My two-part desk setup (2025)",
     "date": "2026-05-24"
   }
 ]
