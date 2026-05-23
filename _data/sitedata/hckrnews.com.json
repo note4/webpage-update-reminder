@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.c82.net/euclid/",
+    "title": "[英] Byrne's Euclid",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://sales-and-dungeons.app/",
+    "title": "[英] Sales and Dungeons: Thermal printer TTRPG utility",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://zero-arr.vercel.app",
+    "title": "[英] Polsia raised $30M; source map: fake ARR, dead users, god-mode over your company",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://susam.net/do-not-roll-your-own.html",
+    "title": "[英] Don't Roll Your Own",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://the-practical-developer.online/posts/docker-image-from-1gb-to-80mb/",
+    "title": "[英] We reduced a real Node.js production Docker image from 1.2GB to 78MB",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c3w2l249j8go",
+    "title": "[英] CA declares state of emergency as fire crews race to contain toxic chemical leak",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/",
+    "title": "[英] A self-powered computer in actual credit-card size (~1mm thick)",
+    "date": "2026-05-24"
+  },
+  {
     "link": "https://www.iconoclasts.blog/joe/markdown-is-not-latex",
     "title": "[英] Markdown Is Not LaTeX",
     "date": "2026-05-24"
@@ -15,13 +50,13 @@
     "date": "2026-05-24"
   },
   {
-    "link": "https://ironpeak.be/blog/bypassing-apple-mie/",
-    "title": "[英] Pardon MIE?",
+    "link": "https://news.ycombinator.com/item?id=48251229",
+    "title": "[英] undefined",
     "date": "2026-05-24"
   },
   {
     "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
-    "title": "[英] .NET (OK, C#) gets union types",
+    "title": "[英] .NET (OK, C#) finally gets union types",
     "date": "2026-05-24"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://veronicaexplains.net/my-first-writerdeck/",
     "title": "[英] It's time to talk about my writerdeck",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://microsandbox.dev/blog/oci-filesystem-47x-faster",
-    "title": "[英] We made our filesystem 47× faster by deleting it",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://www.kcrg.com/2026/05/20/iowa-lawmakers-move-mandate-students-take-center-intellectual-freedom-classes-amid-low-enrollment/",
-    "title": "[英] Iowa to mandate students take Intellectual Freedom classes amid low enrollment",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/",
-    "title": "[英] Tank leaking toxic chemicals in Orange County will spill or explode",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-    "title": "[英] Green card seekers must leave U.S. to apply, Trump administration says",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-    "title": "[英] Texas woman arrested for Facebook post about town water quality",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://www.dusanmalusev.dev/blog/jwt-is-a-scam-and-your-app-doesnt-need-it",
-    "title": "[英] JWT is a scam and your app doesn't need it",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
-    "title": "[英] My two-part desk setup (2025)",
     "date": "2026-05-24"
   }
 ]
