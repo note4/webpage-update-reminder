@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+    "title": "[英] 80386 Microcode Disassembled",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely",
+    "title": "[英] DHS Quits Granting Green Cards–Almost",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://horace.io/brrr_intro.html",
+    "title": "[英] Making Deep Learning Go Brrrr from First Principles",
+    "date": "2026-05-23"
+  },
+  {
+    "link": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
+    "title": "[英] Improving C# Memory Safety",
+    "date": "2026-05-23"
+  },
+  {
     "link": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
     "title": "[英] US tech firms share Dutch regulator officials' names with Senate",
     "date": "2026-05-23"
@@ -52,26 +72,6 @@
   {
     "link": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
     "title": "[英] Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.govexec.com/management/2026/05/white-house-ordering-agencies-place-its-new-app-all-employees-government-phones/413738/",
-    "title": "[英] White House ordering agencies to place its new app on all employees' govt phones",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
-    "title": "[英] The quadratic sandwich",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.ivan.codes/blog/let-it-cook",
-    "title": "[英] Let the AI Cook",
-    "date": "2026-05-23"
-  },
-  {
-    "link": "https://www.ft.com/content/99c1c1e7-1a1c-479c-9fc8-e21aea5c3f0e",
-    "title": "[英] Crypto industry braces for quantum computing threat",
     "date": "2026-05-23"
   }
 ]
