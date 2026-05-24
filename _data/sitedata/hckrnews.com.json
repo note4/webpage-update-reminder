@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://uvic-aurora.github.io/acav-manual/index.html",
+    "title": "[英] Show HN: Anyone interested in a tool helps to explore C++ ASTs",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://khz.ac/software/i3-integration.html",
+    "title": "[英] My I3-Emacs Integration",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html",
+    "title": "[英] Judson's Last Ride",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://bun.com/docs/runtime/image",
+    "title": "[英] Bun.Image",
+    "date": "2026-05-24"
+  },
+  {
     "link": "https://www.c82.net/euclid/",
     "title": "[英] Byrne's Euclid",
     "date": "2026-05-24"
@@ -26,7 +46,7 @@
   },
   {
     "link": "https://www.bbc.com/news/articles/c3w2l249j8go",
-    "title": "[英] CA declares state of emergency as fire crews race to contain toxic chemical leak",
+    "title": "[英] Toxic chemical leak at a manufacturing facility in Orange County",
     "date": "2026-05-24"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48251229",
     "title": "[英] undefined",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
-    "title": "[英] .NET (OK, C#) finally gets union types",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://www.counting-stuff.com/reflections-on-building-forum-software/",
-    "title": "[英] Reflections on Building Forum Software",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://github.com/tejpalv/cc-wiki",
-    "title": "[英] CC-Wiki: Turn Claude Code sessions into a shareable knowledge base wiki",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://veronicaexplains.net/my-first-writerdeck/",
-    "title": "[英] It's time to talk about my writerdeck",
     "date": "2026-05-24"
   }
 ]
