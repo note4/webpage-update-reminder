@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://pilcrowonpaper.com/blog/16",
+    "title": "[英] Understanding WebAuthn credential protection policy",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+    "title": "[英] Migrating from Go to Rust",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+    "title": "[英] Defeating Git Rigour Fatigue with Jujutsu",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48260307",
+    "title": "[英] Ask HN: Why didn't the C64 come with Simons' BASIC in the box from 1983 onward?",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
+    "title": "[英] Australia Four-Day Work Week Study Data Shows Boosted Productivity",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://www.nature.com/articles/s41562-026-02474-9",
+    "title": "[英] The political polarization of health outcomes in the USA",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
+    "title": "[英] Using HTTP/2 Cleartext for a server in Go 1.24",
+    "date": "2026-05-25"
+  },
+  {
     "link": "https://www.mayerbrown.com/en/insights/publications/2026/04/traveling-abroad-your-phone-may-be-the-first-checkpoint",
     "title": "[英] CBP updated its electronic device search directive in Jan 2026",
     "date": "2026-05-25"
@@ -16,7 +51,7 @@
   },
   {
     "link": "https://www.hollandtech.net/claude-is-not-your-architect/",
-    "title": "[英] Claude Is Not Your Architect. Stop Letting It Pretend",
+    "title": "[英] Claude is not your architect. Stop letting it pretend",
     "date": "2026-05-25"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
     "title": "[英] Memory has grown to nearly two-thirds of AI chip component costs",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://www.firefox.com/en-US/landing/adafruit/",
-    "title": "[英] Build Adafruit projects right from Firefox",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
-    "title": "[英] Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
-    "title": "[英] FreeBSD Foundation executive director tries daily driving FreeBSD on laptop",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://ti.to/codeforgood/rubyforgood",
-    "title": "[英] Ruby for Good",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://www.fbritoferreira.com/blog/no-juniors-today-no-seniors-in-2031/",
-    "title": "[英] No Juniors Today, No Seniors in 2031",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://abyss.fish/your_dotfiles_are_not_a_distro",
-    "title": "[英] Omarchy Is Not A Distro",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://usborne.com/us/books/computer-and-coding-books",
-    "title": "[英] Usborne 1980s Computer Books",
     "date": "2026-05-25"
   }
 ]
