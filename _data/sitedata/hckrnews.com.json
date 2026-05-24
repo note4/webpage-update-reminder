@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/",
+    "title": "[英] The seed oil panic is hurting my cardiac patients",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://arxiv.org/abs/2605.06445",
+    "title": "[英] Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "title": "[英] DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
+    "title": "[英] Microsoft's 6502 BASIC is now Open Source (2025)",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48257188",
+    "title": "[英] undefined",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/",
+    "title": "[英] I keep bouncing off the Scheme language",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://apple.github.io/ml-pico/",
+    "title": "[英] Perceptual Image Codec: What Matters in Practical Learned Image Compression",
+    "date": "2026-05-24"
+  },
+  {
     "link": "https://colossal.com/colossal-biosciences-artificial-egg-dodo-moa/",
     "title": "[英] Artificial egg hatched 26 healthy chickens",
     "date": "2026-05-24"
@@ -37,41 +72,6 @@
   {
     "link": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
     "title": "[英] Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-    "title": "[英] I spent 50 hours drawing a line graph",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://github.com/ClickHouse/silk",
-    "title": "[英] Silk: Open-source cooperative fiber scheduler",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://aresluna.org/key-in-sight/",
-    "title": "[英] Key, in sight – A guide, of sorts, to keyboard customization",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public",
-    "title": "[英] The C++ Standard Library Has Been Walking Itself Back for Fifteen Years",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/spe.70079",
-    "title": "[英] Converting an Integer to a Decimal String in Under Two Nanoseconds",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://www.worldwidewords.org/surprise.html",
-    "title": "[英] Limerick",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
-    "title": "[英] The C64 Dead Test Font",
     "date": "2026-05-24"
   }
 ]
