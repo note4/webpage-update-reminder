@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://audiomass.co/?multitrack=1",
+    "title": "[英] Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+    "title": "[英] A fundamental principle of aeronautical engineering has been overturned",
+    "date": "2026-05-25"
+  },
+  {
     "link": "https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/",
     "title": "[英] LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
     "date": "2026-05-25"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.stephendiehl.com/posts/calculation_of_volume/",
     "title": "[英] Book Review: On the Calculation of Volume",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://www.hollandtech.net/claude-is-not-your-architect/",
-    "title": "[英] Claude is not your architect. Stop letting it pretend",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
-    "title": "[英] Don't know where your data is from? Bayesian modeling for unknown coordinates",
     "date": "2026-05-25"
   }
 ]
