@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "title": "[英] Memory has grown to nearly two-thirds of AI chip component costs",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://www.firefox.com/en-US/landing/adafruit/",
+    "title": "[英] Build Adafruit projects right from Firefox",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+    "title": "[英] Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
+    "title": "[英] FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop",
+    "date": "2026-05-25"
+  },
+  {
     "link": "https://ti.to/codeforgood/rubyforgood",
     "title": "[英] Ruby for Good",
     "date": "2026-05-25"
@@ -52,26 +72,6 @@
   {
     "link": "https://arxiv.org/abs/2605.06445",
     "title": "[英] Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://esengine.github.io/DeepSeek-Reasonix/",
-    "title": "[英] DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
-    "title": "[英] Microsoft's 6502 BASIC is now Open Source (2025)",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48257188",
-    "title": "[英] undefined",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/",
-    "title": "[英] I keep bouncing off the Scheme language",
     "date": "2026-05-25"
   }
 ]
