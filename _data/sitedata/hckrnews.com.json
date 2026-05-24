@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
+    "title": "[英] Don't know where your data is from? Bayesian modeling for unknown coordinates",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://www.tomshardware.com/pc-components/cpus/100-budget-cpu-shootout-ddr4",
+    "title": "[英] $100 CPU Shootout: Comparing the Ryzen 5 5500, Core i3-14100F, & Core i3-12100F",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://tritium.legal/blog/noroboto",
+    "title": "[英] Noroboto: Lying Fonts and Mitigation in Rust",
+    "date": "2026-05-25"
+  },
+  {
     "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
     "title": "[英] Memory has grown to nearly two-thirds of AI chip component costs",
     "date": "2026-05-25"
@@ -25,13 +40,13 @@
     "date": "2026-05-25"
   },
   {
-    "link": "https://abyss.fish/your_dotfiles_are_not_a_distro",
-    "title": "[英] Omarchy Is Not A Distro",
+    "link": "https://www.fbritoferreira.com/blog/no-juniors-today-no-seniors-in-2031/",
+    "title": "[英] No Juniors Today, No Seniors in 2031",
     "date": "2026-05-25"
   },
   {
-    "link": "https://www.fbritoferreira.com/blog/no-juniors-today-no-seniors-in-2031/",
-    "title": "[英] No Juniors Today, No Seniors in 2031",
+    "link": "https://abyss.fish/your_dotfiles_are_not_a_distro",
+    "title": "[英] Omarchy Is Not A Distro",
     "date": "2026-05-25"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
     "title": "[英] DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://www.salmonfinder.com/2026/05/13/bristol-bay-kodiak-predictions-2026",
-    "title": "[英] Predicting the 2026 Bristol Bay and Kodiak Salmon Runs",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/",
-    "title": "[英] The seed oil panic is hurting my cardiac patients",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.06445",
-    "title": "[英] Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
     "date": "2026-05-25"
   }
 ]
