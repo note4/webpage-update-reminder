@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://github.com/ClickHouse/silk",
+    "title": "[英] Silk: Open-source cooperative fiber scheduler",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://aresluna.org/key-in-sight/",
+    "title": "[英] Key, in sight – A guide, of sorts, to keyboard customization",
+    "date": "2026-05-24"
+  },
+  {
     "link": "https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public",
     "title": "[英] The C++ Standard Library Has Been Walking Itself Back for Fifteen Years",
     "date": "2026-05-24"
@@ -46,7 +56,7 @@
   },
   {
     "link": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-    "title": "[英] Why Is Vivado 2026.1 Dropping Linux Support for Free Tier?",
+    "title": "[英] Why is Vivado 2026.1 dropping Linux support for free tier?",
     "date": "2026-05-24"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
     "title": "[英] Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://r7rs.org/large/fascicles/proc/",
-    "title": "[英] Revised^7 Report on Scheme, Large: Procedural Fascicle Draft is now public",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://twixt.games/",
-    "title": "[英] Show HN: Twixt – transform one word into another in four moves",
     "date": "2026-05-24"
   }
 ]
