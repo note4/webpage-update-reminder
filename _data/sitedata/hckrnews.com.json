@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://colossal.com/colossal-biosciences-artificial-egg-dodo-moa/",
+    "title": "[英] Artificial egg hatched 26 healthy chickens",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://susam.net/childhood-computing.html",
+    "title": "[英] Childhood Computing",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://mastering.dyalog.com/README.html",
+    "title": "[英] Mastering Dyalog APL",
+    "date": "2026-05-24"
+  },
+  {
+    "link": "https://github.com/arashthr/hugo-flow",
+    "title": "[英] Show HN: Git-based front-end interface for Hugo",
+    "date": "2026-05-24"
+  },
+  {
     "link": "https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/",
     "title": "[英] The Worlds Left to Conquer",
     "date": "2026-05-24"
@@ -52,26 +72,6 @@
   {
     "link": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
     "title": "[英] The C64 Dead Test Font",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/",
-    "title": "[英] Neoclassical C++: segmented iterators revisited",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://www.adventuresinoss.com/aws-four-years/",
-    "title": "[英] Amazon Web Services – Four Years and Out",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
-    "title": "[英] 'Fuck you, Bambu': How one private message could change the face of 3D printing",
-    "date": "2026-05-24"
-  },
-  {
-    "link": "https://mitander.xyz/posts/buildcraft-is-a-compiler-problem/",
-    "title": "[英] Buildcraft Is a Compiler Problem",
     "date": "2026-05-24"
   }
 ]
