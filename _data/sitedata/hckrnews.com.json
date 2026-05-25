@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+    "title": "[英] Magnifica Humanitas (Encyclical Letter)",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes",
+    "title": "[英] Notes about reading messages with the Python email packages",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://www.tinyvolt.com/geomatic",
+    "title": "[英] Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
+    "title": "[英] Bytecode VMs in surprising places (2024)",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://www.atlasobscura.com/articles/blankets-summer-hot",
+    "title": "[英] Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://www.darthealth.com/blog/jen-can-never-leave",
+    "title": "[英] Jen Can Never Leave",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://samkriss.substack.com/p/if-you-let-ai-do-your-writing-i-will",
+    "title": "[英] If you let AI do your writing, I will come to your house and kill you",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://blog.acolyer.org/2016/05/03/gorilla-a-fast-scalable-in-memory-time-series-database/",
+    "title": "[英] Gorilla: A fast, scalable, in-memory time series database (2016)",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
+    "title": "[英] I love my Bluetooth keyboard",
+    "date": "2026-05-25"
+  },
+  {
     "link": "https://seriot.ch/computation/jira.html",
     "title": "[英] Jira Is Turing-Complete",
     "date": "2026-05-25"
@@ -11,7 +56,7 @@
   },
   {
     "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
-    "title": "[英] Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
+    "title": "[英] Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
     "date": "2026-05-25"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://phabricator.services.mozilla.com/D301917",
     "title": "[英] Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
-    "title": "[英] Building Pi with Pi",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://ohwr.org/projects/white-rabbit/",
-    "title": "[英] White Rabbit – sub-nanosecond synchronization for large distributed systems",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://www.popsci.com/environment/dingo-bones-ritual-burial-australia/",
-    "title": "[英] 1k-year-old dingo bones show that it was injured, cared for, and ritually buried",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48261829",
-    "title": "[英] undefined",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://embedworkflow.com/blog/selling-saas-in-germany-austria-and-switzerland-dach/",
-    "title": "[英] Selling SaaS in Germany",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48261543",
-    "title": "[英] undefined",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/",
-    "title": "[英] Getting an old Computer online with Android Ethernet tethering",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://audiomass.co/?multitrack=1",
-    "title": "[英] Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-    "title": "[英] A fundamental principle of aeronautical engineering has been overturned",
     "date": "2026-05-25"
   }
 ]
