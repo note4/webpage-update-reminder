@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://seriot.ch/computation/jira.html",
+    "title": "[英] Jira Is Turing-Complete",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://danielmiessler.com/blog/companies-graph-of-algorithms",
+    "title": "[英] Companies Are Just a Graph of Algorithms",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+    "title": "[英] Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "title": "[英] The Eternal Sloptember",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
+    "title": "[英] C constructs that still don't work in C++",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://phabricator.services.mozilla.com/D301917",
+    "title": "[英] Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+    "title": "[英] Building Pi with Pi",
+    "date": "2026-05-25"
+  },
+  {
+    "link": "https://ohwr.org/projects/white-rabbit/",
+    "title": "[英] White Rabbit – sub-nanosecond synchronization for large distributed systems",
+    "date": "2026-05-25"
+  },
+  {
     "link": "https://www.popsci.com/environment/dingo-bones-ritual-burial-australia/",
     "title": "[英] 1k-year-old dingo bones show that it was injured, cared for, and ritually buried",
     "date": "2026-05-25"
@@ -32,46 +72,6 @@
   {
     "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
     "title": "[英] A fundamental principle of aeronautical engineering has been overturned",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/",
-    "title": "[英] LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://mimetra.com/blog/consciousness-fusion/",
-    "title": "[英] Why Physical Reality Is a Collective Construction",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
-    "title": "[英] CBP Directive 3340-049B: Border Search of Electronic Devices",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://pilcrowonpaper.com/blog/16",
-    "title": "[英] Understanding WebAuthn credential protection policy",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-    "title": "[英] Migrating from Go to Rust",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
-    "title": "[英] Defeating Git Rigour Fatigue with Jujutsu",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48260307",
-    "title": "[英] Ask HN: Why didn't the C64 come with Simons' BASIC in the box from 1983 onward?",
-    "date": "2026-05-25"
-  },
-  {
-    "link": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
-    "title": "[英] The four-day workweek in Australia: insights from early adopters of 100:80:100",
     "date": "2026-05-25"
   }
 ]

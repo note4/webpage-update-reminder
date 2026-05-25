@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/intl/zh-tw/products/cloud/7-eleven--drives-innovation-with-google-cloud-ai/",
+    "title": "統一超商以 Google Cloud AI 技術驅動創新，從飲食建議到智慧生活圈的消費體驗",
+    "date": "2026-05-25 18:10:00"
+  },
+  {
     "link": "https://blog.google/intl/zh-tw/products/cloud/2026-google-io-google-cloud-highlights/",
     "title": "2026 Google I/O：Google Cloud 重點精華",
     "date": "2026-05-20 10:20:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/google-translate-20/",
     "title": "Google 翻譯 20 週年：跨越語言隔閡的 5 個發現",
     "date": "2026-04-29 17:00:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/cloud/the_dawn_of_-the_agentic_enterprise_at_next_26/",
-    "title": "Google Cloud 於 Next ‘26 大會宣布開啟「代理式企業」新時代",
-    "date": "2026-04-23 04:00:00"
   }
 ]
