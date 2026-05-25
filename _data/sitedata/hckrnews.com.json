@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=VucjurQUHO8",
+    "title": "[英] I'm done. I'm f***ing done [video]",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://medium.com/@vivek1502/building-an-aws-lambda-like-runtime-with-firecracker-microvms-42a418c6e3d7",
+    "title": "[英] Building an AWS Lambda-Like Runtime with Firecracker MicroVMs",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+    "title": "[英] Microsoft Copilot Cowork Exfiltrates Files",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm",
+    "title": "[英] Ninth Circuit Panel Goes Out of Its Way to Question Section 230–DOE vs. Meta",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://thefrontpage.dev/",
+    "title": "[英] Hacker News front page as a site",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://github.com/ghetea-patrick/riscrithm",
+    "title": "[英] Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go",
+    "date": "2026-05-26"
+  },
+  {
     "link": "https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car",
     "title": "[英] Ferrari Luce, Maranello's first ever electric car",
     "date": "2026-05-26"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
     "title": "[英] Anthropic Cofounder Chris Olah's Remarks on Pope Leo XIV's \"Magnifica Humanitas\"",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
-    "title": "[英] Everyone Against Us (2023)",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/",
-    "title": "[英] The bootstrapper's EU stack for under €10 per month",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://www.foxglove.org.uk/2026/05/20/google-court-retaliation-gaza-whistleblower/",
-    "title": "[英] Google facing court for retaliation against Gaza whistleblower",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-    "title": "[英] Exit IP VPN servers mitigation rollout",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/",
-    "title": "[英] Alaska's oil revival sparks a new energy rush Into the Arctic",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-    "title": "[英] California moves to exempt Linux from its age-verification law after backlash",
     "date": "2026-05-26"
   }
 ]
