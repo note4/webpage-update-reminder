@@ -1,7 +1,32 @@
 [
   {
+    "link": "https://rescueradar.co.uk/about",
+    "title": "[英] RescueRadar – UK Emergency Services Flight Tracking Since 2013",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+    "title": "[英] The worst job interview I ever had",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+    "title": "[英] A Portentous Reunion",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+    "title": "[英] C array types are weird",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://github.com/lwouis/alt-tab-macos/discussions/5533",
+    "title": "[英] AltTab.app makes free features paid, drops old releases",
+    "date": "2026-05-27"
+  },
+  {
     "link": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
-    "title": "[英] Big Tech's Anti-Labor Playbook Has Come for Wikipedia",
+    "title": "[英] Big tech's anti-labor playbook has come for Wikipedia",
     "date": "2026-05-27"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://platform.xiaomimimo.com/docs/en-US/news/v2.5-price-update",
     "title": "[英] Xiaomi MiMo-v2.5 Series API Permanent Price Reduction Up to 99%",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-    "title": "[英] I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/",
-    "title": "[英] Stack Overflow’s forum is dead but the company’s still kicking",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
-    "title": "[英] Dropbox CEO Drew Houston to step down",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-    "title": "[英] A few interesting modern pixel fonts",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://github.com/logannye/rosalind",
-    "title": "[英] Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
     "date": "2026-05-27"
   }
 ]
