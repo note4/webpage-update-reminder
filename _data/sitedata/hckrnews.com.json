@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+    "title": "[英] Liverpool and Manchester Railway",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.laborpolitics.com/p/bouncy-castle-communism",
+    "title": "[英] Bouncy Castle Communism Is the Solution",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/",
+    "title": "[英] Uber blows through its AI budget in 1 quarter",
+    "date": "2026-05-27"
+  },
+  {
     "link": "https://rescueradar.co.uk/about",
     "title": "[英] RescueRadar – UK Emergency Services Flight Tracking Since 2013",
     "date": "2026-05-27"
@@ -11,7 +26,7 @@
   },
   {
     "link": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
-    "title": "[英] A Portentous Reunion",
+    "title": "[英] A portentous reunion",
     "date": "2026-05-27"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48285073",
     "title": "[英] undefined",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://maxdemarzi.com/2026/05/21/extending-mysql-with-villagesql/",
-    "title": "[英] Extending MySQL with VillageSQL",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
-    "title": "[英] Stop Advertising in Your Commits",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://platform.xiaomimimo.com/docs/en-US/news/v2.5-price-update",
-    "title": "[英] Xiaomi MiMo-v2.5 Series API Permanent Price Reduction Up to 99%",
     "date": "2026-05-27"
   }
 ]
