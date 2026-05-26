@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=kdnN0kk7MS0",
+    "title": "[英] You Only Use 10% of Printf() – Here Are Things They Didn't Teach You [video]",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://dynip.dev/",
+    "title": "[英] DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://github.com/andreoliwa/logseq-doctor",
+    "title": "[英] Logseq Doctor: heal your flat old Markdown files before importing to Logseq",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://jry.io/writing/use-boring-languages-with-llms/",
+    "title": "[英] Use Boring Languages with LLMs",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://blog.0patch.com/2018/01/bringing-abandoned-equation-editor-back.html",
+    "title": "[英] Micropatching Brings the Abandoned Equation Editor Back to Life (2018)",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48275508",
+    "title": "[英] Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://www.theguardian.com/technology/2007/feb/08/business.comment",
+    "title": "[英] Will MySpace ever lose its monopoly? (2007)",
+    "date": "2026-05-26"
+  },
+  {
     "link": "https://pscanf.com/s/354/",
     "title": "[英] The User Is Visibly Frustrated",
     "date": "2026-05-26"
@@ -37,41 +72,6 @@
   {
     "link": "https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/",
     "title": "[英] Why the smart home bubble popped",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://www.thetypicalset.com/blog/a-comma-and-a-question-mark",
-    "title": "[英] A Comma and a Question Mark",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
-    "title": "[英] Designing for and against the manufactured normalcy field (2012)",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://www.newyorker.com/magazine/2026/06/01/our-warming-planet-is-a-petri-dish-for-new-and-deadly-microbes",
-    "title": "[英] Our Warming Planet Is a Petri Dish for New and Deadly Microbes",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://math.buffalo.edu/mad/special/gilmer-gloria_HAIRSTYLES.html",
-    "title": "[英] Mathematical Patterns in African American HAIRSTYLEs",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://teenage.engineering/products/tp-7",
-    "title": "[英] TP-7 Field Recorder",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://jsx.lol",
-    "title": "[英] Does anybody like React?",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://secvant.com/",
-    "title": "[英] Browser-based file encryption tool using WebCrypto",
     "date": "2026-05-26"
   }
 ]
