@@ -1,7 +1,67 @@
 [
   {
+    "link": "https://zonted.com/posts/every-ai-is-intj/",
+    "title": "[英] Every Frontier AI Is INTJ",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://github.com/yugr/rust-slides/",
+    "title": "[英] Performance of Rust Language [pdf]",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://www.newyorker.com/magazine/1948/06/26/the-lottery",
+    "title": "[英] The Lottery – Shirley Jackson (1948)",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://veso.ai/research/agentic-patterns/",
+    "title": "[英] Agentic Patterns",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+    "title": "[英] How Shamir's Secret Sharing Works",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+    "title": "[英] Taking a walk may lead to more creativity than sitting, study finds (2014)",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+    "title": "[英] Squares in Squares",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "title": "[英] Citing Gandalf, Pope Leo says we must \"disarm\" AI",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "[英] Using AI to write better code more slowly",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://support.apple.com/en-us/127115",
+    "title": "[英] CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://theoasisbbs.com/pd-64-c64-psu-brings-usb-pd-to-commodore-64/",
+    "title": "[英] Tidy PSU – PD-64 C64 PSU Brings USB PD to Commodore 64",
+    "date": "2026-05-26"
+  },
+  {
+    "link": "https://codeberg.org/MarSik/reticulum-audit/src/branch/main/reticulum-source-privacy-flaw.md",
+    "title": "[英] Reticulum: Source-privacy claim vs. routing metadata",
+    "date": "2026-05-26"
+  },
+  {
     "link": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-    "title": "[英] Nobody Cracks Open a Programming Book Anymore",
+    "title": "[英] Nobody cracks open a programming book anymore",
     "date": "2026-05-26"
   },
   {
@@ -12,66 +72,6 @@
   {
     "link": "https://www.wsj.com/tech/ai/ai-memory-cd1de7f4",
     "title": "[英] Chatbot Has a Long Memory. That Isn't Always a Good Thing",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://github.com/tantara/openbrief",
-    "title": "[英] Show HN: OpenBrief – Local-first video downloader/summarizer",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/",
-    "title": "[英] Canada losing top talent as workers head to the U.S.",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48272481",
-    "title": "[英] undefined",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://medium.com/@vivek1502/building-an-aws-lambda-like-runtime-with-firecracker-microvms-42a418c6e3d7",
-    "title": "[英] Building an AWS Lambda-Like Runtime with Firecracker MicroVMs",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-    "title": "[英] Microsoft Copilot Cowork Exfiltrates Files",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm",
-    "title": "[英] Ninth Circuit Panel Goes Out of Its Way to Question Section 230–DOE vs. Meta",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://thefrontpage.dev/",
-    "title": "[英] Hacker News front page as a site",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://github.com/ghetea-patrick/riscrithm",
-    "title": "[英] Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car",
-    "title": "[英] Ferrari Luce, Maranello's first ever electric car",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://github.com/boratanrikulu/gobee",
-    "title": "[英] Show HN: Write your BPF programs in Go, not C",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
-    "title": "[英] Ferrari Luce – Designed with Jony Ive",
-    "date": "2026-05-26"
-  },
-  {
-    "link": "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html",
-    "title": "[英] Yoti age checks share facial photos and device fingerprints with third parties",
     "date": "2026-05-26"
   }
 ]
