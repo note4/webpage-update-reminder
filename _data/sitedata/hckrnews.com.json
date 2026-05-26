@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+    "title": "[英] Big Tech's Anti-Labor Playbook Has Come for Wikipedia",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.apollo.com/wealth/the-daily-spark/more-etfs-than-stocks",
+    "title": "[英] There are now more ETFs than stocks in the US",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
+    "title": "[英] The Steinwinter Supercargo",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+    "title": "[英] Chemistry behind the Garden Grove chemical tank",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://artofpilgrim.github.io/Dials/",
+    "title": "[英] Dials",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players",
+    "title": "[英] Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48285073",
+    "title": "[英] undefined",
+    "date": "2026-05-27"
+  },
+  {
     "link": "https://maxdemarzi.com/2026/05/21/extending-mysql-with-villagesql/",
     "title": "[英] Extending MySQL with VillageSQL",
     "date": "2026-05-27"
@@ -20,7 +55,7 @@
     "date": "2026-05-27"
   },
   {
-    "link": "https://wiert.me/2026/05/26/stack-overflows-forum-is-dead-thanks-to-ai-but-the-companys-still-kicking-thanks-to-ai-sherwood-news/",
+    "link": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/",
     "title": "[英] Stack Overflow’s forum is dead but the company’s still kicking",
     "date": "2026-05-27"
   },
@@ -37,41 +72,6 @@
   {
     "link": "https://github.com/logannye/rosalind",
     "title": "[英] Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://dynomight.net/crc-rates/",
-    "title": "[英] Is \"colorectal cancer\" rising in \"young people\"?",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.theguardian.com/business/2026/may/26/ferrari-luce-ev-jony-ive-design-sports-car",
-    "title": "[英] Ferrari shares fall after launch of first EV as Jony Ive design proves divisive",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer",
-    "title": "[英] Sage Care (YC S24) Is Hiring Software Engineers",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
-    "title": "[英] What color is your function? (2015)",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://crates.io/crates/friend",
-    "title": "[英] Cargo Install Friend",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://ericturner.dev/posts/cost-of-home-ownership/",
-    "title": "[英] The real cost of owning a home",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/",
-    "title": "[英] Uber, Lyft drivers in Massachusetts form first US ride-share union",
     "date": "2026-05-27"
   }
 ]
