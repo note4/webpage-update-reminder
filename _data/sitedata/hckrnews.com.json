@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://platform.xiaomimimo.com/docs/en-US/welcome",
+    "title": "[英] Xiaomi MiMo-v2.5 price drops 99% – AI pricing war",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
+    "title": "[英] What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://xlii.space/eng/from-rust-to-ruby/",
+    "title": "[英] From Rust to Ruby",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+    "title": "[英] AI Tools Are Only as Good as Your Judgment – and That's the Point",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.tracingwoodgrains.com/p/how-wikipedia-whitewashes-mao",
+    "title": "[英] Wikipedia Whitewashes Mao – The Anatomy of Ideological Capture",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+    "title": "[英] Erin Brockovich made a map to track data centers around the country",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
+    "title": "[英] Stripe is friendly to \"friendly fraud\"",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://github.com/redraw/rapel",
+    "title": "[英] Show HN: Rapel – chunked resumable downloads in unstable networks",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://developers.cloudflare.com/flagship/",
+    "title": "[英] Cloudflare Flagship",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://brgsk.xyz/agent-memory-anatomy/",
+    "title": "[英] Agent Memory: An Anatomy",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/",
+    "title": "[英] Sonny Rollins, Jazz's Saxophone Colossus and Greatest Improvisor, Dead at 95",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation",
+    "title": "[英] Colorado and California Exempt Open Source from Age Attestation",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://deepswe.datacurve.ai/blog",
+    "title": "[英] DeepSWE: A contamination-free benchmark for long-horizon coding agents",
+    "date": "2026-05-27"
+  },
+  {
     "link": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
     "title": "[英] Liverpool and Manchester Railway",
     "date": "2026-05-27"
@@ -7,71 +72,6 @@
   {
     "link": "https://www.laborpolitics.com/p/bouncy-castle-communism",
     "title": "[英] Bouncy Castle Communism Is the Solution",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/",
-    "title": "[英] Uber blows through its AI budget in 1 quarter",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://rescueradar.co.uk/about",
-    "title": "[英] RescueRadar – UK Emergency Services Flight Tracking Since 2013",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-    "title": "[英] The worst job interview I ever had",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
-    "title": "[英] A portentous reunion",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://anselmschueler.com/blogposts/2025-c-pointers/",
-    "title": "[英] C array types are weird",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://github.com/lwouis/alt-tab-macos/discussions/5533",
-    "title": "[英] AltTab.app makes free features paid, drops old releases",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
-    "title": "[英] Big tech's anti-labor playbook has come for Wikipedia",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.apollo.com/wealth/the-daily-spark/more-etfs-than-stocks",
-    "title": "[英] There are now more ETFs than stocks in the US",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
-    "title": "[英] The Steinwinter Supercargo",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-    "title": "[英] Chemistry behind the Garden Grove chemical tank",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://artofpilgrim.github.io/Dials/",
-    "title": "[英] Dials",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players",
-    "title": "[英] Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48285073",
-    "title": "[英] undefined",
     "date": "2026-05-27"
   }
 ]
