@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://segar.me/blog/posts/reconstructing_a_mixbook_movie.html",
+    "title": "[英] Reconstructing a Mixbook movie from its data API with FFmpeg",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://github.com/fbcouto/deterministic-wave-engine",
+    "title": "[英] Deterministic Hydrodynamic Quantum Engine in Rust",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
+    "title": "[英] How to Quickly Warm Up Your MacBook",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://sverre.me/blog/rust-on-kindle/",
+    "title": "[英] Rust (and Slint) on a Jailbroken Kindle",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://2earth.github.io/website/20260525.html",
+    "title": "[英] On Labubu and the Hyperreal",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/",
+    "title": "[英] YouTube to automatically label AI-generated videos",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://tracesofhumanity.org/freediving-embodiment-and-humanity/",
+    "title": "[英] Freediving, Embodiment and Humanity – Joanna Rutkowska",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+    "title": "[英] What Apple and Google are doing to your push notifications",
+    "date": "2026-05-28"
+  },
+  {
     "link": "https://nonogra.ph/germany-considers-law-to-force-social-media-algorithm-boost-for-state-approved-news-05-27-2026",
     "title": "[英] Germany Law to Force Algorithm Boost for State-Approved News",
     "date": "2026-05-28"
@@ -32,46 +72,6 @@
   {
     "link": "https://arxiv.org/abs/2605.21779",
     "title": "[英] Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-    "title": "[英] Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
-    "title": "[英] In-Browser Container Builds",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-    "title": "[英] SimCity 3k in 4k (2025)",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://www.empirical.health/blog/biomarkers-that-change-with-age/",
-    "title": "[英] Objective metrics that change the most as we age",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "title": "[英] I think Anthropic and OpenAI have found product-market fit",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/reflex/jobs",
-    "title": "[英] Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://z3ugma.github.io/2026/05/25/a-comma-and-a-question-mark/",
-    "title": "[英] A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://blog.packagist.com/an-update-on-composer-packagist-supply-chain-security/",
-    "title": "[英] An Update on Composer and Packagist Supply Chain Security",
     "date": "2026-05-28"
   }
 ]
