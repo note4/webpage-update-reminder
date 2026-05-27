@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://iot-devices.com.ua/en/ggreg20-v3-j305-tube-mounting-dimensions/",
+    "title": "[英] Dimensions of the Geiger-Muller Tube Holder on the GGreg20_V3 Geiger Counter PCB",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://www.stet.sh/blog/how-i-used-codex-to-improve-its-own-agents-md",
+    "title": "[英] I used autoresearch to improve my AGENTS.md, measured against real tasks",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+    "title": "[英] I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://mmapped.blog/posts/51-interleaved-deltas",
+    "title": "[英] Interleaved Deltas",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity",
+    "title": "[英] iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity",
+    "date": "2026-05-28"
+  },
+  {
     "link": "https://segar.me/blog/posts/reconstructing_a_mixbook_movie.html",
     "title": "[英] Reconstructing a Mixbook movie from its data API with FFmpeg",
     "date": "2026-05-28"
@@ -20,13 +45,13 @@
     "date": "2026-05-28"
   },
   {
-    "link": "https://2earth.github.io/website/20260525.html",
-    "title": "[英] On Labubu and the Hyperreal",
+    "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "title": "[英] YouTube to automatically label AI-generated videos",
     "date": "2026-05-28"
   },
   {
-    "link": "https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/",
-    "title": "[英] YouTube to automatically label AI-generated videos",
+    "link": "https://2earth.github.io/website/20260525.html",
+    "title": "[英] On Labubu and the Hyperreal",
     "date": "2026-05-28"
   },
   {
@@ -36,7 +61,7 @@
   },
   {
     "link": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-    "title": "[英] What Apple and Google are doing to your push notifications",
+    "title": "[英] What Apple and Google are doing to push notifications",
     "date": "2026-05-28"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://borretti.me/article/human-bottlenecks",
     "title": "[英] Human Bottlenecks",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "http://blog.tynemouthsoftware.co.uk/2019/10/how-the-zx80-works.html",
-    "title": "[英] How the ZX80 Works",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
-    "title": "[英] Valve raises Steam Deck prices by more than $200",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
-    "title": "[英] Stress disrupts hippocampal integration of overlapping events, memory inference",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
-    "title": "[英] Canada to order military plane fleet from Sweden in shift from US suppliers",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.21779",
-    "title": "[英] Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
     "date": "2026-05-28"
   }
 ]
