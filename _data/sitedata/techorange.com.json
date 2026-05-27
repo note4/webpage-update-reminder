@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/05/27/zero-day-clock/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 加速零日漏洞武器化：攻防時間恐從 1 天縮短到 1 分鐘，資安危機從「找不到」變「漏洞修不完」",
+    "date": "2026-05-27 12:43:56"
+  },
+  {
+    "link": "https://techorange.com/2026/05/27/the-forward-deployed-engineer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "企業買了 AI 卻跑不起來，FDE 前線部署工程師成為科技業最搶手的職位",
+    "date": "2026-05-27 11:02:48"
+  },
+  {
+    "link": "https://techorange.com/2026/05/27/three-mistakes-brands-make-in-the-age-of-ai-driven-e-commerce/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "從 SEO 到 GEO：AI 正在重寫電商入口，品牌最該避開哪 3 個錯誤？",
+    "date": "2026-05-27 10:25:33"
+  },
+  {
     "link": "https://techorange.com/2026/05/27/nvidia-ceo-jensen-huang-flags-taiwan-power-pressure-computex-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】黃仁勳點出台灣 AI 用電壓力，COMPUTEX、國防 AI 與平台監管同步升溫",
     "date": "2026-05-27 06:50:00"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/05/26/one-job-ai-isnt-taking/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【劍橋團隊潛入地下論壇】「AI 超級駭客」威脅被過度渲染，真正安全隱患是科技業裁員潮",
     "date": "2026-05-26 09:19:51"
-  },
-  {
-    "link": "https://techorange.com/2026/05/26/nvidia-taiwan-supply-memory-shortage-mythos-cybersecurity-risks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "NVIDIA 拉動台灣供應鏈，記憶體缺貨與 Mythos 資安風險同步升高",
-    "date": "2026-05-26 06:50:00"
-  },
-  {
-    "link": "https://techorange.com/2026/05/25/uk-ai-quantum-adjacent-companies/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "運算力即主權！AI 時代地緣新賽局：英國如何靠「量子科技」突圍美中夾擊",
-    "date": "2026-05-25 19:28:13"
-  },
-  {
-    "link": "https://techorange.com/2026/05/25/humanoid-robots-america-china-adaptability-deployment-ambrose-nasa/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "美國人形機器人為何無法規模化上工？前 NASA 機器人部門負責人：只做單一任務，很難創造 ROI",
-    "date": "2026-05-25 16:33:56"
   }
 ]
