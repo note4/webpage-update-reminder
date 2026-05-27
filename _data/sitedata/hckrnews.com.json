@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+    "title": "[英] Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+    "title": "[英] Private Equity Bought America's Essential Services",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://github.com/WilliamSmithEdward/xlide_vscode",
+    "title": "[英] XLIDE: VBA without excel",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://github.com/golang/go/issues/77273",
+    "title": "[英] Go: Support for Generic Methods",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+    "title": "[英] Incident with Pull Requests, Issues, Git Operations and API Requests",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.thestateofbrand.com/news/jensen-huang-ai-layoffs",
+    "title": "[英] Jensen Huang Just Told Every CEO Hiding Behind AI Layoffs to Shut Up",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://arxiv.org/abs/2605.22391",
+    "title": "[英] All of human cooking compressed into 2 megabytes",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.ustc.ac.uk/news/we-are-poles-so-of-course-we-print-in-latin",
+    "title": "[英] We are Poles, so, of course, we print in Latin",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+    "title": "[英] I'm Tired of Talking to AI",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
+    "title": "[英] What Is a Direct Attach Copper (DAC) Cable",
+    "date": "2026-05-27"
+  },
+  {
     "link": "https://miniscript.org/MiniMicro/index.html#about",
     "title": "[英] Mini Micro Fantasy Computer",
     "date": "2026-05-27"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.unicode.org/versions/Unicode18.0.0/",
     "title": "[英] Unicode 18.0.0 Beta",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://arxiv.org/abs/2510.04950",
-    "title": "[英] Prompt Politeness Affects LLM Accuracy (2025)",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
-    "title": "[英] The Melancholy of Slaying Monsters",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
-    "title": "[英] The Structural Barriers to AI Lawyers",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
-    "title": "[英] What Gets Kept",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://badhost.org/",
-    "title": "[英] BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://github.com/craigmccaskill/posthorn",
-    "title": "[英] Show HN: Posthorn, self-hosted mail without the mail server",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://github.com/0-AI-UG/cate",
-    "title": "[英] Cate v1.0 is out: The Infinite canvas workspace for developers",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://arps18.github.io/posts/claude-code-mastery/",
-    "title": "[英] Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://tsduck.io/",
-    "title": "[英] TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.rockpapershotgun.com/splinter-cell-veteran-says-realistic-modern-lighting-has-screwed-up-stealth-games-it-gets-very-hard-to-tell-whats-light-whats-shadow-whats-dark-whats-safe",
-    "title": "[英] Splinter Cell veteran says realistic modern lighting has screwed up stealth game",
     "date": "2026-05-27"
   }
 ]
