@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://miniscript.org/MiniMicro/index.html#about",
+    "title": "[英] Mini Micro Fantasy Computer",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://padhye.org/raft-minority/",
+    "title": "[英] Raft Consensus with a Minority of Nodes",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.phoronix.com/review/nvidia-vera-benchmarks",
+    "title": "[英] Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://tyndale.org/journals/reformj01/bmarsden.html",
+    "title": "[英] Seeking a Language in Mathematics 1523-1571",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.unicode.org/versions/Unicode18.0.0/",
+    "title": "[英] Unicode 18.0.0 Beta",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://arxiv.org/abs/2510.04950",
+    "title": "[英] Prompt Politeness Affects LLM Accuracy (2025)",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+    "title": "[英] The Melancholy of Slaying Monsters",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
+    "title": "[英] The Structural Barriers to AI Lawyers",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+    "title": "[英] What Gets Kept",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://badhost.org/",
+    "title": "[英] BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://github.com/craigmccaskill/posthorn",
+    "title": "[英] Show HN: Posthorn, self-hosted mail without the mail server",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://github.com/0-AI-UG/cate",
+    "title": "[英] Cate v1.0 is out: The Infinite canvas workspace for developers",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://arps18.github.io/posts/claude-code-mastery/",
+    "title": "[英] Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+    "date": "2026-05-27"
+  },
+  {
+    "link": "https://tsduck.io/",
+    "title": "[英] TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
+    "date": "2026-05-27"
+  },
+  {
     "link": "https://www.rockpapershotgun.com/splinter-cell-veteran-says-realistic-modern-lighting-has-screwed-up-stealth-games-it-gets-very-hard-to-tell-whats-light-whats-shadow-whats-dark-whats-safe",
     "title": "[英] Splinter Cell veteran says realistic modern lighting has screwed up stealth game",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-    "title": "[英] Did the Pope use AI to write about the dangers of AI?",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
-    "title": "[英] A History of Obituaries in American Newspapers",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
-    "title": "[英] The just-say-no engineer was a ZIRP phenomenon",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=zokKqP0plrM",
-    "title": "[英] IBM Confidential: System/360 File Organization [video]",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://gearcommit.nanocorp.app/",
-    "title": "[英] Gear Commit: Dev gadget box personalized from GitHub activity",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
-    "title": "[英] Where does next-token prediction leave us?",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
-    "title": "[英] The Forgotten Art of the LAN Party (2023)",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://codeberg.org/lindenii/tunecat/",
-    "title": "[英] Tunecat: Simple Internet Radio",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
-    "title": "[英] Scientists say they've reversed brain aging in mice with a nasal spray",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://www.alephic.com/sabotage",
-    "title": "[英] The OSS Sabotage Manual Became Corporate Best Practice",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://platform.xiaomimimo.com/docs/en-US/welcome",
-    "title": "[英] Xiaomi MiMo Token Plan is Now Globally Available",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
-    "title": "[英] What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://xlii.space/eng/from-rust-to-ruby/",
-    "title": "[英] From Rust to Ruby",
-    "date": "2026-05-27"
-  },
-  {
-    "link": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
-    "title": "[英] AI tools are only as good as your judgment",
     "date": "2026-05-27"
   }
 ]
