@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://www.bbc.com/news/articles/cz725d5d1x7o",
-    "title": "[英] Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
+    "link": "https://github.com/bytecodealliance/endive",
+    "title": "[英] Endive: A JVM native WebAssembly runtime",
     "date": "2026-05-29"
   },
   {
-    "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
-    "title": "[英] US's big bet on quantum computing may not be legal",
+    "link": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
+    "title": "[英] The Lone Lisp Heap",
     "date": "2026-05-29"
   },
   {
-    "link": "https://permanent-upper-crow.jasonwu.ink/",
-    "title": "[英] The Permanent Upper Crow",
+    "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "title": "[英] Nitpicking the shell history scene in 'Tron: Legacy'",
     "date": "2026-05-29"
   },
   {
-    "link": "https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html",
-    "title": "[英] New York Passes Tax on the Ultra-Wealthy",
+    "link": "https://blog.kaving.me/blog/tuning-llvms-slp-vectorizer-cost-model/",
+    "title": "[英] Tuning LLVM's SLP Vectorizer Cost Model",
     "date": "2026-05-29"
   },
   {
-    "link": "https://tradecore.com/resources/blog/we-replaced-zendesk-in-48-hours",
-    "title": "[英] We replaced Zendesk",
+    "link": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
+    "title": "[英] I hated writing–until I learned there's a science to it(2024)",
     "date": "2026-05-29"
   },
   {
-    "link": "https://askthepilot.com/boston-and-bermuda/",
-    "title": "[英] Boston and Bermuda",
+    "link": "https://bitburner-official.github.io/",
+    "title": "[英] Bitburner, programming-based incremental game",
     "date": "2026-05-29"
   },
   {
-    "link": "https://llmgame.scalex.dev",
-    "title": "[英] Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+    "link": "https://kristoff.it/blog/llms-at-zig-days/",
+    "title": "[英] About LLMs at Zig Days",
     "date": "2026-05-29"
   },
   {
-    "link": "https://github.com/creusot-rs/creusot/tree/master",
-    "title": "[英] Creusot helps you prove your Rust code is correct",
+    "link": "https://www.sfgate.com/tech/article/new-google-ai-22279112.php",
+    "title": "[英] Google Hates You",
     "date": "2026-05-29"
   },
   {
-    "link": "https://taoofmac.com/space/blog/2026/05/26/1730",
-    "title": "[英] Indoor Wi-Fi Roaming with OpenWRT",
+    "link": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "title": "[英] Just Use Postgres for Durable Workflows",
     "date": "2026-05-29"
   },
   {
-    "link": "https://futuresearch.ai/blog/agi-timeline-tracker/",
-    "title": "[英] How long until AI automates all cognitive labor?",
+    "link": "https://webframp.com/posts/you-were-never-declaring-state/",
+    "title": "[英] You Were Never Declaring State. You Were Observing by Hand",
     "date": "2026-05-29"
   },
   {
-    "link": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
-    "title": "[英] EU fines Temu €200M for allowing sale of illegal products",
+    "link": "https://ipvm.com/reports/bipartisan-alpr-amendment-killed",
+    "title": "[英] Legislation Killed Would Have Effectively Blocked Police LPR, Including Flock",
     "date": "2026-05-29"
   },
   {
-    "link": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-    "title": "[英] Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+    "link": "https://pluralistic.net/2026/05/28/we-live-in-a-society/",
+    "title": "[英] Hold on for Dear Life",
     "date": "2026-05-29"
   },
   {
-    "link": "https://blog.cloudflare.com/iran-internet-partially-restored-may-2026/",
-    "title": "[英] Iran's Internet is partially restored, Cloudflare Radar data shows",
+    "link": "https://www.anthropic.com/news/series-h",
+    "title": "[英] Anthropic raises $65B in Series H funding at $965B post-money valuation",
     "date": "2026-05-29"
   },
   {
-    "link": "https://www.core77.com/posts/143823/Nendos-Wonderful-Toru-an-Electric-Kettle-for-Alessi",
-    "title": "[英] Nendo's Wonderful Toru, an Electric Kettle for Alessi",
+    "link": "https://memalign.github.io/m/taptoypia/index.html",
+    "title": "[英] Show HN: TapToyPia",
     "date": "2026-05-29"
   },
   {
-    "link": "https://lenz.io/research/llm-disagreement",
-    "title": "[英] Disagreement Among Frontier LLMs on Real-World Fact-Checks",
+    "link": "https://github.com/highpost/tailscale-macos-vm",
+    "title": "[英] Using Tailscale with an OrbStack VM on macOS",
     "date": "2026-05-29"
   }
 ]
