@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://mlsu.io/posts/day-off/",
+    "title": "[英] Can we have the day off?",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
+    "title": "[英] FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://rodolphoarruda.pro.br/i-am-not-a-black-belt/",
+    "title": "[英] I am not a black belt",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://www.mendral.com/blog/you-should-not-update",
+    "title": "[英] You Should Not Update Your Dependencies",
+    "date": "2026-05-28"
+  },
+  {
     "link": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
     "title": "[英] Show HN: Open-Source AI Racing Harness",
     "date": "2026-05-28"
@@ -52,26 +72,6 @@
   {
     "link": "https://segar.me/blog/posts/reconstructing_a_mixbook_movie.html",
     "title": "[英] Reconstructing a Mixbook movie from its data API with FFmpeg",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://github.com/fbcouto/deterministic-wave-engine",
-    "title": "[英] Deterministic Hydrodynamic Quantum Engine in Rust",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
-    "title": "[英] Warm up your MacBook (2019)",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://sverre.me/blog/rust-on-kindle/",
-    "title": "[英] Rust (and Slint) on a Jailbroken Kindle",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://2earth.github.io/website/20260525.html",
-    "title": "[英] On Labubu and the Hyperreal",
     "date": "2026-05-28"
   }
 ]
