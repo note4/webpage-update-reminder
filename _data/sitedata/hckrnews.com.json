@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://firethering.com/alibaba-qwen3-7-max-autonomous-agent/",
+    "title": "[英] Qwen3.7-Max Ran for 35 Hours on Unknown Hardware and Achieved a 10× Speedup",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://drobinin.com/posts/am-i-a-bad-friend/",
+    "title": "[英] I analysed 20 years of my chats",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://www.bostonglobe.com/2026/05/26/opinion/science-funding-cuts-mit/",
+    "title": "[英] MIT president: Why so many optimistic scientists are losing heart",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://arxiv.org/abs/2601.16670",
+    "title": "[英] The Green Side of the Lua",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://hallucinate.site",
+    "title": "[英] Hallucinate – Massively Multiplayer Online Rave",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://www.politico.com/news/2026/05/27/cuba-us-military-attack-00938740",
+    "title": "[英] Pentagon puts building blocks in place for Cuba invasion",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://retrogamecoders.com/zero-lines-maze/",
+    "title": "[英] Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
+    "title": "[英] Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
+    "title": "[英] RamAIn (YC W26) Is Hiring",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html",
+    "title": "[英] Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
+    "title": "[英] Google employee charged with $1M Polymarket insider trading bet on search term",
+    "date": "2026-05-28"
+  },
+  {
+    "link": "https://randsinrepose.com/archives/the-ask/",
+    "title": "[英] The Ask",
+    "date": "2026-05-28"
+  },
+  {
     "link": "https://mlsu.io/posts/day-off/",
     "title": "[英] Can we have the day off?",
     "date": "2026-05-28"
@@ -12,66 +72,6 @@
   {
     "link": "https://rodolphoarruda.pro.br/i-am-not-a-black-belt/",
     "title": "[英] I am not a black belt",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://www.mendral.com/blog/you-should-not-update",
-    "title": "[英] You Should Not Update Your Dependencies",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-    "title": "[英] Show HN: Open-Source AI Racing Harness",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
-    "title": "[英] A New Typst Template for Pandoc",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://radar.cloudflare.com/traffic/ir?dateRange=28d",
-    "title": "[英] Internet traffic in Iran increasing",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://bennuttall.com/blog/2026/04/fsm97/",
-    "title": "[英] Getting Claude to extract data from a 1997 football manager game",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer",
-    "title": "[英] Pelica (YC P25) Is Hiring",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://iot-devices.com.ua/en/ggreg20-v3-j305-tube-mounting-dimensions/",
-    "title": "[英] Dimensions of Geiger-Muller tube holder on GGreg20_V3 Geiger counter PCB (2025)",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://www.stet.sh/blog/how-i-used-codex-to-improve-its-own-agents-md",
-    "title": "[英] I used autoresearch to improve my AGENTS.md, measured against real tasks",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-    "title": "[英] I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://mmapped.blog/posts/51-interleaved-deltas",
-    "title": "[英] Interleaved Deltas",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity",
-    "title": "[英] iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity",
-    "date": "2026-05-28"
-  },
-  {
-    "link": "https://segar.me/blog/posts/reconstructing_a_mixbook_movie.html",
-    "title": "[英] Reconstructing a Mixbook movie from its data API with FFmpeg",
     "date": "2026-05-28"
   }
 ]

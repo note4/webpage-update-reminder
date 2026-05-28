@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/05/28/mark-zuckerberg-says-meta-starting-cloud-business/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Meta 也想做雲端？祖克柏鬆口考慮出租 AI 算力，背後是數千億美元 AI 基建變現考題",
+    "date": "2026-05-28 12:06:04"
+  },
+  {
+    "link": "https://techorange.com/2026/05/28/how-ai-threatens-the-giants-of-consulting/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "20 人團隊靠 AI Agent 變 150 人戰力：「AI 原生」顧問公司如何瓦解 McKinsey、BCG 的金字塔模式？",
+    "date": "2026-05-28 10:42:35"
+  },
+  {
+    "link": "https://techorange.com/2026/05/28/ai-google-cloud-moe-abdula/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "當企業開始管理 15 萬個 AI 代理：Google Cloud 高層解析 AI Agent 導入三大支柱",
+    "date": "2026-05-28 10:28:28"
+  },
+  {
+    "link": "https://techorange.com/2026/05/28/chinas-humanoid-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "150 家公司搶一個還沒成形的市場，中國人形機器人產業的供需失衡有多嚴重？",
+    "date": "2026-05-28 09:58:02"
+  },
+  {
     "link": "https://techorange.com/2026/05/28/nvidia-taiwan-spending-could-reach-150-billion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】NVIDIA 對台支出上看 1,500 億美元，AI 晶片戰從供應鏈燒進國安系統",
     "date": "2026-05-28 06:50:00"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/05/26/cloudmile-googlecloud-next-2026-ai-first-cloudstoragerapid-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【Google Cloud NEXT 2026】Google 重新定義 AI 基礎設施，全線儲存產品迎接「AI First」時代",
     "date": "2026-05-26 16:36:18"
-  },
-  {
-    "link": "https://techorange.com/2026/05/26/5500-github-repositories-infected-megalodon-supply-chain-attack/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "GitHub 爆「Megalodon」供應鏈攻擊！惡意自動化提交 6 小時內植入逾 5,500 個儲存庫",
-    "date": "2026-05-26 14:40:37"
-  },
-  {
-    "link": "https://techorange.com/2026/05/26/huawei-tau-scaling-law-chip-sanctions/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "目標 2031 年追上台積電、英特爾：華為「τ 縮放定律」如何用架構效率繞開 EUV 封鎖？",
-    "date": "2026-05-26 12:42:12"
-  },
-  {
-    "link": "https://techorange.com/2026/05/26/chia-robotics-id/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "2.8 萬台人形機器人已登記 ID：中國正在把 AI 治理延伸到實體世界",
-    "date": "2026-05-26 11:58:59"
-  },
-  {
-    "link": "https://techorange.com/2026/05/26/delltechnologies-private-cloud-automation-platform-powerstore/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 時代下，企業私有雲也需要超進化：Dell Private Cloud 打造兼具彈性與效率的現代化架構",
-    "date": "2026-05-26 11:42:28"
   }
 ]
