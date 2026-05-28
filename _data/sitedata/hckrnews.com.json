@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+    "title": "[英] Protestware for Coding Agents",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.minimax.co.uk/products/water-softeners/minimax-m3-water-softener/",
+    "title": "[英] Minimax M3",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://taff.org.uk/ebooks.php?x=Micromania",
+    "title": "[英] Micromania: The Whole Truth about Home Computers (1984)",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+    "title": "[英] GitHub bans security researcher who posted zero-day Windows exploits",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://github.com/hatchet-dev/durable-execution-the-hard-way",
+    "title": "[英] Durable Execution the Hard Way",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+    "title": "[英] Announcing Rust 1.96",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.militarytimes.com/news/pentagon-congress/2026/05/28/us-troops-are-reportedly-being-targeted-using-location-data-pentagon-says/",
+    "title": "[英] US troops are reportedly being targeted using location data, Pentagon says",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://bsky.app/profile/chadwhitacre.com/post/3mmvzlutrvk2g",
+    "title": "[英] I'm \"Retiring\" from Tech – Chad Whitacre, Head of Open Source, Sentry.io",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://coalton-lang.github.io/",
+    "title": "[英] Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
+    "date": "2026-05-29"
+  },
+  {
     "link": "https://nick.winans.io/blog/nice-nano/",
     "title": "[英] I Made a Million Dollar Product from My Dorm Room (2025)",
     "date": "2026-05-29"
@@ -27,51 +72,6 @@
   {
     "link": "https://shvbsle.in/various-llm-smells/",
     "title": "[英] Various LLM Smells",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
-    "title": "[英] Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://github.com/enumura1/py-sql-cleaner",
-    "title": "[英] Show HN: Py-SQL-cleaner – format SQL embedded in Python strings",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-    "title": "[英] Bricks and Minifigs Stole a Man's $200k Lego Collection",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html",
-    "title": "[英] Separate the Cord from the Device",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
-    "title": "[英] The Most Unlikely School Bag",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.w3.org/press-releases/2026/w3c-leadership-transition/",
-    "title": "[英] W3C Leadership Transition",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
-    "title": "[英] The Lone Lisp Heap",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://github.com/bytecodealliance/endive",
-    "title": "[英] Endive: A JVM native WebAssembly runtime",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-    "title": "[英] Nitpicking the shell history scene in 'Tron: Legacy'",
     "date": "2026-05-29"
   }
 ]
