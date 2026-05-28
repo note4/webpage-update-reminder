@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://thewalrus.ca/the-internet-has-become-too-american-to-trust/",
+    "title": "[英] The internet has become too American to trust",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+    "title": "[英] Bot Company allegedly trashing Airbnb rentals with their prototype robots",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+    "title": "[英] Garnix (A Nix CI) is shutting down",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+    "title": "[英] Ten Basic Clouds",
+    "date": "2026-05-29"
+  },
+  {
     "link": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
     "title": "[英] Protestware for Coding Agents",
     "date": "2026-05-29"
@@ -46,32 +66,12 @@
   },
   {
     "link": "https://nick.winans.io/blog/nice-nano/",
-    "title": "[英] I Made a Million Dollar Product from My Dorm Room (2025)",
+    "title": "[英] I made a million dollar product from my dorm room (2025)",
     "date": "2026-05-29"
   },
   {
     "link": "https://news.ycombinator.com/item?id=48315206",
     "title": "[英] Ask HN: Entrepreneurs, how long did it take you to succeed?",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48314650",
-    "title": "[英] undefined",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://justine.lol/animus/",
-    "title": "[英] Social Animus",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://nomagicpill.substack.com/p/confidence-scores-for-exam-questions",
-    "title": "[英] Confidence Scores for Exam Questions",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://shvbsle.in/various-llm-smells/",
-    "title": "[英] Various LLM Smells",
     "date": "2026-05-29"
   }
 ]
