@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/05/28/claude-code-boris-cherny-interview-ai-jobs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "「軟體工程師」職稱最快今年開始消失？Claude Code 負責人：寫 Code 的人會更多，但不一定叫工程師",
+    "date": "2026-05-28 15:49:39"
+  },
+  {
+    "link": "https://techorange.com/2026/05/28/robinhood-ai-agents-stock-trading/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Robinhood 宣布串聯 AI 代理與金融平台，70 萬會員成首波測試對象",
+    "date": "2026-05-28 15:30:14"
+  },
+  {
+    "link": "https://techorange.com/2026/05/28/snowflake-aws-graviton-cpu-ai-agent-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Snowflake 砸 60 億美元押注 AWS CPU，AI Agent 正改寫 AI 基建戰局",
+    "date": "2026-05-28 13:19:55"
+  },
+  {
     "link": "https://techorange.com/2026/05/28/mark-zuckerberg-says-meta-starting-cloud-business/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Meta 也想做雲端？祖克柏鬆口考慮出租 AI 算力，背後是數千億美元 AI 基建變現考題",
     "date": "2026-05-28 12:06:04"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/05/27/nvidia-ceo-jensen-huang-flags-taiwan-power-pressure-computex-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】黃仁勳點出台灣 AI 用電壓力，COMPUTEX、國防 AI 與平台監管同步升溫",
     "date": "2026-05-27 06:50:00"
-  },
-  {
-    "link": "https://techorange.com/2026/05/26/prompt-debt-retrieval-debt-and-evaluation-debt-quietly-reshaping-enterprise-ai-risk/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "當提示詞變成義大利麵程式碼：難察覺的「AI 技術債」來襲，企業如何跨越治理盲點？",
-    "date": "2026-05-26 19:06:27"
-  },
-  {
-    "link": "https://techorange.com/2026/05/26/ai-agents-work-executive/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "LinkedIn 共同創辦人用 AI 分身省下 50% 工時：企業生產力競爭，正從工具效率轉向「複製高階人才能力」",
-    "date": "2026-05-26 16:54:20"
-  },
-  {
-    "link": "https://techorange.com/2026/05/26/cloudmile-googlecloud-next-2026-ai-first-cloudstoragerapid-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【Google Cloud NEXT 2026】Google 重新定義 AI 基礎設施，全線儲存產品迎接「AI First」時代",
-    "date": "2026-05-26 16:36:18"
   }
 ]
