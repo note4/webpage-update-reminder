@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://characters.fastserial.com",
+    "title": "[英] A Trillion Characters",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "http://www.mrob.com/pub/math/numbers-19.html",
+    "title": "[英] Notable Properties of Specific Numbers",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://dles.gg/blog/dles-gg-manifesto",
+    "title": "[英] Why I collect DLES",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.cbc.ca/news/business/recession-gdp-may-2026-statscan-9.7216352",
+    "title": "[英] Canada in Technical Recession",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+    "title": "[英] Microsoft 0-day feud escalates as researcher threatens another exploit dump",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
+    "title": "[英] The California State Assembly Has Passed the 'Protect Our Games Act'",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://github.com/jmaczan/tiny-vllm",
+    "title": "[英] Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+    "title": "[英] Shift will clean homes for free to train future robots",
+    "date": "2026-05-30"
+  },
+  {
     "link": "https://giovannigatti.github.io/cve-bench/",
     "title": "[英] CVE-Bench: testing LLM agents on real-world vulnerability patches",
     "date": "2026-05-30"
@@ -21,7 +61,7 @@
   },
   {
     "link": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
-    "title": "[英] A letter from the Duke of Wellington to the British Foreign Office (1809)",
+    "title": "[英] Letter from the Duke of Wellington to the British Foreign Office (1809)",
     "date": "2026-05-30"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://ethanplant.ca/writing/bill-c22-is-a-mess/",
     "title": "[英] Bill C-22 Is a Mess of the Government's Own Making",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-    "title": "[英] SQLite is all you need for durable workflows",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://tvexplorer.live",
-    "title": "[英] Show HN: TV Explorer. Adding advanced UI to free online TV",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-    "title": "[英] Robinhood now lets your AI agents trade stocks",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://github.com/facebookresearch/atlas-lean",
-    "title": "[英] ATLAS: Autoformalized Textbook Library At Scale",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48325707",
-    "title": "[英] undefined",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.the-hinternet.com/p/the-science-of-weather-and-the-nature",
-    "title": "[英] The Science of Weather and the Nature of Science",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-    "title": "[英] Notes from the Mistral AI Now Summit in Paris",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=aPVAnwuSjfk",
-    "title": "[英] The Framework 12 is dead. Apple killed it [video]",
     "date": "2026-05-30"
   }
 ]
