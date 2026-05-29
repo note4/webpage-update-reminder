@@ -1,12 +1,62 @@
 [
   {
+    "link": "https://www.carryology.com/liking/industry/the-pack-that-killed-the-pack-mule/",
+    "title": "[英] The Pack That Killed the Pack Mule",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+    "title": "[英] Blue Origin's New Glenn blows up during static fire test",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://worksinprogress.co/issue/a-washington-diary/",
+    "title": "[英] Washington Diary",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/",
+    "title": "[英] Why Gentoo?",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
+    "title": "[英] Where are the economies of scale in homebuilding?",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.inkl.com/news/if-youre-writing-code-traditionally-stop-its-over-former-google-ceo-eric-schmidt-explains-why-he-is-mourning-as-a-programmer/qYwMPRFlVMQ",
+    "title": "[英] Eric Schmidt believes the era of writing code manually is coming to an end",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
+    "title": "[英] More License Plate Reader Mission Creep: School Residency Verification, More",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "title": "[英] The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.tft.io/the-silent-critic/",
+    "title": "[英] The Silent Critic",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/05/24/books/review/marilyn-monroe-books-arthur-miller.html",
+    "title": "[英] Some Like It Literary",
+    "date": "2026-05-29"
+  },
+  {
     "link": "https://thewalrus.ca/the-internet-has-become-too-american-to-trust/",
     "title": "[英] The internet has become too American to trust",
     "date": "2026-05-29"
   },
   {
     "link": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-    "title": "[英] Bot Company allegedly trashing Airbnb rentals with their prototype robots",
+    "title": "[英] SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
     "date": "2026-05-29"
   },
   {
@@ -22,56 +72,6 @@
   {
     "link": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
     "title": "[英] Protestware for Coding Agents",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.minimax.co.uk/products/water-softeners/minimax-m3-water-softener/",
-    "title": "[英] Minimax M3",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://taff.org.uk/ebooks.php?x=Micromania",
-    "title": "[英] Micromania: The Whole Truth about Home Computers (1984)",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-    "title": "[英] GitHub bans security researcher who posted zero-day Windows exploits",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://github.com/hatchet-dev/durable-execution-the-hard-way",
-    "title": "[英] Durable Execution the Hard Way",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
-    "title": "[英] Announcing Rust 1.96",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.militarytimes.com/news/pentagon-congress/2026/05/28/us-troops-are-reportedly-being-targeted-using-location-data-pentagon-says/",
-    "title": "[英] US troops are reportedly being targeted using location data, Pentagon says",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://bsky.app/profile/chadwhitacre.com/post/3mmvzlutrvk2g",
-    "title": "[英] I'm \"Retiring\" from Tech – Chad Whitacre, Head of Open Source, Sentry.io",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://coalton-lang.github.io/",
-    "title": "[英] Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://nick.winans.io/blog/nice-nano/",
-    "title": "[英] I made a million dollar product from my dorm room (2025)",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48315206",
-    "title": "[英] Ask HN: Entrepreneurs, how long did it take you to succeed?",
     "date": "2026-05-29"
   }
 ]
