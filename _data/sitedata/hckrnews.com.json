@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
+    "title": "[英] Avoid Using \"< [Cdata[ ]]>\" in RSS",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.carryology.com/insights/carry-101/the-strange-and-wonderful-evolution-of-the-waterproof-jacket/",
+    "title": "[英] The and Wonderful Evolution of the Waterproof Jacket",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "title": "[英] Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
+    "title": "[英] Italians and Dutch share the same gestural instinct for teaching",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://github.com/RasmusGodske/claude-hook-utils",
+    "title": "[英] Python utility package for building Claude Code hooks",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+    "title": "[英] Blue Origin’s New Glenn rocket exploded during a static fire test",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.carryology.com/insights/how-a-startup-is-collapsing-a-200-year-old-supply-chain/",
+    "title": "[英] How a Startup Is Collapsing a 200-Year-Old Supply Chain",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+    "title": "[英] Cars collect a startling amount of data about you",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
+    "title": "[英] Microsoft data suggests using AI is more expensive than hiring people",
+    "date": "2026-05-29"
+  },
+  {
     "link": "https://www.carryology.com/liking/industry/the-pack-that-killed-the-pack-mule/",
     "title": "[英] The Pack That Killed the Pack Mule",
     "date": "2026-05-29"
@@ -27,51 +72,6 @@
   {
     "link": "https://www.inkl.com/news/if-youre-writing-code-traditionally-stop-its-over-former-google-ceo-eric-schmidt-explains-why-he-is-mourning-as-a-programmer/qYwMPRFlVMQ",
     "title": "[英] Eric Schmidt believes the era of writing code manually is coming to an end",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
-    "title": "[英] More License Plate Reader Mission Creep: School Residency Verification, More",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://minimaxir.com/2026/05/openrouter-hy3/",
-    "title": "[英] The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.tft.io/the-silent-critic/",
-    "title": "[英] The Silent Critic",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/05/24/books/review/marilyn-monroe-books-arthur-miller.html",
-    "title": "[英] Some Like It Literary",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://thewalrus.ca/the-internet-has-become-too-american-to-trust/",
-    "title": "[英] The internet has become too American to trust",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-    "title": "[英] SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
-    "title": "[英] Garnix (A Nix CI) is shutting down",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-    "title": "[英] Ten Basic Clouds",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
-    "title": "[英] Protestware for Coding Agents",
     "date": "2026-05-29"
   }
 ]
