@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://noperator.dev/posts/you-can-just-say-it/",
+    "title": "[英] You can just say it",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
+    "title": "[英] Free full BGP feed. IPv4 and IPv6",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://github.com/secluso/core",
+    "title": "[英] Show HN: Open-source private home security camera system (end-to-end encryption)",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+    "title": "[英] The Last Technical Interview",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
+    "title": "[英] EV Stupidity Checklist",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+    "title": "[英] Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+    "date": "2026-05-30"
+  },
+  {
     "link": "https://characters.fastserial.com",
     "title": "[英] A Trillion Characters",
     "date": "2026-05-30"
@@ -26,7 +56,7 @@
   },
   {
     "link": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
-    "title": "[英] The California State Assembly Has Passed the 'Protect Our Games Act'",
+    "title": "[英] The California state assembly has passed the 'Protect Our Games Act'",
     "date": "2026-05-30"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://giovannigatti.github.io/cve-bench/",
     "title": "[英] CVE-Bench: testing LLM agents on real-world vulnerability patches",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://pierre.computer/writing/on-rendering-diffs",
-    "title": "[英] On Rendering Diffs",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/ce3pe36qe7ro",
-    "title": "[英] AI will be used to estimate age of asylum seekers from next year",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://rothko.joonas.wtf/",
-    "title": "[英] Rothko for your current weather conditions",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
-    "title": "[英] Letter from the Duke of Wellington to the British Foreign Office (1809)",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-    "title": "[英] Liquid AI reveals 8B-A1B MoE trained on 38T",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://ethanplant.ca/writing/bill-c22-is-a-mess/",
-    "title": "[英] Bill C-22 Is a Mess of the Government's Own Making",
     "date": "2026-05-30"
   }
 ]
