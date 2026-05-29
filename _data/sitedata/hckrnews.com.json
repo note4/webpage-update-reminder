@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+    "title": "[英] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://blog.cloudflare.com/ai-code-review/",
+    "title": "[英] Orchestrating AI code review at scale",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.phoronix.com/review/cache-aware-scheduling-hedt",
+    "title": "[英] Cache Aware Scheduling Shows Nice Wins for AMD Zen 5 on PostgreSQL, Valkey",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://github.com/HeidiSQL/HeidiSQL",
+    "title": "[英] HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://fabiensanglard.net/compile_like_1997/",
+    "title": "[英] Let's compile Quake like it's 1997",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48320382",
+    "title": "[英] undefined",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.reuters.com/business/media-telecom/pentagon-says-us-military-personnel-are-reportedly-being-targeted-using-location-2026-05-28/",
+    "title": "[英] US Military personnel are being targeted using location data",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://inpursuit.substack.com/p/franklin-pierce-by-david-w-blight",
+    "title": "[英] Franklin Pierce by David W. Blight",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+    "title": "[英] Volkswagen blocks Home Assistant by requiring client assertion",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+    "title": "[英] Undisclosed addition in jqwik instructed AI coding agents to delete app output",
+    "date": "2026-05-29"
+  },
+  {
+    "link": "https://www.zot.sh",
+    "title": "[英] Zot now supports Claude Opus 4.8",
+    "date": "2026-05-29"
+  },
+  {
     "link": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
     "title": "[英] Avoid Using \"< [Cdata[ ]]>\" in RSS",
     "date": "2026-05-29"
@@ -17,61 +72,6 @@
   {
     "link": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
     "title": "[英] Italians and Dutch share the same gestural instinct for teaching",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://github.com/RasmusGodske/claude-hook-utils",
-    "title": "[英] Python utility package for building Claude Code hooks",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
-    "title": "[英] Blue Origin’s New Glenn rocket exploded during a static fire test",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.carryology.com/insights/how-a-startup-is-collapsing-a-200-year-old-supply-chain/",
-    "title": "[英] How a Startup Is Collapsing a 200-Year-Old Supply Chain",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-    "title": "[英] Cars collect a startling amount of data about you",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
-    "title": "[英] Microsoft data suggests using AI is more expensive than hiring people",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.carryology.com/liking/industry/the-pack-that-killed-the-pack-mule/",
-    "title": "[英] The Pack That Killed the Pack Mule",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-    "title": "[英] Blue Origin's New Glenn blows up during static fire test",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://worksinprogress.co/issue/a-washington-diary/",
-    "title": "[英] Washington Diary",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/",
-    "title": "[英] Why Gentoo?",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
-    "title": "[英] Where are the economies of scale in homebuilding?",
-    "date": "2026-05-29"
-  },
-  {
-    "link": "https://www.inkl.com/news/if-youre-writing-code-traditionally-stop-its-over-former-google-ceo-eric-schmidt-explains-why-he-is-mourning-as-a-programmer/qYwMPRFlVMQ",
-    "title": "[英] Eric Schmidt believes the era of writing code manually is coming to an end",
     "date": "2026-05-29"
   }
 ]
