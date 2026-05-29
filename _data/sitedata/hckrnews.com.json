@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+    "title": "[英] Snowboard Kids 2 is 100% Decompiled",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://freecal.eu/?lang=en",
+    "title": "[英] Show HN: Free activity calendar for schools, sports clubs, and organizations",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+    "title": "[英] MCP Is Dead",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://newsletter.semianalysis.com/p/finding-miscompiles-for-fun-not-profit",
+    "title": "[英] Finding Miscompiles for Fun, Not Profit",
+    "date": "2026-05-30"
+  },
+  {
     "link": "https://noperator.dev/posts/you-can-just-say-it/",
     "title": "[英] You can just say it",
     "date": "2026-05-30"
@@ -52,26 +72,6 @@
   {
     "link": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
     "title": "[英] Microsoft 0-day feud escalates as researcher threatens another exploit dump",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
-    "title": "[英] The California state assembly has passed the 'Protect Our Games Act'",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://github.com/jmaczan/tiny-vllm",
-    "title": "[英] Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-    "title": "[英] Shift will clean homes for free to train future robots",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://giovannigatti.github.io/cve-bench/",
-    "title": "[英] CVE-Bench: testing LLM agents on real-world vulnerability patches",
     "date": "2026-05-30"
   }
 ]
