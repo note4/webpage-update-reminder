@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://giovannigatti.github.io/cve-bench/",
+    "title": "[英] CVE-Bench: testing LLM agents on real-world vulnerability patches",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://pierre.computer/writing/on-rendering-diffs",
+    "title": "[英] On Rendering Diffs",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/ce3pe36qe7ro",
+    "title": "[英] AI will be used to estimate age of asylum seekers from next year",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://rothko.joonas.wtf/",
+    "title": "[英] Rothko for your current weather conditions",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
+    "title": "[英] A letter from the Duke of Wellington to the British Foreign Office (1809)",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+    "title": "[英] Liquid AI reveals 8B-A1B MoE trained on 38T",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://ethanplant.ca/writing/bill-c22-is-a-mess/",
+    "title": "[英] Bill C-22 Is a Mess of the Government's Own Making",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+    "title": "[英] SQLite is all you need for durable workflows",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://tvexplorer.live",
+    "title": "[英] Show HN: TV Explorer. Adding advanced UI to free online TV",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+    "title": "[英] Robinhood now lets your AI agents trade stocks",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://github.com/facebookresearch/atlas-lean",
+    "title": "[英] ATLAS: Autoformalized Textbook Library At Scale",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48325707",
+    "title": "[英] undefined",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.the-hinternet.com/p/the-science-of-weather-and-the-nature",
+    "title": "[英] The Science of Weather and the Nature of Science",
+    "date": "2026-05-30"
+  },
+  {
     "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
     "title": "[英] Notes from the Mistral AI Now Summit in Paris",
     "date": "2026-05-30"
@@ -7,71 +72,6 @@
   {
     "link": "https://www.youtube.com/watch?v=aPVAnwuSjfk",
     "title": "[英] The Framework 12 is dead. Apple killed it [video]",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://research.roundtable.ai/captchas-detect-ai/",
-    "title": "[英] CAPTCHAs can still detect AI agents",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://andrej.sh/posts/phishing-through-my-open-source-project",
-    "title": "[英] Someone used my open source project to phish 14,000 people",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://static.stepfun.com/blog/step-3.7-flash/",
-    "title": "[英] Step 3.7 Flash",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-    "title": "[英] The Dead Economy Theory",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.frontiersin.org/news/2026/05/29/we-cannot-ban-our-way-out-of-a-youth-mental-health-crisis-social-media-bans-for-teenagers-lack-evidence-and-pose-risks-scientists-say",
-    "title": "[英] Social media bans for teenagers lack evidence and pose risks, scientists say",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-    "title": "[英] GTA 6 Developers Unionize",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-05-29/danish-pension-fund-blacklists-spacex-citing-governance-issues",
-    "title": "[英] Danish Pension Blacklists SpaceX over 'Catastrophic Governance'",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://theshamblog.com/the-secret-garden-of-rock-paper-scissors/",
-    "title": "[英] The Secret Garden of Rock-Paper-Scissors",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/",
-    "title": "[英] OpenAI Announces Rosalind Biodefense",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-    "title": "[英] It's hard to justify buying a Framework 12",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.inkandswitch.com/tangents/bijou64/",
-    "title": "[英] Bijou64: A variable-length integer encoding",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=X5MzTvfjcOM",
-    "title": "[英] Do U.S. Presidents Always Make This Much Money? [video]",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://unix.foo/posts/it-will-never-be-the-year-of-the-linux-desktop/",
-    "title": "[英] It Will Never Be the Year of the Linux Desktop",
     "date": "2026-05-30"
   }
 ]
