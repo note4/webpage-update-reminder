@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
+    "title": "[英] Floor and Ceil versus Denormals on CPU and GPU",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
+    "title": "[英] The Kaiser and a \"Mediocre Man\" Theory of History",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "title": "[英] Zig: Build System Reworked",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate",
+    "title": "[英] Iron-rich immune cells help homing pigeons navigate",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.imec-int.com/en/press/world-first-imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography",
+    "title": "[英] Quantum dot qubit using High NA EUV lithography",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390",
+    "title": "[英] Rsync 3.4.3 has hundreds of Claude commits",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+    "title": "[英] Danish pension fund excludes SpaceX citing governance and valuation",
+    "date": "2026-05-30"
+  },
+  {
     "link": "https://stewartraceway.org/",
     "title": "[英] Ho-scale slot car racing in the Santa Cruz Mountains",
     "date": "2026-05-30"
@@ -37,41 +72,6 @@
   {
     "link": "https://github.com/vinhnx/VTCode",
     "title": "[英] Show HN: VT Code – open-source terminal coding agent in Rust",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48331056",
-    "title": "[英] undefined",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://github.com/HarleyCoops/Math-To-Manim",
-    "title": "[英] Math-to-Manim",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.perryts.com/",
-    "title": "[英] Perry Compiles TypeScript directly to executables using SWC and LLVM",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://bennypowers.dev/posts/let-equals-equal-equals/",
-    "title": "[英] Let Equals Equal Equals",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.nippon.com/en/japan-data/h02783/",
-    "title": "[英] Naphtha shortages in Japan",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
-    "title": "[英] WH proposes rules giving political appointees final approval on research grants",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://mnaoumov.dev/posts/2023-12-17-switch-between-three-keyboard-languages/",
-    "title": "[英] Switch between three keyboard languages",
     "date": "2026-05-30"
   }
 ]
