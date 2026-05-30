@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
+    "title": "[英] Leo's first encyclical attacks technological messianism",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://explosion-scratch.github.io/locusts/",
+    "title": "[英] What Happened to the Locusts?",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://pandoc-templates.org/",
+    "title": "[英] Pandoc Templates",
+    "date": "2026-05-30"
+  },
+  {
     "link": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
     "title": "[英] Floor and Ceil versus Denormals on CPU and GPU",
     "date": "2026-05-30"
@@ -57,21 +72,6 @@
   {
     "link": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
     "title": "[英] A new register allocator for ZJIT",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.dailycal.org/news/uc/records-show-uc-sharing-data-with-us-customs-and-border-protection/article_785ac3ca-9ab2-4ab0-bbb8-07742e62d3d8.html",
-    "title": "[英] Records Show UC Sharing Data with US Customs and Border Protection",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
-    "title": "[英] What It Takes to Preserve Floppy Disks",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://github.com/vinhnx/VTCode",
-    "title": "[英] Show HN: VT Code – open-source terminal coding agent in Rust",
     "date": "2026-05-30"
   }
 ]
