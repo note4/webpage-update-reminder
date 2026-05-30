@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture",
+    "title": "[英] Downdetector and Speedtest sold to Accenture for $1.2B",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://apnews.com/article/gardening-myths-vinegar-tilling-watering-c07faf7472e7a2dc40d3886b94f1b508",
+    "title": "[英] Gardeners often hear about supposed hacks and quick fix. Here are some debunked",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
+    "title": "[英] Werner Herzog in conversation with Paul Cronin (2014)",
+    "date": "2026-05-31"
+  },
+  {
     "link": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks",
     "title": "[英] To have a moral stance on AI is to be an outcast, and it sucks",
     "date": "2026-05-31"
@@ -57,21 +72,6 @@
   {
     "link": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
     "title": "[英] Anthropic surpasses OpenAI to become most valuable AI startup",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-    "title": "[英] Navier-Stokes fluid simulation explained with Godot game engine",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://github.com/mplsllc/macsurf",
-    "title": "[英] Macsurf, \"modern\" web browser for macOS 9",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://github.com/kristapsdz/openrsync",
-    "title": "[英] Openrsync: An implementation of rsync, by the OpenBSD team",
     "date": "2026-05-31"
   }
 ]
