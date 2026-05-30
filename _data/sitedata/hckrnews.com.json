@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://phroneses.com/articles/build/notes/vibe-coding-is-not-engineering.html",
+    "title": "[英] Vibe Coding Is Not Engineering",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue",
+    "title": "[英] Memory decline after menopause linked to loss of estrogen production in brain",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+    "title": "[英] Anthropic surpasses OpenAI to become most valuable AI startup",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+    "title": "[英] Navier-Stokes fluid simulation explained with Godot game engine",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://github.com/mplsllc/macsurf",
+    "title": "[英] Macsurf, \"modern\" web browser for macOS 9",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://github.com/kristapsdz/openrsync",
+    "title": "[英] Openrsync: An implementation of rsync, by the OpenBSD team",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US",
+    "title": "[英] Adding Linux support back for the BASIC (free) version of Vivado",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
+    "title": "[英] IXI's autofocusing lenses are almost ready to replace multifocal glasses",
+    "date": "2026-05-30"
+  },
+  {
     "link": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
     "title": "[英] Corporate America Is Starting to Ration AI as Cost Skyrockets",
     "date": "2026-05-30"
@@ -10,8 +50,8 @@
     "date": "2026-05-30"
   },
   {
-    "link": "https://understand-anything.com/",
-    "title": "[英] Understand Anything – Graphs that teach the codebase",
+    "link": "https://news.ycombinator.com/item?id=48282025",
+    "title": "[英] undefined",
     "date": "2026-05-30"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://pandoc-templates.org/",
     "title": "[英] Pandoc Templates",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
-    "title": "[英] Floor and Ceil versus Denormals on CPU and GPU",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
-    "title": "[英] The Kaiser and a \"Mediocre Man\" Theory of History",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://ziglang.org/devlog/2026/#2026-05-26",
-    "title": "[英] Zig: Build System Reworked",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate",
-    "title": "[英] Iron-rich immune cells help homing pigeons navigate",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.imec-int.com/en/press/world-first-imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography",
-    "title": "[英] Quantum dot qubit using High NA EUV lithography",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390",
-    "title": "[英] Rsync 3.4.3 has hundreds of Claude commits",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
-    "title": "[英] Danish pension fund excludes SpaceX citing governance and valuation",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://stewartraceway.org/",
-    "title": "[英] Ho-scale slot car racing in the Santa Cruz Mountains",
     "date": "2026-05-30"
   }
 ]
