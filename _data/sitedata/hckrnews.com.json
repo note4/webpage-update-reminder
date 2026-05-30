@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.dailycal.org/news/uc/records-show-uc-sharing-data-with-us-customs-and-border-protection/article_785ac3ca-9ab2-4ab0-bbb8-07742e62d3d8.html",
+    "title": "[英] Records Show UC Sharing Data with US Customs and Border Protection",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
+    "title": "[英] What It Takes to Preserve Floppy Disks",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://github.com/vinhnx/VTCode",
+    "title": "[英] Show HN: VT Code – open-source terminal coding agent in Rust",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.economist.com/britain/2026/05/28/britain-has-crushed-immigration-and-harmed-itself",
+    "title": "[英] Britain has crushed immigration, and harmed itself",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://github.com/HarleyCoops/Math-To-Manim",
+    "title": "[英] Math-to-Manim",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.perryts.com/",
+    "title": "[英] Perry Compiles TypeScript directly to executables using SWC and LLVM",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://bennypowers.dev/posts/let-equals-equal-equals/",
+    "title": "[英] Let Equals Equal Equals",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.nippon.com/en/japan-data/h02783/",
+    "title": "[英] Naphtha Shortages Having a Growing Impact in Japan",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
+    "title": "[英] WH proposes rules giving political appointees final approval on research grants",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://mnaoumov.dev/posts/2023-12-17-switch-between-three-keyboard-languages/",
+    "title": "[英] Switch between three keyboard languages",
+    "date": "2026-05-30"
+  },
+  {
     "link": "https://blog.emberjs.com/ember-released-7-0/",
     "title": "[英] Ember.js 7.0",
     "date": "2026-05-30"
@@ -22,56 +72,6 @@
   {
     "link": "https://freecal.eu/?lang=en",
     "title": "[英] Show HN: Free activity calendar for schools, sports clubs, and organizations",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-    "title": "[英] MCP is dead?",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://newsletter.semianalysis.com/p/finding-miscompiles-for-fun-not-profit",
-    "title": "[英] Finding Miscompiles for Fun, Not Profit",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://noperator.dev/posts/you-can-just-say-it/",
-    "title": "[英] You can just say it",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
-    "title": "[英] Free full BGP feed. IPv4 and IPv6",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://github.com/secluso/core",
-    "title": "[英] Show HN: Open-source private home security camera system (end-to-end encryption)",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
-    "title": "[英] The Last Technical Interview",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-    "title": "[英] EV Stupidity Checklist",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-    "title": "[英] Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://characters.fastserial.com",
-    "title": "[英] A Trillion Characters",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "http://www.mrob.com/pub/math/numbers-19.html",
-    "title": "[英] Notable Properties of Specific Numbers",
     "date": "2026-05-30"
   }
 ]
