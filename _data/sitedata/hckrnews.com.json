@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://blog.emberjs.com/ember-released-7-0/",
+    "title": "[英] Ember.js 7.0",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/05/25/travel/hudson-valley-painting-thomas-cole-frederic-church.html",
+    "title": "[英] What Did the Hudson River School Painters See?",
+    "date": "2026-05-30"
+  },
+  {
+    "link": "https://daringfireball.net/2026/05/what_is_a_dickover",
+    "title": "[英] What Is a Dickover?",
+    "date": "2026-05-30"
+  },
+  {
     "link": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
     "title": "[英] Snowboard Kids 2 is 100% Decompiled",
     "date": "2026-05-30"
@@ -11,7 +26,7 @@
   },
   {
     "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-    "title": "[英] MCP Is Dead",
+    "title": "[英] MCP is dead?",
     "date": "2026-05-30"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "http://www.mrob.com/pub/math/numbers-19.html",
     "title": "[英] Notable Properties of Specific Numbers",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://dles.gg/blog/dles-gg-manifesto",
-    "title": "[英] Why I collect DLES",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.cbc.ca/news/business/recession-gdp-may-2026-statscan-9.7216352",
-    "title": "[英] Canada in Technical Recession",
-    "date": "2026-05-30"
-  },
-  {
-    "link": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
-    "title": "[英] Microsoft 0-day feud escalates as researcher threatens another exploit dump",
     "date": "2026-05-30"
   }
 ]
