@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/",
+    "title": "[英] The History of \"Prisencolinensinainciusol\"",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+    "title": "[英] Chuwi Minibook X: the netbook we deserve",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "https://groups.google.com/g/comp.unix.wizards/c/QX_dxElrVNs",
+    "title": "[英] Unix in East Germany (GDR) (1990)",
+    "date": "2026-06-01"
+  },
+  {
     "link": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
     "title": "[英] It's Not Just X. It's Y",
     "date": "2026-06-01"
@@ -10,8 +25,8 @@
     "date": "2026-06-01"
   },
   {
-    "link": "https://www.marxist.ca/article/the-need-for-a-socialist-planned-economy",
-    "title": "[英] The need for a socialist planned economy (2021)",
+    "link": "https://news.ycombinator.com/item?id=48350008",
+    "title": "[英] undefined",
     "date": "2026-06-01"
   },
   {
@@ -31,7 +46,7 @@
   },
   {
     "link": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-    "title": "[英] ChatGPT for Google Sheets Exfiltrates Workbooks",
+    "title": "[英] ChatGPT for Google Sheets is vulnerable to data exfiltration and phishing",
     "date": "2026-06-01"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
     "title": "[英] Steam Deck sells out in North America within 24 hours of price hike",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://twitter.com/i/status/2060746160558543217",
-    "title": "[英] Codex just found a \"workaround\" of not having sudo on my PC",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "http://www.linux-m68k.org/",
-    "title": "[英] Linux/M68k",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://lwn.net/Articles/104185/",
-    "title": "[英] Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)",
     "date": "2026-06-01"
   }
 ]
