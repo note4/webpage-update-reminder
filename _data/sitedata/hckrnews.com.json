@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+    "title": "[英] ChatGPT for Google Sheets Exfiltrates Workbooks",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "https://www.computerenhance.com/p/the-four-programming-questions-from",
+    "title": "[英] The Four Programming Questions from My 1994 Microsoft Internship Interview (2023)",
+    "date": "2026-06-01"
+  },
+  {
     "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
     "title": "[英] What if remote working, not AI, is to blame for weak junior hiring?",
     "date": "2026-06-01"
@@ -31,7 +41,7 @@
   },
   {
     "link": "https://lwn.net/Articles/104185/",
-    "title": "[英] Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock",
+    "title": "[英] Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)",
     "date": "2026-06-01"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.a16z.news/p/avoiding-death-on-the-yellow-brick",
     "title": "[英] Avoiding Death on the Yellow Brick Road",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-    "title": "[英] The Speed of Prototyping in the Age of AI",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://unessays.substack.com/p/talk-is-cheap",
-    "title": "[英] Talk Is Cheap: The Operational Impact of LLM Use",
     "date": "2026-06-01"
   }
 ]
