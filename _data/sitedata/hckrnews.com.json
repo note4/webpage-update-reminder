@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+    "title": "[英] Websites have a new way to spy on visitors: analyzing their SSD activity",
+    "date": "2026-06-01"
+  },
+  {
     "link": "https://fortune.com/article/sergey-brin-60-hour-work-week-ai-rto/",
     "title": "[英] Sergey Brin told Google staff that working 60 hours a week is the 'sweet spot'",
     "date": "2026-06-01"
@@ -67,11 +72,6 @@
   {
     "link": "https://prismml.com/news/bonsai-image-4b",
     "title": "[英] 1-Bit Bonsai Image 4B Image Generation for Local Devices",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://hannesweissteiner.com/pdfs/frost.pdf",
-    "title": "[英] FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]",
     "date": "2026-06-01"
   }
 ]
