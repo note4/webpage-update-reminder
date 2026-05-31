@@ -1,12 +1,47 @@
 [
   {
+    "link": "https://fortune.com/article/sergey-brin-60-hour-work-week-ai-rto/",
+    "title": "[英] Sergey Brin told Google staff that working 60 hours a week is the 'sweet spot'",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+    "title": "[英] Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "https://deflock.org/",
+    "title": "[英] Deflock hits 100k ALPRs Mapped in USA",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+    "title": "[英] Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "https://www.a16z.news/p/avoiding-death-on-the-yellow-brick",
+    "title": "[英] Avoiding Death on the Yellow Brick Road",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+    "title": "[英] The Speed of Prototyping in the Age of AI",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "https://unessays.substack.com/p/talk-is-cheap",
+    "title": "[英] Talk Is Cheap: The Operational Impact of LLM Use",
+    "date": "2026-06-01"
+  },
+  {
     "link": "https://github.com/MichalStrehovsky/chibil",
     "title": "[英] Chibil: A C compiler targeting .NET IL",
     "date": "2026-06-01"
   },
   {
-    "link": "https://write.as/hcbg2iz91vzqh",
-    "title": "[英] An Analysis of GrapheneOS's Server Infrastructure",
+    "link": "https://news.ycombinator.com/item?id=48346697",
+    "title": "[英] undefined",
     "date": "2026-06-01"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://hannesweissteiner.com/pdfs/frost.pdf",
     "title": "[英] FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://justine.lol/rseq/",
-    "title": "[英] Restartable Sequences",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://www.uncannymagazine.com/article/folding-beijing-2/",
-    "title": "[英] Folding Beijing",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://thoughts.hmmz.org/2026-05-31.html",
-    "title": "[英] The solution might be cancelling my AI subscription",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://blogs.loc.gov/inside_adams/2012/04/the-stars-of-titanic/",
-    "title": "[英] The \"Stars\" of Titanic (2012)",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://paulgraham.com/boss.html",
-    "title": "[英] You Weren't Meant to Have a Boss (2008)",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://kenforthewin.github.io/atomic-editor/",
-    "title": "[英] Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism",
-    "title": "[英] The people who actually want AI to replace humanity",
     "date": "2026-06-01"
   }
 ]
