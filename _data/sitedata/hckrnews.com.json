@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+    "title": "[英] One year of Roto, a compiled scripting language for Rust",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://github.com/marekkowalczyk/breathe-cli",
+    "title": "[英] Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://github.com/abakh/nbsdgames/releases",
+    "title": "[英] The ~500kB NBSDGames 6 managed to be published ahead of GTA 6",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://specification.website/",
+    "title": "[英] The Website Specification",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://hi.telli.com/join-us",
+    "title": "[英] Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://foursquare.com/resources/blog/data/evolving-fsq-open-source-places/",
+    "title": "[英] Evolving FSQ Open Source Places (2025)",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://arxiv.org/abs/1709.08492",
+    "title": "[英] A pictorial introduction to differential geometry (2017)",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://theodore.net/projects/AvianVisitors/",
+    "title": "[英] Avian Visitors",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://github.com/kurikomi-labs/komi-learn",
+    "title": "[英] Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
+    "title": "[英] Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
+    "date": "2026-05-31"
+  },
+  {
     "link": "https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline",
     "title": "[英] Building a LangGraph pipeline for production data engineering",
     "date": "2026-05-31"
@@ -16,62 +66,12 @@
   },
   {
     "link": "https://mechanical-pencil.com/",
-    "title": "[英] Mechanical Pencin: A website about the hidden engineering in everyday objects",
+    "title": "[英] Mechanical Pencil: An illustrated celebration of the engineering around us",
     "date": "2026-05-31"
   },
   {
     "link": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
     "title": "[英] A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://github.com/RsyncProject/rsync/issues/929",
-    "title": "[英] Please Do Not Vibe Fuck Up This Software – Rsync",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://www.lttlabs.com/articles/2026/05/26/carbice-ice-pads",
-    "title": "[英] Carbon Nanotube CPU Cooling",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://av2.aomedia.org",
-    "title": "[英] The AV2 Video Standard Has Released (Final v1.0 Specification)",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-    "title": "[英] Racket v9.2 is now available",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it",
-    "title": "[英] Anyone can build a platform now. Almost nobody can get people to find it",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48304365",
-    "title": "[英] C++ CLI for folder encryption with AES-256-GCM and USB-based key loading",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.29135",
-    "title": "[英] Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html",
-    "title": "[英] I am against GenAI and everything it stands for",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/",
-    "title": "[英] Gustav Klimt and Egon Schiele in Conversation (2018)",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications",
-    "title": "[英] Custom Errors Are Non-Negotiable in My Rust Applications",
     "date": "2026-05-31"
   }
 ]
