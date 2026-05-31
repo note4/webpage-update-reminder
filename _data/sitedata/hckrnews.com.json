@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
+    "title": "[英] What if remote working, not AI, is to blame for weak junior hiring?",
+    "date": "2026-06-01"
+  },
+  {
     "link": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/",
     "title": "[英] 'Backrooms' Stuns with $81M Debut",
     "date": "2026-06-01"
@@ -51,7 +56,7 @@
   },
   {
     "link": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-    "title": "[英] Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
+    "title": "[英] Creatine raises brain energy levels and slows cognitive decline: study",
     "date": "2026-06-01"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://unessays.substack.com/p/talk-is-cheap",
     "title": "[英] Talk Is Cheap: The Operational Impact of LLM Use",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://github.com/MichalStrehovsky/chibil",
-    "title": "[英] Chibil: A C compiler targeting .NET IL",
     "date": "2026-06-01"
   }
 ]
