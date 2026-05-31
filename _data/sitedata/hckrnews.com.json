@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://wexio.io/blog/tidio-vs-intercom-vs-wexio",
+    "title": "[英] Tidio, Intercom, Wexio: identical on paper, built for different teams",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://secret-archive.org/",
+    "title": "[英] Security Envelope Pattern collection – S.E.C.R.E.T",
+    "date": "2026-05-31"
+  },
+  {
     "link": "https://86box.net/2026/05/31/86box-v6-0.html",
     "title": "[英] 86Box v6.0",
     "date": "2026-05-31"
@@ -62,16 +72,6 @@
   {
     "link": "https://theodore.net/projects/AvianVisitors/",
     "title": "[英] Avian Visitors",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://github.com/kurikomi-labs/komi-learn",
-    "title": "[英] Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
-    "title": "[英] Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
     "date": "2026-05-31"
   }
 ]
