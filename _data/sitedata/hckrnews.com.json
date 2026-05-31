@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline",
+    "title": "[英] Building a LangGraph pipeline for production data engineering",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48314312",
+    "title": "[英] Ask HN: Have you ever created a custom RISC-V ISA extension?",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+    "title": "[英] Ahoy, DECmate II the little PDP-8 that could",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://mechanical-pencil.com/",
+    "title": "[英] Mechanical Pencin: A website about the hidden engineering in everyday objects",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+    "title": "[英] A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://github.com/RsyncProject/rsync/issues/929",
+    "title": "[英] Please Do Not Vibe Fuck Up This Software – Rsync",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://www.lttlabs.com/articles/2026/05/26/carbice-ice-pads",
+    "title": "[英] Carbon Nanotube CPU Cooling",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://av2.aomedia.org",
+    "title": "[英] The AV2 Video Standard Has Released (Final v1.0 Specification)",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+    "title": "[英] Racket v9.2 is now available",
+    "date": "2026-05-31"
+  },
+  {
     "link": "https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it",
     "title": "[英] Anyone can build a platform now. Almost nobody can get people to find it",
     "date": "2026-05-31"
@@ -21,57 +66,12 @@
   },
   {
     "link": "https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/",
-    "title": "[英] Gustav Klimt and Egon Schiele in Conversation",
+    "title": "[英] Gustav Klimt and Egon Schiele in Conversation (2018)",
     "date": "2026-05-31"
   },
   {
     "link": "https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications",
     "title": "[英] Custom Errors Are Non-Negotiable in My Rust Applications",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-    "title": "[英] Microsoft degrades functionality of perpetually-licensed offline products",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://shantellsans.com/process",
-    "title": "[英] Shantell Sans",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://brie.gay/cheese-paper/",
-    "title": "[英] Cheese Paper: a text editor specifically designed for writing",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://blog.llmcap.io/aws-budgets-has-an-8-hour-delay-your-bedrock-bill-doesn-t",
-    "title": "[英] AWS Budgets Has an 8-Hour Delay. Your Bedrock Bill Doesn't",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://entropicthoughts.com/ninety-percent-of-the-t-distribution",
-    "title": "[英] 90% of the T Distribution",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48340944",
-    "title": "[英] undefined",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://openenvelope.org/docs/schema/",
-    "title": "[英] Show HN: Open Envelope – an open schema for defining AI agent teams",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://github.com/darshanmakwana412/tsplat",
-    "title": "[英] Tsplat – Run Gaussian splatting in your terminal",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://interfaces.dev/",
-    "title": "[英] Design Engineering Magazine",
     "date": "2026-05-31"
   }
 ]
