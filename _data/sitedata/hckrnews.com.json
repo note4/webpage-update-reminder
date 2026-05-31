@@ -1,12 +1,42 @@
 [
   {
+    "link": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/",
+    "title": "[英] 'Backrooms' Stuns with $81M Debut",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "https://github.com/viggy28/streambed",
+    "title": "[英] Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
+    "title": "[英] Steam Deck sells out in North America within 24 hours of price hike",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "https://twitter.com/i/status/2060746160558543217",
+    "title": "[英] Codex just found a \"workaround\" of not having sudo on my PC",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "http://www.linux-m68k.org/",
+    "title": "[英] Linux/M68k",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "https://lwn.net/Articles/104185/",
+    "title": "[英] Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock",
+    "date": "2026-06-01"
+  },
+  {
     "link": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
     "title": "[英] Websites have a new way to spy on visitors: analyzing their SSD activity",
     "date": "2026-06-01"
   },
   {
     "link": "https://fortune.com/article/sergey-brin-60-hour-work-week-ai-rto/",
-    "title": "[英] Sergey Brin told Google staff that working 60 hours a week is the 'sweet spot'",
+    "title": "[英] Sergey Brin told Google staff that working 60 hours a week is the 'sweet spot' (2025)",
     "date": "2026-06-01"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://github.com/MichalStrehovsky/chibil",
     "title": "[英] Chibil: A C compiler targeting .NET IL",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48346697",
-    "title": "[英] undefined",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "title": "[英] Odysseus – self-hosted AI workspace",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://blog.absurdpirate.com/im-so-tired-of-ads/",
-    "title": "[英] I'm So Tired of Ads",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://apnews.com/article/pancreatic-cancer-daraxonrasib-chemotherapy-kras-62537cbc43c5286edb4c00806dc1c2de",
-    "title": "[英] Experimental pill promises new hope for pancreatic cancer",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
-    "title": "[英] Daily pill can double survival time for deadliest cancer, trial shows",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://prismml.com/news/bonsai-image-4b",
-    "title": "[英] 1-Bit Bonsai Image 4B Image Generation for Local Devices",
     "date": "2026-06-01"
   }
 ]
