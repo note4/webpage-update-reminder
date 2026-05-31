@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it",
+    "title": "[英] Anyone can build a platform now. Almost nobody can get people to find it",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48304365",
+    "title": "[英] C++ CLI for folder encryption with AES-256-GCM and USB-based key loading",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://arxiv.org/abs/2605.29135",
+    "title": "[英] Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html",
+    "title": "[英] I am against GenAI and everything it stands for",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/",
+    "title": "[英] Gustav Klimt and Egon Schiele in Conversation",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications",
+    "title": "[英] Custom Errors Are Non-Negotiable in My Rust Applications",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+    "title": "[英] Microsoft degrades functionality of perpetually-licensed offline products",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://shantellsans.com/process",
+    "title": "[英] Shantell Sans",
+    "date": "2026-05-31"
+  },
+  {
+    "link": "https://brie.gay/cheese-paper/",
+    "title": "[英] Cheese Paper: a text editor specifically designed for writing",
+    "date": "2026-05-31"
+  },
+  {
     "link": "https://blog.llmcap.io/aws-budgets-has-an-8-hour-delay-your-bedrock-bill-doesn-t",
     "title": "[英] AWS Budgets Has an 8-Hour Delay. Your Bedrock Bill Doesn't",
     "date": "2026-05-31"
@@ -27,51 +72,6 @@
   {
     "link": "https://interfaces.dev/",
     "title": "[英] Design Engineering Magazine",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48340438",
-    "title": "[英] undefined",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://github.com/wolfSSL/wolfCOSE",
-    "title": "[英] wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-    "title": "[英] Meta is reportedly developing an AI pendant",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://github.com/arunkatherashala/Kore",
-    "title": "[英] Kore: Binary File Format Optimized for Modern Data Systems (Open Source)",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-    "title": "[英] Domain expertise has always been the real moat",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://twilitrealm.dev/",
-    "title": "[英] Dusklight – GC Twilight Princess Decompiled",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://crates.io/crates/zerostack/1.3.4",
-    "title": "[英] Zerostack v1.3.4 released – Lightweight Unix-inspired coding agent",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://knowwhereconsulting.co.uk/blog/shakespeares-world/",
-    "title": "[英] Shakespeare’s World – I thought this would be simple but",
-    "date": "2026-05-31"
-  },
-  {
-    "link": "https://github.com/rfi-irfos/rusty-penguin",
-    "title": "[英] An OS in pure Rust with its own TCP/IP and TLS 1.3 stack, fetching the live web",
     "date": "2026-05-31"
   }
 ]
