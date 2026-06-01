@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://polypane.app/blog/using-safe-area-inset-to-build-mobile-safe-layouts/",
+    "title": "[英] Using safe-area-inset to build mobile-safe layouts",
+    "date": "2026-06-01"
+  },
+  {
+    "link": "https://github.com/tanrikuluozlem/burn",
+    "title": "[英] Reconciling Kubernetes cost estimates with CUR / FOCUS billing data",
+    "date": "2026-06-01"
+  },
+  {
     "link": "https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/",
     "title": "[英] The History of \"Prisencolinensinainciusol\"",
     "date": "2026-06-01"
@@ -62,16 +72,6 @@
   {
     "link": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/",
     "title": "[英] 'Backrooms' Stuns with $81M Debut",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://github.com/viggy28/streambed",
-    "title": "[英] Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
-    "date": "2026-06-01"
-  },
-  {
-    "link": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
-    "title": "[英] Steam Deck sells out in North America within 24 hours of price hike",
     "date": "2026-06-01"
   }
 ]
