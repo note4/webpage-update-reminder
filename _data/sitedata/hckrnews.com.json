@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://github.com/c0dejedi/nbd-vram",
+    "title": "[英] Use your Nvidia GPU's VRAM as swap space on Linux",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
+    "title": "[英] California’s university system went all in on AI, now it's tearing itself apart",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://www.codenaked.com/winutils",
+    "title": "[英] WinUtils: Shell-powered CLI tools for Windows 95",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
+    "title": "[英] 4K years ago, Mohenjo-daro grew more equal over time",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://github.com/getpaseo/paseo",
+    "title": "[英] Paseo – Beautiful open-source coding agent interface (desktop, mobile, CLI)",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://blog.tomayac.com/2026/05/30/your-mp3s-from-google-drive-in-music-assistant-on-home-assistant/",
+    "title": "[英] MP3s from Google Drive in Music Assistant on Home Assistant",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48377014",
+    "title": "[英] undefined",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
+    "title": "[英] Now AI agents need what RSS does",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/",
+    "title": "[英] Gleam v1.17.0 Released",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://arslan.io/2024/04/22/review-of-the-moergo-glove80-keyboard/",
+    "title": "[英] Review of the MoErgo Glove80 Keyboard (2024)",
+    "date": "2026-06-03"
+  },
+  {
     "link": "https://www.acdw.net/clojure/",
     "title": "[英] My thoughts after using Clojure for about a month",
     "date": "2026-06-03"
@@ -22,56 +72,6 @@
   {
     "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
     "title": "[英] Uber caps employee AI spending after blowing through budget in four months",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
-    "title": "[英] HP re-releases classic computer science calculator: The HP-16C",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html",
-    "title": "[英] Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
-    "title": "[英] The advertising cartel coming to your web browser",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://www.vogons.org/viewtopic.php?t=111336",
-    "title": "[英] Multicore suppport for DOS is real – partly",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://openrepair.org/open-data/open-standard/",
-    "title": "[英] Open Repair Data Standard – Open Repair Alliance",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://microsoft.ai/news/introducing-mai-thinking-1/",
-    "title": "[英] MAI-Thinking-1",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://microsoft.ai/wp-content/uploads/2026/06/main_20260602_2.pdf",
-    "title": "[英] MAI-Thinking-1 [pdf]",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-    "title": "[英] Gmail thinks I'm stupid, so I left",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
-    "title": "[英] How we index images for RAG",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
-    "title": "[英] Bringing Up DeepSeek-V4-Flash on AMD MI300X",
     "date": "2026-06-03"
   }
 ]
