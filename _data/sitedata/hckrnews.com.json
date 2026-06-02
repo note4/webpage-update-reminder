@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://brendanjameslynskey.github.io/ConstantQ-Transform/",
+    "title": "[英] Constant Q Transform – A Visual Guide",
+    "date": "2026-06-02"
+  },
+  {
+    "link": "https://github.com/cyberpapiii/chipotlai-max",
+    "title": "[英] Chipotlai Max",
+    "date": "2026-06-02"
+  },
+  {
+    "link": "https://yakko.dev/blog/whats-gonna-happen-to-software-developers",
+    "title": "[英] What's gonna happen to software engineers?",
+    "date": "2026-06-02"
+  },
+  {
+    "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+    "title": "[英] Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+    "date": "2026-06-02"
+  },
+  {
+    "link": "https://matse.illinois.edu/news/85775",
+    "title": "[英] A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
+    "date": "2026-06-02"
+  },
+  {
+    "link": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
+    "title": "[英] Age verification for social media, the beginning of the end for a free internet?",
+    "date": "2026-06-02"
+  },
+  {
+    "link": "https://plato.stanford.edu/entries/frame-problem/",
+    "title": "[英] The Frame Problem (2004)",
+    "date": "2026-06-02"
+  },
+  {
+    "link": "https://github.com/arnica/depsguard",
+    "title": "[英] Show HN: DepsGuard – One command to harden NPM/pnpm/yarn/bun/uv configs",
+    "date": "2026-06-02"
+  },
+  {
+    "link": "https://jasonfantl.com/posts/Multiple-Access-Protocols/",
+    "title": "[英] Medium Access Control Protocols",
+    "date": "2026-06-02"
+  },
+  {
+    "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "title": "[英] OpenAI frontier models and Codex are now available on AWS",
+    "date": "2026-06-02"
+  },
+  {
     "link": "https://john.mercouris.online/webcam-mount.html",
     "title": "[英] Building a custom mount for a telescoping webcam",
     "date": "2026-06-02"
@@ -22,56 +72,6 @@
   {
     "link": "https://debug.com/",
     "title": "[英] Debug Project",
-    "date": "2026-06-02"
-  },
-  {
-    "link": "https://www.sciencedaily.com/releases/2026/05/260528074032.htm",
-    "title": "[英] Safer, cheaper vision correction without lasers or surgery",
-    "date": "2026-06-02"
-  },
-  {
-    "link": "https://www.gettextile.app",
-    "title": "[英] Show HN: Textile – A desktop app for weaving together bits of text",
-    "date": "2026-06-02"
-  },
-  {
-    "link": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
-    "title": "[英] Build a Basic AI Agent from Scratch: Tools",
-    "date": "2026-06-02"
-  },
-  {
-    "link": "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released",
-    "title": "[英] GrapheneOS Speech Services version 2 released",
-    "date": "2026-06-02"
-  },
-  {
-    "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-    "title": "[英] Florida sues OpenAI and Sam Altman over AI risks",
-    "date": "2026-06-02"
-  },
-  {
-    "link": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-first-nation-state-led-lawsuit-against-openai-ceo",
-    "title": "[英] Florida AG files lawsuit against OpenAI, CEO Sam Altman for deceptive practices",
-    "date": "2026-06-02"
-  },
-  {
-    "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-    "title": "[英] Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
-    "date": "2026-06-02"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c202d0l92weo",
-    "title": "[英] Mumbai's famed dabbawalas fed millions for over 100 years",
-    "date": "2026-06-02"
-  },
-  {
-    "link": "https://eblog.fly.dev/githubbad.html",
-    "title": "[英] GitHub and the crime against software",
-    "date": "2026-06-02"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48360902",
-    "title": "[英] undefined",
     "date": "2026-06-02"
   }
 ]
