@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/voltus-agreement/",
+    "title": "[英] We’ve signed a first-of-its-kind agreement with Voltus to create a smart capacity solution for the grid.",
+    "date": "2026-06-02 21:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/blue-yellow-and-green-google-invests-in-its-first-data-center-in-sweden/",
     "title": "[英] Blue, yellow and green: Google invests in its first data center in Sweden.",
     "date": "2026-06-02 17:45:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/products-and-platforms/products/google-health/connect-data-across-devices/",
     "title": "[英] Google Health brings your data into one place, on your terms",
     "date": "2026-05-26 21:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-    "title": "[英] Catch up on the Dialogues stage at Google I/O 2026.",
-    "date": "2026-05-23 02:00:00"
   }
 ]
