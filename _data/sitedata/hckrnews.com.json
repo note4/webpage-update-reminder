@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://fzakaria.com/2026/06/01/every-byte-matters",
+    "title": "[英] Every Byte Matters",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+    "title": "[英] Mathematicians issue warning as AI rapidly gains ground",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+    "title": "[英] Hacking your PC using your speaker without ever touching it",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://github.com/Squalius-cephalus/OpenRidingController",
+    "title": "[英] OpenRidingController – DIY horse riding controller for the PC",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://www.newyorker.com/books/this-week-in-fiction/jonathan-franzen-06-08-26",
+    "title": "[英] Jonathan Franzen on Talent, Theatre, and His Next Novel",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/",
+    "title": "[英] Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+    "title": "[英] Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://phive.app",
+    "title": "[英] Show HN: Phive, a Gomoku-like game to play with friends or solo",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers",
+    "title": "[英] It is an amazing time for programmers",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://dmanco.dev/2025/08/17/fear-not-even-ai-engineers-will-be-replaced-by-ai.html",
+    "title": "[英] AI Engineers aren't safe from being replaced by AI",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html",
+    "title": "[英] Writing Portable ARM64 Assembly (2023)",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+    "title": "[英] DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
+    "title": "[英] Microsoft Doubles Down on Controversial Quantum Computing Claims",
+    "date": "2026-06-03"
+  },
+  {
     "link": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
     "title": "[英] U of T researchers demonstrate AI worm could target any online device",
     "date": "2026-06-03"
@@ -7,71 +72,6 @@
   {
     "link": "https://github.com/s-macke/Test-Drive-3-Maps",
     "title": "[英] Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://brian.abelson.live/log/2025/12/20/saysynth-composition-codes.html",
-    "title": "[英] SaySynth: A Brief History of Speaking Machines",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8",
-    "title": "[英] America's Data Center Build-Out Is Falling Way Behind Schedule",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
-    "title": "[英] The Unreasonable Redundancy of Nature's Protein Folds",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://getnlab.com/",
-    "title": "[英] NLAB: The worlds smallest electronics lab",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants",
-    "title": "[英] HHS is overriding peer review to require changes to research scope, design",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://wiki.wordsoftype.com/",
-    "title": "[英] Words of Type",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://research.contrary.com/report/the-american-missile-crisis",
-    "title": "[英] The American Missile Crisis",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://www.newyorker.com/news/fault-lines/can-ai-produce-writing-that-we-actually-want-to-read",
-    "title": "[英] Can A.I. produce writing that we want to read?",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://agenticmotherfucking.website",
-    "title": "[英] Agentic Mfw",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://www.capstone-engine.org/",
-    "title": "[英] Capstone – multi-platform, multi-architecture disassembly framework",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://matthiasott.com/notes/ad-infinitum",
-    "title": "[英] Ad Infini­Tum",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://blog.ammaraskar.com/github-token-stealing/",
-    "title": "[英] 1-Click GitHub Token Stealing via a VSCode Bug",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
-    "title": "[英] Pluto.jl 1.0 release – reactive notebook for Julia",
     "date": "2026-06-03"
   }
 ]
