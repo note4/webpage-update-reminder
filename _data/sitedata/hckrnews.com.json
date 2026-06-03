@@ -1,7 +1,52 @@
 [
   {
+    "link": "https://github.com/tastyeffectco/sandboxes",
+    "title": "[英] Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+    "date": "2026-06-04"
+  },
+  {
+    "link": "https://www.ableton.com/en/live/extensions/",
+    "title": "[英] Ableton Extensions SDK",
+    "date": "2026-06-04"
+  },
+  {
+    "link": "https://github.com/lumirlumir/npm-eslint-markdown",
+    "title": "[英] Show HN: Lint Your Markdown with ESLint",
+    "date": "2026-06-04"
+  },
+  {
+    "link": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
+    "title": "[英] A Man Who Reads Books for a Living (One Every Two Days)",
+    "date": "2026-06-04"
+  },
+  {
+    "link": "https://github.com/zaydmulani09/mnemo",
+    "title": "[英] Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+    "date": "2026-06-04"
+  },
+  {
+    "link": "https://wassimans.com/blog/building-ios-apps-with-doom-emacs/",
+    "title": "[英] Building iOS Apps with Doom Emacs",
+    "date": "2026-06-04"
+  },
+  {
+    "link": "https://brume.aftertone.co/",
+    "title": "[英] Brume is a 24-voice multi-timbral desktop synth for the CM5",
+    "date": "2026-06-04"
+  },
+  {
+    "link": "https://thenextweb.com/news/gopro-going-concern-ai-memory-crisis-default",
+    "title": "[英] GoPro warned it may not survive",
+    "date": "2026-06-04"
+  },
+  {
+    "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "[英] Artificial intelligence is not conscious – Ted Chiang",
+    "date": "2026-06-04"
+  },
+  {
     "link": "https://groupdiy.com/threads/the-new-ti-5532-chips-are-not-5532s-weve-used-for-decades.93707/",
-    "title": "[英] New Texas Instruments 5532 chips are not the 5532's we've used for decades",
+    "title": "[英] New Texas Instruments 5532 chips are not the 5532s we’ve used for decades",
     "date": "2026-06-04"
   },
   {
@@ -11,7 +56,7 @@
   },
   {
     "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-    "title": "[英] Elixir v1.20 released: now a gradually typed language",
+    "title": "[英] Elixir v1.20: Now a gradually typed language",
     "date": "2026-06-04"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://radar.cloudflare.com/traffic#bot-vs-human",
     "title": "[英] Bot vs human traffic",
-    "date": "2026-06-04"
-  },
-  {
-    "link": "https://nymag.com/intelligencer/article/christopher-pence-corderos-fbi-dark-web-hit-man.html",
-    "title": "[英] Sixteen Kids and a Hit Man (2024)",
-    "date": "2026-06-04"
-  },
-  {
-    "link": "https://github.com/duanebester/gooey",
-    "title": "[英] Gooey: A GPU-accelerated UI framework for Zig",
-    "date": "2026-06-04"
-  },
-  {
-    "link": "https://burntsushi.net/encephalitis/",
-    "title": "[英] I was recently diagnosed with anti-NMDA receptor encephalitis",
-    "date": "2026-06-04"
-  },
-  {
-    "link": "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664",
-    "title": "[英] Angular v22",
-    "date": "2026-06-04"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48387095",
-    "title": "[英] Launch HN: Hyper (YC P26) – Company brain to power agentic development",
-    "date": "2026-06-04"
-  },
-  {
-    "link": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why",
-    "title": "[英] If AI data centers are so great, why are they being built in secret?",
-    "date": "2026-06-04"
-  },
-  {
-    "link": "https://github.com/loadingalias/rscrypto",
-    "title": "[英] Show HN: Rscrypto, pure-Rust crypto with industry leading public benches",
-    "date": "2026-06-04"
-  },
-  {
-    "link": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-    "title": "[英] MacBook Neo Is So Popular That Apple Doubled Production",
-    "date": "2026-06-04"
-  },
-  {
-    "link": "https://www.sanders.senate.gov/op-eds/the-public-should-own-half-of-the-big-a-i-companies/",
-    "title": "[英] The Public Should Own Half of the Big A.I. Companies",
     "date": "2026-06-04"
   }
 ]
