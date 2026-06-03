@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/products/search/new-controls-website-owners/",
+    "title": "[英] New opportunities, control and insights for website owners",
+    "date": "2026-06-03 13:05:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/platforms/android/android-drop-june-2026/",
     "title": "[英] June Android Drop: New personalization and safety features are here",
     "date": "2026-06-03 02:00:00"
@@ -11,7 +16,7 @@
   },
   {
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/blue-yellow-and-green-google-invests-in-its-first-data-center-in-sweden/",
-    "title": "[英] Blue, yellow and green: Google invests in its first data center in Sweden.",
+    "title": "[英] Blue, yellow and green: Google invests in its new data center in Sweden.",
     "date": "2026-06-02 17:45:00"
   },
   {
@@ -68,10 +73,5 @@
     "link": "https://blog.google/waze/drive-with-ziggy-marley-on-waze/",
     "title": "[英] Drive with Ziggy Marley on Waze.",
     "date": "2026-05-27 21:00:00"
-  },
-  {
-    "link": "https://blog.google/products/ads-commerce/google-display-ads-demand-gen/",
-    "title": "[英] Google Display Ads has a new home in Demand Gen.",
-    "date": "2026-05-27 01:00:00"
   }
 ]
