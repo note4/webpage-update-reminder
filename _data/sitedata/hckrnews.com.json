@@ -1,12 +1,57 @@
 [
   {
+    "link": "https://www.gateworld.net/news/2026/06/amazon-axed-new-stargate-series/",
+    "title": "[英] Amazon Has Axed Its New Stargate Series",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://www.wired.com/story/he-blew-the-whistle-on-doge-then-his-brakes-were-cut/",
+    "title": "[英] He Blew the Whistle on DOGE. Then His Brakes Were Cut",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://searchzee.com/blog/search-without-ai-summaries",
+    "title": "[英] I Don't Want My Search Engine to Think for Me",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/",
+    "title": "[英] Are blue zones real? Answering that question is harder then ever",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+    "title": "[英] More than 6 out of 10 people turn to AI for psychological support",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://www.chronicle.com/article/my-students-cant-read",
+    "title": "[英] My Students Can't Read",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://www.jay.ai/blog/llms-are-not-a-black-box",
+    "title": "[英] LLMs are not the black box you were promised",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+    "title": "[英] AI outperforms law professors in Stanford Law study",
+    "date": "2026-06-03"
+  },
+  {
+    "link": "https://github.com/lateos-ai/npm-scan",
+    "title": "[英] Npm-scan: Modern supply chain security for the npm ecosystem",
+    "date": "2026-06-03"
+  },
+  {
     "link": "https://github.com/c0dejedi/nbd-vram",
     "title": "[英] Use your Nvidia GPU's VRAM as swap space on Linux",
     "date": "2026-06-03"
   },
   {
     "link": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
-    "title": "[英] California’s university system went all in on AI, now it's tearing itself apart",
+    "title": "[英] Different attitudes towards AI in California's university system",
     "date": "2026-06-03"
   },
   {
@@ -21,57 +66,12 @@
   },
   {
     "link": "https://github.com/getpaseo/paseo",
-    "title": "[英] Paseo – Beautiful open-source coding agent interface (desktop, mobile, CLI)",
+    "title": "[英] Show HN: Paseo – Beautiful open-source coding agent interface",
     "date": "2026-06-03"
   },
   {
     "link": "https://blog.tomayac.com/2026/05/30/your-mp3s-from-google-drive-in-music-assistant-on-home-assistant/",
     "title": "[英] MP3s from Google Drive in Music Assistant on Home Assistant",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48377014",
-    "title": "[英] undefined",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
-    "title": "[英] Now AI agents need what RSS does",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/",
-    "title": "[英] Gleam v1.17.0 Released",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://arslan.io/2024/04/22/review-of-the-moergo-glove80-keyboard/",
-    "title": "[英] Review of the MoErgo Glove80 Keyboard (2024)",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://www.acdw.net/clojure/",
-    "title": "[英] My thoughts after using Clojure for about a month",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://github.com/shiihaa-app/shiihaa-breath-detection",
-    "title": "[英] Show HN: Live breath detection and biofeedback from a phone microphone",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://github.com/Niyko/Athena",
-    "title": "[英] Made a Tool to Streams Changes from Microsoft SQL Server to Apache Kafka",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://www.lumafield.com/scan-of-the-month/byd",
-    "title": "[英] CT scans of BYD car parts",
-    "date": "2026-06-03"
-  },
-  {
-    "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-    "title": "[英] Uber caps employee AI spending after blowing through budget in four months",
     "date": "2026-06-03"
   }
 ]
