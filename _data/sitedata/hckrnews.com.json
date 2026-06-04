@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://hitoku.me/draft/",
+    "title": "[英] Show HN: Hitoku Draft – Context aware local assistant",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+    "title": "[英] Queen bees emerge from special wax chambers",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+    "title": "[英] IPv6 zones in URLs are a mistake",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
+    "title": "[英] I'm skeptical about efforts to revolutionize schooling",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://www.mercek.dev/",
+    "title": "[英] Show HN: Mercek – A Desktop IDE for AWS ECS",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48398358",
+    "title": "[英] Ask HN: Gin rummy strategies",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://github.com/schildep/verified-polygon-intersection",
+    "title": "[英] Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48396218",
+    "title": "[英] Ask HN: Spent thousands, got no customers. What's wrong with my site?",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48402378",
+    "title": "[英] Ask HN: Time loop and partial blackhole?",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48403614",
+    "title": "[英] Ask HN: High school student – is learning programming still worthwhile?",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://tiki.li/blog/blqsort",
+    "title": "[英] Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+    "date": "2026-06-05"
+  },
+  {
     "link": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
     "title": "[英] NSA using Anthropic's Mythos for cyber attacks",
     "date": "2026-06-05"
@@ -17,61 +72,6 @@
   {
     "link": "https://github.com/tejaswigowda/ffmpeg-webCLI",
     "title": "[英] Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/crmp0krp98ro",
-    "title": "[英] Mornings and nights no longer exist at 47C: A day in the hottest place in India",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://github.com/anthropics/defending-code-reference-harness",
-    "title": "[英] Anthropic's open-source framework for AI-powered vulnerability discovery",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://castor.web.cern.ch/content/home.html",
-    "title": "[英] Castor: CERN Advanced STORage Manager",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-    "title": "[英] Meta's ships facial recognition on smart glasses",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
-    "title": "[英] JLink JTAG Access on the Pinecil",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
-    "title": "[英] AI, Ashby Engineering, and the future",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://kottke.org/26/05/american-wealth-sliced-up",
-    "title": "[英] American Wealth, Sliced Up",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://cost.dev/",
-    "title": "[英] Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://worksinprogress.co/issue/samurai-city/",
-    "title": "[英] Samurai City",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://home.dartmouth.edu/news/2026/06/how-fear-and-social-pressure-are-overarming-us",
-    "title": "[英] How Fear and Social Pressure Are 'Overarming' the U.S.",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://rozumem.xyz/posts/16",
-    "title": "[英] The desperation of NYTimes",
     "date": "2026-06-05"
   }
 ]
