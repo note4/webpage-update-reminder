@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://techorange.com/2026/06/04/advantech-weda/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "研華搭 COMPUTEX 熱潮舉辦全球夥伴大會，力推 Physical AI 與 WEDA 架構",
+    "date": "2026-06-04 16:18:55"
+  },
+  {
+    "link": "https://techorange.com/2026/06/04/taiwanmobile-gmi-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "台灣大 AI 算力布局走向海外，攜 GMI Cloud 共拓國際 AIDC 市場",
+    "date": "2026-06-04 16:09:05"
+  },
+  {
+    "link": "https://techorange.com/2026/06/04/ai-tracking-jpmorgan-meta-kpmg-employees-tokenmaxxing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI ROI 不能只看採用率：JPMorgan、Meta 推追蹤機制，為何引爆失真與隱私危機？",
+    "date": "2026-06-04 15:47:30"
+  },
+  {
+    "link": "https://techorange.com/2026/06/04/delta-800-vdc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 算力競賽下一個瓶頸是電力：台達電源及系統事業群副總經理鄭謝雄解析 800 VDC 架構、液冷與數位孿生如何重構資料中心？",
+    "date": "2026-06-04 15:40:24"
+  },
+  {
+    "link": "https://techorange.com/2026/06/04/2026-meta-business-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Meta 推 Business Agent 押注 AI 代理：從投放工具到企業營運入口，打破廣告單一營收",
+    "date": "2026-06-04 14:38:48"
+  },
+  {
+    "link": "https://techorange.com/2026/06/04/audi-ai-weld-splatter-detection/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "攻克汽車業 90% 無法自動化的盲區，奧迪用「AI + 機器人」重塑高勞動強度產線",
+    "date": "2026-06-04 13:00:27"
+  },
+  {
     "link": "https://techorange.com/2026/06/04/google-gemma-4-12b/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "16GB 筆電就能跑多模態模型、AI Agent？Google 發表 Gemma 4 12B 揭企業 AI 新需求",
     "date": "2026-06-04 12:10:55"
@@ -43,35 +73,5 @@
     "link": "https://techorange.com/2026/06/03/coros/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【運動手錶也要有 AI】讓 AI 真正理解運動員的身體狀態，為何 Coros 押注語音輸入？",
     "date": "2026-06-03 10:46:37"
-  },
-  {
-    "link": "https://techorange.com/2026/06/03/nvidia-reinvents-ai-pc-google-raises-80-billion-computex-pushes-ai-infra-race-into-new-phase/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】NVIDIA 重做 AI PC、Google 募資 800 億美元，COMPUTEX 把 AI 基建戰推向新一輪",
-    "date": "2026-06-03 06:50:00"
-  },
-  {
-    "link": "https://techorange.com/2026/06/02/intel-computex-2026-keynote/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "陳立武上任 14 個月後首度亮牌：Intel 如何押注代理式 AI、客製化晶片與機架級系統？",
-    "date": "2026-06-02 20:50:58"
-  },
-  {
-    "link": "https://techorange.com/2026/06/02/arm-nvidia-computex/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "搭載 Arm 架構的 NVIDIA RTX Spark，重新定義代理式 AI 時代的個人電腦",
-    "date": "2026-06-02 19:12:26"
-  },
-  {
-    "link": "https://techorange.com/2026/06/02/nexcom-qualcomm-computex/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "NEXCOM 新漢集團攜手高通於 COMPUTEX 推動具身 AI 機器人發展，打造高效能開發平台",
-    "date": "2026-06-02 19:04:23"
-  },
-  {
-    "link": "https://techorange.com/2026/06/02/finance-stocks-openai-anthropic-ipo-race/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "巨頭 IPO 資金爭奪戰：Anthropic、OpenAI 搶上市，誰能取得公開市場定價權？",
-    "date": "2026-06-02 18:27:43"
-  },
-  {
-    "link": "https://techorange.com/2026/06/02/taiwan-ai-education/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【戴季全專欄】大家都知道會 AI 的人會取代不會 AI 的人，你的孩子會 AI 了嗎？",
-    "date": "2026-06-02 18:16:11"
   }
 ]
