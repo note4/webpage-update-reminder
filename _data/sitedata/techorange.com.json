@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/06/04/tech-sovereignty-ai-eu-cada/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "主權 AI 進入 2.0 時代：歐盟 CADA 草案將以 4 大主權評級看「終止開關」風險",
+    "date": "2026-06-04 18:22:10"
+  },
+  {
+    "link": "https://techorange.com/2026/06/04/trendforce-nvidia-windows-on-arm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "TrendForce：NVIDIA 加入 Windows on Arm 陣營，推升 Arm 架構 AI 筆電 2029 年滲透率達 34.2%",
+    "date": "2026-06-04 18:08:58"
+  },
+  {
+    "link": "https://techorange.com/2026/06/04/itri-auvsi-green-uas/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "工研院攜手 AUVSI 推動 Green UAS 認可評鑑：　助攻無人機產業接軌國際市場，漢翔率先導入測試驗證",
+    "date": "2026-06-04 17:08:53"
+  },
+  {
+    "link": "https://techorange.com/2026/06/04/microsoft-build-2026-sk-hinix-capacity-expansion-nvidia-robotaxi-kaohsiung/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【科技早餐】Microsoft 七款自研模型拉高 AI 平台戰，SK 海力士擴產、NVIDIA Robotaxi 鎖定高雄",
+    "date": "2026-06-04 16:30:55"
+  },
+  {
     "link": "https://techorange.com/2026/06/04/advantech-weda/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "研華搭 COMPUTEX 熱潮舉辦全球夥伴大會，力推 Physical AI 與 WEDA 架構",
     "date": "2026-06-04 16:18:55"
@@ -18,6 +38,11 @@
     "link": "https://techorange.com/2026/06/04/delta-800-vdc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 算力競賽下一個瓶頸是電力：台達電源及系統事業群副總經理鄭謝雄解析 800 VDC 架構、液冷與數位孿生如何重構資料中心？",
     "date": "2026-06-04 15:40:24"
+  },
+  {
+    "link": "https://techorange.com/2026/06/04/microsoft-majorana-2-agentic-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "微軟發表最新 Majorana 2 量子處理器，透過 Agentic AI 讓新的量子晶片可靠性提升 1,000 倍",
+    "date": "2026-06-04 15:00:00"
   },
   {
     "link": "https://techorange.com/2026/06/04/2026-meta-business-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -48,30 +73,5 @@
     "link": "https://techorange.com/2026/06/03/techman-robot-computex-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "從數位孿生到實體生產力：達明機器人定義 Physical AI 落地關鍵，發表「端到端開發套件」打通 AI 供應鏈最後一哩路",
     "date": "2026-06-03 18:24:00"
-  },
-  {
-    "link": "https://techorange.com/2026/06/03/linkedin-new-agentic-ai-jobs-mckinsey-linkedin-coming/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 已催生 130 萬個新型職位：《富比士》點名 20 種 Agentic AI 人才，企業組織圖正在改寫",
-    "date": "2026-06-03 17:38:22"
-  },
-  {
-    "link": "https://techorange.com/2026/06/03/to-ai-ready-newsletter-upgrade/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "TechOrange 推出《 AI Ready 電子報 》，用 AI Agent 幫你掌握 AI 與機器人最新動態",
-    "date": "2026-06-03 16:46:06"
-  },
-  {
-    "link": "https://techorange.com/2026/06/03/microsoft-ai-project-solara-build-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "微軟 Build 大會公開 Project Solara：AI Agent 走進企業現場裝置，改寫傳統 App 模式",
-    "date": "2026-06-03 14:33:43"
-  },
-  {
-    "link": "https://techorange.com/2026/06/03/computex-gigabyte-inventec-wiwynn/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 算力進入部署期：COMPUTEX 2026 看技嘉、英業達、緯穎如何打造可商業化的 AI 基礎設施？",
-    "date": "2026-06-03 13:25:32"
-  },
-  {
-    "link": "https://techorange.com/2026/06/03/coros/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【運動手錶也要有 AI】讓 AI 真正理解運動員的身體狀態，為何 Coros 押注語音輸入？",
-    "date": "2026-06-03 10:46:37"
   }
 ]
