@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
+    "title": "[英] External Clock Generation on RTX 50 Series",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://arxiv.org/abs/2604.24881",
+    "title": "[英] Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://arxiv.org/abs/2606.04032",
+    "title": "[英] Do Transformers Need Three Projections? Systematic Study of QKV Variants",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://docodethatmatters.com/the-infinite-echo-state-mirror-bug/",
+    "title": "[英] My two light switches got stuck in an infinite echo loop",
+    "date": "2026-06-05"
+  },
+  {
     "link": "https://hitoku.me/draft/",
     "title": "[英] Show HN: Hitoku Draft – Context aware local assistant",
     "date": "2026-06-05"
@@ -52,26 +72,6 @@
   {
     "link": "https://tiki.li/blog/blqsort",
     "title": "[英] Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
-    "title": "[英] NSA using Anthropic's Mythos for cyber attacks",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/",
-    "title": "[英] Iran Shock Jolts Asia and Europe to Speed Up Energy Transition",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://www.newyorker.com/culture/the-lede/the-men-who-lie-about-their-height",
-    "title": "[英] Most men lie about how tall they are",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://github.com/tejaswigowda/ffmpeg-webCLI",
-    "title": "[英] Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
     "date": "2026-06-05"
   }
 ]
