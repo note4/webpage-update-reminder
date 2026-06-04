@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/",
+    "title": "[英] Meteor Explodes over Massachusetts",
+    "date": "2026-06-04"
+  },
+  {
+    "link": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
+    "title": "[英] Journey to JPEG XL: open-source experiments shaped the future of image coding",
+    "date": "2026-06-04"
+  },
+  {
+    "link": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
+    "title": "[英] A Mathematician's Lament – Paul Lockhart (2002) [pdf]",
+    "date": "2026-06-04"
+  },
+  {
     "link": "https://github.com/tastyeffectco/sandboxes",
     "title": "[英] Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
     "date": "2026-06-04"
@@ -57,21 +72,6 @@
   {
     "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
     "title": "[英] Elixir v1.20: Now a gradually typed language",
-    "date": "2026-06-04"
-  },
-  {
-    "link": "https://jxself.org/stop-killing-games.shtml",
-    "title": "[英] Stop Killing Games",
-    "date": "2026-06-04"
-  },
-  {
-    "link": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
-    "title": "[英] Embryos shape their limbs: a key discovery of \"genetic brakes\"",
-    "date": "2026-06-04"
-  },
-  {
-    "link": "https://radar.cloudflare.com/traffic#bot-vs-human",
-    "title": "[英] Bot vs human traffic",
     "date": "2026-06-04"
   }
 ]
