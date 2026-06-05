@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://sakana.ai/rsi-lab/",
+    "title": "[英] Sakana AI's Recursive Self-Improvement (RSI) Lab",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://mail.blockworks.com/p/how-fake-money-built-america",
+    "title": "[英] Fake Money Built America",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://roadragers.netlify.app/",
+    "title": "[英] Bullets don't shoot people. So why do cars 'kill' cyclists?",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://aibenchy.com/ro/showcase/hamster-playing-table-tennis-svg/",
+    "title": "[英] SVG of a Hamster Playing Table-Tennis",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://amiunc.com/",
+    "title": "[英] Am I Unc?",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://www.adyen.com/press-and-media/adyen-payments-gov-uk",
+    "title": "[英] Adyen Selected as Payment Services Provider for GOV.UK Pay",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+    "title": "[英] Gov.uk goes Dutch on payments as it dumps Stripe",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "title": "[英] Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://github.com/icflorescu/mantine-datatable/discussions/813",
+    "title": "[英] Mantine-datatable (and others) compromised – owner account suspended",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+    "title": "[英] New method turns ocean water into drinking water, without waste",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48414869",
+    "title": "[英] Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/",
+    "title": "[英] U.S. Military Turned GPS into a Global \"Numbers Station\"",
+    "date": "2026-06-06"
+  },
+  {
     "link": "https://github.com/microsoft/pg_durable",
     "title": "[英] pg_durable: Microsoft open sources in-database durable execution",
     "date": "2026-06-06"
@@ -11,67 +71,7 @@
   },
   {
     "link": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-    "title": "[英] Stop Using Conventional Commits",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48413629",
-    "title": "[英] Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://sharedphysics.com/good-careers-at-bad-companies/",
-    "title": "[英] Good Careers at Bad Companies",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
-    "title": "[英] Dutch gov't will only allow European company to operate DigiD platform",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-    "title": "[英] I tested every IP KVM in my Homelab",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://fagnerbrack.com/technical-interviews-reject-the-wrong-engineers-a8e78ca04b2e",
-    "title": "[英] Technical Interviews Reject the Wrong Engineers",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
-    "title": "[英] India's surprise baby bust is a warning to the world",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-    "title": "[英] Astronauts on ISS told to shelter as repairs under way to fix air leaks",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://scienceaim.com/new-york-just-passed-a-one-year-temporary-ban-on-data-centers/",
-    "title": "[英] New York just passed a one-year temporary ban on data centers",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://giovannigatti.github.io/cve-bench/",
-    "title": "[英] Show HN: I benchmarked LLM agents on fixing real-world security vulnerabilities",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://adblock.turtlecute.org/",
-    "title": "[英] Ad Blocker Test – Check If Your Ad Blocker Works",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-    "title": "[英] Cooldown Support for Ruby Bundler",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
-    "title": "[英] Programmers will document for Claude, but not for each other",
+    "title": "[英] Conventional Commits is a bad standard that encourages focus on the wrong things",
     "date": "2026-06-06"
   }
 ]
