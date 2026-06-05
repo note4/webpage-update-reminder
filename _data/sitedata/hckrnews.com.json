@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+    "title": "[英] Hacker News, Sans AI",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://www.human-made.work/",
+    "title": "[英] Let's celebrate work that is 100% human-made",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+    "title": "[英] Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+    "date": "2026-06-06"
+  },
+  {
     "link": "https://superlemon.bearblog.dev/the-company-i-work-for-is-losing-all-of-its-humanity-but-i-dont-know-where-else-to-go/",
     "title": "[英] The company I work for is losing all of its humanity, I don't know where to go",
     "date": "2026-06-06"
@@ -57,21 +72,6 @@
   {
     "link": "https://mail.blockworks.com/p/how-fake-money-built-america",
     "title": "[英] Fake Money Built America",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://roadragers.netlify.app/",
-    "title": "[英] Bullets don't shoot people. So why do cars 'kill' cyclists?",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://aibenchy.com/ro/showcase/hamster-playing-table-tennis-svg/",
-    "title": "[英] SVG of a Hamster Playing Table-Tennis",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://amiunc.com/",
-    "title": "[英] Am I Unc?",
     "date": "2026-06-06"
   }
 ]
