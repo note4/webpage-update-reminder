@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/06/05/anthropic-taiwan-ai-cybersecurity-trust/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "「沒有台灣就沒有 Anthropic。」Anthropic 高層來台，點名台灣在 AI 生態系三個不可取代的角色",
+    "date": "2026-06-05 19:28:19"
+  },
+  {
+    "link": "https://techorange.com/2026/06/05/trendai-anthropic-project-glasswing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "趨勢科技加入 Anthropic Project Glasswing：將前沿 AI 模型化為防禦武器，守住台灣 AI 供應鏈防線",
+    "date": "2026-06-05 18:45:56"
+  },
+  {
     "link": "https://techorange.com/2026/06/05/walmart-code-puppy-ai-anthropic-claude-openai-codex/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "不把雞蛋放在同一個 AI 供應商籃子裡：Walmart 自研 Code Puppy，降低模型依賴風險",
     "date": "2026-06-05 16:37:57"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/06/04/ai-tracking-jpmorgan-meta-kpmg-employees-tokenmaxxing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI ROI 不能只看採用率：JPMorgan、Meta 推追蹤機制，為何引爆失真與隱私危機？",
     "date": "2026-06-04 15:47:30"
-  },
-  {
-    "link": "https://techorange.com/2026/06/04/delta-800-vdc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 算力競賽下一個瓶頸是電力：台達電源及系統事業群副總經理鄭謝雄解析 800 VDC 架構、液冷與數位孿生如何重構資料中心？",
-    "date": "2026-06-04 15:40:24"
-  },
-  {
-    "link": "https://techorange.com/2026/06/04/microsoft-majorana-2-agentic-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "微軟發表最新 Majorana 2 量子處理器，透過 Agentic AI 讓新的量子晶片可靠性提升 1,000 倍",
-    "date": "2026-06-04 15:00:00"
   }
 ]
