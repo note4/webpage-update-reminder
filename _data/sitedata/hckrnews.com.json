@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://github.com/microsoft/pg_durable",
+    "title": "[英] pg_durable: Microsoft open sources in-database durable execution",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
+    "title": "[英] Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "title": "[英] Stop Using Conventional Commits",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48413629",
+    "title": "[英] Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://sharedphysics.com/good-careers-at-bad-companies/",
+    "title": "[英] Good Careers at Bad Companies",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+    "title": "[英] Dutch gov't will only allow European company to operate DigiD platform",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+    "title": "[英] I tested every IP KVM in my Homelab",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://fagnerbrack.com/technical-interviews-reject-the-wrong-engineers-a8e78ca04b2e",
+    "title": "[英] Technical Interviews Reject the Wrong Engineers",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
+    "title": "[英] India's surprise baby bust is a warning to the world",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "title": "[英] Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://scienceaim.com/new-york-just-passed-a-one-year-temporary-ban-on-data-centers/",
+    "title": "[英] New York just passed a one-year temporary ban on data centers",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://giovannigatti.github.io/cve-bench/",
+    "title": "[英] Show HN: I benchmarked LLM agents on fixing real-world security vulnerabilities",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://adblock.turtlecute.org/",
+    "title": "[英] Ad Blocker Test – Check If Your Ad Blocker Works",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+    "title": "[英] Cooldown Support for Ruby Bundler",
+    "date": "2026-06-06"
+  },
+  {
     "link": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
     "title": "[英] Programmers will document for Claude, but not for each other",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://freenet.monster/china-unicom.html?lang=en",
-    "title": "[英] Investigation: Russian censorship systems (TMCT) expose Chinese DPI signatures",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://mouseless.click",
-    "title": "[英] Mouseless – keyboard-driven control of macOS/Linux/Windows",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://alexispurslane.github.io/rsync-analysis/",
-    "title": "[英] Did Claude Increase Bugs in Rsync?",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
-    "title": "[英] US tobacco firms applied tobacco strategies to globalize ultra-processed foods",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48410769",
-    "title": "[英] undefined",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://nango.dev/careers",
-    "title": "[英] Nango (YC W23, dev infra) is hiring staff back end engineers",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://redis.io/blog/announcing-redis-8-8/",
-    "title": "[英] Redis 8.8: New array data structure, rate limiter, performance improvements",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://bjhess.com/posts/do-we-need-billionaires",
-    "title": "[英] Do We Need Billionaires?",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://github.com/zdk/lowfat",
-    "title": "[英] Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
-    "title": "[英] Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://oldster.substack.com/p/at-the-autograph-show",
-    "title": "[英] At the Autograph Show",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48410589",
-    "title": "[英] Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
-    "title": "[英] Lee Kuan Yew's Singapore Story",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://github.com/prostomarkeloff/ohbin",
-    "title": "[英] Ohbin – uv wrapper for installing tools from GitHub",
-    "date": "2026-06-05"
+    "date": "2026-06-06"
   }
 ]
