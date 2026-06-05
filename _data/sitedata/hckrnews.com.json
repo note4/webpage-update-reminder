@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://github.com/a-yiorgos/wambook",
+    "title": "[英] Warren's Abstract Machine: A Tutorial Reconstruction",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers",
+    "title": "[英] Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers",
+    "date": "2026-06-06"
+  },
+  {
     "link": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
     "title": "[英] Microsoft wants users to be addicted to Scout, their AI personal assistant",
     "date": "2026-06-06"
@@ -62,16 +72,6 @@
   {
     "link": "https://fremaconsulting.ch/blog/faiss",
     "title": "[英] Inside FAISS: Billion-Scale Similarity Search",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
-    "title": "[英] Cloudflare CEO is lying to you about the bot traffic jump",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-    "title": "[英] My Agent Skill for Test-Driven Development",
     "date": "2026-06-06"
   }
 ]
