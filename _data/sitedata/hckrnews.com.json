@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://github.com/connglli/Reify",
+    "title": "[英] Semantic reification: how to generate UB-free code with arbitrary control flow?",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://github.com/alibaba/open-code-review",
+    "title": "[英] Open Code Review – An AI-powered code review CLI tool",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://bricksandminifigs.com/blog/blog/2026/06/04/bricks-and-minifigs-salem-joshua-johnson-brandon-best-resignation/",
+    "title": "[英] Bricks and Minifigs Parts Ways with Franchise Owners",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://fb.watch/HxPu0fSyeH/",
+    "title": "[英] Meta enables adb on deprecated Portal devices",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://github.com/tarpediem/zenvision-linux",
+    "title": "[英] Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://electrek.co/2026/06/04/white-house-will-dump-700m-of-public-funds-into-costly-unreliable-coal-again/",
+    "title": "[英] White House will dump $700M of public funds into costly, unreliable coal again",
+    "date": "2026-06-05"
+  },
+  {
+    "link": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
+    "title": "[英] WSL 2 is getting faster Windows file system access",
+    "date": "2026-06-05"
+  },
+  {
     "link": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
     "title": "[英] External Clock Generation on RTX 50 Series",
     "date": "2026-06-05"
@@ -11,7 +46,7 @@
   },
   {
     "link": "https://arxiv.org/abs/2606.04032",
-    "title": "[英] Do Transformers Need Three Projections? Systematic Study of QKV Variants",
+    "title": "[英] Do transformers need three projections? Systematic study of QKV variants",
     "date": "2026-06-05"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
     "title": "[英] I'm skeptical about efforts to revolutionize schooling",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://www.mercek.dev/",
-    "title": "[英] Show HN: Mercek – A Desktop IDE for AWS ECS",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48398358",
-    "title": "[英] Ask HN: Gin rummy strategies",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://github.com/schildep/verified-polygon-intersection",
-    "title": "[英] Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48396218",
-    "title": "[英] Ask HN: Spent thousands, got no customers. What's wrong with my site?",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48402378",
-    "title": "[英] Ask HN: Time loop and partial blackhole?",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48403614",
-    "title": "[英] Ask HN: High school student – is learning programming still worthwhile?",
-    "date": "2026-06-05"
-  },
-  {
-    "link": "https://tiki.li/blog/blqsort",
-    "title": "[英] Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
     "date": "2026-06-05"
   }
 ]
