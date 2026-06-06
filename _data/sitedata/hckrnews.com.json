@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://tech.wmg.com/why-we-shrank-our-timescaledb-chunks-from-30-days-to-7-07cab8afefc5",
+    "title": "[英] We shrank our TimescaleDB chunks from 30 days to 7",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://www.autodidacts.io/social-cache-busting/",
+    "title": "[英] Social Cache Busting",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://meetfranz.com/blog/ten-years-of-franz",
+    "title": "[英] Ten Years of Franz",
+    "date": "2026-06-06"
+  },
+  {
     "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
     "title": "[英] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
     "date": "2026-06-06"
@@ -11,7 +26,7 @@
   },
   {
     "link": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-    "title": "[英] C++: The Programming Language back cover raises questions not answered by front",
+    "title": "[英] The back cover of C++: The Language raises questions not answered by front cover",
     "date": "2026-06-06"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://classic100.gotski.workers.dev/",
     "title": "[英] Show HN: ABC Classic 100 Rankings visualised",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "title": "[英] The intracies of modern camera lens repair (2024)",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "title": "[英] The perils of UUID primary keys in SQLite",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://github.com/a-yiorgos/wambook",
-    "title": "[英] Warren's Abstract Machine: A Tutorial Reconstruction",
     "date": "2026-06-06"
   }
 ]
