@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html",
+    "title": "[英] Europe's largest Copper Age tomb: children's bones show ancient health crisis",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0",
+    "title": "[英] Nordstjernen Web Browser 1.0.0 released",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://classic100.gotski.workers.dev/",
+    "title": "[英] Show HN: ABC Classic 100 Rankings visualised",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://salvagedcircuitry.com/sigma-45mm.html",
+    "title": "[英] The intracies of modern camera lens repair (2024)",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+    "title": "[英] The perils of UUID primary keys in SQLite",
+    "date": "2026-06-06"
+  },
+  {
     "link": "https://github.com/a-yiorgos/wambook",
     "title": "[英] Warren's Abstract Machine: A Tutorial Reconstruction",
     "date": "2026-06-06"
@@ -20,8 +45,8 @@
     "date": "2026-06-06"
   },
   {
-    "link": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer",
-    "title": "[英] The Empty Field That Wasn't: GPS, OTAD and Two Decades of Encrypted Broadcasts",
+    "link": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
+    "title": "[英] The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
     "date": "2026-06-06"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://twitter.com/eastdakota/status/2062860530360959273",
     "title": "[英] Three of our worst VC stories",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
-    "title": "[英] Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48406174",
-    "title": "[英] Ask HN: What was your \"oh shit\" moment with GenAI?",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://openreview.net/pdf?id=Yxz92UuPLQ",
-    "title": "[英] Transformers Are Inherently Succinct",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://justinjackson.ca/hard-thing",
-    "title": "[英] Do the Hardest Thing",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://fremaconsulting.ch/blog/faiss",
-    "title": "[英] Inside FAISS: Billion-Scale Similarity Search",
     "date": "2026-06-06"
   }
 ]
