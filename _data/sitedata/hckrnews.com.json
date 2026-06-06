@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/",
+    "title": "[英] Lambda isn't leaking memory, your metrics are lying to you",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://ntsc.rs/",
+    "title": "[英] Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "title": "[英] Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "date": "2026-06-07"
+  },
+  {
     "link": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
     "title": "[英] WoofWare.PawPrint, a Deterministic .NET Runtime",
     "date": "2026-06-07"
@@ -57,21 +72,6 @@
   {
     "link": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
     "title": "[英] Police in England and Wales told to halt AI use in court statements",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://www.todepond.com/lab/splash/",
-    "title": "[英] Splash Is a Colour Format",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48425466",
-    "title": "[英] undefined",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-    "title": "[英] Moving beyond fork() + exec()",
     "date": "2026-06-07"
   }
 ]
