@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://arxiv.org/abs/2606.05818",
+    "title": "[英] Benchmarks in Leipzig",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+    "title": "[英] Building Rust Procedural Macros from the Grounds Up",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+    "title": "[英] Meta Keeps Delaying the Release of Its New AI Model to Developers",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://twitter.com/lemire/status/2062880075117113739",
+    "title": "[英] Nvidia is proposing a beast of a CPU system for Windows PCs",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://pokeemerald.com/",
+    "title": "[英] Pokemon Emerald Ported to WebAssembly (100k FPS)",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
+    "title": "[英] The new bibliomaniacs",
+    "date": "2026-06-06"
+  },
+  {
     "link": "https://phys.org/news/2026-06-mathematician-origami-donut-efficiency-fewest.html",
     "title": "[英] Mathematician solves origami donut efficiency challenge with fewest folds",
     "date": "2026-06-06"
@@ -20,13 +50,13 @@
     "date": "2026-06-06"
   },
   {
-    "link": "https://www.resumebuilder.com/1-in-6-hiring-managers-have-been-told-to-stop-hiring-white-men/",
-    "title": "[英] 1 in 6 Hiring Managers Have Been Told to Stop Hiring White Men",
+    "link": "https://github.com/valivalivali/x-os",
+    "title": "[英] Is anyone here interested in contributing to this OS?",
     "date": "2026-06-06"
   },
   {
-    "link": "https://github.com/valivalivali/x-os",
-    "title": "[英] Is anyone here interested in contributing to this OS?",
+    "link": "https://news.ycombinator.com/item?id=48424124",
+    "title": "[英] undefined",
     "date": "2026-06-06"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf",
     "title": "[英] Do women’s mate preferences change across the ovulatory cycle? (2014) [pdf]",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "title": "[英] The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://www.computesdk.com/blog/scale-invitational-update/",
-    "title": "[英] What 100k concurrent sandboxes has taught us so far",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://fgiesen.wordpress.com/2024/11/06/exact-unorm8-to-float/",
-    "title": "[英] Exact UNORM8 to Float",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
-    "title": "[英] Azure Linux Desktop",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
-    "title": "[英] Zig Zen Update",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
-    "title": "[英] GrapheneOS user reported to authorities for using GrapheneOS",
     "date": "2026-06-06"
   }
 ]
