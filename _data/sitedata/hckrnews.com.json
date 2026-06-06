@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.science.org/doi/10.1126/science.aec7671",
+    "title": "[英] Home alone: Remote work, isolation, and mental health",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+    "title": "[英] Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://leimao.github.io/blog/PyTorch-Custom-Operation/",
+    "title": "[英] PyTorch Custom Operation",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://universalmemoryprotocol.io/",
+    "title": "[英] Universal Memory Protocol – a shared format for agent memory",
+    "date": "2026-06-07"
+  },
+  {
     "link": "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/",
     "title": "[英] Lambda isn't leaking memory, your metrics are lying to you",
     "date": "2026-06-07"
@@ -52,26 +72,6 @@
   {
     "link": "https://su3.io/posts/introducing-zeroserve",
     "title": "[英] Zeroserve: A zero-config web server you can script with eBPF",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.00414",
-    "title": "[英] Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
-    "title": "[英] Running Python code in a sandbox with MicroPython and WASM",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://hamishcampbell.com/ai-didnt-break-the-web-the-dotcons-did-ai-just-turned-up-the-volume/",
-    "title": "[英] AI didn't break the web. The dotcons did – AI just turned up the volume",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
-    "title": "[英] Police in England and Wales told to halt AI use in court statements",
     "date": "2026-06-07"
   }
 ]
