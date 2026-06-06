@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://fgiesen.wordpress.com/2024/11/06/exact-unorm8-to-float/",
+    "title": "[英] Exact UNORM8 to Float",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
+    "title": "[英] Azure Linux Desktop",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
+    "title": "[英] Zig Zen Update",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
+    "title": "[英] GrapheneOS user reported to authorities for using GrapheneOS",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://andeplane.github.io/Raytracing/",
+    "title": "[英] Raytracing Geometries in 3D Rendering",
+    "date": "2026-06-06"
+  },
+  {
     "link": "https://tech.wmg.com/why-we-shrank-our-timescaledb-chunks-from-30-days-to-7-07cab8afefc5",
     "title": "[英] We shrank our TimescaleDB chunks from 30 days to 7",
     "date": "2026-06-06"
@@ -47,31 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48420827",
     "title": "[英] Ask HN: Why is the HN crowd so anti-AI?",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "title": "[英] How LLMs work",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://nypost.com/2026/06/04/health/alzheimers-patient-recovers-speech-continence-and-memory-with-this-drug/",
-    "title": "[英] Alzheimer's patient gets back speech, bladder control and memory in drug trial",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html",
-    "title": "[英] Europe's largest Copper Age tomb: children's bones show ancient health crisis",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0",
-    "title": "[英] Nordstjernen 1.0",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://classic100.gotski.workers.dev/",
-    "title": "[英] Show HN: ABC Classic 100 Rankings visualised",
     "date": "2026-06-06"
   }
 ]
