@@ -1,12 +1,57 @@
 [
   {
+    "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "title": "[英] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://irfanali.org/blog/zcom",
+    "title": "[英] No Let, No Rec, No Problem: A Gentler Introduction to the Y and Z Combinators",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+    "title": "[英] C++: The Programming Language back cover raises questions not answered by front",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+    "title": "[英] Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://medium.com/@carlmkadie/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215",
+    "title": "[英] Nine Ways to Do Inheritance in Rust, a Language Without Inheritance",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+    "title": "[英] Lockdown Mode",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48420827",
+    "title": "[英] Ask HN: Why is the HN crowd so anti-AI?",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "title": "[英] How LLMs work",
+    "date": "2026-06-06"
+  },
+  {
+    "link": "https://nypost.com/2026/06/04/health/alzheimers-patient-recovers-speech-continence-and-memory-with-this-drug/",
+    "title": "[英] Alzheimer's patient gets back speech, bladder control and memory in drug trial",
+    "date": "2026-06-06"
+  },
+  {
     "link": "https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html",
     "title": "[英] Europe's largest Copper Age tomb: children's bones show ancient health crisis",
     "date": "2026-06-06"
   },
   {
     "link": "https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0",
-    "title": "[英] Nordstjernen Web Browser 1.0.0 released",
+    "title": "[英] Nordstjernen 1.0",
     "date": "2026-06-06"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://github.com/a-yiorgos/wambook",
     "title": "[英] Warren's Abstract Machine: A Tutorial Reconstruction",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers",
-    "title": "[英] Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
-    "title": "[英] Microsoft wants users to be addicted to Scout, their AI personal assistant",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://ldstephens.net/posts/aging-and-eye-problems/",
-    "title": "[英] Aging and Eye Problems",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
-    "title": "[英] The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
-    "title": "[英] Hacker News, Sans AI",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://www.human-made.work/",
-    "title": "[英] Let's celebrate work that is 100% human-made",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-    "title": "[英] Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://superlemon.bearblog.dev/the-company-i-work-for-is-losing-all-of-its-humanity-but-i-dont-know-where-else-to-go/",
-    "title": "[英] The company I work for is losing all of its humanity, I don't know where to go",
-    "date": "2026-06-06"
-  },
-  {
-    "link": "https://twitter.com/eastdakota/status/2062860530360959273",
-    "title": "[英] Three of our worst VC stories",
     "date": "2026-06-06"
   }
 ]
