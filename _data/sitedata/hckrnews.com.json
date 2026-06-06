@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://back.engineering/blog/09/05/2026/",
+    "title": "[英] Static Devirtualization of Themida",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://social.bau-ha.us/@raganwald/116705256401454865",
+    "title": "[英] They are looting your life savings",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://ataraxy-labs.github.io/sem/",
+    "title": "[英] Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+    "title": "[英] New U.S. college grads now have higher unemployment than the average worker",
+    "date": "2026-06-07"
+  },
+  {
     "link": "https://www.science.org/doi/10.1126/science.aec7671",
     "title": "[英] Home alone: Remote work, isolation, and mental health",
     "date": "2026-06-07"
@@ -52,26 +72,6 @@
   {
     "link": "https://www.goto10retro.com/p/summer-of-85-dosbos-is-rejected-by",
     "title": "[英] Summer of '85: DOSBOS is rejected by ANALOG Computing",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
-    "title": "[英] You Can Run",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://uonr.github.io/poincake/",
-    "title": "[英] Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638",
-    "title": "[英] Python JIT project was asked to pause development",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://su3.io/posts/introducing-zeroserve",
-    "title": "[英] Zeroserve: A zero-config web server you can script with eBPF",
     "date": "2026-06-07"
   }
 ]
