@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+    "title": "[英] You Can Run",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://uonr.github.io/poincake/",
+    "title": "[英] Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
+    "date": "2026-06-07"
+  },
+  {
     "link": "https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638",
     "title": "[英] Python JIT project was asked to pause development",
     "date": "2026-06-07"
@@ -62,16 +72,6 @@
   {
     "link": "https://arxiv.org/abs/2606.05818",
     "title": "[英] Benchmarks in Leipzig",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
-    "title": "[英] Building Rust Procedural Macros from the Grounds Up",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
-    "title": "[英] Meta Keeps Delaying the Release of Its New AI Model to Developers",
     "date": "2026-06-07"
   }
 ]
