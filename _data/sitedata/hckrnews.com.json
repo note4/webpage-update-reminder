@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://openai.com/index/harness-engineering/",
+    "title": "[英] Harness engineering: Leveraging Codex in an agent-first world",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://github.com/guycipher/keybench",
+    "title": "[英] Show HN: Keybench – Scriptable, extensible performance tool for key value stores",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48430077",
+    "title": "[英] Show HN: Ironwall, a safety-first native programming language and compiler",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html",
+    "title": "[英] Unicode Fonts and Tools for X11",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list",
+    "title": "[英] DoD Officially Drops 180 Faiths from Military's Recognized Religion List",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://www.kernel.sh/blog/firecracker-faster",
+    "title": "[英] How to make firecracker faster to start Chromium in < 20ms",
+    "date": "2026-06-07"
+  },
+  {
     "link": "https://jacobin.com/2026/06/birth-rates-capitalism-socialism-germany",
     "title": "[英] No Babies? Blame Capitalism",
     "date": "2026-06-07"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
     "title": "[英] Computex 2026: Are We Heading for the Agentic PC Era Yet?",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://leimao.github.io/blog/PyTorch-Custom-Operation/",
-    "title": "[英] PyTorch Custom Operation",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://universalmemoryprotocol.io/",
-    "title": "[英] Universal Memory Protocol – a shared format for agent memory",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/",
-    "title": "[英] Lambda isn't leaking memory, your metrics are lying to you",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://ntsc.rs/",
-    "title": "[英] Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-    "title": "[英] Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
-    "title": "[英] WoofWare.PawPrint, a Deterministic .NET Runtime",
     "date": "2026-06-07"
   }
 ]
