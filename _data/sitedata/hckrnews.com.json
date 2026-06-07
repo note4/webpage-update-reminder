@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://fergusfinn.com/blog/kv-entropy-coder/",
+    "title": "[英] Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+    "title": "[英] Arithmetic Without Numbers – How LLMs Do Math",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://www.ioccc.org/2025/",
+    "title": "[英] The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://kristoff.it/blog/north-star/",
+    "title": "[英] My Software North Star",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "title": "[英] I design with Claude more than Figma now",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://drewdevault.com/blog/Circus-freaks-of-FOSS/",
+    "title": "[英] The circus freaks of open source",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://gwern.net/llm-catapult",
+    "title": "[英] Human-Like Neural Nets by Catapulting",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://respeak-io.github.io/lucide-motion-vue/",
+    "title": "[英] Show HN: Free animated icon library for Vue",
+    "date": "2026-06-07"
+  },
+  {
     "link": "https://pacever.org/",
     "title": "[英] PaceVer (an alternative to SemVer, for mobile apps)",
     "date": "2026-06-07"
@@ -32,46 +72,6 @@
   {
     "link": "https://github.com/las7/TakoVM",
     "title": "[英] Show HN: TakoVM – Isolated model and tool execution used by enterprises",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://www.semidoped.com/p/til-the-man-who-invented-the-future",
-    "title": "[英] The Russian who invented semiconductors 25 years before the USA",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://github.com/sauravrao637/oproxy",
-    "title": "[英] Show HN: Oproxy – inspect and modify network traffic from the browser",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
-    "title": "[英] Field of clones: How horse replicas came to dominate polo",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://biohub.org/news/world-model-of-protein-biology/",
-    "title": "[英] Biohub releases a world model of protein biology",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://arxiv.org/abs/2601.14470",
-    "title": "[英] Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
-    "title": "[英] An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://endler.dev/2026/how-other-link-checkers-recurse/",
-    "title": "[英] How Other Link Checkers Do Recursion",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://domaintasker.com/",
-    "title": "[英] Show HN: DomainTasker – avoid losing domains and surprise renewals",
     "date": "2026-06-07"
   }
 ]
