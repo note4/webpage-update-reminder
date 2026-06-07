@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://9mothers.com/careers",
+    "title": "[英] 9 Mothers (YC P26) Is Hiring",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
+    "title": "[英] The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://arxiv.org/abs/2606.04299",
+    "title": "[英] Efficient and Training-Free Single-Image Diffusion Models",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://blog.cloudflare.com/enforce-first-as-bgp/",
+    "title": "[英] Enforcing the First as in BGP AS_PATHs",
+    "date": "2026-06-07"
+  },
+  {
     "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
     "title": "[英] Scientists ejected from diabetes conference for distributing journal reprints",
     "date": "2026-06-07"
@@ -52,26 +72,6 @@
   {
     "link": "https://respeak-io.github.io/lucide-motion-vue/",
     "title": "[英] Show HN: Free animated icon library for Vue",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://pacever.org/",
-    "title": "[英] PaceVer (an alternative to SemVer, for mobile apps)",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://www.cl.cam.ac.uk/archive/rja14/tcpa-faq-1.0.html",
-    "title": "[英] Trusted Computing Frequently Asked Questions (2003)",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://github.com/hatearena/hate",
-    "title": "[英] HateArena – A free and open source arena shooter",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
-    "title": "[英] How Liminalism Became the Defining Aesthetic of Our Time",
     "date": "2026-06-07"
   }
 ]
