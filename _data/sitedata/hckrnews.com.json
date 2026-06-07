@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+    "title": "[英] Scientists ejected from diabetes conference for distributing journal reprints",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+    "title": "[英] Games Between Programs: The Ruliology of Competition",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "http://www.os2museum.com/wp/win16-memory-management/",
+    "title": "[英] Win16 Memory Management",
+    "date": "2026-06-07"
+  },
+  {
     "link": "https://fergusfinn.com/blog/kv-entropy-coder/",
     "title": "[英] Speculative KV coding: losslessly compressing KV cache by up to ~4×",
     "date": "2026-06-07"
@@ -57,21 +72,6 @@
   {
     "link": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
     "title": "[英] How Liminalism Became the Defining Aesthetic of Our Time",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://symbolica.io/posts/symbolica_2_0_release/",
-    "title": "[英] Symbolica 2.0: Programmable Symbols for Python and Rust",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-    "title": "[英] Valve P2P networking broken for more than 2 months",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://github.com/las7/TakoVM",
-    "title": "[英] Show HN: TakoVM – Isolated model and tool execution used by enterprises",
     "date": "2026-06-07"
   }
 ]
