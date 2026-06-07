@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
+    "title": "[英] What is the purpose of the lost+found folder in Linux and Unix?",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
+    "title": "[英] Powering up a module from the IBM 604: an electronic calculator from 1948",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+    "title": "[英] Proliferate (YC S25) is hiring to building open source Codex",
+    "date": "2026-06-08"
+  },
+  {
     "link": "https://ringmast4r.substack.com/p/in-1999-this-was-a-federal-crime",
     "title": "[英] Ripping a DVD, a federal crime in 1999, requires $22 and free software in 2026",
     "date": "2026-06-08"
@@ -31,7 +46,7 @@
   },
   {
     "link": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
-    "title": "[英] Podman 6: machine usability improvements",
+    "title": "[英] Podman 6: machine usability improvements (2025)",
     "date": "2026-06-08"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://github.com/devenjarvis/lathe",
     "title": "[英] Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/",
-    "title": "[英] Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://github.com/anthropics/claude-code/issues/65697",
-    "title": "[英] Anthropic, please ship an official Claude Desktop for Linux",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle",
-    "title": "[英] Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.",
     "date": "2026-06-08"
   }
 ]
