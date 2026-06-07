@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://github.com/devenjarvis/lathe",
+    "title": "[英] Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/",
+    "title": "[英] Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://github.com/anthropics/claude-code/issues/65697",
+    "title": "[英] Anthropic, please ship an official Claude Desktop for Linux",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle",
+    "title": "[英] Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "title": "[英] LLMs are eroding my software engineering career and I don't know what to do",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
+    "title": "[英] How Long Does It Take for a QQuickItem to Become Visible?",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://yon-lang.org/",
+    "title": "[英] Yon – a topos-oriented language with a content-addressed lattice heap",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://wilsoniumite.com/2026/06/07/we-need-vat-and-ubi/",
+    "title": "[英] We Need VAT and UBI",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://kyushu.dev/",
+    "title": "[英] Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://www.datamatastudios.com/careers",
+    "title": "[英] Only 2.5% of 12,779 tech job listings are entry-level",
+    "date": "2026-06-07"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=Qd5_5hXa8Zc",
+    "title": "[英] Firefox confirms working on own adblocker [video]",
+    "date": "2026-06-07"
+  },
+  {
     "link": "https://9mothers.com/careers",
     "title": "[英] 9 Mothers (YC P26) Is Hiring",
     "date": "2026-06-07"
@@ -17,61 +72,6 @@
   {
     "link": "https://blog.cloudflare.com/enforce-first-as-bgp/",
     "title": "[英] Enforcing the First as in BGP AS_PATHs",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-    "title": "[英] Scientists ejected from diabetes conference for distributing journal reprints",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
-    "title": "[英] Games Between Programs: The Ruliology of Competition",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "http://www.os2museum.com/wp/win16-memory-management/",
-    "title": "[英] Win16 Memory Management",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://fergusfinn.com/blog/kv-entropy-coder/",
-    "title": "[英] Speculative KV coding: losslessly compressing KV cache by up to ~4×",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
-    "title": "[英] Arithmetic Without Numbers – How LLMs Do Math",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://www.ioccc.org/2025/",
-    "title": "[英] The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://kristoff.it/blog/north-star/",
-    "title": "[英] My Software North Star",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-    "title": "[英] I design with Claude more than Figma now",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://drewdevault.com/blog/Circus-freaks-of-FOSS/",
-    "title": "[英] The circus freaks of open source",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://gwern.net/llm-catapult",
-    "title": "[英] Human-Like Neural Nets by Catapulting",
-    "date": "2026-06-07"
-  },
-  {
-    "link": "https://respeak-io.github.io/lucide-motion-vue/",
-    "title": "[英] Show HN: Free animated icon library for Vue",
     "date": "2026-06-07"
   }
 ]

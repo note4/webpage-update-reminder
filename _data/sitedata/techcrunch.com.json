@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+    "title": "[英] Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+    "date": "2026-06-07 22:00:00"
+  },
+  {
     "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
     "title": "[英] OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
     "date": "2026-06-07 04:32:24"
@@ -68,10 +73,5 @@
     "link": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
     "title": "[英] Supabase doubles valuation to $10B in 8 months",
     "date": "2026-06-06 00:32:27"
-  },
-  {
-    "link": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
-    "title": "[英] Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
-    "date": "2026-06-06 00:07:46"
   }
 ]
