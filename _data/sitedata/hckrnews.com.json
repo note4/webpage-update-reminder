@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://mojodojo.io/blog/google-just-made-you-a-search-quality-rater-you-won-t-get-paid",
+    "title": "[英] Google just made you a search quality rater. You won't get paid",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/",
+    "title": "[英] Flock license plate reader wrongly linked a San Diego man to a violent crime",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://bearisland.dev/posts/tokens-and-tokenization/",
+    "title": "[英] What Are Tokens in LLMs?",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609",
+    "title": "[英] Do we fear the serializable isolation level more than we fear subtle bugs?",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://arxiv.org/abs/2605.31514",
+    "title": "[英] If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://www.science.org/doi/10.1126/science.aei2409",
+    "title": "[英] The architecture of the internet creates risks for democracy",
+    "date": "2026-06-08"
+  },
+  {
     "link": "https://kelvinpaschal.com/blog/kernel-functions/",
     "title": "[英] A visual introduction to kernel functions",
     "date": "2026-06-08"
@@ -16,7 +46,7 @@
   },
   {
     "link": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-    "title": "[英] Building from Zero After Addiction, Prison, and a Felony",
+    "title": "[英] Building from zero after addiction, prison, and a felony",
     "date": "2026-06-08"
   },
   {
@@ -26,7 +56,7 @@
   },
   {
     "link": "https://nik.art/making-peace-with-your-unlived-dreams/",
-    "title": "[英] Making Peace with Your Unlived Dreams",
+    "title": "[英] Making peace with your unlived dreams (2023)",
     "date": "2026-06-08"
   },
   {
@@ -40,38 +70,8 @@
     "date": "2026-06-08"
   },
   {
-    "link": "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics",
-    "title": "[英] Leiden Declaration on Artificial Intelligence and Mathematics",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://www.alexself.dev/blog/automated-doubt",
-    "title": "[英] My automated doubt development process",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://github.com/yukiyokotani/office-open-xml-viewer",
-    "title": "[英] Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://gitlab.com/cznic/sqlite",
-    "title": "[英] sqlite: A CGo-free port of SQLite/SQLite3",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
-    "title": "[英] What is the purpose of the lost+found folder in Linux and Unix? (2014)",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
-    "title": "[英] Powering up a module from the IBM 604: an electronic calculator from 1948",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-    "title": "[英] Proliferate (YC S25) is hiring to building open source Codex",
+    "link": "https://news.ycombinator.com/item?id=48437442",
+    "title": "[英] undefined",
     "date": "2026-06-08"
   }
 ]
