@@ -1,7 +1,42 @@
 [
   {
+    "link": "https://nik.art/making-peace-with-your-unlived-dreams/",
+    "title": "[英] Making Peace with Your Unlived Dreams",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer",
+    "title": "[英] The curious case of low-protein diets",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://signoregalilei.com/2026/05/31/youll-never-guess-who-made-the-first-wireless-telephone/",
+    "title": "[英] You'll never guess who made the first wireless telephone",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics",
+    "title": "[英] Leiden Declaration on Artificial Intelligence and Mathematics",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://www.alexself.dev/blog/automated-doubt",
+    "title": "[英] My automated doubt development process",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://github.com/yukiyokotani/office-open-xml-viewer",
+    "title": "[英] Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://gitlab.com/cznic/sqlite",
+    "title": "[英] sqlite: A CGo-free port of SQLite/SQLite3",
+    "date": "2026-06-08"
+  },
+  {
     "link": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
-    "title": "[英] What is the purpose of the lost+found folder in Linux and Unix?",
+    "title": "[英] What is the purpose of the lost+found folder in Linux and Unix? (2014)",
     "date": "2026-06-08"
   },
   {
@@ -30,48 +65,13 @@
     "date": "2026-06-08"
   },
   {
-    "link": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
-    "title": "[英] Cloning a Sennheiser BA2015 battery pack",
-    "date": "2026-06-08"
-  },
-  {
     "link": "https://news.ycombinator.com/item?id=48435924",
     "title": "[英] undefined",
     "date": "2026-06-08"
   },
   {
-    "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122",
-    "title": "[英] Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
-    "title": "[英] Podman 6: machine usability improvements (2025)",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://leoveanu.com/2026-06-06-qwen3.7max/",
-    "title": "[英] The OnlyFans Economy of American AI",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://www.johndcook.com/blog/2026/06/04/partitions-over-permutations/",
-    "title": "[英] Partitions over Permutations",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://thenewstack.io/netlify-agent-experience-engineers/",
-    "title": "[英] Netlify CTO Dana Lawson: Writing code is no longer the job",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://andys.blog/the-best-relationships/",
-    "title": "[英] The best relationships are all-encompassing.",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://github.com/devenjarvis/lathe",
-    "title": "[英] Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+    "link": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
+    "title": "[英] Cloning a Sennheiser BA2015 battery pack",
     "date": "2026-06-08"
   }
 ]
