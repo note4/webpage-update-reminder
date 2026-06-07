@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged",
+    "title": "[英] Firefox Merges Support for Vulkan Video Decoding",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://motion.dev/magazine/collision-detection-in-hover-detection",
+    "title": "[英] Crashing cars and improving hover detection",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48439240",
+    "title": "[英] Ask HN: Are we as society going to let LLM companies take all the values?",
+    "date": "2026-06-08"
+  },
+  {
     "link": "https://github.com/ninoxAI/nightwatch",
     "title": "[英] Show HN: Nightwatch, The open-source, read-only AI SRE",
     "date": "2026-06-08"
@@ -57,21 +72,6 @@
   {
     "link": "https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609",
     "title": "[英] Do we fear the serializable isolation level more than we fear subtle bugs?",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.31514",
-    "title": "[英] If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://www.science.org/doi/10.1126/science.aei2409",
-    "title": "[英] The architecture of the internet creates risks for democracy",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://kelvinpaschal.com/blog/kernel-functions/",
-    "title": "[英] A visual introduction to kernel functions",
     "date": "2026-06-08"
   }
 ]
