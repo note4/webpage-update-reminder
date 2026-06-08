@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+    "title": "[英] Looking Forward to Postgres 19: Query Hints",
+    "date": "2026-06-09"
+  },
+  {
     "link": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
     "title": "[英] Doing Something That's Never Been Done Before",
     "date": "2026-06-09"
@@ -31,7 +36,7 @@
   },
   {
     "link": "https://gitdot.io/",
-    "title": "[英] Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust",
+    "title": "[英] Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
     "date": "2026-06-09"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
     "title": "[英] Apple reveals new AI architecture built around Google Gemini models",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://www.newyorker.com/magazine/2026/06/15/andrew-tates-empire-of-abuse",
-    "title": "[英] Andrew Tate's Empire of Abuse",
     "date": "2026-06-09"
   }
 ]
