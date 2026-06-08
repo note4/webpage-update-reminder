@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
+    "title": "[英] Doing Something That's Never Been Done Before",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://openai.com/index/openai-submits-confidential-s-1/",
+    "title": "[英] OpenAI Submits S-1 Draft to SEC",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://cognition.ai/blog/frontier-code",
+    "title": "[英] FrontierCode",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://github.com/NolanFogarty/courtside",
+    "title": "[英] Show HN: Courtside – TUI for NBA Games",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/",
+    "title": "[英] Fooling Go's X.509 Certificate Verification",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://github.com/currentspace/http3",
+    "title": "[英] Show HN: HTTP/3 and raw QUIC client/server APIs for Node.js",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://gitdot.io/",
+    "title": "[英] Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust",
+    "date": "2026-06-09"
+  },
+  {
     "link": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
     "title": "[英] Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
     "date": "2026-06-09"
@@ -37,41 +72,6 @@
   {
     "link": "https://www.newyorker.com/magazine/2026/06/15/andrew-tates-empire-of-abuse",
     "title": "[英] Andrew Tate's Empire of Abuse",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48449187",
-    "title": "[英] Ask HN: What are tools you have made for yourself since the advent of AI?",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://www.admin.ch/en/sustainability-initiative",
-    "title": "[英] Switzerland wil have a referendum to cap population at 10M",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://burrito.bio/essays/what-limits-a-cells-size",
-    "title": "[英] Why are cells small?",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/",
-    "title": "[英] Using XDG-Compliant Config Files – WxWidgets",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://www.notus.org/policy/irs-tax-processing-detail-hr-it-test",
-    "title": "[英] The IRS Moved IT and HR Staff to Process Taxes. It's Not Going Well",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/",
-    "title": "[英] Sam Bankman-Fried applies for a pardon from Trump",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://www.worksinprogress.news/p/good-design-is-ruining-american-flags",
-    "title": "[英] Why all new flags look the same",
     "date": "2026-06-09"
   }
 ]
