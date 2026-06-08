@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://unmeshed.io/blog/your-backend-is-full-of-hidden-workflows",
+    "title": "[英] Back end is full of hidden workflows",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://teenage.engineering/products/apc-2",
+    "title": "[英] Teenage Engineering: Introducing APC-2",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html",
+    "title": "[英] 7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
+    "title": "[英] A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://manticoresearch.com/blog/knn-early-termination/",
+    "title": "[英] KNN early termination in Manticore Search",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+    "title": "[英] The Smallest Brain You Can Build: A Perceptron in Python",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://www.reuters.com/business/aerospace-defense/us-troops-families-adjust-to-new-normal-iran-war-2026-06-07/",
+    "title": "[英] US troops, families adjust to new normal of Iran war",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://www.omniapartners.com/suppliers-files/E-J/Flock_Safety/Contract_Documents/R250203/5_29_2025_Flock_Safety_Omnia__R250203_Price_List.pdf",
+    "title": "[英] Flock Safety Price List [pdf]",
+    "date": "2026-06-08"
+  },
+  {
+    "link": "https://fagnerbrack.com/learn-php-in-2026-yes-really-bd567753dd84",
+    "title": "[英] Learn PHP in 2026 (Yes, Really)",
+    "date": "2026-06-08"
+  },
+  {
     "link": "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged",
     "title": "[英] Firefox Merges Support for Vulkan Video Decoding",
     "date": "2026-06-08"
@@ -27,51 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48439124",
     "title": "[英] undefined",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://vibeos.sh/",
-    "title": "[英] VibeOS: First ever AI-native operating system",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://www.tohoku.ac.jp/japanese/2026/05/press20260512-02-DMR.html",
-    "title": "[英] A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://nlkw.de/en/blog/getting-fried-part-1-cogentiv/",
-    "title": "[英] The week I lost the plot at a startup where the tools worked as advertised",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://www.absurdlyoptimized.com/recipes/pancakes/",
-    "title": "[英] Show HN: I Derived a Pancake",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://www.barchart.com/story/news/2339834/ai-data-centers-water-consumption-breaks-264-billion-gallons-in-2025-as-devastating-drought-hits-nearly-63-of-u-s",
-    "title": "[英] Data centers consumed 264B gallons of water as drought hits nearly 63% of US",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://mojodojo.io/blog/google-just-made-you-a-search-quality-rater-you-won-t-get-paid",
-    "title": "[英] Google just made you a search quality rater. You won't get paid",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/",
-    "title": "[英] Flock license plate reader wrongly linked a San Diego man to a violent crime",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://bearisland.dev/posts/tokens-and-tokenization/",
-    "title": "[英] What Are Tokens in LLMs?",
-    "date": "2026-06-08"
-  },
-  {
-    "link": "https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609",
-    "title": "[英] Do we fear the serializable isolation level more than we fear subtle bugs?",
     "date": "2026-06-08"
   }
 ]
