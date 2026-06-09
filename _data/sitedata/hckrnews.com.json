@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+    "title": "[英] Making Graphics Like it's 1993",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://arxiv.org/abs/1904.02539",
+    "title": "[英] An introduction to functional analysis for science and engineering",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://stratechery.com/2026/the-iphones-last-stand/",
+    "title": "[英] The iPhone's Last Stand",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/",
+    "title": "[英] The beauty and simplicity of the good old C-style void* in C++",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://github.com/luke8086/gentleos32",
+    "title": "[英] GentleOS – Classic operating system with a lovely retro GUI",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48458552",
+    "title": "[英] undefined",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/",
+    "title": "[英] Eagle Computer: The rise and fall of an early PC clone",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182",
+    "title": "[英] H2JVM – A Haskell Library for Writing JVM Bytecode",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
+    "title": "[英] Forever Young: how one molecule can lock plants in a youthful state (2025)",
+    "date": "2026-06-09"
+  },
+  {
     "link": "https://thi.ng",
     "title": "[英] Thi.ng – open-source building blocks for computational design and art",
     "date": "2026-06-09"
@@ -27,51 +72,6 @@
   {
     "link": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf",
     "title": "[英] Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://blog.aheymans.xyz/post/thinkpad_x61/",
-    "title": "[英] Porting the ThinkPad X61 to Coreboot",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://bernsteinbear.com/blog/inlining-heuristics/",
-    "title": "[英] A Survey of Inlining Heuristics",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48456104",
-    "title": "[英] undefined",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
-    "title": "[英] Job: Head of Stonehenge",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-    "title": "[英] GoGoGrandparent (YC S16) is hiring Back end Engineers",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://remy.wang/blog/cps.html",
-    "title": "[英] Passing DBs through continuations",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
-    "title": "[英] How much do amd64 microarchitecture levels help in Go?",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://oldavista.com/",
-    "title": "[英] Old'aVista – The most powerful guide to the old Internet",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://www.lttlabs.com/articles/2026/06/06/asus-test-server-tour",
-    "title": "[英] Asus GB300 NVL72 Test Lab Tour",
     "date": "2026-06-09"
   }
 ]

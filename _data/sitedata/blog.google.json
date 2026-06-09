@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/topics/google-europe/powering-the-future-of-robotics-in-europe/",
+    "title": "[英] Powering the future of robotics in Europe",
+    "date": "2026-06-09 18:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/bringing-gemini-models-to-apple-developers/",
     "title": "[英] Bringing the latest Gemini models to Apple developers",
     "date": "2026-06-09 07:45:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/products-and-platforms/platforms/google-pay/secure-identity-payment-tools/",
     "title": "[英] Bringing secure digital identity and payment tools to more people",
     "date": "2026-06-04 16:25:00"
-  },
-  {
-    "link": "https://blog.google/products/ads-commerce/youtube-mrc-accreditation-shorts/",
-    "title": "[英] YouTube earns industry's first MRC accreditation for short-form video.",
-    "date": "2026-06-04 00:00:00"
   }
 ]
