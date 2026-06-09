@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+    "title": "[英] RIP software hackathons. Long live the hardware hackathon",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
+    "title": "[英] Lies We Tell Ourselves About Email Addresses",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/",
+    "title": "[英] AI misidentification results in wrongful arrest; man seeks justice",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://alexandrefrancois.org/Resonate/",
+    "title": "[英] Show HN: Resonate – Low-latency, high-resolution spectral analysis",
+    "date": "2026-06-10"
+  },
+  {
     "link": "https://blog.gitbutler.com/true-grit",
     "title": "[英] Grit: Rewriting Git in Rust with Agents",
     "date": "2026-06-10"
@@ -52,26 +72,6 @@
   {
     "link": "https://github.com/DotFox/transit.c",
     "title": "[英] Show HN: Transit-format (JSON/MessagePack) reader/writer in C",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://nango.dev/blog/how-nango-runs-untrusted-customer-code-at-scale/",
-    "title": "[英] How we run untrusted customer code at scale",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
-    "title": "[英] Test-case reducers are underappreciated debugging tools",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale/",
-    "title": "[英] Flat Datacenter Networks at Scale at Amazon",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
-    "title": "[英] GPT-2: Too Dangerous To Release (2019)",
     "date": "2026-06-10"
   }
 ]
