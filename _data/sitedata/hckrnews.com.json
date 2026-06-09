@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://thi.ng",
+    "title": "[英] Thi.ng – open-source building blocks for computational design and art",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+    "title": "[英] Microsoft's open source tools were hacked to steal passwords of AI developers",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://opencv.org/opencv-5/",
+    "title": "[英] OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
+    "title": "[英] Facebook is paying people overseas promoting Alberta separatism",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://loro.dev/blog/mergeable-containers",
+    "title": "[英] CRDTs merge concurrent edits. Why not concurrent creation?",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf",
+    "title": "[英] Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
+    "date": "2026-06-09"
+  },
+  {
     "link": "https://blog.aheymans.xyz/post/thinkpad_x61/",
     "title": "[英] Porting the ThinkPad X61 to Coreboot",
     "date": "2026-06-09"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.lttlabs.com/articles/2026/06/06/asus-test-server-tour",
     "title": "[英] Asus GB300 NVL72 Test Lab Tour",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545",
-    "title": "[英] We Think the SpaceX IPO Is Overvalued",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://hermes-agent.org/",
-    "title": "[英] Hermes Agent – Open-source AI agent with persistent memory",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://longreads.com/2026/05/28/the-cheese-theft-food-crime/",
-    "title": "[英] The Grate Cheese Robbery",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48453873",
-    "title": "[英] undefined",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/",
-    "title": "[英] Federal judge blocks H1B visa $100K fee",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://www.cc.dev/",
-    "title": "[英] Show HN: Command Center, the AI coding env for people who care about quality",
     "date": "2026-06-09"
   }
 ]
