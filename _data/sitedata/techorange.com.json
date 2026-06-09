@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://techorange.com/2026/06/09/computex2026-infinitix-gpu-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "當 GPU 從成本負擔變成獲利引擎，企業 AI 經濟進入新賽局",
+    "date": "2026-06-09 12:35:08"
+  },
+  {
+    "link": "https://techorange.com/2026/06/09/apple-siri-ai-wwdc-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Apple 終於揭曉 AI 戰略：新版 Siri AI 為何把「理解你」看得比模型更重要？",
+    "date": "2026-06-09 12:32:26"
+  },
+  {
+    "link": "https://techorange.com/2026/06/09/google-nvidia-consider-intel-backup-chip-manufacturer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "台積電產能不足反成 Intel 福音：傳 Google 下單 300 萬顆 TPU、NVIDIA 測試 18A，AI 晶片進入備援製造時代",
+    "date": "2026-06-09 12:18:32"
+  },
+  {
+    "link": "https://techorange.com/2026/06/09/panpi-ai-robot-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "機器人現在還是戰國時期！廣宇董事長李光曜：美國做 AI 大腦、中國做硬體，台灣可以兩頭賺",
+    "date": "2026-06-09 10:41:13"
+  },
+  {
+    "link": "https://techorange.com/2026/06/09/ai-will-create-more-engineers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "產業人才結構重塑中：AI 把開發成本砍半，工程師的市場價值不跌反漲",
+    "date": "2026-06-09 09:22:57"
+  },
+  {
+    "link": "https://techorange.com/2026/06/09/change-6-email-habit-to-avoid-hackers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "電子郵件是駭客入侵的核心破口，改變五個習慣讓你的網路帳號更安全",
+    "date": "2026-06-09 09:22:42"
+  },
+  {
     "link": "https://techorange.com/2026/06/09/rfid-ai-retail/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "幽靈庫存讓線上訂單取消、顧客流失：RFID 如何把服飾庫存準確率拉升到 95% 以上？",
     "date": "2026-06-09 07:55:00"
@@ -43,35 +73,5 @@
     "link": "https://techorange.com/2026/06/08/quince-ai-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "從 DTC 到 AI 供應鏈：平價奢華品牌 Quince 為何成為電商新黑馬？",
     "date": "2026-06-08 09:41:49"
-  },
-  {
-    "link": "https://techorange.com/2026/06/08/google-spends-920-million-per-month-on-spacex-computing-power-anthropic-warns-ai-cloud-start-improving-itself/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】Google 砸 9.2 億美元月租 SpaceX 算力，Anthropic 示警 AI 可能自我改良",
-    "date": "2026-06-08 06:50:00"
-  },
-  {
-    "link": "https://techorange.com/2026/06/06/work-trend-index-annual-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【微軟 2026 工作趨勢報告】代理 AI 接管常規任務，企業如何將成效轉化為無法複製的「自有智慧」？",
-    "date": "2026-06-06 06:29:00"
-  },
-  {
-    "link": "https://techorange.com/2026/06/05/anthropic-taiwan-ai-cybersecurity-trust/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "「沒有台灣就沒有 Anthropic。」Anthropic 高層來台，點名台灣在 AI 生態系三個不可取代的角色",
-    "date": "2026-06-05 19:28:19"
-  },
-  {
-    "link": "https://techorange.com/2026/06/05/trendai-anthropic-project-glasswing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "趨勢科技加入 Anthropic Project Glasswing：將前沿 AI 模型化為防禦武器，守住台灣 AI 供應鏈防線",
-    "date": "2026-06-05 18:45:56"
-  },
-  {
-    "link": "https://techorange.com/2026/06/05/walmart-code-puppy-ai-anthropic-claude-openai-codex/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "不把雞蛋放在同一個 AI 供應商籃子裡：Walmart 自研 Code Puppy，降低模型依賴風險",
-    "date": "2026-06-05 16:37:57"
-  },
-  {
-    "link": "https://techorange.com/2026/06/05/amazon-proteus-robot-europe-investment-employee/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "亞馬遜新一代 AI 機器人 Proteus 亮相：「用對話指揮機器人」如何改寫歐洲物流履約網路？",
-    "date": "2026-06-05 14:43:48"
   }
 ]

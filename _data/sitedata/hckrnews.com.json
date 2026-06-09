@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+    "title": "[英] Porting the ThinkPad X61 to Coreboot",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://bernsteinbear.com/blog/inlining-heuristics/",
+    "title": "[英] A Survey of Inlining Heuristics",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48456104",
+    "title": "[英] undefined",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
+    "title": "[英] Job: Head of Stonehenge",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+    "title": "[英] GoGoGrandparent (YC S16) is hiring Back end Engineers",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://remy.wang/blog/cps.html",
+    "title": "[英] Passing DBs through continuations",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
+    "title": "[英] How much do amd64 microarchitecture levels help in Go?",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://oldavista.com/",
+    "title": "[英] Old'aVista – The most powerful guide to the old Internet",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://www.lttlabs.com/articles/2026/06/06/asus-test-server-tour",
+    "title": "[英] Asus GB300 NVL72 Test Lab Tour",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545",
+    "title": "[英] We Think the SpaceX IPO Is Overvalued",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://hermes-agent.org/",
+    "title": "[英] Hermes Agent – Open-source AI agent with persistent memory",
+    "date": "2026-06-09"
+  },
+  {
     "link": "https://longreads.com/2026/05/28/the-cheese-theft-food-crime/",
     "title": "[英] The Grate Cheese Robbery",
     "date": "2026-06-09"
@@ -17,61 +72,6 @@
   {
     "link": "https://www.cc.dev/",
     "title": "[英] Show HN: Command Center, the AI coding env for people who care about quality",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
-    "title": "[英] Games Between Programs: The Ruliology of Competition",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-    "title": "[英] Apple bets cheaper AI will woo small developers",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://github.com/octalide/mach",
-    "title": "[英] Show HN: Mach – A compiled systems language looking for contributions",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
-    "title": "[英] Looking Forward to Postgres 19: Query Hints",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
-    "title": "[英] Doing Something That's Never Been Done Before",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://openai.com/index/openai-submits-confidential-s-1/",
-    "title": "[英] OpenAI Submits S-1 Draft to SEC",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://cognition.ai/blog/frontier-code",
-    "title": "[英] FrontierCode",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://github.com/NolanFogarty/courtside",
-    "title": "[英] Show HN: Courtside – TUI for NBA Games",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/",
-    "title": "[英] Fooling Go's X.509 Certificate Verification",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://github.com/currentspace/http3",
-    "title": "[英] Show HN: HTTP/3 and raw QUIC client/server APIs for Node.js",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://gitdot.io/",
-    "title": "[英] Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
     "date": "2026-06-09"
   }
 ]
