@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://longreads.com/2026/05/28/the-cheese-theft-food-crime/",
+    "title": "[英] The Grate Cheese Robbery",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48453873",
+    "title": "[英] undefined",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/",
+    "title": "[英] Federal judge blocks H1B visa $100K fee",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://www.cc.dev/",
+    "title": "[英] Show HN: Command Center, the AI coding env for people who care about quality",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+    "title": "[英] Games Between Programs: The Ruliology of Competition",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+    "title": "[英] Apple bets cheaper AI will woo small developers",
+    "date": "2026-06-09"
+  },
+  {
+    "link": "https://github.com/octalide/mach",
+    "title": "[英] Show HN: Mach – A compiled systems language looking for contributions",
+    "date": "2026-06-09"
+  },
+  {
     "link": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
     "title": "[英] Looking Forward to Postgres 19: Query Hints",
     "date": "2026-06-09"
@@ -37,41 +72,6 @@
   {
     "link": "https://gitdot.io/",
     "title": "[英] Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-    "title": "[英] Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
-    "title": "[英] I'm building a parallel internet, and it's called The Thinnernet",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://developer.apple.com/documentation/coreai/",
-    "title": "[英] Apple Core AI Framework",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://kyle.au/blog/nosdesk-backend-rust",
-    "title": "[英] 120k Lines of Rust: Inside the Nosdesk Backend",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48447980",
-    "title": "[英] Ask HN: How to escalate a rejected Google extension?",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48448313",
-    "title": "[英] Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
-    "date": "2026-06-09"
-  },
-  {
-    "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-    "title": "[英] Apple reveals new AI architecture built around Google Gemini models",
     "date": "2026-06-09"
   }
 ]
