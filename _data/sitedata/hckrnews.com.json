@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://github.com/RayforceDB/rayforce",
+    "title": "[英] Rayforce",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
+    "title": "[英] Where is the AI jobs crisis?",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://bnikolic.co.uk/blog/linux-ld-debug.html",
+    "title": "[英] The LD_DEBUG environment variable (2012)",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "title": "[英] What it feels like to work with Mythos",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://www.anthropic.com/claude/fable",
+    "title": "[英] Claude Mythos 5 / Fable 5",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://cspages.ucalgary.ca/~aycock/papers/artworm.pdf",
+    "title": "[英] Painting the Internet: A Different Kind of Warhol Worm [pdf]",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "title": "[英] Claude Fable 5",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+    "title": "[英] System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48463430",
+    "title": "[英] undefined",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://github.com/chipmates/agoracosmica",
+    "title": "[英] Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted",
+    "date": "2026-06-10"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=48463273",
     "title": "[英] Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
     "date": "2026-06-10"
@@ -15,63 +65,13 @@
     "date": "2026-06-10"
   },
   {
-    "link": "https://github.com/alikamp/SAT_HARDNESS_P-NP",
-    "title": "[英] SAT-Physical Thermodynamic Framework: treating constraints as a thermal system",
-    "date": "2026-06-10"
-  },
-  {
     "link": "https://biffweb.com/p/core/",
     "title": "[英] Biff.core: system composition for Clojure web apps",
     "date": "2026-06-10"
   },
   {
-    "link": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
-    "title": "[英] 'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://kacho.io/polymarket-arbitrage-real-numbers",
-    "title": "[英] I ran an arbitrage bot on Polymarket. Here are the real numbers",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://github.com/luke8086/gentleos32",
-    "title": "[英] Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
-    "title": "[英] FCC Wants to Kill Burner Phones by Forcing Telecoms to Get All Customers' IDs",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://arxiv.org/abs/2606.08319",
-    "title": "[英] Using Optical Aberrations to Distinguish Real Astronomical Transients",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://cleantechnica.com/2026/06/08/solar-energy-saves-europeans-135-million-a-day/",
-    "title": "[英] Solar Energy Saves Europeans $135M a Day",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://arxiv.org/abs/2603.24647",
-    "title": "[英] Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://alex.smola.org/posts/40-effective-sample-size/",
-    "title": "[英] The Effective Sample Size",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://arxiv.org/abs/2604.19773",
-    "title": "[英] Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.15184",
-    "title": "[英] Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+    "link": "https://github.com/alikamp/SAT_HARDNESS_P-NP",
+    "title": "[英] SAT-Physical Thermodynamic Framework: treating constraints as a thermal system",
     "date": "2026-06-10"
   }
 ]
