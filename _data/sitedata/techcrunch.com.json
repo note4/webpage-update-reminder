@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+    "title": "[英] GM joins race to build batteries for AI data centers and the grid",
+    "date": "2026-06-10 05:00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+    "title": "[英] Hey Siri, here’s what I actually want from AI",
+    "date": "2026-06-10 04:50:17"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+    "title": "[英] Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+    "date": "2026-06-10 04:37:49"
+  },
+  {
     "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
     "title": "[英] Can tech companies learn to love cheaper AI models?",
     "date": "2026-06-10 02:56:09"
@@ -15,7 +30,7 @@
     "date": "2026-06-10 01:40:08"
   },
   {
-    "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+    "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
     "title": "[英] Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
     "date": "2026-06-10 01:00:00"
   },
@@ -58,20 +73,5 @@
     "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
     "title": "[英] Sandstone raises $30M to bring AI to in-house legal teams",
     "date": "2026-06-09 21:47:25"
-  },
-  {
-    "link": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-    "title": "[英] Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-    "date": "2026-06-09 21:00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
-    "title": "[英] How an e-scooter founder raised $5 million to build space data centers",
-    "date": "2026-06-09 20:00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
-    "title": "[英] Evotrex raises $30M to build the RV that doesn’t need a charging station",
-    "date": "2026-06-09 17:00:00"
   }
 ]
