@@ -1,8 +1,33 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/products/google-fi-wireless/international-travel-features-5g-coverage/",
+    "title": "[英] Get travel-ready with Google Fi Wireless",
+    "date": "2026-06-10 00:15:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/platforms/android/paris-hilton/",
+    "title": "[英] Paris Hilton is Android’s first icon in residence",
+    "date": "2026-06-10 00:00:00"
+  },
+  {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/see-in-cmyk/",
+    "title": "[英] Explore the hidden universe of color",
+    "date": "2026-06-10 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
+    "title": "[英] Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "date": "2026-06-09 23:00:00"
+  },
+  {
     "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/american-airlines-sustainable-aviation-fuel/",
     "title": "[英] We've teamed up with American Airlines to reduce nearly 300,000 tons of CO2.",
     "date": "2026-06-09 21:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/future-learning-ai-era/",
+    "title": "[英] The future of learning in the AI age",
+    "date": "2026-06-09 18:00:00"
   },
   {
     "link": "https://blog.google/topics/google-europe/powering-the-future-of-robotics-in-europe/",
@@ -30,8 +55,8 @@
     "date": "2026-06-08 22:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/search/fifa-world-cup-google-tools-2026/",
-    "title": "[英] 4 ways to keep up with the FIFA World Cup 2026™",
+    "link": "https://blog.google/products-and-platforms/products/search/soccer-tournament-google-tools-2026/",
+    "title": "[英] 4 ways soccer fans can catch every moment of the tournament",
     "date": "2026-06-08 21:00:00"
   },
   {
@@ -48,30 +73,5 @@
     "link": "https://blog.google/products-and-platforms/products/education/utah-state-education-partnership/",
     "title": "[英] Utah State brings Gemini for Education to all K-12 schools",
     "date": "2026-06-05 05:30:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-kaggle--benchmarks-locally/",
-    "title": "[英] Kaggle is making AI benchmark creation effortless",
-    "date": "2026-06-05 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/search/a-new-profile-to-help-publishers-and-creators-highlight-their-work-on-search/",
-    "title": "[英] A new profile to help publishers and creators highlight their work on Search",
-    "date": "2026-06-05 00:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/future-of-ai/",
-    "title": "[英] Industry leaders share new perspectives on generative media for startups",
-    "date": "2026-06-05 00:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/inside-google/doodles/2026-winner/",
-    "title": "[英] Meet Kameirah, this year’s Doodle for Google winner!",
-    "date": "2026-06-04 21:15:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/meitner-energy-center/",
-    "title": "[英] We’re announcing a new data center and energy investments in Gray and Roberts Counties, Texas.",
-    "date": "2026-06-04 21:00:00"
   }
 ]
