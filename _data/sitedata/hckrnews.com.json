@@ -1,12 +1,42 @@
 [
   {
+    "link": "https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film",
+    "title": "[英] The oldest surviving animated feature film at 100",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "title": "[英] macOS Container Machines",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://jesseduffield.com/ITS-DEATH/",
+    "title": "[英] It's death",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
+    "title": "[英] Starlink shifts hardware from one-time purchase to $10/month rental",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://unsung.aresluna.org/more-molly-guards/",
+    "title": "[英] More Molly Guards",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://github.com/sig-id/nucleus",
+    "title": "[英] Show HN: Nucleus – A security-hardened, Nix-native container runtime",
+    "date": "2026-06-10"
+  },
+  {
     "link": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
     "title": "[英] RIP software hackathons. Long live the hardware hackathon",
     "date": "2026-06-10"
   },
   {
     "link": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
-    "title": "[英] Lies We Tell Ourselves About Email Addresses",
+    "title": "[英] Lies we tell ourselves about email addresses",
     "date": "2026-06-10"
   },
   {
@@ -21,7 +51,7 @@
   },
   {
     "link": "https://blog.gitbutler.com/true-grit",
-    "title": "[英] Grit: Rewriting Git in Rust with Agents",
+    "title": "[英] Grit: Rewriting Git in Rust with agents",
     "date": "2026-06-10"
   },
   {
@@ -36,42 +66,12 @@
   },
   {
     "link": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
-    "title": "[英] Upcoming breaking changes for NPM v12",
+    "title": "[英] Upcoming breaking changes for npm v12",
     "date": "2026-06-10"
   },
   {
     "link": "https://github.com/signalblur/exifsmugglingpoc",
     "title": "[英] Exif Smuggling",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48423917",
-    "title": "[英] Miz Framework Story",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://alpinelinux.org/posts/Alpine-3.24.0-released.html",
-    "title": "[英] Alpine Linux 3.24.0 Released",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://joe.dev/posts/new-20pct-time/",
-    "title": "[英] Google's 20% 'project' has become AI's 120% 'attention'",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://github.com/graemeg/blaise/discussions/82",
-    "title": "[英] Blaise v0.10.0: Native Back End, Threads and Incremental Compilation",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://www.theregister.com/devops/2026/06/09/devs-know-ai-code-is-riddled-with-holes-but-ship-it-anyway/5252824",
-    "title": "[英] Devs know AI code is riddled with holes, but ship it anyway",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://github.com/DotFox/transit.c",
-    "title": "[英] Show HN: Transit-format (JSON/MessagePack) reader/writer in C",
     "date": "2026-06-10"
   }
 ]
