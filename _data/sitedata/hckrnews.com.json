@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=48475871",
+    "title": "[英] Ask HN: Are most corporate SWE jobs performative?",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://danq.me/2026/06/09/fn-keys/",
+    "title": "[英] I Hate (Most) Keyboard 'Fn' Keys",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://mohkohn.co.uk/writing/html-first/",
+    "title": "[英] Building an HTML-first site doubled our users overnight",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/",
+    "title": "[英] Who Runs Your Rust Future? Hands-On Intro to Async Rust",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://jivx.com/eki",
+    "title": "[英] All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://sbbresale.ch/",
+    "title": "[英] Buy a train, bridge or tracks from the Swiss Railway",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/",
+    "title": "[英] Hacking for Defense Stanford 2026 – Lessons Learned Presentations",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://github.com/notepad-plus-plus/notepad-plus-plus/security/advisories/GHSA-p58x-r3c9-x9p6",
+    "title": "[英] Notepad++ Zero-Click RCE via Path Traversal (CVE-2026-52884)",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://github.com/grzegorz-raczek-unit8/claude-quota",
+    "title": "[英] Show HN: macOS menu bar gauges for your Claude Code quota",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/",
+    "title": "[英] Magnetoelectric antennas could transform how underwater robots talk",
+    "date": "2026-06-10"
+  },
+  {
     "link": "https://github.com/react/react/pull/36173",
     "title": "[英] Port React Compiler to Rust",
     "date": "2026-06-10"
@@ -22,56 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48473166",
     "title": "[英] AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=eq7fR9ISuCw",
-    "title": "[英] I Thought I Knew How Electrolysis Worked [video]",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/",
-    "title": "[英] How do you design a $30k electric pickup? Inside Ford's skunkworks",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
-    "title": "[英] Premature Optimization Is Fun Sometimes",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
-    "title": "[英] Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://technicshistory.com/2026/06/06/computer-lessons/",
-    "title": "[英] Computer Lessons",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
-    "title": "[英] Vibe coding my way to a healthy family: Introducing Gamow Labs",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://manticoresearch.com/blog/the-evolution-of-more-like-this/",
-    "title": "[英] The Evolution of 'More Like This'",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://jasonfantl.com/posts/Propagating-Bit-on-Grid/",
-    "title": "[英] Bit Propagation over a Noisy Grid",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
-    "title": "[英] Surprise, Pay $1000",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://www.davidhbailey.com/dhbpapers/Chatbots.pdf",
-    "title": "[英] Experience using AI software to prove Euler sum results [pdf]",
     "date": "2026-06-10"
   }
 ]
