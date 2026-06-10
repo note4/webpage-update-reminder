@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://github.com/react/react/pull/36173",
+    "title": "[英] Port React Compiler to Rust",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/",
+    "title": "[英] European sentiments towards the US hit an all-time low",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://paperswithcode.co/",
+    "title": "[英] Reviving Papers with Code",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+    "title": "[英] Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48473166",
+    "title": "[英] AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=eq7fR9ISuCw",
+    "title": "[英] I Thought I Knew How Electrolysis Worked [video]",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/",
+    "title": "[英] How do you design a $30k electric pickup? Inside Ford's skunkworks",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
+    "title": "[英] Premature Optimization Is Fun Sometimes",
+    "date": "2026-06-10"
+  },
+  {
     "link": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
     "title": "[英] Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow",
     "date": "2026-06-10"
@@ -32,46 +72,6 @@
   {
     "link": "https://www.davidhbailey.com/dhbpapers/Chatbots.pdf",
     "title": "[英] Experience using AI software to prove Euler sum results [pdf]",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-    "title": "[英] Rich Sutton on AI creativity and discovery",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/",
-    "title": "[英] If Claude Fable stops helping you, you'll never know",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://bernsteinbear.com/blog/value-numbering/",
-    "title": "[英] Value Numbering",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-    "title": "[英] German ruling declares Google liable for false answers in AI Overviews",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film",
-    "title": "[英] The oldest surviving animated feature film at 100",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-    "title": "[英] macOS Container Machines",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://jesseduffield.com/ITS-DEATH/",
-    "title": "[英] It's death",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
-    "title": "[英] Starlink shifts hardware from one-time purchase to $10/month rental",
     "date": "2026-06-10"
   }
 ]
