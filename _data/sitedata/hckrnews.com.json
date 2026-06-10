@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
+    "title": "[英] Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://technicshistory.com/2026/06/06/computer-lessons/",
+    "title": "[英] Computer Lessons",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
+    "title": "[英] Vibe coding my way to a healthy family: Introducing Gamow Labs",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://manticoresearch.com/blog/the-evolution-of-more-like-this/",
+    "title": "[英] The Evolution of 'More Like This'",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://jasonfantl.com/posts/Propagating-Bit-on-Grid/",
+    "title": "[英] Bit Propagation over a Noisy Grid",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
+    "title": "[英] Surprise, Pay $1000",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://www.davidhbailey.com/dhbpapers/Chatbots.pdf",
+    "title": "[英] Experience using AI software to prove Euler sum results [pdf]",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+    "title": "[英] Rich Sutton on AI creativity and discovery",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/",
+    "title": "[英] If Claude Fable stops helping you, you'll never know",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://bernsteinbear.com/blog/value-numbering/",
+    "title": "[英] Value Numbering",
+    "date": "2026-06-10"
+  },
+  {
+    "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "title": "[英] German ruling declares Google liable for false answers in AI Overviews",
+    "date": "2026-06-10"
+  },
+  {
     "link": "https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film",
     "title": "[英] The oldest surviving animated feature film at 100",
     "date": "2026-06-10"
@@ -17,61 +72,6 @@
   {
     "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
     "title": "[英] Starlink shifts hardware from one-time purchase to $10/month rental",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://unsung.aresluna.org/more-molly-guards/",
-    "title": "[英] More Molly Guards",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://github.com/sig-id/nucleus",
-    "title": "[英] Show HN: Nucleus – A security-hardened, Nix-native container runtime",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
-    "title": "[英] RIP software hackathons. Long live the hardware hackathon",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
-    "title": "[英] Lies we tell ourselves about email addresses",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/",
-    "title": "[英] AI misidentification results in wrongful arrest; man seeks justice",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://alexandrefrancois.org/Resonate/",
-    "title": "[英] Show HN: Resonate – Low-latency, high-resolution spectral analysis",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://blog.gitbutler.com/true-grit",
-    "title": "[英] Grit: Rewriting Git in Rust with agents",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-    "title": "[英] If Claude Fable stops helping you, you'll never know",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
-    "title": "[英] Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
-    "title": "[英] Upcoming breaking changes for npm v12",
-    "date": "2026-06-10"
-  },
-  {
-    "link": "https://github.com/signalblur/exifsmugglingpoc",
-    "title": "[英] Exif Smuggling",
     "date": "2026-06-10"
   }
 ]
