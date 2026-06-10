@@ -1,12 +1,47 @@
 [
   {
+    "link": "https://learnfinly.com",
+    "title": "[英] Free financial literacy platform for kids – 90 lessons, no paywall",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+    "title": "[英] A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://www.jasondavies.com/maps/voronoi/capitals/",
+    "title": "[英] World Capitals Voronoi",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+    "title": "[英] Anthropic requires 30 day data retention for Fable and Mythos",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/06/10/trump-inflation-cpi-iran-oil.html",
+    "title": "[英] US President says 'I love the inflation'",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "title": "[英] Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://news.immunologic.org/p/organic-foods-are-not-healthieror",
+    "title": "[英] Organic foods are not healthier or pesticide free",
+    "date": "2026-06-11"
+  },
+  {
     "link": "https://www.ud2.rip/blog/towerunite/",
     "title": "[英] A game's homemade crypto fell to a DIY supercomputer",
     "date": "2026-06-11"
   },
   {
     "link": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
-    "title": "[英] What Is It Like to Be a Bat? [pdf] (1974)",
+    "title": "[英] What is it like to be a bat? (1974) [pdf]",
     "date": "2026-06-11"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://github.com/philipl/pifs",
     "title": "[英] πFS",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
-    "title": "[英] Farmer donates land for a park, city sells it for $10M as data center land",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://www.lucebox.com/blog/spark",
-    "title": "[英] A 35B MoE on a 16 GB GPU, without the offload tax",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://geolibre.app/",
-    "title": "[英] GeoLibre 1.0",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-    "title": "[英] Anthropic's Model Naming, Extrapolated",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://darioamodei.com/post/policy-on-the-ai-exponential",
-    "title": "[英] Policy on the AI Exponential",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-    "title": "[英] Meta steals a tactic from Tesla and builds data centers in tents",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://mceglowski.substack.com/p/laffaire-siloxane",
-    "title": "[英] L'Affaire Siloxane",
     "date": "2026-06-11"
   }
 ]
