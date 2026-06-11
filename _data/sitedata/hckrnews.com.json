@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.construction-physics.com/p/biological-evolution-and-information",
+    "title": "[英] Biological Evolution and Information Acquisition",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+    "title": "[英] This Jacket Pulls Drinking Water from Thin Air",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "[英] If you are asking for human attention, demonstrate human effort",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://lucassifoni.info/blog/a-worm-in-my-erlang-cluster-and-adventures-in-microfluidics/",
+    "title": "[英] A worm in my Erlang cluster, and adventures in microfluidics",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/",
+    "title": "[英] OpenAI Prepping for On-Prem Product?",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://tunnelmind.ai/",
+    "title": "[英] Show HN: TunnelMind – reputation API for IPs, ASNs, and ad-tech supply chains",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/",
+    "title": "[英] The unreasonable effectiveness of simple HTML (2021)",
+    "date": "2026-06-12"
+  },
+  {
     "link": "https://tridao.me/blog/2026/gram-newton-schulz/",
     "title": "[英] Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon",
     "date": "2026-06-12"
@@ -26,7 +61,7 @@
   },
   {
     "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-    "title": "[英] Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+    "title": "[英] Shall we play a game? My AI nuclear simulation",
     "date": "2026-06-12"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i",
     "title": "[英] I stopped tracking my time. Now I can't focus",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://www.ssp.sh/brain/travel-where-you-are/",
-    "title": "[英] Travel Locally, Where You Are",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://redflag-check.info",
-    "title": "[英] Show HN: I built a Red Flag Warning zone-check tool for the East Bay in 48h",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://github.com/Robert-Cunningham/pozzo",
-    "title": "[英] Pozzo: A Fast Lucky Number Checker",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-    "title": "[英] Who Runs the Ransomware Group 'The Gentlemen?'",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://rajitkhanna.com/agents/",
-    "title": "[英] Building agents without harness engineering",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://tonedear.com/",
-    "title": "[英] Ear Training Practice Exercises",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-    "title": "[英] Claude Fable 5: mid-tier results on coding tasks",
     "date": "2026-06-12"
   }
 ]
