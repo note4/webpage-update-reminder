@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "title": "[英] Why AI hasn't replaced software engineers, and won't",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+    "title": "[英] Build a Basic AI Agent from Scratch: Long Task Planning",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://vale.rocks/posts/game-console-browsers",
+    "title": "[英] Web Browsers on Video Game Consoles",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/",
+    "title": "[英] Making a Shading Language for My Offline Renderer",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
+    "title": "[英] Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://farnoy.dev/posts/linux-latency",
+    "title": "[英] Linux latency measurements and compositor tuning",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
+    "title": "[英] Cheap Iranian drone downed $25M US Army helicopter–maybe by chance",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://performance.dev/the-conductor-rewrite",
+    "title": "[英] The Conductor Rewrite: What They Changed to Make It Fast",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+    "title": "[英] Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://github.com/vanyapr/makaroshki",
+    "title": "[英] Macaroni – a single HTML file messenger",
+    "date": "2026-06-11"
+  },
+  {
+    "link": "https://github.com/justhamade/triadjs",
+    "title": "[英] Validation, Docs, tests, and database schemas from one source of truth",
+    "date": "2026-06-11"
+  },
+  {
     "link": "https://www.rifters.com/real/STARFISH.htm#prelude",
     "title": "[英] Starfish by Peter Watts (1999)",
     "date": "2026-06-11"
@@ -17,61 +72,6 @@
   {
     "link": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability",
     "title": "[英] Are insecure code completions in PyCharm a vulnerability?",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
-    "title": "[英] The Road to the WASM Component Model 1.0",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48485950",
-    "title": "[英] Tell HN: Anthropic's Fable model is too expensive",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://kimchi-reader.app/blog/int8-cpu-korean-disambiguation",
-    "title": "[英] Building a Korean ambiguity solver fast enough to skip the GPU: 7,300 words/SEC",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
-    "title": "[英] CSS: Unavoidable Bad Parts",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting",
-    "title": "[英] Vacuum-Form Signage",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://nanochess.org/klondike_in_c.html",
-    "title": "[英] Klondike Solitaire game for curses in 5k of C",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48484695",
-    "title": "[英] undefined",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://technicshistory.com/2026/06/06/computer-lessons/",
-    "title": "[英] Computer Lessons",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-    "title": "[英] AI agent runs amok in Fedora and elsewhere",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://gist.github.com/acetousk/3c17d2aefde9175ffef21a8ec4673053",
-    "title": "[英] Aws.com and google.com don't have DNSSEC enabled",
-    "date": "2026-06-11"
-  },
-  {
-    "link": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
-    "title": "[英] Deficient executive control in transformer attention",
     "date": "2026-06-11"
   }
 ]
