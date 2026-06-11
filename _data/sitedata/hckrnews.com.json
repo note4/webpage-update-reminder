@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://tridao.me/blog/2026/gram-newton-schulz/",
+    "title": "[英] Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://www.mayrhofer.eu.org/post/leaving-google/",
+    "title": "[英] Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://fablepool.com",
+    "title": "[英] Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://github.com/coder/boo",
+    "title": "[英] Show HN: Boo – screen-style terminal multiplexer built on libghostty",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://hellorecon.com/blog/cve-2026-10520",
+    "title": "[英] Ivanti Sentry pre-auth RCE (CVE-2026-10520) – CVSS 10.0, public PoC, CISA KEV",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+    "title": "[英] Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+    "title": "[英] Apple didn't revolutionize power supplies; new transistors did (2012)",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i",
+    "title": "[英] I stopped tracking my time. Now I can't focus",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://www.ssp.sh/brain/travel-where-you-are/",
+    "title": "[英] Travel Locally, Where You Are",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://redflag-check.info",
+    "title": "[英] Show HN: I built a Red Flag Warning zone-check tool for the East Bay in 48h",
+    "date": "2026-06-12"
+  },
+  {
     "link": "https://github.com/Robert-Cunningham/pozzo",
     "title": "[英] Pozzo: A Fast Lucky Number Checker",
     "date": "2026-06-12"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
     "title": "[英] Claude Fable 5: mid-tier results on coding tasks",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://github.com/varmabudharaju/agent-pd/blob/master/README.md",
-    "title": "[英] Show HN: A police department for your Claude Code agents",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
-    "title": "[英] Programming a GBA Game on an iPhone",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://imemc.org/article/israels-paid-u-s-influencer-network-exposed/",
-    "title": "[英] Israel's Paid U.S. Influencer Network Exposed – – Imemc News",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://ras.ac.uk/news-and-press/research-highlights/galaxy-killing-wind-discovered-early-universe",
-    "title": "[英] Galaxy-killing wind discovered in the early universe",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://computerhistory.org/stories/explorers-of-the-lost-computers/",
-    "title": "[英] Discovery of Cold War-era rare Eastern Bloc computers in a German hangar",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://github.com/denoland/clawpatrol",
-    "title": "[英] Show HN: Claw Patrol, a security firewall for agents",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
-    "title": "[英] Reading for pleasure is sharply down among schoolkids, report shows",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/",
-    "title": "[英] Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://medium.com/towards-artificial-intelligence/mcp-apps-build-interactive-apps-directly-inside-your-ai-agents-chat-c571678099e3",
-    "title": "[英] Show HN: Stop returning raw JSON from MCP servers, build rich inline UIs",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
-    "title": "[英] Developer gets Half-Life running at 30 FPS on a Nokia N95",
     "date": "2026-06-12"
   }
 ]
