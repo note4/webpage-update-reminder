@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.fastmail.com/blog/the-future-of-email/",
+    "title": "[英] The Future of Email",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
+    "title": "[英] AUR Packages Compromised with Infostealer and Rootkit",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://sseh.uchicago.edu/doc/roauss.htm",
+    "title": "[英] Report on an Unidentified Space Station",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=K4E01_ZfO5I",
+    "title": "[英] Speech Plus Prose 2000 vintage speech synthesizer, as used by Stephen Hawking [video]",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
+    "title": "[英] Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+    "date": "2026-06-12"
+  },
+  {
     "link": "https://blog.dlang.org/2026/05/29/i-stopped-fighting-my-tools-and-built-a-game-engine-in-d/",
     "title": "[英] I Stopped Fighting My Tools and Built a Game Engine in D",
     "date": "2026-06-12"
@@ -47,31 +72,6 @@
   {
     "link": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
     "title": "[英] Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
-    "title": "[英] A greyscale iPhone setup that works in everyday life",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://crlf.link/log/entries/260525-1/",
-    "title": "[英] Making a vintage LLM from scratch",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://marewolf.me/posts/draupnir/26/software-productive-infrastructure.html",
-    "title": "[英] A Commons of Software Productive Infrastructure, by and for Capital",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
-    "title": "[英] How a new DSL may survive in the era of LLMs",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://mtgautodeck.com/articles/mtg-bench/",
-    "title": "[英] MTG Bench: Testing how well LLMs can play Magic",
     "date": "2026-06-12"
   }
 ]
