@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "title": "[英] Claude Fable is relentlessly proactive",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://www.rntz.net/post/my-thesis.html",
+    "title": "[英] Deconstructing Datalog",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+    "title": "[英] Why removing 'um' from a recording is harder than it sounds",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+    "title": "[英] Nobody ever gets credit for fixing problems that never happened (2002) [pdf]",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
+    "title": "[英] A greyscale iPhone setup that works in everyday life",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://crlf.link/log/entries/260525-1/",
+    "title": "[英] Making a vintage LLM from scratch",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://marewolf.me/posts/draupnir/26/software-productive-infrastructure.html",
+    "title": "[英] A Commons of Software Productive Infrastructure, by and for Capital",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+    "title": "[英] How a new DSL may survive in the era of LLMs",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://mtgautodeck.com/articles/mtg-bench/",
+    "title": "[英] MTG Bench: Testing how well LLMs can play Magic",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/",
+    "title": "[英] Finding Optimal Tokenizers",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://blog.griffens.net/blog/trying-to-fix-complicated-problems/",
+    "title": "[英] Trying to fix complicated problems",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://blog.plover.com/2026/03/17/#egyptian-fractions-2",
+    "title": "[英] Did Ahmes find the best expansions for 2/n?",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://briandouglas.ie/llm-tailwind-template/",
+    "title": "[英] Tailwind and slop apps",
+    "date": "2026-06-12"
+  },
+  {
     "link": "https://www.construction-physics.com/p/biological-evolution-and-information",
-    "title": "[英] Biological Evolution and Information Acquisition",
+    "title": "[英] Biological evolution and information acquisition",
     "date": "2026-06-12"
   },
   {
     "link": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-    "title": "[英] This Jacket Pulls Drinking Water from Thin Air",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://tombedor.dev/human-attention-and-human-effort/",
-    "title": "[英] If you are asking for human attention, demonstrate human effort",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://lucassifoni.info/blog/a-worm-in-my-erlang-cluster-and-adventures-in-microfluidics/",
-    "title": "[英] A worm in my Erlang cluster, and adventures in microfluidics",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/",
-    "title": "[英] OpenAI Prepping for On-Prem Product?",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://tunnelmind.ai/",
-    "title": "[英] Show HN: TunnelMind – reputation API for IPs, ASNs, and ad-tech supply chains",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/",
-    "title": "[英] The unreasonable effectiveness of simple HTML (2021)",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://tridao.me/blog/2026/gram-newton-schulz/",
-    "title": "[英] Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://www.mayrhofer.eu.org/post/leaving-google/",
-    "title": "[英] Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://fablepool.com",
-    "title": "[英] Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://github.com/coder/boo",
-    "title": "[英] Show HN: Boo – screen-style terminal multiplexer built on libghostty",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://hellorecon.com/blog/cve-2026-10520",
-    "title": "[英] Ivanti Sentry pre-auth RCE (CVE-2026-10520) – CVSS 10.0, public PoC, CISA KEV",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-    "title": "[英] Shall we play a game? My AI nuclear simulation",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
-    "title": "[英] Apple didn't revolutionize power supplies; new transistors did (2012)",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i",
-    "title": "[英] I stopped tracking my time. Now I can't focus",
+    "title": "[英] A jacket that harvests drinking water from the air",
     "date": "2026-06-12"
   }
 ]
