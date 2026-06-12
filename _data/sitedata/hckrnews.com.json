@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://blog.dlang.org/2026/05/29/i-stopped-fighting-my-tools-and-built-a-game-engine-in-d/",
+    "title": "[英] I Stopped Fighting My Tools and Built a Game Engine in D",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "title": "[英] AI agent bankrupted their operator while trying to scan DN42",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://zipcpu.com/blog/2025/12/17/devclk.html",
+    "title": "[英] Device Clock Generation (2025)",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
+    "title": "[英] How we made hit video game Prince of Persia",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research",
+    "title": "[英] WikiLambda the Ultimate",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html",
+    "title": "[英] Faking keyword arguments to functions in C++",
+    "date": "2026-06-12"
+  },
+  {
     "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
     "title": "[英] Claude Fable is relentlessly proactive",
     "date": "2026-06-12"
@@ -11,12 +41,12 @@
   },
   {
     "link": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
-    "title": "[英] Why removing 'um' from a recording is harder than it sounds",
+    "title": "[英] Removing 'um' from a recording is harder than it sounds",
     "date": "2026-06-12"
   },
   {
     "link": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-    "title": "[英] Nobody ever gets credit for fixing problems that never happened (2002) [pdf]",
+    "title": "[英] Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
     "date": "2026-06-12"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://mtgautodeck.com/articles/mtg-bench/",
     "title": "[英] MTG Bench: Testing how well LLMs can play Magic",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/",
-    "title": "[英] Finding Optimal Tokenizers",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://blog.griffens.net/blog/trying-to-fix-complicated-problems/",
-    "title": "[英] Trying to fix complicated problems",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://blog.plover.com/2026/03/17/#egyptian-fractions-2",
-    "title": "[英] Did Ahmes find the best expansions for 2/n?",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://briandouglas.ie/llm-tailwind-template/",
-    "title": "[英] Tailwind and slop apps",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://www.construction-physics.com/p/biological-evolution-and-information",
-    "title": "[英] Biological evolution and information acquisition",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-    "title": "[英] A jacket that harvests drinking water from the air",
     "date": "2026-06-12"
   }
 ]
