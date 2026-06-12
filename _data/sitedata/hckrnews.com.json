@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=48504034",
+    "title": "[英] Meta Down",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://qz.com/spacex-tesla-merger-gwynne-shotwell-ipo-061226",
+    "title": "[英] SpaceX's president is floating a Tesla merger as the company begins trading",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://www.theculturist.io/p/the-unsung-hero-of-the-lord-of-the",
+    "title": "[英] The Unsung Hero of the Lord of the Rings",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
+    "title": "[英] Hazel (YC W24) Is Hiring a Full Stack Engineer",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://arxiv.org/abs/2606.13473",
+    "title": "[英] Maxproof",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html",
+    "title": "[英] David Hockney, Who Restored the Human Form to Art, Dies at 88",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+    "title": "[英] Kimi K2.7-Code: open-source coding model with better token efficiency",
+    "date": "2026-06-12"
+  },
+  {
+    "link": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+    "title": "[英] Ryanair dark UX patterns summer 2026 refresher",
+    "date": "2026-06-12"
+  },
+  {
     "link": "https://www.fastmail.com/blog/the-future-of-email/",
     "title": "[英] The Future of Email",
     "date": "2026-06-12"
@@ -32,46 +72,6 @@
   {
     "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
     "title": "[英] AI agent bankrupted their operator while trying to scan DN42",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://zipcpu.com/blog/2025/12/17/devclk.html",
-    "title": "[英] Device Clock Generation (2025)",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
-    "title": "[英] How we made hit video game Prince of Persia",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research",
-    "title": "[英] WikiLambda the Ultimate",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html",
-    "title": "[英] Faking keyword arguments to functions in C++",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "title": "[英] Claude Fable is relentlessly proactive",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://www.rntz.net/post/my-thesis.html",
-    "title": "[英] Deconstructing Datalog",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
-    "title": "[英] Removing 'um' from a recording is harder than it sounds",
-    "date": "2026-06-12"
-  },
-  {
-    "link": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-    "title": "[英] Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
     "date": "2026-06-12"
   }
 ]
