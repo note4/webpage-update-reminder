@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://blog.pyodide.org/posts/314-release/",
+    "title": "[英] Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://47calc.com/index.html",
+    "title": "[英] C47/R47 Calculators",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+    "title": "[英] Police officer investigated for using AI to 'create evidence' in multiple cases",
+    "date": "2026-06-14"
+  },
+  {
     "link": "https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers",
     "title": "[英] What Happens to an Economy When It's Too Hot to Work?",
     "date": "2026-06-14"
@@ -57,21 +72,6 @@
   {
     "link": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
     "title": "[英] Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://digg.com/tech/ii9xibgn",
-    "title": "[英] GLM 5.2 Is Out",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "title": "[英] The adder at the heart of Intel's 8087 floating-point chip",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-    "title": "[英] AI coding at home without going broke",
     "date": "2026-06-14"
   }
 ]
