@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+    "title": "[英] There is a shadow hanging over this Fable thing",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://www.ft.com/content/adbf76dc-c476-4f8f-9a6e-3bea0a5c24a6",
+    "title": "[英] Sam Bankman-Fried loses fraud conviction appeal",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://github.com/entGriff/ezra",
+    "title": "[英] Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e",
+    "title": "[英] A generic dynamic array in C that stores no capacity and needs no struct",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://honeypot.net/2026/06/12/anthropics-leaning-in-to-the.html",
+    "title": "[英] Anthropic's leaning in to the whole nanny state thing",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
+    "title": "[英] On CPU Physics and CPU Cycles",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5",
+    "title": "[英] Our response to the US ban on Fable 5 and Mythos 5",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/",
+    "title": "[英] The Future of wasi-gfx and wasi:webgpu",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://github.com/vrtnis/tycoon-learning-environment",
+    "title": "[英] TycoonLE: A Jax reinforcement learning environment for long-horizon planning",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
+    "title": "[英] Why a Computer Science Degree Still Opens Hidden Doors",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://tectonic-typesetting.github.io/en-US/",
+    "title": "[英] Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://opensourceaimustwin.com/?share=v2",
+    "title": "[英] Open source AI must win",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://status.claude.com/incidents/s9w82lp9dcn9",
+    "title": "[英] We've suspended access to Claude Mythos 5 and Claude Fable 5",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://lapcatsoftware.com/articles/2026/6/3.html",
+    "title": "[英] Reddit RSS feeds recent rate limiting and solution",
+    "date": "2026-06-13"
+  },
+  {
     "link": "https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4163-pr-10-26",
     "title": "[英] DNI Gabbard Reveals Evidence of U.S. Taxpayer-Funded Global Biolab Program",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://github.com/rvaiya/keyd",
-    "title": "[英] A key remapping daemon for Linux",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://twitter.com/ClaudeDevs/status/2065597942602531163",
-    "title": "[英] As a result of a US Government directive, we are suspending access to Fable 5",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://www.anthropic.com/news/fable-mythos-access",
-    "title": "[英] US Government directive to suspend access to Fable 5 and Mythos 5",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://engelsbergideas.com/reviews/the-forgotten-scots-who-gave-kafka-his-voice/",
-    "title": "[英] The forgotten Scots who gave Kafka his voice",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix",
-    "title": "[英] AMD Stiffs Researcher $10k Bug Bounty",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=zfYsSFY4l18",
-    "title": "[英] I Think They [Anthropic] Are Lying to You [video]",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://github.com/NVIDIA/SkillSpector",
-    "title": "[英] SkillSpector",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://developer.apple.com/videos/play/wwdc2026/305/",
-    "title": "[英] Enhance RAW image processing with Core Image [video]",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://putt.day/",
-    "title": "[英] Show HN: Putt.day a daily mini golf game",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://github.com/DanMcInerney/architect-loop",
-    "title": "[英] /architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-    "title": "[英] Renault: Electric motors with no rare earths",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-    "title": "[英] Twenty One Zero-Days in FFmpeg",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48510082",
-    "title": "[英] undefined",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://landscape.bairui.dev/",
-    "title": "[英] Show HN: Turn your name into a tree in an infinite procedural shanshui landscape",
     "date": "2026-06-13"
   }
 ]
