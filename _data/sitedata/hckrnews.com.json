@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+    "title": "[英] Treating pancreatic tumours may have revealed cancer's master switch",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://desfontain.es/blog/banning-noise.html",
+    "title": "[英] US bans differential privacy in Census data",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "[英] Every Frame Perfect",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+    "title": "[英] RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://new.roman-names.com/",
+    "title": "[英] Show HN: I am building a map of people who lived in the Roman Empire",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://lr0.org/blog/p/arabic/",
+    "title": "[英] Introduction to the experience of rendering Arabic typography&its technical debt",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal",
+    "title": "[英] Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://www.motor1.com/news/798011/route-66-missouri-musical-road/",
+    "title": "[英] Woman Gets on Route 66. Then She Starts Hearing Music Coming from Her Tires",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://wilsoniumite.com/2026/06/07/labor-is-a-market-distortion/",
+    "title": "[英] Labor Is a Market Distortion, we need VAT and UBI",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://github.com/tensorzero/tensorzero",
+    "title": "[英] AI OSS tool repo goes archived over night after raising $7.3M Seed",
+    "date": "2026-06-13"
+  },
+  {
     "link": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
     "title": "[英] An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
     "date": "2026-06-13"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
     "title": "[英] Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://areweguiyet.com/#ecosystem",
-    "title": "[英] The state of building user interfaces in Rust",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://zenodo.org/records/20492768",
-    "title": "[英] Exceptions should not be handled – they should be aggregated",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://www.agilehunt.com/blog/fable-5-jailbreak-ai-guardrails",
-    "title": "[英] The Fable 5 Jailbreak Shows Why AI Guardrails Alone Are Not Enough",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-    "title": "[英] A low-carbon computing platform from your retired phones",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://github.com/Paca-AI/paca",
-    "title": "[英] Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://tastecooking.com/fudgetown-usa/",
-    "title": "[英] Fudgetown, USA (2024)",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48514461",
-    "title": "[英] Ask HN: What Are You Working On?",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://patches.joao.town/using-epson-perfection-v39ii-scanner-ubuntu/",
-    "title": "[英] Using the Epson Perfection V39 II Scanner on Ubuntu",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://github.com/vladignatyev/brain-map-skill",
-    "title": "[英] Show HN: Skill for your agent to visualize your gbrain and Obsidian",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
-    "title": "[英] Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
     "date": "2026-06-13"
   }
 ]
