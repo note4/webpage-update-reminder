@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://github.com/emmayusufu/tessera",
+    "title": "[英] Tessera – a consent-gated tunnel that's blind to your traffic",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://tcrf.net/Workboy",
+    "title": "[英] GameBoy Workboy",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
+    "title": "[英] PwC Report: AI Making Medical Bills Higher",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://www.versowriter.app",
+    "title": "[英] Show HN: Verso – A $14.99 Mac word processor with no subscription",
+    "date": "2026-06-14"
+  },
+  {
     "link": "https://thoughtforms.life/trophic-memory-deer-and-a-truly-unique-scientific-object/",
     "title": "[英] Trophic memory, deer, and a unique scientific object",
     "date": "2026-06-14"
@@ -52,26 +72,6 @@
   {
     "link": "https://desfontain.es/blog/banning-noise.html",
     "title": "[英] US bans differential privacy in Census data",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://tonsky.me/blog/every-frame-perfect/",
-    "title": "[英] Every Frame Perfect",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-    "title": "[英] RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://new.roman-names.com/",
-    "title": "[英] Show HN: I am building a map of people who lived in the Roman Empire",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://lr0.org/blog/p/arabic/",
-    "title": "[英] Introduction to the experience of rendering Arabic typography&its technical debt",
     "date": "2026-06-14"
   }
 ]
