@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers",
+    "title": "[英] What Happens to an Economy When It's Too Hot to Work?",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://www.economist.com/business/2026/05/31/texas-is-america-incs-new-centre-of-gravity",
+    "title": "[英] Texas is America Inc's new centre of gravity",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://openai.com/form/codex-for-oss/",
+    "title": "[英] Codex for open source",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48520305",
+    "title": "[英] undefined",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://taoofmac.com/space/reviews/2026/06/11/1830",
+    "title": "[英] The MilkV Jupiter 2/SpacemiT K3 (RISC-V vector compute)",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+    "title": "[英] Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+    "date": "2026-06-14"
+  },
+  {
     "link": "https://github.com/emmayusufu/tessera",
     "title": "[英] Tessera – a consent-gated tunnel that's blind to your traffic",
     "date": "2026-06-14"
@@ -25,8 +55,8 @@
     "date": "2026-06-14"
   },
   {
-    "link": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-    "title": "[英] Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+    "link": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+    "title": "[英] Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
     "date": "2026-06-14"
   },
   {
@@ -41,37 +71,7 @@
   },
   {
     "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-    "title": "[英] AI Coding at Home Without Going Broke",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://ember-energy.org/latest-updates/solar-overtakes-coal-in-us-electricity-for-the-first-month-on-record/",
-    "title": "[英] Solar Overtakes Coal in US Electricity for the First Month on Record`",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://www.modular.com/blog/democratizing-ai-compute-part-5-what-about-cuda-c-alternatives",
-    "title": "[英] What about OpenCL and CUDA C++ alternatives?",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://brentfitzgerald.com/posts/appreciating-exif/",
-    "title": "[英] Appreciating Exif",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://bkaradzic.github.io/posts/orthodoxc++/",
-    "title": "[英] Orthodox C++",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-    "title": "[英] Treating pancreatic tumours may have revealed cancer's master switch",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://desfontain.es/blog/banning-noise.html",
-    "title": "[英] US bans differential privacy in Census data",
+    "title": "[英] AI coding at home without going broke",
     "date": "2026-06-14"
   }
 ]
