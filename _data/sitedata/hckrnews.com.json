@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://zenodo.org/records/20492768",
+    "title": "[英] Exceptions should not be handled – they should be aggregated",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://www.agilehunt.com/blog/fable-5-jailbreak-ai-guardrails",
+    "title": "[英] The Fable 5 Jailbreak Shows Why AI Guardrails Alone Are Not Enough",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+    "title": "[英] A low-carbon computing platform from your retired phones",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://github.com/Paca-AI/paca",
+    "title": "[英] Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+    "date": "2026-06-13"
+  },
+  {
     "link": "https://tastecooking.com/fudgetown-usa/",
     "title": "[英] Fudgetown, USA (2024)",
     "date": "2026-06-13"
@@ -52,26 +72,6 @@
   {
     "link": "https://www.ft.com/content/adbf76dc-c476-4f8f-9a6e-3bea0a5c24a6",
     "title": "[英] Sam Bankman-Fried loses fraud conviction appeal",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://github.com/entGriff/ezra",
-    "title": "[英] Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e",
-    "title": "[英] A generic dynamic array in C that stores no capacity and needs no struct",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48511812",
-    "title": "[英] undefined",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
-    "title": "[英] On CPU Physics and CPU Cycles",
     "date": "2026-06-13"
   }
 ]
