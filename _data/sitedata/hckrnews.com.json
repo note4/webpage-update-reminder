@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
+    "title": "[英] An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://riemann.adilmoujahid.com",
+    "title": "[英] The Riemann Hypothesis – interactive explanation",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://blog.keyvan.net/p/thoughts-on-ai-and-jobs",
+    "title": "[英] Thoughts on AI and Jobs",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://hallucinate.site/gallery",
+    "title": "[英] Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+    "title": "[英] Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+    "date": "2026-06-13"
+  },
+  {
+    "link": "https://areweguiyet.com/#ecosystem",
+    "title": "[英] The state of building user interfaces in Rust",
+    "date": "2026-06-13"
+  },
+  {
     "link": "https://zenodo.org/records/20492768",
     "title": "[英] Exceptions should not be handled – they should be aggregated",
     "date": "2026-06-13"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
     "title": "[英] Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://medium.com/@Arcaarcana/the-extraordinary-story-of-girolamo-segato-03d8dae30758",
-    "title": "[英] The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://blog.unitedheroes.net/5751",
-    "title": "[英] Leaving Mozilla",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development",
-    "title": "[英] Automating Myself Out of Development",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-    "title": "[英] Shepherd's Dog: A Game by the Most Dangerous AI Model",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
-    "title": "[英] There is a shadow hanging over this Fable thing",
-    "date": "2026-06-13"
-  },
-  {
-    "link": "https://www.ft.com/content/adbf76dc-c476-4f8f-9a6e-3bea0a5c24a6",
-    "title": "[英] Sam Bankman-Fried loses fraud conviction appeal",
     "date": "2026-06-13"
   }
 ]
