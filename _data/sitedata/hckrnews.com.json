@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://paulgraham.com/earn.html",
+    "title": "[英] How to Earn a Billion Dollars",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918",
+    "title": "[英] Windows 1.0 and the WinAPI, 40 Years Later",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://www.ft.com/content/514bab88-788c-4d48-a140-03597860bdb6",
+    "title": "[英] UK police officer under criminal investigation over alleged use of AI",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://github.com/raress96/dolby-atmos-encoder",
+    "title": "[英] Raress96/Dolby-Atmos-encoder: PoC Dolby Atmos encoder",
+    "date": "2026-06-14"
+  },
+  {
     "link": "https://guille.site/posts/space-cooling/",
     "title": "[英] Cooling in Space",
     "date": "2026-06-14"
@@ -52,26 +72,6 @@
   {
     "link": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
     "title": "[英] Pac-Man, but you're the ghost",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://sqltoerdiagram.com/",
-    "title": "[英] Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://martinfowler.com/architecture/",
-    "title": "[英] Software Architecture Guide (2019)",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://github.com/AnalogCyberNuke/RE-Verse-2026-Slides/blob/main/Reverse26.pdf",
-    "title": "[英] (Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://internetfreedom.torproject.org/funding-distribution/",
-    "title": "[英] Quadratic funding democratizes allocation by rewarding projects w/ broad support",
     "date": "2026-06-14"
   }
 ]
