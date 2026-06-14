@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+    "title": "[英] Did Anthropic Ask for This?",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+    "title": "[英] AI is code – and can't be prompted into being smarter",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
+    "title": "[英] Why Is Claude Turning into an a**Hole?",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0",
+    "title": "[英] TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://axiommath.ai/territory/the-reveal",
+    "title": "[英] Lattice Triangles Are Rare",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Abu_Fanous",
+    "title": "[英] Abu Fanous",
+    "date": "2026-06-15"
+  },
+  {
     "link": "https://yusufaytas.com/vibe-coder-vs-software-engineer",
     "title": "[英] Vibe Coder vs. Software Engineer",
     "date": "2026-06-15"
@@ -42,36 +72,6 @@
   {
     "link": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
     "title": "[英] Chaosnet (1981)",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://aresluna.org/segmented-type/",
-    "title": "[英] Segmented type appreciation corner (2018)",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed",
-    "title": "[英] Rome Fell and Nobody Noticed",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://old.reddit.com/r/Damnthatsinteresting/comments/boea4v/a_clear_fishing_wire_is_tied_around_the_island_of/",
-    "title": "[英] A clear fishing wire is tied around the island of Manhattan",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits",
-    "title": "[英] USB Power Delivery: Plugging into the Benefits",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://dir.dillo-browser.org/",
-    "title": "[英] Dillo directory – Directory of useful sites that work reasonably well on Dillo",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://txt.fyi/e8f40392583842df",
-    "title": "[英] Amodei the Man Behind DeepSeek?",
     "date": "2026-06-15"
   }
 ]
