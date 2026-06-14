@@ -1,12 +1,37 @@
 [
   {
+    "link": "https://guille.site/posts/space-cooling/",
+    "title": "[英] Cooling in Space",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
+    "title": "[英] 500-year-old monasteries outperform at digital transformation (U. of Zurich)",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://replicated.wiki/blog/uris.html",
+    "title": "[英] Beagle: Git, URIs and all the dirty words",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+    "title": "[英] Don't trust large context windows",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says",
+    "title": "[英] Consciousness likely not unique to earthlings, paper says",
+    "date": "2026-06-14"
+  },
+  {
     "link": "https://inventingthefuture.ghost.io/laserwriter-seeds/",
-    "title": "[英] LaserWriter Seeds",
+    "title": "[英] LaserWriter seeds",
     "date": "2026-06-14"
   },
   {
     "link": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
-    "title": "[英] Phoenix LiveView 1.2 Released",
+    "title": "[英] Phoenix LiveView 1.2",
     "date": "2026-06-14"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://internetfreedom.torproject.org/funding-distribution/",
     "title": "[英] Quadratic funding democratizes allocation by rewarding projects w/ broad support",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://ataraxy-labs.github.io/weave/",
-    "title": "[英] Weave: Merging based on language structure and not lines",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://gridlanes.webkit.org/",
-    "title": "[英] The Field Guide to CSS Grid Lanes",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-    "title": "[英] Building a serial and VGA \"everything console\"",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
-    "title": "[英] The redistribution of housing wealth caused by rent control [pdf]",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://igor-blue.github.io/2021/03/24/apt1.html",
-    "title": "[英] Apt Encounters of the Third Kind",
     "date": "2026-06-14"
   }
 ]
