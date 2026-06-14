@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://traceapp.info",
+    "title": "[英] Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+    "title": "[英] Inverse Rubric Optimization: A testbed for agent science",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+    "title": "[英] Chaosnet",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://aresluna.org/segmented-type/",
+    "title": "[英] Segmented type appreciation corner (2018)",
+    "date": "2026-06-15"
+  },
+  {
     "link": "https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed",
     "title": "[英] Rome Fell and Nobody Noticed",
     "date": "2026-06-15"
@@ -20,8 +40,8 @@
     "date": "2026-06-15"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=48530048",
-    "title": "[英] undefined",
+    "link": "https://txt.fyi/e8f40392583842df",
+    "title": "[英] Amodei the Man Behind DeepSeek?",
     "date": "2026-06-15"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
     "title": "[英] Swiss voters reject proposal to cap population at ten million",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
-    "title": "[英] Linux 7.1",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://github.com/nex-agi/Nex-N2/issues/4",
-    "title": "[英] Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://mgunlogson.github.io/magma/",
-    "title": "[英] Show HN: 3D print Z reinforcement via injected loops",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
-    "title": "[英] Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
     "date": "2026-06-15"
   }
 ]
