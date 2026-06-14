@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://yusufaytas.com/vibe-coder-vs-software-engineer",
+    "title": "[英] Vibe Coder vs. Software Engineer",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://zinnia-os.org/",
+    "title": "[英] Zinnia: A modular 64-bit Unix-like kernel written in Rust",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://luckyrobots.com/",
+    "title": "[英] The first game engine for robotics",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://www.orangecrumbs.com/",
+    "title": "[英] Show HN: Discover Wikipedia articles popular on Hacker News",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://github.com/joske/yserver",
+    "title": "[英] Yserver: A modern X11 server written in Rust",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://siri4eu.com",
+    "title": "[英] Bring Siri AI to EU iPhone Users Safely",
+    "date": "2026-06-15"
+  },
+  {
     "link": "https://traceapp.info",
     "title": "[英] Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
     "date": "2026-06-15"
@@ -11,7 +41,7 @@
   },
   {
     "link": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
-    "title": "[英] Chaosnet",
+    "title": "[英] Chaosnet (1981)",
     "date": "2026-06-15"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://txt.fyi/e8f40392583842df",
     "title": "[英] Amodei the Man Behind DeepSeek?",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://github.com/tamnd/kage",
-    "title": "[英] Show HN: Kage – Shadow any website to a single binary for offline viewing",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/",
-    "title": "[英] AI is code and can't be prompted into being smarter",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48529190",
-    "title": "[英] FTX's former Anthropic stake would be worth about $75B at today's valuation",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48528779",
-    "title": "[英] Ask HN: What are you working on? (June 2026)",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
-    "title": "[英] Quivers: A year of linear algebra by drawing arrows",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
-    "title": "[英] Swiss voters reject proposal to cap population at ten million",
     "date": "2026-06-15"
   }
 ]
