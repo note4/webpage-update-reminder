@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware",
+    "title": "[英] Arch Linux AUR Hit by Another Wave of Now More Sophisticated Malware Attack",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://su3.io/posts/zeroserve-caddy-compat",
+    "title": "[英] Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/",
+    "title": "[英] Conversations with a six-year-old on functional programming (2018)",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://faroutcompany.com/",
+    "title": "[英] FarOutCompany",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "title": "[英] KPMG pulls report on AI usage due to apparent hallucinations",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://capefearadvisors.substack.com/p/spacex-adding-it-up-the-235-billion",
+    "title": "[英] SpaceX, Adding It Up – The $235B Cash Gap",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://blog.digitalgrease.dev/posts/fauxx-cant-stop-the-signal",
+    "title": "[英] Can't Stop the Signal. Poison It",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
+    "title": "[英] Lisp's Influence on Ruby",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
+    "title": "[英] How did Atari apply side art to Arcade Cabinets?",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://screen.toys/firewood/",
+    "title": "[英] Firewood Splitting Simulator",
+    "date": "2026-06-14"
+  },
+  {
+    "link": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+    "title": "[英] The Birth and Death of JavaScript (2014)",
+    "date": "2026-06-14"
+  },
+  {
     "link": "https://paulgraham.com/earn.html",
     "title": "[英] How to Earn a Billion Dollars",
     "date": "2026-06-14"
@@ -17,61 +72,6 @@
   {
     "link": "https://github.com/raress96/dolby-atmos-encoder",
     "title": "[英] Raress96/Dolby-Atmos-encoder: PoC Dolby Atmos encoder",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://guille.site/posts/space-cooling/",
-    "title": "[英] Cooling in Space",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
-    "title": "[英] 500-year-old monasteries outperform at digital transformation (U. of Zurich)",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://replicated.wiki/blog/uris.html",
-    "title": "[英] Beagle: Git, URIs and all the dirty words",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
-    "title": "[英] Don't trust large context windows",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says",
-    "title": "[英] Consciousness likely not unique to earthlings, paper says",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://inventingthefuture.ghost.io/laserwriter-seeds/",
-    "title": "[英] LaserWriter seeds",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
-    "title": "[英] Phoenix LiveView 1.2",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://www.thedrive.com/news/meet-the-neat-little-vehicles-that-run-a-cemetery",
-    "title": "[英] The Neat Little Vehicles That Run a Cemetery",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://www.anthropic.com/research/making-claude-a-chemist",
-    "title": "[英] Making Claude a Chemist",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "http://tribblix.org/",
-    "title": "[英] Tribblix: The retro Illumos distribution",
-    "date": "2026-06-14"
-  },
-  {
-    "link": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-    "title": "[英] Pac-Man, but you're the ghost",
     "date": "2026-06-14"
   }
 ]
