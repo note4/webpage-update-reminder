@@ -1,7 +1,57 @@
 [
   {
-    "link": "https://prawns.dev/blogs/memory-wall",
-    "title": "[英] Why Your CPU Is Fast but Your Program Is Slow: Understanding the Memory Wall",
+    "link": "https://www.fractalkitty.com/there-is-3-such-that/",
+    "title": "[英] There Is(Ǝ) – Such That (∋)",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office",
+    "title": "[英] Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+    "title": "[英] Apple Foundation Models",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+    "title": "[英] Curl will not accept vulnerability reports during July 2026",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://kottke.org/26/06/the-last-surviving-japanese-porsche-912-police-car",
+    "title": "[英] The Last Surviving Japanese Porsche 912 Police Car",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://www.bbc.co.uk/programmes/w3ct8k70",
+    "title": "[英] Why does paper fold so well?",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://twitter.com/DavidSacks/status/2065853007619588171",
+    "title": "[英] David Sacks on Anthropic export control",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://feralui.vercel.app/#/captcha",
+    "title": "[英] Prove you're human by winning a claw machine",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+    "title": "[英] Even more batteries included with Emacs",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+    "title": "[英] A short history of Cerro Torre, the most controversial mountain (2012)",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48491773",
+    "title": "[英] undefined",
     "date": "2026-06-15"
   },
   {
@@ -22,56 +72,6 @@
   {
     "link": "https://bitsy.org/",
     "title": "[英] Bitsy",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://wizardzines.com/comics/write-for-one-person/",
-    "title": "[英] Write for One Person",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
-    "title": "[英] The Jqwik Anti-AI Affair",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-    "title": "[英] Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://iza.ac/posts/2026/06/food-authenticity/",
-    "title": "[英] What even is food authenticity? Why we guard carbonara, and flatten chicken rice",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://www.bbc.com/news/live/cj0grpyg4v1t",
-    "title": "[英] US and Iran announce deal to end military operations",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://twitter.com/maattttbrown/status/2066215255987163246",
-    "title": "[英] Stanford grads walk out on Google CEO Sundar Pichai speech",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html",
-    "title": "[英] Chopped, Stored, Secured – The Story of the Hash Function",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
-    "title": "[英] Windows 11 users are tired of MS account requirements creeping into everything",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
-    "title": "[英] Did Anthropic ask for this?",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-    "title": "[英] AI is code – and can't be prompted into being smarter",
     "date": "2026-06-15"
   }
 ]

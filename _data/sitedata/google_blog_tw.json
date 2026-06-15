@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/intl/zh-tw/company-news/technology/2026-06-google-project-hatcher/",
+    "title": "第三屆 Google 孵創計畫　加速台灣新創 AI 應用落地、拓展國際市場",
+    "date": "2026-06-15 19:30:00"
+  },
+  {
     "link": "https://blog.google/intl/zh-tw/products/cloud/7-eleven--drives-innovation-with-google-cloud-ai/",
     "title": "統一超商以 Google Cloud AI 技術驅動創新，從飲食建議到智慧生活圈的消費體驗",
     "date": "2026-05-25 18:10:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/intl/zh-tw/products/devices-services/google-health/",
     "title": "Google Health 應用程式開啟健康新紀元",
     "date": "2026-05-08 06:00:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/google-translate-20/",
-    "title": "Google 翻譯 20 週年：跨越語言隔閡的 5 個發現",
-    "date": "2026-04-29 17:00:00"
   }
 ]
