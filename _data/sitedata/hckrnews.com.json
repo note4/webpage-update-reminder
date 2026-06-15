@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://prawns.dev/blogs/memory-wall",
+    "title": "[英] Why Your CPU Is Fast but Your Program Is Slow: Understanding the Memory Wall",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+    "title": "[英] 21 years and counting of 'eight fallacies of distributed computing' (2025)",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
+    "title": "[英] The hallucinogenic mushroom that contains no known psychedelic",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://theslowburningfuse.wordpress.com/2026/06/14/the-rich-arent-your-role-models-theyre-your-oppressors/",
+    "title": "[英] The rich aren't your role models",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://bitsy.org/",
+    "title": "[英] Bitsy",
+    "date": "2026-06-15"
+  },
+  {
+    "link": "https://wizardzines.com/comics/write-for-one-person/",
+    "title": "[英] Write for One Person",
+    "date": "2026-06-15"
+  },
+  {
     "link": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
     "title": "[英] The Jqwik Anti-AI Affair",
     "date": "2026-06-15"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
     "title": "[英] AI is code – and can't be prompted into being smarter",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
-    "title": "[英] Why Is Claude Turning into an a**Hole?",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0",
-    "title": "[英] TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://axiommath.ai/territory/the-reveal",
-    "title": "[英] Lattice Triangles Are Rare",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Abu_Fanous",
-    "title": "[英] Abu Fanous",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://yusufaytas.com/vibe-coder-vs-software-engineer",
-    "title": "[英] Vibe Coder vs. Software Engineer",
-    "date": "2026-06-15"
-  },
-  {
-    "link": "https://zinnia-os.org/",
-    "title": "[英] Zinnia: A modular 64-bit Unix-like kernel written in Rust",
     "date": "2026-06-15"
   }
 ]
