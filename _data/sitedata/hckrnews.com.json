@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://constructive-calculator.dimview.org/writeup.html",
+    "title": "[英] A calculator that doesn't round",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://fred.stlouisfed.org/series/IPG33591S",
+    "title": "[英] US battery manufacturing output continues to break records",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://michaelenger.com/blog/i-love-the-computer/",
+    "title": "[英] I Love the Computer",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/",
+    "title": "[英] US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://roman.pt/posts/linkedin-backdoor/",
+    "title": "[英] A backdoor in a LinkedIn job offer",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083",
+    "title": "[英] US Government Reportedly Allowing Federal Data Center Rules to Expire",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
+    "title": "[英] What every coder should know about Gamma Correction",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/",
+    "title": "[英] Factoring \"short-sleeve\" RSA keys with polynomials",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://www.anthropic.com/news/claude-corps",
+    "title": "[英] Claude Corps",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php",
+    "title": "[英] Around 200 Stanford students walk out as Google CEO takes stage",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://serialport.org/blog/the-alaska-server/",
+    "title": "[英] The Alaska Server",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://forgottenbytes.net/commander_keen.html",
+    "title": "[英] Game Engine White Papers Commander Keen",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://typst.app/docs/changelog/0.15.0/",
+    "title": "[英] Typst 0.15.0",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://tolgee.io/blog/building-a-plugin-system-for-tolgee-without-a-runtime-storage-or-shared-js-context",
+    "title": "[英] Building a plugin system without runtime, storage, or shared JavaScript context",
+    "date": "2026-06-16"
+  },
+  {
     "link": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
     "title": "[英] How TimescaleDB compresses time-series data",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://fata.dev",
-    "title": "[英] Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://nick.zoic.org/art/boot-naked-linux/",
-    "title": "[英] Boot Naked Linux",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://humaverify.com/blog/anatomy-of-a-55k-bot-attack",
-    "title": "[英] Bots flooded my anti-bot startup with 55,000 fake signups",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://machine0.io",
-    "title": "[英] Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://www.theregister.com/research/2026/06/15/google-says-prc-linked-spies-hid-in-medical-research-networks-for-more-than-a-year/5254547",
-    "title": "[英] PRC-linked spies hid inside medical and military networks for more than a year",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-    "title": "[英] Hetzner Price Adjustment",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-    "title": "[英] Memory safety CVEs differ between Rust and C/C++",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48543908",
-    "title": "[英] Launch HN: Drafted (YC P26) – Models for residential architecture",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://tinywind.io",
-    "title": "[英] TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
-    "title": "[英] How Brexit has made Britain poorer – in charts",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://nxui.geoql.in/docs/",
-    "title": "[英] Show HN: Nxui – Copy-paste animated UI components for Vue",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://letter.nikomc.com/p/virtual-cells",
-    "title": "[英] How to build a virtual cell and biology scaling laws",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48542100",
-    "title": "[英] Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://rsgm.dev/post/ai-dev-platform/",
-    "title": "[英] My Homelab AI Dev Platform",
     "date": "2026-06-16"
   }
 ]
