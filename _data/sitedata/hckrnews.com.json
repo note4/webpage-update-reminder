@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.kqed.org/news/12081882/san-francisco-has-been-trying-to-leave-pge-for-100-years-will-this-time-be-different",
+    "title": "[英] San Francisco Weighs PG&E Takeover Amid Soaring Utility Costs",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://www.richardosgood.com/posts/banned-book-library/",
+    "title": "[英] Banned Book Library in a Wi-Fi Smart Light Bulb",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://www.riksdagen.se/en/news/articles/2026/jun/9/permanent-residence-permits-to-be-abolished_cmsc5d86c7b-fecc-4799-9e89-e63592d6c6bfen/",
+    "title": "[英] Swedish parliament abolishes permanent residence visas for migrants",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://totaldebug.uk/posts/reviving-an-abandoned-open-source-project/",
+    "title": "[英] Reviving an abandoned open-source project: 6 years of Atomic Calendar Revive",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "title": "[英] Why I Email Complete Strangers",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://forgottenbytes.net/",
+    "title": "[英] Commander Keen Games (free book)",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://gmalandrakis.com/writings/ad-economicum.html",
+    "title": "[英] The Dead Economy Theory",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+    "title": "[英] What job interviews taught me about Kubernetes",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://economist.com/the-americas/2026/06/11/techno-libertarians-are-flocking-to-the-caribbean",
+    "title": "[英] Techno-libertarians are flocking to the Caribbean",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48546959",
+    "title": "[英] undefined",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://grassdx.com/",
+    "title": "[英] Show HN: Vet turned founder, AI lawn diagnosis",
+    "date": "2026-06-16"
+  },
+  {
     "link": "https://constructive-calculator.dimview.org/writeup.html",
     "title": "[英] A calculator that doesn't round",
     "date": "2026-06-16"
@@ -17,61 +72,6 @@
   {
     "link": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/",
     "title": "[英] US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://roman.pt/posts/linkedin-backdoor/",
-    "title": "[英] A backdoor in a LinkedIn job offer",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083",
-    "title": "[英] US Government Reportedly Allowing Federal Data Center Rules to Expire",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
-    "title": "[英] What every coder should know about Gamma Correction",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/",
-    "title": "[英] Factoring \"short-sleeve\" RSA keys with polynomials",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://www.anthropic.com/news/claude-corps",
-    "title": "[英] Claude Corps",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php",
-    "title": "[英] Around 200 Stanford students walk out as Google CEO takes stage",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://serialport.org/blog/the-alaska-server/",
-    "title": "[英] The Alaska Server",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://forgottenbytes.net/commander_keen.html",
-    "title": "[英] Game Engine White Papers Commander Keen",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://typst.app/docs/changelog/0.15.0/",
-    "title": "[英] Typst 0.15.0",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://tolgee.io/blog/building-a-plugin-system-for-tolgee-without-a-runtime-storage-or-shared-js-context",
-    "title": "[英] Building a plugin system without runtime, storage, or shared JavaScript context",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-    "title": "[英] How TimescaleDB compresses time-series data",
     "date": "2026-06-16"
   }
 ]
