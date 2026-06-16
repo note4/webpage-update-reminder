@@ -1,7 +1,52 @@
 [
   {
+    "link": "https://github.com/nvlabs/cutile-rs",
+    "title": "[英] Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://www.fdd.org/analysis/2026/04/23/total-iran-economic-damage-estimate/",
+    "title": "[英] Total Iran Economic Damage Estimate",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://hedgehogreview.com/web-features/thr/posts/companions-on-parnassus",
+    "title": "[英] W.H. Auden and James Schuyler in life and literature",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+    "title": "[英] GrapheneOS has been ported to Android 17 and official releases are coming soon",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://twitter.com/i/status/2066825204207091926",
+    "title": "[英] AI is potentially a Dunning-Kruger effect amplifier",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://voicedraw.com/",
+    "title": "[英] Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://wegfawefgawefg.github.io/asm-shader-toy/",
+    "title": "[英] ASM Shader Toy",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://words.filippo.io/frood/",
+    "title": "[英] Frood, an Alpine Initramfs NAS (2024)",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical",
+    "title": "[英] Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture",
+    "date": "2026-06-17"
+  },
+  {
     "link": "https://ankursethi.com/links/nobody-clicks-your-share-buttons/",
-    "title": "[英] Nobody clicks your share buttons",
+    "title": "[英] I've always wondered if anyone used sharing buttons on news sites and blogs",
     "date": "2026-06-17"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://sabela.datahaskell.com/",
     "title": "[英] Show HN: Sabela – A Reactive Notebook for Haskell",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://www.jameshylands.co.uk/2026/06/sortis-paper-empire-game.html",
-    "title": "[英] Show HN: Pen and paper resource development game with an emergent world",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://exclav.es/2026/06/13/flip-table-storing-arbitrary-data-in-inaturalist/",
-    "title": "[英] Flip TABLE: storing arbitrary data in iNaturalist",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "title": "[英] Has AI already killed self-help nonfiction books?",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://cacm.acm.org/news/cooling-at-the-speed-of-light/",
-    "title": "[英] Cooling at the Speed of Light",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-    "title": "[英] GPT‑NL: a sovereign language model for the Netherlands",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-    "title": "[英] Calvin and Hobbes and the price of integrity",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
-    "title": "[英] Stop Using JWTs",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
-    "title": "[英] 10Gb/s Ethernet: switching to a Broadcom SFP+ module",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://blog.goodman.dev/blog/octopus-agent-architecture/",
-    "title": "[英] The octopus architecture for AI agents",
     "date": "2026-06-17"
   }
 ]
