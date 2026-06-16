@@ -1,5 +1,35 @@
 [
   {
+    "link": "http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/",
+    "title": "[英] Reviews have become expensive, rewrites have become cheap",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
+    "title": "[英] Amazon Announces Multibillion-Dollar Data Center in Missouri",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://cohere.com/blog/north-mini-code",
+    "title": "[英] Cohere's First Model for Developers",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://ohdear.app/news-and-updates/the-ghost-domain-problem-in-dns-and-what-were-doing-about-it",
+    "title": "[英] The ghost domain problem in DNS, and what we're doing about it",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://github.com/firish/claude_code_vs",
+    "title": "[英] Show HN: Claude Code for Visual Studio (native diff with accept/reject)",
+    "date": "2026-06-16"
+  },
+  {
+    "link": "https://kcsrk.info/ocaml/oxcaml/teaching/nptel/llm/2026/06/13/an-oxcaml-book-that-runs/",
+    "title": "[英] An O(x)Caml book that runs",
+    "date": "2026-06-16"
+  },
+  {
     "link": "https://www.kqed.org/news/12081882/san-francisco-has-been-trying-to-leave-pge-for-100-years-will-this-time-be-different",
     "title": "[英] San Francisco Weighs PG&E Takeover Amid Soaring Utility Costs",
     "date": "2026-06-16"
@@ -21,7 +51,7 @@
   },
   {
     "link": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-    "title": "[英] Why I Email Complete Strangers",
+    "title": "[英] Why I email complete strangers",
     "date": "2026-06-16"
   },
   {
@@ -31,7 +61,7 @@
   },
   {
     "link": "https://gmalandrakis.com/writings/ad-economicum.html",
-    "title": "[英] The Dead Economy Theory",
+    "title": "[英] Peopleless economy? Not technically impossible",
     "date": "2026-06-16"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://economist.com/the-americas/2026/06/11/techno-libertarians-are-flocking-to-the-caribbean",
     "title": "[英] Techno-libertarians are flocking to the Caribbean",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48546959",
-    "title": "[英] undefined",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://grassdx.com/",
-    "title": "[英] Show HN: Vet turned founder, AI lawn diagnosis",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://constructive-calculator.dimview.org/writeup.html",
-    "title": "[英] A calculator that doesn't round",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://fred.stlouisfed.org/series/IPG33591S",
-    "title": "[英] US battery manufacturing output continues to break records",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://michaelenger.com/blog/i-love-the-computer/",
-    "title": "[英] I Love the Computer",
-    "date": "2026-06-16"
-  },
-  {
-    "link": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/",
-    "title": "[英] US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
     "date": "2026-06-16"
   }
 ]
