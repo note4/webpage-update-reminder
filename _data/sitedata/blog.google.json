@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/digital-wellbeing-fund-mental-health/",
+    "title": "[英] Expanding our U.S. digital wellbeing fund",
+    "date": "2026-06-17 02:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/",
+    "title": "[英] Wear OS 7 helps your smartwatch keep up with you",
+    "date": "2026-06-17 02:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
+    "title": "[英] New expanded Android parental controls to support families around the world",
+    "date": "2026-06-17 02:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/platforms/android/android-17-features/",
+    "title": "[英] Check out what's new in Android 17",
+    "date": "2026-06-17 02:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/families/summer-screen-time-family-fun/",
+    "title": "[英] 3 ways to balance screen time and keep kids engaged this summer",
+    "date": "2026-06-17 02:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
+    "title": "[英] June Pixel Drop: New features for creators, Gemini upgrades and more",
+    "date": "2026-06-17 02:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/technology/xr-ar/awe-2026/",
     "title": "[英] Reservations are open for XREAL AURA — plus, see more news from AWE 2026.",
     "date": "2026-06-17 01:00:00"
@@ -43,35 +73,5 @@
     "link": "https://blog.google/products/marketingplatform/360/walmart-connect/",
     "title": "[英] We’re bringing Walmart Connect to Display & Video 360.",
     "date": "2026-06-11 20:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/skilled-trades/",
-    "title": "[英] Growing the next generation of American workers",
-    "date": "2026-06-11 17:15:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/50-new-digital-exhibitions-from-africa-on-google-arts-culture/",
-    "title": "[英] Step inside 50 new digital exhibitions from Africa on Google Arts & Culture",
-    "date": "2026-06-11 17:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
-    "title": "[英] DiffusionGemma: 4x faster text generation",
-    "date": "2026-06-11 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-features-for-businesses/",
-    "title": "[英] Save time and grow your business with new Gemini tools",
-    "date": "2026-06-10 23:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/chrome/chrome-expands-latin-america/",
-    "title": "[英] We’re expanding Gemini in Chrome to users in Latin America, Africa, the Middle East and more.",
-    "date": "2026-06-10 23:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/read-the-future-report-uk/",
-    "title": "[英] Read The Future Report, our research elevating teen voices across the UK.",
-    "date": "2026-06-10 18:00:00"
   }
 ]
