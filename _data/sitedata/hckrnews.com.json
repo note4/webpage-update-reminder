@@ -1,5 +1,15 @@
 [
   {
+    "link": "http://ibm1130.org/",
+    "title": "[英] All about the IBM 1130 Computing System",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://kirklandroundabouts.com",
+    "title": "[英] The Magic Roundabout of Seattle Area",
+    "date": "2026-06-17"
+  },
+  {
     "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
     "title": "[英] Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
     "date": "2026-06-17"
@@ -62,16 +72,6 @@
   {
     "link": "https://voicedraw.com/",
     "title": "[英] Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://wegfawefgawefg.github.io/asm-shader-toy/",
-    "title": "[英] ASM Shader Toy",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://words.filippo.io/frood/",
-    "title": "[英] Frood, an Alpine Initramfs NAS (2024)",
     "date": "2026-06-17"
   }
 ]
