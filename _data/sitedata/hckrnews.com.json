@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+    "title": "[英] Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
+    "title": "[英] ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://www.statsignificant.com/p/the-rise-and-potential-fall-of-letterboxd",
+    "title": "[英] The Rise and (Potential) Fall of Letterboxd",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://kerkour.com/stdx-cratesio",
+    "title": "[英] Why stdx is not on crates.io",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://lore.org/",
+    "title": "[英] Epic Games announces Lore version control system",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+    "title": "[英] AI demands more engineering discipline. Not less",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://johnowhitaker.github.io/inkwash/about",
+    "title": "[英] Show HN: Inkwash, a watercolor sketching app and explanation",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://brevio.pro",
+    "title": "[英] Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48569942",
+    "title": "[英] undefined",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+    "title": "[英] Want your images back? Sure... That'll be $5!",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://github.com/rxi/microui",
+    "title": "[英] MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://www.makingsoftware.com/chapters/image-compression",
+    "title": "[英] Image Compression",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://wpvip.com/future-of-the-web-2026/",
+    "title": "[英] Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "date": "2026-06-17"
+  },
+  {
     "link": "https://airfields-freeman.com/",
     "title": "[英] Abandoned and Little-Known Airfields",
     "date": "2026-06-17"
@@ -7,71 +72,6 @@
   {
     "link": "https://www.rfc-editor.org/info/rfc10008/",
     "title": "[英] RFC 10008: The new HTTP Query Method",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://github.com/ArcaEge/capacitor-alarm-clock",
-    "title": "[英] Show HN: Capacitor Alarm Clock",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://artificialanalysis.ai/models/glm-5-2",
-    "title": "[英] GLM 5.2 Performance Benchmarks",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-    "title": "[英] GLM-5.2 is the new leading open weights model on Artificial Analysis",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48567958",
-    "title": "[英] Ask HN: What has been bothering you lately?",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://cells2pixels.github.io/",
-    "title": "[英] Show HN: High-Res Neural Cellular Automata",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-    "title": "[英] U.S. Science Is in Chaos",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html",
-    "title": "[英] Map Clustering Is Not My Favorite",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020",
-    "title": "[英] Most of the CVE-2026-4020 attackers are the same client",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://bubbles.town/",
-    "title": "[英] Hacker News but for Independent Blogs",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://stephantul.github.io/blog/unfence/",
-    "title": "[英] From Chesterton's fence to Chesterton's gap",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://www.noemamag.com/making-food-out-of-thin-air/",
-    "title": "[英] Making 'food out of thin air' (2024)",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant",
-    "title": "[英] Why do commercial spaces sit vacant?",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://claude.com/blog/the-founders-playbook",
-    "title": "[英] The founder's playbook: Building an AI-native startup",
     "date": "2026-06-17"
   }
 ]
