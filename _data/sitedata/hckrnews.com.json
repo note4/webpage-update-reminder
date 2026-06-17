@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://starscope.live/feed",
+    "title": "[英] Show HN: StarScope – Free astronomy dashboard for observers outside the US/UK",
+    "date": "2026-06-18"
+  },
+  {
+    "link": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+    "title": "[英] The hacker sent by Anthropic to calm the government's nerves about AI safety",
+    "date": "2026-06-18"
+  },
+  {
+    "link": "https://thehappytraveler.ca/travel-guide-italy/capitoline-wolf-siena-rome-myths/",
+    "title": "[英] The Capitoline Wolf",
+    "date": "2026-06-18"
+  },
+  {
     "link": "https://openai.com/index/ai-chemist-improves-reaction/",
     "title": "[英] AI chemist improves a challenging reaction in medicinal chemistry",
     "date": "2026-06-18"
@@ -57,21 +72,6 @@
   {
     "link": "https://github.com/Adam-CAD/CADAM",
     "title": "[英] Launch HN: Adam (YC W25) – Open-Source AI CAD",
-    "date": "2026-06-18"
-  },
-  {
-    "link": "https://github.com/evanklem/polypore",
-    "title": "[英] Agentic coding deserves more than a chat box bolted onto VS Code",
-    "date": "2026-06-18"
-  },
-  {
-    "link": "https://www.thesignalist.io/s/the-dialogue-dividend/",
-    "title": "[英] Why thinking out loud with someone beats thinking alone",
-    "date": "2026-06-18"
-  },
-  {
-    "link": "https://glasskit.app/ui",
-    "title": "[英] Open-source React UI and D-pad focus engine for Meta Ray-Ban Display",
     "date": "2026-06-18"
   }
 ]
