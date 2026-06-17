@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://claude.com/blog/the-founders-playbook",
+    "title": "[英] The founder's playbook: Building an AI-native startup",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://arxiv.org/abs/2606.14806",
+    "title": "[英] Semiclassical Gravity Efficiently Solves NP-Complete Problems",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://github.com/RfidResearchGroup/ChameleonUltra",
+    "title": "[英] Chameleon Ultra: a flashdrive sized NFC toolkit",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://github.com/nzaki-dev/dialog",
+    "title": "[英] Peter Thiel's private society attendance list leaked via hard-coded HTML",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+    "title": "[英] Apple plans change to Hide My Email that could make it less effective",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+    "title": "[英] DOJ claims xAI's gas turbines are a matter of 'national and energy security'",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
+    "title": "[英] Subterranean fungi networks more than 100 quadrillion km in length",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://inessential.com/2026/06/15/netnewswire-status.html",
+    "title": "[英] NetNewsWire Status",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://www.asimov.press/p/glass",
+    "title": "[英] Working in Glass",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
+    "title": "[英] Leaked OpenAI financials show $38.5B loss and compute burn",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://www.economist.com/interactive/1843/2026/06/12/the-amphibious-villagers-of-indonesia",
+    "title": "[英] The Amphibious Villagers of Indonesia",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://jxmo.io/posts/nce",
+    "title": "[英] Demystifying Noise Contrastive Estimation",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
+    "title": "[英] Stop Killing Games fails to secure EU law despite 1.3M signatures",
+    "date": "2026-06-17"
+  },
+  {
     "link": "http://ibm1130.org/",
     "title": "[英] All about the IBM 1130 Computing System",
     "date": "2026-06-17"
@@ -7,71 +72,6 @@
   {
     "link": "https://kirklandroundabouts.com",
     "title": "[英] The Magic Roundabout of Seattle Area",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-    "title": "[英] Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/",
-    "title": "[英] A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
-    "title": "[英] NLnet announces funding for 67 more open-source projects",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-    "title": "[英] Humiliating IIS servers for fun and jail time",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
-    "title": "[英] Among the large new rockets Amazon was counting on, only Europe has delivered",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://analogtv.net/mechanical-lab",
-    "title": "[英] A Nipkow Disk Mechanical TV Simulator",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/",
-    "title": "[英] The UK's Teen Social Media Ban Is Political Theater, Not Child Safety Policy",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://github.com/nvlabs/cutile-rs",
-    "title": "[英] Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://www.fdd.org/analysis/2026/04/23/total-iran-economic-damage-estimate/",
-    "title": "[英] Total Iran Economic Damage Estimate",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://hedgehogreview.com/web-features/thr/posts/companions-on-parnassus",
-    "title": "[英] W.H. Auden and James Schuyler in life and literature",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-    "title": "[英] GrapheneOS has been ported to Android 17",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://twitter.com/i/status/2066825204207091926",
-    "title": "[英] AI is potentially a Dunning-Kruger effect amplifier",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://voicedraw.com/",
-    "title": "[英] Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
     "date": "2026-06-17"
   }
 ]
