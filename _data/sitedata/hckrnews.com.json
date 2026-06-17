@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://airfields-freeman.com/",
+    "title": "[英] Abandoned and Little-Known Airfields",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://www.rfc-editor.org/info/rfc10008/",
+    "title": "[英] RFC 10008: The new HTTP Query Method",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://github.com/ArcaEge/capacitor-alarm-clock",
+    "title": "[英] Show HN: Capacitor Alarm Clock",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://artificialanalysis.ai/models/glm-5-2",
+    "title": "[英] GLM 5.2 Performance Benchmarks",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "title": "[英] GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48567958",
+    "title": "[英] Ask HN: What has been bothering you lately?",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://cells2pixels.github.io/",
+    "title": "[英] Show HN: High-Res Neural Cellular Automata",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+    "title": "[英] U.S. Science Is in Chaos",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html",
+    "title": "[英] Map Clustering Is Not My Favorite",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020",
+    "title": "[英] Most of the CVE-2026-4020 attackers are the same client",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://bubbles.town/",
+    "title": "[英] Hacker News but for Independent Blogs",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://stephantul.github.io/blog/unfence/",
+    "title": "[英] From Chesterton's fence to Chesterton's gap",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://www.noemamag.com/making-food-out-of-thin-air/",
+    "title": "[英] Making 'food out of thin air' (2024)",
+    "date": "2026-06-17"
+  },
+  {
+    "link": "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant",
+    "title": "[英] Why do commercial spaces sit vacant?",
+    "date": "2026-06-17"
+  },
+  {
     "link": "https://claude.com/blog/the-founders-playbook",
     "title": "[英] The founder's playbook: Building an AI-native startup",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://arxiv.org/abs/2606.14806",
-    "title": "[英] Semiclassical Gravity Efficiently Solves NP-Complete Problems",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://github.com/RfidResearchGroup/ChameleonUltra",
-    "title": "[英] Chameleon Ultra: a flashdrive sized NFC toolkit",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://github.com/nzaki-dev/dialog",
-    "title": "[英] Peter Thiel's private society attendance list leaked via hard-coded HTML",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
-    "title": "[英] Apple plans change to Hide My Email that could make it less effective",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-    "title": "[英] DOJ claims xAI's gas turbines are a matter of 'national and energy security'",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
-    "title": "[英] Subterranean fungi networks more than 100 quadrillion km in length",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://inessential.com/2026/06/15/netnewswire-status.html",
-    "title": "[英] NetNewsWire Status",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://www.asimov.press/p/glass",
-    "title": "[英] Working in Glass",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
-    "title": "[英] Leaked OpenAI financials show $38.5B loss and compute burn",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://www.economist.com/interactive/1843/2026/06/12/the-amphibious-villagers-of-indonesia",
-    "title": "[英] The Amphibious Villagers of Indonesia",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://jxmo.io/posts/nce",
-    "title": "[英] Demystifying Noise Contrastive Estimation",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
-    "title": "[英] Stop Killing Games fails to secure EU law despite 1.3M signatures",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "http://ibm1130.org/",
-    "title": "[英] All about the IBM 1130 Computing System",
-    "date": "2026-06-17"
-  },
-  {
-    "link": "https://kirklandroundabouts.com",
-    "title": "[英] The Magic Roundabout of Seattle Area",
     "date": "2026-06-17"
   }
 ]
