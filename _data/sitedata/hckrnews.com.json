@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish",
+    "title": "[英] Vinyl Cache and Varnish Cache",
+    "date": "2026-06-18"
+  },
+  {
+    "link": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+    "title": "[英] Hospitals and universities repurposing drugs at 90% lower cost",
+    "date": "2026-06-18"
+  },
+  {
+    "link": "https://www.offthebricks.com/articles/smashed-toilet-phone-web-server",
+    "title": "[英] Smashed Toilet Phone Web Server",
+    "date": "2026-06-18"
+  },
+  {
+    "link": "https://velvetyne.fr/news/about-ascii-art-and-jgs-font/",
+    "title": "[英] About ASCII art and Jgs font (2023)",
+    "date": "2026-06-18"
+  },
+  {
+    "link": "https://rbelmont.mameworld.info/?p=1725",
+    "title": "[英] I need your clothes, your boots, and your motorcycle",
+    "date": "2026-06-18"
+  },
+  {
+    "link": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
+    "title": "[英] The Forge We Deserve",
+    "date": "2026-06-18"
+  },
+  {
+    "link": "https://mwi.westpoint.edu/war-books-the-marine-corps-commandants-2026-reading-list/",
+    "title": "[英] War Books: The Marine Corps Commandant's 2026 Reading List",
+    "date": "2026-06-18"
+  },
+  {
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+    "title": "[英] AMD silently removes memory encryption from consumer Ryzen CPUs",
+    "date": "2026-06-18"
+  },
+  {
+    "link": "https://tadaima.bearblog.dev/the-2-year-apartment-rule/",
+    "title": "[英] The 2-Year Apartment Rule",
+    "date": "2026-06-18"
+  },
+  {
+    "link": "https://sogen.dev/",
+    "title": "[英] Sogen – High-performance Windows and Linux userspace emulator",
+    "date": "2026-06-18"
+  },
+  {
     "link": "https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain",
     "title": "[英] How to Become a Person After Smartphones Have Rotted Your Brain",
     "date": "2026-06-18"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.bbc.com/news/articles/c3wyxvqdx1zo",
     "title": "[英] Apple boss Tim Cook says prices to rise due to memory chip costs",
-    "date": "2026-06-18"
-  },
-  {
-    "link": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
-    "title": "[英] I Hate Compilers",
-    "date": "2026-06-18"
-  },
-  {
-    "link": "https://www.mindfruit.co.uk/posts/2025/10/magic-buffers-and-io-uring-write-fixed/",
-    "title": "[英] Magic Buffers and io_uring Registered Buffers",
-    "date": "2026-06-18"
-  },
-  {
-    "link": "https://opencomputer.dev/blog/scaling-one-vm-to-million-sandboxes/",
-    "title": "[英] Scaling opencomputer from 1 VM to 1 million sandboxes",
-    "date": "2026-06-18"
-  },
-  {
-    "link": "https://store.steampowered.com/news/app/1675200/view/697641379212298072",
-    "title": "[英] SteamOS Linux 3.8 released as stable",
-    "date": "2026-06-18"
-  },
-  {
-    "link": "https://github.com/sophia486/pii-gui",
-    "title": "[英] Show HN: Local personal data redaction for any AI tools",
-    "date": "2026-06-18"
-  },
-  {
-    "link": "https://conf.nim-lang.org/",
-    "title": "[英] Nim Conf 2026 (Online, Sat June 20)",
-    "date": "2026-06-18"
-  },
-  {
-    "link": "https://blog.alexellis.io/local-ai-is-not-opus/",
-    "title": "[英] Local Qwen isn't a worse Opus, it's a different tool",
-    "date": "2026-06-18"
-  },
-  {
-    "link": "https://point.free/blog/delete-12-flags/",
-    "title": "[英] I restarted a 10 year old Xeon 174 times to delete 12 flags and gain 4 TPS",
-    "date": "2026-06-18"
-  },
-  {
-    "link": "https://www.continue.dev/",
-    "title": "[英] Continue has been acquired by Cursor",
-    "date": "2026-06-18"
-  },
-  {
-    "link": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
-    "title": "[英] [x86] AI Compute Extensions (ACE) Specification",
     "date": "2026-06-18"
   }
 ]
