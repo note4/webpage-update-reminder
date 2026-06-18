@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://devanshpanda.com/writing/volatility/",
+    "title": "[英] The value of employee equity depends a lot on volatility",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://hello-fri-end.github.io/2026/06/integer-quantization-deep-dive/",
+    "title": "[英] Integer Quantization: Deep Dive",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+    "title": "[英] Noam Shazeer Joins OpenAI",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48581792",
+    "title": "[英] Show HN: Run Agent Skills with mistral.rs v0.8.10: /v1/skills support and more",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48582005",
+    "title": "[英] Ask HN: Am I being advertised an ARG via user agent logs?",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48582679",
+    "title": "[英] Ask HN: Is anyone using the A2A protocol?",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+    "title": "[英] The Korean telecom giant at the center of Anthropic's Mythos controversy",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://agenticresourcediscovery.org/introduction/",
+    "title": "[英] Agentic Resource Discovery Specification",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://aasheesh.vercel.app/blog/lsm-tree",
+    "title": "[英] My LSM tree was slower than a B-tree. Then I profiled it",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://www.xodium.net/2026/06/the-ai-hate-progression.html",
+    "title": "[英] The AI Hate Progression",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48589357",
+    "title": "[英] Ask HN: What is the job market like?",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids",
+    "title": "[英] Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://kiesow.net/tech-ceos-are-breaking-the-law/",
+    "title": "[英] Tech CEOs are breaking the law",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
+    "title": "[英] The Token Compression Illusion: Why I'm Skeptical of RTK",
+    "date": "2026-06-19"
+  },
+  {
     "link": "https://rednafi.com/misc/chezmoi/",
     "title": "[英] Migrating from GNU Stow to Chezmoi",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
-    "title": "[英] The founder of Craigslist has given away half a billion dollars",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://collabfund.com/blog/our-achilles-heel/",
-    "title": "[英] Our Achilles Heel",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-    "title": "[英] Securing the Future of AI Agents",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://www.supremecourt.gov/opinions/25pdf/24-1234_g2bh.pdf",
-    "title": "[英] US Supreme Court drug users cannot be prohibited from firearms [pdf]",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://tim.blog/2024/02/09/harajuku-moment/",
-    "title": "[英] The Harajuku Moment",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://xvw.lol/en/articles/emacs-start.html",
-    "title": "[英] Emacs, how it all started (for me)",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://gerrymandle.cc/",
-    "title": "[英] Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://llm-wiki.net/",
-    "title": "[英] Show HN: 10x better performance from the Coding Harnesses with LLM-wiki",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://xcancel.com/xenovacom/status/2067289897111638484",
-    "title": "[英] Fable 5 pushed Gemma 4 to 255 tok/s on WebGPU",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/",
-    "title": "[英] TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://www.submission.directory/",
-    "title": "[英] A website that lists websites to submit your website to",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html",
-    "title": "[英] What was nice about the UI of Windows 2000",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://github.com/Sessa93/remote-df",
-    "title": "[英] Dwarf Fortress in the Browser",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://github.com/JohnQPulp/PublicDomainPulp",
-    "title": "[英] Converting Books into Visual Novels",
     "date": "2026-06-19"
   }
 ]
