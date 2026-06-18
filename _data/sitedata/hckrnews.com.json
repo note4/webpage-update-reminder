@@ -1,5 +1,15 @@
 [
   {
+    "link": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
+    "title": "[英] If your product is Great, it doesn't need to be Good (2010)",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+    "title": "[英] Zero-Touch OAuth for MCP",
+    "date": "2026-06-19"
+  },
+  {
     "link": "https://bomwiki.com/",
     "title": "[英] Everything Is BOM: Bill of Materials Encyclopedia",
     "date": "2026-06-19"
@@ -16,7 +26,7 @@
   },
   {
     "link": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-    "title": "[英] American Express: Cell-Based Architecture for Resilient Payment Systems",
+    "title": "[英] Cell-based architecture for resilient payment systems",
     "date": "2026-06-19"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48582679",
     "title": "[英] Ask HN: Is anyone using the A2A protocol?",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-    "title": "[英] The Korean telecom giant at the center of Anthropic's Mythos controversy",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://agenticresourcediscovery.org/introduction/",
-    "title": "[英] Agentic Resource Discovery Specification",
     "date": "2026-06-19"
   }
 ]
