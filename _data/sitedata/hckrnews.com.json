@@ -1,7 +1,47 @@
 [
   {
+    "link": "https://blog.plover.com/math/egyptian-fractions.html",
+    "title": "[英] Egyptian Fractions",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://anchor.host/from-a-7-kb-file-to-a-13-year-backdoor-operation/",
+    "title": "[英] From a 7 KB file to a 13-year backdoor operation",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "title": "[英] Norway imposes near ban on AI in elementary school",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48574082",
+    "title": "[英] Ask HN: How do you separate intentional test boilerplate from real duplication?",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48592738",
+    "title": "[英] Tell HN: A new Nginx 0-day just dropped",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+    "title": "[英] Companies rein in AI usage as costs strain budgets",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://www.polarsignals.com/blog/posts/2026/06/10/nvidia-cuda-pc-sampling",
+    "title": "[英] Show HN: Continuous Nvidia CUDA PC Sampling Profiler",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
+    "title": "[英] Amazon drops Sam Altman movie after announcing OpenAI partnership",
+    "date": "2026-06-20"
+  },
+  {
     "link": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-    "title": "[英] John Jumper leaves Google to join Anthropic",
+    "title": "[英] John Jumper to join Anthropic",
     "date": "2026-06-20"
   },
   {
@@ -15,8 +55,8 @@
     "date": "2026-06-20"
   },
   {
-    "link": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
-    "title": "[英] Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times",
+    "link": "https://bigbananacar.com/",
+    "title": "[英] Big Banana Car",
     "date": "2026-06-20"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48600666",
     "title": "[英] undefined",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-026-01947-1",
-    "title": "[英] Is AI ruining our skills? Early results are in – and they're not good",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html",
-    "title": "[英] Windows 11 update broke the Recycle Bin, OneDrive, and your PC's stability",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-    "title": "[英] A new bill takes aim at government pressure to silence lawful online speech",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://erildrun.bearblog.dev/spotify-killed-the-thrill-of-the-hunt/",
-    "title": "[英] Spotify Killed the Thrill of the Hunt",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://spectrum.ieee.org/william-heronemus-wind-energy",
-    "title": "[英] This 1976 University Experiment Spun Up the U.S. Wind Industry",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://github.com/Amal-David/pagecast",
-    "title": "[英] Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-    "title": "[英] Google workspace threatening to block Firefox access",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-    "title": "[英] Hyundai buys Boston Dynamics",
     "date": "2026-06-20"
   }
 ]
