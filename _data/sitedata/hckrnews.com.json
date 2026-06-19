@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://fergusfinn.com/blog/uccl-ep-without-owning-the-nic/",
+    "title": "[英] UCCL-EP: DeepEP-style expert parallelism on any NIC, no GPU-initiated comms",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
+    "title": "[英] Norway greenlights first full-scale ship tunnel",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://github.com/toinbox/simplerelay",
+    "title": "[英] SMTP Relay with Web Dashboard",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://clickhouse.com/blog/open-source-10",
+    "title": "[英] Ten years of ClickHouse in open source",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://raku.foundation",
+    "title": "[英] The Raku Foundation is born",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://pypi.org/project/prylint/",
+    "title": "[英] Fable Converted Pylint to Rust",
+    "date": "2026-06-19"
+  },
+  {
     "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
     "title": "[英] Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
     "date": "2026-06-19"
@@ -10,13 +40,13 @@
     "date": "2026-06-19"
   },
   {
-    "link": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
-    "title": "[英] Generative AI Is Having Its Herbalife Moment",
+    "link": "https://maritime-executive.com/article/report-iran-suspends-hormuz-talks-because-of-israeli-attacks-in-lebanon",
+    "title": "[英] Iran Delays U.S. Peace Talks over Israeli Attacks in Lebanon",
     "date": "2026-06-19"
   },
   {
-    "link": "https://maritime-executive.com/article/report-iran-suspends-hormuz-talks-because-of-israeli-attacks-in-lebanon",
-    "title": "[英] Iran Delays U.S. Peace Talks over Israeli Attacks in Lebanon",
+    "link": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
+    "title": "[英] Generative AI Is Having Its Herbalife Moment",
     "date": "2026-06-19"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
     "title": "[英] Gribouille 0.3.0: A Grammar of Graphics for Typst",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://letsencrypt.status.io/#2026",
-    "title": "[英] Many Let's Encrypt renewals had errors today",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-    "title": "[英] DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
-    "title": "[英] Ice water drowning survival of young patient (2025)",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://horizons.lambda-combine.net/",
-    "title": "[英] Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-    "title": "[英] To study how chips work, MIT researchers built their own operating system",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://vettedconsumer.com/glm-5-2-the-most-powerful-open-weight-model-yet-and-the-brutal-reality-of-running-it-locally/",
-    "title": "[英] GLM-5.2: The Most Powerful Open Model yet and the Brutal Reality of Running It",
     "date": "2026-06-19"
   }
 ]
