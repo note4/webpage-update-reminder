@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://github.com/cajal-technologies/talos",
+    "title": "[英] Show HN: Talos – Open-source WASM interpreter for Lean",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://dfdxlabs.com/research/2026/robotics-setup/",
+    "title": "[英] Building a robotics research setup that lives next to my desk",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/",
+    "title": "[英] How smashing the NIMBYs created modern capitalism",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+    "title": "[英] Datasette Apps: Host custom HTML applications inside Datasette",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://austinhenley.com/blog/automatingmyjob.html",
+    "title": "[英] Automating my job away",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://countryroadsmagazine.com/art-and-culture/people-places/nola-nacular/",
+    "title": "[英] NOLA 'Nacular: One man's crusade to preserve New Orleans's vernacular signage",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://arun.is/blog/jr-logo/",
+    "title": "[英] How Japan's railways stayed one while splitting apart",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://www.flexport.com/company/careers/",
+    "title": "[英] Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://henry.codes/writing/it-doesnt-matter-if-it-works/",
+    "title": "[英] It doesn't matter if it works",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://www.nsf.gov/news/update-ocean-observatories-initiative",
+    "title": "[英] Update on Ocean Observatories Initiative",
+    "date": "2026-06-19"
+  },
+  {
+    "link": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+    "title": "[英] The AirPods Effect",
+    "date": "2026-06-19"
+  },
+  {
     "link": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
     "title": "[英] If your product is Great, it doesn't need to be Good (2010)",
     "date": "2026-06-19"
@@ -17,61 +72,6 @@
   {
     "link": "https://www.dpolakovic.space/blogs/zork-part2#update",
     "title": "[英] Zork name origin got an update on Wikipedia",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://www.intheweights.com/",
-    "title": "[英] Show HN: Are You in the Weights?",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-    "title": "[英] Cell-based architecture for resilient payment systems",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-    "title": "[英] I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad",
-    "title": "[英] McMansions 101: What Makes a McMansion Bad Architecture? (2016)",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://www.ns.nl/en/season-tickets/dal-vrij",
-    "title": "[英] Dutch Railways offers unlimited off-peak train travel nationwide for €49/month",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://devanshpanda.com/writing/volatility/",
-    "title": "[英] The value of employee equity depends a lot on volatility",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://hello-fri-end.github.io/2026/06/integer-quantization-deep-dive/",
-    "title": "[英] Integer Quantization: Deep Dive",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-    "title": "[英] Noam Shazeer Joins OpenAI",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48581792",
-    "title": "[英] Show HN: Run Agent Skills with mistral.rs v0.8.10: /v1/skills support and more",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48582005",
-    "title": "[英] Ask HN: Am I being advertised an ARG via user agent logs?",
-    "date": "2026-06-19"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48582679",
-    "title": "[英] Ask HN: Is anyone using the A2A protocol?",
     "date": "2026-06-19"
   }
 ]
