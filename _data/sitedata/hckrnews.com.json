@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://escurves.com/",
+    "title": "[英] S‑CURVES a field guide to technology adoption · 1825–2026",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.lispm.net/apps/uhf-x11/",
+    "title": "[英] UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://startupwiki.tech/",
+    "title": "[英] Show HN: StartupWiki – A Free Alternative to Crunchbase",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+    "title": "[英] SMPTE Makes Its Standards Freely Accessible",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://github.com/DatanoiseTV/ember-hackernews",
+    "title": "[英] Ember, a native iOS Hacker News reader I built around accessibility",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://github.com/oraziorillo/microcrad",
+    "title": "[英] Show HN: Microcrad – Micrograd Reimplemented in C",
+    "date": "2026-06-21"
+  },
+  {
     "link": "https://vawaa.com/",
     "title": "[英] Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios",
     "date": "2026-06-21"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
     "title": "[英] Ubisoft co-founder Claude Guillemot has died in a plane crash",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
-    "title": "[英] US Scientist John Jumper to Leave Google DeepMind for Anthropic",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
-    "title": "[英] VPN ban update for UK households as government looks at 'age-gate'",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://vale.rocks/posts/pda-browsers",
-    "title": "[英] Web Browsers on PDAS",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://european.social",
-    "title": "[英] The European Social Stack",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://placementist.com/insights/fear-farming-the-stanford-ai-hiring-study-debunk",
-    "title": "[英] \"Career coaches\" are fear-farming the Stanford AI hiring study [debunk]",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://textexpander.com/blog/doctor-gaming-mouse",
-    "title": "[英] The Doctor Who Treats Patients with a Gaming Mouse",
     "date": "2026-06-21"
   }
 ]
