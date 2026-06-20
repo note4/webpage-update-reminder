@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://bootimus.com",
+    "title": "[英] Bootimus – A Self-Contained PXE and HTTP Boot Server",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://blog.brownplt.org/2026/06/09/pick.html",
+    "title": "[英] Human Judgment as a Specification",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
+    "title": "[英] Lithuanian startup launches open-source network to detect Shahed-type drones",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://cssquake.com/",
+    "title": "[英] CSSQuake",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
+    "title": "[英] 16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/",
+    "title": "[英] The Cold War's Accidental Whale Observatory",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://github.com/ascorbic/cirrus",
+    "title": "[英] Cirrus: ATProto Personal Data Server That Runs on Cloudflare Workers",
+    "date": "2026-06-20"
+  },
+  {
     "link": "https://arbesman.substack.com/p/visiting-the-history-of-computing",
     "title": "[英] Visiting the History of Computing and Play",
     "date": "2026-06-20"
@@ -37,41 +72,6 @@
   {
     "link": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/",
     "title": "[英] Soccer Arcade Games Through the Years",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://arrowtsx.dev/bigger-models/",
-    "title": "[英] GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-    "title": "[英] Where to Find the Colors Your Screen Can't Show You",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-    "title": "[英] I Stored a Website in a Favicon",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://www.not-ship.com/can-you-see-three-trees/",
-    "title": "[英] Can you see three trees?",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
-    "title": "[英] Satellite reveals immense scale of GPS signal tampering",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://www.specs.com/smart-glasses/specs-27",
-    "title": "[英] Snap Smart Glasses",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
-    "title": "[英] The discovery that changed how scientists think about memory",
     "date": "2026-06-20"
   }
 ]
