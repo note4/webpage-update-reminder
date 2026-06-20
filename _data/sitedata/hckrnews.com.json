@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.nature.com/articles/s41551-026-01660-4",
+    "title": "[英] Whole cross-sectional human ultrasound tomography",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://github.com/mysk-research/loupe",
+    "title": "[英] Loupe – A iOS app that raises awareness about what native apps can see",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "title": "[英] Slow breathing modulates brain function and risk behavior",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://townsquare.cauenapier.com/",
+    "title": "[英] Show HN: TownSquare, a tiny presence layer for websites",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48593346",
+    "title": "[英] Show HN: Domphy – plain-object UI for tool apps, AI-correctable output",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "title": "[英] Epoll vs. Io_uring in Linux",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+    "title": "[英] Not just books: renting a sewing machine from the library can improve democracy",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/",
+    "title": "[英] Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World",
+    "date": "2026-06-21"
+  },
+  {
     "link": "https://www.frank.computer/blog/2025/06/baby-blender.html",
     "title": "[英] Stop calling the Super Productionizer a 'baby blender' – Frank Elavsky",
     "date": "2026-06-21"
@@ -32,46 +72,6 @@
   {
     "link": "https://brooker.co.za/blog/2026/06/19/waiting.html",
     "title": "[英] Alice is impatient",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=DAMiS2PGTEE",
-    "title": "[英] Coding a Brick Tower [video]",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2607.pdf",
-    "title": "[英] Dallas Fed: 30% of housing cost increase driven by unauthorized immigration [pdf]",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651",
-    "title": "[英] Supermarket giant Tesco sues VMware for breach of contract",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
-    "title": "[英] Linux Eliminates the Strncpy API After Six Years of Work, 360 Patches",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
-    "title": "[英] Unauthorized alert sent to cell phones across Brazil",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/",
-    "title": "[英] Seeing the world in radio waves with the QuadRF",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
-    "title": "[英] UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://injuly.in/blog/napkin-inference-cost/index.html",
-    "title": "[英] Inference cost at scale with napkin math",
     "date": "2026-06-21"
   }
 ]
