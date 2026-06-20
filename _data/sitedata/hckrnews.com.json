@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.frank.computer/blog/2025/06/baby-blender.html",
+    "title": "[英] Stop calling the Super Productionizer a 'baby blender' – Frank Elavsky",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
+    "title": "[英] Semiconductor Lifeline Keeps Fighter Jets in the Air",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://notes.lorenzogravina.com/musings/pre-2022-books",
+    "title": "[英] Pre-2022 Books",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374",
+    "title": "[英] Tesla allegedly in autopilot mode crashes into Texas house, woman killed",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.phoronix.com/news/systemd-261",
+    "title": "[英] Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://pudding.cool/2026/06/love-story/",
+    "title": "[英] A Love Story",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+    "title": "[英] Alice is impatient",
+    "date": "2026-06-21"
+  },
+  {
     "link": "https://www.youtube.com/watch?v=DAMiS2PGTEE",
     "title": "[英] Coding a Brick Tower [video]",
     "date": "2026-06-21"
@@ -37,41 +72,6 @@
   {
     "link": "https://injuly.in/blog/napkin-inference-cost/index.html",
     "title": "[英] Inference cost at scale with napkin math",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback",
-    "title": "[英] AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://swiss-cow.com/blog/google-world-cup-wrong-flags",
-    "title": "[英] Google display wrong flags for world cup 2026",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48612378",
-    "title": "[英] undefined",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.politicshome.com/news/article/now-dont-espionage-meets-magic",
-    "title": "[英] Now You Don't: When Espionage Meets Magic",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://clickhouse.com/blog/postgresbench",
-    "title": "[英] PostgresBench: A Reproducible Benchmark for Postgres Services",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://github.com/confh/Tiny",
-    "title": "[英] Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://github.com/overflowy/make-look-scanned",
-    "title": "[英] Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
     "date": "2026-06-21"
   }
 ]
