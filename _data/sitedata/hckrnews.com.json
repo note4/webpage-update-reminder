@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback",
+    "title": "[英] AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://swiss-cow.com/blog/google-world-cup-wrong-flags",
+    "title": "[英] Google display wrong flags for world cup 2026",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48612378",
+    "title": "[英] undefined",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.politicshome.com/news/article/now-dont-espionage-meets-magic",
+    "title": "[英] Now You Don't: When Espionage Meets Magic",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://clickhouse.com/blog/postgresbench",
+    "title": "[英] PostgresBench: A Reproducible Benchmark for Postgres Services",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://github.com/confh/Tiny",
+    "title": "[英] Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://github.com/overflowy/make-look-scanned",
+    "title": "[英] Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+    "date": "2026-06-21"
+  },
+  {
     "link": "https://mitchivin.com/",
     "title": "[英] Show HN: My Windows XP portfolio with working Game Boy and iPod",
     "date": "2026-06-21"
@@ -16,7 +51,7 @@
   },
   {
     "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-    "title": "[英] Agency stole bestselling author's book, used AI to relaunch as their own",
+    "title": "[英] The Wholesale Plagiarism of Obscure Sorrows",
     "date": "2026-06-21"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48611303",
     "title": "[英] Ask HN: Due to spam on GitHub, what platforms can I move my projects?",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://github.com/oven-sh/WebKit/pull/249",
-    "title": "[英] Bun has an open PR adding shared-memory threads to JavaScriptCore",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.aipropel.app/",
-    "title": "[英] AIPropel, AI-powered proposal generation for freelancers and agencies",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://escurves.com/",
-    "title": "[英] S‑CURVES a field guide to technology adoption · 1825–2026",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.lispm.net/apps/uhf-x11/",
-    "title": "[英] UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://startupwiki.tech/",
-    "title": "[英] Show HN: StartupWiki – A Free Alternative to Crunchbase",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-    "title": "[英] SMPTE Makes Its Standards Freely Accessible",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://github.com/DatanoiseTV/ember-hackernews",
-    "title": "[英] Ember, a native iOS Hacker News reader I built around accessibility",
     "date": "2026-06-21"
   }
 ]
