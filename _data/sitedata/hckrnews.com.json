@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://european.social",
+    "title": "[英] The European Social Stack",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://placementist.com/insights/fear-farming-the-stanford-ai-hiring-study-debunk",
+    "title": "[英] \"Career coaches\" are fear-farming the Stanford AI hiring study [debunk]",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://textexpander.com/blog/doctor-gaming-mouse",
+    "title": "[英] The Doctor Who Treats Patients with a Gaming Mouse",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://blog.gingerbeardman.com/2026/06/19/new-old-3d-golf-porting-pc-9801-and-virtual-boy-to-mega-drive/",
+    "title": "[英] New (Old) 3D Golf: Porting PC-9801 and Virtual Boy to Mega Drive",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://pong-in-a-favicon.franzai.com/",
+    "title": "[英] Pong in S Favicon",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://point.free/blog/delete-12-flags/",
+    "title": "[英] I restarted a 10 year old Xeon 174 times to delete 12 flags and gain 4 tps",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://blog.cloudflare.com/temporary-accounts/",
+    "title": "[英] Temporary Cloudflare Accounts for AI Agents",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables",
+    "title": "[英] Computed goto for efficient dispatch tables (2012)",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "title": "[英] From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+    "date": "2026-06-20"
+  },
+  {
     "link": "https://bootimus.com",
     "title": "[英] Bootimus – A Self-Contained PXE and HTTP Boot Server",
     "date": "2026-06-20"
@@ -27,51 +72,6 @@
   {
     "link": "https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/",
     "title": "[英] The Cold War's Accidental Whale Observatory",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://github.com/ascorbic/cirrus",
-    "title": "[英] Cirrus: ATProto Personal Data Server That Runs on Cloudflare Workers",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://arbesman.substack.com/p/visiting-the-history-of-computing",
-    "title": "[英] Visiting the History of Computing and Play",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
-    "title": "[英] LLMs Are Complicated Now",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48552291",
-    "title": "[英] undefined",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://unstableontology.com/2026/06/07/mental-causation-is-not-load-bearing/",
-    "title": "[英] Mental causation is not load-bearing",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48607407",
-    "title": "[英] undefined",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://ironicsans.ghost.io/the-color-strike/",
-    "title": "[英] A 1969 camera operators' strike created Upstairs Downstairs multiverse",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://blog.cosmin.cloud/posts/diy-deck.html",
-    "title": "[英] Designing a backyard deck for my house",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/",
-    "title": "[英] Soccer Arcade Games Through the Years",
     "date": "2026-06-20"
   }
 ]
