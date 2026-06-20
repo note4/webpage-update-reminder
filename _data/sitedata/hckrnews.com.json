@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://arbesman.substack.com/p/visiting-the-history-of-computing",
+    "title": "[英] Visiting the History of Computing and Play",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+    "title": "[英] LLMs Are Complicated Now",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48552291",
+    "title": "[英] undefined",
+    "date": "2026-06-20"
+  },
+  {
     "link": "https://unstableontology.com/2026/06/07/mental-causation-is-not-load-bearing/",
     "title": "[英] Mental causation is not load-bearing",
     "date": "2026-06-20"
@@ -57,21 +72,6 @@
   {
     "link": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
     "title": "[英] The discovery that changed how scientists think about memory",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/",
-    "title": "[英] Meet Nikolai Evreinov, the 19th century Nathan Fielder",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://mattmahoney.net/dc/dce.html",
-    "title": "[英] Data Compression Explained (2012)",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes",
-    "title": "[英] XLibre XServer 25.2.0 Released",
     "date": "2026-06-20"
   }
 ]
