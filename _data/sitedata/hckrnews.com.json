@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=DAMiS2PGTEE",
+    "title": "[英] Coding a Brick Tower [video]",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2607.pdf",
+    "title": "[英] Dallas Fed: 30% of housing cost increase driven by unauthorized immigration [pdf]",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651",
+    "title": "[英] Supermarket giant Tesco sues VMware for breach of contract",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+    "title": "[英] Linux Eliminates the Strncpy API After Six Years of Work, 360 Patches",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+    "title": "[英] Unauthorized alert sent to cell phones across Brazil",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/",
+    "title": "[英] Seeing the world in radio waves with the QuadRF",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
+    "title": "[英] UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://injuly.in/blog/napkin-inference-cost/index.html",
+    "title": "[英] Inference cost at scale with napkin math",
+    "date": "2026-06-21"
+  },
+  {
     "link": "https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback",
     "title": "[英] AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July",
     "date": "2026-06-21"
@@ -32,46 +72,6 @@
   {
     "link": "https://github.com/overflowy/make-look-scanned",
     "title": "[英] Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://mitchivin.com/",
-    "title": "[英] Show HN: My Windows XP portfolio with working Game Boy and iPod",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://dancemagazine.com/pointe-shoe-innovation/",
-    "title": "[英] Why has the pointe shoe been so resistant to change?",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.argusred.com/cli",
-    "title": "[英] Show HN: We post-trained a model that pen tests instead of refusing",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-    "title": "[英] The Wholesale Plagiarism of Obscure Sorrows",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559",
-    "title": "[英] The rise of South Korea’s weapons business",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://github.com/juancgarza/cody",
-    "title": "[英] Show HN: Cody – Voice control for Neovim using its own commands, LSP",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
-    "title": "[英] The ability to regrow body parts is dormant in mammals, not lost",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48611303",
-    "title": "[英] Ask HN: Due to spam on GitHub, what platforms can I move my projects?",
     "date": "2026-06-21"
   }
 ]
