@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+    "title": "[英] I Stored a Website in a Favicon",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://www.not-ship.com/can-you-see-three-trees/",
+    "title": "[英] Can you see three trees?",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+    "title": "[英] Satellite reveals immense scale of GPS signal tampering",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://www.specs.com/smart-glasses/specs-27",
+    "title": "[英] Snap Smart Glasses",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
+    "title": "[英] The discovery that changed how scientists think about memory – IBM",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/",
+    "title": "[英] Meet Nikolai Evreinov, the 19th century Nathan Fielder",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://mattmahoney.net/dc/dce.html",
+    "title": "[英] Data Compression Explained (2012)",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes",
+    "title": "[英] XLibre XServer 25.2.0 Released",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://hex.tech/blog/evaluate-data-agents/",
+    "title": "[英] We built a lab to evaluate data agents – Hex",
+    "date": "2026-06-20"
+  },
+  {
+    "link": "https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai",
+    "title": "[英] I solved my mystery fatigue with AI",
+    "date": "2026-06-20"
+  },
+  {
     "link": "https://pudding.cool/2026/06/love-story/",
     "title": "[英] A Love Story",
     "date": "2026-06-20"
@@ -22,56 +72,6 @@
   {
     "link": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
     "title": "[英] Digital Printing of Arabic: explaining the problem",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
-    "title": "[英] Hey, n00b, we didn't hire you to complete tasks",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow",
-    "title": "[英] Iran requires insurance on ships using Strait of Hormuz, fees likely to follow",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://www.nyu.edu/about/news-publications/news/2026/june/how-do-flocking-birds-and-schools-of-fish-move--new-research-off.html",
-    "title": "[英] How do flocking birds and schools of fish move?",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
-    "title": "[英] AURpocalypse now: a look at the recent AUR attacks",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://adewynter.github.io/notes/aoe2-circuits",
-    "title": "[英] A Perceptron in Age of Empires II",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
-    "title": "[英] Americans express unease over SpaceX's influence on retirement savings",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48604232",
-    "title": "[英] Ask HN: Will programmers write more efficient code during the memory shortage?",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://rhinocollab.com",
-    "title": "[英] RhinoCollab a plugin for real-time editing for Rhino 3D",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
-    "title": "[英] Think of the children: How to force real ID for all internet traffic (2023)",
-    "date": "2026-06-20"
-  },
-  {
-    "link": "https://sauleau.com/notes/airgap-security-for-the-modern-ai-age.html",
-    "title": "[英] Hide Secrets from AI Agents and NPM install using Airgap",
     "date": "2026-06-20"
   }
 ]
