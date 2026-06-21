@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://lwn.net/Articles/1076018/",
+    "title": "[英] Moving Beyond Fork() + Exec()",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+    "title": "[英] When I reject AI code even if it works",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/",
+    "title": "[英] White House delays US voting-machine vulnerability report",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c0rygp005wjo",
+    "title": "[英] 'We had to get out of the way': The backlash over delivery robots",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+    "title": "[英] 15-minute at-home Lyme disease tick test",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.anthropic.com/research/project-fetch-phase-two",
+    "title": "[英] Project Fetch: Phase Two",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://submarius.com",
+    "title": "[英] Show HN: Submarius – Global water clarity for divers",
+    "date": "2026-06-21"
+  },
+  {
     "link": "https://www.nature.com/articles/s41551-026-01660-4",
     "title": "[英] Whole cross-sectional human ultrasound tomography",
     "date": "2026-06-21"
@@ -26,52 +61,17 @@
   },
   {
     "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
-    "title": "[英] Epoll vs. Io_uring in Linux",
+    "title": "[英] Epoll vs. io_uring in Linux",
     "date": "2026-06-21"
   },
   {
     "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-    "title": "[英] Not just books: renting a sewing machine from the library can improve democracy",
+    "title": "[英] Renting a sewing machine from the library",
     "date": "2026-06-21"
   },
   {
     "link": "https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/",
     "title": "[英] Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.frank.computer/blog/2025/06/baby-blender.html",
-    "title": "[英] Stop calling the Super Productionizer a 'baby blender' – Frank Elavsky",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
-    "title": "[英] Semiconductor Lifeline Keeps Fighter Jets in the Air",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://notes.lorenzogravina.com/musings/pre-2022-books",
-    "title": "[英] Pre-2022 Books",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374",
-    "title": "[英] Tesla allegedly in autopilot mode crashes into Texas house, woman killed",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.phoronix.com/news/systemd-261",
-    "title": "[英] Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://pudding.cool/2026/06/love-story/",
-    "title": "[英] A Love Story",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-    "title": "[英] Alice is impatient",
     "date": "2026-06-21"
   }
 ]
