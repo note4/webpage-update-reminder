@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://ociforge.com",
+    "title": "[英] Ocient Database Sandbox",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://github.com/paytonjjones/bsharp",
+    "title": "[英] Show HN: Teach your kids perfect pitch",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://github.com/w84death/floppinux",
+    "title": "[英] An Embedded Linux on a Single Floppy",
+    "date": "2026-06-22"
+  },
+  {
     "link": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
     "title": "[英] Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
     "date": "2026-06-22"
@@ -11,7 +26,7 @@
   },
   {
     "link": "https://www.randalolson.com/2026/06/16/aca-insurer-claim-denial-rates/",
-    "title": "[英] Health Insurance Claim Denial Rates Range from 13% to 35% by Insurer",
+    "title": "[英] Health insurance claim denial rates range from 13% to 35% by insurer",
     "date": "2026-06-22"
   },
   {
@@ -26,7 +41,12 @@
   },
   {
     "link": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
-    "title": "[英] Wildcard (YC W25) Is Hiring a Founding Applied ML Engineer",
+    "title": "[英] Wildcard (YC W25) is hiring an applied ML engineer",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48620402",
+    "title": "[英] undefined",
     "date": "2026-06-22"
   },
   {
@@ -35,18 +55,13 @@
     "date": "2026-06-22"
   },
   {
-    "link": "https://www.youtube.com/watch?v=WNiSUGCC-gY",
-    "title": "[英] AI is a mass psychotic delusion [video]",
-    "date": "2026-06-22"
-  },
-  {
     "link": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
-    "title": "[英] AI Has Broken Hiring",
+    "title": "[英] The early hiring funnel is now breaking on both ends",
     "date": "2026-06-22"
   },
   {
     "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-    "title": "[英] Code duplication is far cheaper than the wrong abstraction (2016)",
+    "title": "[英] Prefer duplication over the wrong abstraction (2016)",
     "date": "2026-06-22"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
     "title": "[英] System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://norvig.com/lispy.html",
-    "title": "[英] (How to Write a (Lisp) Interpreter (In Python)) (2010)",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
-    "title": "[英] Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48619396",
-    "title": "[英] undefined",
     "date": "2026-06-22"
   }
 ]
