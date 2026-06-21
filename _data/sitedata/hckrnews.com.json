@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.beyondallreason.info",
+    "title": "[英] Beyond All Reason (Free Total Annihilation Inspired RTS)",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://birdhistory.substack.com/p/the-100-greatest-bird-names-of-all",
+    "title": "[英] 100 Greatest Bird Names of All Time",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+    "title": "[英] The case against geometric algebra (2024)",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://frankforce.com/cosmodial-sky-atlas/",
+    "title": "[英] Cosmodial Sky Atlas",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.thehistoryblog.com/archives/76314",
+    "title": "[英] Rare medieval bookmark exceeds expectations at auction",
+    "date": "2026-06-21"
+  },
+  {
     "link": "https://www.economist.com/briefing/2026/06/14/donald-trumps-blocking-of-anthropic-is-capricious-and-chaotic",
     "title": "[英] NSA director: 'Mythos \"broke into almost all of our classified systems in hours\"",
     "date": "2026-06-21"
@@ -47,31 +72,6 @@
   {
     "link": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
     "title": "[英] Excessive nil pointer checks in Go",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://spectrum.ieee.org/alan-turings-delilah",
-    "title": "[英] The Lost Story of Alan Turing's \"Delilah\" Project",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-    "title": "[英] The 100k Whys of AI",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/PID_controller",
-    "title": "[英] Proportional-Integral-Derivative Controllers",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-    "title": "[英] Building reliable agentic AI systems",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
-    "title": "[英] Zigzag Decoding with AVX-512",
     "date": "2026-06-21"
   }
 ]
