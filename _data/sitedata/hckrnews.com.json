@@ -1,12 +1,67 @@
 [
   {
+    "link": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
+    "title": "[英] Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://github.com/nikitadoudikov/claude-pulse",
+    "title": "[英] Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://www.randalolson.com/2026/06/16/aca-insurer-claim-denial-rates/",
+    "title": "[英] Health Insurance Claim Denial Rates Range from 13% to 35% by Insurer",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://brandur.org/minimum-viable-unit",
+    "title": "[英] The Minimum Viable Unit of Saleable Software",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48620502",
+    "title": "[英] Tell HN: Happy Fathers Day",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
+    "title": "[英] Wildcard (YC W25) Is Hiring a Founding Applied ML Engineer",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
+    "title": "[英] Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=WNiSUGCC-gY",
+    "title": "[英] AI is a mass psychotic delusion [video]",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+    "title": "[英] AI Has Broken Hiring",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+    "title": "[英] Code duplication is far cheaper than the wrong abstraction (2016)",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48619783",
+    "title": "[英] undefined",
+    "date": "2026-06-22"
+  },
+  {
     "link": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
     "title": "[英] System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
     "date": "2026-06-22"
   },
   {
     "link": "https://norvig.com/lispy.html",
-    "title": "[英] (How to Write a (Lisp) Interpreter (In Python))",
+    "title": "[英] (How to Write a (Lisp) Interpreter (In Python)) (2010)",
     "date": "2026-06-22"
   },
   {
@@ -17,61 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48619396",
     "title": "[英] undefined",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/",
-    "title": "[英] Smashing the NIMBYs created modern capitalism",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
-    "title": "[英] Commodore Made a Digital Detox Phone That Isn't Dumb",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://twitter.com/MattZirwas/status/2068365802491834541",
-    "title": "[英] I was wrong about the Midjourney ultra-sound scanner",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
-    "title": "[英] Who Owns Your ATProto Identity? Hint: It's Probably Not You",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://thenewassociationwebmasters.blogspot.com/2026/06/ai-under-american-control-can-france.html",
-    "title": "[英] AI Under Trump's Control: Can France Still Avoid Digital Dependence?",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://www.minid.net/2013/1/23/the-great-intermediary-panic",
-    "title": "[英] The Great Intermediary Panic",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://www.inkandswitch.com/tangents/artificial/",
-    "title": "[英] Artificial",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://github.com/proteanthread/bcg",
-    "title": "[英] David Ahl's Basic Computer Games Ported to C",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
-    "title": "[英] Two Qwen3 models on one DGX Spark: the residency math",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://jatniel.dev/en/bytes/typescript-7-rc-the-compiler-rewritten-in-go-around-10x-faster",
-    "title": "[英] TypeScript 7 RC: the compiler rewritten in Go, around 10x faster",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
-    "title": "[英] Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
     "date": "2026-06-22"
   }
 ]
