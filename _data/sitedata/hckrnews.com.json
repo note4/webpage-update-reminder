@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
+    "title": "[英] Excessive nil pointer checks in Go",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://spectrum.ieee.org/alan-turings-delilah",
+    "title": "[英] The Lost Story of Alan Turing's \"Delilah\" Project",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+    "title": "[英] The 100k Whys of AI",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/PID_controller",
+    "title": "[英] Proportional-Integral-Derivative Controllers",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "title": "[英] Building reliable agentic AI systems",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+    "title": "[英] Zigzag Decoding with AVX-512",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Armstrong_effect",
+    "title": "[英] Armstrong Effect",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+    "title": "[英] Your brain was never designed for this much bad news",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.philipzucker.com/td4-4bit-cpu/",
+    "title": "[英] Guide to the TD4 4-bit DIY CPU",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://fosterelli.co/developers-dont-understand-cors",
+    "title": "[英] Developers don't understand CORS (2019)",
+    "date": "2026-06-21"
+  },
+  {
     "link": "https://lwn.net/Articles/1076018/",
     "title": "[英] Moving Beyond Fork() + Exec()",
     "date": "2026-06-21"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
     "title": "[英] 15-minute at-home Lyme disease tick test",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.anthropic.com/research/project-fetch-phase-two",
-    "title": "[英] Project Fetch: Phase Two",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://submarius.com",
-    "title": "[英] Show HN: Submarius – Global water clarity for divers",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.nature.com/articles/s41551-026-01660-4",
-    "title": "[英] Whole cross-sectional human ultrasound tomography",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://github.com/mysk-research/loupe",
-    "title": "[英] Loupe – A iOS app that raises awareness about what native apps can see",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-    "title": "[英] Slow breathing modulates brain function and risk behavior",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://townsquare.cauenapier.com/",
-    "title": "[英] Show HN: TownSquare, a tiny presence layer for websites",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48593346",
-    "title": "[英] Show HN: Domphy – plain-object UI for tool apps, AI-correctable output",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
-    "title": "[英] Epoll vs. io_uring in Linux",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-    "title": "[英] Renting a sewing machine from the library",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/",
-    "title": "[英] Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World",
     "date": "2026-06-21"
   }
 ]
