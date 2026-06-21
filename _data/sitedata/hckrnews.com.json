@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://bunkum.us/2026/06/18/cocktail-ingredients-milp",
+    "title": "[英] Cocktail Optimization, an Integer Programming Problem",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://clevercrow.io",
+    "title": "[英] Show HN: CleverCrow: give tokens to your favorite projects",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://selah.to",
+    "title": "[英] Selah // Your inbox is the Bible app",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "title": "[英] JSON-LD Explained for Personal Websites",
+    "date": "2026-06-22"
+  },
+  {
     "link": "https://ociforge.com",
     "title": "[英] Ocient Database Sandbox",
     "date": "2026-06-22"
@@ -16,7 +36,7 @@
   },
   {
     "link": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
-    "title": "[英] Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
+    "title": "[英] Burnout is real for open source maintainers",
     "date": "2026-06-22"
   },
   {
@@ -31,7 +51,7 @@
   },
   {
     "link": "https://brandur.org/minimum-viable-unit",
-    "title": "[英] The Minimum Viable Unit of Saleable Software",
+    "title": "[英] The minimum viable unit of saleable software",
     "date": "2026-06-22"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
     "title": "[英] Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
-    "title": "[英] The early hiring funnel is now breaking on both ends",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-    "title": "[英] Prefer duplication over the wrong abstraction (2016)",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48619783",
-    "title": "[英] undefined",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
-    "title": "[英] System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
     "date": "2026-06-22"
   }
 ]
