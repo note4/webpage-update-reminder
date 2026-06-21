@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.economist.com/briefing/2026/06/14/donald-trumps-blocking-of-anthropic-is-capricious-and-chaotic",
+    "title": "[英] NSA director: 'Mythos \"broke into almost all of our classified systems in hours\"",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://shiftmag.dev/ctos-agree-cognitive-debt-is-the-new-technical-debt-10229/",
+    "title": "[英] CTOs Agree: Cognitive Debt Is the New Technical Debt",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://alexwlchan.net/2021/slashes/",
+    "title": "[英] A tale of two path separators",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+    "title": "[英] Windows UI evolution: Clicking an unassociated file",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html",
+    "title": "[英] Carlo Ginzburg, Who Told the History of the Obscure, Dies at 87",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+    "title": "[英] Google Hits 50% IPv6",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://github.com/namgyaaal/avoxelgame",
+    "title": "[英] A 3D voxel game engine written in APL",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://taoofmac.com/space/blog/2026/06/18/1845",
+    "title": "[英] Running MicroVMs in Proxmox VE, the Easy Way",
+    "date": "2026-06-21"
+  },
+  {
+    "link": "https://www.satisfice.com/blog/archives/488148",
+    "title": "[英] Public Service Announcement: Don't Say You Use AI for Writing",
+    "date": "2026-06-21"
+  },
+  {
     "link": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
     "title": "[英] Excessive nil pointer checks in Go",
     "date": "2026-06-21"
@@ -27,51 +72,6 @@
   {
     "link": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
     "title": "[英] Zigzag Decoding with AVX-512",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Armstrong_effect",
-    "title": "[英] Armstrong Effect",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-    "title": "[英] Your brain was never designed for this much bad news",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.philipzucker.com/td4-4bit-cpu/",
-    "title": "[英] Guide to the TD4 4-bit DIY CPU",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://fosterelli.co/developers-dont-understand-cors",
-    "title": "[英] Developers don't understand CORS (2019)",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://lwn.net/Articles/1076018/",
-    "title": "[英] Moving Beyond Fork() + Exec()",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-    "title": "[英] When I reject AI code even if it works",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/",
-    "title": "[英] White House delays US voting-machine vulnerability report",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c0rygp005wjo",
-    "title": "[英] 'We had to get out of the way': The backlash over delivery robots",
-    "date": "2026-06-21"
-  },
-  {
-    "link": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-    "title": "[英] 15-minute at-home Lyme disease tick test",
     "date": "2026-06-21"
   }
 ]
