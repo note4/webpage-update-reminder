@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+    "title": "[英] Cyberdecks, going analog, and convivial technology",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+    "title": "[英] ytr: YouTube Radio for Emacs",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://yoebuild.org/blog/time-for-a-new-build-system/",
+    "title": "[英] Is it time for a new Embedded Linux build system?",
+    "date": "2026-06-23"
+  },
+  {
     "link": "https://unsloth.ai/docs/models/glm-5.2",
     "title": "[英] Unsloth GLM-5.2 – How to Run Locally",
     "date": "2026-06-23"
@@ -57,21 +72,6 @@
   {
     "link": "https://github.com/dorukkumkumoglu/optocamzero",
     "title": "[英] Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://finance.yahoo.com/quote/SPCX/",
-    "title": "[英] SpaceX Drops 14% in One Day, Price Now Below IPO Launch",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
-    "title": "[英] Jobs and Software Is Fucked",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-    "title": "[英] British Columbia, Time Zones, and Postgres",
     "date": "2026-06-23"
   }
 ]
