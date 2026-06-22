@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://github.com/playX18/lisp-in-types/",
+    "title": "[英] Lisp in the Rust Type System",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://docs.deno.com/runtime/desktop/",
+    "title": "[英] Deno Desktop",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://medium.com/@NoamShazeer/shape-suffixes-good-coding-style-f836e72e24fd",
+    "title": "[英] Shape Suffixes – Good Coding Style",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://www.bbc.com/culture/article/20260616-the-dark-violent-medieval-origins-of-robin-hood",
+    "title": "[英] How the dark, violent medieval origins of Robin Hood were erased",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+    "title": "[英] Danish privacy activist Lars Andersen raided by police",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://mamathemagazine.com/chinas-war-on-female-delusion/",
+    "title": "[英] Chinas War on Female Delusion",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736",
+    "title": "[英] Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://theijf.org/brief/canadian-palantir-contract-amendments-obd",
+    "title": "[英] Canadian government spent $46.8M on a secret Palantir contract",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
+    "title": "[英] The Flat Curve Society",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "[英] Help I accidentally a wigglegram",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://sakana.ai/fugu/",
+    "title": "[英] Sakana Fugu",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
+    "title": "[英] You're probably using Agent Skills wrong",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://fil-c.org/inlineasm",
+    "title": "[英] Memory Safe Inline Assembly",
+    "date": "2026-06-22"
+  },
+  {
     "link": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
     "title": "[英] 1983 Northern Telecom Commodore Phone",
     "date": "2026-06-22"
   },
   {
     "link": "https://blog.minimal.app/conversion-engine/",
-    "title": "[英] From Combinatorial Mess to Linear Elegance: Architecting a Conversion Engine",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html",
-    "title": "[英] The Doom Justifies the Valuation",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://blog.plover.com/prog/fortran-i.html",
-    "title": "[英] My 1992 view of the problems of computer programming in 1992",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-    "title": "[英] Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://mcipetition.com/",
-    "title": "[英] Petition against Meta's employee training data collection for ML models",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://status.claude.com/incidents/lv35v0q9nsj2",
-    "title": "[英] Claude: Elevated Error Rates for Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/06/18/technology/ai-super-pac-guardrails-alliance.html",
-    "title": "[英] New Super Pac Aims to Rally Tech Workers to Help Limit A.I",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://brainfrog.lol",
-    "title": "[英] Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://www.startupsbr.com/sao-paulo",
-    "title": "[英] Show HN: StartupsBR – A map of Brazilian startups",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://the-criterion-closet.vercel.app",
-    "title": "[英] Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://minipcs.zip",
-    "title": "[英] Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://video.intellios.ai",
-    "title": "[英] Show HN: HN Game Stories – mini-documentary of games that hit the front page",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://yipzap.com/norway-bans-ai-for-kids-6-13-in-schools-a-bold-move-against-tech-dependency/",
-    "title": "[英] Norway Bans AI for Kids 6-13 in Schools",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
-    "title": "[英] I Play Video Games with Spinal Muscular Atrophy",
+    "title": "[英] Architecting a Conversion Engine in Swift",
     "date": "2026-06-22"
   }
 ]

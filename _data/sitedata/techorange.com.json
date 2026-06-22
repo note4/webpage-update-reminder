@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://techorange.com/2026/06/22/mih-announcement-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "MIH 聯盟宣告轉型！籌組「MIH 台灣機器智能產業協會」，號召跨域生態系共建 AI 機器新標準",
+    "date": "2026-06-22 13:11:49"
+  },
+  {
+    "link": "https://techorange.com/2026/06/22/white-house-talks-with-anthropic-shift-to-setting-ai-security-rules/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Anthropic 與白宮從對抗轉向合作：一場管制風波，正逼出 AI 安全新規則",
+    "date": "2026-06-22 12:58:11"
+  },
+  {
+    "link": "https://techorange.com/2026/06/22/payment-method-marketing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "當 AI 進駐結帳頁：支付系統如何變成下一個推薦引擎",
+    "date": "2026-06-22 10:43:05"
+  },
+  {
+    "link": "https://techorange.com/2026/06/22/new-tax-code/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【AI 經濟新藍圖】矽谷創投提三階段美國財稅藍圖，用運算稅與主權基金重建社會安全網",
+    "date": "2026-06-22 10:36:28"
+  },
+  {
+    "link": "https://techorange.com/2026/06/22/ai-agent-qualcomm-mobagel-innodisk-foxconn-deloitte-citygpt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "直擊 AI Agent 創造高生產力實戰：Qualcomm 與 MoBagel 共同打造安全地端 AI 平台、鴻海 CityGPT 提升智慧城市決策效能",
+    "date": "2026-06-22 10:21:02"
+  },
+  {
+    "link": "https://techorange.com/2026/06/22/decision-context-graph-ai-agent-rag/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【AI 代理越學越退步？】「決策脈絡圖」框架補強 RAG，整合背景讓決策更精確",
+    "date": "2026-06-22 10:12:38"
+  },
+  {
     "link": "https://techorange.com/2026/06/22/ai-soc-soar/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 驅動雲端 SOC 轉型實踐：如何利用自動化劇本與 AI 調查縮短 80% 資安事件處置時間？",
     "date": "2026-06-22 09:00:00"
@@ -43,35 +73,5 @@
     "link": "https://techorange.com/2026/06/18/deat-urban-governance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【DEAT 專欄】城市治理的新拼圖：數位平台正在成為治理夥伴",
     "date": "2026-06-18 08:02:00"
-  },
-  {
-    "link": "https://techorange.com/2026/06/18/microsoft-deepseek-copilot-ai-cost-chatgpt-spacex-intel/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】Microsoft 評估 DeepSeek 進 Copilot，ChatGPT、SpaceX 與 Intel 同步改寫 AI 戰局",
-    "date": "2026-06-18 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/06/17/genesis-ai-unveiled-its-first-general-purpose-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "放棄遠端遙控、捨棄人形設計：Genesis AI 如何用資料解決機器人發展瓶頸？",
-    "date": "2026-06-17 17:57:57"
-  },
-  {
-    "link": "https://techorange.com/2026/06/17/qwen-ai-robotsuite-source-chatgpt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "中國機器人產業加速打造 AI 大腦：阿里巴巴推出機器人套件，從導航到操作一手包辦",
-    "date": "2026-06-17 17:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/06/17/france-invest-ai-common-chatbot-all-state-services/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "擺脫矽谷依賴：法國情報機構汰換 Palantir，斥資 6.55 億歐元築科技主權防線",
-    "date": "2026-06-17 14:10:15"
-  },
-  {
-    "link": "https://techorange.com/2026/06/17/spacex-buys-cursor-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "SpaceX 為何願意砸 600 億美元買 Cursor？AI 競爭正從模型轉向工作流程",
-    "date": "2026-06-17 12:21:30"
-  },
-  {
-    "link": "https://techorange.com/2026/06/17/jake-dyson/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Dyson 工程長談家用機器人的邊界，為什麼你家的手持吸塵器還不會消失？",
-    "date": "2026-06-17 10:36:57"
   }
 ]
