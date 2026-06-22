@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://sheets.works/data-viz/semicolon",
+    "title": "[英] The Story of Semicolon",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://manticoresearch.com/blog/manticore-search-27-1-5/",
+    "title": "[英] Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://www.reuters.com/world/uk-politics-live-starmer-expected-announce-he-will-resign-prime-minister-2026-06-22/",
+    "title": "[英] Britain's prime minister to step down, Burnham puts himself forward as successor",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://clisystems.com/article-UTFS-intro/",
+    "title": "[英] UTFS: A Tar-Like File System for Embedded Systems (2025)",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://twitter.com/brianroemmele/status/1991714955339657384",
+    "title": "[英] LLMs do not merely reflect the bias of their training, they police it",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://severinbucher.com/posts/writing-postcards-with-a-3d-printer/",
+    "title": "[英] Writing Postcards with a 3D Printer",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://simianwords.bearblog.dev/you-should-use-ai-for-reviewing-code-especially-when-the-diff-is-huge/",
+    "title": "[英] Use AI for reviewing code especially when the diff is huge",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://www.lrb.co.uk/the-paper/v48/n11/steven-shapin/barrel-of-greenbacks",
+    "title": "[英] Luis Alvarez's Journey from Hiroshima to the Death of the Dinosaurs",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
+    "title": "[英] Investors get real-time view of UK bond market activity for the first time",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://blog.plover.com/prog/fortran-i.html",
+    "title": "[英] My 1992 view of the problems of computer programming in 1992",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+    "title": "[英] Munich 1991: The Roots of the Current AI Boom",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "title": "[英] GLM 5.2 vs. Opus",
+    "date": "2026-06-22"
+  },
+  {
+    "link": "https://github.com/openai/codex/issues/28224",
+    "title": "[英] Codex logging bug may write TBs to local SSDs",
+    "date": "2026-06-22"
+  },
+  {
     "link": "https://github.com/playX18/lisp-in-types/",
     "title": "[英] Lisp in the Rust Type System",
     "date": "2026-06-22"
@@ -7,71 +72,6 @@
   {
     "link": "https://docs.deno.com/runtime/desktop/",
     "title": "[英] Deno Desktop",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://medium.com/@NoamShazeer/shape-suffixes-good-coding-style-f836e72e24fd",
-    "title": "[英] Shape Suffixes – Good Coding Style",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://www.bbc.com/culture/article/20260616-the-dark-violent-medieval-origins-of-robin-hood",
-    "title": "[英] How the dark, violent medieval origins of Robin Hood were erased",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
-    "title": "[英] Danish privacy activist Lars Andersen raided by police",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://mamathemagazine.com/chinas-war-on-female-delusion/",
-    "title": "[英] Chinas War on Female Delusion",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736",
-    "title": "[英] Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://theijf.org/brief/canadian-palantir-contract-amendments-obd",
-    "title": "[英] Canadian government spent $46.8M on a secret Palantir contract",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
-    "title": "[英] The Flat Curve Society",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://lmao.center/blog/wiggle-accidents/",
-    "title": "[英] Help I accidentally a wigglegram",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://sakana.ai/fugu/",
-    "title": "[英] Sakana Fugu",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
-    "title": "[英] You're probably using Agent Skills wrong",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://fil-c.org/inlineasm",
-    "title": "[英] Memory Safe Inline Assembly",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
-    "title": "[英] 1983 Northern Telecom Commodore Phone",
-    "date": "2026-06-22"
-  },
-  {
-    "link": "https://blog.minimal.app/conversion-engine/",
-    "title": "[英] Architecting a Conversion Engine in Swift",
     "date": "2026-06-22"
   }
 ]
