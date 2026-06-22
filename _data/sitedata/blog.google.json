@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/",
+    "title": "[英] Interactions API: our primary interface for Gemini models and agents",
+    "date": "2026-06-23 01:15:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/florida-state-university-notebooklm/",
+    "title": "[英] NotebookLM is transforming student success at FSU",
+    "date": "2026-06-23 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/",
+    "title": "[英] Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "date": "2026-06-22 22:30:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/products/maps/georgia-street-view/",
     "title": "[英] Street View opens a new window into Georgia",
     "date": "2026-06-22 14:00:00"
@@ -50,16 +65,6 @@
     "date": "2026-06-17 15:00:00"
   },
   {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/digital-wellbeing-fund-mental-health/",
-    "title": "[英] Expanding our U.S. digital wellbeing fund",
-    "date": "2026-06-17 02:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/",
-    "title": "[英] Wear OS 7 helps your smartwatch keep up with you",
-    "date": "2026-06-17 02:00:00"
-  },
-  {
     "link": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
     "title": "[英] New expanded Android parental controls to support families around the world",
     "date": "2026-06-17 02:00:00"
@@ -67,11 +72,6 @@
   {
     "link": "https://blog.google/products-and-platforms/platforms/android/android-17-features/",
     "title": "[英] Check out what's new in Android 17",
-    "date": "2026-06-17 02:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
-    "title": "[英] June Pixel Drop: New features for creators, Gemini upgrades and more",
     "date": "2026-06-17 02:00:00"
   }
 ]
