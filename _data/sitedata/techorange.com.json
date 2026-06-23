@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://techorange.com/2026/06/23/openai-patch-the-planet-daybreak-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 啟動開源資安計畫 Patch the Planet：資安戰場正從「找漏洞」轉向「修漏洞」",
+    "date": "2026-06-23 11:48:15"
+  },
+  {
+    "link": "https://techorange.com/2026/06/23/trump-launches-quantum-race-as-crypto-faces-q-day-threat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "川普按下量子競賽加速鍵：2028 量子電腦目標，為何讓比特幣、金融網路與政府資安同步備戰？",
+    "date": "2026-06-23 11:47:04"
+  },
+  {
+    "link": "https://techorange.com/2026/06/23/ai-agent-accenture-pwc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI Agent 進公司誰來管？Accenture 點名 HR 扛責，PwC 示警入門職缺「資深化」",
+    "date": "2026-06-23 10:10:20"
+  },
+  {
+    "link": "https://techorange.com/2026/06/23/zillow-notebooklm-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "攔截消費決策最起點：房產巨頭 Zillow 布局 NotebookLM，讓 AI 化身購屋族專屬軍師",
+    "date": "2026-06-23 09:47:59"
+  },
+  {
+    "link": "https://techorange.com/2026/06/23/hacker-mfa-steals-token-crowdstrike/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【金融業資安新威脅】駭客改打 IT 支援電話，傳統憑證防禦出現結構性破口",
+    "date": "2026-06-23 09:12:36"
+  },
+  {
+    "link": "https://techorange.com/2026/06/23/the-mall/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【個人化虛擬商場】從爬蟲技術到品牌數據生意，The Mall 想做購物版 Spotify",
+    "date": "2026-06-23 09:12:08"
+  },
+  {
     "link": "https://techorange.com/2026/06/23/ai-chip-materials-datacenter-power/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】中美搶半導體關鍵材料，AI 資料中心用電與模型主權同步拉警報",
     "date": "2026-06-23 05:30:00"
@@ -43,35 +73,5 @@
     "link": "https://techorange.com/2026/06/22/payment-method-marketing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "當 AI 進駐結帳頁：支付系統如何變成下一個推薦引擎",
     "date": "2026-06-22 10:43:05"
-  },
-  {
-    "link": "https://techorange.com/2026/06/22/new-tax-code/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【AI 經濟新藍圖】矽谷創投提三階段美國財稅藍圖，用運算稅與主權基金重建社會安全網",
-    "date": "2026-06-22 10:36:28"
-  },
-  {
-    "link": "https://techorange.com/2026/06/22/ai-agent-qualcomm-mobagel-innodisk-foxconn-deloitte-citygpt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "直擊 AI Agent 創造高生產力實戰：Qualcomm 與 MoBagel 共同打造安全地端 AI 平台、鴻海 CityGPT 提升智慧城市決策效能",
-    "date": "2026-06-22 10:21:02"
-  },
-  {
-    "link": "https://techorange.com/2026/06/22/decision-context-graph-ai-agent-rag/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【AI 代理越學越退步？】「決策脈絡圖」框架補強 RAG，整合背景讓決策更精確",
-    "date": "2026-06-22 10:12:38"
-  },
-  {
-    "link": "https://techorange.com/2026/06/22/ai-soc-soar/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 驅動雲端 SOC 轉型實踐：如何利用自動化劇本與 AI 調查縮短 80% 資安事件處置時間？",
-    "date": "2026-06-22 09:00:00"
-  },
-  {
-    "link": "https://techorange.com/2026/06/22/google-tpu-nvidia-apple-intel-ai-power/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】Google 砸錢挑戰 NVIDIA，Apple 轉向 Intel、台灣 AI 用電壓力升高",
-    "date": "2026-06-22 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/06/20/cybersecurity-vc-trends/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【2026 網路安全創投趨勢】告別單點防禦工具，「AI 原生資安架構」正在改寫估值邏輯",
-    "date": "2026-06-20 06:29:00"
   }
 ]

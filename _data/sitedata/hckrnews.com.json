@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://github.com/AdBusterOfficial/Adbuster--WinApp",
+    "title": "[英] I built an offline tool to stabilize TV audio because nothing else worked",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://swelljoe.com/post/will-it-mythos/",
+    "title": "[英] Will It Mythos?",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
+    "title": "[英] Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/",
+    "title": "[英] Package Managers need global hooks",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+    "title": "[英] Polymarket has flooded social media with deceptive videos by paid creators",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4",
+    "title": "[英] SpaceX sheds $400B in market value as debut rally hits reverse",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://blog.roboflow.com/yolo26/",
+    "title": "[英] An Introduction to YOLO26",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://arxiv.org/abs/2606.03748",
+    "title": "[英] Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://arxiv.org/abs/2606.16140",
+    "title": "[英] VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://www.openculture.com/freeonlinecourses",
+    "title": "[英] 1,700 free online courses from top universities",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://jchri.st/blog/in-praise-of-memcached/",
+    "title": "[英] In praise of memcached",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://github.com/Wack0/entii-for-workcubes",
+    "title": "[英] Windows NT for GameCube/Wii",
+    "date": "2026-06-23"
+  },
+  {
     "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
     "title": "[英] Polymarket's viral videos showed people winning big, but the bets were fake",
     "date": "2026-06-23"
@@ -12,66 +72,6 @@
   {
     "link": "https://blog.dshr.org/2026/05/ais-pr-problem.html",
     "title": "[英] AI's PR Problem",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
-    "title": "[英] Cyberdecks, going analog, and convivial technology",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://xenodium.com/ytr-youtube-radio-for-emacs",
-    "title": "[英] ytr: YouTube Radio for Emacs",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://yoebuild.org/blog/time-for-a-new-build-system/",
-    "title": "[英] Is it time for a new Embedded Linux build system?",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://unsloth.ai/docs/models/glm-5.2",
-    "title": "[英] Runing GLM-5.2 on local hardware",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
-    "title": "[英] Job application asked for my SAT scores",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://manualdousuario.net/en/smart-glasses-ugly-tacky/",
-    "title": "[英] Tacky men with ridiculous glasses want you to wear them too",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
-    "title": "[英] Nearly half of LG smart TV apps contain residential proxy SDKs",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/",
-    "title": "[英] PivCo-Huffman “merge” operations",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
-    "title": "[英] Kyber (YC W23) Is Hiring a Head of Engineering",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/",
-    "title": "[英] Canyon HUD helmet for road riding",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://ipvm.com/reports/police-chiefs-track",
-    "title": "[英] Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://www.acquired.fm/episodes/the-walt-disney-company",
-    "title": "[英] Walt Disney Company is the most successful at monetizing human nostalgia [audio]",
     "date": "2026-06-23"
   }
 ]
