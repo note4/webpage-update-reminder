@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://blog.zarfhome.com/2026/06/steam-machine-oh-no",
+    "title": "[英] I am a person who will look at the Steam Machine and cry",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
+    "title": "[英] Performance Improvements in Libffi",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+    "title": "[英] Swift Package Index Joins Apple",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://sofiakodar.github.io/posts/becomingmanager/",
+    "title": "[英] The truth about being a manager",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://www.thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why",
+    "title": "[英] 75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
+    "title": "[英] Mark Zuckerberg directed meta to create a prediction markets app",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://www.anthropic.com/news/introducing-claude-tag",
+    "title": "[英] Claude Tag",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://noteflakes.com/articles/2026-06-18-syntropy-modules",
+    "title": "[英] Rethinking Modularity in Ruby Applications",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://github.com/future-file-format/f3",
+    "title": "[英] F3",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
+    "title": "[英] San Diego photologs from the 1970s",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/",
+    "title": "[英] Pact: Anonymous Credentials for the Web",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://www.businesswire.com/news/home/20260622788628/en/Backblaze-Announces-Five-Year-Multi-Exabyte-Data-Storage-Agreement-with-CoreWeave",
+    "title": "[英] Backblaze Announces Five-Year Multi-Exabyte Agreement with CoreWeave",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html",
+    "title": "[英] Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards",
+    "date": "2026-06-24"
+  },
+  {
     "link": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/",
     "title": "[英] Samsung Demonstrates 3D Stacked FETs with Triple Nanosheet Channels at 42nm",
     "date": "2026-06-24"
@@ -7,71 +72,6 @@
   {
     "link": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
     "title": "[英] Five monitors on a Commodore 128 [video]",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://dandylyons.github.io/treedocs/",
-    "title": "[英] Show HN: Treedocs: Documentation that automatically checks for staleness",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-    "title": "[英] AI's Affordability Crisis",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://community.ibm.com/community/user/blogs/elizabeth-k-joseph1/2026/06/18/linuxone-open-source-report-may-2026",
-    "title": "[英] Open Source for IBM Z and LinuxONE",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://lift4d.github.io/",
-    "title": "[英] Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-    "title": "[英] The Low-Tech AI of Elden Ring",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://tikz.dev/editor/",
-    "title": "[英] Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://blog.arusekk.pl/posts/lossless-gif-recompression/",
-    "title": "[英] Lossless GIF recompression via exhaustive search",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://nand2mario.github.io/posts/2026/80386_early_start/",
-    "title": "[英] 80386 Early Start Memory Access",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://github.com/ilbertt/bun-sqlgen",
-    "title": "[英] Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://mistral.ai/news/ocr-4/",
-    "title": "[英] Mistral OCR 4",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://status.claude.com/incidents/jbhf20wjmzrf",
-    "title": "[英] Elevated error rate across multiple models",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://www.binghamton.edu/news/story/6327/s-m-a-r-t-these-researchers-used-math-to-crack-wordle",
-    "title": "[英] Researchers used math to crack Wordle",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-    "title": "[英] Spying on kids to save kids from spying is stupid",
     "date": "2026-06-24"
   }
 ]
