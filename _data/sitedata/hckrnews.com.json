@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
+    "title": "[英] I automated my job (and it made me a better leader)",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://no-ai-coauthors.dev",
+    "title": "[英] No AI Co-Authors. A Manifesto",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
+    "title": "[英] All train services in Germany halted after train radio communications disruption",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297",
+    "title": "[英] German Rail Service Suspended Due to Radio Interference",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://github.com/dmtrKovalenko/ffs",
+    "title": "[英] F* file system – file search that reads SSD directly bypassing OS kernel",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://sfstandard.com/2026/06/23/audit-sparked-standard-investigation-finds-tax-official-steered-10m-contract-friend/",
+    "title": "[英] Audit finds San Francisco tax official steered $10M contract to friend",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://milek7.pl/mailverifyspam/",
+    "title": "[英] Don't verify email addresses by sending spam to them",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://www.reuters.com/world/uk/scars-mark-britains-economy-10-years-after-brexit-vote-2026-06-23/",
+    "title": "[英] Scars mark Britain's economy 10 years after Brexit vote",
+    "date": "2026-06-24"
+  },
+  {
     "link": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
     "title": "[英] Printing Gaussian Splats",
     "date": "2026-06-24"
@@ -32,46 +72,6 @@
   {
     "link": "https://github.com/jo-duchan/tapflow",
     "title": "[英] A 0.5s periodic hitch in my local screen stream turned out to be macOS AWDL",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://arxiv.org/abs/2606.13175",
-    "title": "[英] The End of Code Review: Coding Agents Supersede Human Inspection",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://dynomight.net/vitamin-d/",
-    "title": "[英] The worthlessness of Vitamin D is mildly exaggerated",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://modal.com/blog/introducing-auto-endpoints",
-    "title": "[英] Modal Auto Endpoints: Optimized inference you own",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://twitter.com/JPoehnelt/status/2069482265953087602",
-    "title": "[英] Fired by Google for creating the Google workspace CLI",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "http://www.jerrysmap.com/the-map",
-    "title": "[英] Jerry's Map",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://blog.zarfhome.com/2026/06/steam-machine-oh-no",
-    "title": "[英] I am a person who will look at the Steam Machine and cry",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
-    "title": "[英] Performance Improvements in Libffi",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-    "title": "[英] Swift Package Index joins Apple",
     "date": "2026-06-24"
   }
 ]
