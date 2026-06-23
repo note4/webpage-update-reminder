@@ -1,7 +1,57 @@
 [
   {
+    "link": "https://gopeek-lovat.vercel.app/blog-you-already-have-a-git-server.html",
+    "title": "[英] You already have a Git server",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+    "title": "[英] MSG Made Dossier on Activists Who Opposed Facial Recognition",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://github.com/ryukinix/cl-bbs",
+    "title": "[英] CL-BBS: the schemeBBS-like textboard rewritten in Common Lisp",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://j3d.org/matrix_faq/matrfaq_latest.html",
+    "title": "[英] Matrix and Quaternion FAQ",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/User:Larry_Sanger",
+    "title": "[英] Wikipedia cofounder Larry Sanger blocked from editing Wikipedia",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://worksinprogress.co/issue/the-wonder-of-epidurals/",
+    "title": "[英] Epidurals are a miracle technology",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "title": "[英] The Coming Loop",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c4gy0x0j5deo",
+    "title": "[英] Oracle shed about 20k roles globally in the last year",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://github.com/baidu/Unlimited-OCR",
+    "title": "[英] Unlimited OCR: One-Shot Long-Horizon Parsing",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://github.com/shumaiOne/shumai",
+    "title": "[英] Show HN: Shumai – open-source Frame.io alternative for creative work",
+    "date": "2026-06-23"
+  },
+  {
     "link": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
-    "title": "[英] Apple Is Going to Raise Device Prices – But When?",
+    "title": "[英] Apple is going to raise device prices, but when?",
     "date": "2026-06-23"
   },
   {
@@ -22,56 +72,6 @@
   {
     "link": "https://selforg-npa.github.io/",
     "title": "[英] Show HN: Neural Particle Automata",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://vincent.bernat.ch/en/blog/2026-akvorado-rib-sharding",
-    "title": "[英] Scaling Akvorado BMP RIB with Sharding",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://ex-vi.sourceforge.net/",
-    "title": "[英] The Traditional Vi",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://sean-but-ai.vercel.app/",
-    "title": "[英] Show HN: Ideate a trading strategy with an Ex-Citadel Trader",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/",
-    "title": "[英] 8086 Segmented Memory was a good idea",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48642229",
-    "title": "[英] Gemini models increasingly stucking in thinking loop",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html",
-    "title": "[英] Who Does What? Team Topologies for the Agentic Platform",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
-    "title": "[英] AI Built a Nuke and Still Lost",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://plotnine.org/",
-    "title": "[英] Plotnine",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/meta-taps-new-whatsapp-boss-as-part-of-900-million-investment",
-    "title": "[英] Meta Invests $900M in CRED, Taps Founder to Head WhatsApp",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48641869",
-    "title": "[英] undefined",
     "date": "2026-06-23"
   }
 ]
