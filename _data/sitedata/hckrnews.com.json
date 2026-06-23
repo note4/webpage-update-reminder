@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+    "title": "[英] Printing Gaussian Splats",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://atomprophet.io/tools/cascade/",
+    "title": "[英] Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48650506",
+    "title": "[英] undefined",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://www.anthropic.com/legal/privacy",
+    "title": "[英] Anthropic updates their terms to verify age or identity",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+    "title": "[英] AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://swipe.futo.tech/",
+    "title": "[英] FUTO Swipe – A new swipe typing model",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://github.com/jo-duchan/tapflow",
+    "title": "[英] A 0.5s periodic hitch in my local screen stream turned out to be macOS AWDL",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://arxiv.org/abs/2606.13175",
+    "title": "[英] The End of Code Review: Coding Agents Supersede Human Inspection",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://dynomight.net/vitamin-d/",
+    "title": "[英] The worthlessness of Vitamin D is mildly exaggerated",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://modal.com/blog/introducing-auto-endpoints",
+    "title": "[英] Modal Auto Endpoints: Optimized inference you own",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+    "title": "[英] Fired by Google for creating the Google workspace CLI",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "http://www.jerrysmap.com/the-map",
+    "title": "[英] Jerry's Map",
+    "date": "2026-06-24"
+  },
+  {
     "link": "https://blog.zarfhome.com/2026/06/steam-machine-oh-no",
     "title": "[英] I am a person who will look at the Steam Machine and cry",
     "date": "2026-06-24"
@@ -11,67 +71,7 @@
   },
   {
     "link": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-    "title": "[英] Swift Package Index Joins Apple",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://sofiakodar.github.io/posts/becomingmanager/",
-    "title": "[英] The truth about being a manager",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://www.thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why",
-    "title": "[英] 75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
-    "title": "[英] Mark Zuckerberg directed meta to create a prediction markets app",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://www.anthropic.com/news/introducing-claude-tag",
-    "title": "[英] Claude Tag",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://noteflakes.com/articles/2026-06-18-syntropy-modules",
-    "title": "[英] Rethinking Modularity in Ruby Applications",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://github.com/future-file-format/f3",
-    "title": "[英] F3",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
-    "title": "[英] San Diego photologs from the 1970s",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/",
-    "title": "[英] Pact: Anonymous Credentials for the Web",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://www.businesswire.com/news/home/20260622788628/en/Backblaze-Announces-Five-Year-Multi-Exabyte-Data-Storage-Agreement-with-CoreWeave",
-    "title": "[英] Backblaze Announces Five-Year Multi-Exabyte Agreement with CoreWeave",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html",
-    "title": "[英] Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/",
-    "title": "[英] Samsung Demonstrates 3D Stacked FETs with Triple Nanosheet Channels at 42nm",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
-    "title": "[英] Five monitors on a Commodore 128 [video]",
+    "title": "[英] Swift Package Index joins Apple",
     "date": "2026-06-24"
   }
 ]

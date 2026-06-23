@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/",
+    "title": "[英] Towards a world where no one is surprised by a natural disaster",
+    "date": "2026-06-24 03:40:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/products/chrome/autofill-ios-android-wallet/",
     "title": "[英] Chrome is bringing advanced autofill capabilities to your phone with Google Wallet",
     "date": "2026-06-24 01:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/products-and-platforms/products/education/higher-education-gemini-notebooklm/",
     "title": "[英] How universities are preparing students for an AI-powered future",
     "date": "2026-06-18 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-    "title": "[英] New research shows how AMIE, our medical AI, could help manage health conditions.",
-    "date": "2026-06-17 23:00:00"
   }
 ]
