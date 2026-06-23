@@ -1,7 +1,42 @@
 [
   {
+    "link": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
+    "title": "[英] Inventing the Future, One Lisp Machine at a Time",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://ps.tc/pages/blog-usbliter8.html",
+    "title": "[英] Usbliter8: an A12/A13 SecureROM Exploit",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+    "title": "[英] Rhombus Language 1.0",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/",
+    "title": "[英] Millimeter wave technology drills 100 meters into granite",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://publicdomainreview.org/collection/art-of-kite-flying/",
+    "title": "[英] The Art of Kite Flying (1430–1929)",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://github.com/context-labs/halo",
+    "title": "[英] Show HN: RLM-based local debugger for AI agent traces",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://spacedaily.com/t-no-spacecraft-has-ever-landed-in-the-outer-solar-system-except-one-the-huygens-probe-which-parachuted-through-titans-orange-haze-in-2005-and-touched-down-more-than-a-billion-kilometres-fr/",
+    "title": "[英] 2004 Huygens probe to Saturn's Titan: Still our only outer solar system lander",
+    "date": "2026-06-24"
+  },
+  {
     "link": "https://www.the3dprintingnerd.com/ab2047",
-    "title": "[英] California AB 2047 makes 3d printers off-limits to students, educators, business",
+    "title": "[英] California AB 2047 makes 3D printers off-limits to students, educators, business",
     "date": "2026-06-24"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://no-ai-coauthors.dev",
     "title": "[英] No AI Co-Authors. A Manifesto",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
-    "title": "[英] All train services in Germany halted after train radio communications disruption",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
-    "title": "[英] Trains halted across Germany because of communication system problem",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://github.com/dmtrKovalenko/ffs",
-    "title": "[英] F* file system – file search that reads SSD directly bypassing OS kernel",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://sfstandard.com/2026/06/23/audit-sparked-standard-investigation-finds-tax-official-steered-10m-contract-friend/",
-    "title": "[英] Audit finds San Francisco tax official steered $10M contract to friend",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://milek7.pl/mailverifyspam/",
-    "title": "[英] Don't verify email addresses by sending spam to them",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://www.reuters.com/world/uk/scars-mark-britains-economy-10-years-after-brexit-vote-2026-06-23/",
-    "title": "[英] Scars mark Britain's economy 10 years after Brexit vote",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
-    "title": "[英] Printing Gaussian Splats",
     "date": "2026-06-24"
   }
 ]
