@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html",
+    "title": "[英] Who Does What? Team Topologies for the Agentic Platform",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+    "title": "[英] AI Built a Nuke and Still Lost",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://plotnine.org/",
+    "title": "[英] Plotnine",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-06-22/meta-taps-new-whatsapp-boss-as-part-of-900-million-investment",
+    "title": "[英] Meta Invests $900M in CRED, Taps Founder to Head WhatsApp",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48641869",
+    "title": "[英] undefined",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://noyb.eu/en/eu-member-states-and-google-suddenly-want-keep-cookie-banners",
+    "title": "[英] EU Member States (and Google) suddenly want to keep cookie banners",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://github.com/imtomt/ymawky/tree/linux",
+    "title": "[英] Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
+    "title": "[英] Improvements to Std:Format in C++26",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48641160",
+    "title": "[英] Ask HN: Anthropic banned me from using Claude Code and I don't know what to do",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://kreya.app/blog/new-http-query-method-explained/",
+    "title": "[英] The new HTTP QUERY method explained",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://deepbluedynamics.com/blog/lume-retrieval-primitives",
+    "title": "[英] How Lume Works: The Retrieval Primitives",
+    "date": "2026-06-23"
+  },
+  {
+    "link": "https://openai.com/index/daybreak-securing-the-world/",
+    "title": "[英] OpenAI DayBreak – GPT-5.5-Cyber",
+    "date": "2026-06-23"
+  },
+  {
     "link": "https://github.com/AdBusterOfficial/Adbuster--WinApp",
     "title": "[英] I built an offline tool to stabilize TV audio because nothing else worked",
     "date": "2026-06-23"
@@ -12,66 +72,6 @@
   {
     "link": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
     "title": "[英] Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/",
-    "title": "[英] Package Managers need global hooks",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
-    "title": "[英] Polymarket has flooded social media with deceptive videos by paid creators",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4",
-    "title": "[英] SpaceX sheds $400B in market value as debut rally hits reverse",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://blog.roboflow.com/yolo26/",
-    "title": "[英] An Introduction to YOLO26",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://arxiv.org/abs/2606.03748",
-    "title": "[英] Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://arxiv.org/abs/2606.16140",
-    "title": "[英] VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://www.openculture.com/freeonlinecourses",
-    "title": "[英] 1,700 free online courses from top universities",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://jchri.st/blog/in-praise-of-memcached/",
-    "title": "[英] In praise of memcached",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://github.com/Wack0/entii-for-workcubes",
-    "title": "[英] Windows NT for GameCube/Wii",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
-    "title": "[英] Polymarket's viral videos showed people winning big, but the bets were fake",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48638274",
-    "title": "[英] undefined",
-    "date": "2026-06-23"
-  },
-  {
-    "link": "https://blog.dshr.org/2026/05/ais-pr-problem.html",
-    "title": "[英] AI's PR Problem",
     "date": "2026-06-23"
   }
 ]
