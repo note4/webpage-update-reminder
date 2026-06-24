@@ -1,12 +1,67 @@
 [
   {
+    "link": "https://www.modular.com/blog/qualcomm-to-acquire-modular",
+    "title": "[英] Qualcomm to Acquire Modular",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+    "title": "[英] Qualcomm to Acquire Modular",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
+    "title": "[英] Crawling BitTorrent DHTs for Fun and Profit [pdf]",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://statusdude.com/blog/zero-downtime-docker-compose",
+    "title": "[英] Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://infosec.exchange/@mttaggart/116806641273303255",
+    "title": "[英] GitHub shouldn't be a dependency for publishing Rust on crates.io",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/",
+    "title": "[英] Exploiting vulnerabilities in Johnson and Johnson web apps",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://lookaway.com",
+    "title": "[英] Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/",
+    "title": "[英] Wikipedia Workers to Seek Union Recognition",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://arxiv.org/abs/2606.09498",
+    "title": "[英] Self-Harness: Harnesses That Improve Themselves",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+    "title": "[英] Big AI labs are hiring philosophers",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+    "title": "[英] Thomann takes legal action against Fender",
+    "date": "2026-06-25"
+  },
+  {
     "link": "https://posthog.com/blog/sql-parser",
     "title": "[英] I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
     "date": "2026-06-25"
   },
   {
-    "link": "https://medium.com/@DolphinDB_Inc/c-speed-without-c-pain-inside-a-microsecond-level-low-latency-engine-a634f260a4ee",
-    "title": "[英] How a Microsecond-Level Low-Latency Engine Works",
+    "link": "https://news.ycombinator.com/item?id=48627980",
+    "title": "[英] undefined",
     "date": "2026-06-25"
   },
   {
@@ -17,61 +72,6 @@
   {
     "link": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
     "title": "[英] NSA lost access to Mythos amid Anthropic dispute",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://werd.io/journalism-is-rearranging-the-deckchairs-it-needs-to-reinvent-itself/",
-    "title": "[英] Journalism is rearranging the deckchairs. It needs to reinvent itself",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-    "title": "[英] Computer use in Gemini 3.5 Flash",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
-    "title": "[英] Pull request limits are cutting down the noise",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "title": "[英] The Xteink X4 E-Ink Reader",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48662805",
-    "title": "[英] undefined",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
-    "title": "[英] For Most of the World, Open-Source AI Is the Only Way Forward",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
-    "title": "[英] CAPTCHAs have failed for 20 years",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://github.com/NotASithLord/peerd",
-    "title": "[英] Show HN: peerd – AI agent harness that runs entirely in your browser",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.tigrisdata.com/blog/objgit/",
-    "title": "[英] I taught a bucket to speak Git",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.greptile.com/blog/prs-on-openclaw",
-    "title": "[英] PR spam today looks like email spam in the early 2000s",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-    "title": "[英] There are a few things that I look back on as my mistakes in the early days",
     "date": "2026-06-25"
   }
 ]
