@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
-    "title": "[英] Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
-    "date": "2026-06-24"
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "title": "[英] Computer use in Gemini 3.5 Flash",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+    "title": "[英] Pull request limits are cutting down the noise",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+    "title": "[英] The Xteink X4 E-Ink Reader",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+    "title": "[英] Ubisoft co-founder Claude Guillemot dies in plane crash",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+    "title": "[英] For Most of the World, Open-Source AI Is the Only Way Forward",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
+    "title": "[英] CAPTCHAs have failed for 20 years",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://github.com/NotASithLord/peerd",
+    "title": "[英] Show HN: peerd – AI agent harness that runs entirely in your browser",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.tigrisdata.com/blog/objgit/",
+    "title": "[英] I taught a bucket to speak Git",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.greptile.com/blog/prs-on-openclaw",
+    "title": "[英] PR spam today looks like email spam in the early 2000s",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+    "title": "[英] John Carmack on the mistakes around Quake that ruined id software",
+    "date": "2026-06-25"
   },
   {
     "link": "https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634",
     "title": "[英] Quebec town recognizes trees as living beings with rights",
-    "date": "2026-06-24"
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+    "title": "[英] Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
+    "date": "2026-06-25"
   },
   {
     "link": "https://www.dijkstrascry.com/inventory",
     "title": "[英] Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)",
-    "date": "2026-06-24"
+    "date": "2026-06-25"
   },
   {
-    "link": "https://www.winnipegsd.ca/student-registration",
-    "title": "[英] Registration",
-    "date": "2026-06-24"
+    "link": "https://news.ycombinator.com/item?id=48661195",
+    "title": "[英] undefined",
+    "date": "2026-06-25"
   },
   {
     "link": "https://www.bbc.com/news/articles/cjrg52egw1ro",
     "title": "[英] GTA 6 will cost $80",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/",
-    "title": "[英] Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
-    "title": "[英] OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://www.euronews.com/business/2026/06/24/venezuela-plans-biggest-debt-restructuring-in-history-after-maduros-fall",
-    "title": "[英] Venezuela reveals $240B in debt it cannot pay (~$100B more than expected)",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://ucbskyadrs.github.io/blog/levi/",
-    "title": "[英] Systems optimization should be part of CI/CD",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://rubyllm.com/",
-    "title": "[英] RubyLLM: A single, beautiful Ruby framework for all major AI providers",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://github.com/nubjs/nub",
-    "title": "[英] Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-    "title": "[英] Running Windows Games on a Hobby OS with Wine",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://pure-effect.org",
-    "title": "[英] Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
-    "title": "[英] Mark Zuckerberg wants Meta to launch its own prediction market",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://ben-mini.com/2026/stealing-is-a-skill",
-    "title": "[英] Stealing Is a Skill",
-    "date": "2026-06-24"
+    "date": "2026-06-25"
   }
 ]
