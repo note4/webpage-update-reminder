@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.southbridge.ai/blog/offmute-v2-glm-vs-opus",
+    "title": "[英] The frontier is open-source today",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.readponder.com/essay/a-tesla-crashed-through-a-harris-county-home-is-the-car-to-blame",
+    "title": "[英] A Tesla Crashed Through a Harris County Home. Is the Car to Blame?",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://neilzone.co.uk/2026/06/pondering-routing-more-of-my-traffic-via-nodes-outside-the-uk-because-of-the-direction-of-uk-online-safety-policy/",
+    "title": "[英] Pondering routing more of my traffic via nodes outside the UK",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/",
+    "title": "[英] How the Fifth Lateran Council unlocked financial theory",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "title": "[英] GLM-5.2 is a step change for open agents",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+    "title": "[英] 45°C cooling design cuts data center water use to near zero",
+    "date": "2026-06-25"
+  },
+  {
     "link": "https://www.modular.com/blog/qualcomm-to-acquire-modular",
     "title": "[英] Qualcomm to Acquire Modular",
     "date": "2026-06-25"
@@ -42,36 +72,6 @@
   {
     "link": "https://arxiv.org/abs/2606.09498",
     "title": "[英] Self-Harness: Harnesses That Improve Themselves",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
-    "title": "[英] Big AI labs are hiring philosophers",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
-    "title": "[英] Thomann takes legal action against Fender",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://posthog.com/blog/sql-parser",
-    "title": "[英] I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48627980",
-    "title": "[英] undefined",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-    "title": "[英] OpenAI unveils its first custom chip, built by Broadcom",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-    "title": "[英] NSA lost access to Mythos amid Anthropic dispute",
     "date": "2026-06-25"
   }
 ]
