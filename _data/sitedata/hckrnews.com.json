@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://kolistat.com/blog/the-stats-duck-v0-6-0/",
+    "title": "[英] Statistics that live in your SQL",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+    "title": "[英] How to burst the AI bubble: Strike at its roots",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://www.politico.eu/article/president-vs-parliament-roberta-metsola-overrides-meps-bid-force-child-abuse-law/",
+    "title": "[英] European Commission's Metsola Overrides MEPs to Force Through Chat Control",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
+    "title": "[英] Grok Build 0.1: Intelligence, Performance and Price Analysis",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
+    "title": "[英] We're making Bunny DNS free: because a faster internet won't build itself",
+    "date": "2026-06-24"
+  },
+  {
+    "link": "http://beyondloom.com/blog/vectorgraphics.html",
+    "title": "[英] Vector Graphics in Lil",
+    "date": "2026-06-24"
+  },
+  {
     "link": "https://maref.cc/en/blog/vibe-coding-crisis/",
     "title": "[英] GitHub Is Becoming a Giant AI Code Dump",
     "date": "2026-06-24"
@@ -42,36 +72,6 @@
   {
     "link": "https://glyphcss.com",
     "title": "[英] Show HN: An ASCII 3D Rendering Engine",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://gitlab.com/baiyibai/pico-usb-wifi",
-    "title": "[英] Raspberry Pi Pico W as USB Wi-Fi Adapter",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://github.com/SakanaAI/fugu",
-    "title": "[英] Sakana Fugu: a multi-agent system delivered as one model",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://top500.org/news/lineshine-debuts-no-1-top500-enters-new-global-exascale-era/",
-    "title": "[英] LineShine Debuts at No. 1 as the TOP500 Enters a New Global Exascale Era",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
-    "title": "[英] The Teensy Executable Revisited",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://arxiv.org/abs/2606.24597",
-    "title": "[英] Qwen-AgentWorld: Language World Models for General Agents",
-    "date": "2026-06-24"
-  },
-  {
-    "link": "https://primecrunch.com/blog/2/hunting-million-digit-primes-from-my-loft",
-    "title": "[英] Hunting Million-Digit Primes from My Loft",
     "date": "2026-06-24"
   }
 ]
