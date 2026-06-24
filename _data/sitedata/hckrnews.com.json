@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb",
+    "title": "[英] PostgreSQL Is Enough",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://rerun.io/blog/data-layer-tax",
+    "title": "[英] Robotics Teams Are Rebuilding the Data Stack from Scratch",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees",
+    "title": "[英] Elastic lays off 7% of employees",
+    "date": "2026-06-25"
+  },
+  {
     "link": "https://www.southbridge.ai/blog/offmute-v2-glm-vs-opus",
     "title": "[英] The frontier is open-source today",
     "date": "2026-06-25"
@@ -57,21 +72,6 @@
   {
     "link": "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/",
     "title": "[英] Exploiting vulnerabilities in Johnson and Johnson web apps",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://lookaway.com",
-    "title": "[英] Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/",
-    "title": "[英] Wikipedia Workers to Seek Union Recognition",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://arxiv.org/abs/2606.09498",
-    "title": "[英] Self-Harness: Harnesses That Improve Themselves",
     "date": "2026-06-25"
   }
 ]
