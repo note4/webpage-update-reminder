@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+    "title": "[英] OpenAI Leans Toward Waiting Until Next Year for IPO",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content",
+    "title": "[英] RRB-Trees: Efficient Immutable Vectors (2012) [pdf]",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1",
+    "title": "[英] GloriousEggroll's Proton has been rebased on Proton 11",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://om.co/2026/06/24/1966-2026/",
+    "title": "[英] Om Malik, 1966-2026",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
+    "title": "[英] The last Romans are still around",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+    "title": "[英] Un-0: Generating Images with Coupled Oscillators",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://calpaterson.com/bank-python.html",
+    "title": "[英] An oral history of Bank Python (2021)",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+    "title": "[英] Parallel Parentheses Matching",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://siliconopera.com/the-customer-who-almost-killed-slack-stripe-and-airbnb/",
+    "title": "[英] The Customer Who Almost Killed Slack, Stripe, and Airbnb",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://velo.xyz/news/1908",
+    "title": "[英] OpenAI to Stagger Release of GPT 5.6 at Request of U.S. Government",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://rozumem.xyz/posts/17",
+    "title": "[英] The Doorman's Fallacy in Action",
+    "date": "2026-06-26"
+  },
+  {
     "link": "https://spectrum.ieee.org/ai-radio-chip-design",
     "title": "[英] AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
     "date": "2026-06-26"
@@ -17,61 +72,6 @@
   {
     "link": "https://github.com/inkeep/open-knowledge",
     "title": "[英] Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://github.com/runtypelabs/persona",
-    "title": "[英] Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://idlemachines.co.uk/essays/pytorch-training-loop",
-    "title": "[英] The annotated PyTorch training loop",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html",
-    "title": "[英] Early adversity leaves lasting molecular imprint across the body: primate study",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://princechazz.com",
-    "title": "[英] Show HN: Chess-Inspired Roguelike",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://explorer.oxide.computer/",
-    "title": "[英] Oxide computer 3D rack guided tour",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://github.com/decrazyo/anes",
-    "title": "[英] Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/52-hertz_whale",
-    "title": "[英] 52-hertz whale",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.ycombinator.com/library/SF-how-to-get-your-first-10-customers",
-    "title": "[英] How to get your first customers [video]",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
-    "title": "[英] I built a GPU back end for Emacs",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://news.xbox.com/en-us/2026/06/25/xbox-console-price-update/",
-    "title": "[英] Updated Xbox Console Prices",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127",
-    "title": "[英] European Commission lines up Amazon and Microsoft for cloud gatekeeper status",
     "date": "2026-06-26"
   }
 ]
