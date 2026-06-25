@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://spectrum.ieee.org/ai-radio-chip-design",
+    "title": "[英] AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://iza.ac/posts/2026/06/intuitive-cooking/",
+    "title": "[英] The anxiety of the perfect loaf: the illusion of culinary precision",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.foodandwaterwatch.org/2026/06/25/supreme-court-gives-pesticide-corporations-immunity-from-cancer-lawsuits/",
+    "title": "[英] Supreme Court Gives Pesticide Corporations Immunity from Cancer Lawsuits",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://github.com/inkeep/open-knowledge",
+    "title": "[英] Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://github.com/runtypelabs/persona",
+    "title": "[英] Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+    "title": "[英] The annotated PyTorch training loop",
+    "date": "2026-06-26"
+  },
+  {
     "link": "https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html",
     "title": "[英] Early adversity leaves lasting molecular imprint across the body: primate study",
     "date": "2026-06-26"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127",
     "title": "[英] European Commission lines up Amazon and Microsoft for cloud gatekeeper status",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://scrollprize.org/firstscroll",
-    "title": "[英] A Herculaneum scroll has been read for the first time",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
-    "title": "[英] Besimple AI (YC P25) Is Hiring",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://yllan.org/software/OS9Map/",
-    "title": "[英] OS9Map",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
-    "title": "[英] Physicists Track and Trap the Elusive Neutrino",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-    "title": "[英] IBM debuts sub-1 nanometer chip technology",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://deno.com/blog/v2.9",
-    "title": "[英] Deno 2.9",
     "date": "2026-06-26"
   }
 ]
