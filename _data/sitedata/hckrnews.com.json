@@ -1,7 +1,42 @@
 [
   {
+    "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+    "title": "[英] LuaJIT 3.0 proposed syntax extensions",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
+    "title": "[英] Dostoyevsky isn't difficult",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "title": "[英] Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+    "title": "[英] Blogging can just be stating the obvious",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+    "title": "[英] Anthropic Accuses Alibaba of ‘Illicitly’ Accessing AI Models",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://victorribeiro.com/wordit/",
+    "title": "[英] Show HN: Wordit – Change One Letter, Keep the Chain Going",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
+    "title": "[英] It's Only When You Look Back",
+    "date": "2026-06-25"
+  },
+  {
     "link": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb",
-    "title": "[英] PostgreSQL Is Enough",
+    "title": "[英] PostgreSQL is enough (2024)",
     "date": "2026-06-25"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
     "title": "[英] GLM-5.2 is a step change for open agents",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-    "title": "[英] 45°C cooling design cuts data center water use to near zero",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.modular.com/blog/qualcomm-to-acquire-modular",
-    "title": "[英] Qualcomm to Acquire Modular",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-    "title": "[英] Qualcomm to Acquire Modular",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
-    "title": "[英] Crawling BitTorrent DHTs for Fun and Profit [pdf]",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://statusdude.com/blog/zero-downtime-docker-compose",
-    "title": "[英] Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://infosec.exchange/@mttaggart/116806641273303255",
-    "title": "[英] GitHub shouldn't be a dependency for publishing Rust on crates.io",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/",
-    "title": "[英] Exploiting vulnerabilities in Johnson and Johnson web apps",
     "date": "2026-06-25"
   }
 ]
