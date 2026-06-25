@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/06/25/qualcomm-lays-out-new-data-center-roadmap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "高通揭 AI 資料中心新藍圖：Meta 買單、Modular 補上軟體層，同步洽談 ByteDance 客製晶片",
+    "date": "2026-06-25 12:30:51"
+  },
+  {
+    "link": "https://techorange.com/2026/06/25/dangerous-password-behaviors/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【企業密碼安全盲點】光有強密碼還不夠，缺乏「集中治理」機制才是資安真破口",
+    "date": "2026-06-25 10:32:55"
+  },
+  {
+    "link": "https://techorange.com/2026/06/25/nestle-usa-ai-factories/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "工廠尋料時間縮短 50%！雀巢如何用 AI 重構備件數據，打造跨廠庫存網絡",
+    "date": "2026-06-25 09:56:11"
+  },
+  {
     "link": "https://techorange.com/2026/06/25/us-china-robotics-ai-hardware-sovereignty/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】美國盯上中國機器人，高通、軟銀把 AI 戰場推向硬體自製",
     "date": "2026-06-25 05:30:00"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/06/23/sakana-fugu-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "日本 AI 新創 Sakana 推出 Fugu：AI 下一場戰爭不只比模型，而是誰更會協調模型",
     "date": "2026-06-23 18:14:39"
-  },
-  {
-    "link": "https://techorange.com/2026/06/23/openai-patch-the-planet-daybreak-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "OpenAI 啟動開源資安計畫 Patch the Planet：資安戰場正從「找漏洞」轉向「修漏洞」",
-    "date": "2026-06-23 11:48:15"
-  },
-  {
-    "link": "https://techorange.com/2026/06/23/trump-launches-quantum-race-as-crypto-faces-q-day-threat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "川普按下量子競賽加速鍵：2028 量子電腦目標，為何讓比特幣、金融網路與政府資安同步備戰？",
-    "date": "2026-06-23 11:47:04"
-  },
-  {
-    "link": "https://techorange.com/2026/06/23/ai-agent-accenture-pwc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI Agent 進公司誰來管？Accenture 點名 HR 扛責，PwC 示警入門職缺「資深化」",
-    "date": "2026-06-23 10:10:20"
   }
 ]
