@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/investing-in-ukraines-ai-leadership-and-economic-future/",
+    "title": "[英] Investing in Ukraine’s AI leadership and economic future",
+    "date": "2026-06-26 01:40:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/",
+    "title": "[英] Try these 3 Google AI tools to help find your next job.",
+    "date": "2026-06-26 01:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/iste-2026-educator-updates/",
+    "title": "[英] Building AI tailored for education, with educators in the lead",
+    "date": "2026-06-26 01:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/",
+    "title": "[英] ISTE 2026: Supporting teaching and learning with connected AI tools",
+    "date": "2026-06-26 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products/ads-commerce/demand-gen-drop-june-2026/",
+    "title": "[英] Elevate your campaign performance with June’s Demand Gen Drop.",
+    "date": "2026-06-26 00:00:00"
+  },
+  {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/education-ai-funding/",
+    "title": "[英] Google.org is funding two long-term partners on education and AI.",
+    "date": "2026-06-26 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/henry-county-public-schools/",
+    "title": "[英] How a Kentucky school district is scaling writing feedback with Gemini",
+    "date": "2026-06-26 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/",
+    "title": "[英] 5 ways to learn with study notebooks in the Gemini app",
+    "date": "2026-06-26 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+    "title": "[英] Our latest Google Finance upgrades, including a new app",
+    "date": "2026-06-26 00:00:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/devices/google-nest/gemini-home-voice-assistant-tips/",
     "title": "[英] 100 new ways to make your day easier with Gemini for Home voice assistant",
     "date": "2026-06-25 21:00:00"
@@ -15,6 +60,11 @@
     "date": "2026-06-25 17:00:00"
   },
   {
+    "link": "https://blog.google/products-and-platforms/products/education/iste-students-2026/",
+    "title": "[英] Supporting students with connected AI tools for more personalized learning",
+    "date": "2026-06-25 17:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
     "title": "[英] Introducing computer use in Gemini 3.5 Flash",
     "date": "2026-06-25 00:00:00"
@@ -23,55 +73,5 @@
     "link": "https://blog.google/products-and-platforms/platforms/google-pay/google-wallet-tsa/",
     "title": "[英] Google Wallet makes TSA PreCheck Touchless ID available for more travelers",
     "date": "2026-06-24 21:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/",
-    "title": "[英] Towards a world where no one is surprised by a natural disaster",
-    "date": "2026-06-24 03:40:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/chrome/autofill-ios-android-wallet/",
-    "title": "[英] Chrome is bringing advanced autofill capabilities to your phone with Google Wallet",
-    "date": "2026-06-24 01:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/search/summergeist-google-trends/",
-    "title": "[英] What’s trending on Google this summer",
-    "date": "2026-06-24 00:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/preserving-cultural-heritage-inside-google-deepminds-collaboration-with-pele/",
-    "title": "[英] Preserving cultural heritage: Inside Google DeepMind’s collaboration with Pelé",
-    "date": "2026-06-23 20:30:00"
-  },
-  {
-    "link": "https://blog.google/products/ads-commerce/youtube-insights-tools-cannes-lions-2026/",
-    "title": "[英] Cannes Lions 2026: Strengthen creative campaigns with new tools from YouTube",
-    "date": "2026-06-23 20:30:00"
-  },
-  {
-    "link": "https://blog.google/products/ads-commerce/eu-financial-advertiser-verification/",
-    "title": "[英] Expanding financial advertiser verification across Europe",
-    "date": "2026-06-23 13:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg/",
-    "title": "[英] Explore Colonial Williamsburg with Google Arts & Culture",
-    "date": "2026-06-23 04:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/",
-    "title": "[英] Interactions API: our primary interface for Gemini models and agents",
-    "date": "2026-06-23 01:15:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/education/florida-state-university-notebooklm/",
-    "title": "[英] NotebookLM is transforming student success at FSU",
-    "date": "2026-06-23 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/",
-    "title": "[英] Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "date": "2026-06-22 22:30:00"
   }
 ]
