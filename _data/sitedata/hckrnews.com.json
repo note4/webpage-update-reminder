@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
+    "title": "[英] Countries are competing to see which can carry out mass surveillance the best",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai",
+    "title": "[英] Why Does Everyone Hate AI?",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/",
+    "title": "[英] Apple announces significant price increases for MacBooks, iPads, more",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+    "title": "[英] You can't unit test for taste",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://twitter.com/mfts0/status/2070080422482977095",
+    "title": "[英] You didn't vibe code it, you stole it from open source&enterprise-licensed code",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://infoscience.epfl.ch/entities/publication/9a49779b-f9f8-448d-b3d1-737c78455309",
+    "title": "[英] Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+    "title": "[英] LastPass notifies users of yet another data breach",
+    "date": "2026-06-25"
+  },
+  {
     "link": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
     "title": "[英] Words, Words, Words",
     "date": "2026-06-25"
@@ -37,41 +72,6 @@
   {
     "link": "https://utaw.tech/news/wikipedia-recognition",
     "title": "[英] Wikipedia Workers in Britain set global first by seeking union recognition",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://github.com/BohemiaInteractive/CWR",
-    "title": "[英] Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://hl2.slqnt.dev/",
-    "title": "[英] Half-Life 2 in a Browser",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://markdy.com",
-    "title": "[英] Markdy: Like Mermaid Diagrams, but for Motion",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-    "title": "[英] The Unbearable Cheapness of Open Weight Models",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box",
-    "title": "[英] GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-    "title": "[英] Medical students are using popular research tool to pump out misleading studies",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
-    "title": "[英] Optimizing [sqlx:test] rebuild time",
     "date": "2026-06-25"
   }
 ]

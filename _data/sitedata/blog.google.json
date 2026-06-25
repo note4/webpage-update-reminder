@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/devices/google-nest/gemini-home-voice-assistant-tips/",
+    "title": "[英] 100 new ways to make your day easier with Gemini for Home voice assistant",
+    "date": "2026-06-25 21:00:00"
+  },
+  {
     "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-play-updates-uk-developers/",
     "title": "[英] Google Play updates let U.K. developers do more and pay less.",
     "date": "2026-06-25 19:00:00"
@@ -35,13 +40,13 @@
     "date": "2026-06-24 00:00:00"
   },
   {
-    "link": "https://blog.google/products/ads-commerce/youtube-insights-tools-cannes-lions-2026/",
-    "title": "[英] Cannes Lions 2026: Strengthen creative campaigns with new tools from YouTube",
+    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/preserving-cultural-heritage-inside-google-deepminds-collaboration-with-pele/",
+    "title": "[英] Preserving cultural heritage: Inside Google DeepMind’s collaboration with Pelé",
     "date": "2026-06-23 20:30:00"
   },
   {
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/preserving-cultural-heritage-inside-google-deepminds-collaboration-with-pele/",
-    "title": "[英] Preserving cultural heritage: Inside Google DeepMind’s collaboration with Pelé",
+    "link": "https://blog.google/products/ads-commerce/youtube-insights-tools-cannes-lions-2026/",
+    "title": "[英] Cannes Lions 2026: Strengthen creative campaigns with new tools from YouTube",
     "date": "2026-06-23 20:30:00"
   },
   {
@@ -68,10 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/",
     "title": "[英] Google DeepMind and A24 announce first-of-its-kind research partnership",
     "date": "2026-06-22 22:30:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/maps/georgia-street-view/",
-    "title": "[英] Street View opens a new window into Georgia",
-    "date": "2026-06-22 14:00:00"
   }
 ]
