@@ -1,7 +1,32 @@
 [
   {
-    "link": "https://www.mfw.org.au/",
-    "title": "[英] Mad Fucking Witches",
+    "link": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
+    "title": "[英] Words, Words, Words",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+    "title": "[英] Dolphin Emulator Progress Release 2606",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/",
+    "title": "[英] Lies, Damn Lies and Database Benchmarks",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+    "title": "[英] Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://kellyshortridge.com/blog/posts/shall-we-play-a-coordination-game/",
+    "title": "[英] Shall We Play a Coordination Game?",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48670490",
+    "title": "[英] undefined",
     "date": "2026-06-25"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
     "title": "[英] Optimizing [sqlx:test] rebuild time",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
-    "title": "[英] Zombie unicorns are haunting Silicon Valley",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48668199",
-    "title": "[英] Ask HN: Where is our profession (programmer) going?",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://github.com/wolfoo2931/linkedrecords/",
-    "title": "[英] Show HN: Write SaaS apps where users control where their data is stored",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://blog.cloudflare.com/oauth-for-all/",
-    "title": "[英] Cloudflare launched self-managed OAuth for all",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=kPRA0W1kECg",
-    "title": "[英] 15 sorting algorithms in 6 minutes (2013) [video]",
     "date": "2026-06-25"
   }
 ]
