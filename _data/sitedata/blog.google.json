@@ -10,13 +10,18 @@
     "date": "2026-06-26 01:00:00"
   },
   {
+    "link": "https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/",
+    "title": "[英] 5 ways Google parents are using Gemini",
+    "date": "2026-06-26 01:00:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/products/education/iste-2026-educator-updates/",
     "title": "[英] Building AI tailored for education, with educators in the lead",
     "date": "2026-06-26 01:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/",
-    "title": "[英] ISTE 2026: Supporting teaching and learning with connected AI tools",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/",
+    "title": "[英] 5 ways to learn with study notebooks in the Gemini app",
     "date": "2026-06-26 00:00:00"
   },
   {
@@ -26,7 +31,7 @@
   },
   {
     "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/education-ai-funding/",
-    "title": "[英] Google.org is funding two long-term partners on education and AI.",
+    "title": "[英] Google.org is funding three long-term partners on education and AI.",
     "date": "2026-06-26 00:00:00"
   },
   {
@@ -35,8 +40,8 @@
     "date": "2026-06-26 00:00:00"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/",
-    "title": "[英] 5 ways to learn with study notebooks in the Gemini app",
+    "link": "https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/",
+    "title": "[英] ISTE 2026: Supporting teaching and learning with connected AI tools",
     "date": "2026-06-26 00:00:00"
   },
   {
@@ -68,10 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
     "title": "[英] Introducing computer use in Gemini 3.5 Flash",
     "date": "2026-06-25 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/platforms/google-pay/google-wallet-tsa/",
-    "title": "[英] Google Wallet makes TSA PreCheck Touchless ID available for more travelers",
-    "date": "2026-06-24 21:00:00"
   }
 ]

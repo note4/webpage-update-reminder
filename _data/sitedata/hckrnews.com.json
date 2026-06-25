@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.tootalltoby.com/Tournaments/",
+    "title": "[英] CAD vs. CAD Tournament",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
+    "title": "[英] Military branches restore flu shot requirement after virus swept through base",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://runtimewire.com/article/om-malik-taught-silicon-valley-to-read-itself",
+    "title": "[英] Om Malik taught Silicon Valley to read itself",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+    "title": "[英] The 'papers, please' era of the internet will decimate your privacy",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.nijho.lt/post/proxmox-to-nixos/",
+    "title": "[英] Migrating from Proxmox to NixOS and Incus",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://github.com/plbrault/youre-the-os",
+    "title": "[英] A game where you're an OS and have to manage processes, memory and I/O events",
+    "date": "2026-06-26"
+  },
+  {
     "link": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
     "title": "[英] OpenAI Leans Toward Waiting Until Next Year for IPO",
     "date": "2026-06-26"
@@ -16,7 +46,7 @@
   },
   {
     "link": "https://om.co/2026/06/24/1966-2026/",
-    "title": "[英] Om Malik, 1966-2026",
+    "title": "[英] Om Malik has died",
     "date": "2026-06-26"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://siliconopera.com/the-customer-who-almost-killed-slack-stripe-and-airbnb/",
     "title": "[英] The Customer Who Almost Killed Slack, Stripe, and Airbnb",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://velo.xyz/news/1908",
-    "title": "[英] OpenAI to Stagger Release of GPT 5.6 at Request of U.S. Government",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://rozumem.xyz/posts/17",
-    "title": "[英] The Doorman's Fallacy in Action",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://spectrum.ieee.org/ai-radio-chip-design",
-    "title": "[英] AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://iza.ac/posts/2026/06/intuitive-cooking/",
-    "title": "[英] The anxiety of the perfect loaf: the illusion of culinary precision",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.foodandwaterwatch.org/2026/06/25/supreme-court-gives-pesticide-corporations-immunity-from-cancer-lawsuits/",
-    "title": "[英] Supreme Court Gives Pesticide Corporations Immunity from Cancer Lawsuits",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://github.com/inkeep/open-knowledge",
-    "title": "[英] Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
     "date": "2026-06-26"
   }
 ]
