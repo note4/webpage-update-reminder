@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.mfw.org.au/",
+    "title": "[英] Mad Fucking Witches",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://github.com/dima-quant/nimic",
+    "title": "[英] Show HN: Nimic – Pure Python as a systems language with AOT compilation",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://utaw.tech/news/wikipedia-recognition",
+    "title": "[英] Wikipedia Workers in Britain set global first by seeking union recognition",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://github.com/BohemiaInteractive/CWR",
+    "title": "[英] Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+    "date": "2026-06-25"
+  },
+  {
+    "link": "https://hl2.slqnt.dev/",
+    "title": "[英] Half-Life 2 in a Browser",
+    "date": "2026-06-25"
+  },
+  {
     "link": "https://markdy.com",
     "title": "[英] Markdy: Like Mermaid Diagrams, but for Motion",
     "date": "2026-06-25"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.youtube.com/watch?v=kPRA0W1kECg",
     "title": "[英] 15 sorting algorithms in 6 minutes (2013) [video]",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.jimmont.com/llm-style-token-costs",
-    "title": "[英] What I'm Finding About LLM Code Style and Token Costs",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
-    "title": "[英] Writers and Drugs",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://aaltodoc.aalto.fi/server/api/core/bitstreams/d485ca46-ef01-41bc-ae4c-d468afb209a8/content",
-    "title": "[英] MSc Thesis – The Limits of Generalized Sync",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://www.crosscanon.com/",
-    "title": "[英] Bible as RAG Database",
-    "date": "2026-06-25"
-  },
-  {
-    "link": "https://arxiv.org/abs/2603.15855",
-    "title": "[英] Mixing Visual and Textual Code",
     "date": "2026-06-25"
   }
 ]
