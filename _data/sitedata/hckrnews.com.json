@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://martinschuhmann.com/rss",
+    "title": "[英] If your blog doesn't have an RSS feed, then it's not a blog",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+    "title": "[英] What Is a Nomogram and Why Would It Interest Me?",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48688880",
+    "title": "[英] undefined",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=lHQ8c8i42VE",
+    "title": "[英] I'm building a Space Cadet Pinball Machine! [video]",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "title": "[英] U.S. government will decide who gets to use GPT-5.6",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
+    "title": "[英] Modern GPU Programming for MLSys",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.climate.us/",
+    "title": "[英] Ex-NOAA employees laid off by DOGE rebuilt climate website",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://dmtheboss.com/",
+    "title": "[英] Show HN: Apply for jobs by directly emailing relevant people at a company",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
+    "title": "[英] What is a Lithium-ion capacitor?",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
+    "title": "[英] 'Cost Me the Election': Data Centers Trigger Voter Backlash",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48687769",
+    "title": "[英] Ask HN: Is \"no source code was copied\" still a sufficient copyright defense?",
+    "date": "2026-06-27"
+  },
+  {
     "link": "https://www.swiftlatex.com/",
     "title": "[英] LaTeX.wasm: LaTeX Engines in Browsers",
     "date": "2026-06-27"
@@ -17,61 +72,6 @@
   {
     "link": "https://github.com/workweave/router",
     "title": "[英] Show HN: Smart model routing directly in Claude, Codex and Cursor",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-    "title": "[英] MicroVMs: Run isolated sandboxes with full lifecycle control",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://mastodon.social/@raphaelrobert/116816274242387568",
-    "title": "[英] Mullvad founder gave millions to extremist far right party",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
-    "title": "[英] The Exhaustion of Talking to a Tool",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://dev.jimgrey.net/2026/06/25/why-software-engineers-are-grieving/",
-    "title": "[英] Why software engineers are grieving",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-    "title": "[英] The AI industry is pouring millions into US elections",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
-    "title": "[英] A US military exercise to launch a satellite on short notice",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.clinicaltrialsabundance.blog/p/why-were-covid-vaccine-trials-so-fast",
-    "title": "[英] Why were Covid vaccine trials so fast?",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://commerce.jolla.com/products/jolla-phone-october-2026",
-    "title": "[英] Jolla Phone (October 2026)",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.science.org/content/article/forgotten-social-media-post-may-hold-key-clues-covid-19-s-origin",
-    "title": "[英] A forgotten social media post may hold key clues to Covid-19's origin",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started",
-    "title": "[英] The AI backlash is only getting started",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
-    "title": "[英] Springer Nature has removed two studies by Max Planck",
     "date": "2026-06-27"
   }
 ]
