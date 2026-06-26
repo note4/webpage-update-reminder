@@ -1,5 +1,25 @@
 [
   {
+    "link": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
+    "title": "[英] Record Type Inference for Dummies",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum",
+    "title": "[英] Om Malik – Silicon Valley Has an Empathy Vacuum (Nov 2016)",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html",
+    "title": "[英] What is the mechanical world picture?",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://gchandbook.org/",
+    "title": "[英] The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+    "date": "2026-06-26"
+  },
+  {
     "link": "https://www.tootalltoby.com/Tournaments/",
     "title": "[英] CAD vs. CAD Tournament",
     "date": "2026-06-26"
@@ -52,26 +72,6 @@
   {
     "link": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
     "title": "[英] The last Romans are still around",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-    "title": "[英] Un-0: Generating Images with Coupled Oscillators",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://calpaterson.com/bank-python.html",
-    "title": "[英] An oral history of Bank Python (2021)",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://williamdue.github.io/blog/parallel-parentheses-matching",
-    "title": "[英] Parallel Parentheses Matching",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://siliconopera.com/the-customer-who-almost-killed-slack-stripe-and-airbnb/",
-    "title": "[英] The Customer Who Almost Killed Slack, Stripe, and Airbnb",
     "date": "2026-06-26"
   }
 ]
