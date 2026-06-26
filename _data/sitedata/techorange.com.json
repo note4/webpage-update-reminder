@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/06/26/ai-agents-start-shopping-for-us-retails-identity-stack-needs-a-rewrite/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "零售商的下一場競爭在「信任架構」：拆解打造 Agent-Ready 商務架構的 5 大策略",
+    "date": "2026-06-26 10:50:10"
+  },
+  {
+    "link": "https://techorange.com/2026/06/26/how-ai-giants-are-using-ai-in-their-own-offices/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 巨頭自己怎麼用 AI？OpenAI、Google、Anthropic 員工正從執行者變「審稿人」",
+    "date": "2026-06-26 10:12:41"
+  },
+  {
+    "link": "https://techorange.com/2026/06/26/ai-llm-autotts-framework-token/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【AI 推理成本革命】不再靠人類直覺設計策略，AutoTTS 讓 AI 自己找最省 Token 推理方式",
+    "date": "2026-06-26 09:59:15"
+  },
+  {
     "link": "https://techorange.com/2026/06/26/nvidia-ai-factory-openai-qualcomm-japan-ai-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】NVIDIA 押 AI 工廠，OpenAI、高通、日本同步重押 AI 基建戰",
     "date": "2026-06-26 05:30:00"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/06/25/us-china-robotics-ai-hardware-sovereignty/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】美國盯上中國機器人，高通、軟銀把 AI 戰場推向硬體自製",
     "date": "2026-06-25 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/06/24/ai-business-model-taiwan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【李牮斯專欄】AI 商業模式正在質變，台灣供應鏈準備好了嗎？",
-    "date": "2026-06-24 15:52:16"
-  },
-  {
-    "link": "https://techorange.com/2026/06/24/ai-robotics-watch-humanoid-workforce-live-agibot-streams-chinese-factory-operations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "中美人形機器人對決：智元 G2 進駐量產線品檢，6 天直播零錯誤實測",
-    "date": "2026-06-24 15:03:48"
-  },
-  {
-    "link": "https://techorange.com/2026/06/24/china-supercomputer-crown-us/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "中國超級電腦重奪世界第一：不靠 NVIDIA GPU，LineShine 如何讓 CPU 成為算力戰新焦點？",
-    "date": "2026-06-24 14:47:08"
   }
 ]

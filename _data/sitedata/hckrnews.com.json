@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://xlii.space/eng/honesty-gets-emacs-patch-rejected/",
+    "title": "[英] Honesty gets Emacs patch rejected",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+    "title": "[英] Doing a masters while working in Spain",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://borretti.me/article/no-one-escapes-the-permanent-underclass",
+    "title": "[英] No-One Escapes the Permanent Underclass",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "title": "[英] What happened after 2k people tried to hack my AI assistant",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://graphicore.github.io/librebarcode/",
+    "title": "[英] Libre Barcode Project",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48644463",
+    "title": "[英] Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "http://trianglefire.ilr.cornell.edu/index.html",
+    "title": "[英] Eyewitness at the Triangle (1911)",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+    "title": "[英] AI children's books, body horror edition",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+    "title": "[英] Framework's 10G Ethernet module exposes USB-C's complexity",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+    "title": "[英] A data race that doesn't compile",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "title": "[英] Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://pnsn.org/blog/experiments-in-sports-seismology-for-the-world-cup",
+    "title": "[英] Experiments in Sports Seismology for the World Cup",
+    "date": "2026-06-26"
+  },
+  {
     "link": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
-    "title": "[英] Record Type Inference for Dummies",
+    "title": "[英] Record type inference for dummies",
     "date": "2026-06-26"
   },
   {
     "link": "https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum",
-    "title": "[英] Om Malik – Silicon Valley Has an Empathy Vacuum (Nov 2016)",
+    "title": "[英] Silicon Valley Has an Empathy Vacuum (2016)",
     "date": "2026-06-26"
   },
   {
     "link": "http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html",
     "title": "[英] What is the mechanical world picture?",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://gchandbook.org/",
-    "title": "[英] The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.tootalltoby.com/Tournaments/",
-    "title": "[英] CAD vs. CAD Tournament",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
-    "title": "[英] Military branches restore flu shot requirement after virus swept through base",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://runtimewire.com/article/om-malik-taught-silicon-valley-to-read-itself",
-    "title": "[英] Om Malik taught Silicon Valley to read itself",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-    "title": "[英] The 'papers, please' era of the internet will decimate your privacy",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.nijho.lt/post/proxmox-to-nixos/",
-    "title": "[英] Migrating from Proxmox to NixOS and Incus",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://github.com/plbrault/youre-the-os",
-    "title": "[英] A game where you're an OS and have to manage processes, memory and I/O events",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-    "title": "[英] OpenAI Leans Toward Waiting Until Next Year for IPO",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content",
-    "title": "[英] RRB-Trees: Efficient Immutable Vectors (2012) [pdf]",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1",
-    "title": "[英] GloriousEggroll's Proton has been rebased on Proton 11",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://om.co/2026/06/24/1966-2026/",
-    "title": "[英] Om Malik has died",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
-    "title": "[英] The last Romans are still around",
     "date": "2026-06-26"
   }
 ]
