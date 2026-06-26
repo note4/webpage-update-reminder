@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://scottaaronson.blog/?p=9851",
+    "title": "[英] Bipartite Matching Is in NC",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://worksinprogress.co/issue/microbubbles/",
+    "title": "[英] Microbubbles in Medicine",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.theguardian.com/food/2026/jun/26/how-much-the-hidden-costs-of-restaurant-dishes",
+    "title": "[英] How much? The hidden costs of restaurant dishes",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://reason.com/2026/06/25/texas-man-gets-30-years-in-prison-for-transporting-anti-government-pamphlets/",
+    "title": "[英] Texas Man Gets 30 Years in Prison for Transporting 'Anti-Government' Pamphlets",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
+    "title": "[英] My Steam Machine Is a 50ft HDMI Cable",
+    "date": "2026-06-26"
+  },
+  {
     "link": "https://aditya.patadia.org/p/ai-and-cloud-costs",
     "title": "[英] Why current LLM costs are not sustainable",
     "date": "2026-06-26"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.appaca.ai/",
     "title": "[英] Show HN: Appaca – AI Workspace for Operators",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://xlii.space/eng/honesty-gets-emacs-patch-rejected/",
-    "title": "[英] Honesty gets Emacs patch rejected",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-    "title": "[英] Doing a masters while working in Spain",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://borretti.me/article/no-one-escapes-the-permanent-underclass",
-    "title": "[英] No-One Escapes the Permanent Underclass",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
-    "title": "[英] What happened after 2k people tried to hack my AI assistant",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://graphicore.github.io/librebarcode/",
-    "title": "[英] Libre Barcode Project",
     "date": "2026-06-26"
   }
 ]
