@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://twitter.com/Techmeme/status/2070638481265905837",
+    "title": "[英] The US lifts its block on Mythos 5",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship",
+    "title": "[英] US strikes Iran in response to drone strike on commercial ship",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.wsj.com/us-news/the-nationwide-backlash-against-cameras-watching-your-car-401a656a",
+    "title": "[英] The Nationwide Backlash Against Cameras Watching Your Car",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48692474",
+    "title": "[英] The open source DOCX editor submitted to HN a few weeks ago has been deleted",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.jonhilty.com/lippmann",
+    "title": "[英] Lippmann Photography",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://github.com/chasangchual/reed-solomon-for-ocr",
+    "title": "[英] Reed-Solomon for OCR: error correction for messy printed codes",
+    "date": "2026-06-27"
+  },
+  {
     "link": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
     "title": "[英] We Can Still Stop California's 3D Printer Surveillance Scheme",
     "date": "2026-06-27"
@@ -42,36 +72,6 @@
   {
     "link": "https://hightouch.com/careers#open-positions",
     "title": "[英] Hightouch (YC S19) Is Hiring",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://github.com/tau-org/tau-tower",
-    "title": "[英] Webradio server – broadcasts audio source to clients",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
-    "title": "[英] Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.dailymail.com/news/article-15932611/Aircraft-crashes-Beijings-tallest-skyscraper-triggering-evacuations.html",
-    "title": "[英] Aircraft crashes into Beijing's tallest skyscraper, triggering evacuations",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/",
-    "title": "[英] Made a Rust DB run spatial queries on gaming GPU RT cores, beating an H100",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://github.com/skx/slisp",
-    "title": "[英] Slisp: Simple Lisp compiler (Linux/amd64)",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48691255",
-    "title": "[英] undefined",
     "date": "2026-06-27"
   }
 ]
