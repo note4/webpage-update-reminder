@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+    "title": "[英] Why current LLM costs are not sustainable",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
+    "title": "[英] SOCKMAP - TCP splicing of the future",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
+    "title": "[英] 22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
+    "title": "[英] US Govt to individually approve who gets GPT 5.6",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
+    "title": "[英] Micron locks in historically high memory prices for five years",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://akrites.org/letter/",
+    "title": "[英] We All Depend on Open Source. We Will Defend It Together",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.gardensillustrated.com/features/the-history-of-lawns",
+    "title": "[英] Why are we so obsessed with lawns?",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://falcon.so/",
+    "title": "[英] Falcon GX the most powerful brand engineering tool",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=1v2g3GLaJtE",
+    "title": "[英] You Have to Poop in the Eiffel Tower [video]",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.appaca.ai/",
+    "title": "[英] Show HN: Appaca – AI Workspace for Operators",
+    "date": "2026-06-26"
+  },
+  {
     "link": "https://xlii.space/eng/honesty-gets-emacs-patch-rejected/",
     "title": "[英] Honesty gets Emacs patch rejected",
     "date": "2026-06-26"
@@ -22,56 +72,6 @@
   {
     "link": "https://graphicore.github.io/librebarcode/",
     "title": "[英] Libre Barcode Project",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48644463",
-    "title": "[英] Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "http://trianglefire.ilr.cornell.edu/index.html",
-    "title": "[英] Eyewitness at the Triangle (1911)",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
-    "title": "[英] AI children's books, body horror edition",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-    "title": "[英] Framework's 10G Ethernet module exposes USB-C's complexity",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
-    "title": "[英] A data race that doesn't compile",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-    "title": "[英] Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://pnsn.org/blog/experiments-in-sports-seismology-for-the-world-cup",
-    "title": "[英] Experiments in Sports Seismology for the World Cup",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
-    "title": "[英] Record type inference for dummies",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum",
-    "title": "[英] Silicon Valley Has an Empathy Vacuum (2016)",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html",
-    "title": "[英] What is the mechanical world picture?",
     "date": "2026-06-26"
   }
 ]
