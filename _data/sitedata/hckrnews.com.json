@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable",
+    "title": "[英] FEXPRs vs. vtable: how LispE interpreter works",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.experimental-history.com/p/reading-the-news-is-the-new-smoking",
+    "title": "[英] Reading the news is the new smoking",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.techpowerup.com/348723/amd-readies-full-open-source-hdmi-2-1-support-for-linux",
+    "title": "[英] AMD Readies Full Open-Source HDMI 2.1 Support for Linux",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://www.youtube.com/post/UgkxsAIUDMQTYc15yQqURsGy0Kg7O1x2TtnB",
+    "title": "[英] Google hallucinated that I am sponsored by Ground News",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://github.com/DDecoene/WebBaseIII",
+    "title": "[英] Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://github.com/mondaycom/HATCHA",
+    "title": "[英] Captcha proves you're human. HATCHA proves you're not",
+    "date": "2026-06-26"
+  },
+  {
+    "link": "https://businessdesk.co.nz/article/economy/remembering-alan-greenspan",
+    "title": "[英] Alan Greenspan Has Died",
+    "date": "2026-06-26"
+  },
+  {
     "link": "https://scottaaronson.blog/?p=9851",
     "title": "[英] Bipartite Matching Is in NC",
     "date": "2026-06-26"
@@ -37,41 +72,6 @@
   {
     "link": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
     "title": "[英] 22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
-    "title": "[英] US Govt to individually approve who gets GPT 5.6",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
-    "title": "[英] Micron locks in historically high memory prices for five years",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://akrites.org/letter/",
-    "title": "[英] We All Depend on Open Source. We Will Defend It Together",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.gardensillustrated.com/features/the-history-of-lawns",
-    "title": "[英] Why are we so obsessed with lawns?",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://falcon.so/",
-    "title": "[英] Falcon GX the most powerful brand engineering tool",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=1v2g3GLaJtE",
-    "title": "[英] You Have to Poop in the Eiffel Tower [video]",
-    "date": "2026-06-26"
-  },
-  {
-    "link": "https://www.appaca.ai/",
-    "title": "[英] Show HN: Appaca – AI Workspace for Operators",
     "date": "2026-06-26"
   }
 ]
