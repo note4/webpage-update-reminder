@@ -1,7 +1,47 @@
 [
   {
-    "link": "https://martinschuhmann.com/rss",
-    "title": "[英] If your blog doesn't have an RSS feed, then it's not a blog",
+    "link": "https://github.com/tau-org/tau-tower",
+    "title": "[英] Webradio server – broadcasts audio source to clients",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
+    "title": "[英] Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.dailymail.com/news/article-15932611/Aircraft-crashes-Beijings-tallest-skyscraper-triggering-evacuations.html",
+    "title": "[英] Aircraft crashes into Beijing's tallest skyscraper, triggering evacuations",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/",
+    "title": "[英] Made a Rust DB run spatial queries on gaming GPU RT cores, beating an H100",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://github.com/skx/slisp",
+    "title": "[英] Slisp: Simple Lisp compiler (Linux/amd64)",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://theintercept.com/2026/06/18/israel-facebook-censor-content-moderation-iran-war/",
+    "title": "[英] Israel Asked Facebook to Censor Iran War Content, Internal Documents Show",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://gossamer-lang.org/",
+    "title": "[英] Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+    "title": "[英] The \"Bizarre Headgear\" Exhibit at the Sam Noble Museum Is Incredible",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48690377",
+    "title": "[英] undefined",
     "date": "2026-06-27"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://www.climate.us/",
     "title": "[英] Ex-NOAA employees laid off by DOGE rebuilt climate website",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://dmtheboss.com/",
-    "title": "[英] Show HN: Apply for jobs by directly emailing relevant people at a company",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
-    "title": "[英] What is a Lithium-ion capacitor?",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-    "title": "[英] 'Cost Me the Election': Data Centers Trigger Voter Backlash",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48687769",
-    "title": "[英] Ask HN: Is \"no source code was copied\" still a sufficient copyright defense?",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.swiftlatex.com/",
-    "title": "[英] LaTeX.wasm: LaTeX Engines in Browsers",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
-    "title": "[英] Previewing GPT‑5.6 Sol: a next-generation model",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
-    "title": "[英] Liva AI (YC S25) Is Hiring",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://github.com/workweave/router",
-    "title": "[英] Show HN: Smart model routing directly in Claude, Codex and Cursor",
     "date": "2026-06-27"
   }
 ]
