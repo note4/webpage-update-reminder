@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+    "title": "[英] Foreign funds help make housing unaffordable: research",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48694802",
+    "title": "[英] Ask HN: MacBook vs. Dedicated GPU for LLM",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.sfwriter.com/wordstar.htm",
+    "title": "[英] WordStar: A Writer's Word Processor (1996)",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://kamod-ch.github.io/kamod-hooks/",
+    "title": "[英] Kamod Hooks – a Preact hooks library ported from ahooks",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://fusion-lang.org/",
+    "title": "[英] Fusion Programming Language",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+    "title": "[英] Hellishly Slow Level 13 Deflate Compression",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://popflame.quickish.space/hn-flipboard/",
+    "title": "[英] Show HN: Hacker News on a train station-style flip board",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.thefp.com/p/larry-sanger-wikipedia-co-founder-banned",
+    "title": "[英] I Co-Founded Wikipedia. Now I'm Banned for Life",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
+    "title": "[英] Making Sense of Proof by Contradiction [pdf]",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://daringfireball.net/2026/06/om",
+    "title": "[英] Om",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://github.com/dbos-inc/dbosify-py",
+    "title": "[英] Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+    "date": "2026-06-27"
+  },
+  {
     "link": "https://spectrum.ieee.org/ai-in-mathematics",
     "title": "[英] AI in mathematics is forcing big questions",
     "date": "2026-06-27"
@@ -15,63 +70,8 @@
     "date": "2026-06-27"
   },
   {
-    "link": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
-    "title": "[英] US allows Anthropic to release Mythos to 'trusted partners'",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship",
-    "title": "[英] US strikes Iran in response to drone strike on commercial ship",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.wsj.com/us-news/the-nationwide-backlash-against-cameras-watching-your-car-401a656a",
-    "title": "[英] The Nationwide Backlash Against Cameras Watching Your Car",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48692474",
-    "title": "[英] The open source DOCX editor submitted to HN a few weeks ago has been deleted",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.jonhilty.com/lippmann",
-    "title": "[英] Lippmann Photography",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://github.com/chasangchual/reed-solomon-for-ocr",
-    "title": "[英] Reed-Solomon for OCR: error correction for messy printed codes",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-    "title": "[英] We can still stop California's 3D printer surveillance scheme",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook",
-    "title": "[英] The National Parks Were Reportedly Told to Stay Silent on Deaths",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://github.com/neospe/autofit2",
-    "title": "[英] Show HN: Autofit2 – End-to-end pipeline for multilingual text classification",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://blog.doubleword.ai/frontier-os-llm",
-    "title": "[英] The gap between open weights LLMs and closed source LLMs",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://github.com/Tessil/hopscotch-map",
-    "title": "[英] A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
-    "title": "[英] PlayStation Is Deleting 551 Movies from Customers' Accounts",
+    "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "title": "[英] U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
     "date": "2026-06-27"
   }
 ]
