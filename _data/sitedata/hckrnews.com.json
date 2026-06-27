@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://magic.wizards.com/en/news/feature/remembering-the-life-and-artwork-of-ron-spears",
+    "title": "[英] Remembering the life and artwork of Ron Spears",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+    "title": "[英] Enhancing X11 Application Security with LXC",
+    "date": "2026-06-28"
+  },
+  {
     "link": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
     "title": "[英] How do you keep Web MIDI from crashing a 1983 synthesizer?",
     "date": "2026-06-28"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy",
     "title": "[英] Ships keep moving through Hormuz despite strike",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this",
-    "title": "[英] \"No, I swear I wrote this.\"",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/",
-    "title": "[英] The Card That Made the Apple II Serious",
     "date": "2026-06-28"
   }
 ]
