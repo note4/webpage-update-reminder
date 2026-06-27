@@ -1,7 +1,22 @@
 [
   {
-    "link": "https://twitter.com/Techmeme/status/2070638481265905837",
-    "title": "[英] The US lifts its block on Mythos 5",
+    "link": "https://spectrum.ieee.org/ai-in-mathematics",
+    "title": "[英] AI in mathematics is forcing big questions",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+    "title": "[英] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+    "title": "[英] A Tiny Compiler for Data-Parallel Kernels",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+    "title": "[英] US allows Anthropic to release Mythos to 'trusted partners'",
     "date": "2026-06-27"
   },
   {
@@ -31,7 +46,7 @@
   },
   {
     "link": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-    "title": "[英] We Can Still Stop California's 3D Printer Surveillance Scheme",
+    "title": "[英] We can still stop California's 3D printer surveillance scheme",
     "date": "2026-06-27"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
     "title": "[英] PlayStation Is Deleting 551 Movies from Customers' Accounts",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://ngrok.com/blog/aol-was-down-1996",
-    "title": "[英] A human postmortem of the 1996 AOL outage",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c74yn7v7k4qo",
-    "title": "[英] Long Wave radio era set to end with Droitwich switch-off",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://hightouch.com/careers#open-positions",
-    "title": "[英] Hightouch (YC S19) Is Hiring",
     "date": "2026-06-27"
   }
 ]
