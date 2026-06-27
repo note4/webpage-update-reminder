@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+    "title": "[英] Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://danluu.com/discontinuities/",
+    "title": "[英] Suspicious Discontinuities",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
+    "title": "[英] Underarm Bowling Incident of 1981",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+    "title": "[英] Post-Mythos Cybersecurity: Keep calm and carry on",
+    "date": "2026-06-27"
+  },
+  {
     "link": "https://texashighways.com/culture/how-heb-became-texas-most-beloved-brand/",
     "title": "[英] How H-E-B Became Texas' Most Beloved Brand (2024)",
     "date": "2026-06-27"
@@ -52,26 +72,6 @@
   {
     "link": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
     "title": "[英] The US Army Issued Ocarinas to Soldiers in World War II",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://w.pitula.me/fintech-engineering-handbook/",
-    "title": "[英] Fintech Engineering Handbook",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.beercss.com",
-    "title": "[英] Beer CSS – Build material design in record time",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
-    "title": "[英] Jest/Vitest interactive course (runs in the browser)",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-    "title": "[英] DSpark: Speculative decoding accelerates LLM inference [pdf]",
     "date": "2026-06-27"
   }
 ]
