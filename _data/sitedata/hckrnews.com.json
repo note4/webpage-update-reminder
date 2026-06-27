@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://texashighways.com/culture/how-heb-became-texas-most-beloved-brand/",
+    "title": "[英] How H-E-B Became Texas' Most Beloved Brand (2024)",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "title": "[英] Asian AI startups launch Mythos-like models",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
+    "title": "[英] How Many Elementary Particles Are There, Really?",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+    "title": "[英] Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
+    "title": "[英] Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://dervis.de/physical/",
+    "title": "[英] If you can't hold it, you don't own it",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.openra.net/",
+    "title": "[英] OpenRA",
+    "date": "2026-06-27"
+  },
+  {
     "link": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
     "title": "[英] Nox Metals (YC S25) Is Hiring SWE",
     "date": "2026-06-27"
@@ -36,42 +71,7 @@
   },
   {
     "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-    "title": "[英] DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab",
-    "title": "[英] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
-    "title": "[英] Long Wave radio era set to end with switch-off",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/clyxgjykx7lo",
-    "title": "[英] World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.cambridge.org/core/journals/psychological-medicine/article/intelligence-quotient-decline-following-frequent-or-dependent-cannabis-use-in-youth-a-systematic-review-and-metaanalysis-of-longitudinal-studies/26BEC9CBD2A39010C26100278F8CA813",
-    "title": "[英] Decline in IQ linked to frequent or dependent use of cannabis use in youth",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy",
-    "title": "[英] Is America becoming a gerontocracy?",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
-    "title": "[英] Linux on Older Hardware: The Complete Revival Guide",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html",
-    "title": "[英] Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59",
+    "title": "[英] DSpark: Speculative decoding accelerates LLM inference [pdf]",
     "date": "2026-06-27"
   }
 ]
