@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab",
+    "title": "[英] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
+    "title": "[英] Long Wave radio era set to end with switch-off",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/clyxgjykx7lo",
+    "title": "[英] World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.cambridge.org/core/journals/psychological-medicine/article/intelligence-quotient-decline-following-frequent-or-dependent-cannabis-use-in-youth-a-systematic-review-and-metaanalysis-of-longitudinal-studies/26BEC9CBD2A39010C26100278F8CA813",
+    "title": "[英] Decline in IQ linked to frequent or dependent use of cannabis use in youth",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy",
+    "title": "[英] Is America becoming a gerontocracy?",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
+    "title": "[英] Linux on Older Hardware: The Complete Revival Guide",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html",
+    "title": "[英] Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59",
+    "date": "2026-06-27"
+  },
+  {
     "link": "https://lovable.dev/blog/building-apps-using-tanstack-start",
     "title": "[英] Building apps using TanStack Start",
     "date": "2026-06-27"
@@ -37,41 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48694802",
     "title": "[英] Ask HN: MacBook vs. Dedicated GPU for LLM",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.sfwriter.com/wordstar.htm",
-    "title": "[英] WordStar: A Writer's Word Processor (1996)",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://kamod-ch.github.io/kamod-hooks/",
-    "title": "[英] Kamod Hooks – a Preact hooks library ported from ahooks",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://fusion-lang.org/",
-    "title": "[英] Fusion Programming Language",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
-    "title": "[英] Hellishly Slow Level 13 Deflate Compression",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://popflame.quickish.space/hn-flipboard/",
-    "title": "[英] Show HN: Hacker News on a train station-style flip board",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.thefp.com/p/larry-sanger-wikipedia-co-founder-banned",
-    "title": "[英] I Co-Founded Wikipedia. Now I'm Banned for Life",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
-    "title": "[英] Making Sense of Proof by Contradiction [pdf]",
     "date": "2026-06-27"
   }
 ]
