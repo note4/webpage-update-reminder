@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://factorio.com/blog/post/fff-444",
+    "title": "[英] Factorio 2.1 Experimental Release",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
+    "title": "[英] The US Army Issued Ocarinas to Soldiers in World War II",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://w.pitula.me/fintech-engineering-handbook/",
+    "title": "[英] Fintech Engineering Handbook",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.beercss.com",
+    "title": "[英] Beer CSS – Build material design in record time",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
+    "title": "[英] Jest/Vitest interactive course (runs in the browser)",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "title": "[英] DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+    "date": "2026-06-27"
+  },
+  {
     "link": "https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab",
     "title": "[英] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
     "date": "2026-06-27"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
     "title": "[英] OpenTTD 16.0-Beta1",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://nerocam.com/scc_tap.asp",
-    "title": "[英] SCC Technical Assistance Program",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://github.com/schlae/IBM_MCGA",
-    "title": "[英] IBM MCGA Gate Array Reverse Engineering",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "title": "[英] Anatomy of a Failed (Nation-State?) Attack",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://nsspot.herokuapp.com/imagetoaudio/",
-    "title": "[英] Show HN: Turn images into audio that can be decoded with a spectrogram",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
-    "title": "[英] Foreign funds help make housing unaffordable: research",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48694802",
-    "title": "[英] Ask HN: MacBook vs. Dedicated GPU for LLM",
     "date": "2026-06-27"
   }
 ]
