@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://lovable.dev/blog/building-apps-using-tanstack-start",
+    "title": "[英] Building apps using TanStack Start",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+    "title": "[英] OpenTTD 16.0-Beta1",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://nerocam.com/scc_tap.asp",
+    "title": "[英] SCC Technical Assistance Program",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://github.com/schlae/IBM_MCGA",
+    "title": "[英] IBM MCGA Gate Array Reverse Engineering",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "title": "[英] Anatomy of a Failed (Nation-State?) Attack",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://nsspot.herokuapp.com/imagetoaudio/",
+    "title": "[英] Show HN: Turn images into audio that can be decoded with a spectrogram",
+    "date": "2026-06-27"
+  },
+  {
     "link": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
     "title": "[英] Foreign funds help make housing unaffordable: research",
     "date": "2026-06-27"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
     "title": "[英] Making Sense of Proof by Contradiction [pdf]",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://daringfireball.net/2026/06/om",
-    "title": "[英] Om",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://github.com/dbos-inc/dbosify-py",
-    "title": "[英] Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://spectrum.ieee.org/ai-in-mathematics",
-    "title": "[英] AI in mathematics is forcing big questions",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-    "title": "[英] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
-    "title": "[英] A Tiny Compiler for Data-Parallel Kernels",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-    "title": "[英] U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
     "date": "2026-06-27"
   }
 ]
