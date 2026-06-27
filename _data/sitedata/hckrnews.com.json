@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
+    "title": "[英] Nox Metals (YC S25) Is Hiring SWE",
+    "date": "2026-06-27"
+  },
+  {
+    "link": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
+    "title": "[英] Cultures of Making and Relating",
+    "date": "2026-06-27"
+  },
+  {
     "link": "https://factorio.com/blog/post/fff-444",
     "title": "[英] Factorio 2.1 Experimental Release",
     "date": "2026-06-27"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html",
     "title": "[英] Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://lovable.dev/blog/building-apps-using-tanstack-start",
-    "title": "[英] Building apps using TanStack Start",
-    "date": "2026-06-27"
-  },
-  {
-    "link": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
-    "title": "[英] OpenTTD 16.0-Beta1",
     "date": "2026-06-27"
   }
 ]
