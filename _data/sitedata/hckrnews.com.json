@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://altermag.com/articles/designing-a-summer-ice-cream-for-india",
+    "title": "[英] The food science behind designing an ice cream",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://xonaly.com/",
+    "title": "[英] Xonaly – Canada's Independent Search Engine",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://qsoe.net",
+    "title": "[英] A QNX-inspired operating system with selectable kernels",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://arxiv.org/abs/2401.07013",
+    "title": "[英] Knowledge Distillation of Black-Box Large Language Models",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
+    "title": "[英] POSIX Is Not a Shell",
+    "date": "2026-06-29"
+  },
+  {
     "link": "https://atomsfrontier.substack.com/p/the-excavator-that-digs-to-a-line",
     "title": "[英] The Excavator That Digs to a Line It Cannot See – Mobility and Field Robotics",
     "date": "2026-06-29"
@@ -11,7 +36,7 @@
   },
   {
     "link": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
-    "title": "[英] British Origami: the 1955 exhibition by Akira Yoshizawa",
+    "title": "[英] British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
     "date": "2026-06-29"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
     "title": "[英] Ford rehires 'gray beard' engineers after AI falls short",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://github.com/librepods-org/librepods",
-    "title": "[英] Librepods: AirPods liberated",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "title": "[英] GLM 5.2 beats Claude in our benchmarks",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
-    "title": "[英] Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://dam.stanford.edu/memory-prices.html",
-    "title": "[英] Historical memory prices 1960-2026",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://smist08.wordpress.com/2026/06/25/linux-kills-strncpy/",
-    "title": "[英] Linux Kills Strncpy",
     "date": "2026-06-29"
   }
 ]
