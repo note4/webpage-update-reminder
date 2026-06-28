@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/",
+    "title": "[英] California legislature agrees to upload driver's licenses to national database",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+    "title": "[英] Michigan bill would bar employers from requiring after-hours coms with workers",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://pudding.cool/2026/06/menu-collection/",
+    "title": "[英] 5k Restaurant Menus, Years 1880-1920",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/",
+    "title": "[英] Do Babies Dream of Baby Sheep?",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+    "title": "[英] EU to legislate about Chat Control behind closed doors",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+    "title": "[英] Flock cameras track more than your license plate, and they're spreading fast",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48707536",
+    "title": "[英] Ask HN: Is there a bad employers (who have a records of not paying) list?",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://github.com/open-energy-transition/open-tyndp",
+    "title": "[英] EU Open Sources Ten-Year Network Development Planning Tools",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://www.dnews.gr/eidhseis/news-in-english/596650/greece-is-richer-so-why-do-so-many-greeks-still-feel-poor",
+    "title": "[英] Greece Is Richer. So Why Do So Many Greeks Still Feel Poor?",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48707307",
+    "title": "[英] Ask HN: What is everyone in SF talking about?",
+    "date": "2026-06-28"
+  },
+  {
     "link": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
     "title": "[英] Google limits Meta's use of its Gemini AI models",
     "date": "2026-06-28"
@@ -16,62 +66,12 @@
   },
   {
     "link": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
-    "title": "[英] The curious case of the disappearing Polish S",
+    "title": "[英] The curious case of the disappearing Polish S (2015)",
     "date": "2026-06-28"
   },
   {
     "link": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
     "title": "[英] The MUMPS 76 Primer – anniversary edition",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
-    "title": "[英] Bringing Swift to the Apple ][",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
-    "title": "[英] The origins of the school system aimed to produce independent, critical thinkers",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://github.com/openai/codex/issues/2847",
-    "title": "[英] A way to exclude sensitive files issue still open for OpenAI Codex",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-    "title": "[英] Kids act would require age checks to get online",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://twitter.com/DouglasYaoDY/status/2070904914050797582",
-    "title": "[英] Guy in his basement creates a drug to treat Alzheimer's disease using AI",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf",
-    "title": "[英] Instantiating UI Components with Distinguishing Variations [pdf]",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645",
-    "title": "[英] More evidence of life on Mars but still no life (2025)",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
-    "title": "[英] DLL that was not present in memory despite not being formally unloaded",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://johncarlosbaez.wordpress.com/2026/05/29/from-pentagons-to-pentagrams/",
-    "title": "[英] From Pentagons to Pentagrams",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://github.com/vshakitskiy/armadillo",
-    "title": "[英] Armadillo – A DNS Server in Gleam for Homelab Use",
     "date": "2026-06-28"
   }
 ]
