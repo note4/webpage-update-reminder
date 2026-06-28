@@ -1,12 +1,62 @@
 [
   {
+    "link": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+    "title": "[英] Google limits Meta's use of its Gemini AI models",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://cgi.csc.liv.ac.uk/~trp/Teaching_Resources/COMP327/327-Lecture4-MobileWeb.pdf",
+    "title": "[英] Mobile Web Computing Before Smartphones. (University of Liverpool, ~2010) [pdf]",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+    "title": "[英] Austria Lobbies EU to Host Anthropic After US Access Curbs",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+    "title": "[英] The curious case of the disappearing Polish S",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
+    "title": "[英] The MUMPS 76 Primer – anniversary edition",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
+    "title": "[英] Bringing Swift to the Apple ][",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
+    "title": "[英] The origins of the school system aimed to produce independent, critical thinkers",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://github.com/openai/codex/issues/2847",
+    "title": "[英] A way to exclude sensitive files issue still open for OpenAI Codex",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+    "title": "[英] Kids act would require age checks to get online",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://twitter.com/DouglasYaoDY/status/2070904914050797582",
+    "title": "[英] Guy in his basement creates a drug to treat Alzheimer's disease using AI",
+    "date": "2026-06-28"
+  },
+  {
     "link": "https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf",
     "title": "[英] Instantiating UI Components with Distinguishing Variations [pdf]",
     "date": "2026-06-28"
   },
   {
     "link": "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645",
-    "title": "[英] More evidence of life on Mars but still no life",
+    "title": "[英] More evidence of life on Mars but still no life (2025)",
     "date": "2026-06-28"
   },
   {
@@ -22,56 +72,6 @@
   {
     "link": "https://github.com/vshakitskiy/armadillo",
     "title": "[英] Armadillo – A DNS Server in Gleam for Homelab Use",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
-    "title": "[英] From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://napkins.mtmn.name/posts/stray-jay.html",
-    "title": "[英] A stray \"j\" ruined my evening",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://www.dw.com/en/hungary-holds-first-post-orban-budapest-pride-march/a-77736596",
-    "title": "[英] Hungary holds first post-Orban Budapest Pride march",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/",
-    "title": "[英] Can China build its own ASML?",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://polypane.app/blog/experimenting-with-random-in-css/",
-    "title": "[英] Experimenting with Random() in CSS",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://magnusross.github.io/posts/reflecting-to-optimise/",
-    "title": "[英] Reflecting to optimise",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://github.com/cfenollosa/bashblog",
-    "title": "[英] Bashblog – a single bash script to create blogs",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://metaspec.dev/",
-    "title": "[英] Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
-    "title": "[英] Turning music into a chore is how I became a musician (2022)",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
-    "title": "[英] Engineering for Bounded Cognition",
     "date": "2026-06-28"
   }
 ]
