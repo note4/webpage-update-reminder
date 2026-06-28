@@ -1,7 +1,47 @@
 [
   {
+    "link": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+    "title": "[英] TOP500 at ISC'26: We Have a New Number 1 – By George Cozma",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it",
+    "title": "[英] The US Used to Demand the Best Tech. Now We Ban It",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "title": "[英] Ford rehires 'gray beard' engineers after AI falls short",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://github.com/librepods-org/librepods",
+    "title": "[英] GitHub – librepods-org/librepods: AirPods liberated from Apple's ecosystem",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "title": "[英] Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
+    "title": "[英] Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://dam.stanford.edu/memory-prices.html",
+    "title": "[英] Historical memory prices 1960-2026",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://smist08.wordpress.com/2026/06/25/linux-kills-strncpy/",
+    "title": "[英] Linux Kills Strncpy",
+    "date": "2026-06-29"
+  },
+  {
     "link": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
-    "title": "[英] The Cost Yagni Was Never About – By Kent Beck",
+    "title": "[英] The cost YAGNI was never about",
     "date": "2026-06-29"
   },
   {
@@ -21,7 +61,7 @@
   },
   {
     "link": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
-    "title": "[英] Reflections on Software Engineering in the Age of AI",
+    "title": "[英] Reflections on software engineering in the age of AI",
     "date": "2026-06-29"
   },
   {
@@ -31,47 +71,7 @@
   },
   {
     "link": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-    "title": "[英] The Boeing 747 Begins Its Final Descent",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-    "title": "[英] Tokenmaxxing is dead, long live Tokenmaxxing",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-    "title": "[英] I used Claude Code to get a second opinion on my MRI",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://www.openculture.com/2020/10/daisugi.html",
-    "title": "[英] Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-    "title": "[英] Examining circuit boards from the Space Shuttle's I/O Processor",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://www.sina.bio/posts/does-your-paper-really-suck.html",
-    "title": "[英] Does Your Paper Really Suck?",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://zanagrams.com/",
-    "title": "[英] Show HN: Zanagrams",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
-    "title": "[英] Designing a Personal Pebble Watchface",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/",
-    "title": "[英] California legislature agrees to upload driver's licenses to national database",
+    "title": "[英] The Boeing 747 begins its final descent",
     "date": "2026-06-29"
   }
 ]
