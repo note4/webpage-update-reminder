@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://polypane.app/blog/experimenting-with-random-in-css/",
+    "title": "[英] Experimenting with Random() in CSS",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://magnusross.github.io/posts/reflecting-to-optimise/",
+    "title": "[英] Reflecting to optimise",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://github.com/cfenollosa/bashblog",
+    "title": "[英] Bashblog – a single bash script to create blogs",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://metaspec.dev/",
+    "title": "[英] Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
+    "title": "[英] Turning music into a chore is how I became a musician (2022)",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+    "title": "[英] Engineering for Bounded Cognition",
+    "date": "2026-06-28"
+  },
+  {
     "link": "https://github.com/itsthelore/wayfinder-router",
     "title": "[英] Wayfinder Router: deterministic routing of queries between local and hosted LLM",
     "date": "2026-06-28"
@@ -21,7 +51,7 @@
   },
   {
     "link": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
-    "title": "[英] Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+    "title": "[英] Feds Killed Polestar and Spared Volvo",
     "date": "2026-06-28"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
     "title": "[英] Space Shuttle Endeavour's 20-story vertical display",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://jayacunzo.com/blog/your-move-chief",
-    "title": "[英] Response to AI slop is from Robin Williams",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://decomp-academy.dev",
-    "title": "[英] Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-    "title": "[英] AMD Strix Halo RDMA Cluster Setup Guide",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://oak-invest.github.io/kiso/",
-    "title": "[英] Show HN: Kiso, an open-source publishing engine for Open Knowledge Format",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
-    "title": "[英] Regular expressions that work \"everywhere\"",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://hntrbrk.com/investigations/homebuilders",
-    "title": "[英] America's Large Homebuilders Shift the Cost of Shoddy Construction to Buyers",
     "date": "2026-06-28"
   }
 ]
