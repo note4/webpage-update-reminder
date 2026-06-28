@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf",
+    "title": "[英] Instantiating UI Components with Distinguishing Variations [pdf]",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645",
+    "title": "[英] More evidence of life on Mars but still no life",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+    "title": "[英] DLL that was not present in memory despite not being formally unloaded",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://johncarlosbaez.wordpress.com/2026/05/29/from-pentagons-to-pentagrams/",
+    "title": "[英] From Pentagons to Pentagrams",
+    "date": "2026-06-28"
+  },
+  {
     "link": "https://github.com/vshakitskiy/armadillo",
     "title": "[英] Armadillo – A DNS Server in Gleam for Homelab Use",
     "date": "2026-06-28"
@@ -52,26 +72,6 @@
   {
     "link": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
     "title": "[英] Engineering for Bounded Cognition",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://github.com/itsthelore/wayfinder-router",
-    "title": "[英] Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
-    "title": "[英] Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://www.edgedefenseai.com/",
-    "title": "[英] I built a 100% local network privacy appliance to stop smart home spying",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-    "title": "[英] Ford hired AI and sacked humans. It backfired badly",
     "date": "2026-06-28"
   }
 ]
