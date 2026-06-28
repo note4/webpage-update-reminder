@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://github.com/vshakitskiy/armadillo",
+    "title": "[英] Armadillo – A DNS Server in Gleam for Homelab Use",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
+    "title": "[英] From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://napkins.mtmn.name/posts/stray-jay.html",
+    "title": "[英] A stray \"j\" ruined my evening",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://www.dw.com/en/hungary-holds-first-post-orban-budapest-pride-march/a-77736596",
+    "title": "[英] Hungary holds first post-Orban Budapest Pride march",
+    "date": "2026-06-28"
+  },
+  {
+    "link": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/",
+    "title": "[英] Can China build its own ASML?",
+    "date": "2026-06-28"
+  },
+  {
     "link": "https://polypane.app/blog/experimenting-with-random-in-css/",
     "title": "[英] Experimenting with Random() in CSS",
     "date": "2026-06-28"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
     "title": "[英] Ford hired AI and sacked humans. It backfired badly",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
-    "title": "[英] Feds Killed Polestar and Spared Volvo",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://www.theguardian.com/environment/2026/jun/24/youtube-video-proved-libya-sand-cat-exist-aoe",
-    "title": "[英] How a YouTube video accidentally proved Libya's sand cat does exist",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-    "title": "[英] Marfa Public Radio Puts You to Sleep",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
-    "title": "[英] WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
-    "date": "2026-06-28"
-  },
-  {
-    "link": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
-    "title": "[英] Space Shuttle Endeavour's 20-story vertical display",
     "date": "2026-06-28"
   }
 ]
