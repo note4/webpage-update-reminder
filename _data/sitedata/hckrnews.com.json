@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://github.com/mat-mgm/kb-prolog",
+    "title": "[英] Kb – Prolog Knowledge Base",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+    "title": "[英] South Korea to spend $1T on more memory chip production and humanoid robots",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+    "title": "[英] Scientists find molecular-level evidence for two structures in liquid water",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://outyet.ai",
+    "title": "[英] Is It Out Yet?",
+    "date": "2026-06-30"
+  },
+  {
     "link": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
     "title": "[英] Free the Icons",
     "date": "2026-06-30"
@@ -16,7 +36,7 @@
   },
   {
     "link": "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/",
-    "title": "[英] Is sunscreen the new margarine? (2021)",
+    "title": "[英] Is sunscreen the new margarine? (2019)",
     "date": "2026-06-30"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
     "title": "[英] .self: A new top-level domain designed to support self-hosting",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48724116",
-    "title": "[英] undefined",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://chrismorgan.info/font-family",
-    "title": "[英] Font-Family Recommendations",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-    "title": "[英] Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627",
-    "title": "[英] .garden TLD's change to a bad neighborhood",
     "date": "2026-06-30"
   }
 ]
