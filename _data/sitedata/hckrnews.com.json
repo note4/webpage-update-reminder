@@ -1,12 +1,62 @@
 [
   {
-    "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "title": "[英] Announcing .self: A New Top-Level Domain Designed to Support Self-Hosting",
+    "link": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+    "title": "[英] Free the Icons",
     "date": "2026-06-30"
   },
   {
-    "link": "https://www.thecanary.co/global/world-analysis/2026/06/26/microsoft-worker-emails/",
-    "title": "[英] Microsoft worker emails colleagues about company's support for genocidal Israel",
+    "link": "https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code",
+    "title": "[英] You really shouldn't copy-paste errors into Claude Code",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://deep-reinforce.com/ornith_1_0.html",
+    "title": "[英] Ornith-1.0: Self-scaffolding LLMs for agentic coding",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/",
+    "title": "[英] Is sunscreen the new margarine? (2021)",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://htmx.org/essays/working-with-ai/",
+    "title": "[英] Working With AI: A concrete example",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
+    "title": "[英] Dark Sky Lighting",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://arxiv.org/abs/2606.22283",
+    "title": "[英] Apple Neural Engine: Architecture, Programming, and Performance",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
+    "title": "[英] One million passports leaked online",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+    "title": "[英] 30-year sentence for transporting zines is a five-alarm fire for free speech",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://www.cringely.com/2026/05/28/the-permission-slip/",
+    "title": "[英] The Permission Slip",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "title": "[英] .self: A new top-level domain designed to support self-hosting",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48724116",
+    "title": "[英] undefined",
     "date": "2026-06-30"
   },
   {
@@ -22,56 +72,6 @@
   {
     "link": "https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627",
     "title": "[英] .garden TLD's change to a bad neighborhood",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://github.com/jumpserver/jumpserver",
-    "title": "[英] JumpServer: Open-Source Privileged Access Management",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://medium.com/@crispomwangi/7-alternatives-to-nested-if-function-a9cb07f3df1e",
-    "title": "[英] Alternatives to Nested If Function",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://www.jonathanbeard.io/blog/2026/06/27/the-80-percent-problem.html",
-    "title": "[英] The 80% Problem: The Last 20% Is Where the Engineer Used to Live",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://github.com/deepreinforce-ai/Ornith-1",
-    "title": "[英] Ornith-1.0: self-improving open-source models for agentic coding",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://lucassifoni.info/blog/hiking-with-wallace/",
-    "title": "[英] Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
-    "title": "[英] The Radiation Exposure Lie",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365",
-    "title": "[英] Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48722366",
-    "title": "[英] undefined",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html",
-    "title": "[英] In San Francisco, even $180k tech salaries are no longer enough",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://quesma.com/blog/qwen-36-is-awesome/",
-    "title": "[英] Qwen 3.6 27B is the sweet spot for local development",
     "date": "2026-06-30"
   }
 ]
