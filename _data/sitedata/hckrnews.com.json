@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://www.wildmanlife.com/the-forgotten-castles-of-the-garamantes/",
+    "title": "[英] The Forgotten Castles of the Garamantes",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://github.com/itsthelore/rac-core",
+    "title": "[英] Lore – give your coding agent the decisions your team made",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://github.com/ogulcancelik/herdr",
+    "title": "[英] Herdr: Agent multiplexer that lives in your terminal",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+    "title": "[英] Dissecting Apple's Sparse Image Format (ASIF)",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6298838",
+    "title": "[英] Some Simple Economics of AGI",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://28times.com/blog/2026-06-26-february-of-the-year-0",
+    "title": "[英] A glitch in February of the year 0",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://danunparsed.com/p/hackerrank-open-source-ats",
+    "title": "[英] HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://www.idler.co.uk/",
+    "title": "[英] Idler Magazine",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+    "title": "[英] Age verification is just a precursor to automated attribution of speech",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
+    "title": "[英] You might not need a service worker",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://act.eff.org/action/tell-congress-don-t-force-age-checks-online",
+    "title": "[英] Tell Congress: Don't Force Age Checks Online",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+    "title": "[英] AI boom risks global financial crash, warn central bankers",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
+    "title": "[英] The Baffling World of Masayoshi Son's Presentations (2020)",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://www.phantafield.com/whitepaper",
+    "title": "[英] Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
+    "date": "2026-06-29"
+  },
+  {
     "link": "https://betterimagesofai.org/",
     "title": "[英] Better Images of AI",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://blog.plover.com/lang/bismillah.html",
-    "title": "[英] Deciphering Basmala",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48713041",
-    "title": "[英] We need tech news sources which exclude AI",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/",
-    "title": "[英] On cigarettes",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://aleph-alpha.com/en/blog/model-training-as-code/",
-    "title": "[英] Model Training as Code",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48712604",
-    "title": "[英] undefined",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://altermag.com/articles/designing-a-summer-ice-cream-for-india",
-    "title": "[英] The food science behind designing an ice cream",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://xonaly.com/",
-    "title": "[英] Xonaly – Canada's Independent Search Engine",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://qsoe.net",
-    "title": "[英] A QNX-inspired operating system with selectable kernels",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://arxiv.org/abs/2401.07013",
-    "title": "[英] Knowledge Distillation of Black-Box Large Language Models",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
-    "title": "[英] POSIX Is Not a Shell",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://atomsfrontier.substack.com/p/the-excavator-that-digs-to-a-line",
-    "title": "[英] The Excavator That Digs to a Line It Cannot See – Mobility and Field Robotics",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-    "title": "[英] Professor denounces mass AI fraud on an exam at Brown",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
-    "title": "[英] British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://harpers.org/archive/2008/02/staying-awake/",
-    "title": "[英] Staying Awake (2008)",
     "date": "2026-06-29"
   }
 ]

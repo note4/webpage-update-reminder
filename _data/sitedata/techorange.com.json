@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://techorange.com/2026/06/29/zai-glm-52-open-weight-ai-cost-pressure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "成本只要五分之一、能力逼近 Anthropic：中國 GLM-5.2 如何改寫企業 AI 戰場？",
+    "date": "2026-06-29 13:17:27"
+  },
+  {
+    "link": "https://techorange.com/2026/06/29/googe-meta-gemini/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "連 Meta 都買不夠算力：Google 一道限令揭 AI 產業真正瓶頸",
+    "date": "2026-06-29 12:10:18"
+  },
+  {
+    "link": "https://techorange.com/2026/06/29/ai-hacker-aiagent-google-honestcue/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "從 8 小時到 22 秒就能破解！當 AI 變成駭客工具，你的公司準備好了嗎？（上篇）",
+    "date": "2026-06-29 11:44:00"
+  },
+  {
+    "link": "https://techorange.com/2026/06/29/exrobotics-shell-bp/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "全球油氣廠可能需要 10 萬台巡檢機器人：能源巨頭 Shell 與 BP 如何用 Physical AI 迎戰缺工與工安風險？",
+    "date": "2026-06-29 11:02:58"
+  },
+  {
+    "link": "https://techorange.com/2026/06/29/ai-for-industry-europe/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "語言模型輸了，工廠或許還沒：歐洲能靠工業 AI 打一場翻身仗嗎？",
+    "date": "2026-06-29 10:26:09"
+  },
+  {
+    "link": "https://techorange.com/2026/06/29/ai-schneider-electric-productivity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【AI 增能 vs. AI 取代】裁員不是唯一解，施耐德用「人機協作」改革客服與產品製造",
+    "date": "2026-06-29 09:50:34"
+  },
+  {
+    "link": "https://techorange.com/2026/06/29/ai-engineering-jobs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "美國工程師招募逆勢成長 7%，設計、行銷卻雙雙腰斬：AI 重塑了誰的飯碗",
+    "date": "2026-06-29 09:49:32"
+  },
+  {
     "link": "https://techorange.com/2026/06/29/openai-apple-ai-chip-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】OpenAI 新模型先過政府關，蘋果漲價與美歐晶片聯盟同步升溫",
     "date": "2026-06-29 05:30:00"
@@ -38,40 +73,5 @@
     "link": "https://techorange.com/2026/06/26/how-ai-giants-are-using-ai-in-their-own-offices/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 巨頭自己怎麼用 AI？OpenAI、Google、Anthropic 員工正從執行者變「審稿人」",
     "date": "2026-06-26 10:12:41"
-  },
-  {
-    "link": "https://techorange.com/2026/06/26/ai-llm-autotts-framework-token/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【AI 推理成本革命】不再靠人類直覺設計策略，AutoTTS 讓 AI 自己找最省 Token 推理方式",
-    "date": "2026-06-26 09:59:15"
-  },
-  {
-    "link": "https://techorange.com/2026/06/26/nvidia-ai-factory-openai-qualcomm-japan-ai-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】NVIDIA 押 AI 工廠，OpenAI、高通、日本同步重押 AI 基建戰",
-    "date": "2026-06-26 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/06/25/arms-physical-ai-and-robotics-strategies-with-drew-henry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Physical AI 落地卡在哪？Arm 高層揭三大瓶頸，Sim-to-Real 成突破關鍵",
-    "date": "2026-06-25 17:42:01"
-  },
-  {
-    "link": "https://techorange.com/2026/06/25/gamania-cloudforce-agentic-ai-soc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "迎戰 AI 武器化新風暴！解密 Agentic AI 紅藍對決與企業治理生路",
-    "date": "2026-06-25 17:41:01"
-  },
-  {
-    "link": "https://techorange.com/2026/06/25/trendai-openai-daybreak-trusted-partner/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "TrendAI™ 獲選為 OpenAI Daybreak 資安計畫「可信任合作夥伴 (Trusted Partner) 」",
-    "date": "2026-06-25 16:56:13"
-  },
-  {
-    "link": "https://techorange.com/2026/06/25/national-ai-strategy-committee/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【戴季全專欄】AI 戰略特別委員會方向正確，何時提出 AI 戰略特別預算？",
-    "date": "2026-06-25 16:03:18"
-  },
-  {
-    "link": "https://techorange.com/2026/06/25/leadtek-nvidia-ai-llm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 時代的新門檻：從會用 AI，到能打造 AI 應用",
-    "date": "2026-06-25 15:37:23"
   }
 ]
