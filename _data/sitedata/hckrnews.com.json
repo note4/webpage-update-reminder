@@ -1,12 +1,67 @@
 [
   {
+    "link": "https://det.social/@lostgen/116820546568940358",
+    "title": "[英] The CEO of Mullvad is the main financer of the far-right Swedish Örebro party",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48717573",
+    "title": "[英] undefined",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://thomasdullien.github.io/guides/entrepreneurship/",
+    "title": "[英] Halvar's Guide to Entrepreneurship",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=GZqB4D_Do38",
+    "title": "[英] Let's Decode the Mystery Bytes [video]",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+    "title": "[英] Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+    "title": "[英] Why did this journal retract two 1940s papers by Max Planck?",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
+    "title": "[英] NUMA: Cores, memory, and the distance between them",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://www.ti.com/product/MSPM0C1104",
+    "title": "[英] 1.38 Millimeter Microcontroller",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://danielcordova.me/blog/debian-openrc/",
+    "title": "[英] Replacing Systemd with OpenRC in Debian",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw",
+    "title": "[英] US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?",
+    "date": "2026-06-29"
+  },
+  {
+    "link": "https://blog.cloudflare.com/hyper-bug/",
+    "title": "[英] We found a bug in the hyper HTTP library",
+    "date": "2026-06-29"
+  },
+  {
     "link": "https://www.wildmanlife.com/the-forgotten-castles-of-the-garamantes/",
     "title": "[英] The Forgotten Castles of the Garamantes",
     "date": "2026-06-29"
   },
   {
     "link": "https://github.com/itsthelore/rac-core",
-    "title": "[英] Lore – give your coding agent the decisions your team made",
+    "title": "[英] Lore – Give your coding agent the decisions your team made",
     "date": "2026-06-29"
   },
   {
@@ -17,61 +72,6 @@
   {
     "link": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
     "title": "[英] Dissecting Apple's Sparse Image Format (ASIF)",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6298838",
-    "title": "[英] Some Simple Economics of AGI",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://28times.com/blog/2026-06-26-february-of-the-year-0",
-    "title": "[英] A glitch in February of the year 0",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://danunparsed.com/p/hackerrank-open-source-ats",
-    "title": "[英] HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://www.idler.co.uk/",
-    "title": "[英] Idler Magazine",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-    "title": "[英] Age verification is just a precursor to automated attribution of speech",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
-    "title": "[英] You might not need a service worker",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://act.eff.org/action/tell-congress-don-t-force-age-checks-online",
-    "title": "[英] Tell Congress: Don't Force Age Checks Online",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
-    "title": "[英] AI boom risks global financial crash, warn central bankers",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
-    "title": "[英] The Baffling World of Masayoshi Son's Presentations (2020)",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://www.phantafield.com/whitepaper",
-    "title": "[英] Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
-    "date": "2026-06-29"
-  },
-  {
-    "link": "https://betterimagesofai.org/",
-    "title": "[英] Better Images of AI",
     "date": "2026-06-29"
   }
 ]
