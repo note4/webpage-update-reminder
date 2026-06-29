@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion/",
+    "title": "[英] The Gemini app is bringing personalized image creation to more users.",
+    "date": "2026-06-30 01:30:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
     "title": "[英] Ask an AI expert: What exactly is the full stack?",
     "date": "2026-06-30 00:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/",
     "title": "[英] 5 ways to learn with study notebooks in the Gemini app",
     "date": "2026-06-26 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/devices/google-nest/gemini-home-voice-assistant-tips/",
-    "title": "[英] 100 new ways to make your day easier with Gemini for Home voice assistant",
-    "date": "2026-06-25 21:00:00"
   }
 ]
