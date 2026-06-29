@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "title": "[英] Ask an AI expert: What exactly is the full stack?",
+    "date": "2026-06-30 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/",
+    "title": "[英] Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.",
+    "date": "2026-06-30 00:00:00"
+  },
+  {
     "link": "https://blog.google/products/ads-commerce/youtube-brand-campaign-updates/",
     "title": "[英] Unlock deeper insights for YouTube brand campaigns.",
     "date": "2026-06-29 22:00:00"
@@ -30,6 +40,11 @@
     "date": "2026-06-26 01:00:00"
   },
   {
+    "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+    "title": "[英] Our latest Google Finance upgrades, including a new app",
+    "date": "2026-06-26 00:00:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/",
     "title": "[英] ISTE 2026: Supporting teaching and learning with connected AI tools",
     "date": "2026-06-26 00:00:00"
@@ -55,23 +70,8 @@
     "date": "2026-06-26 00:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-    "title": "[英] Our latest Google Finance upgrades, including a new app",
-    "date": "2026-06-26 00:00:00"
-  },
-  {
     "link": "https://blog.google/products-and-platforms/devices/google-nest/gemini-home-voice-assistant-tips/",
     "title": "[英] 100 new ways to make your day easier with Gemini for Home voice assistant",
     "date": "2026-06-25 21:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-play-updates-uk-developers/",
-    "title": "[英] Google Play updates let U.K. developers do more and pay less.",
-    "date": "2026-06-25 19:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/public-policy/white-paper-ai-regulation/",
-    "title": "[英] Read our white paper on a pragmatic approach to AI governance in America.",
-    "date": "2026-06-25 17:00:00"
   }
 ]
