@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://mechanical-pencil.com/products/car",
+    "title": "[英] How does a pull-back car work? Illustrated teardown",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://neynt.ca/writing/waveloop/",
+    "title": "[英] Waveloop: What Fable left me",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables",
+    "title": "[英] Reading the internals of Postgres: Database cluster, databases, and tables",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+    "title": "[英] I ported Kubernetes to the browser",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://artificialanalysis.ai/models/claude-sonnet-5",
+    "title": "[英] Claude Sonnet 5 – benchmark results",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
+    "title": "[英] I built a 10 inch mini rack from aluminium extrusions",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel",
+    "title": "[英] Something Is Wrong with Modern Longevity Science",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
+    "title": "[英] CERN bids farewell to the LHC and enters Long Shutdown 3",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://counterexamples.org/",
+    "title": "[英] Counterexamples in type systems (2021)",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games/",
+    "title": "[英] The best thing that's ever happened for multiplayer games?",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://emmettbuckthompson.com/blog/ai-is-making-us-lose-our-individuality",
+    "title": "[英] AI Is Making Us Lose Our Individuality",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://samwilkinson.io/posts/2026-06-24-rf-hacking-dreo",
+    "title": "[英] RF Hacking My Cloud-Controlled Ceiling Fan",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://apparent.social/heat-map",
+    "title": "[英] Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
+    "date": "2026-07-01"
+  },
+  {
     "link": "https://www.w3.org/DesignIssues/MatrixURIs.html",
     "title": "[英] Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",
     "date": "2026-07-01"
@@ -7,71 +72,6 @@
   {
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees",
     "title": "[英] Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48737226",
-    "title": "[英] Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://wakamoleguy.com/p/flexible-gates",
-    "title": "[英] Don't Make Gates Optional, Make Them Flexible",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.anthropic.com/news/claude-sonnet-5",
-    "title": "[英] Claude Sonnet 5",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://unix.foo/posts/last-people-who-know-how-it-works/",
-    "title": "[英] We Are the Last People Who Know How It Works",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://gauthier-lechevalier.com/radar",
-    "title": "[英] I built a mmWave material classification radar",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure",
-    "title": "[英] Supreme Court takes sledgehammer to federal regulatory structure",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://twitter.com/IntCyberDigest/status/2071971609183678544",
-    "title": "[英] Anthropic has embedded hidden spyware-like code in Claude Code",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
-    "title": "[英] Xsnow \"protestware\" in Debian",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://claude.com/product/claude-science",
-    "title": "[英] Claude Science",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://deepmind.google/models/gemini-image/flash-lite/",
-    "title": "[英] Nano Banana 2 Lite",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
-    "title": "[英] Crypto firms have spent $189M so far on 2026 US election, report says",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/",
-    "title": "[英] EU commissioners shut down air conditioning for employees, leave theirs on",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/",
-    "title": "[英] BMW iX5 Blows Away the Competition with 460-KW Charging, 435-Mile Range",
     "date": "2026-07-01"
   }
 ]
