@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.lifeinnorway.net/bouvet-island/",
+    "title": "[英] Bouvet Island: The Most Remote Island Is Norwegian",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
+    "title": "[英] Superpowers 6",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://blog.cr.yp.to/20260630-risk.html",
+    "title": "[英] Understanding lattice risks: Many differences between marketing and reality",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48739487",
+    "title": "[英] undefined",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/",
+    "title": "[英] Long Island's decommissioned nuclear power plant",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html",
+    "title": "[英] Local Reasoning for Global Properties",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48739038",
+    "title": "[英] Show HN: Morph Reflexes – Multi-head classifiers for agent traces",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+    "title": "[英] Meta's brain-scanning system reads sentences non-invasively, code open source",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://formicarium.es",
+    "title": "[英] Show HN: My 13-year-old built an ant colony tracker",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
+    "title": "[英] Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/",
+    "title": "[英] Stroustrup's Rule (2024)",
+    "date": "2026-07-01"
+  },
+  {
     "link": "https://mechanical-pencil.com/products/car",
     "title": "[英] How does a pull-back car work? Illustrated teardown",
     "date": "2026-07-01"
@@ -17,61 +72,6 @@
   {
     "link": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
     "title": "[英] I ported Kubernetes to the browser",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://artificialanalysis.ai/models/claude-sonnet-5",
-    "title": "[英] Claude Sonnet 5 – benchmark results",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
-    "title": "[英] I built a 10 inch mini rack from aluminium extrusions",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel",
-    "title": "[英] Something Is Wrong with Modern Longevity Science",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
-    "title": "[英] CERN bids farewell to the LHC and enters Long Shutdown 3",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://counterexamples.org/",
-    "title": "[英] Counterexamples in type systems (2021)",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games/",
-    "title": "[英] The best thing that's ever happened for multiplayer games?",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://emmettbuckthompson.com/blog/ai-is-making-us-lose-our-individuality",
-    "title": "[英] AI Is Making Us Lose Our Individuality",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://samwilkinson.io/posts/2026-06-24-rf-hacking-dreo",
-    "title": "[英] RF Hacking My Cloud-Controlled Ceiling Fan",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://apparent.social/heat-map",
-    "title": "[英] Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.w3.org/DesignIssues/MatrixURIs.html",
-    "title": "[英] Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees",
-    "title": "[英] Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market",
     "date": "2026-07-01"
   }
 ]
