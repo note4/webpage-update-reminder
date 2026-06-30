@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+    "title": "[英] The labor share of income in the US is at its lowest post-war level",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/",
+    "title": "[英] We moved our Bluesky data to Eurosky",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://old.maa.org/press/maa-reviews/mathematics-its-content-methods-and-meaning",
+    "title": "[英] Mathematics: Its Content, Methods and Meaning",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026",
+    "title": "[英] Supreme Court upholds broad conception of birthright citizenship",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://github.com/anthropics/claude-code/issues/62476",
+    "title": "[英] Beware, Claude Code deletes >30 day old transcripts. Anthropic won't fix it",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://www.knopper.net/knoppix/index-en.html",
+    "title": "[英] Knoppix",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
+    "title": "[英] Looking Ahead to Postgres 19",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+    "title": "[英] Cursor now has a mobile app for guiding your coding agent on the go",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
+    "title": "[英] Have You Restarted Your Computer This Week?",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/",
+    "title": "[英] Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://www.windowslatest.com/2026/06/30/microsoft-reveals-why-windows-11-keeps-saying-a-file-is-in-use-after-you-close-the-app-plus-the-fix/",
+    "title": "[英] Microsoft reveals why Windows 11 keeps saying a file is in use after closing app",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://www.gutenberg.org/ebooks/24518",
+    "title": "[英] Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
+    "date": "2026-06-30"
+  },
+  {
     "link": "https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france",
     "title": "[英] Who are the fire-tamers?",
     "date": "2026-06-30"
@@ -12,66 +72,6 @@
   {
     "link": "https://news.gallup.com/poll/711938/american-pride-falls-year-record-low.aspx",
     "title": "[英] American Pride Falls to 25-Year Record Low",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://lcamtuf.substack.com/p/all-logic-no-bite",
-    "title": "[英] All Logic, No Bite",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
-    "title": "[英] The US ambassador had Belgian police stop our reporting",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://www.creativebloq.com/design/branding/polaroid-just-dropped-the-most-iconic-anti-ai-ad-of-the-year",
-    "title": "[英] Polaroid just dropped the most iconic anti-AI ad of the year",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
-    "title": "[英] Parse, Don't Validate – In a Language That Doesn't Want You To",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced",
-    "title": "[英] Should every baby's DNA be sequenced?",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
-    "title": "[英] Sony erases digital content from libraries; reminded we don't own what we buy",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://proton.me/blog/lumo-2",
-    "title": "[英] Lumo 2.0",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://letters.unchartedpathbreakthroughs.com/posts/why-problem-statements-arent-enough",
-    "title": "[英] Why problem statements aren't enough",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
-    "title": "[英] Exercise intensity influences body composition in healthy older adults (2025)",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-    "title": "[英] European digital ID wallets rely on safety services of Google and Apple",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://vflash.github.io/Tyaff/",
-    "title": "[英] I spent 6 days building my VDOM library as I hated how React handles memo",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://antaresindustries.com/updates/antares-achieves-criticality",
-    "title": "[英] Antares Achieves Criticality of Mark-0 Reactor",
     "date": "2026-06-30"
   }
 ]
