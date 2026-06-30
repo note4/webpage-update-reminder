@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
+    "title": "[英] SQLite improving performance with pre-sort",
+    "date": "2026-06-30"
+  },
+  {
     "link": "https://github.com/mat-mgm/kb-prolog",
     "title": "[英] Kb – Prolog Knowledge Base",
     "date": "2026-06-30"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.cringely.com/2026/05/28/the-permission-slip/",
     "title": "[英] The Permission Slip",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "title": "[英] .self: A new top-level domain designed to support self-hosting",
     "date": "2026-06-30"
   }
 ]
