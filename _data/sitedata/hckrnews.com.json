@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france",
+    "title": "[英] Who are the fire-tamers?",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+    "title": "[英] Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://news.gallup.com/poll/711938/american-pride-falls-year-record-low.aspx",
+    "title": "[英] American Pride Falls to 25-Year Record Low",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://lcamtuf.substack.com/p/all-logic-no-bite",
+    "title": "[英] All Logic, No Bite",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+    "title": "[英] The US ambassador had Belgian police stop our reporting",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://www.creativebloq.com/design/branding/polaroid-just-dropped-the-most-iconic-anti-ai-ad-of-the-year",
+    "title": "[英] Polaroid just dropped the most iconic anti-AI ad of the year",
+    "date": "2026-06-30"
+  },
+  {
     "link": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
     "title": "[英] Parse, Don't Validate – In a Language That Doesn't Want You To",
     "date": "2026-06-30"
@@ -21,17 +51,17 @@
   },
   {
     "link": "https://letters.unchartedpathbreakthroughs.com/posts/why-problem-statements-arent-enough",
-    "title": "[英] Why Problem Statements Aren't Enough",
+    "title": "[英] Why problem statements aren't enough",
     "date": "2026-06-30"
   },
   {
     "link": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
-    "title": "[英] Exercise intensity influences body composition in healthy older adults",
+    "title": "[英] Exercise intensity influences body composition in healthy older adults (2025)",
     "date": "2026-06-30"
   },
   {
     "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-    "title": "[英] European digital ID wallets are a gift to Google and Apple",
+    "title": "[英] European digital ID wallets rely on safety services of Google and Apple",
     "date": "2026-06-30"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://antaresindustries.com/updates/antares-achieves-criticality",
     "title": "[英] Antares Achieves Criticality of Mark-0 Reactor",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://karolina.mgdubiel.com/drone/",
-    "title": "[英] Building a custom octocopter from scratch with no prior hardware experience",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://twoheads.net/the-promise-is-unattended-work/",
-    "title": "[英] The operating cost starts after the demo",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://cse.buffalo.edu/tech-reports/2014-04.pdf",
-    "title": "[英] Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-    "title": "[英] The end of the AArch64 desktop experiment",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://boredpeoplechat.com/",
-    "title": "[英] Show HN: Bored People Chat – Anonymous global chat room",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://opensourcelowtech.org/",
-    "title": "[英] Open Source Low Tech",
     "date": "2026-06-30"
   }
 ]
