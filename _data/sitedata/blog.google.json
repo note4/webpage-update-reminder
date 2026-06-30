@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/2026-environmental-report/",
+    "title": "[英] Read our 11th annual Environmental Report",
+    "date": "2026-07-01 00:05:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
+    "title": "[英] Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "date": "2026-07-01 00:00:00"
+  },
+  {
     "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
     "title": "[英] Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
     "date": "2026-06-30 14:00:00"
@@ -50,8 +60,8 @@
     "date": "2026-06-26 01:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/education/henry-county-public-schools/",
-    "title": "[英] How a Kentucky school district is scaling writing feedback with Gemini",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/education-ai-funding/",
+    "title": "[英] Google.org is funding three long-term partners on education and AI.",
     "date": "2026-06-26 00:00:00"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/",
     "title": "[英] ISTE 2026: Supporting teaching and learning with connected AI tools",
-    "date": "2026-06-26 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products/ads-commerce/demand-gen-drop-june-2026/",
-    "title": "[英] Elevate your campaign performance with June’s Demand Gen Drop.",
-    "date": "2026-06-26 00:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/education-ai-funding/",
-    "title": "[英] Google.org is funding three long-term partners on education and AI.",
     "date": "2026-06-26 00:00:00"
   }
 ]
