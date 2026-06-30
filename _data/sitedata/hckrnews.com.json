@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.w3.org/DesignIssues/MatrixURIs.html",
+    "title": "[英] Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees",
+    "title": "[英] Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48737226",
+    "title": "[英] Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://wakamoleguy.com/p/flexible-gates",
+    "title": "[英] Don't Make Gates Optional, Make Them Flexible",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://www.anthropic.com/news/claude-sonnet-5",
+    "title": "[英] Claude Sonnet 5",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+    "title": "[英] We Are the Last People Who Know How It Works",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://gauthier-lechevalier.com/radar",
+    "title": "[英] I built a mmWave material classification radar",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure",
+    "title": "[英] Supreme Court takes sledgehammer to federal regulatory structure",
+    "date": "2026-07-01"
+  },
+  {
     "link": "https://twitter.com/IntCyberDigest/status/2071971609183678544",
     "title": "[英] Anthropic has embedded hidden spyware-like code in Claude Code",
     "date": "2026-07-01"
@@ -32,46 +72,6 @@
   {
     "link": "https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/",
     "title": "[英] BMW iX5 Blows Away the Competition with 460-KW Charging, 435-Mile Range",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
-    "title": "[英] County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-    "title": "[英] Claude Code Is Steganographically Marking Requests",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
-    "title": "[英] Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
-    "title": "[英] The labor share of income in the US is at its lowest post-war level",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/",
-    "title": "[英] We moved our Bluesky data to Eurosky",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://old.maa.org/press/maa-reviews/mathematics-its-content-methods-and-meaning",
-    "title": "[英] Mathematics: Its Content, Methods and Meaning",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026",
-    "title": "[英] Supreme Court upholds broad conception of birthright citizenship",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://github.com/anthropics/claude-code/issues/62476",
-    "title": "[英] Beware, Claude Code deletes >30 day old transcripts. Anthropic won't fix it",
     "date": "2026-07-01"
   }
 ]
