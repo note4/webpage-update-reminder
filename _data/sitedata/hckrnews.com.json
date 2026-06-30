@@ -1,7 +1,52 @@
 [
   {
-    "link": "https://archaeology.org/news/2026/06/18/300000-year-old-cave-site-explored-in-northern-israel/",
-    "title": "[英] 300k-Year-Old Cave Site Explored in Northern Israel",
+    "link": "https://cse.buffalo.edu/tech-reports/2014-04.pdf",
+    "title": "[英] Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+    "title": "[英] The end of the AArch64 desktop experiment",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://boredpeoplechat.com/",
+    "title": "[英] Show HN: Bored People Chat – Anonymous global chat room",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://opensourcelowtech.org/",
+    "title": "[英] Open Source Low Tech",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://moondream.ai/blog/popping-the-gpu-bubble",
+    "title": "[英] Popping the GPU Bubble",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
+    "title": "[英] US Supreme Court Just Blew Up EU-US Data Transfers",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html",
+    "title": "[英] Study suggests most Americans would be healthier without daylight saving time",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://www.cs.cornell.edu/~asampson/blog/flash.html",
+    "title": "[英] A Fake Shell for Pangenomics",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://newrepublic.com/post/212340/ice-poll-worker-election-delete-instagram-post",
+    "title": "[英] ICE Tracks Down Woman to Force Her to Delete Instagram Post",
+    "date": "2026-06-30"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48728441",
+    "title": "[英] undefined",
     "date": "2026-06-30"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://stonecarver.com/",
     "title": "[英] Walter S. Arnold–Sculptor/Stone Carver",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "http://occ.sdf.org/",
-    "title": "[英] Old Computer Challenge",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
-    "title": "[英] Why Won't Europe Build AI Data Centers in Iceland?",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived",
-    "title": "[英] Philae's extraordinary comet landing relived (2024)",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://longcat.chat/blog/longcat-2.0/",
-    "title": "[英] LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://fil-c.org/context_switches",
-    "title": "[英] Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://mysysinfo.com",
-    "title": "[英] What any website can see about you",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c",
-    "title": "[英] Netflix Simplified Batch Compute with Kueue",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-    "title": "[英] Exploring PDP-1 Lisp (1960)",
-    "date": "2026-06-30"
-  },
-  {
-    "link": "https://github.com/SMJAI/open-memory-protocol",
-    "title": "[英] Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
     "date": "2026-06-30"
   }
 ]
