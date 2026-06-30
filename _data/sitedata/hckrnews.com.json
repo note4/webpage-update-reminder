@@ -1,7 +1,37 @@
 [
   {
+    "link": "https://hengefinder.com/",
+    "title": "[英] Hengefinder",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://hatari.frama.io/hatari/online/hatari.html",
+    "title": "[英] Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+    "title": "[英] TabFM: A zero-shot foundation model for tabular data",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+    "title": "[英] Leanstral 1.5",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48739792",
+    "title": "[英] Ask HN: Since when does Craigslist's front page have emojis?",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+    "title": "[英] Ante: A new way to blend borrow checking and reference counting",
+    "date": "2026-07-01"
+  },
+  {
     "link": "https://www.lifeinnorway.net/bouvet-island/",
-    "title": "[英] Bouvet Island: The Most Remote Island Is Norwegian",
+    "title": "[英] Bouvet Island",
     "date": "2026-07-01"
   },
   {
@@ -36,42 +66,12 @@
   },
   {
     "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-    "title": "[英] Meta's brain-scanning system reads sentences non-invasively, code open source",
+    "title": "[英] From brain waves to words: a new path to communication without surgery",
     "date": "2026-07-01"
   },
   {
     "link": "https://formicarium.es",
     "title": "[英] Show HN: My 13-year-old built an ant colony tracker",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
-    "title": "[英] Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/",
-    "title": "[英] Stroustrup's Rule (2024)",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://mechanical-pencil.com/products/car",
-    "title": "[英] How does a pull-back car work? Illustrated teardown",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://neynt.ca/writing/waveloop/",
-    "title": "[英] Waveloop: What Fable left me",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables",
-    "title": "[英] Reading the internals of Postgres: Database cluster, databases, and tables",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-    "title": "[英] I ported Kubernetes to the browser",
     "date": "2026-07-01"
   }
 ]
