@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://twitter.com/anthropicai/status/2072163884430229756",
+    "title": "[英] Claude Fable 5 available globally tomorrow",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+    "title": "[英] ArXiv's Next Chapter",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html",
+    "title": "[英] Pystd, similar-ish functionality with a fraction of the compile time",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+    "title": "[英] Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
+    "title": "[英] The first early human eggs from stem cells",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://ramp.com/data/ai-jobs-impact",
+    "title": "[英] How employment changes when firms adopt generative AI",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://www.anthropic.com/news/redeploying-fable-5",
+    "title": "[英] Redeploying Fable 5",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://macrodata.co/blog/annotating-robot-video-subtasks",
+    "title": "[英] Segmenting Robot Video into Actionable Subtasks",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future",
+    "title": "[英] Americans see their country's past, present and future",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
+    "title": "[英] Supersonic flight returning to US after half-century ban",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://blog.sao.dev/structural-correctness/",
+    "title": "[英] Structural Correctness",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://tensor4all.org/blog/introducing-tenferro-rs/",
+    "title": "[英] From Julia to Rust: a differentiable tensor stack for scientific computing",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+    "title": "[英] Scaling Laws, Carefully",
+    "date": "2026-07-01"
+  },
+  {
     "link": "https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f",
-    "title": "[英] The President Made More Than $1Billon in Crypto Deals",
+    "title": "[英] Trump made more than $1B on crypto deals, part of 2025 windfall",
     "date": "2026-07-01"
   },
   {
     "link": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
     "title": "[英] Forestiere Underground Gardens",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://stillthinking.net/posts/connections-in-math-svd/",
-    "title": "[英] Deriving SVD without even aiming at it",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://twitter.com/synthwavedd/status/2072103052635451559",
-    "title": "[英] Claude Fable 5 export control lifted",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://github.com/google/copybara",
-    "title": "[英] Google copybara: moving code between repositories",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-    "title": "[英] Anthropic restoring access to Claude Fable 5 and Mythos 5 from tomorrow",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-    "title": "[英] Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://weinholt.se/articles/loko-scheme-0-13-0/",
-    "title": "[英] Loko Scheme 0.13.0",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/",
-    "title": "[英] Gone but Not Forgotten: Recovering the Dead Web",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://hengefinder.com/",
-    "title": "[英] Hengefinder",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://hatari.frama.io/hatari/online/hatari.html",
-    "title": "[英] Hatari – Online Atari ST/STE/TT/Falcon Emulator",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
-    "title": "[英] TabFM: A zero-shot foundation model for tabular data",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-    "title": "[英] Leanstral 1.5",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48739792",
-    "title": "[英] Ask HN: Since when does Craigslist's front page have emojis?",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
-    "title": "[英] Ante: A new way to blend borrow checking and reference counting",
     "date": "2026-07-01"
   }
 ]
