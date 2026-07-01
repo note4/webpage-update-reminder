@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/products/maps/te-reo-maori/",
+    "title": "[英] Maps has an authentic new voice in New Zealand",
+    "date": "2026-07-02 01:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "title": "[英] New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "date": "2026-07-02 00:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/",
     "title": "[英] Gemini Spark updates: macOS launch, connected apps and more",
     "date": "2026-07-01 05:00:00"
@@ -50,28 +60,18 @@
     "date": "2026-06-26 01:40:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/",
-    "title": "[英] Try these 3 Google AI tools to help find your next job.",
+    "link": "https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/",
+    "title": "[英] 5 ways Google parents are using Gemini",
     "date": "2026-06-26 01:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/",
-    "title": "[英] 5 ways Google parents are using Gemini",
+    "link": "https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/",
+    "title": "[英] Try these 3 Google AI tools to help find your next job.",
     "date": "2026-06-26 01:00:00"
   },
   {
     "link": "https://blog.google/products-and-platforms/products/education/iste-2026-educator-updates/",
     "title": "[英] Building AI tailored for education, with educators in the lead",
     "date": "2026-06-26 01:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/",
-    "title": "[英] ISTE 2026: Supporting teaching and learning with connected AI tools",
-    "date": "2026-06-26 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/",
-    "title": "[英] 5 ways to learn with study notebooks in the Gemini app",
-    "date": "2026-06-26 00:00:00"
   }
 ]
