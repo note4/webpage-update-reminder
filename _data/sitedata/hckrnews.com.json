@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+    "title": "[英] Nintendo has raised its employees base salary by 10%",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+    "title": "[英] Physical disc production ending in Jan 2028 for new games on PlayStation",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back",
+    "title": "[英] A deep dive into SmallVector:push_back",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://hackernows.app/",
+    "title": "[英] Show HN: HackerNows – Native iOS HN Client",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/",
+    "title": "[英] Swedish court says Google is to pay $1.5B to Klarna in antitrust damages",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://cleberg.net/blog/internet.html",
+    "title": "[英] The Internet I Grew Up with Doesn't Exist Anymore",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+    "title": "[英] Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html",
+    "title": "[英] Obfuscation: Building the final boss of cryptography (Part I)",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://cleberg.net/blog/homelab-maintenance.html",
+    "title": "[英] I Don't Maintain My Homelab",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://asahilinux.org/2026/06/progress-report-7-1/",
+    "title": "[英] Asahi Linux 7.1 Progress Report",
+    "date": "2026-07-01"
+  },
+  {
     "link": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
     "title": "[英] Pine64 launch $50 smart speaker for Home Assistant tinkerers",
     "date": "2026-07-01"
@@ -22,56 +72,6 @@
   {
     "link": "https://reclaimthenet.org/googles-new-recaptcha-wants-your-camera-access-and-21-points-of-your-hand",
     "title": "[英] Google's New reCAPTCHA Wants Your Camera Access and 21 Points of Your Hand",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-    "title": "[英] Godot will no longer accept AI-authored code contributions",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://github.com/steve-chavez/CParseC",
-    "title": "[英] Single header Parser Combinators for C",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "http://sparkbangbuzz.com/cds-fet/cds-fet.htm",
-    "title": "[英] Homemade Transistor from Cadmium Sulfide Photocell (2009)",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
-    "title": "[英] Meta is adding rate limits and soft paywall to smart glasses",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://motplot.app/helloworld",
-    "title": "[英] How information theory saved my word game",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://twitter.com/anthropicai/status/2072163884430229756",
-    "title": "[英] Claude Fable 5 available globally tomorrow",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
-    "title": "[英] ArXiv's Next Chapter",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html",
-    "title": "[英] Pystd, similar-ish functionality with a fraction of the compile time",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-    "title": "[英] Matrix Orthogonalization Improves Memory in Recurrent Models",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
-    "title": "[英] The first early human eggs from stem cells",
     "date": "2026-07-01"
   }
 ]

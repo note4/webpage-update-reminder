@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/07/01/siemens-amberg-digital-twin-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 接管排程、品管與物流：西門子砸 2 億歐元，把整座工廠變成會自我調度的系統",
+    "date": "2026-07-01 19:11:24"
+  },
+  {
+    "link": "https://techorange.com/2026/07/01/ai-chip-startup-etched/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "成立不到 4 年拿下 10 億美元訂單：AI 晶片新創 Etched 為何被視為 NVIDIA 新勁敵？",
+    "date": "2026-07-01 18:17:12"
+  },
+  {
     "link": "https://techorange.com/2026/07/01/anthropic-sonnet-5/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 太貴難落地、太強又怕失控：Anthropic Sonnet 5 如何把企業 AI 變便宜，又不踩政府安全紅線？",
     "date": "2026-07-01 12:20:40"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/06/30/identity-security-ai-agent-governing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【AI 代理資安漏洞】繼承了員工權限、卻不隨員工離職而消失，AI 代理成身分治理盲區",
     "date": "2026-06-30 09:29:21"
-  },
-  {
-    "link": "https://techorange.com/2026/06/30/3d-printable-humanoid-legs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "人形機器人民主化：Hugging Face 的 LeRobot 要讓任何人都能做真機 AI 實驗",
-    "date": "2026-06-30 09:28:49"
-  },
-  {
-    "link": "https://techorange.com/2026/06/30/ai-compute-memory-supply-crunch/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】AI 算力不夠了，Google 卡 Meta、南韓 800 兆韓元擴產記憶體",
-    "date": "2026-06-30 05:30:00"
   }
 ]
