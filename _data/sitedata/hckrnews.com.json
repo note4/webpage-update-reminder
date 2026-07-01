@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
+    "title": "[英] Pine64 launch $50 smart speaker for Home Assistant tinkerers",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+    "title": "[英] Newly discovered spider builds spring loaded snare to catch ants",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48744213",
+    "title": "[英] Dexter (YC F24) Is Hiring a Founding Engineer in Berlin",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://www.dongascience.com/en/news/30374",
+    "title": "[英] Register Korea's First PC 'SE-8001' as a National Important Material",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://reclaimthenet.org/googles-new-recaptcha-wants-your-camera-access-and-21-points-of-your-hand",
+    "title": "[英] Google's New reCAPTCHA Wants Your Camera Access and 21 Points of Your Hand",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+    "title": "[英] Godot will no longer accept AI-authored code contributions",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://github.com/steve-chavez/CParseC",
+    "title": "[英] Single header Parser Combinators for C",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "http://sparkbangbuzz.com/cds-fet/cds-fet.htm",
+    "title": "[英] Homemade Transistor from Cadmium Sulfide Photocell (2009)",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+    "title": "[英] Meta is adding rate limits and soft paywall to smart glasses",
+    "date": "2026-07-01"
+  },
+  {
+    "link": "https://motplot.app/helloworld",
+    "title": "[英] How information theory saved my word game",
+    "date": "2026-07-01"
+  },
+  {
     "link": "https://twitter.com/anthropicai/status/2072163884430229756",
     "title": "[英] Claude Fable 5 available globally tomorrow",
     "date": "2026-07-01"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
     "title": "[英] The first early human eggs from stem cells",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://ramp.com/data/ai-jobs-impact",
-    "title": "[英] How employment changes when firms adopt generative AI",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.anthropic.com/news/redeploying-fable-5",
-    "title": "[英] Redeploying Fable 5",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://macrodata.co/blog/annotating-robot-video-subtasks",
-    "title": "[英] Segmenting Robot Video into Actionable Subtasks",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future",
-    "title": "[英] Americans see their country's past, present and future",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
-    "title": "[英] Supersonic flight returning to US after half-century ban",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://blog.sao.dev/structural-correctness/",
-    "title": "[英] Structural Correctness",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://tensor4all.org/blog/introducing-tenferro-rs/",
-    "title": "[英] From Julia to Rust: a differentiable tensor stack for scientific computing",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
-    "title": "[英] Scaling Laws, Carefully",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f",
-    "title": "[英] Trump made more than $1B on crypto deals, part of 2025 windfall",
-    "date": "2026-07-01"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
-    "title": "[英] Forestiere Underground Gardens",
     "date": "2026-07-01"
   }
 ]
