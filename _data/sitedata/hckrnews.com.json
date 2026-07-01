@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch",
+    "title": "[英] Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://wasm.chdb.io/",
+    "title": "[英] A complete ClickHouse OLAP engine, compiled to WebAssembly",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://qr.jim.sh/",
+    "title": "[英] Show HN: QR code renderer in a TrueType font",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
+    "title": "[英] Hanami 3.0: In Full Bloom",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://manualmeida.dev/articles/gin-simple-over-easy/",
+    "title": "[英] Building Gin: Simple over Easy",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+    "title": "[英] What to Learn to Be a Graphics Programmer",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://exitprotocols.com/engineering/libr-state-machine/",
+    "title": "[英] Show HN: LIBR tracing with source ledger rows and byte-exact PDF verification",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://hackerask.com/posts/opnsense/",
+    "title": "[英] Chasing the OPNsense RCE: The Story Behind My First CVEs",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://hackerask.com/posts/pentesting-cheatsheet/",
+    "title": "[英] My OSCP Pentesting Cheatsheet",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://meltedinhex.com/posts/analyst-ai-pack/",
+    "title": "[英] Show HN: AnalystAIPack – 118 runnable agent skills for malware analysis and RE",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://arxiv.org/abs/2606.22748",
+    "title": "[英] Are readers generating fiction with AI models?",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://brianschrader.com/archive/because-it-speaks-in-words/",
+    "title": "[英] Because It Speaks in Words",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://github.com/pglayers/pglayers",
+    "title": "[英] Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers",
+    "date": "2026-07-02"
+  },
+  {
     "link": "https://devz.cl/posts/solid-never-felt-solid/",
     "title": "[英] Solid and Clean Code never felt solid or clean to me",
     "date": "2026-07-02"
@@ -7,71 +72,6 @@
   {
     "link": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
     "title": "[英] FFmpeg 9.1's new AAC encoder",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
-    "title": "[英] Apple 'Hide My Email' Vulnerability Reveals Peoples' Real Email Addresses",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://heyoncall.com/blog/fixing-kubernetes-kubelet-memory-leak",
-    "title": "[英] Fixing a kubelet memory leak in Kubernetes 1.36",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48747975",
-    "title": "[英] Ask HN: Who wants to be hired? (July 2026)",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48747976",
-    "title": "[英] Ask HN: Who is hiring? (July 2026)",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://pmbai.dev",
-    "title": "[英] Show HN: PMB – local memory for coding agents that shows if it is used",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
-    "title": "[英] Reduce GVisor Cold Starts with GPU Snapshotting",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://golemui.com",
-    "title": "[英] Show HN: GolemUI – The new paradigm for JavaScript forms",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://probelab.io/blog/optimistic-provide/",
-    "title": "[英] How We Made IPFS Content Publishing 10x Faster",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/",
-    "title": "[英] Meta loses bid to dismiss US states' claims that FB, Instagram addict children",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://mainmatter.com/c-to-rust-migration-book/",
-    "title": "[英] The C to Rust migration book",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://github.com/ClickHouse/RayTracer",
-    "title": "[英] Ray Tracer in SQL",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/",
-    "title": "[英] 1-Bit Pixel Art Emojis",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://nym.com/blog/anti-palantir-manifesto",
-    "title": "[英] The Anti-Palantir Manifesto",
     "date": "2026-07-02"
   }
 ]
