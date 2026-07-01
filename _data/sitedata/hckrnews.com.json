@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.windtowatt.com/index-en.html",
+    "title": "[英] One KW wind turbine without civil engineering",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://www.duration.ai/blog/generating-images-with-a-2025-android",
+    "title": "[英] Generating Images with a 2025 Android",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://anatoliybabushka.com/blog/when-to-rewrite-working-code.html",
+    "title": "[英] Most rewrites serve the engineer, not the business",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
+    "title": "[英] Claude Fable 5 Promotional Access",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://github.com/Division-36/Z-Jail/",
+    "title": "[英] Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://twitter.com/claudeai/status/2072402636813607381",
+    "title": "[英] Fable 5 Is Back",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://internals-for-interns.com/posts/linux-kernel-scheduler/",
+    "title": "[英] Understanding the Linux Kernel: The Scheduler",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study",
+    "title": "[英] Mortality associated with non-optimal ambient temperatures from 2000 to 2019",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://zcode.z.ai/cn",
+    "title": "[英] ZCode: Claude Code from the Makers of GLM",
+    "date": "2026-07-02"
+  },
+  {
     "link": "https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch",
     "title": "[英] Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries",
     "date": "2026-07-02"
@@ -27,51 +72,6 @@
   {
     "link": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
     "title": "[英] What to Learn to Be a Graphics Programmer",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://exitprotocols.com/engineering/libr-state-machine/",
-    "title": "[英] Show HN: LIBR tracing with source ledger rows and byte-exact PDF verification",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://hackerask.com/posts/opnsense/",
-    "title": "[英] Chasing the OPNsense RCE: The Story Behind My First CVEs",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://hackerask.com/posts/pentesting-cheatsheet/",
-    "title": "[英] My OSCP Pentesting Cheatsheet",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://meltedinhex.com/posts/analyst-ai-pack/",
-    "title": "[英] Show HN: AnalystAIPack – 118 runnable agent skills for malware analysis and RE",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://arxiv.org/abs/2606.22748",
-    "title": "[英] Are readers generating fiction with AI models?",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://brianschrader.com/archive/because-it-speaks-in-words/",
-    "title": "[英] Because It Speaks in Words",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://github.com/pglayers/pglayers",
-    "title": "[英] Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://devz.cl/posts/solid-never-felt-solid/",
-    "title": "[英] Solid and Clean Code never felt solid or clean to me",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-    "title": "[英] FFmpeg 9.1's new AAC encoder",
     "date": "2026-07-02"
   }
 ]
