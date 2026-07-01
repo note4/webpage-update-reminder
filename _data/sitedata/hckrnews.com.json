@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery",
+    "title": "[英] How do wombats poop cubes? Scientists get to the bottom of the mystery",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+    "title": "[英] Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
+    "title": "[英] Healthy but Sedentary People Show Early Decline in Cellular Energy Production",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china",
+    "title": "[英] Why jet engines aren't made in China",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
+    "title": "[英] The GNU Emacs Architecture: Unlocking the Core [pdf]",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://cyclearchive.com/search/",
+    "title": "[英] Show HN: Cyclearchive.com – search vintage cycling magazines",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://www.astralcodexten.com/p/chip-off-the-old-block",
+    "title": "[英] Chip Off the Old Block",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://underhanded-c.org/",
+    "title": "[英] The Underhanded C Contest",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://www.usajobs.gov/job/856265200",
+    "title": "[英] US feds are actively hiring \"person who decides which models to ban\"",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?v=2](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html",
+    "title": "[英] Client-side load balancing at a million requests per second",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://www.benjerry.com/flavors/flavor-graveyard",
+    "title": "[英] Flavor Graveyard",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://github.com/langchain-ai/openwiki",
+    "title": "[英] OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+    "date": "2026-07-02"
+  },
+  {
     "link": "https://zcode.z.ai/en",
     "title": "[英] ZCode – Harness for GLM-5.2",
     "date": "2026-07-02"
@@ -12,66 +72,6 @@
   {
     "link": "https://twitter.com/Gavriel_Cohen/status/2072432348805669139",
     "title": "[英] Fable open sourced NanoClaw's agent factory. It cost $800",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
-    "title": "[英] Qualcomm Linux 2.0",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/",
-    "title": "[英] The Apple Disk II Controller Card",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/",
-    "title": "[英] I Left Harry's All-Night Hamburgers",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://www.workerowned.info/",
-    "title": "[英] Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer",
-    "title": "[英] Proliferate (YC S25) Is Hiring",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://www.windtowatt.com/index-en.html",
-    "title": "[英] One KW wind turbine without civil engineering",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://www.duration.ai/blog/generating-images-with-a-2025-android",
-    "title": "[英] Generating Images with a 2025 Android",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://anatoliybabushka.com/blog/when-to-rewrite-working-code.html",
-    "title": "[英] Most rewrites serve the engineer, not the business",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
-    "title": "[英] Claude Fable 5 Promotional Access",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://github.com/Division-36/Z-Jail/",
-    "title": "[英] Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://twitter.com/claudeai/status/2072402636813607381",
-    "title": "[英] Fable 5 Is Back",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://internals-for-interns.com/posts/linux-kernel-scheduler/",
-    "title": "[英] Understanding the Linux Kernel: The Scheduler",
     "date": "2026-07-02"
   }
 ]
