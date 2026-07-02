@@ -1,17 +1,37 @@
 [
   {
+    "link": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
+    "title": "[英] Mystery identity of 'Green Boots' climber is finally solved after DNA test",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://github.com/FractalFir/crustc",
+    "title": "[英] crustc: entirety of `rustc`, translated to C",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "title": "[英] Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
+    "title": "[英] U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
+    "date": "2026-07-03"
+  },
+  {
     "link": "https://codeberg.org/jjba23/modusregel",
     "title": "[英] Simple, beautiful Emacs modeline: modusregel",
     "date": "2026-07-03"
   },
   {
     "link": "https://blastradar.vercel.app/",
-    "title": "[英] BlastRadar – paste a Git diff, get a production risk score in 10 seconds",
+    "title": "[英] Show HN: BlastRadar - paste a Git diff, get production risk score in 10sec",
     "date": "2026-07-03"
   },
   {
     "link": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-    "title": "[英] Reality has a surprising amount of detail",
+    "title": "[英] Reality has a surprising amount of detail (2017)",
     "date": "2026-07-03"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://growtheflowutah.org/laketracker/",
     "title": "[英] Great Salt Lake Tracker – Grow the Flow",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/",
-    "title": "[英] Wireless LAN SD",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
-    "title": "[英] EFF letter to FTC on X consent order (2 July 2026) [pdf]",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48766630",
-    "title": "[英] undefined",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "http://www.lmdb.tech/doc/",
-    "title": "[英] Lightning Memory-Mapped Database Manager (LMDB) 1.0",
     "date": "2026-07-03"
   }
 ]
