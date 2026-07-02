@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+    "title": "[英] The Short Leash AI Coding Method for Beating Fable",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://aasnova.org/2026/07/01/a-new-catalog-of-stellar-rotation-periods-for-over-a-million-stars/",
+    "title": "[英] A New Catalog of Stellar Rotation Periods for over a Million Stars",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+    "title": "[英] Claude-real-video － any LLM can watch a video",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://datakinds.github.io//2020/03/15/modeling-the-coronavirus-outbreak-with-j",
+    "title": "[英] Modeling the Covid-19 Outbreak with J (2020)",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://growtheflowutah.org/laketracker/",
+    "title": "[英] Great Salt Lake Tracker – Grow the Flow",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/",
+    "title": "[英] Wireless LAN SD",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
+    "title": "[英] EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48766630",
+    "title": "[英] undefined",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "http://www.lmdb.tech/doc/",
+    "title": "[英] Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+    "date": "2026-07-03"
+  },
+  {
     "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
     "title": "[英] Job seekers giving up: Labor force participation falls to lowest in 50 years",
     "date": "2026-07-03"
@@ -27,51 +72,6 @@
   {
     "link": "https://openjdk.org/jeps/539",
     "title": "[英] JEP 539: Strict Field Initialization in the JVM moved to preview",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://willpenman.com/klara/",
-    "title": "[英] Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.cybertec-postgresql.com/en/too-many-tables-are-bad/",
-    "title": "[英] Too many tables are bad for you",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.zachtronics.com/exapunks/",
-    "title": "[英] Exapunks (2018)",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-    "title": "[英] Podman v6.0.0",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
-    "title": "[英] No LLM Code in Dependencies",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/index.html",
-    "title": "[英] How VictoriaLogs Stores Your Logs in a Columnar Layout",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder",
-    "title": "[英] The US Government Is Now a Shareholder in 26 Companies",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://lunatic.solutions/",
-    "title": "[英] Lunatic: An Erlang-inspired runtime for WebAssembly",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://theguptalog.blogspot.com/2026/07/former-microsoft-dev-built-25kb-notepad.html",
-    "title": "[英] Former Microsoft dev built a 2.5KB Notepad clone",
     "date": "2026-07-03"
   }
 ]
