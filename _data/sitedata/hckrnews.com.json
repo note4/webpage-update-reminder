@@ -1,7 +1,52 @@
 [
   {
-    "link": "https://github.com/Key-wxh/market-fish",
-    "title": "[英] MarketFish – Simulate a market with 128 AI consumers before you launch",
+    "link": "https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html",
+    "title": "[英] Nvidia offers startup customers chance to swap compute power for revenue share",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
+    "title": "[英] Meta building cloud business to sell excess AI capacity",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://alexwlchan.net/2026/bin-calendar/",
+    "title": "[英] Creating a Personalised Bin Calendar",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
+    "title": "[英] Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-online/maps/aerial-photographs/",
+    "title": "[英] Aerial Photographs (2017)",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+    "title": "[英] Google loses fight over record $4.7B EU antitrust fine",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://fabiensanglard.net/keyboards/index.html",
+    "title": "[英] My Favorite Keyboards",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "title": "[英] The Fall of the Theorem Economy",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/",
+    "title": "[英] We Don't Have to Be This Bad at Improving Society",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48757500",
+    "title": "[英] undefined",
     "date": "2026-07-02"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
     "title": "[英] Kimi K2.7 Code is generally available in GitHub Copilot",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://avohq.io/blog/avo-4",
-    "title": "[英] Avo 4 released – 15 months and 2000 commits later",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://planetscale.com/blog/introducing-database-traffic-control",
-    "title": "[英] Database Traffic Control",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://thisismodest.com/vimscoops/",
-    "title": "[英] Learn Vim motions with an ice-cream van",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://www.notyouremergency.com/triage-intro",
-    "title": "[英] The vibration of the pager has a sound all its own",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://f-droid.org/2026/07/01/adv-malware.html",
-    "title": "[英] A new Android malware from Google",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48756038",
-    "title": "[英] undefined",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://senior-swe-bench.snorkel.ai/",
-    "title": "[英] Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-    "title": "[英] Bring back crappy forums",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://cloudboss.co/docs/unobin",
-    "title": "[英] Show HN: Unobin compiles Infrastructure as Code to one binary",
     "date": "2026-07-02"
   }
 ]
