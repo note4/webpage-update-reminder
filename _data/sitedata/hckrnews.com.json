@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
+    "title": "[英] Job seekers giving up: Labor force participation falls to lowest in 50 years",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://github.com/segaboy/vulkan-netbsd",
+    "title": "[英] Vulkan is now available on NetBSD",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://github.com/anthropics/claude-code/issues/73125",
+    "title": "[英] Claude's AskUserQuestion: \"No response after 60s – continued without an answer\"",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+    "title": "[英] Postgres transactions are a distributed systems superpower",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://github.com/immich-app/immich/discussions/29439",
+    "title": "[英] Immich v3.0.0 Released",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://openjdk.org/jeps/539",
+    "title": "[英] JEP 539: Strict Field Initialization in the JVM moved to preview",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://willpenman.com/klara/",
+    "title": "[英] Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.cybertec-postgresql.com/en/too-many-tables-are-bad/",
+    "title": "[英] Too many tables are bad for you",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.zachtronics.com/exapunks/",
+    "title": "[英] Exapunks (2018)",
+    "date": "2026-07-03"
+  },
+  {
     "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
     "title": "[英] Podman v6.0.0",
     "date": "2026-07-03"
@@ -27,51 +72,6 @@
   {
     "link": "https://theguptalog.blogspot.com/2026/07/former-microsoft-dev-built-25kb-notepad.html",
     "title": "[英] Former Microsoft dev built a 2.5KB Notepad clone",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://nsa.2026.action.cr.yp.to",
-    "title": "[英] NSA tries to weaken mlkem standardisation",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://getquality.md",
-    "title": "[英] Show HN: QUALITY.md – open format/specification, agent skill, and CLI",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://tass.com/world/2154415",
-    "title": "[英] EU Court of Justice allows criminal prosecution for reposting RT videos",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/",
-    "title": "[英] What Breaks a Cell's Ribs Can Make It Stronger",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm",
-    "title": "[英] 24-bit/192kHz music downloads and why they make no sense (2012)",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-    "title": "[英] Spain Orders Blacklist of Palantir from Public and Private Companies",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://zk.golf/",
-    "title": "[英] Show HN: zkGolf, competitive optimization of formally verified circuits.",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.pnas.org/doi/10.1073/pnas.2536525123",
-    "title": "[英] Natural history on canvas: Brueghel knew about bird-eating noctule bats",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://mathstodon.xyz/@iblech/116769502749142438",
-    "title": "[英] Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
     "date": "2026-07-03"
   }
 ]
