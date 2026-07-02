@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://codeberg.org/jjba23/modusregel",
+    "title": "[英] Simple, beautiful Emacs modeline: modusregel",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://blastradar.vercel.app/",
+    "title": "[英] BlastRadar – paste a Git diff, get a production risk score in 10 seconds",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+    "title": "[英] Reality has a surprising amount of detail",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.economist.com/interactive/essay/2026/07/02/the-wrecking-ball-revolution",
+    "title": "[英] The Wrecking-Ball Revolution",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+    "title": "[英] Virginia bans sale of geolocation data",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://github.com/flythenimbus/bramble",
+    "title": "[英] Show HN: Bramble – Local-first password manager",
+    "date": "2026-07-03"
+  },
+  {
     "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
     "title": "[英] The Short Leash AI Coding Method for Beating Fable",
     "date": "2026-07-03"
@@ -42,36 +72,6 @@
   {
     "link": "http://www.lmdb.tech/doc/",
     "title": "[英] Lightning Memory-Mapped Database Manager (LMDB) 1.0",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
-    "title": "[英] Job seekers giving up: Labor force participation falls to lowest in 50 years",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://github.com/segaboy/vulkan-netbsd",
-    "title": "[英] Vulkan is now available on NetBSD",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://github.com/anthropics/claude-code/issues/73125",
-    "title": "[英] Claude's AskUserQuestion: \"No response after 60s – continued without an answer\"",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
-    "title": "[英] Postgres transactions are a distributed systems superpower",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://github.com/immich-app/immich/discussions/29439",
-    "title": "[英] Immich v3.0.0 Released",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://openjdk.org/jeps/539",
-    "title": "[英] JEP 539: Strict Field Initialization in the JVM moved to preview",
     "date": "2026-07-03"
   }
 ]
