@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+    "title": "[英] Podman v6.0.0",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+    "title": "[英] No LLM Code in Dependencies",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/index.html",
+    "title": "[英] How VictoriaLogs Stores Your Logs in a Columnar Layout",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder",
+    "title": "[英] The US Government Is Now a Shareholder in 26 Companies",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://lunatic.solutions/",
+    "title": "[英] Lunatic: An Erlang-inspired runtime for WebAssembly",
+    "date": "2026-07-03"
+  },
+  {
     "link": "https://theguptalog.blogspot.com/2026/07/former-microsoft-dev-built-25kb-notepad.html",
     "title": "[英] Former Microsoft dev built a 2.5KB Notepad clone",
     "date": "2026-07-03"
@@ -26,7 +51,7 @@
   },
   {
     "link": "https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm",
-    "title": "[英] 24-bit/192kHz music downloads and why they make no sense",
+    "title": "[英] 24-bit/192kHz music downloads and why they make no sense (2012)",
     "date": "2026-07-03"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://mathstodon.xyz/@iblech/116769502749142438",
     "title": "[英] Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://github.com/Chocobozzz/PeerTube",
-    "title": "[英] PeerTube is a free, decentralized and federated video platform",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://manufact.com",
-    "title": "[英] Launch HN: Manufact (YC S25) – MCP Cloud",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
-    "title": "[英] The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://wtf.korridzy.com/twilight-of-the-gods/",
-    "title": "[英] Comparing Fable and 10 other LLMs on refactoring a LangGraph god node",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://freegraphpaper.net/",
-    "title": "[英] Show HN: A graph paper generator that renders vector PDFs in the browser",
     "date": "2026-07-03"
   }
 ]
