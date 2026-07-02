@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://github.com/Key-wxh/market-fish",
+    "title": "[英] MarketFish – Simulate a market with 128 AI consumers before you launch",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://www.mixedbread.com/blog/asymmetric-quant",
+    "title": "[英] Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://intrepidkarthi.com/writing/the-gauge-broke/",
+    "title": "[英] The gauge broke: devs felt 20% faster with AI, measured 19% slower",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://github.com/macshome/The-Wisdom-of-Quinn",
+    "title": "[英] The Wisdom of Quinn the Eskimo (Apple Developer Technical Support Engineer)",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://cursor.com/evals",
+    "title": "[英] CursorBench 3.1",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+    "title": "[英] Kimi K2.7 Code is generally available in GitHub Copilot",
+    "date": "2026-07-02"
+  },
+  {
+    "link": "https://avohq.io/blog/avo-4",
+    "title": "[英] Avo 4 released – 15 months and 2000 commits later",
+    "date": "2026-07-02"
+  },
+  {
     "link": "https://planetscale.com/blog/introducing-database-traffic-control",
     "title": "[英] Database Traffic Control",
     "date": "2026-07-02"
@@ -37,41 +72,6 @@
   {
     "link": "https://cloudboss.co/docs/unobin",
     "title": "[英] Show HN: Unobin compiles Infrastructure as Code to one binary",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://builder.aws.com",
-    "title": "[英] Avoiding Fallback in Distributed Systems",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://alec.is/posts/fable-5-update-still-willing-to-cybercrime/",
-    "title": "[英] Fable 5 update: Still willing to cybercrime",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://magik.net/librecad/",
-    "title": "[英] LibreCAD in the Browser",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://stonetools.ghost.io/visualbasic-win31/",
-    "title": "[英] Visual Basic on the PC with Windows 3.1",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-    "title": "[英] Oomwoo, an open-source robot vacuum you build yourself",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-    "title": "[英] Global review confirms mRNA vaccines are safe, effective and full of promise",
-    "date": "2026-07-02"
-  },
-  {
-    "link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
-    "title": "[英] Meta caps internal AI token spending",
     "date": "2026-07-02"
   }
 ]
