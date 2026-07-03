@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/07/03/vitals-esp-7-gss-km/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Vitals ESP 7 重磅登場 重塑知識管理新體驗",
+    "date": "2026-07-03 15:00:00"
+  },
+  {
+    "link": "https://techorange.com/2026/07/03/microsoft-launches-new-artificial-intelligence-unit-compete-with-amazon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "微軟砸 25 億美元、AWS 投 10 億美元派駐工程師：企業 AI 戰場為何從「單一模型」轉向「多模型調度」？",
+    "date": "2026-07-03 13:11:23"
+  },
+  {
+    "link": "https://techorange.com/2026/07/03/z-ai-launches-zcode/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "中國 Z.ai 推出 ZCode 挑戰 Claude Code：AI Coding 戰場為何轉向 IDE？",
+    "date": "2026-07-03 12:16:21"
+  },
+  {
     "link": "https://techorange.com/2026/07/03/ai-agent-disrupt-bank-industry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【温宏駿專欄】AI 入口保衛戰：台灣銀行業重奪主導權的三條路徑",
     "date": "2026-07-03 10:38:10"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/07/02/anthropic-ai-review-taiwan-gpu-compute/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】Anthropic 解禁、台灣拚 2 萬片 GPU，AI 審查與算力戰同步升溫",
     "date": "2026-07-02 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/07/01/siemens-amberg-digital-twin-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 接管排程、品管與物流：西門子砸 2 億歐元，把整座工廠變成會自我調度的系統",
-    "date": "2026-07-01 19:11:24"
-  },
-  {
-    "link": "https://techorange.com/2026/07/01/ai-chip-startup-etched/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "成立不到 4 年拿下 10 億美元訂單：AI 晶片新創 Etched 為何被視為 NVIDIA 新勁敵？",
-    "date": "2026-07-01 18:17:12"
-  },
-  {
-    "link": "https://techorange.com/2026/07/01/anthropic-sonnet-5/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 太貴難落地、太強又怕失控：Anthropic Sonnet 5 如何把企業 AI 變便宜，又不踩政府安全紅線？",
-    "date": "2026-07-01 12:20:40"
   }
 ]
