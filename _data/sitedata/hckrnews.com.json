@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
+    "title": "[英] International chess federation sanctions Kramnik",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections",
+    "title": "[英] US residents angry datacenters 'shoved down our throats' are recalling officials",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://github.com/teamchong/pxpipe",
+    "title": "[英] 60% Fable cost cut by converting code to images and having the model OCR it",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+    "title": "[英] Claude, please stop trying to memorize random crap",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
+    "title": "[英] The Life and Times of Maxis, Part 1: SimEverything",
+    "date": "2026-07-04"
+  },
+  {
     "link": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
     "title": "[英] My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
     "date": "2026-07-04"
@@ -16,7 +41,7 @@
   },
   {
     "link": "https://arxiv.org/abs/2602.20415",
-    "title": "[英] Markets are competitive if and only if P = NP",
+    "title": "[英] Markets are competitive if and only if P != NP",
     "date": "2026-07-04"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://publicznyprofil.github.io/ai_cant_do_your_work/",
     "title": "[英] It Still Can't Do My Job: Four Years of Moving Goalposts (2022–2026)",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
-    "title": "[英] Hunting a 16-year-old SQLite WAL bug with TLA+",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.02512",
-    "title": "[英] Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
-    "title": "[英] The Fall and Rise of Screwworm",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://github.com/cloudcell/om-core",
-    "title": "[英] Show HN: OM Core – multidimensional models without spreadsheet cell formulas",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240",
-    "title": "[英] Hackers shoveled snow for company, were rewarded with network admin access",
     "date": "2026-07-04"
   }
 ]
