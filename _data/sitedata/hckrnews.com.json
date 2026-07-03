@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://wordgard.net/",
+    "title": "[英] Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of",
+    "title": "[英] Q&A with Micron's VP and GM of Memory",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://weli.dev/blog/half-baked-product/",
+    "title": "[英] Half-Baked Product",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://js13kgames.com/games/q1k3",
+    "title": "[英] Quake in 13 Kilobytes (2021)",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+    "title": "[英] Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+    "title": "[英] AI is 'not smart' so what's next in artificial intelligence?",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://iinteractive.com/resources/blog/read-only",
+    "title": "[英] How working with a blind client revealed invisible accessibility gaps",
+    "date": "2026-07-03"
+  },
+  {
     "link": "https://medium.com/@jamesgarside_/i-type-holes-in-keyboard-covers-e5664732ef93",
     "title": "[英] I Type Holes in Keyboard Covers – This One Survived",
     "date": "2026-07-03"
@@ -30,48 +65,13 @@
     "date": "2026-07-03"
   },
   {
-    "link": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-    "title": "[英] 14× faster embeddings: how we rebuilt the ONNX path in Manticore",
-    "date": "2026-07-03"
-  },
-  {
     "link": "https://wasmer.io/",
     "title": "[英] Wasmer: Fast, secure, lightweight containers based on WebAssembly",
     "date": "2026-07-03"
   },
   {
-    "link": "https://stefan.schueller.net/posts/the-free-market-lie/",
-    "title": "[英] Why Switzerland has 25 gbit internet and America doesn't",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.nber.org/system/files/working_papers/w35310/w35310.pdf",
-    "title": "[英] Is the iPhone birth control? Causal evidence from AT&T's 2007-2011 monopoly [pdf]",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.bkurtz.io/posts/macvdmtool/",
-    "title": "[英] Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48770226",
-    "title": "[英] undefined",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://arbourtrary.com/sketches/crossword-heatmap",
-    "title": "[英] Crossword Heatmap",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-    "title": "[英] CarPlay Is Additive",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://gitstock.org/",
-    "title": "[英] Show HN: Gitstock–Transform you GitHub commit history into K-line and animations",
+    "link": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+    "title": "[英] 14× faster embeddings: how we rebuilt the ONNX path in Manticore",
     "date": "2026-07-03"
   }
 ]
