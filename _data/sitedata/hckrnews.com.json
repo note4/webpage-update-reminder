@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+    "title": "[英] 14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://wasmer.io/",
+    "title": "[英] Wasmer: Fast, secure, lightweight containers based on WebAssembly",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://stefan.schueller.net/posts/the-free-market-lie/",
+    "title": "[英] The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.nber.org/system/files/working_papers/w35310/w35310.pdf",
+    "title": "[英] Is the iPhone birth control? Causal evidence from AT&T's 2007-2011 monopoly [pdf]",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.bkurtz.io/posts/macvdmtool/",
+    "title": "[英] Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48770226",
+    "title": "[英] undefined",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://arbourtrary.com/sketches/crossword-heatmap",
+    "title": "[英] Crossword Heatmap",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+    "title": "[英] CarPlay Is Additive",
+    "date": "2026-07-03"
+  },
+  {
     "link": "https://gitstock.org/",
     "title": "[英] Show HN: Gitstock–Transform you GitHub commit history into K-line and animations",
     "date": "2026-07-03"
@@ -16,7 +56,7 @@
   },
   {
     "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
-    "title": "[英] GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+    "title": "[英] Order a burned CD of your own public GitHub repo",
     "date": "2026-07-03"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://scottaaronson.blog/?p=9902",
     "title": "[英] An American Privacy Emergency",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://lwn.net/SubscriberLink/1079001/67840550991151ed/",
-    "title": "[英] Flexible metaprogramming with Rhombus",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://kendal.codeberg.page/inkwell/",
-    "title": "[英] Show HN: Inkwell – An RSS reader for e-ink devices",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://try.piecesof.me/",
-    "title": "[英] Show HN: Pieces – Social network for people",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://apple.github.io/foundationdb/flow.html",
-    "title": "[英] FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
-    "title": "[英] A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://github.com/ctxrs/ctx",
-    "title": "[英] Show HN: ctx – Search the coding agent history already on your machine",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://github.com/clidey/deptrust",
-    "title": "[英] Show HN: CLI that helps AI agents avoid vulnerable dependencies",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
-    "title": "[英] Mystery identity of 'Green Boots' climber is finally solved after DNA test",
     "date": "2026-07-03"
   }
 ]
