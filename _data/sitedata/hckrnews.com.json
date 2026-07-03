@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://scottsumner.substack.com/p/the-beauty-of-tautologies",
+    "title": "[英] The Beauty of Tautologies",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=TtmPccUTDP8",
+    "title": "[英] Ed Zitron on CNBC: GenAI Doesn't Work, and Big Tech Is Out of Hypergrowth Ideas",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition",
+    "title": "[英] Gun Mistakes in Fiction Writing: Handgun Edition",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
+    "title": "[英] Commodore 64 Basic for PostgreSQL",
+    "date": "2026-07-03"
+  },
+  {
     "link": "https://wordgard.net/",
     "title": "[英] Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
     "date": "2026-07-03"
@@ -52,26 +72,6 @@
   {
     "link": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
     "title": "[英] The Safari MCP server for web developers",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48770575",
-    "title": "[英] undefined",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://huntersoftwareconsulting.com/posts/2026-06-28-company-phase-changes/",
-    "title": "[英] Cowboys, Frontiersmen, Settlers, Townspeople, Cityfolk",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://wasmer.io/",
-    "title": "[英] Wasmer: Fast, secure, lightweight containers based on WebAssembly",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-    "title": "[英] 14× faster embeddings: how we rebuilt the ONNX path in Manticore",
     "date": "2026-07-03"
   }
 ]
