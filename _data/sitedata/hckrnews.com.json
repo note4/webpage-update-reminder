@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+    "title": "[英] My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
+    "title": "[英] America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://interconnected.org/home/2026/07/03/factories",
+    "title": "[英] Factories Are Just Rooms",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://arxiv.org/abs/2602.20415",
+    "title": "[英] Markets are competitive if and only if P = NP",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
+    "title": "[英] Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://taskpeace.com/",
+    "title": "[英] Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/",
+    "title": "[英] Give Smart People the Tools to Do Smart Things",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://github.com/jamesob/local-llm",
+    "title": "[英] Jamesob's guide to running SOTA LLMs locally",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://dannorth.net/blog/best-simple-system-for-now/",
+    "title": "[英] Best Simple System for Now",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://publicznyprofil.github.io/ai_cant_do_your_work/",
+    "title": "[英] It Still Can't Do My Job: Four Years of Moving Goalposts (2022–2026)",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+    "title": "[英] Hunting a 16-year-old SQLite WAL bug with TLA+",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.02512",
+    "title": "[英] Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+    "date": "2026-07-04"
+  },
+  {
     "link": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
     "title": "[英] The Fall and Rise of Screwworm",
-    "date": "2026-07-03"
+    "date": "2026-07-04"
   },
   {
     "link": "https://github.com/cloudcell/om-core",
     "title": "[英] Show HN: OM Core – multidimensional models without spreadsheet cell formulas",
-    "date": "2026-07-03"
+    "date": "2026-07-04"
   },
   {
     "link": "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240",
     "title": "[英] Hackers shoveled snow for company, were rewarded with network admin access",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
-    "title": "[英] Gemini Code Assist will be shut down on July 17",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
-    "title": "[英] Goodebye Forever Probably: Why I’m leaving developer relations",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-    "title": "[英] Please stop the AI confidence theater",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-    "title": "[英] PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
-    "title": "[英] Valve open source the Steam Machine e-ink screen so you can make your own",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
-    "title": "[英] Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
-    "title": "[英] Amazon has enough satellites to launch its Starlink competitor",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902",
-    "title": "[英] AI Data Centers Use More Water Than Most Tech Giants Report",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://scottsumner.substack.com/p/the-beauty-of-tautologies",
-    "title": "[英] The Beauty of Tautologies",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=TtmPccUTDP8",
-    "title": "[英] Ed Zitron on CNBC: GenAI Doesn't Work, and Big Tech Is Out of Hypergrowth Ideas",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition",
-    "title": "[英] Gun Mistakes in Fiction Writing: Handgun Edition",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
-    "title": "[英] Commodore 64 Basic for PostgreSQL",
-    "date": "2026-07-03"
+    "date": "2026-07-04"
   }
 ]
