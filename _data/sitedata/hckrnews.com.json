@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
+    "title": "[英] The Fall and Rise of Screwworm",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://github.com/cloudcell/om-core",
+    "title": "[英] Show HN: OM Core – multidimensional models without spreadsheet cell formulas",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240",
+    "title": "[英] Hackers shoveled snow for company, were rewarded with network admin access",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
+    "title": "[英] Gemini Code Assist will be shut down on July 17",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
+    "title": "[英] Goodebye Forever Probably: Why I’m leaving developer relations",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+    "title": "[英] Please stop the AI confidence theater",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+    "title": "[英] PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+    "title": "[英] Valve open source the Steam Machine e-ink screen so you can make your own",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
+    "title": "[英] Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
+    "title": "[英] Amazon has enough satellites to launch its Starlink competitor",
+    "date": "2026-07-03"
+  },
+  {
+    "link": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902",
+    "title": "[英] AI Data Centers Use More Water Than Most Tech Giants Report",
+    "date": "2026-07-03"
+  },
+  {
     "link": "https://scottsumner.substack.com/p/the-beauty-of-tautologies",
     "title": "[英] The Beauty of Tautologies",
     "date": "2026-07-03"
@@ -17,61 +72,6 @@
   {
     "link": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
     "title": "[英] Commodore 64 Basic for PostgreSQL",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://wordgard.net/",
-    "title": "[英] Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of",
-    "title": "[英] Q&A with Micron's VP and GM of Memory",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://weli.dev/blog/half-baked-product/",
-    "title": "[英] Half-Baked Product",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://js13kgames.com/games/q1k3",
-    "title": "[英] Quake in 13 Kilobytes (2021)",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-    "title": "[英] Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
-    "title": "[英] AI is 'not smart' so what's next in artificial intelligence?",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://iinteractive.com/resources/blog/read-only",
-    "title": "[英] How working with a blind client revealed invisible accessibility gaps",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://medium.com/@jamesgarside_/i-type-holes-in-keyboard-covers-e5664732ef93",
-    "title": "[英] I Type Holes in Keyboard Covers – This One Survived",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48771515",
-    "title": "[英] Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://www.nature.com/articles/s41467-026-74235-1",
-    "title": "[英] Underwater Suit-Wearing Cyborg Insect Capable of Diving and Terra-Aqua Travel",
-    "date": "2026-07-03"
-  },
-  {
-    "link": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-    "title": "[英] The Safari MCP server for web developers",
     "date": "2026-07-03"
   }
 ]
