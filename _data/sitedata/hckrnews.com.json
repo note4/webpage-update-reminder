@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+    "title": "[英] I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://okaneland.com/study/ai-productivity-roi-at-work/",
+    "title": "[英] AI saves about 3% of your hours, and almost none of it reaches the money",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://github.com/kerlenton/mcpsnoop",
+    "title": "[英] Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+    "title": "[英] Costco Is the Anti-Amazon",
+    "date": "2026-07-04"
+  },
+  {
     "link": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
     "title": "[英] International chess federation sanctions Kramnik",
     "date": "2026-07-04"
@@ -16,7 +36,7 @@
   },
   {
     "link": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
-    "title": "[英] Claude, please stop trying to memorize random crap",
+    "title": "[英] Memorizing session transcripts isn't useful",
     "date": "2026-07-04"
   },
   {
@@ -45,33 +65,13 @@
     "date": "2026-07-04"
   },
   {
-    "link": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
-    "title": "[英] Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",
-    "date": "2026-07-04"
-  },
-  {
     "link": "https://taskpeace.com/",
     "title": "[英] Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
     "date": "2026-07-04"
   },
   {
-    "link": "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/",
-    "title": "[英] Give Smart People the Tools to Do Smart Things",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://github.com/jamesob/local-llm",
-    "title": "[英] Jamesob's guide to running SOTA LLMs locally",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://dannorth.net/blog/best-simple-system-for-now/",
-    "title": "[英] Best Simple System for Now",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://publicznyprofil.github.io/ai_cant_do_your_work/",
-    "title": "[英] It Still Can't Do My Job: Four Years of Moving Goalposts (2022–2026)",
+    "link": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
+    "title": "[英] Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",
     "date": "2026-07-04"
   }
 ]
