@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://arxiv.org/abs/2606.26967",
+    "title": "[英] Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://github.com/openai/codex/issues/30364",
+    "title": "[英] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.csmonitor.com/Perspectives/Making-a-difference/2026/0630/dog-school-south-africa-funda-nenja",
+    "title": "[英] At Dog School, children gain a sense of achievement",
+    "date": "2026-07-05"
+  },
+  {
     "link": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
     "title": "[英] Better Models: Worse Tools",
     "date": "2026-07-05"
@@ -57,21 +72,6 @@
   {
     "link": "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/",
     "title": "[英] As downtown Seattle offices empty, city facing years of 'zombie' towers",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-    "title": "[英] EndBASIC 0.14: Are we multimedia yet?",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://kronotop.com/blog/the-join-that-should-be-a-bug/",
-    "title": "[英] The .join() that should be a bug",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-    "title": "[英] Verizon is About to Break our Watches",
     "date": "2026-07-05"
   }
 ]
