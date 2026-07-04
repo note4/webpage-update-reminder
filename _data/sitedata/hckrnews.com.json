@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://parsa.wtf/cast/",
+    "title": "[英] It's not me, it's the compiler",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+    "title": "[英] AI has torched the market for junior programmers",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://github.com/laixintao/iredis",
+    "title": "[英] Iredis",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/",
+    "title": "[英] Wicklow hotel cancels 'secretive' Peter Thiel group conference",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://ziglang.org/devlog/2026/#2026-06-30",
+    "title": "[英] Zig: All Package Management Functionality Moved from Compiler to Build System",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+    "title": "[英] Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://adamraudonis.github.io/splats4D/",
+    "title": "[英] Fable created novel 4D splat format",
+    "date": "2026-07-05"
+  },
+  {
     "link": "https://iahmed.me/post/drone-physics/",
     "title": "[英] Drone Physics",
     "date": "2026-07-05"
@@ -37,41 +72,6 @@
   {
     "link": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488",
     "title": "[英] Sick leave: Germany rising but not the worst in Europe",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.eso.org/public/news/eso2607/",
-    "title": "[英] No more than 100 000 faint satellites should orbit Earth",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
-    "title": "[英] BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://art.joonas.wtf/",
-    "title": "[英] Plein Air",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
-    "title": "[英] Meta data center water discharges suspended for contaminating water supply",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-    "title": "[英] Google Books (or similar) all book scans – $200k bounty (2025)",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
-    "title": "[英] Neural Render Proxies for Interactive and Differentiable Lighting",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
-    "title": "[英] Finland's last analogue landline phones go silent after 150 years",
     "date": "2026-07-05"
   }
 ]
