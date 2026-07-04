@@ -1,12 +1,62 @@
 [
   {
+    "link": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+    "title": "[英] Synthesis is harder than analysis",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://github.com/rochus-keller/BUSY/",
+    "title": "[英] Show HN: A statically typed, cross-platform, easily bootstrappable build system",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://app.cuebench.dev",
+    "title": "[英] CueBench for Developers is live: score how well you drive coding agents",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms",
+    "title": "[英] XMM-Newton helps revise distance to outer spiral arms",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://twitter.com/i/status/2071469740141224272",
+    "title": "[英] You can get Unicode working on DOS",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://www.defenseone.com/ideas/2017/06/i-could-kill-you-consumer-drone/139012/",
+    "title": "[英] I Could Kill You with a Consumer Drone",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://mrbruh.com/msicenter/",
+    "title": "[英] MSI Center – How to gain SYSTEM privileges in seconds",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/",
+    "title": "[英] Scientists discover guidance system for migratory songbirds",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://phenomenalworld.org/analysis/unstitching-america/",
+    "title": "[英] What does privatization of the US Postal Service mean?",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+    "title": "[英] Soatok's Informal Guide to Threat Models",
+    "date": "2026-07-04"
+  },
+  {
     "link": "https://mighil.com/notes-from-building-tinkerfont",
     "title": "[英] Notes from Building Tinkerfont",
     "date": "2026-07-04"
   },
   {
     "link": "https://katamari64.se/posts/2026/odin-wikipedia/",
-    "title": "[英] Odin, Wikipedia and Engagement Farming",
+    "title": "[英] Odin, Wikipedia and engagement farming",
     "date": "2026-07-04"
   },
   {
@@ -22,56 +72,6 @@
   {
     "link": "https://encore.dev/blog/redis-runtime",
     "title": "[英] We put a Redis server inside our runtime",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://gitfut.com",
-    "title": "[英] GitFut – Your GitHub stats turned into a World-Cup-style player card",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-    "title": "[英] The circuit that lets your brain think and see",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-    "title": "[英] Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-    "title": "[英] Giant trees have no trouble pumping water to top branches",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://www.wafer.ai/blog/glm52-amd",
-    "title": "[英] GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
-    "title": "[英] Dispersion loss counteracts embedding condensation in small language models",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://mistral.ai/news/leanstral-1-5/",
-    "title": "[英] Leanstral 1.5: Proof Abundance for All",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://lucasaguiar.xyz/en/posts/migracao-proxmox-8-9-2026/",
-    "title": "[英] How to migrate from Proxmox VE 8 to 9: step-by-step guide (2026)",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://rootme.nebusec.ai/",
-    "title": "[英] Elevating Privileges from Firefox to Android Root",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-    "title": "[英] Amsterdam invented the fire department",
     "date": "2026-07-04"
   }
 ]
