@@ -1,7 +1,42 @@
 [
   {
-    "link": "https://www.aljazeera.com/features/2026/6/12/is-israels-buffer-zone-inside-lebanon-an-attempt-to-grab-gas-reserves",
-    "title": "[英] Is Israel's 'buffer zone' inside Lebanon an attempt to grab gas reserves?",
+    "link": "https://javoriuski.com/post/youtube",
+    "title": "[英] Leaking YouTube Creators Private Videos",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://vimeo.com/49718712",
+    "title": "[英] Rob Pike – 'Concurrency Is Not Parallelism' [video]",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://paulkrugman.substack.com/p/the-end-of-north-america-157",
+    "title": "[英] The End of North America",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
+    "title": "[英] Designing DB partitions you don't have to babysit",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://github.com/maximqaxd/wince-dc",
+    "title": "[英] Windows CE Dreamcast Community Edition (wince-dc)",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://mightyburger.net/projects/curveball/",
+    "title": "[英] Curveball",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/02/us/california-food-labels-sell-by.html",
+    "title": "[英] California Bans 'Sell by' Labels, Hoping to Cut Food Waste",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48785858",
+    "title": "[英] undefined",
     "date": "2026-07-05"
   },
   {
@@ -15,8 +50,8 @@
     "date": "2026-07-05"
   },
   {
-    "link": "https://infosecwriteups.com/i-found-north-korean-dprk-malware-hiding-in-my-tailwind-config-js-45af2283742c",
-    "title": "[英] I found a malware hiding in my TailwindCSS config file",
+    "link": "https://news.ycombinator.com/item?id=48785771",
+    "title": "[英] undefined",
     "date": "2026-07-05"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/",
     "title": "[英] How working memory could give rise to consciousness",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
-    "title": "[英] Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://github.com/anthropics/claude-code/issues/74066",
-    "title": "[英] Potential session/cache leakage between workspace instances or consumer accounts",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://peteris.rocks/blog/htop/",
-    "title": "[英] Explanation of everything you can see in htop/top on Linux",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48785026",
-    "title": "[英] undefined",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Night_Witches",
-    "title": "[英] Night Witches – all-female Soviet aviator regiment WW2",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
-    "title": "[英] The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/",
-    "title": "[英] Ship traces journey Spanish Armada sailors made in 1588",
     "date": "2026-07-05"
   }
 ]
