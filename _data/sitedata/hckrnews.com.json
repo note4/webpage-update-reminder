@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://iahmed.me/post/drone-physics/",
+    "title": "[英] Drone Physics",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.theregister.com/on-prem/2026/07/03/eu-appears-to-find-datacenter-emissions-easier-to-offset-than-lobbyists/5265814",
+    "title": "[英] EU appears to find datacenter emissions easier to offset than lobbyists",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.mattgreer.dev/blog/gba-dev-logging/",
+    "title": "[英] Game Boy Advance Dev: Logging to the Console",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/",
+    "title": "[英] As downtown Seattle offices empty, city facing years of 'zombie' towers",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+    "title": "[英] EndBASIC 0.14: Are we multimedia yet?",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://kronotop.com/blog/the-join-that-should-be-a-bug/",
+    "title": "[英] The .join() that should be a bug",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+    "title": "[英] Verizon is About to Break our Watches",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488",
+    "title": "[英] Sick leave: Germany rising but not the worst in Europe",
+    "date": "2026-07-05"
+  },
+  {
     "link": "https://www.eso.org/public/news/eso2607/",
     "title": "[英] No more than 100 000 faint satellites should orbit Earth",
     "date": "2026-07-05"
@@ -32,46 +72,6 @@
   {
     "link": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
     "title": "[英] Finland's last analogue landline phones go silent after 150 years",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://javoriuski.com/post/youtube",
-    "title": "[英] Leaking YouTube creators' private videos",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://vimeo.com/49718712",
-    "title": "[英] Rob Pike – 'Concurrency Is Not Parallelism' [video] (2012)",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://paulkrugman.substack.com/p/the-end-of-north-america-157",
-    "title": "[英] The End of North America",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
-    "title": "[英] Designing DB partitions you don't have to babysit",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://github.com/maximqaxd/wince-dc",
-    "title": "[英] Windows CE Dreamcast Community Edition (wince-dc)",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://mightyburger.net/projects/curveball/",
-    "title": "[英] Curveball",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/02/us/california-food-labels-sell-by.html",
-    "title": "[英] California bans 'sell by' labels, hoping to cut food waste",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.aljazeera.com/features/2026/6/12/is-israels-buffer-zone-inside-lebanon-an-attempt-to-grab-gas-reserves",
-    "title": "[英] Is Israel's 'buffer zone' inside Lebanon an attempt to grab gas reserves?",
     "date": "2026-07-05"
   }
 ]
