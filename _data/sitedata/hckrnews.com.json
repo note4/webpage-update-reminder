@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.catf.us/resource/unearthing-reality-zombie-energy-systems-africas-energy-transition/",
+    "title": "[英] Unearthing the Reality of \"Zombie Energy Systems\" in Africa's Energy Transition",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+    "title": "[英] Astrophysicists Puzzle over Webb's New Universe",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://rookandpossum.com/papers/scanline_sweeper_preprint.pdf",
+    "title": "[英] The Scanline Sweeper: A Glyph Rendering Algorithm [pdf]",
+    "date": "2026-07-04"
+  },
+  {
     "link": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
     "title": "[英] Postgres data stored in Parquet on S3: LTAP architecture explained",
     "date": "2026-07-04"
@@ -57,21 +72,6 @@
   {
     "link": "https://davidslv.uk/2026/06/30/reading-binary-in-ruby.html",
     "title": "[英] Reverse-engineering Codemasters' BIGF archive format in Ruby",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
-    "title": "[英] Synthesis is harder than analysis",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://github.com/rochus-keller/BUSY/",
-    "title": "[英] Show HN: A statically typed, cross-platform, easily bootstrappable build system",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://app.cuebench.dev",
-    "title": "[英] CueBench for Developers is live: score how well you drive coding agents",
     "date": "2026-07-04"
   }
 ]
