@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+    "title": "[英] Postgres data stored in Parquet on S3: LTAP architecture explained",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://theguptalog.blogspot.com/2026/07/godot-bans-ai-generated-code.html",
+    "title": "[英] Godot bans \"vibe-coded\" code contributions",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://github.com/adam-s/car-diagnosis",
+    "title": "[英] Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
+    "date": "2026-07-04"
+  },
+  {
     "link": "https://www.hyperstitionai.com/unslop-results",
     "title": "[英] 2026 Unslop AI-Written Fiction Contest Results",
     "date": "2026-07-04"
@@ -57,21 +72,6 @@
   {
     "link": "https://app.cuebench.dev",
     "title": "[英] CueBench for Developers is live: score how well you drive coding agents",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms",
-    "title": "[英] XMM-Newton helps revise distance to outer spiral arms",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://twitter.com/i/status/2071469740141224272",
-    "title": "[英] You can get Unicode working on DOS",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://www.defenseone.com/ideas/2017/06/i-could-kill-you-consumer-drone/139012/",
-    "title": "[英] I Could Kill You with a Consumer Drone",
     "date": "2026-07-04"
   }
 ]
