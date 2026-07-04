@@ -1,12 +1,37 @@
 [
   {
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence",
+    "title": "[英] 'All men are created equal': America has lost its values. It's time to go back",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
+    "title": "[英] A martian rock has lots of carbon on it, and it's not clear why",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/",
+    "title": "[英] How working memory could give rise to consciousness",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
+    "title": "[英] Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
+    "date": "2026-07-04"
+  },
+  {
+    "link": "https://github.com/anthropics/claude-code/issues/74066",
+    "title": "[英] Potential session/cache leakage between workspace instances or consumer accounts",
+    "date": "2026-07-04"
+  },
+  {
     "link": "https://peteris.rocks/blog/htop/",
     "title": "[英] Explanation of everything you can see in htop/top on Linux",
     "date": "2026-07-04"
   },
   {
-    "link": "https://github.com/nmxmxh/foundation",
-    "title": "[英] Show HN: Foundation, a different approach to software and AI",
+    "link": "https://news.ycombinator.com/item?id=48785026",
+    "title": "[英] undefined",
     "date": "2026-07-04"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://theguptalog.blogspot.com/2026/07/godot-bans-ai-generated-code.html",
     "title": "[英] Godot bans \"vibe-coded\" code contributions",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://github.com/adam-s/car-diagnosis",
-    "title": "[英] Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://www.hyperstitionai.com/unslop-results",
-    "title": "[英] 2026 Unslop AI-Written Fiction Contest Results",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-    "title": "[英] The bottleneck might be the air in the room",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://oztalking.com/en/issues/bloomberg-terminal-lock-in",
-    "title": "[英] Bloomberg Terminal Is Ugly and Clunky–Everyone Still Uses It",
-    "date": "2026-07-04"
-  },
-  {
-    "link": "https://news.ku.edu/news/article/study-reveals-what-people-really-see-when-they-read-lips",
-    "title": "[英] Study reveals what people see when they read lips",
     "date": "2026-07-04"
   }
 ]
