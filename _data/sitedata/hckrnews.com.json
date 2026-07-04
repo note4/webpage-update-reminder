@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+    "title": "[英] Better Models: Worse Tools",
+    "date": "2026-07-05"
+  },
+  {
     "link": "https://parsa.wtf/cast/",
     "title": "[英] It's not me, it's the compiler",
     "date": "2026-07-05"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
     "title": "[英] Verizon is About to Break our Watches",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488",
-    "title": "[英] Sick leave: Germany rising but not the worst in Europe",
     "date": "2026-07-05"
   }
 ]
