@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://prediohq.com/",
+    "title": "[英] Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://organicmaps.app/",
+    "title": "[英] Organic Maps",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
+    "title": "[英] Airplane Boneyards List and Map",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel",
+    "title": "[英] Medieval-style fortifications are back in the Sahel",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://phosh.mobi/releases/rel-0.56.0/",
+    "title": "[英] Phosh 0.56.0",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://demo.pcbjam.com/",
+    "title": "[英] Show HN: KiCad in the Browser",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://dthain.github.io/books/compiler/",
+    "title": "[英] Introduction to Compilers and Language Design",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
+    "title": "[英] Cannabis Users Face Substantially Higher Risk of Heart Attack (2025)",
+    "date": "2026-07-05"
+  },
+  {
     "link": "https://tommy.reddad.net/post/2025-12-04-coilsnake/",
     "title": "[英] A gender-swap EarthBound for my daughter (2025)",
     "date": "2026-07-05"
@@ -32,46 +72,6 @@
   {
     "link": "https://www.formaly.io/blog/knowledge-should-not-be-gated",
     "title": "[英] Knowledge Should Not Be Gated",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.hica.dev/docs/functional-programming/",
-    "title": "[英] Functional Programming in hica",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c8e2j0j87reo",
-    "title": "[英] Europe's new climate in seven charts",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://github.com/Trystan-SA/claude-design-system-prompt",
-    "title": "[英] Claude Design System Prompt",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://forwardscattering.org/page/Intuitive%20Quantum%20Electrodynamics",
-    "title": "[英] Intuitive Quantum Electrodynamics",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cz758x04g83o",
-    "title": "[英] Scientist who cleaned space toilet on work now leading Mars exploration",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://mihai.page/pi-square-is-10/",
-    "title": "[英] Pi square is nearly 10",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://gracefulliberty.com/articles/return-to-zig/",
-    "title": "[英] Returning to Zig after losing trust in Rust's governance",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://bambu3design.com/13-common-3d-benchy-problems-causes-fixes/",
-    "title": "[英] Common 3D Benchy Problems, Causes and Fixes",
     "date": "2026-07-05"
   }
 ]
