@@ -1,7 +1,32 @@
 [
   {
+    "link": "https://tommy.reddad.net/post/2025-12-04-coilsnake/",
+    "title": "[英] A gender-swap EarthBound for my daughter (2025)",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://categorica.io/blog/2026.06.29_trust_your_compiler/",
+    "title": "[英] Trust your compiler: Modern C++",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://yusufaytas.com/the-engineer-in-the-half-space",
+    "title": "[英] The Engineer in the Half-Space",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48793726",
+    "title": "[英] undefined",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://hamiltonianresearch.xyz/blog/hr-diffuse-1.html",
+    "title": "[英] Show HN: I trained a language model that thinks the capital of Japan is Paris",
+    "date": "2026-07-05"
+  },
+  {
     "link": "https://olliewilliams.xyz/blog/dark-mode/",
-    "title": "[英] Dark Mode with Web Standards",
+    "title": "[英] Dark mode with web standards",
     "date": "2026-07-05"
   },
   {
@@ -40,38 +65,13 @@
     "date": "2026-07-05"
   },
   {
-    "link": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
-    "title": "[英] Ford rehires human engineers after AI fails to match quality checks",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://bambu3design.com/13-common-3d-benchy-problems-causes-fixes/",
-    "title": "[英] Common 3D Benchy Problems, Causes and Fixes",
-    "date": "2026-07-05"
-  },
-  {
     "link": "https://gracefulliberty.com/articles/return-to-zig/",
     "title": "[英] Returning to Zig after losing trust in Rust's governance",
     "date": "2026-07-05"
   },
   {
-    "link": "https://moai.studio/blog/posts/economy-is-k-shaped.html",
-    "title": "[英] The Economy Is K-Shaped",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.tricivenola.com/about-the-digital-art/",
-    "title": "[英] About the Digital Art",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://craigmod.com/essays/fast_software/",
-    "title": "[英] Fast Software, the Best Software",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
-    "title": "[英] Programmers need to start meditating",
+    "link": "https://bambu3design.com/13-common-3d-benchy-problems-causes-fixes/",
+    "title": "[英] Common 3D Benchy Problems, Causes and Fixes",
     "date": "2026-07-05"
   }
 ]
