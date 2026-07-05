@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://olliewilliams.xyz/blog/dark-mode/",
+    "title": "[英] Dark Mode with Web Standards",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.formaly.io/blog/knowledge-should-not-be-gated",
+    "title": "[英] Knowledge Should Not Be Gated",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.hica.dev/docs/functional-programming/",
+    "title": "[英] Functional Programming in hica",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c8e2j0j87reo",
+    "title": "[英] Europe's new climate in seven charts",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://github.com/Trystan-SA/claude-design-system-prompt",
+    "title": "[英] Claude Design System Prompt",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://forwardscattering.org/page/Intuitive%20Quantum%20Electrodynamics",
+    "title": "[英] Intuitive Quantum Electrodynamics",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cz758x04g83o",
+    "title": "[英] Scientist who cleaned space toilet on work now leading Mars exploration",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://mihai.page/pi-square-is-10/",
+    "title": "[英] Pi square is nearly 10",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
+    "title": "[英] Ford rehires human engineers after AI fails to match quality checks",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://bambu3design.com/13-common-3d-benchy-problems-causes-fixes/",
+    "title": "[英] Common 3D Benchy Problems, Causes and Fixes",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://gracefulliberty.com/articles/return-to-zig/",
+    "title": "[英] Returning to Zig after losing trust in Rust's governance",
+    "date": "2026-07-05"
+  },
+  {
+    "link": "https://moai.studio/blog/posts/economy-is-k-shaped.html",
+    "title": "[英] The Economy Is K-Shaped",
+    "date": "2026-07-05"
+  },
+  {
     "link": "https://www.tricivenola.com/about-the-digital-art/",
     "title": "[英] About the Digital Art",
     "date": "2026-07-05"
@@ -11,67 +71,7 @@
   },
   {
     "link": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
-    "title": "[英] Programmers need to start meditating now",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/",
-    "title": "[英] Reducing Assumptions, Exploding Your Code",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.devever.net/~hl/webcrypto",
-    "title": "[英] Web-based cryptography is always snake oil",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://0dd.company/galleries/triumph/1.html",
-    "title": "[英] Apocketlypse",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://100r.ca/site/solar_cooking_experiment.html",
-    "title": "[英] A Summer of Solar Cooking (2023)",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
-    "title": "[英] Is The Economist Always Wrong?",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://blog.doubleword.ai/speculating-on-the-margin",
-    "title": "[英] Width vs. Depth: Speculating on the Margin",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-    "title": "[英] sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://pandoc.org/lua-filters.html",
-    "title": "[英] Pandoc Lua Filters",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13",
-    "title": "[英] EV Batteries Are Defying Expectations After Miles",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://computer.rip/2026-07-04-microwave-and-power.html",
-    "title": "[英] Megawatts by Microwave",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://github.com/lifthrasiir/libbeef",
-    "title": "[英] Beeg float library, a Rust port of Fabrice Bellard's libbf",
-    "date": "2026-07-05"
-  },
-  {
-    "link": "https://prepok.com/chemistry/particle-box/",
-    "title": "[英] The Particle Box – Kinetic Molecular Theory Simulator",
+    "title": "[英] Programmers need to start meditating",
     "date": "2026-07-05"
   }
 ]
