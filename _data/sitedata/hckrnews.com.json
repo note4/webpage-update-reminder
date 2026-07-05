@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.vulcans-forge.com/blog/news/cursed-gemstones-the-koh-i-noor-diamond",
+    "title": "[英] Cursed Gemstones – The Koh-I-Noor Diamond",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://www.starringthecomputer.com/computers.html",
+    "title": "[英] The Computers Used in Movies",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://arxiv.org/abs/2602.09239",
+    "title": "[英] \"These cameras are just like the Eye of Sauron\"",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement",
+    "title": "[英] Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "title": "[英] Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://popcar.bearblog.dev/its-about-ownership/",
+    "title": "[英] It's not about physical vs. digital games, it's about ownership",
+    "date": "2026-07-06"
+  },
+  {
     "link": "https://danielstanica.com/posts/Great-Blogging-Collapse",
     "title": "[英] The Great Blogging Collapse: What Happened to 100 Successful Blogs?",
     "date": "2026-07-06"
@@ -42,36 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48794281",
     "title": "[英] undefined",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
-    "title": "[英] Run Windows 2000 on a DEC Alpha with a new es40 fork",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-    "title": "[英] EU Council forces Chat Control via fast-track",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://prediohq.com/",
-    "title": "[英] Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://organicmaps.app/",
-    "title": "[英] Organic Maps",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
-    "title": "[英] Airplane Boneyards List and Map",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel",
-    "title": "[英] Medieval-style fortifications are back in the Sahel",
     "date": "2026-07-06"
   }
 ]
