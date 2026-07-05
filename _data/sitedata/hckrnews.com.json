@@ -1,17 +1,52 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Johnson_thermoelectric_energy_converter",
+    "title": "[英] Johnson Thermoelectric Energy Converter",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://github.com/electronicsleep/rust-vim",
+    "title": "[英] Had an idea for a Rust editor with simple Vim mode for learning",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://www.lrb.co.uk/the-paper/v48/n12/muhammad-shehada/i-would-never-release-him",
+    "title": "[英] The first programmer I know who was murdered in a targeted strike was Haitham",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+    "title": "[英] Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48798409",
+    "title": "[英] undefined",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://github.com/514-labs/dnsglobe",
+    "title": "[英] DNSGlobe – Rust TUI to watch DNS propagate around the world",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://zenodo.org/records/3920591",
+    "title": "[英] Speech and Noise Corpora for Pitch Estimation of Human Speech",
+    "date": "2026-07-06"
+  },
+  {
     "link": "https://segflow.github.io/post/zero-copy-sendfile-splice/",
     "title": "[英] Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
     "date": "2026-07-06"
   },
   {
-    "link": "https://homegames.io",
-    "title": "[英] Show HN: Homegames. An open-source game platform I've been making for 8 years",
+    "link": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
+    "title": "[英] CoCom regulations and GPS receivers for balloons and cubesats",
     "date": "2026-07-06"
   },
   {
-    "link": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
-    "title": "[英] CoCom regulations and GPS receivers for balloons and cubesats",
+    "link": "https://homegames.io",
+    "title": "[英] Show HN: Homegames. An open-source game platform I've been making for 8 years",
     "date": "2026-07-06"
   },
   {
@@ -35,43 +70,8 @@
     "date": "2026-07-06"
   },
   {
-    "link": "https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier",
-    "title": "[英] Cursed circuits #5: capacitance multiplier",
-    "date": "2026-07-06"
-  },
-  {
     "link": "https://www.lrb.co.uk/the-paper/v47/n01/adam-tooze/trouble-transitioning",
     "title": "[英] Trouble Transitioning (2025)",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://www.arp242.net/deps-vcs.html",
-    "title": "[英] Dependencies should be fetched directly from VCS",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://search.cerast-intelligence.com/",
-    "title": "[英] Show HN: Osint tool that finds exposed files on domains",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://dispatch-media.com/the-best-pint-in-england/",
-    "title": "[英] Pint in England",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://www.opentools.studio/",
-    "title": "[英] Reparaible and open source paper printer",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://madattheinternet.substack.com/p/how-to-dox-anyone",
-    "title": "[英] How to Dox Anyone",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://dhilst.github.io/algae/game/index.html",
-    "title": "[英] Dungeon Proof Crawler: learn how to write proofs with RPG",
     "date": "2026-07-06"
   }
 ]
