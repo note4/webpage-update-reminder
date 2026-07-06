@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
+    "title": "[英] Introduction to Genomics for Engineers",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=4nzzpUKhj1M",
+    "title": "[英] Behind the scenes with the Midjourney scanner [video]",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://kyrall.com/",
+    "title": "[英] Generate parametric, manufacturable 3D models in seconds",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+    "title": "[英] When AI Costs More Than the Engineer",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://www.modelmap.tech/",
+    "title": "[英] Show HN: Visualize Model Spikiness in 3D",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://shankhan3.gumroad.com/l/dnwmtp",
+    "title": "[英] Show HN: I wrote a Rust book ending with a Redis clone",
+    "date": "2026-07-06"
+  },
+  {
     "link": "https://freshsources.com/code-capsules/test-part2/",
     "title": "[英] Modernizing a 25-year-old minimal C++ unit testing framework (Part 2)",
     "date": "2026-07-06"
@@ -30,8 +60,8 @@
     "date": "2026-07-06"
   },
   {
-    "link": "https://www.wsj.com/sports/soccer/white-house-fifa-balogun-red-card-world-cup-46276fc8",
-    "title": "[英] The White House Campaign to Overturn a World Cup Red Card",
+    "link": "https://news.ycombinator.com/item?id=48800112",
+    "title": "[英] undefined",
     "date": "2026-07-06"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://sneakerweb.org/",
     "title": "[英] The Sneakerweb",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://twitter.com/thsottiaux/status/2073933490513752151",
-    "title": "[英] GPT-5.6 Sol Ultra will be in Codex",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48799677",
-    "title": "[英] undefined",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://amenzwa.github.io/stem/PL/FortranModernisation/",
-    "title": "[英] A Forlorn Hope of Fortran Modernisation",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://fortune.com/2026/07/02/egg-price-fixing-crisis-cover-cash-and-eggs/",
-    "title": "[英] Egg companies made $1.22B in profit off $6 carton",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://www.stephendiehl.com/posts/prism/",
-    "title": "[英] Prism: An Impure Functional Language With Typed Effects",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://fly.io/blog/building-agents-that-dont-break-themselves/",
-    "title": "[英] Building Agents That Don't Break Themselves",
     "date": "2026-07-06"
   }
 ]
