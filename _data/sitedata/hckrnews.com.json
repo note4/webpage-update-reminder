@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
+    "title": "[英] Acronym Fatigue Series Introduction: why I'm wary of acronyms",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://github.com/polyml/polyml",
+    "title": "[英] Poly/ML – A Standard ML Implementation",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.02112",
+    "title": "[英] A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://github.com/MaximeRivest/Riddle",
+    "title": "[英] Fable turned remarkable into Tom Riddle's diary from Harry Potter",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://www.nativesoul.dev/",
+    "title": "[英] Claude and Codex and Grok: my current workflow and its friction",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://www.vybe.build/blog/learn-what-not-to-tokenize",
+    "title": "[英] Not everything should cost a token: the case for deterministic AI",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://claude.ai/public/artifacts/2c647671-3f94-4d22-b3c1-f2b5a0e17b6e",
+    "title": "[英] Vessel",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://www.openssh.org/txt/release-10.4",
+    "title": "[英] OpenSSH 10.4/10.4p1 Released",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://ternlight-demo.vercel.app/",
+    "title": "[英] Ternlight – 7 MB embedding model that runs in browser (WASM)",
+    "date": "2026-07-07"
+  },
+  {
     "link": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
     "title": "[英] Evaluation order and nontermination in query languages",
     "date": "2026-07-07"
@@ -27,51 +72,6 @@
   {
     "link": "https://rubbishtalk.com/economy/doge-shrank-the-payroll-not-the-deficit/",
     "title": "[英] DOGE Shrank the Payroll, Not the Deficit",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://www.taiganet.com/",
-    "title": "[英] Taiganet.com, Home of the WS4000 Simulator",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
-    "title": "[英] AI: The ROI Runway Could Be Long Outside the Tech Sector",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://arxiv.org/abs/2606.06608",
-    "title": "[英] Titan's Resources and Their Utilization",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "title": "[英] GLM 5.2 and the coming AI margin collapse",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-    "title": "[英] Pruning RAG context down to what the answer actually needs",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://cacm.acm.org/federal-funding-of-academic-research/the-llvm-compiler-infrastructure/",
-    "title": "[英] The LLVM Compiler Infrastructure",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://stevekrouse.com/learn-to-code",
-    "title": "[英] Learning to code is still worthwhile",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Rotman_lens",
-    "title": "[英] Rotman Lens",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://github.com/can1357/pon",
-    "title": "[英] Python 3.14 compiled to metal – no interpreter",
     "date": "2026-07-07"
   }
 ]
