@@ -1,17 +1,62 @@
 [
   {
+    "link": "https://github.com/can1357/pon",
+    "title": "[英] Python 3.14 compiled to metal – no interpreter",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://reprog.wordpress.com/2026/07/05/what-does-jeff-bezos-think-is-going-to-happen/",
+    "title": "[英] What does Jeff Bezos think is going to happen?",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
+    "title": "[英] Price per 1M tokens is meaningless",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://www.comaps.app/",
+    "title": "[英] CoMaps – FOSS Offline Maps",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene",
+    "title": "[英] Using precision editing to study human embryo development shows master gene",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
+    "title": "[英] Linux on the Atari Jaguar. No, really.",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/",
+    "title": "[英] Orasort: 5x faster column-sorting with an expired patent from Oracle",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://www.anthropic.com/research/global-workspace",
+    "title": "[英] A global workspace in language models",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://github.com/morganstanley/hobbes",
+    "title": "[英] Hobbes – A Language and Embedded JIT Compiler",
+    "date": "2026-07-07"
+  },
+  {
     "link": "https://conceptual-spaces.vercel.app",
     "title": "[英] Fable Built a 3D Model of Aristotle's Cognitive Architecture",
     "date": "2026-07-07"
   },
   {
-    "link": "https://github.com/V4bel/Januscape",
-    "title": "[英] Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+    "link": "https://peteryoung.me/the-terrorists-guide-to-retiring-young/",
+    "title": "[英] Schizo founder story (terrorist to tech exit)",
     "date": "2026-07-07"
   },
   {
-    "link": "https://peteryoung.me/the-terrorists-guide-to-retiring-young/",
-    "title": "[英] Schizo founder story (terrorist to tech exit)",
+    "link": "https://github.com/V4bel/Januscape",
+    "title": "[英] Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
     "date": "2026-07-07"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
     "title": "[英] Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://samsm.ch/small-keyboards/",
-    "title": "[英] I Like Small Keyboards",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://github.com/adriancable/eternal",
-    "title": "[英] Eternal Software Initiative Based on Subleq One-Instruction-Set Computer",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html",
-    "title": "[英] The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://github.com/karola3vax/CS2FOW",
-    "title": "[英] CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://github.com/iOfficeAI/OfficeCLI",
-    "title": "[英] OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://www.esquire.com/preview/food-drink/restaurants/a71774153/tom-colicchio-craft-closing/",
-    "title": "[英] Tom Colicchio's Final Service",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
-    "title": "[英] The AI Superforecasters Are Here",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.01504",
-    "title": "[英] Kani: A Model Checker for Rust",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-    "title": "[英] Show HN: Pulpie – Models for Cleaning the Web",
     "date": "2026-07-07"
   }
 ]
