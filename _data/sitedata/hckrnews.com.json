@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://cacm.acm.org/federal-funding-of-academic-research/the-llvm-compiler-infrastructure/",
+    "title": "[英] The LLVM Compiler Infrastructure",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://stevekrouse.com/learn-to-code",
+    "title": "[英] Learning to code is still worthwhile",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Rotman_lens",
+    "title": "[英] Rotman Lens",
+    "date": "2026-07-07"
+  },
+  {
     "link": "https://github.com/can1357/pon",
     "title": "[英] Python 3.14 compiled to metal – no interpreter",
     "date": "2026-07-07"
@@ -26,7 +41,7 @@
   },
   {
     "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
-    "title": "[英] Linux on the Atari Jaguar. No, really.",
+    "title": "[英] Linux on the Atari Jaguar",
     "date": "2026-07-07"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://github.com/V4bel/Januscape",
     "title": "[英] Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://openwrt.org/toh/openwrt/one",
-    "title": "[英] OpenWrt One – Open Hardware Router",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
-    "title": "[英] Pros and Cons of Solo Development",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
-    "title": "[英] Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
     "date": "2026-07-07"
   }
 ]
