@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://fortune.com/2026/07/02/egg-price-fixing-crisis-cover-cash-and-eggs/",
+    "title": "[英] Egg companies made $1.22B in profit off $6 carton",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://www.stephendiehl.com/posts/prism/",
+    "title": "[英] Prism: An Impure Functional Language With Typed Effects",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://fly.io/blog/building-agents-that-dont-break-themselves/",
+    "title": "[英] Building Agents That Don't Break Themselves",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://arxiv.org/abs/2605.20049",
+    "title": "[英] Does Code Cleanliness Affect Coding Agents?",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+    "title": "[英] The Private Capture of Public Genius",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://brennan.day/compulsion-the-writers-who-wrote-the-most-in-history/",
+    "title": "[英] The Writers Who Wrote the Most in History",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://www.inkl.com/news/strange-balls-found-on-queensland-beaches-could-be-toxic-space-debris-experts-warn",
+    "title": "[英] Strange Balls found on Queensland beaches could be toxic 'space debris': experts",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://bambamramfan.github.io/ai-compass/",
+    "title": "[英] The AI Compass Quiz",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://gwern.net/lean-scaling",
+    "title": "[英] Lean Software Scaling Laws",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+    "title": "[英] Has_not_been_viewed_much",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+    "title": "[英] Zuckerberg says AI agent development going slower than expected",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+    "title": "[英] Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+    "date": "2026-07-06"
+  },
+  {
+    "link": "https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html",
+    "title": "[英] Zuckerberg says AI agent tech progressing slower than expected",
+    "date": "2026-07-06"
+  },
+  {
     "link": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
     "title": "[英] Connections in Math: the two kinds of random",
     "date": "2026-07-06"
@@ -7,71 +72,6 @@
   {
     "link": "https://www.scattered-thoughts.net/writing/artificial-adventures/",
     "title": "[英] Artificial Adventures",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48798385",
-    "title": "[英] Tell HN: don't trust Bigco AI agents with AI research IP",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://nicole.express/2026/phase-altering-by-line.html",
-    "title": "[英] Composite Video on the NES: Why's it so wobbly?",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Johnson_thermoelectric_energy_converter",
-    "title": "[英] Johnson Thermoelectric Energy Converter",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://github.com/electronicsleep/rust-vim",
-    "title": "[英] Had an idea for a Rust editor with simple Vim mode for learning",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48796556",
-    "title": "[英] undefined",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
-    "title": "[英] Delta flight hit by firework while landing at Midway Airport on Fourth of July",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48798409",
-    "title": "[英] undefined",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://github.com/514-labs/dnsglobe",
-    "title": "[英] DNSGlobe – Rust TUI to watch DNS propagate around the world",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://zenodo.org/records/3920591",
-    "title": "[英] Speech and Noise Corpora for Pitch Estimation of Human Speech",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://segflow.github.io/post/zero-copy-sendfile-splice/",
-    "title": "[英] Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
-    "title": "[英] CoCom regulations and GPS receivers for balloons and cubesats",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://homegames.io",
-    "title": "[英] Show HN: Homegames. An open-source game platform I've been making for 8 years",
-    "date": "2026-07-06"
-  },
-  {
-    "link": "https://www.ycombinator.singles/",
-    "title": "[英] Y Combinator.singles",
     "date": "2026-07-06"
   }
 ]
