@@ -1,7 +1,42 @@
 [
   {
+    "link": "https://lumide.dev",
+    "title": "[英] IDE with agentic support built using Flutter",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+    "title": "[英] Why migrants come to Germany for work and then leave again",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://www.theatlantic.com/photo/2018/05/historic-photos-of-nasas-cavernous-wind-tunnels/560660/",
+    "title": "[英] Historic Photos of NASA's Cavernous Wind Tunnels",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://whimfiles.com",
+    "title": "[英] Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/",
+    "title": "[英] Dropping in on Gottfried Leibniz (2013)",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+    "title": "[英] The Art of Computer Programming by Donald E. Knuth",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+    "title": "[英] Microsoft Can Track Users via a Windows Device ID",
+    "date": "2026-07-07"
+  },
+  {
     "link": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-    "title": "[英] YC CEO says he ships 37K LoC/day AI code. A developer looked under the hood",
+    "title": "[英] YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
     "date": "2026-07-07"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://permacomputer.solarpunk.au/?p=204",
     "title": "[英] Tiny-C Reference Manual Excerpt",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/",
-    "title": "[英] Giving a domain a hill to climb: benchmarking as data activation",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://www.researchgate.net/publication/281149909_Artificial_and_Fake_Eggs_Dance_of_Death",
-    "title": "[英] Artificial and Fake Eggs: Dance of Death",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://craigmod.com/roden/115/",
-    "title": "[英] Craig Mod built his own Good Reads",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt",
-    "title": "[英] LLMs Are Not a Default Execution Engine",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48812450",
-    "title": "[英] undefined",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-    "title": "[英] Small AI Models Gain Traction In places with unreliable networks",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://strata.highloop.co/",
-    "title": "[英] Strata – An app that talks me out of dying outdoors",
     "date": "2026-07-07"
   }
 ]
