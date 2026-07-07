@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://franken-markdown.com/",
+    "title": "[英] FrankenMarkdown",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://www.gao.gov/products/gao-26-108193",
+    "title": "[英] GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://www.sfgate.com/sf-culture/article/vancouver-stand-in-movie-tv-sf-16613821.php",
+    "title": "[英] Why Vancouver is always a stand-in for San Francisco in movies and TV shows (2021)",
+    "date": "2026-07-08"
+  },
+  {
     "link": "https://spectrum.ieee.org/large-language-models-ieee-course",
     "title": "[英] IEEE Rolls Out Large Language Models Training Course",
     "date": "2026-07-08"
@@ -57,21 +72,6 @@
   {
     "link": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
     "title": "[英] Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://anthonyhobday.com/blog/20260410",
-    "title": "[英] Notes on Software Quality",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://github.com/kklimuk/docx-cli",
-    "title": "[英] Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://astro.build/blog/astro-7/",
-    "title": "[英] Astro 7.0",
     "date": "2026-07-08"
   }
 ]
