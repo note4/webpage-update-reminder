@@ -1,12 +1,22 @@
 [
   {
+    "link": "https://spectrum.ieee.org/large-language-models-ieee-course",
+    "title": "[英] IEEE Rolls Out Large Language Models Training Course",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists",
+    "title": "[英] Men's average testosterone levels have halved in last 50 years",
+    "date": "2026-07-08"
+  },
+  {
     "link": "https://www.notebookcheck.net/Camera-with-transparent-display-launches-for-the-equivalent-of-29.1334495.0.html",
     "title": "[英] Camera with transparent display launches for the equivalent of $29",
     "date": "2026-07-08"
   },
   {
     "link": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-    "title": "[英] All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
+    "title": "[英] Every new car sold in the European Union must include a driver monitoring camera",
     "date": "2026-07-08"
   },
   {
@@ -55,23 +65,13 @@
     "date": "2026-07-08"
   },
   {
-    "link": "https://astro.build/blog/astro-7/",
-    "title": "[英] Astro 7.0",
-    "date": "2026-07-08"
-  },
-  {
     "link": "https://github.com/kklimuk/docx-cli",
     "title": "[英] Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
     "date": "2026-07-08"
   },
   {
-    "link": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-    "title": "[英] Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48821803",
-    "title": "[英] Ask HN: Is GitHub preparing to go behind a login wall?",
+    "link": "https://astro.build/blog/astro-7/",
+    "title": "[英] Astro 7.0",
     "date": "2026-07-08"
   }
 ]
