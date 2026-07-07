@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+    "title": "[英] YC CEO says he ships 37K LoC/day AI code. A developer looked under the hood",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
+    "title": "[英] In Praise of Observational Evidence",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://claude.ai/public/artifacts/05b42f8b-a4a3-4a7a-9774-c5d427ada379",
+    "title": "[英] Fable – Inner Forward Pass",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://www.inkfield.studio",
+    "title": "[英] Inkfield",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://nooneshappy.com/article/kernel-anti-cheat-is-an-overreach/",
+    "title": "[英] Kernel Anti-Cheat Is an Overreach",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://jobs.ashbyhq.com/lago",
+    "title": "[英] Lago (YC S21) Is Hiring for Our GTM Team",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+    "title": "[英] Dolosse – a South African invention used over the world",
+    "date": "2026-07-07"
+  },
+  {
     "link": "https://permacomputer.solarpunk.au/?p=204",
     "title": "[英] Tiny-C Reference Manual Excerpt",
     "date": "2026-07-07"
@@ -25,8 +60,8 @@
     "date": "2026-07-07"
   },
   {
-    "link": "https://www.fedfinder.net/",
-    "title": "[英] I created a free tool that pairs your Nasic and past performance to win contract",
+    "link": "https://news.ycombinator.com/item?id=48812450",
+    "title": "[英] undefined",
     "date": "2026-07-07"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://strata.highloop.co/",
     "title": "[英] Strata – An app that talks me out of dying outdoors",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://blog.cr.yp.to/20260706-fairness.html",
-    "title": "[英] NSA and IETF: Fairness",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://thebaffler.com/latest/the-music-of-destruction-fuelling",
-    "title": "[英] The Music of Destruction",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://instantvideos.org/",
-    "title": "[英] Show HN: InstantVideos.org – short documentaries in ~30 seconds",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-    "title": "[英] How to sequence your own DNA at home",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
-    "title": "[英] Acronym Fatigue Series Introduction: why I'm wary of acronyms",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://github.com/polyml/polyml",
-    "title": "[英] Poly/ML – A Standard ML Implementation",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.02112",
-    "title": "[英] A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
     "date": "2026-07-07"
   }
 ]

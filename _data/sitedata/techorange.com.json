@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/07/07/aiagent-adk-multimodalreasoning-mcp-veo-lyria/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "一句話 AI 就幫你生影片，背後它怎麼思考的？",
+    "date": "2026-07-07 16:30:10"
+  },
+  {
+    "link": "https://techorange.com/2026/07/07/ai-free-computing-power-to-grab-startup-share/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "企業忙著省 token，AI 巨頭卻狂送新創免費算力：OpenAI、Google 在搶什麼？",
+    "date": "2026-07-07 16:05:27"
+  },
+  {
+    "link": "https://techorange.com/2026/07/07/foxconn-multi-agent-project-genesis-humanintheloop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "鴻海智慧製造平台處長郭錦斌：Multi-Agent 會成為工廠常態，Project Genesis 讓每台機台都能自主推理",
+    "date": "2026-07-07 15:11:29"
+  },
+  {
     "link": "https://techorange.com/2026/07/07/chinas-huawei-to-enter-south-korean-ai-chip-market/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 晶片「去輝達化」有機會嗎？華為擬用 Ascend 950PR 攻南韓，卻仍卡在三大門檻",
     "date": "2026-07-07 13:01:01"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/07/06/mind-children-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【1 萬美元的社交機器人】社交優先、放棄步行，Codey 對美國照護缺口的另類押注",
     "date": "2026-07-06 10:34:25"
-  },
-  {
-    "link": "https://techorange.com/2026/07/06/google-ai-faithful-uncertainty/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【重新定義 AI 幻覺】Google 提出「忠實不確定性」框架，讓 LLM 學會說「我不確定」而非亂答",
-    "date": "2026-07-06 10:34:05"
-  },
-  {
-    "link": "https://techorange.com/2026/07/06/robotics-cvs-distribution-sites/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "不再拼圖式自動化！美國藥妝巨頭 CVS 整合倉儲與分揀機器人，單廠營運成本砍 40%",
-    "date": "2026-07-06 08:00:00"
-  },
-  {
-    "link": "https://techorange.com/2026/07/06/softbank-ai-compute-memory-china-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】SoftBank 搶 10GW 算力出租，記憶體缺貨與中國模型追近同步升溫",
-    "date": "2026-07-06 05:30:00"
   }
 ]
