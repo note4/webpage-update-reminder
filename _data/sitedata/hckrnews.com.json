@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://herdr.dev/",
+    "title": "[英] Herdr: One terminal to rule them all",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://davit.app",
+    "title": "[英] Show HN: Davit, a Apple Containers UI",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://github.com/rowboatlabs/rowboat",
+    "title": "[英] Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://github.com/bkuan001/halo-record",
+    "title": "[英] Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://zeroed.tech/blog/decrypting-viewstate-messages/",
+    "title": "[英] Decrypting View State Messages",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+    "title": "[英] AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
+    "title": "[英] Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://anthonyhobday.com/blog/20260410",
+    "title": "[英] Notes on Software Quality",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://astro.build/blog/astro-7/",
+    "title": "[英] Astro 7.0",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://github.com/kklimuk/docx-cli",
+    "title": "[英] Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+    "title": "[英] Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48821803",
+    "title": "[英] Ask HN: Is GitHub preparing to go behind a login wall?",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://lv1.sh/",
+    "title": "[英] l: A new runtime for k and q",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://jaymollica.com/blog/new-literalism-comes-for-museums/",
+    "title": "[英] New Literalism Comes for Museums",
+    "date": "2026-07-08"
+  },
+  {
     "link": "https://cccg.ca/proceedings/2008/paper34full.pdf",
     "title": "[英] Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://voi.id/en/technology/583552",
-    "title": "[英] Secret Tracker in Claude Code Uncovered, Anthropic Directly Deletes Code",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://abcnews.com/US/midtown-manhattan-blocks-evacuated-after-beams-found-buckling/story?id=134549272",
-    "title": "[英] Midtown Manhattan blocks evacuated after beams buckling at construction site",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
-    "title": "[英] Why we built yet another Postgres connection pooler",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://fightchatcontrol.eu/chat-control-overview",
-    "title": "[英] Chat Control 1.0 and 2.0 Explained",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://craigmod.com/essays/software_bonkers/",
-    "title": "[英] Software Bonkers",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://sitedex.dev/insights/robots-txt-2023-war-memorial",
-    "title": "[英] Sites that block AI training crawlers mostly ignore the answer time bots",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://30papers.com/",
-    "title": "[英] 30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://github.com/github/freno",
-    "title": "[英] GitHub Freno: cooperative, highly available throttler service",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://betterthangood.xyz/blog/weighing-smoke/",
-    "title": "[英] Weighing smoke: why AI visibility dashboards are mostly useless",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://replicated.live/blog/away",
-    "title": "[英] Automating AI Away",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://govauctions.app/research/cheapest-homes-in-america",
-    "title": "[英] Mapping homes you can buy from the US government for <$100k",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
-    "title": "[英] MacSurf 1.68 – NetSurf on OS 9 Released",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://github.com/jimparis/qr-font",
-    "title": "[英] Jim's TrueType QR Code Font",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://www.liquid.ai/blog/antidoom",
-    "title": "[英] Reducing Doom Loops with Final Token Preference Optimization",
     "date": "2026-07-08"
   }
 ]
