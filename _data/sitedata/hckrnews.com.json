@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://permacomputer.solarpunk.au/?p=204",
+    "title": "[英] Tiny-C Reference Manual Excerpt",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/",
+    "title": "[英] Giving a domain a hill to climb: benchmarking as data activation",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://www.researchgate.net/publication/281149909_Artificial_and_Fake_Eggs_Dance_of_Death",
+    "title": "[英] Artificial and Fake Eggs: Dance of Death",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://craigmod.com/roden/115/",
+    "title": "[英] Craig Mod built his own Good Reads",
+    "date": "2026-07-07"
+  },
+  {
+    "link": "https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt",
+    "title": "[英] LLMs Are Not a Default Execution Engine",
+    "date": "2026-07-07"
+  },
+  {
     "link": "https://www.fedfinder.net/",
     "title": "[英] I created a free tool that pairs your Nasic and past performance to win contract",
     "date": "2026-07-07"
@@ -47,31 +72,6 @@
   {
     "link": "https://arxiv.org/abs/2607.02112",
     "title": "[英] A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://github.com/MaximeRivest/Riddle",
-    "title": "[英] Fable turned remarkable into Tom Riddle's diary from Harry Potter",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://www.nativesoul.dev/",
-    "title": "[英] Claude and Codex and Grok: my current workflow and its friction",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://www.vybe.build/blog/learn-what-not-to-tokenize",
-    "title": "[英] Not everything should cost a token: the case for deterministic AI",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://claude.ai/public/artifacts/2c647671-3f94-4d22-b3c1-f2b5a0e17b6e",
-    "title": "[英] Vessel An EGA adventure about whether machines can grieve",
-    "date": "2026-07-07"
-  },
-  {
-    "link": "https://www.openssh.org/txt/release-10.4",
-    "title": "[英] OpenSSH 10.4/10.4p1 Released",
     "date": "2026-07-07"
   }
 ]
