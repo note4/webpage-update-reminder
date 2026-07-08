@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers",
+    "title": "[英] My road trip with the do-gooding cactus smugglers",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "title": "[英] Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
+    "title": "[英] New Sweden: the US's long-lost 'secret' colony",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://abralo.com/",
+    "title": "[英] Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
+    "date": "2026-07-09"
+  },
+  {
     "link": "https://www.yamanote.fun/",
     "title": "[英] Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
     "date": "2026-07-09"
@@ -52,26 +72,6 @@
   {
     "link": "https://danluu.com/ai-coding/#llm-variance",
     "title": "[英] Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://github.com/linuxrebel/DocuBrowser",
-    "title": "[英] Turning a pile of documents into a searchable useable knowledge base",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://alphapixeldev.com/slughorn-mit-licensed-gpu-agnostic-slug-font-glyph-rendering-library-for-opengl-osg-vulkan-and-all-gpu-driven-graphics-apis/",
-    "title": "[英] Slughorn, Slug font/glyph render lib for OpenGL/OSG/Vulkan/GPU APIs (MIT lic))",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.abeyk.com/escape-the-rat-race/",
-    "title": "[英] FAANG Simulator",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://multigres.com/blog/listen-notify",
-    "title": "[英] Multigres Supports Listen/Notify Across Pooled Connections",
     "date": "2026-07-09"
   }
 ]
