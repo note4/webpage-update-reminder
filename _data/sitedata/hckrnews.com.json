@@ -1,7 +1,32 @@
 [
   {
+    "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "title": "[英] GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://literaryreview.co.uk/out-of-the-armchair",
+    "title": "[英] Out of the Armchair",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://pluralistic.net/2026/07/02/canonization/",
+    "title": "[英] The difference between \"today's task\" and \"accretive work\"",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://twitter.com/OpenAI/status/2074704958419792299",
+    "title": "[英] GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://www.digipres.org/the-floppy-guide/",
+    "title": "[英] Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+    "date": "2026-07-08"
+  },
+  {
     "link": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-    "title": "[英] How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS",
+    "title": "[英] How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
     "date": "2026-07-08"
   },
   {
@@ -25,13 +50,13 @@
     "date": "2026-07-08"
   },
   {
-    "link": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
-    "title": "[英] Is The Economist Always Wrong?",
+    "link": "https://news.ycombinator.com/item?id=48826756",
+    "title": "[英] undefined",
     "date": "2026-07-08"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=48826756",
-    "title": "[英] undefined",
+    "link": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+    "title": "[英] Is The Economist Always Wrong?",
     "date": "2026-07-08"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
     "title": "[英] Scheme Is a Hoot",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48826118",
-    "title": "[英] undefined",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://try.works/projects#rlm-workflow",
-    "title": "[英] Rlm-Workflow",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.02820",
-    "title": "[英] Git Hash Chain Malleability",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://kb.cert.org/vuls/id/213560",
-    "title": "[英] Tenda firmware (multiple versions) contains hidden authentication backdoor",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://moxiedocs.com/mermaid-diagram-editor",
-    "title": "[英] Show HN: Free Mermaid Diagram Editor",
     "date": "2026-07-08"
   }
 ]
