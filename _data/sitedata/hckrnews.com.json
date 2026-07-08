@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://microsoft.github.io/flint-chart/#/",
+    "title": "[英] Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://x.ai/news/grok-4-5",
+    "title": "[英] Grok 4.5",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+    "title": "[英] TypeScript 7",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
+    "title": "[英] EU now one step away from reviving private message scanning rules",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://philatype.com/tabfont/",
+    "title": "[英] TabFont – guitar tabs rendered as you type",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://openai.com/index/introducing-gpt-live/",
+    "title": "[英] GPT‑Live",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://www.lifesitenews.com/news/biohacker-seeking-immortality-afflicted-with-incurable-stomach-eating-disease/",
+    "title": "[英] Biohacker seeking immortality afflicted with incurable 'stomach eating' disease",
+    "date": "2026-07-09"
+  },
+  {
     "link": "https://cognition.com/blog/swe-1-7",
     "title": "[英] SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
     "date": "2026-07-09"
@@ -37,41 +72,6 @@
   {
     "link": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
     "title": "[英] OpenBSD has a use-after-free allowing local privilege escalation to root",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://blog.cloudflare.com/meerkat-introduction/",
-    "title": "[英] Cloudflare Meerkat - Globally distributed consensus",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://ride.nexttrain.london/",
-    "title": "[英] Show HN: Follow London Trains in 3D",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/",
-    "title": "[英] It seems that the age of reading might be a short anomaly in human history",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food",
-    "title": "[英] US Food and Drug Administration rejects petition to set PFAS limits in food",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://hollywoodgadfly.substack.com/p/can-we-make-the-villain-a-white-guy",
-    "title": "[英] \"Can We Make the Villain a White Guy?\"",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.bbc.com/news/technology-64939558",
-    "title": "[英] Tiny data centre used to heat public swimming pool",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/",
-    "title": "[英] Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
     "date": "2026-07-09"
   }
 ]
