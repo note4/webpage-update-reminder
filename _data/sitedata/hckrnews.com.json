@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://manualmeida.dev/articles/noiselang/",
+    "title": "[英] NoiseLang: Where N = 5 is a Dirac delta",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+    "title": "[英] EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://github.com/dekart-xyz/geosql",
+    "title": "[英] Geosql: A Claude/Codex skill for geospatial data",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "title": "[英] Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "date": "2026-07-08"
+  },
+  {
     "link": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/",
     "title": "[英] Ants: Who looks after the injured in a colony?",
     "date": "2026-07-08"
@@ -52,26 +72,6 @@
   {
     "link": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
     "title": "[英] How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://neiltheseal.app/",
-    "title": "[英] Show HN: Neil the Seal Game",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://stats.lineageos.org",
-    "title": "[英] LineageOS Statistics",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://github.com/ariel95500-create/gp-elite",
-    "title": "[英] Pure-Python symbolic regression that rediscovered Kepler's law from 8 data point",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://ghostmeet.sshlab.dev/",
-    "title": "[英] Show HN: Ghostmeet – Self-hosted meeting transcription and summaries",
     "date": "2026-07-08"
   }
 ]
