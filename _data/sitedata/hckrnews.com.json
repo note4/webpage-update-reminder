@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+    "title": "[英] Canada's only watchmaking school still ticking after 80 years",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://blog.klipse.tech/aboulafia/2026/07/06/a-13th-century-enumeration-algorithm-ignored-for-700-years.html",
+    "title": "[英] A 13th-Century Enumeration Algorithm, Ignored for 700 Years",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+    "title": "[英] Structure and Interpretation of Computer Programs Video Lectures",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://www.bona-books.com/news/we-bought-an-ai-story",
+    "title": "[英] Honey, We Bought an AI Story",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://github.com/tiliondev/fortress",
+    "title": "[英] Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://vatsalbakshi.com/blog/benfords-law/",
+    "title": "[英] An interactive explorer for Benford's Law across real datasets",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://try.works/first-principles-of-model-routing",
+    "title": "[英] First Principles of Model Routing",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://odra.dev/slopfix/",
+    "title": "[英] We charge $10k a week to delete AI-generated code",
+    "date": "2026-07-08"
+  },
+  {
     "link": "https://franken-markdown.com/",
     "title": "[英] FrankenMarkdown",
     "date": "2026-07-08"
@@ -32,46 +72,6 @@
   {
     "link": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
     "title": "[英] Every new car sold in the European Union must include a driver monitoring camera",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind",
-    "title": "[英] Re: I'm Begging You to Leave Your AI Note-Taker at Home",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://herdr.dev/",
-    "title": "[英] Herdr: One terminal to rule them all",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://davit.app",
-    "title": "[英] Show HN: Davit, a Apple Containers UI",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://github.com/rowboatlabs/rowboat",
-    "title": "[英] Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://github.com/bkuan001/halo-record",
-    "title": "[英] Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://zeroed.tech/blog/decrypting-viewstate-messages/",
-    "title": "[英] Decrypting View State Messages",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-    "title": "[英] AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
-    "title": "[英] Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
     "date": "2026-07-08"
   }
 ]
