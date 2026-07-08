@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://graphitemaster.github.io/aau/",
+    "title": "[英] Almost Always Unsigned",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://stalw.art/blog/dkim2-dmarcbis/",
+    "title": "[英] DKIM2 and DMARCbis Have Landed",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+    "title": "[英] Separating signal from noise in coding evaluations",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48837286",
+    "title": "[英] undefined",
+    "date": "2026-07-09"
+  },
+  {
     "link": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
     "title": "[英] Fable is not a useful model",
     "date": "2026-07-09"
@@ -52,26 +72,6 @@
   {
     "link": "https://www.cloudflare.com/drop/",
     "title": "[英] Cloudflare Drop",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.npmjs.com/package/@atharva-again/pi-tg",
-    "title": "[英] I Built a Telegram Client for Pi",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://techstackups.com/articles/tldraw-agent-draw/",
-    "title": "[英] Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
-    "title": "[英] A bug which affected only left handed users",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
-    "title": "[英] OpenMandriva: Statement regarding attempted distribution sabotage",
     "date": "2026-07-09"
   }
 ]
