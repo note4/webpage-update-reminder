@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=48832668",
+    "title": "[英] Anyone here with an \"in\" with eBay?",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://mistral.ai/news/robostral-navigate/",
+    "title": "[英] Mistral's Robostral Navigate: a state of the art robotics navigation model",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+    "title": "[英] OpenBSD has a use-after-free allowing local privilege escalation to root",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://blog.cloudflare.com/meerkat-introduction/",
+    "title": "[英] Cloudflare Meerkat - Globally distributed consensus",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://ride.nexttrain.london/",
+    "title": "[英] Show HN: Follow London Trains in 3D",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/",
+    "title": "[英] It seems that the age of reading might be a short anomaly in human history",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food",
+    "title": "[英] US Food and Drug Administration rejects petition to set PFAS limits in food",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://hollywoodgadfly.substack.com/p/can-we-make-the-villain-a-white-guy",
+    "title": "[英] \"Can We Make the Villain a White Guy?\"",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://www.bbc.com/news/technology-64939558",
+    "title": "[英] Tiny data centre used to heat public swimming pool",
+    "date": "2026-07-08"
+  },
+  {
+    "link": "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/",
+    "title": "[英] Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
+    "date": "2026-07-08"
+  },
+  {
     "link": "https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/",
     "title": "[英] How to Survive 3 Years in North Korea as a Foreigner",
     "date": "2026-07-08"
@@ -22,56 +72,6 @@
   {
     "link": "https://manualmeida.dev/articles/noiselang/",
     "title": "[英] NoiseLang: Where N = 5 is a Dirac delta",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-    "title": "[英] EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://github.com/dekart-xyz/geosql",
-    "title": "[英] Geosql: A Claude/Codex skill for geospatial data",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-    "title": "[英] Decoding the obfuscated bash script on a Uniqlo t-shirt",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/",
-    "title": "[英] Ants: Who looks after the injured in a colony?",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://www.mirror.co.uk/news/uk-news/nigel-farage-resigns-clacton-live-37401478",
-    "title": "[英] Reform UK leader 'in real trouble' against Count Binface",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=qMR3IXF2sWw",
-    "title": "[英] Home made GPU escalated quickly [video]",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://www.ft.com/content/09a62ed4-16af-433c-adb7-c877d1975388",
-    "title": "[英] The space bit of SpaceX is worth $8 a share, says Morgan Stanley",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://nostarch.com/automate-excel-with-python",
-    "title": "[英] Automate Excel with Python: From manual grind to one-click workflow",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-    "title": "[英] GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-    "date": "2026-07-08"
-  },
-  {
-    "link": "https://literaryreview.co.uk/out-of-the-armchair",
-    "title": "[英] Out of the Armchair",
     "date": "2026-07-08"
   }
 ]
