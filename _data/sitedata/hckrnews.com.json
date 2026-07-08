@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.npmjs.com/package/@atharva-again/pi-tg",
+    "title": "[英] I Built a Telegram Client for Pi",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://techstackups.com/articles/tldraw-agent-draw/",
+    "title": "[英] Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
+    "title": "[英] A bug which affected only left handed users",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
+    "title": "[英] OpenMandriva: Statement regarding attempted distribution sabotage",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
+    "title": "[英] PlayStation can delete all your digital games after 3 years of inactivity (EU)",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520",
+    "title": "[英] Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://e360.yale.edu/features/cassandra-rauert-interview",
+    "title": "[英] What Do We Know About the Microplastics Inside Us?",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48834961",
+    "title": "[英] Ask HN: Another \"Hacker News\" with less AI and more human-focused hacking news?",
+    "date": "2026-07-09"
+  },
+  {
     "link": "https://microsoft.github.io/flint-chart/#/",
     "title": "[英] Show HN: Microsoft releases Flint, a visualization language for AI agents",
     "date": "2026-07-09"
@@ -32,46 +72,6 @@
   {
     "link": "https://www.lifesitenews.com/news/biohacker-seeking-immortality-afflicted-with-incurable-stomach-eating-disease/",
     "title": "[英] Biohacker seeking immortality afflicted with incurable 'stomach eating' disease",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://cognition.com/blog/swe-1-7",
-    "title": "[英] SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "http://glassbottomblog.blogspot.com/2011/01/catastrophe-theory-geniuses-and-maniacs.html",
-    "title": "[英] Catastrophe theory; geniuses and maniacs (2011)",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://github.com/weirdGuy/kastor",
-    "title": "[英] Show HN: Kastor – Terraform-style specs for AI agents",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://relocateme.substack.com/p/a-mistake-to-avoid-during-relocation",
-    "title": "[英] Answering \"why do you want to relocate?\" during interviews",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.hmans.dev/blog/chatto-is-open-source",
-    "title": "[英] Chatto is now Open Source",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48832668",
-    "title": "[英] Anyone here with an \"in\" with eBay?",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://mistral.ai/news/robostral-navigate/",
-    "title": "[英] Mistral's Robostral Navigate: a state of the art robotics navigation model",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
-    "title": "[英] OpenBSD has a use-after-free allowing local privilege escalation to root",
     "date": "2026-07-09"
   }
 ]

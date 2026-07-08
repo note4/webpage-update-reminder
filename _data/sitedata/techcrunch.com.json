@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "title": "[英] SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+    "date": "2026-07-09 03:30:16"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
+    "title": "[英] ‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
+    "date": "2026-07-09 03:22:11"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "title": "[英] This startup thinks robotics is about to have its ChatGPT moment",
+    "date": "2026-07-09 03:19:15"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+    "title": "[英] Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
+    "date": "2026-07-09 02:46:20"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+    "title": "[英] Google Photos adds a new AI ‘Video Remix’ tool",
+    "date": "2026-07-09 02:30:08"
+  },
+  {
     "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
     "title": "[英] Why this CEO thinks video games make better training data than the internet",
     "date": "2026-07-09 01:47:55"
@@ -48,30 +73,5 @@
     "link": "https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/",
     "title": "[英] Venus Aerospace raises $90M Series B to build a new kind of rocket engine",
     "date": "2026-07-08 22:07:49"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
-    "title": "[英] Blue Origin reportedly raising $10B at $130B valuation",
-    "date": "2026-07-08 22:04:53"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/",
-    "title": "[英] Venus Williams-backed WeWard can now lock your apps until you hit your steps",
-    "date": "2026-07-08 21:00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-    "title": "[英] Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-    "date": "2026-07-08 20:00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-    "title": "[英] Hot French startup ZML releases free product to speed inference across lots of AI chips",
-    "date": "2026-07-08 16:00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-    "title": "[英] AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-    "date": "2026-07-08 15:16:00"
   }
 ]
