@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.yamanote.fun/",
+    "title": "[英] Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://opensourcebarware.com",
+    "title": "[英] Open Source Barware: free, local-first bar inventory software (GPLv3)",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://bootlin.com/blog/poison-redzones-and-shadows-inside-kasan/",
+    "title": "[英] Poison, redzones and shadows: inside KASAN",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://bun.com/blog/bun-in-rust",
+    "title": "[英] Rewriting Bun in Rust",
+    "date": "2026-07-09"
+  },
+  {
     "link": "https://graphitemaster.github.io/aau/",
     "title": "[英] Almost Always Unsigned",
     "date": "2026-07-09"
@@ -21,7 +41,7 @@
   },
   {
     "link": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
-    "title": "[英] Fable is not a useful model",
+    "title": "[英] The classifiers Anthropic puts in front of Fable are too zealous",
     "date": "2026-07-09"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://multigres.com/blog/listen-notify",
     "title": "[英] Multigres Supports Listen/Notify Across Pooled Connections",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork",
-    "title": "[英] Sometimes it is the network: a war story",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://hnwork.app/",
-    "title": "[英] Show HN: Hnwork.app – UI for Who is hiring posts",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://github.com/Northwood-Systems/foreman",
-    "title": "[英] Show HN: Foreman, a self-hosted LLM gateway for cost aware model routing",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.cloudflare.com/drop/",
-    "title": "[英] Cloudflare Drop",
     "date": "2026-07-09"
   }
 ]
