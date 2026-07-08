@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+    "title": "[英] Fable is not a useful model",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://github.com/animesh-94/Onboard-CLI",
+    "title": "[英] Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://danluu.com/ai-coding/#llm-variance",
+    "title": "[英] Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://github.com/linuxrebel/DocuBrowser",
+    "title": "[英] Turning a pile of documents into a searchable useable knowledge base",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://alphapixeldev.com/slughorn-mit-licensed-gpu-agnostic-slug-font-glyph-rendering-library-for-opengl-osg-vulkan-and-all-gpu-driven-graphics-apis/",
+    "title": "[英] Slughorn, Slug font/glyph render lib for OpenGL/OSG/Vulkan/GPU APIs (MIT lic))",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://www.abeyk.com/escape-the-rat-race/",
+    "title": "[英] FAANG Simulator",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://multigres.com/blog/listen-notify",
+    "title": "[英] Multigres Supports Listen/Notify Across Pooled Connections",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork",
+    "title": "[英] Sometimes it is the network: a war story",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://hnwork.app/",
+    "title": "[英] Show HN: Hnwork.app – UI for Who is hiring posts",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://github.com/Northwood-Systems/foreman",
+    "title": "[英] Show HN: Foreman, a self-hosted LLM gateway for cost aware model routing",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://www.cloudflare.com/drop/",
+    "title": "[英] Cloudflare Drop",
+    "date": "2026-07-09"
+  },
+  {
     "link": "https://www.npmjs.com/package/@atharva-again/pi-tg",
     "title": "[英] I Built a Telegram Client for Pi",
     "date": "2026-07-09"
@@ -17,61 +72,6 @@
   {
     "link": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
     "title": "[英] OpenMandriva: Statement regarding attempted distribution sabotage",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
-    "title": "[英] PlayStation can delete all your digital games after 3 years of inactivity (EU)",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520",
-    "title": "[英] Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://e360.yale.edu/features/cassandra-rauert-interview",
-    "title": "[英] What Do We Know About the Microplastics Inside Us?",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48834961",
-    "title": "[英] Ask HN: Another \"Hacker News\" with less AI and more human-focused hacking news?",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://microsoft.github.io/flint-chart/#/",
-    "title": "[英] Show HN: Microsoft releases Flint, a visualization language for AI agents",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://x.ai/news/grok-4-5",
-    "title": "[英] Grok 4.5",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-    "title": "[英] TypeScript 7",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
-    "title": "[英] EU now one step away from reviving private message scanning rules",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://philatype.com/tabfont/",
-    "title": "[英] TabFont – guitar tabs rendered as you type",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://openai.com/index/introducing-gpt-live/",
-    "title": "[英] GPT‑Live",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.lifesitenews.com/news/biohacker-seeking-immortality-afflicted-with-incurable-stomach-eating-disease/",
-    "title": "[英] Biohacker seeking immortality afflicted with incurable 'stomach eating' disease",
     "date": "2026-07-09"
   }
 ]
