@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://bittlex-sim.petoi.com/",
+    "title": "[英] In-browser programmable robot simulator",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+    "title": "[英] How Donkey Kong Toppled Atari",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
+    "title": "[英] I Built the Only 2026 WWII Jeep",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://github.com/malisper/pgrust",
+    "title": "[英] Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
+    "title": "[英] CollectWise (YC F24) Is Hiring",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://github.com/jamalrfordii-arch/Vanguard-Map",
+    "title": "[英] 3D Airplane tracker on Mercator map",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+    "title": "[英] AI changes the economics of software rewrites",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
+    "title": "[英] Book: RISC-V System-on-Chip Design",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://chriskiehl.com/article/euglenid-motion-in-flagellates",
+    "title": "[英] The Strange Locomotion of Spirocuta",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+    "title": "[英] Spider venom kills varroa mites without harming honeybees",
+    "date": "2026-07-09"
+  },
+  {
     "link": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
     "title": "[英] What's slowing down the AI buildout",
     "date": "2026-07-09"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
     "title": "[英] Benchmarking coding agents on Databricks' multi-million line codebase",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html",
-    "title": "[英] Apache Shiro security framework releases 3.0.0",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.alecscollon.com/blog/llm-burnout/",
-    "title": "[英] I think I have LLM burnout",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/",
-    "title": "[英] Rewriting Bun in Rust",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
-    "title": "[英] Patching MechCommander's \"left arm bug\" for fun and profit",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://krisshamloo.com/blog/007",
-    "title": "[英] A software engineering interview question I like: computing the median",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://mira-wm.com/",
-    "title": "[英] MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.liamcvw.com/p/remote-attestation",
-    "title": "[英] Remote Attestation",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://seriot.ch/computation/uts35/",
-    "title": "[英] Unicode's transliteration rules are Turing-complete",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-    "title": "[英] We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://github.com/Rodiun/frugon",
-    "title": "[英] Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
     "date": "2026-07-09"
   }
 ]

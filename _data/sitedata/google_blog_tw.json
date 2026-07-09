@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/intl/zh-tw/products/cloud/google-cloud-day-taipei/",
+    "title": "Google Cloud 陪伴台灣企業從實驗走向實戰，賦能企業邁向代理式企業新時代",
+    "date": "2026-07-09 23:00:00"
+  },
+  {
     "link": "https://blog.google/intl/zh-tw/products/devices-services/2026-june-pixel-drop/",
     "title": "六月 Pixel Drop 功能推送全新登場，讓創作、多工任務更便利",
     "date": "2026-06-17 17:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/intl/zh-tw/products/android-chrome-play/android-gemini-intelligence/",
     "title": "Android 透過 Gemini Intelligence 帶來主動智慧新體驗",
     "date": "2026-05-13 17:00:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/devices-services/google-health-coach/",
-    "title": "全新 Google Health Coach 即將在台推出",
-    "date": "2026-05-08 06:00:00"
   }
 ]
