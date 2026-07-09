@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+    "title": "[英] What's slowing down the AI buildout",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://dangrafham.com/the-factorio-effect",
+    "title": "[英] The Factorio Effect",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://ergo.org/",
+    "title": "[英] Ergo: Long Form Philosophy Lectures",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://nexte.st/",
+    "title": "[英] Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+    "title": "[英] Benchmarking coding agents on Databricks' multi-million line codebase",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html",
+    "title": "[英] Apache Shiro security framework releases 3.0.0",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://www.alecscollon.com/blog/llm-burnout/",
+    "title": "[英] I think I have LLM burnout",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/",
+    "title": "[英] Rewriting Bun in Rust",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+    "title": "[英] Patching MechCommander's \"left arm bug\" for fun and profit",
+    "date": "2026-07-09"
+  },
+  {
     "link": "https://krisshamloo.com/blog/007",
     "title": "[英] A software engineering interview question I like: computing the median",
     "date": "2026-07-09"
@@ -27,51 +72,6 @@
   {
     "link": "https://github.com/Rodiun/frugon",
     "title": "[英] Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=CAJ_iIedx_I",
-    "title": "[英] Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video]",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-    "title": "[英] John Deere owners will get the right to repair equipment under FTC settlement",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers",
-    "title": "[英] My road trip with the do-gooding cactus smugglers",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-    "title": "[英] Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
-    "title": "[英] New Sweden: the US's long-lost 'secret' colony",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://abralo.com/",
-    "title": "[英] Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.yamanote.fun/",
-    "title": "[英] Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://opensourcebarware.com",
-    "title": "[英] Open Source Barware: free, local-first bar inventory software (GPLv3)",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://bootlin.com/blog/poison-redzones-and-shadows-inside-kasan/",
-    "title": "[英] Poison, redzones and shadows: inside KASAN",
     "date": "2026-07-09"
   }
 ]
