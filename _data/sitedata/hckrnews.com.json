@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+    "title": "[英] Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+    "title": "[英] EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+    "title": "[英] My Thoughts on the Bun Rust Rewrite",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://github.com/Vandivier/ladderly-3/issues/652",
+    "title": "[英] Please Delete Your Repository",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://sand-morph.up.railway.app/the-field-equation",
+    "title": "[英] The Field Equation, living shader geometry folded into a breathing object",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+    "title": "[英] Meta reuses old RAM in new servers with custom bridge chip",
+    "date": "2026-07-09"
+  },
+  {
+    "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+    "title": "[英] Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+    "date": "2026-07-09"
+  },
+  {
     "link": "https://bittlex-sim.petoi.com/",
     "title": "[英] In-browser programmable robot simulator",
     "date": "2026-07-09"
@@ -37,41 +72,6 @@
   {
     "link": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
     "title": "[英] Book: RISC-V System-on-Chip Design",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://chriskiehl.com/article/euglenid-motion-in-flagellates",
-    "title": "[英] The Strange Locomotion of Spirocuta",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-    "title": "[英] Spider venom kills varroa mites without harming honeybees",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-    "title": "[英] What's slowing down the AI buildout",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://dangrafham.com/the-factorio-effect",
-    "title": "[英] The Factorio Effect",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://ergo.org/",
-    "title": "[英] Ergo: Long Form Philosophy Lectures",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://nexte.st/",
-    "title": "[英] Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
-    "date": "2026-07-09"
-  },
-  {
-    "link": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-    "title": "[英] Benchmarking coding agents on Databricks' multi-million line codebase",
     "date": "2026-07-09"
   }
 ]
