@@ -1,7 +1,27 @@
 [
   {
+    "link": "https://github.com/aatishb/patterncollider",
+    "title": "[英] Patterncollider: Generate and explore quasiperiodic tiling patterns",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+    "title": "[英] Why American ambulance rides are so expensive",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+    "title": "[英] Interview with Mitchell Hashimoto about Ghostty and Zig",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://codegood.co/writing/your-distributed-system-is-slower-than-a-laptop",
+    "title": "[英] Distributed system is slower than a laptop",
+    "date": "2026-07-10"
+  },
+  {
     "link": "https://speedcube.com.br/",
-    "title": "[英] Rubiks Cube Solver",
+    "title": "[英] Show HN: Rubiks Cube Solver",
     "date": "2026-07-10"
   },
   {
@@ -26,7 +46,7 @@
   },
   {
     "link": "https://randofont.alesh.com",
-    "title": "[英] Show HN: RandoFont, a browser for Google Fonts",
+    "title": "[英] Show HN: RandoFont – A browser for Google Fonts",
     "date": "2026-07-10"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://kastra.ai/",
     "title": "[英] Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://blogography.com/archives/2026/07/dont-get-sick-in-america.html",
-    "title": "[英] Don't Get Sick in America",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-    "title": "[英] Train SIM Created by Just One Person Is Being Called the Best Ever Made",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
-    "title": "[英] Why the Next Era of AI Is About Infrastructure, Not Just Models",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-    "title": "[英] GLM 5.2 is nearly as accurate as a human book keeper",
     "date": "2026-07-10"
   }
 ]
