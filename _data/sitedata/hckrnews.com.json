@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://speedcube.com.br/",
+    "title": "[英] Rubiks Cube Solver",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://lucid.earthpilot.ai",
+    "title": "[英] Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://github.com/Corgea/Sighthound",
+    "title": "[英] Show HN: Sighthound - open-source vulnerability scanner for source code",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+    "title": "[英] Building a real-time AI tutor for 5-year-olds",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+    "title": "[英] How GitHub gave every repository a durable owner",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://randofont.alesh.com",
+    "title": "[英] Show HN: RandoFont, a browser for Google Fonts",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://robida.net/entries/2026/07/01/i-changed-my-name",
+    "title": "[英] I Changed My Name",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://www.pylonsync.com",
+    "title": "[英] Show HN: Pylon Sync, an agent-first full-stack realtime framework",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://www.rise8.us/resources/ai-executive-order-secure-software-delivery-government",
+    "title": "[英] What the New Executive Order Means for Secure Software Delivery in Government",
+    "date": "2026-07-10"
+  },
+  {
     "link": "https://github.com/JustVugg/colibri",
     "title": "[英] Show HN: Getting GLM 5.2 running on my slow computer",
     "date": "2026-07-10"
@@ -25,53 +70,8 @@
     "date": "2026-07-10"
   },
   {
-    "link": "https://www.cortex.io/drive",
-    "title": "[英] Dev productivity metrics suck. Ops reviews are key for AI-accelerated eng orgs",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://guides.rubyevents.org/meetups/",
-    "title": "[英] How to Start a Ruby Meetup",
-    "date": "2026-07-10"
-  },
-  {
     "link": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
     "title": "[英] GLM 5.2 is nearly as accurate as a human book keeper",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://drummate.app/blog/how-to-follow-a-drummer",
-    "title": "[英] How to Follow a Drummer",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-    "title": "[英] Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://tomesphere.com/atlas",
-    "title": "[英] Show HN: I mapped 8.5M research papers into an interactive atlas",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://marindedic.com/groups/",
-    "title": "[英] How should group chats work in decentralized systems?",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://devthropology.com/demo",
-    "title": "[英] Show HN: Devthropology – Better Insights for GitHub Repos",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-    "title": "[英] ChatGPT Work",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://openai.com/index/gpt-5-6/",
-    "title": "[英] GPT-5.6",
     "date": "2026-07-10"
   }
 ]
