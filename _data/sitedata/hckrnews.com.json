@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+    "title": "[英] Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://tomesphere.com/atlas",
+    "title": "[英] Show HN: I mapped 8.5M research papers into an interactive atlas",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://marindedic.com/groups/",
+    "title": "[英] How should group chats work in decentralized systems?",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://devthropology.com/demo",
+    "title": "[英] Show HN: Devthropology – Better Insights for GitHub Repos",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+    "title": "[英] ChatGPT Work",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://openai.com/index/gpt-5-6/",
+    "title": "[英] GPT-5.6",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
+    "title": "[英] Wildcard (YC W25) Is Hiring a Founding Engineer",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://nahla.dev/blog/waitfree_queue/",
+    "title": "[英] Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
+    "date": "2026-07-10"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=48847834",
     "title": "[英] Show HN: Reverse-engineering web apps into agent tools",
     "date": "2026-07-10"
@@ -11,7 +51,7 @@
   },
   {
     "link": "https://www.pangram.com/blog/ai-in-your-feed",
-    "title": "[英] AI Content Is Everywhere on Social Media, Especially LinkedIn",
+    "title": "[英] AI content is everywhere on social media, especially LinkedIn",
     "date": "2026-07-10"
   },
   {
@@ -30,48 +70,8 @@
     "date": "2026-07-10"
   },
   {
-    "link": "https://www.larp.website/",
-    "title": "[英] New \"Revenue Larping Trend\" is this real?",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://isonomiaquarterly.com/wp-content/uploads/2026/06/iq-4.2-summer-2026-macdonald-coordination-without-consolidation.pdf",
-    "title": "[英] Coordination Without Consolidation: On Systems of States [pdf]",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://www.damninteresting.com/a-possible-future/",
-    "title": "[英] A possible future for Damn Interesting",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://blog.dannycastonguay.com/how-to-write-an-email/",
-    "title": "[英] How to Write an Email",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
-    "title": "[英] What is Bending Spoons? The little-known AOL and Vimeo owner that's now public",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://lazypi.org/",
-    "title": "[英] Opinionated and Easy Pi.dev Configuration",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://na0341.bearblog.dev/info/stop-using-recaptcha/",
-    "title": "[英] Stop Using reCAPTCHA – It's Not a Real Captcha",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://www.dailymail.com/sciencetech/article-15962981/mark-zuckerberg-meta-wyoming-ai-data-center-bacteria.html",
-    "title": "[英] Deadly bacteria found in city's wastewater system tied to Meta data center",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://www.context.dev",
-    "title": "[英] Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+    "link": "https://news.ycombinator.com/item?id=48846928",
+    "title": "[英] undefined",
     "date": "2026-07-10"
   }
 ]
