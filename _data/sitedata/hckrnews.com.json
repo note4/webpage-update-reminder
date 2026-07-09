@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://github.com/JustVugg/colibri",
+    "title": "[英] Show HN: Getting GLM 5.2 running on my slow computer",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://kastra.ai/",
+    "title": "[英] Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://blogography.com/archives/2026/07/dont-get-sick-in-america.html",
+    "title": "[英] Don't Get Sick in America",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+    "title": "[英] Train SIM Created by Just One Person Is Being Called the Best Ever Made",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
+    "title": "[英] Why the Next Era of AI Is About Infrastructure, Not Just Models",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://www.cortex.io/drive",
+    "title": "[英] Dev productivity metrics suck. Ops reviews are key for AI-accelerated eng orgs",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://guides.rubyevents.org/meetups/",
+    "title": "[英] How to Start a Ruby Meetup",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+    "title": "[英] GLM 5.2 is nearly as accurate as a human book keeper",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://drummate.app/blog/how-to-follow-a-drummer",
+    "title": "[英] How to Follow a Drummer",
+    "date": "2026-07-10"
+  },
+  {
     "link": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
     "title": "[英] Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone",
     "date": "2026-07-10"
@@ -27,51 +72,6 @@
   {
     "link": "https://openai.com/index/gpt-5-6/",
     "title": "[英] GPT-5.6",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
-    "title": "[英] Wildcard (YC W25) Is Hiring a Founding Engineer",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://nahla.dev/blog/waitfree_queue/",
-    "title": "[英] Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48847834",
-    "title": "[英] Show HN: Reverse-engineering web apps into agent tools",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://elifesciences.org/articles/107088",
-    "title": "[英] Auditory and spontaneous movement responses to music over first postnatal year",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://www.pangram.com/blog/ai-in-your-feed",
-    "title": "[英] AI content is everywhere on social media, especially LinkedIn",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://usewire.io/engineering/why-were-moving-wire-off-cloudflare-durable-objects/",
-    "title": "[英] Why we're moving off Cloudflare Durable Objects",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
-    "title": "[英] Ways to think about token pricing",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://hy.tencent.com/research/hy3",
-    "title": "[英] Hy3",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48846928",
-    "title": "[英] undefined",
     "date": "2026-07-10"
   }
 ]
