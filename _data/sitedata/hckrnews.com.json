@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
+    "title": "[英] My Story of 3D Realms / Apogee Part I (2020)",
+    "date": "2026-07-10"
+  },
+  {
     "link": "https://github.com/aatishb/patterncollider",
     "title": "[英] Patterncollider: Generate and explore quasiperiodic tiling patterns",
     "date": "2026-07-10"
@@ -67,11 +72,6 @@
   {
     "link": "https://github.com/JustVugg/colibri",
     "title": "[英] Show HN: Getting GLM 5.2 running on my slow computer",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://kastra.ai/",
-    "title": "[英] Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
     "date": "2026-07-10"
   }
 ]
