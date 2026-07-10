@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://medium.com/@dapscience/the-encrapification-of-store-bought-ice-cream-2da2d58ee0b9",
+    "title": "[英] What Big Food Did to Ice Cream",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
+    "title": "[英] Common prefix skipping, adaptive sort",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+    "title": "[英] Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://www.anthropic.com/news/ben-bernanke",
+    "title": "[英] Ben Bernanke Joins Anthropic Oversight Trust",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+    "title": "[英] Study: \"Mommy, do you love your phone more than me?\"",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://dynomight.net/hazard-ratios/",
+    "title": "[英] Life with Hazard Ratios",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/",
+    "title": "[英] Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+    "title": "[英] Build your own vulnerability harness",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
+    "title": "[英] Star Just Ate a Planet, and It's Not Done Yet",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://boz.com/articles/focus",
+    "title": "[英] Focus",
+    "date": "2026-07-10"
+  },
+  {
     "link": "https://sbnyc.app/",
     "title": "[英] Show HN: I built a free app for New Yorkers to save money on groceries",
     "date": "2026-07-10"
@@ -22,56 +72,6 @@
   {
     "link": "https://davidoks.blog/p/why-american-ambulance-rides-are",
     "title": "[英] Why American ambulance rides are so expensive",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-    "title": "[英] Interview with Mitchell Hashimoto about Ghostty and Zig",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://codegood.co/writing/your-distributed-system-is-slower-than-a-laptop",
-    "title": "[英] Distributed system is slower than a laptop",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://speedcube.com.br/",
-    "title": "[英] Show HN: Rubiks Cube Solver",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://lucid.earthpilot.ai",
-    "title": "[英] Show HN: I built a web tool to see and edit what an AI thinks before it answers",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://github.com/Corgea/Sighthound",
-    "title": "[英] Show HN: Sighthound - open-source vulnerability scanner for source code",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-    "title": "[英] Building a real-time AI tutor for 5-year-olds",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
-    "title": "[英] How GitHub gave every repository a durable owner",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://randofont.alesh.com",
-    "title": "[英] Show HN: RandoFont – A browser for Google Fonts",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://robida.net/entries/2026/07/01/i-changed-my-name",
-    "title": "[英] I Changed My Name",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://www.pylonsync.com",
-    "title": "[英] Show HN: Pylon Sync, an agent-first full-stack realtime framework",
     "date": "2026-07-10"
   }
 ]
