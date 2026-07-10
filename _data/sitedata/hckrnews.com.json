@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://sbnyc.app/",
+    "title": "[英] Show HN: I built a free app for New Yorkers to save money on groceries",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://paulbourke.net/fractals/tripledragon/",
+    "title": "[英] Triple Dragon Fractal (2020)",
+    "date": "2026-07-10"
+  },
+  {
     "link": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
     "title": "[英] My Story of 3D Realms / Apogee Part I (2020)",
     "date": "2026-07-10"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.pylonsync.com",
     "title": "[英] Show HN: Pylon Sync, an agent-first full-stack realtime framework",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://www.rise8.us/resources/ai-executive-order-secure-software-delivery-government",
-    "title": "[英] What the New Executive Order Means for Secure Software Delivery in Government",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://github.com/JustVugg/colibri",
-    "title": "[英] Show HN: Getting GLM 5.2 running on my slow computer",
     "date": "2026-07-10"
   }
 ]
