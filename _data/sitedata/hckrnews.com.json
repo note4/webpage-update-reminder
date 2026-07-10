@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html",
+    "title": "[英] Software Engineer's Firing Ruled Illegal in a Rare Win for a Tech Worker",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+    "title": "[英] Moss (YC F25) Is Hiring",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+    "title": "[英] GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://blog.sturdystatistics.com/posts/api_keys/",
+    "title": "[英] Why We Don't Trust the Database with Authentication",
+    "date": "2026-07-11"
+  },
+  {
     "link": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
     "title": "[英] Don't discontinue Gemini 2.5 Flash",
     "date": "2026-07-11"
@@ -26,7 +46,7 @@
   },
   {
     "link": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
-    "title": "[英] Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
+    "title": "[英] Mayor Mamdani announces \"Click-to-Cancel\" rules",
     "date": "2026-07-11"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://casp.ac/reports/ai-enabled-terrorism",
     "title": "[英] How the terrorist group Boko Haram uses frontier AI",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48807108",
-    "title": "[英] Ask HN: Are systems ready for the first negative leap second?",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-    "title": "[英] GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
-    "title": "[英] Disable autoplay and infinite scroll or risk fines, EU tells Meta",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48863022",
-    "title": "[英] undefined",
     "date": "2026-07-11"
   }
 ]
