@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://ec.europa.eu/commission/presscorner/home/en",
+    "title": "[英] EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://benjamintoll.com/2026/06/29/on-ditching-vagrant/",
+    "title": "[英] Ditching Vagrant: VMs with KVM and Virsh on Debian",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://znah.net/tiny_explorer/",
+    "title": "[英] Tiny Tapeout Explorer: WASM FET-level circuit SIM&vis",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+    "title": "[英] In Emacs, Everything Looks Like a Service",
+    "date": "2026-07-10"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48785421",
+    "title": "[英] undefined",
+    "date": "2026-07-10"
+  },
+  {
     "link": "https://mysysinfo.com/blog/what-is-browser-fingerprinting",
     "title": "[英] Browser Fingerprinting – How websites track you across internet –without cookies",
     "date": "2026-07-10"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
     "title": "[英] Parental device use and the adolescent-caregiver attachment bond",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://dynomight.net/hazard-ratios/",
-    "title": "[英] Life with Hazard Ratios",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/",
-    "title": "[英] Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
-    "title": "[英] Build your own vulnerability harness",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
-    "title": "[英] Star Just Ate a Planet, and It's Not Done Yet",
-    "date": "2026-07-10"
-  },
-  {
-    "link": "https://boz.com/articles/focus",
-    "title": "[英] Focus",
     "date": "2026-07-10"
   }
 ]
