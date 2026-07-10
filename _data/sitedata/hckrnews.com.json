@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://ai-2040.com/",
+    "title": "[英] AI 2040: Plan A",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+    "title": "[英] Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+    "date": "2026-07-11"
+  },
+  {
     "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
     "title": "[英] Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
     "date": "2026-07-11"
@@ -61,17 +71,7 @@
   },
   {
     "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-    "title": "[英] An Update on the scraper situation",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://doomsdaymachines.net/p/the-clouds-of-hiroshima",
-    "title": "[英] The Clouds of Hiroshima",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://www.pushsquare.com/news/2026/07/ps5-has-put-a-dampener-on-gaming-45percent-of-enthusiasts-seriously-considering-leaving-sony-for-pc",
-    "title": "[英] 45% of Enthusiasts 'Seriously Considering' Leaving Sony for PC",
+    "title": "[英] An update on residential proxies and the scraper situation",
     "date": "2026-07-11"
   }
 ]
