@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+    "title": "[英] We scaled PgBouncer to 4x throughput",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://www.atariarchives.org/deli/",
+    "title": "[英] Digital Deli, 1984 book by early PC hackers and enthusiasts",
+    "date": "2026-07-12"
+  },
+  {
     "link": "https://www.expressnews.com/business/article/san-antonio-usaa-insurance-claims-rejected-22293061.php",
     "title": "[英] USAA closed 51% of home insurance claims without making a payment in 2025",
-    "date": "2026-07-11"
+    "date": "2026-07-12"
   },
   {
     "link": "https://anti-forbes-list.vercel.app",
     "title": "[英] Show HN: Richest people in the world by wealth creation instead of ownership",
-    "date": "2026-07-11"
+    "date": "2026-07-12"
   },
   {
     "link": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
     "title": "[英] Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
-    "date": "2026-07-11"
+    "date": "2026-07-12"
   },
   {
     "link": "https://bart.degoe.de/semantic-search-in-your-browser/",
     "title": "[英] Semantic/Hybrid Search in the Browser",
-    "date": "2026-07-11"
+    "date": "2026-07-12"
   },
   {
     "link": "https://github.com/arman-jalili/guardian-framework",
     "title": "[英] Show HN: Sdlc factory built on pi.dev:intent->DDD->architecture->tested code",
-    "date": "2026-07-11"
+    "date": "2026-07-12"
   },
   {
     "link": "https://tiki.li/blog/lucky_code.html",
     "title": "[英] Your code is fast – if you're lucky",
-    "date": "2026-07-11"
+    "date": "2026-07-12"
   },
   {
-    "link": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-    "title": "[英] FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-    "date": "2026-07-11"
+    "link": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+    "title": "[英] FCC approves test of space mirror to light night sky",
+    "date": "2026-07-12"
   },
   {
     "link": "https://fazamhd.com/mental-models/networking/",
     "title": "[英] Networking and the Internet, from First Principles",
-    "date": "2026-07-11"
+    "date": "2026-07-12"
   },
   {
     "link": "https://html-drive.com",
     "title": "[英] Show HN: HTMLDrive – serve HTML files from your Google Drive",
-    "date": "2026-07-11"
+    "date": "2026-07-12"
   },
   {
     "link": "https://malisper.me/pgrust-passes-100-of-postgresqls-regression-tests/",
     "title": "[英] pgrust passes 100% of the Postgres regression tests",
-    "date": "2026-07-11"
+    "date": "2026-07-12"
   },
   {
     "link": "https://questdb.com/blog/jvm-jit-known-bits/",
     "title": "[英] The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
-    "date": "2026-07-11"
+    "date": "2026-07-12"
   },
   {
     "link": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
     "title": "[英] Google Search lets creators know more about their reach",
-    "date": "2026-07-11"
+    "date": "2026-07-12"
   },
   {
     "link": "https://www.mixfont.com/ghost-font",
-    "title": "[英] A font that humans can read but AI cannot",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
-    "title": "[英] Almost $1B Later, the US Still Can't Make a Medical Glove",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://github.com/Chrilleweb/dotenv-diff",
-    "title": "[英] Show HN: Dotenv-Diff v3.0.0",
-    "date": "2026-07-11"
+    "title": "[英] Ghost Font: A font that humans can read but AI cannot",
+    "date": "2026-07-12"
   }
 ]
