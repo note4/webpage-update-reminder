@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+    "title": "[英] Stop Telling Me to Ask an LLM",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://github.com/Wren6991/RISCBoy",
+    "title": "[英] RISCBoy is an open-source portable games console, designed from scratch",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.07267",
+    "title": "[英] Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+    "date": "2026-07-12"
+  },
+  {
     "link": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
     "title": "[英] I used to love Claude, but the latest models are slowly ruining it",
     "date": "2026-07-12"
@@ -55,23 +70,8 @@
     "date": "2026-07-12"
   },
   {
-    "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-    "title": "[英] UPI: Anatomy of a Payment Transaction",
-    "date": "2026-07-12"
-  },
-  {
     "link": "https://nagylukas.github.io/orbit.html",
     "title": "[英] Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://github.com/skorotkiewicz/earth-game",
-    "title": "[英] Show HN: Earth Game – An offline CLI for turning life goals into quests",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-    "title": "[英] Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
     "date": "2026-07-12"
   }
 ]
