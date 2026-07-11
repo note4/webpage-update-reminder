@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://github.com/openai/git",
+    "title": "[英] OpenAI Forked Git on GitHub",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=IZH1rR7WogI",
+    "title": "[英] Taiwan's Lost 8-Bit Computer [video]",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
+    "title": "[英] ZeroFS vs. Amazon S3 Files",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://antjs.org",
+    "title": "[英] Show HN: Ant – A JavaScript runtime and ecosystem",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://www.sixthtone.com/news/1018753",
+    "title": "[英] The Chinese Voice Actor Forced to Prove He's Human",
+    "date": "2026-07-12"
+  },
+  {
     "link": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
     "title": "[英] Biff.graph: structure your Clojure codebase as a queryable graph",
     "date": "2026-07-12"
@@ -16,7 +41,7 @@
   },
   {
     "link": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
-    "title": "[英] How to Hide from Killer Drones",
+    "title": "[英] How to hide from killer drones",
     "date": "2026-07-12"
   },
   {
@@ -25,13 +50,13 @@
     "date": "2026-07-12"
   },
   {
-    "link": "https://github.com/skorotkiewicz/earth-game",
-    "title": "[英] Show HN: Earth Game – An offline CLI for turning life goals into quests",
+    "link": "https://nagylukas.github.io/orbit.html",
+    "title": "[英] Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
     "date": "2026-07-12"
   },
   {
-    "link": "https://nagylukas.github.io/orbit.html",
-    "title": "[英] Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+    "link": "https://github.com/skorotkiewicz/earth-game",
+    "title": "[英] Show HN: Earth Game – An offline CLI for turning life goals into quests",
     "date": "2026-07-12"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://vfxblog.com/dinosaurinputdevice/",
     "title": "[英] The Oral History of the Dinosaur Input Device (DID)",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-    "title": "[英] Prefer Strict Tables in SQLite",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
-    "title": "[英] Who manages the agents?",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c",
-    "title": "[英] Alex Karp Is Saying What Every Angry CEO Is Thinking About AI",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
-    "title": "[英] Reverse centaurs are the answer to the AI paradox",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/BLISS",
-    "title": "[英] BLISS",
     "date": "2026-07-12"
   }
 ]
