@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.economist.com/the-world-in-brief/2026/07/11/b240d63f-2768-43dd-89b6-2bdceb6df745",
+    "title": "[英] Count Binface, Nigel Farage's space-warrior foe",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
+    "title": "[英] Preemption is GC for memory reordering (2019)",
+    "date": "2026-07-11"
+  },
+  {
     "link": "https://ai-2040.com/",
     "title": "[英] AI 2040: Plan A",
     "date": "2026-07-11"
@@ -62,16 +72,6 @@
   {
     "link": "https://blog.sturdystatistics.com/posts/api_keys/",
     "title": "[英] Why We Don't Trust the Database with Authentication",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-    "title": "[英] Please don't discontinue Gemini 2.5 Flash",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-    "title": "[英] An update on residential proxies and the scraper situation",
     "date": "2026-07-11"
   }
 ]
