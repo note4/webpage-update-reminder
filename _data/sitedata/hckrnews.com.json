@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.quicopt.com/developer/getting-started/",
+    "title": "[英] Optimization Solver as a Service",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://archive.cancerworld.net/featured/how-doctors-die/",
+    "title": "[英] Doctors die. It's not like the rest of us, but it should be (2016)",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+    "title": "[英] Weightlifting beats running for blood sugar control, researchers find",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://www.iroh.computer/blog/mesh-llm",
+    "title": "[英] Mesh LLM: distributed AI computing on iroh",
+    "date": "2026-07-12"
+  },
+  {
     "link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
     "title": "[英] Stop Telling Me to Ask an LLM",
     "date": "2026-07-12"
@@ -52,26 +72,6 @@
   {
     "link": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
     "title": "[英] Biff.graph: structure your Clojure codebase as a queryable graph",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48874046",
-    "title": "[英] Ask HN: Why isn't Google indexing information about the AT Protocol?",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://github.com/swellweb/reame",
-    "title": "[英] Show HN: Reame – a CPU inference server that gets faster as it runs",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
-    "title": "[英] How to hide from killer drones",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://nagylukas.github.io/orbit.html",
-    "title": "[英] Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
     "date": "2026-07-12"
   }
 ]
