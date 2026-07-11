@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://html-drive.com",
+    "title": "[英] Show HN: HTMLDrive – serve HTML files from your Google Drive",
+    "date": "2026-07-11"
+  },
+  {
     "link": "https://malisper.me/pgrust-passes-100-of-postgresqls-regression-tests/",
     "title": "[英] pgrust passes 100% of the Postgres regression tests",
     "date": "2026-07-11"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.joa-ebert.com/posts/2026-07-07-phobos-lang/",
     "title": "[英] Show HN: Phobos – A tiny scale-free kernel language with tile-DAG support",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://alephneuro.com/blog/silent-speech",
-    "title": "[英] Silent speech with ultrasound",
     "date": "2026-07-11"
   }
 ]
