@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://malisper.me/pgrust-passes-100-of-postgresqls-regression-tests/",
+    "title": "[英] pgrust passes 100% of the Postgres regression tests",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://questdb.com/blog/jvm-jit-known-bits/",
+    "title": "[英] The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
+    "date": "2026-07-11"
+  },
+  {
     "link": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
     "title": "[英] Google Search lets creators know more about their reach",
     "date": "2026-07-11"
@@ -62,16 +72,6 @@
   {
     "link": "https://alephneuro.com/blog/silent-speech",
     "title": "[英] Silent speech with ultrasound",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters",
-    "title": "[英] The footgun of right-to-left decorative characters",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://peakd.io",
-    "title": "[英] I've been building this alone for months. Roast it before I lose any more time",
     "date": "2026-07-11"
   }
 ]
