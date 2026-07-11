@@ -1,12 +1,27 @@
 [
   {
+    "link": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
+    "title": "[英] Documentation is still in your Mum's filing cabinet",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://neciudan.dev/most-secure-way-to-store-auth-token",
+    "title": "[英] What's the best way to do authentication in modern applications",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+    "title": "[英] The vintage beauty of Soviet control rooms (2018)",
+    "date": "2026-07-11"
+  },
+  {
     "link": "https://anartfulscience.com/insights/rule-of-7-marketing/",
     "title": "[英] The Rule of 7 and the 7-Touchpoint Myth",
     "date": "2026-07-11"
   },
   {
     "link": "https://www.clemsau.com/posts/the-lindy-effect-in-software/",
-    "title": "[英] The Lindy Effect in Software",
+    "title": "[英] The Lindy effect in software",
     "date": "2026-07-11"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://tilion.dev/blog/cloudflare-blocks-agents",
     "title": "[英] Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://magik.net/freecad/",
-    "title": "[英] FreeCAD in the Browser",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://www.economist.com/the-world-in-brief/2026/07/11/b240d63f-2768-43dd-89b6-2bdceb6df745",
-    "title": "[英] Count Binface, Nigel Farage's space-warrior foe",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
-    "title": "[英] Preemption is GC for memory reordering (2019)",
     "date": "2026-07-11"
   }
 ]
