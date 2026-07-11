@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
+    "title": "[英] Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://bart.degoe.de/semantic-search-in-your-browser/",
+    "title": "[英] Semantic/Hybrid Search in the Browser",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://github.com/arman-jalili/guardian-framework",
+    "title": "[英] Show HN: Sdlc factory built on pi.dev:intent->DDD->architecture->tested code",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://tiki.li/blog/lucky_code.html",
+    "title": "[英] Your code is fast – if you're lucky",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+    "title": "[英] FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://fazamhd.com/mental-models/networking/",
+    "title": "[英] Networking and the Internet, from First Principles",
+    "date": "2026-07-11"
+  },
+  {
     "link": "https://html-drive.com",
     "title": "[英] Show HN: HTMLDrive – serve HTML files from your Google Drive",
     "date": "2026-07-11"
@@ -42,36 +72,6 @@
   {
     "link": "https://alexandrepoupeau.com/otary/learn/",
     "title": "[英] Otary – Image and Geometry Python Library Now Has Tutorials",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
-    "title": "[英] Documentation is still in your Mum's filing cabinet",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://neciudan.dev/most-secure-way-to-store-auth-token",
-    "title": "[英] What's the best way to do authentication in modern applications",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-    "title": "[英] The vintage beauty of Soviet control rooms (2018)",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://anartfulscience.com/insights/rule-of-7-marketing/",
-    "title": "[英] The Rule of 7 and the 7-Touchpoint Myth",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://www.clemsau.com/posts/the-lindy-effect-in-software/",
-    "title": "[英] The Lindy effect in software",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://www.joa-ebert.com/posts/2026-07-07-phobos-lang/",
-    "title": "[英] Show HN: Phobos – A tiny scale-free kernel language with tile-DAG support",
     "date": "2026-07-11"
   }
 ]
