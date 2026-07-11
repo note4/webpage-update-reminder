@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+    "title": "[英] Female US rower completes historic solo journey from California to Hawaii",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
+    "title": "[英] Sixtyfour (YC P25) Is Hiring",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+    "title": "[英] Modern Decor May Be Straining People's Brains",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://shipthatcode.com",
+    "title": "[英] Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://www.historytoday.com/archive/feature/mad-dogs-and-englishmen-winning-war-rabies",
+    "title": "[英] The Victorian War on Rabies",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+    "title": "[英] The early History of the Singular Value Decomposition (1993) [pdf]",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://www.pnas.org/doi/10.1073/pnas.2528622123",
+    "title": "[英] Tropical forests facing increasing risks of exposure to critical temp thresholds",
+    "date": "2026-07-12"
+  },
+  {
     "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
     "title": "[英] We scaled PgBouncer to 4x throughput",
     "date": "2026-07-12"
@@ -37,41 +72,6 @@
   {
     "link": "https://tiki.li/blog/lucky_code.html",
     "title": "[英] Your code is fast – if you're lucky",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
-    "title": "[英] FCC approves test of space mirror to light night sky",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://fazamhd.com/mental-models/networking/",
-    "title": "[英] Networking and the Internet, from First Principles",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://html-drive.com",
-    "title": "[英] Show HN: HTMLDrive – serve HTML files from your Google Drive",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://malisper.me/pgrust-passes-100-of-postgresqls-regression-tests/",
-    "title": "[英] pgrust passes 100% of the Postgres regression tests",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://questdb.com/blog/jvm-jit-known-bits/",
-    "title": "[英] The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-    "title": "[英] Google Search lets creators know more about their reach",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://www.mixfont.com/ghost-font",
-    "title": "[英] Ghost Font: A font that humans can read but AI cannot",
     "date": "2026-07-12"
   }
 ]
