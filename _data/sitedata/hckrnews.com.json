@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+    "title": "[英] Biff.graph: structure your Clojure codebase as a queryable graph",
+    "date": "2026-07-12"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=48874046",
     "title": "[英] Ask HN: Why isn't Google indexing information about the AT Protocol?",
     "date": "2026-07-12"
@@ -15,13 +20,13 @@
     "date": "2026-07-12"
   },
   {
-    "link": "https://github.com/skorotkiewicz/earth-game",
-    "title": "[英] Show HN: Earth Game – An offline CLI for turning life goals into quests",
+    "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+    "title": "[英] UPI: Anatomy of a Payment Transaction",
     "date": "2026-07-12"
   },
   {
-    "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-    "title": "[英] UPI: Anatomy of a Payment Transaction",
+    "link": "https://github.com/skorotkiewicz/earth-game",
+    "title": "[英] Show HN: Earth Game – An offline CLI for turning life goals into quests",
     "date": "2026-07-12"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://en.wikipedia.org/wiki/BLISS",
     "title": "[英] BLISS",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://astledsa.substack.com/p/theories-of-deep-learning",
-    "title": "[英] Theories of Deep Learning",
     "date": "2026-07-12"
   }
 ]
