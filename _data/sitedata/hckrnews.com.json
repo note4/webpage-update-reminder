@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+    "title": "[英] Almost $1B Later, the US Still Can't Make a Medical Glove",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://github.com/Chrilleweb/dotenv-diff",
+    "title": "[英] Show HN: Dotenv-Diff v3.0.0",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+    "title": "[英] Companies are scrambling to curtail soaring AI costs",
+    "date": "2026-07-11"
+  },
+  {
+    "link": "https://alexandrepoupeau.com/otary/learn/",
+    "title": "[英] Otary – Image and Geometry Python Library Now Has Tutorials",
+    "date": "2026-07-11"
+  },
+  {
     "link": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
     "title": "[英] Documentation is still in your Mum's filing cabinet",
     "date": "2026-07-11"
@@ -52,26 +72,6 @@
   {
     "link": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
     "title": "[英] Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
-    "title": "[英] An iroh powered smart fan",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48867220",
-    "title": "[英] undefined",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48867079",
-    "title": "[英] undefined",
-    "date": "2026-07-11"
-  },
-  {
-    "link": "https://tilion.dev/blog/cloudflare-blocks-agents",
-    "title": "[英] Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
     "date": "2026-07-11"
   }
 ]
