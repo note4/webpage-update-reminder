@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://neocities.org/",
+    "title": "[英] Neocities: Create your own free website",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://buildnectar.com",
+    "title": "[英] Show HN: Nectar, a Rust-like React that compiles to WebAssembly",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "title": "[英] Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+    "title": "[英] I Learned to Read Again",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+    "title": "[英] The One-Step Trap (In AI Research)",
+    "date": "2026-07-13"
+  },
+  {
     "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
     "title": "[英] I love LLMs, I hate hype",
     "date": "2026-07-13"
@@ -47,31 +72,6 @@
   {
     "link": "https://github.com/BryanLunduke/LCOS",
     "title": "[英] The Lunduke Computer Operating System",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://infrequently.org/2026/07/abject-praise/",
-    "title": "[英] Abject Praise",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://twitter.com/claudeai/status/2076351399999557669",
-    "title": "[英] Fable extended until 19 July",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://marc.info/?l=openbsd-misc&m=119318909016582",
-    "title": "[英] Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.06377",
-    "title": "[英] Automation Without Understanding",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://kurvengefahr.org/",
-    "title": "[英] Show HN: Kurvengefahr – browser CAD/CAM for pen plotters",
     "date": "2026-07-13"
   }
 ]
