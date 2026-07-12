@@ -1,17 +1,42 @@
 [
   {
+    "link": "https://nigeltao.github.io/blog/2026/handsum.html",
+    "title": "[英] Handsum: An LQIP Image File Format",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
+    "title": "[英] Lindsey Graham has died",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://buf.build/blog/protobuf-py",
+    "title": "[英] Protobuf-py: Protobuf for Python, without compromises",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://pythonspeed.com/articles/branchless-binary-search/",
+    "title": "[英] 6× faster binary search: from compiled code to mechanical sympathy",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://github.com/cosmtrek/mindwalk",
+    "title": "[英] Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+    "date": "2026-07-12"
+  },
+  {
     "link": "https://www.sportico.com/business/team-sales/2026/seattle-seahawks-sale-vinod-khosla-owner-billions-1234938616/",
     "title": "[英] Vinod Khosla to Buy Seattle Seahawks for $9.6B",
     "date": "2026-07-12"
   },
   {
-    "link": "https://www.washingtonpost.com/politics/2026/07/12/lindsey-graham-longtime-south-carolina-senator-dies-71/",
-    "title": "[英] Lindsey Graham has died",
+    "link": "https://news.ycombinator.com/item?id=48878908",
+    "title": "[英] undefined",
     "date": "2026-07-12"
   },
   {
     "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-    "title": "[英] The 'Father of the Internet' is finally retiring",
+    "title": "[英] Vint Cerf, a “father of the Internet”, is retiring",
     "date": "2026-07-12"
   },
   {
@@ -21,7 +46,7 @@
   },
   {
     "link": "https://hlnet.notion.site/text-art-tools",
-    "title": "[英] Text Art Tools",
+    "title": "[英] Text art tools",
     "date": "2026-07-12"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://thebeach.dev/posts/lisp-agent/",
     "title": "[英] An agent in 100 lines of Lisp",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://github.com/PJHkorea/quantum-mesh-qec",
-    "title": "[英] Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
-    "title": "[英] Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://www.nationalreview.com/news/small-inventors-are-being-squeezed-by-a-convoluted-patent-process/",
-    "title": "[英] Small Inventors Are Being Squeezed by a Convoluted Patent Process",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://igropyr.com",
-    "title": "[英] A Erlang style pure Scheme Webserver and further",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-    "title": "[英] What xAI's Grok Build CLI Actually Sends to xAI",
     "date": "2026-07-12"
   }
 ]
