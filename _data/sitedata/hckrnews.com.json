@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://med.stanford.edu/news/insights/2026/06/nicotine-pouches-addiction-tobacco-industry-latest-ploy.html",
+    "title": "[英] Nicotine pouches, tobacco's latest ploy",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://blinry.org/lcd-clock/",
+    "title": "[英] How to build a circular LCD clock",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://vilkeliskis.com/b/2026/0711.html",
+    "title": "[英] Designing and assembling my first PCB",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48885097",
+    "title": "[英] undefined",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://laxmena.com/same-capacity-less-throughput",
+    "title": "[英] Profiling the \"Abundance\" housing bottleneck with real data",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://github.com/jiazhe868/nanogpt-seis",
+    "title": "[英] I trained a 113M-parameter earthquake LLM from absolute scratch",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://github.com/unable12/codebase-posters",
+    "title": "[英] Show HN: Codebase Posters – turn any Git repo into generative poster art",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
+    "title": "[英] Architecture Description Languages [pdf]",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+    "title": "[英] A Speed Limit for Computers",
+    "date": "2026-07-13"
+  },
+  {
     "link": "https://shellzine.net/cyberpunk-comics/",
     "title": "[英] Cyberpunk Comics, Manga and Graphic Novels",
     "date": "2026-07-13"
@@ -27,51 +72,6 @@
   {
     "link": "https://www.adaptiverecall.com/",
     "title": "[英] Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy",
-    "title": "[英] Storm clouds gather over America's financial supremacy",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://github.com/cabeen/zen-mode",
-    "title": "[英] Show HN: Zen Mode – a global focus mode for macOS",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-    "title": "[英] Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
-    "title": "[英] The State of MCP Security [pdf]",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://nanduruganesh.github.io/flash-msa/",
-    "title": "[英] Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://eli.li/the-seed-beneath-the-snow",
-    "title": "[英] The Seed Beneath the Snow",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
-    "title": "[英] \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://theconversation.com/young-women-are-identifying-as-less-straight-young-men-not-so-much-283936",
-    "title": "[英] Young women are identifying as less straight; young men, not so much",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
-    "title": "[英] Irish datacenters now guzzle 23% of the country's electricity",
     "date": "2026-07-13"
   }
 ]
