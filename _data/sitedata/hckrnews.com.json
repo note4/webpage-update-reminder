@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://satteri.bruits.org/",
+    "title": "[英] Satteri: A Markdown pipeline forged in Rust for the JavaScript world",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://www.ginagallery.com/",
+    "title": "[英] Gina Gallery of International Naive Art",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://github.com/Roee-Tsur/mcp-spec-check",
+    "title": "[英] Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://theconversation.com/the-real-mystery-behind-moana-after-1-700-years-why-did-polynesians-suddenly-sail-east-287226",
+    "title": "[英] Mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+    "title": "[英] AI Boosts Research Careers but Flattens Scientific Discovery",
+    "date": "2026-07-12"
+  },
+  {
     "link": "https://www.ft.com/content/200a6c44-9b66-4af3-82eb-98acb53898e4",
     "title": "[英] Lessons from the Vasa Shipwreck",
     "date": "2026-07-12"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.neowin.net/news/it-admins-feel-overwhelmingly-sick-of-microsoft-and-windows-11-garbage-apps-products/",
     "title": "[英] IT administrators are \"fed up\" with Microsoft's \"useless\" apps and Windows 11",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://dakra.github.io/ghostel/",
-    "title": "[英] Ghostel.el: Terminal emulator powered by libghostty",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://www.nbcnews.com/politics/politics-news/sen-lindsey-graham-dies-71-brief-sudden-illness-rcna552722",
-    "title": "[英] Sen. Lindsey Graham dies at 71 after 'brief and sudden illness'",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media",
-    "title": "[英] Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48879920",
-    "title": "[英] undefined",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
-    "title": "[英] Datacentres drive up big tech's carbon emissions to a third of those of France",
     "date": "2026-07-12"
   }
 ]
