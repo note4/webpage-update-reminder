@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
+    "title": "[英] Yt-Dlp Sequence Diagrams",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "title": "[英] Old and new apps, via modern coding agents by Terry Tao",
+    "date": "2026-07-12"
+  },
+  {
     "link": "https://mamoniem.com/xbox-og-adventures/",
     "title": "[英] Xbox 'OG' Adventures",
     "date": "2026-07-12"
@@ -30,8 +40,8 @@
     "date": "2026-07-12"
   },
   {
-    "link": "https://www.businessinsider.com/apple-openai-trade-secrets-masimo-a123-jony-ive-2026-7",
-    "title": "[英] Oh dear, did someone steal something from Apple?",
+    "link": "https://news.ycombinator.com/item?id=48879920",
+    "title": "[英] undefined",
     "date": "2026-07-12"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://buf.build/blog/protobuf-py",
     "title": "[英] Protobuf-py: Protobuf for Python, without compromises",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://pythonspeed.com/articles/branchless-binary-search/",
-    "title": "[英] 6× faster binary search: from compiled code to mechanical sympathy",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://github.com/cosmtrek/mindwalk",
-    "title": "[英] Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
     "date": "2026-07-12"
   }
 ]
