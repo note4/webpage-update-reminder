@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://kode.diy",
+    "title": "[英] Kode Dot Programmable pocket device for makers, pentesters and geeks",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://www.dailymail.com/sciencetech/article-15795297/Forgotten-nuclear-war-survival-guide-reveals-seven-everyday-items-Americans-need-disaster-strikes.html",
+    "title": "[英] Nuclear war survival guide reveals seven everyday items if disaster strikes",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://www.susanrigetti.com/physics",
+    "title": "[英] So you want to learn physics (second edition, 2021)",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://www.adaptiverecall.com/",
+    "title": "[英] Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy",
+    "title": "[英] Storm clouds gather over America's financial supremacy",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://github.com/cabeen/zen-mode",
+    "title": "[英] Show HN: Zen Mode – a global focus mode for macOS",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://nanduruganesh.github.io/flash-msa/",
+    "title": "[英] Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
+    "title": "[英] The State of MCP Security [pdf]",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+    "title": "[英] Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+    "date": "2026-07-13"
+  },
+  {
     "link": "https://eli.li/the-seed-beneath-the-snow",
     "title": "[英] The Seed Beneath the Snow",
     "date": "2026-07-13"
@@ -27,51 +72,6 @@
   {
     "link": "https://docs.jax.dev/en/latest/hijax_types.html",
     "title": "[英] Defining new Jax types with hijax",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://floooh.github.io/tiny8bit-preview/index.html",
-    "title": "[英] Tiny Emulators",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://neocities.org/",
-    "title": "[英] Neocities: Create your own free website",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://buildnectar.com",
-    "title": "[英] Show HN: Nectar, a Rust-like React that compiles to WebAssembly",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-    "title": "[英] Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-    "title": "[英] I Learned to Read Again",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-    "title": "[英] The One-Step Trap (In AI Research)",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "title": "[英] I love LLMs, I hate hype",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "title": "[英] Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-    "title": "[英] Can We Understand How Large Language Models Reason?",
     "date": "2026-07-13"
   }
 ]
