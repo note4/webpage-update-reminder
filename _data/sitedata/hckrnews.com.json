@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "title": "[英] I love LLMs, I hate hype",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "title": "[英] Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+    "title": "[英] Can We Understand How Large Language Models Reason?",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes",
+    "title": "[英] Deir El-Medina Strikes",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://softwaredoug.com/blog/2026/07/09/write-code",
+    "title": "[英] Why write code in 2026",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://www.larp.website/",
+    "title": "[英] LARP – Revenue infrastructure for serious founders",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
+    "title": "[英] Claude Code May–July 2026 weekly limits promotion",
+    "date": "2026-07-13"
+  },
+  {
     "link": "https://www.motivenotes.ai/p/against-usefulness",
     "title": "[英] Against Usefulness",
     "date": "2026-07-13"
@@ -37,41 +72,6 @@
   {
     "link": "https://kurvengefahr.org/",
     "title": "[英] Show HN: Kurvengefahr – browser CAD/CAM for pen plotters",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://rocketup.pages.dev/posts/the-european-oligrachy/",
-    "title": "[英] The European Oligarchy",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://200kb.freelang.dev/",
-    "title": "[英] Show HN: Website is served from a 200KB binary",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://github.com/hasenj/go-shirei/",
-    "title": "[英] Show HN: Shirei, cross-platform GUI framework in native Go",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://fonts.google.com/noto",
-    "title": "[英] Noto: A Typeface for the World",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://addyosmani.com/blog/agent-harness-engineering/",
-    "title": "[英] Agent Harness Engineering",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://www.geol.umd.edu/~tholtz/G331/lectures/331biomech.html",
-    "title": "[英] Morphometrics: Introduction to the Analysis of Shape",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-    "title": "[英] A no-brainer for protecting your brain",
     "date": "2026-07-13"
   }
 ]
