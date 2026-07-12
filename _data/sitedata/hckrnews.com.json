@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://blogs.nature.com/aviewfromthebridge/2017/04/20/fibonaccis-mathematical-legacy/",
+    "title": "[英] Fibonacci's Real Mathematical Legacy",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://jude-doyle.ghost.io/untitled-21/",
+    "title": "[英] Sixteen Failed Attempts to Write a Eulogy for My Father (2024)",
+    "date": "2026-07-12"
+  },
+  {
     "link": "https://nigeltao.github.io/blog/2026/handsum.html",
     "title": "[英] Handsum: An LQIP Image File Format",
     "date": "2026-07-12"
@@ -25,13 +35,13 @@
     "date": "2026-07-12"
   },
   {
-    "link": "https://www.sportico.com/business/team-sales/2026/seattle-seahawks-sale-vinod-khosla-owner-billions-1234938616/",
-    "title": "[英] Vinod Khosla to Buy Seattle Seahawks for $9.6B",
+    "link": "https://news.ycombinator.com/item?id=48878908",
+    "title": "[英] undefined",
     "date": "2026-07-12"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=48878908",
-    "title": "[英] undefined",
+    "link": "https://www.sportico.com/business/team-sales/2026/seattle-seahawks-sale-vinod-khosla-owner-billions-1234938616/",
+    "title": "[英] Vinod Khosla to Buy Seattle Seahawks for $9.6B",
     "date": "2026-07-12"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
     "title": "[英] Under federal rule, colleges must leave grads better off or lose financial aid",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy",
-    "title": "[英] Why are US consumers so angry? It's not just high prices",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://thebeach.dev/posts/lisp-agent/",
-    "title": "[英] An agent in 100 lines of Lisp",
     "date": "2026-07-12"
   }
 ]
