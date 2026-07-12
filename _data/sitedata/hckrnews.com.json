@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://shellzine.net/cyberpunk-comics/",
+    "title": "[英] Cyberpunk Comics, Manga and Graphic Novels",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48884984",
+    "title": "[英] Ask HN: What Are You Working On? (July 2026)",
+    "date": "2026-07-13"
+  },
+  {
     "link": "https://kode.diy",
     "title": "[英] Kode Dot Programmable pocket device for makers, pentesters and geeks",
     "date": "2026-07-13"
@@ -30,8 +40,8 @@
     "date": "2026-07-13"
   },
   {
-    "link": "https://nanduruganesh.github.io/flash-msa/",
-    "title": "[英] Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+    "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+    "title": "[英] Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
     "date": "2026-07-13"
   },
   {
@@ -40,8 +50,8 @@
     "date": "2026-07-13"
   },
   {
-    "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-    "title": "[英] Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+    "link": "https://nanduruganesh.github.io/flash-msa/",
+    "title": "[英] Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
     "date": "2026-07-13"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
     "title": "[英] Irish datacenters now guzzle 23% of the country's electricity",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48884055",
-    "title": "[英] undefined",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://docs.jax.dev/en/latest/hijax_types.html",
-    "title": "[英] Defining new Jax types with hijax",
     "date": "2026-07-13"
   }
 ]
