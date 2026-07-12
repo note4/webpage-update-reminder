@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.ft.com/content/200a6c44-9b66-4af3-82eb-98acb53898e4",
+    "title": "[英] Lessons from the Vasa Shipwreck",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/",
+    "title": "[英] Making Crash Bandicoot (2011)",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://mrbruh.com/motorola/",
+    "title": "[英] Unauthenticated RCE in Motorola's MR2600 Router",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://odinbook.com/",
+    "title": "[英] Understanding the Odin Programming Language",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://atthis.link/blog/2026/57207.html",
+    "title": "[英] Ditching Zotero for a Text File",
+    "date": "2026-07-12"
+  },
+  {
     "link": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
     "title": "[英] Yt-Dlp Sequence Diagrams",
     "date": "2026-07-12"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
     "title": "[英] Datacentres drive up big tech's carbon emissions to a third of those of France",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://blogs.nature.com/aviewfromthebridge/2017/04/20/fibonaccis-mathematical-legacy/",
-    "title": "[英] Fibonacci's Real Mathematical Legacy",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://jude-doyle.ghost.io/untitled-21/",
-    "title": "[英] Sixteen Failed Attempts to Write a Eulogy for My Father (2024)",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://nigeltao.github.io/blog/2026/handsum.html",
-    "title": "[英] Handsum: An LQIP Image File Format",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
-    "title": "[英] Lindsey Graham has died",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://buf.build/blog/protobuf-py",
-    "title": "[英] Protobuf-py: Protobuf for Python, without compromises",
     "date": "2026-07-12"
   }
 ]
