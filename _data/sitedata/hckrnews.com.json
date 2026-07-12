@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://fabiensanglard.net/tb4/index.html",
+    "title": "[英] A dock that wakes up reliably",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://hakibenita.com/postgresql-partition-pruning",
+    "title": "[英] How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://odysseylinux.org",
+    "title": "[英] Odyssey Linux",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/",
+    "title": "[英] The fine print that follows you out the door: non-compete clauses are spreading",
+    "date": "2026-07-12"
+  },
+  {
+    "link": "https://github.com/sqlsure/sqlsure",
+    "title": "[英] Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+    "date": "2026-07-12"
+  },
+  {
     "link": "https://www.quicopt.com/developer/getting-started/",
     "title": "[英] Optimization Solver as a Service",
     "date": "2026-07-12"
@@ -47,31 +72,6 @@
   {
     "link": "https://github.com/openai/git",
     "title": "[英] OpenAI Forked Git on GitHub",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=IZH1rR7WogI",
-    "title": "[英] Taiwan's Lost 8-Bit Computer [video]",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
-    "title": "[英] ZeroFS vs. Amazon S3 Files",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://antjs.org",
-    "title": "[英] Show HN: Ant – A JavaScript runtime and ecosystem",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://www.sixthtone.com/news/1018753",
-    "title": "[英] The Chinese Voice Actor Forced to Prove He's Human",
-    "date": "2026-07-12"
-  },
-  {
-    "link": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
-    "title": "[英] Biff.graph: structure your Clojure codebase as a queryable graph",
     "date": "2026-07-12"
   }
 ]
