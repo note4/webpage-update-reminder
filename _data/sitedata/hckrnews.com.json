@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.motivenotes.ai/p/against-usefulness",
+    "title": "[英] Against Usefulness",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://github.com/schollz/croc/",
+    "title": "[英] Croc: Securely transfer files and folders between two computers",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://github.com/BryanLunduke/LCOS",
+    "title": "[英] The Lunduke Computer Operating System",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://infrequently.org/2026/07/abject-praise/",
+    "title": "[英] Abject Praise",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://twitter.com/claudeai/status/2076351399999557669",
+    "title": "[英] Fable extended until 19 July",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://marc.info/?l=openbsd-misc&m=119318909016582",
+    "title": "[英] Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.06377",
+    "title": "[英] Automation Without Understanding",
+    "date": "2026-07-13"
+  },
+  {
     "link": "https://kurvengefahr.org/",
     "title": "[英] Show HN: Kurvengefahr – browser CAD/CAM for pen plotters",
     "date": "2026-07-13"
@@ -11,7 +46,7 @@
   },
   {
     "link": "https://200kb.freelang.dev/",
-    "title": "[英] Website is served from a 200KB binary",
+    "title": "[英] Show HN: Website is served from a 200KB binary",
     "date": "2026-07-13"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
     "title": "[英] A no-brainer for protecting your brain",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://hidden-phenomena.com/articles/modular",
-    "title": "[英] Why study Diophantine equations?",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
-    "title": "[英] Autoresearch, Claude and Constrained Optimization",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://fabiensanglard.net/extinct/index.html",
-    "title": "[英] Don't You Mean Extinct?",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://atthis.link/blog/2024/49629.html",
-    "title": "[英] TK, or the secret to effortless writing (2024)",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
-    "title": "[英] The power of collaboration: How we can reduce traffic congestion",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-    "title": "[英] How to Read More Books",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://web.archive.org/web/20040612082405/https://www.google.com/explanation.html",
-    "title": "[英] An explanation of our search results",
     "date": "2026-07-13"
   }
 ]
