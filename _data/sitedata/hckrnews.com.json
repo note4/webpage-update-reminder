@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://blog.ptidej.net/collaboration-networks-in-brazilian-computer-science/",
+    "title": "[英] Collaboration Networks in Brazilian Computer Science",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://www.thenewcritic.com/p/manifest-man",
+    "title": "[英] Manifest Man",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
+    "title": "[英] ‘Asia's cleanest village’ bans tourists on Sundays",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/",
+    "title": "[英] MIT's New Method Flags AI Models Trained on CASM Without Generating It",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://github.com/thephw/claude-meseeks",
+    "title": "[英] Claude is just Mr. Meeseeks",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://1shotchallenge.ai",
+    "title": "[英] Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48899741",
+    "title": "[英] undefined",
+    "date": "2026-07-14"
+  },
+  {
     "link": "https://arxiv.org/abs/2606.30261",
     "title": "[英] Robust Secret Storage in Networks",
     "date": "2026-07-14"
@@ -37,41 +72,6 @@
   {
     "link": "https://github.com/yeet-src/sigwire",
     "title": "[英] Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
-    "title": "[英] SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
-    "title": "[英] AI Is a Bad Tool",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://planwright.tools",
-    "title": "[英] Show HN: PlanWright – A control plane for AI coding agents",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-    "title": "[英] Show HN: I implemented a neural network in SQL",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-    "title": "[英] Show HN: YouTube Guitar Tab Parser",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://www.whois.com/whois/t.me",
-    "title": "[英] Telegram's t.me domain has been suspended",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://www.commondreams.org/opinion/us-israel-military-merger",
-    "title": "[英] Section 219, the US-Israel Military Merger, Would Thwart American Democracy",
     "date": "2026-07-14"
   }
 ]
