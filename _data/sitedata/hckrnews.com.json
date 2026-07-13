@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://xeiaso.net/notes/2026/console-wars-lost/",
+    "title": "[英] The console wars have been lost",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://loot-raiders.vercel.app",
+    "title": "[英] Show HN: Loot Raiders – an ARC Raiders-inspired inventory game in Svelte",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
+    "title": "[英] Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/",
+    "title": "[英] Berkshire's $397B Bet Against an Overheated Market",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+    "title": "[英] The Graph That Should Be Front-Page News",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+    "title": "[英] Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+    "title": "[英] Interrail: 6,379Km and 13 Countries over 7 weeks",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://inmargin.io/blog/tracking-unique-visitors-without-cookies",
+    "title": "[英] Tracking unique visitors without cookies",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+    "title": "[英] Quadrupling code performance with a \"useless\" if",
+    "date": "2026-07-13"
+  },
+  {
     "link": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
     "title": "[英] The social physics of conversation: Communication patterns matter",
     "date": "2026-07-13"
@@ -27,51 +72,6 @@
   {
     "link": "https://github.com/schlae/BeavisUltrasound",
     "title": "[英] Beavis Ultrasound PnP ISA Sound Card Replica",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://www.engadget.com/2211886/guy-who-took-photo-of-jupiter-with-a-game-boy-camera-and-giant-telescope-publishes-diy-tutorial/",
-    "title": "[英] Guy took Jupiter photo with Game Boy Camera, giant telescope, publishes tutorial",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://countbinface.com",
-    "title": "[英] Count Binface",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://shub.club/writings/2026/july/check-your-scrollheight/",
-    "title": "[英] Are you telling me a readonly property is wrecking my performance?",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://knuckledustchronicles.com/1970-plymouth-hemi-cuda/",
-    "title": "[英] 1970 Plymouth Hemi 'CUDA",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://www.cbc.ca/news/canada/quest-shipwreck-expedition-images-9.7262229",
-    "title": "[英] First look at Quest, the final ship of Antarctic explorer Shackleton",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county",
-    "title": "[英] Modernizing Property Tax Assessments in Allegheny County",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://nebusec.ai/research/ionstack-part-2/",
-    "title": "[英] GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://www.calculix.de/",
-    "title": "[英] Calculix: A Free Software Three-Dimensional Structural Finite Element Program",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/",
-    "title": "[英] The four horsemen behind Postgres outages",
     "date": "2026-07-13"
   }
 ]

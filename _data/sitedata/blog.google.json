@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/waze/waze-updates-gemini-motorcycle-mode/",
+    "title": "[英] Waze rolls out new customization features and more Gemini updates",
+    "date": "2026-07-13 17:00:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/products/google-health/bryson-dechambeau/",
     "title": "[英] Bryson DeChambeau partners with Google Health.",
     "date": "2026-07-11 00:12:00"
@@ -10,13 +15,13 @@
     "date": "2026-07-11 00:00:00"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/",
-    "title": "[英] We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
+    "link": "https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/",
+    "title": "[英] Expanding AI transparency in ads",
     "date": "2026-07-10 00:00:00"
   },
   {
-    "link": "https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/",
-    "title": "[英] Expanding AI transparency in ads",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/",
+    "title": "[英] We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
     "date": "2026-07-10 00:00:00"
   },
   {
@@ -68,10 +73,5 @@
     "link": "https://blog.google/products-and-platforms/products/android-enterprise/b3-android-enterprise/",
     "title": "[英] Why B3 chose Android for secure AI-enabled productivity",
     "date": "2026-07-02 03:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-    "title": "[英] The latest AI news we announced in June 2026",
-    "date": "2026-07-02 02:15:00"
   }
 ]
