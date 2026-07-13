@@ -1,12 +1,27 @@
 [
   {
+    "link": "https://arxiv.org/abs/2606.30261",
+    "title": "[英] Robust Secret Storage in Networks",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
+    "title": "[英] A Second-Grade Teacher Revived a Beloved Video Game",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://github.com/Poseidon-fan/linux-0.11-rs",
+    "title": "[英] Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+    "date": "2026-07-14"
+  },
+  {
     "link": "https://github.com/jbwinters/jacquard-lang",
     "title": "[英] Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
     "date": "2026-07-14"
   },
   {
     "link": "https://neow.in/cWsyMTV3",
-    "title": "[英] Samsung will delete your health data if you don't let them use it to train AI",
+    "title": "[英] Samsung Health app threatens data deletion if users opt out AI training",
     "date": "2026-07-14"
   },
   {
@@ -35,13 +50,13 @@
     "date": "2026-07-14"
   },
   {
-    "link": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-    "title": "[英] Show HN: I implemented a neural network in SQL",
+    "link": "https://planwright.tools",
+    "title": "[英] Show HN: PlanWright – A control plane for AI coding agents",
     "date": "2026-07-14"
   },
   {
-    "link": "https://planwright.tools",
-    "title": "[英] Show HN: PlanWright – A control plane for AI coding agents",
+    "link": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+    "title": "[英] Show HN: I implemented a neural network in SQL",
     "date": "2026-07-14"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://www.commondreams.org/opinion/us-israel-military-merger",
     "title": "[英] Section 219, the US-Israel Military Merger, Would Thwart American Democracy",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
-    "title": "[英] Climate.gov was destroyed. Open data saved it",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://garden-of-flowers.heikkilotvonen.com/?essay",
-    "title": "[英] The Origins of Heikki's Garden of Flowers",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://nobie.com",
-    "title": "[英] Show HN: Nobie – an Excel-compatible runtime for agents and humans",
     "date": "2026-07-14"
   }
 ]
