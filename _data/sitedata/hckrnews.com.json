@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.bbc.com/news/articles/cwye0dlzgejo",
+    "title": "[英] The 'absolute magic' of Morse code that still connects people globally",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://antirez.com/news/169",
+    "title": "[英] Control the Ideas, Not the Code",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
+    "title": "[英] Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://github.com/floodtide/dom-docx",
+    "title": "[英] Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://yeet.cx/blog/l7-firewall-in-the-kernel",
+    "title": "[英] We Put an L7 Firewall in the Kernel",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop",
+    "title": "[英] An Infuriating Goodbye to Photoshop",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://jivx.com/densha",
+    "title": "[英] A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+    "date": "2026-07-13"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48848741",
+    "title": "[英] Ask HN: Does anyone let AI agents play games just for fun?",
+    "date": "2026-07-13"
+  },
+  {
     "link": "https://xeiaso.net/notes/2026/console-wars-lost/",
     "title": "[英] The console wars have been lost",
     "date": "2026-07-13"
@@ -32,46 +72,6 @@
   {
     "link": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
     "title": "[英] Interrail: 6,379Km and 13 Countries over 7 weeks",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://inmargin.io/blog/tracking-unique-visitors-without-cookies",
-    "title": "[英] Tracking unique visitors without cookies",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
-    "title": "[英] Quadrupling code performance with a \"useless\" if",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
-    "title": "[英] The social physics of conversation: Communication patterns matter",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-    "title": "[英] Backtrack-Free Cursive",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://cnalifestyle.channelnewsasia.com/entertainment/sam-neill-dead-jurassic-park-actor-585891",
-    "title": "[英] New Zealand actor Sam Neill, known for Jurassic Park and The Piano, dies at 78",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
-    "title": "[英] Sam Neill has died",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://dkryaklin.com/blog/colordx-gpu",
-    "title": "[英] Converting colors in JavaScript at 6B operations per second",
-    "date": "2026-07-13"
-  },
-  {
-    "link": "https://github.com/schlae/BeavisUltrasound",
-    "title": "[英] Beavis Ultrasound PnP ISA Sound Card Replica",
     "date": "2026-07-13"
   }
 ]
