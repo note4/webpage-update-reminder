@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://github.com/jbwinters/jacquard-lang",
+    "title": "[英] Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://neow.in/cWsyMTV3",
+    "title": "[英] Samsung will delete your health data if you don't let them use it to train AI",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://humansand.ai/blog/nvfp4-rl",
+    "title": "[英] The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://lionshead.digital/notes/the-security-checks-in-every-lionshead-pr",
+    "title": "[英] The security checks in every Lionshead PR",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://github.com/yeet-src/sigwire",
+    "title": "[英] Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
+    "title": "[英] SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
+    "title": "[英] AI Is a Bad Tool",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+    "title": "[英] Show HN: I implemented a neural network in SQL",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://planwright.tools",
+    "title": "[英] Show HN: PlanWright – A control plane for AI coding agents",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+    "title": "[英] Show HN: YouTube Guitar Tab Parser",
+    "date": "2026-07-14"
+  },
+  {
     "link": "https://www.whois.com/whois/t.me",
     "title": "[英] Telegram's t.me domain has been suspended",
     "date": "2026-07-14"
@@ -22,56 +72,6 @@
   {
     "link": "https://nobie.com",
     "title": "[英] Show HN: Nobie – an Excel-compatible runtime for agents and humans",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://x.ai/news/new-flagship-voices",
-    "title": "[英] New Flagship Grok Voices",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://bruceediger.com/posts/tftp-honeypot-results/",
-    "title": "[英] TFTP Honey Pot Results",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://blog.thunderbird.net/2026/07/desktopsettings/",
-    "title": "[英] Thunderbird Desktop settings research: what we learned from your feedback",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://acoup.blog/2026/07/10/friday-friday-july-10-2026-on-the-chud-vision-of-roman-history/",
-    "title": "[英] The Chud Vision of Roman History",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
-    "title": "[英] The infinite scroll may become endangered if controversial Calif. law passes",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://www.engineering.upenn.edu/stories/how-sea-stars-build-materials-that-can-see/",
-    "title": "[英] How sea stars build materials that can see",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump",
-    "title": "[英] A full body MRI earns you a year of smoking",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://cakehonolulu.github.io/linux-on-32x/",
-    "title": "[英] Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://github.com/morganwilliscloud/billai-bass",
-    "title": "[英] Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://playcode.io/blog/real-price-of-frontier-models",
-    "title": "[英] The real prices of frontier models. Tokens * Price, right?",
     "date": "2026-07-14"
   }
 ]
