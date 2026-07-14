@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://internals-for-interns.com/posts/go-runtime-profiling/",
+    "title": "[英] Understanding the Go Runtime: Profiling",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://gendx.dev/blog/2026/07/13/input-digits.html",
+    "title": "[英] Just Let Me Write Digits",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+    "title": "[英] European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
+    "title": "[英] Alternative(s) to run CUDA on non-Nvidia hardware",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cg53l737v1qo",
+    "title": "[英] Indian scientists produce most detailed 3D atlas of the human brainstem",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://agent-benchmarks.com/software-factory/",
+    "title": "[英] Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://hiraditya.github.io/posts/hardware-hazards-b200/",
+    "title": "[英] The Anatomy of an Instruction Pipeline Hazard",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://max-amb.github.io/blog/zero_knowledge_tolstoyan_art/",
+    "title": "[英] Zero Knowledge Tolstoyan Art",
+    "date": "2026-07-14"
+  },
+  {
     "link": "https://github.com/yagarea/jektex",
     "title": "[英] Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster",
     "date": "2026-07-14"
@@ -16,7 +56,7 @@
   },
   {
     "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-    "title": "[英] Australia is offering free daytime electricity",
+    "title": "[英] Australian energy retailers must provide three hours of free daytime electricity",
     "date": "2026-07-14"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://blinry.org/lcd-clock/",
     "title": "[英] How to build a circular LCD clock",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
-    "title": "[英] Our Amish Language",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff",
-    "title": "[英] Agents.md – Dumb Human",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://www.economist.com/united-states/2026/07/13/americas-other-elections-problem",
-    "title": "[英] America's Other Elections Problem",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-    "title": "[英] Japan develops a method to recover up to 90% of lithium from used EV batteries",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-    "title": "[英] What will be left for us to work on?",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://satellitemap.space/",
-    "title": "[英] Satellite Tracker – Live Map of Starlink and 30k Satellites",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
-    "title": "[英] Is x86 ready to ACE it?",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://web.stanford.edu/~dntse/wireless_book.html",
-    "title": "[英] Fundamentals of Wireless Communication (2005)",
     "date": "2026-07-14"
   }
 ]
