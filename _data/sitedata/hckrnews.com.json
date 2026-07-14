@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+    "title": "[英] Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://dl.acm.org/doi/epdf/10.1145/36177.36194",
+    "title": "[英] Superoptimizer – A Look at the Smallest Program",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://agnost.ai",
+    "title": "[英] Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+    "title": "[英] I'm a USB-C Maximalist",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+    "title": "[英] The Agentic Loop: Three loops in a trench coat",
+    "date": "2026-07-15"
+  },
+  {
     "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
     "title": "[英] Are we offloading too much of our thinking to AI?",
-    "date": "2026-07-14"
+    "date": "2026-07-15"
   },
   {
     "link": "https://www.verbaprima.com/",
     "title": "[英] Show HN: Opening lines of famous literary works",
-    "date": "2026-07-14"
+    "date": "2026-07-15"
   },
   {
     "link": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
     "title": "[英] A tiny cell that broke a big rule of biology",
-    "date": "2026-07-14"
+    "date": "2026-07-15"
   },
   {
     "link": "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/",
     "title": "[英] A metallurgist's doubts about self-replicating probes",
-    "date": "2026-07-14"
+    "date": "2026-07-15"
   },
   {
     "link": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
     "title": "[英] How the FSF sysadmins block botnets with reaction",
-    "date": "2026-07-14"
+    "date": "2026-07-15"
   },
   {
     "link": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
     "title": "[英] New York becomes the first state to impose a data center moratorium",
-    "date": "2026-07-14"
+    "date": "2026-07-15"
   },
   {
     "link": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
     "title": "[英] Agnes Callard’s theory of the uni-context",
-    "date": "2026-07-14"
+    "date": "2026-07-15"
   },
   {
     "link": "https://github.com/juggler-ai/juggler",
     "title": "[英] Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-    "date": "2026-07-14"
+    "date": "2026-07-15"
   },
   {
     "link": "https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/",
     "title": "[英] OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members",
-    "date": "2026-07-14"
+    "date": "2026-07-15"
   },
   {
     "link": "https://twitter.com/demishassabis/status/2076957440109625718",
     "title": "[英] Demis Hassabis has a plan to harness AI safely",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
-    "title": "[英] Paxos Made Simple (2001)[pdf]",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://serena-williams-fitdex.netlify.app/",
-    "title": "[英] Serena Williams Fit-Dex",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://jacobfilipp.com/care/",
-    "title": "[英] Proof of care in the age of AI",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://zserge.com/posts/tensor/",
-    "title": "[英] Tensor Is the Might",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
-    "title": "[英] The kids with phones are alright",
-    "date": "2026-07-14"
+    "date": "2026-07-15"
   }
 ]
