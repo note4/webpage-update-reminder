@@ -1,7 +1,12 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-care-plus-open-enrollment-2026/",
+    "title": "[英] It's not too late to get Pixel Care+ for your Pixel 9 or 10.",
+    "date": "2026-07-15 06:00:00"
+  },
+  {
     "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-met-ai-initiatives/",
-    "title": "[英] The Met and Google Arts & Culture celebrate 15 years of innovation",
+    "title": "[英] Explore The Met in new ways with generative AI",
     "date": "2026-07-15 04:00:00"
   },
   {
@@ -50,13 +55,13 @@
     "date": "2026-07-11 00:00:00"
   },
   {
-    "link": "https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/",
-    "title": "[英] Expanding AI transparency in ads",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/",
+    "title": "[英] We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
     "date": "2026-07-10 00:00:00"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/",
-    "title": "[英] We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
+    "link": "https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/",
+    "title": "[英] Expanding AI transparency in ads",
     "date": "2026-07-10 00:00:00"
   },
   {
@@ -68,10 +73,5 @@
     "link": "https://blog.google/products-and-platforms/products/photos/video-remix/",
     "title": "[英] Create shareable video clips in seconds with Video Remix in Google Photos.",
     "date": "2026-07-09 01:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/gemini/coffee-shop-gemini-features/",
-    "title": "[英] 3 ways this coffee shop is growing with Gemini",
-    "date": "2026-07-09 00:00:00"
   }
 ]
