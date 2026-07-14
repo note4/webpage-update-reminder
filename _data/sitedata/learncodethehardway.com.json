@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://learncodethehardway.com/emails/36-art-guy-summer-week-1-review/",
+    "title": "[英] 📧 Art Guy Summer Week 1 Review",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://learncodethehardway.com/emails/35-summersaleforjuly2026/",
+    "title": "[英] 📧 25% Off 2026 Summer Sale",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://learncodethehardway.com/emails/34-howtomicapaintingandakeyboard/",
+    "title": "[英] 📧 How to Mic a Painting and a Keyboard",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://learncodethehardway.com/emails/33-announcing-art-guy-summer/",
+    "title": "[英] 📧 Announcing Art Guy Summer, 2026",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://learncodethehardway.com/emails/32-java-in-2026-is-way-better/",
+    "title": "[英] 📧 Java in 2026 is WAY Better",
+    "date": "2026-07-14"
+  },
+  {
     "link": "https://learncodethehardway.com/blog/40-my-first-game-jam-experience/",
     "title": "[英] My First Experience Entering a Game Jam",
-    "date": "2026-04-29"
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://learncodethehardway.com/emails/31-learn-cpp-the-hard-way-finally-progressing/",
+    "title": "[英] 📧 LearnC++the Hard Way Finally Progressing",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://learncodethehardway.com/emails/30-the-great-rewrite-has-already-failed/",
+    "title": "[英] 📧 The Great Rewrite Has Already Failed",
+    "date": "2026-07-14"
   },
   {
     "link": "https://learncodethehardway.com/blog/39-ai-didnt-kill-programming-you-did/",
     "title": "[英] AI Didn't Kill Programming, You Did",
-    "date": "2026-04-29"
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://learncodethehardway.com/emails/29-mistaken-epic-supporter-sale-price/",
+    "title": "[英] 📧 Epic Supporter Pack is Actually 15% Off Now",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://learncodethehardway.com/emails/28-the-great-rewrite-and-other-changes/",
+    "title": "[英] 📧 The Great Rewrite Announcement",
+    "date": "2026-07-14"
   },
   {
     "link": "https://learncodethehardway.com/blog/38-announcing-the-great-rewrite-project/",
     "title": "[英] Announcing the Great Rewrite Project",
-    "date": "2026-04-29"
+    "date": "2026-07-14"
   },
   {
-    "link": "https://learncodethehardway.com/blog/37-i-made-you-a-baby-rogue-in-python/",
-    "title": "[英] I Made You a Baby Rogue in Python",
-    "date": "2026-04-29"
+    "link": "https://learncodethehardway.com/emails/27-we-are-finally-off-discord/",
+    "title": "[英] 📧 We Are Finally Off Discord",
+    "date": "2026-07-14"
   },
   {
-    "link": "https://learncodethehardway.com/blog/36-an-efficient-go-study-guide/",
-    "title": "[英] An Efficient Go Study Guide",
-    "date": "2026-04-29"
+    "link": "https://learncodethehardway.com/emails/26-last-day-for-winter-sale/",
+    "title": "[英] 📧 2026 Winter Sale Almost Over -- Save 15%",
+    "date": "2026-07-14"
   },
   {
-    "link": "https://learncodethehardway.com/blog/35-announcing-painting-for-programmers/",
-    "title": "[英] Announcing Painting for Programmers",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://learncodethehardway.com/blog/34-i-preserve-the-old-ways-i-guess/",
-    "title": "[英] I Preserve the Old Ways...I Guess?",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://learncodethehardway.com/blog/33-rogue-is-the-best-beginner-project/",
-    "title": "[英] Rogue is the Best Project",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://learncodethehardway.com/blog/32-very-deep-not-boring-beginner-projects/",
-    "title": "[英] Very Deep Not Boring Beginner Projects",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/",
-    "title": "[英] C++ Is An Absolute Blast",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://learncodethehardway.com/blog/30-just-use-msys2-you-say/",
-    "title": "[英] Just Use MSYS2 You Say?",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://learncodethehardway.com/blog/29-solving-the-worst-problem-in-programming-education-windows/",
-    "title": "[英] Solving the Worst Problem in Programming Education: Windows",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://learncodethehardway.com/blog/28-minimum-educational-c-plus-plus/",
-    "title": "[英] Minimum Educational C++",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://learncodethehardway.com/blog/27-how-long-does-it-take-to-learn-to-code/",
-    "title": "[英] How Long Does it Take to Learn to Code?",
-    "date": "2026-04-29"
-  },
-  {
-    "link": "https://learncodethehardway.com/blog/26-exploring-the-replacement-for-c-as-an-educational-language/",
-    "title": "[英] Exploring the Replacement for C as an Educational Language",
-    "date": "2026-04-29"
+    "link": "https://learncodethehardway.com/emails/25-winter-sale-and-the-vulkan-saga/",
+    "title": "[英] 📧 2026 New Year Sale, and A Ton of Videos",
+    "date": "2026-07-14"
   }
 ]
