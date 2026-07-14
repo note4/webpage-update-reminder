@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://www.commonreader.co.uk/p/no-spanish-reading-crisis",
+    "title": "[英] No Spanish Reading Crisis?",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
+    "title": "[英] Germany set to restrict its Freedom of Information Act",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+    "title": "[英] How to stop Claude from saying load-bearing",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://adi.bio/done",
+    "title": "[英] The Definition of Done",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://adi.bio/reality",
+    "title": "[英] Punch Yourself in the Face with Reality",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+    "title": "[英] Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://scanwayy.com",
+    "title": "[英] Show HN: Beautiful QR Codes",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://github.com/openai/codex/issues/28058",
+    "title": "[英] Codex starts encrypting sub-agent prompts",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://bartoszmilewski.com/2026/06/30/actegories/",
+    "title": "[英] Actegories",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://blog.incogni.com/digital-fatigue-and-burnout/",
+    "title": "[英] The great digital fatigue: How digital burnout is changing social media use",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://github.com/rejourneyco/rejourney",
+    "title": "[英] Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
+    "title": "[英] The Future Worth Building Is Human – Thinking Machines Lab",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+    "title": "[英] Your 'App' Could Have Been a Webpage (so I fixed it for you)",
+    "date": "2026-07-14"
+  },
+  {
     "link": "https://knots.neocities.org/knotindex",
     "title": "[英] Notable Knot Index (2016)",
     "date": "2026-07-14"
@@ -7,71 +72,6 @@
   {
     "link": "https://sebsite.pw/w/20260709-nan.html",
     "title": "[英] Two Case Studies of NaN",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://internals-for-interns.com/posts/go-runtime-profiling/",
-    "title": "[英] Understanding the Go Runtime: Profiling",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://gendx.dev/blog/2026/07/13/input-digits.html",
-    "title": "[英] Just Let Me Write Digits",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-    "title": "[英] European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
-    "title": "[英] Alternative(s) to run CUDA on non-Nvidia hardware",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://agent-benchmarks.com/software-factory/",
-    "title": "[英] Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cg53l737v1qo",
-    "title": "[英] Indian scientists produce most detailed 3D atlas of the human brainstem",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://hiraditya.github.io/posts/hardware-hazards-b200/",
-    "title": "[英] The Anatomy of an Instruction Pipeline Hazard",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://max-amb.github.io/blog/zero_knowledge_tolstoyan_art/",
-    "title": "[英] Zero Knowledge Tolstoyan Art",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://github.com/yagarea/jektex",
-    "title": "[英] Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
-    "title": "[英] OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://sebsite.pw/w/20260709-nan.html",
-    "title": "[英] Two Case Studies of NaN",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-    "title": "[英] Australian energy retailers must provide three hours of free daytime electricity",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/",
-    "title": "[英] Writing a bindless GPU abstraction layer",
     "date": "2026-07-14"
   }
 ]
