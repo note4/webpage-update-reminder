@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://serena-williams-fitdex.netlify.app/",
+    "title": "[英] Serena Williams Fit-Dex",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://zserge.com/posts/tensor/",
+    "title": "[英] Tensor Is the Might",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://jacobfilipp.com/care/",
+    "title": "[英] Proof of Care in the Age of A.I",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
+    "title": "[英] Kids (With Phones) Are Alright",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
+    "title": "[英] Differentiable Fortran with LFortran and Enzyme",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://github.com/Danau5tin/ai-trains-ai",
+    "title": "[英] Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://ryanjk5.github.io/posts/rjk-duck/",
+    "title": "[英] Beautiful Type Erasure with C++26 Reflection",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.05188",
+    "title": "[英] Coding agents think ahead of time",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://dmars.drpz.xyz/",
+    "title": "[英] Dmars – A modern Core Wars toolchain",
+    "date": "2026-07-14"
+  },
+  {
     "link": "https://www.commonreader.co.uk/p/no-spanish-reading-crisis",
     "title": "[英] No Spanish Reading Crisis?",
     "date": "2026-07-14"
@@ -15,6 +60,11 @@
     "date": "2026-07-14"
   },
   {
+    "link": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+    "title": "[英] Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+    "date": "2026-07-14"
+  },
+  {
     "link": "https://adi.bio/done",
     "title": "[英] The Definition of Done",
     "date": "2026-07-14"
@@ -22,56 +72,6 @@
   {
     "link": "https://adi.bio/reality",
     "title": "[英] Punch Yourself in the Face with Reality",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
-    "title": "[英] Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://scanwayy.com",
-    "title": "[英] Show HN: Beautiful QR Codes",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://github.com/openai/codex/issues/28058",
-    "title": "[英] Codex starts encrypting sub-agent prompts",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://bartoszmilewski.com/2026/06/30/actegories/",
-    "title": "[英] Actegories",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://blog.incogni.com/digital-fatigue-and-burnout/",
-    "title": "[英] The great digital fatigue: How digital burnout is changing social media use",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://github.com/rejourneyco/rejourney",
-    "title": "[英] Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
-    "title": "[英] The Future Worth Building Is Human – Thinking Machines Lab",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-    "title": "[英] Your 'App' Could Have Been a Webpage (so I fixed it for you)",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://knots.neocities.org/knotindex",
-    "title": "[英] Notable Knot Index (2016)",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://sebsite.pw/w/20260709-nan.html",
-    "title": "[英] Two Case Studies of NaN",
     "date": "2026-07-14"
   }
 ]
