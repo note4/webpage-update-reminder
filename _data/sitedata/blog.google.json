@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/products/chrome/were-expanding-gemini-in-chrome-to-users-in-the-uk/",
+    "title": "[英] We’re expanding Gemini in Chrome to users in the U.K.",
+    "date": "2026-07-14 15:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026/",
     "title": "[英] How Gemini is speaking the language of Southeast Asia",
     "date": "2026-07-14 12:30:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites/",
     "title": "[英] Three new satellites join the fight against wildfires.",
     "date": "2026-07-08 00:15:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-    "title": "[英] Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-    "date": "2026-07-07 16:54:00"
   }
 ]

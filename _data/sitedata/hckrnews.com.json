@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://github.com/yagarea/jektex",
+    "title": "[英] Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
+    "title": "[英] OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://sebsite.pw/w/20260709-nan.html",
+    "title": "[英] Two Case Studies of NaN",
+    "date": "2026-07-14"
+  },
+  {
     "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
     "title": "[英] Australia is offering free daytime electricity",
     "date": "2026-07-14"
@@ -57,21 +72,6 @@
   {
     "link": "https://web.stanford.edu/~dntse/wireless_book.html",
     "title": "[英] Fundamentals of Wireless Communication (2005)",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://elasticity.institute/rsi-paper.pdf",
-    "title": "[英] The Economics of Recursive Self-Improvement [pdf]",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
-    "title": "[英] Building Food Metadata with LLM Juries",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made",
-    "title": "[英] World-First 'Super Alloy' Could Transform the Way Metals Are Made",
     "date": "2026-07-14"
   }
 ]
