@@ -1,17 +1,37 @@
 [
   {
+    "link": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+    "title": "[英] The zero-cost fallacy: open-source software in the agentic era",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
+    "title": "[英] S&P downgrades Oracle to BBB – only one notch above junk level",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "title": "[英] The Tower Keeps Rising",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
+    "title": "[英] Kontigo (YC S24) Is Hiring (Head of Security)",
+    "date": "2026-07-15"
+  },
+  {
     "link": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
     "title": "[英] Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
     "date": "2026-07-15"
   },
   {
-    "link": "https://dl.acm.org/doi/epdf/10.1145/36177.36194",
-    "title": "[英] Superoptimizer – A Look at the Smallest Program",
+    "link": "https://agnost.ai",
+    "title": "[英] Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
     "date": "2026-07-15"
   },
   {
-    "link": "https://agnost.ai",
-    "title": "[英] Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+    "link": "https://dl.acm.org/doi/epdf/10.1145/36177.36194",
+    "title": "[英] Superoptimizer – A Look at the Smallest Program",
     "date": "2026-07-15"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
     "title": "[英] New York becomes the first state to impose a data center moratorium",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
-    "title": "[英] Agnes Callard’s theory of the uni-context",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://github.com/juggler-ai/juggler",
-    "title": "[英] Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/",
-    "title": "[英] OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://twitter.com/demishassabis/status/2076957440109625718",
-    "title": "[英] Demis Hassabis has a plan to harness AI safely",
     "date": "2026-07-15"
   }
 ]
