@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026/",
+    "title": "[英] How Gemini is speaking the language of Southeast Asia",
+    "date": "2026-07-14 12:30:00"
+  },
+  {
     "link": "https://blog.google/products/ads-commerce/video-campaign-groups/",
     "title": "[英] Optimize your reach and frequency across campaigns with video campaign groups.",
     "date": "2026-07-14 00:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
     "title": "[英] Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
     "date": "2026-07-07 16:54:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/platforms/google-play/indie-games-fund-africa/",
-    "title": "[英] We're investing $1 million in Africa's indie game developers.",
-    "date": "2026-07-04 00:00:00"
   }
 ]

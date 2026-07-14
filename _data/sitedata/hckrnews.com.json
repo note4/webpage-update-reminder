@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+    "title": "[英] Australia is offering free daytime electricity",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/",
+    "title": "[英] Writing a bindless GPU abstraction layer",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://github.com/JetBrains/youtrackdb",
+    "title": "[英] YouTrackDB is a general-use object-oriented graph database",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://blinry.org/lcd-clock/",
+    "title": "[英] How to build a circular LCD clock",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
+    "title": "[英] Our Amish Language",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff",
+    "title": "[英] Agents.md – Dumb Human",
+    "date": "2026-07-14"
+  },
+  {
+    "link": "https://www.economist.com/united-states/2026/07/13/americas-other-elections-problem",
+    "title": "[英] America's Other Elections Problem",
+    "date": "2026-07-14"
+  },
+  {
     "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
     "title": "[英] Japan develops a method to recover up to 90% of lithium from used EV batteries",
     "date": "2026-07-14"
@@ -21,7 +56,7 @@
   },
   {
     "link": "https://web.stanford.edu/~dntse/wireless_book.html",
-    "title": "[英] Fundamentals of Wireless Communication",
+    "title": "[英] Fundamentals of Wireless Communication (2005)",
     "date": "2026-07-14"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made",
     "title": "[英] World-First 'Super Alloy' Could Transform the Way Metals Are Made",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://github.com/DaqulaLin/MemStitch",
-    "title": "[英] Show HN: MemStitch – Zero-copy context bridging for vLLM (25x TTFT speedup)",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter",
-    "title": "[英] Success may not matter if you aren't doing what you love",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://paradigms-of-intelligence.github.io/morpho/",
-    "title": "[英] MorphoHDL: A minimalistic language for growing circuits",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.08550",
-    "title": "[英] ESBMC-Arduino: Closing the Deployment Gap for Formal Verification",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html",
-    "title": "[英] Turn your singing voice into printable notes (in the browser)",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963",
-    "title": "[英] The Difference Between Watercolor and Gouache Paints",
-    "date": "2026-07-14"
-  },
-  {
-    "link": "https://lalitm.com/post/git-history/",
-    "title": "[英] The Git history command deserves more attention",
     "date": "2026-07-14"
   }
 ]
