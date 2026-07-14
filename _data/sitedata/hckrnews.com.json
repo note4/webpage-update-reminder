@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://sprinklz.io/feed/home",
+    "title": "[英] Show HN: A Free RSS reader with a configurable recommendation engine",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://openthemagazine.com/india/the-second-life-of-sanskrit",
+    "title": "[英] The Second Life of Sanskrit",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://gwern.net/guardian-angel",
+    "title": "[英] Guardian Angels: LLM Personalization for Productivity and Security",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987",
+    "title": "[英] StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal",
+    "date": "2026-07-15"
+  },
+  {
     "link": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
     "title": "[英] Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
     "date": "2026-07-15"
@@ -21,7 +41,7 @@
   },
   {
     "link": "https://prismml.com/news/bonsai-27b",
-    "title": "[英] Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+    "title": "[英] Bonsai 27B: A 27B-Class Model that runs on a phone",
     "date": "2026-07-15"
   },
   {
@@ -31,7 +51,7 @@
   },
   {
     "link": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
-    "title": "[英] S&P downgrades Oracle to BBB – only one notch above junk level",
+    "title": "[英] S&P Global has lowered Oracle’s creditworthiness from BBB to BBB-",
     "date": "2026-07-15"
   },
   {
@@ -50,28 +70,8 @@
     "date": "2026-07-15"
   },
   {
-    "link": "https://dl.acm.org/doi/epdf/10.1145/36177.36194",
-    "title": "[英] Superoptimizer – A Look at the Smallest Program",
-    "date": "2026-07-15"
-  },
-  {
     "link": "https://agnost.ai",
     "title": "[英] Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-    "title": "[英] I'm a USB-C Maximalist",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
-    "title": "[英] The Agentic Loop: Three loops in a trench coat",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-    "title": "[英] Are we offloading too much of our thinking to AI?",
     "date": "2026-07-15"
   }
 ]
