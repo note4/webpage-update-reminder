@@ -1,7 +1,17 @@
 [
   {
+    "link": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+    "title": "[英] Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://dolphindb.com/blogs/46",
+    "title": "[英] Building a High-Performance C++ Backtesting Framework",
+    "date": "2026-07-15"
+  },
+  {
     "link": "https://www.cnn.com/2026/07/14/tech/ibm-stock-worst-day-ever",
-    "title": "[英] IBM Stock has worst day",
+    "title": "[英] IBM is on pace for its worst day ever",
     "date": "2026-07-15"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
     "title": "[英] Are we offloading too much of our thinking to AI?",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://www.verbaprima.com/",
-    "title": "[英] Show HN: Opening lines of famous literary works",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
-    "title": "[英] A tiny cell that broke a big rule of biology",
     "date": "2026-07-15"
   }
 ]
