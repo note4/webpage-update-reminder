@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://github.com/vihdzp/combinatorial-games",
+    "title": "[英] Combinatorial Games in Lean",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/",
+    "title": "[英] America pays workers just 27% of what its wealth allows – the worst in the OECD",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://righteousit.com/2009/03/12/never-argue-with-your-boss/",
+    "title": "[英] Never argue with your boss (2009)",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48917697",
+    "title": "[英] Ask HN: How do you track feedback when you post across multiple places?",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
+    "title": "[英] Who's running all those tiny RPKI servers?",
+    "date": "2026-07-15"
+  },
+  {
     "link": "https://yongzx.github.io/blog/2026/06/24/job-search/",
     "title": "[英] Surprising lessons from my research scientist job search",
     "date": "2026-07-15"
@@ -47,31 +72,6 @@
   {
     "link": "https://github.com/paradise-runner/background-clouds",
     "title": "[英] Ambient Website Background Clouds",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
-    "title": "[英] An unusual way for your DHCP server to run out of dynamic IPs",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://www.starfleetmath.com/",
-    "title": "[英] Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://tailscale.com/security-bulletins",
-    "title": "[英] TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
-    "title": "[英] Data centers have hiked electricity prices on the public by $23B",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://vpd.ca/",
-    "title": "[英] Vancouver PD website features Quick Escape button that wipes itself from history",
     "date": "2026-07-15"
   }
 ]
