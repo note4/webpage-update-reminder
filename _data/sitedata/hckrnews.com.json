@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://github.com/cyrusNuevoDia/capn-hook",
+    "title": "[英] Show HN: Capn-hook for coding agents – don't grep the same mystery twice",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://turntrout.com/why-i-left-google-deepmind",
+    "title": "[英] Why I Left Google DeepMind",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "title": "[英] Inkling: Our Open-Weights Model",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://blog.crossui.com/2026/07/editing-react-components-that-never-rendered",
+    "title": "[英] Editing React components that never rendered",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://thinkingmachines.ai/inkling/",
+    "title": "[英] Inkling – Open-Weights 975B Parameter LLM",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+    "title": "[英] Stripe and Advent have made a joint offer to acquire PayPal – sources",
+    "date": "2026-07-16"
+  },
+  {
     "link": "https://github.com/jbunke/painterly",
     "title": "[英] Show HN: Painterly – Turn pictures into digital paintings without generative AI",
     "date": "2026-07-16"
@@ -42,36 +72,6 @@
   {
     "link": "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989",
     "title": "[英] Unsolved Problems in MLOps",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://fhoehl.com/designing-algodeck",
-    "title": "[英] What designing 54 computer science cards taught me about graphic design",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://coasty.ai/docs",
-    "title": "[英] Launch HN: Coasty (YC S26) – An API for computer-use agents",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://clocks.dev",
-    "title": "[英] Collection of Digital Clock Designs",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html",
-    "title": "[英] Primate Is the Last Great Web Framework",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://c3-lang.org/blog/0_8_2_a_modest_improvement/",
-    "title": "[英] C3 0.8.2 a Modest Improvement",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://openai.com/supply/co-lab/work-louder/",
-    "title": "[英] Codex Micro",
     "date": "2026-07-16"
   }
 ]
