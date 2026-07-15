@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://yongzx.github.io/blog/2026/06/24/job-search/",
+    "title": "[英] Surprising lessons from my research scientist job search",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://www.ayush.digital/blog/the-memory-heist",
+    "title": "[英] I tricked Claude into leaking your deepest, darkest secrets",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+    "title": "[英] RISC-V Is Inevitable: State of the Union Keynote Argues",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48916375",
+    "title": "[英] LinkedIn is a cesspool of scammers and identity theft",
+    "date": "2026-07-15"
+  },
+  {
     "link": "https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience",
     "title": "[英] The bread paradox: why convenience always wins, and why SaaS isn't doomed",
     "date": "2026-07-15"
@@ -52,26 +72,6 @@
   {
     "link": "https://vpd.ca/",
     "title": "[英] Vancouver PD website features Quick Escape button that wipes itself from history",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://lzon.ca/posts/tips/cpp-for-range-init/",
-    "title": "[英] C++20 Improved the For-Loop Syntax",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-    "title": "[英] Probably check on your smart appliances",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-    "title": "[英] Microsoft Patches a Record 570 Security Flaws",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://unsung.aresluna.org/sets-of-overlapping-circles/",
-    "title": "[英] Sets of Overlapping Circles",
     "date": "2026-07-15"
   }
 ]
