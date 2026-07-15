@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://playonemoreletter.com/",
+    "title": "[英] Show HN: One More Letter",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+    "title": "[英] LLM Networking with MikroTik",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://sqlite.org/nulinstr.html",
+    "title": "[英] Nul Characters in Strings in SQLite",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+    "title": "[英] Metal-Organic Frameworks, Chemistry's New Miracle Materials",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://www.nngroup.com/articles/anti-mac-interface/",
+    "title": "[英] The Anti-Mac User Interface (1996)",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://mort.coffee/home/sqlite-editions/",
+    "title": "[英] SQLite should have (Rust-style) editions",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://github.com/virtudude/armada/issues/94",
+    "title": "[英] Odin 2 Portal Exploded",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://bartoszmilewski.com/2026/07/11/tambara-equipment/",
+    "title": "[英] Tambara Equipment",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://pairdrop.net/",
+    "title": "[英] P2P local file transfer based on WebRTC",
+    "date": "2026-07-16"
+  },
+  {
     "link": "https://mass-driver.com/article/from-human-hands",
     "title": "[英] We don't use AI in any of our design or production processes",
     "date": "2026-07-16"
@@ -10,13 +55,13 @@
     "date": "2026-07-16"
   },
   {
-    "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-    "title": "[英] Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "link": "https://hugodaniel.com/posts/the-end-of-creativity/",
+    "title": "[英] The End of Creativity",
     "date": "2026-07-16"
   },
   {
-    "link": "https://hugodaniel.com/posts/the-end-of-creativity/",
-    "title": "[英] The End of Creativity",
+    "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "title": "[英] Governments, companies, nonprofits should invest in free, open source AI [pdf]",
     "date": "2026-07-16"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://developer.puter.com/labs/firefox-wasm/",
     "title": "[英] Show HN: Firefox in WebAssembly",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://x.ai/open-source",
-    "title": "[英] Grok Build is open source",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://github.com/projectargus-cc/libargus.cc",
-    "title": "[英] Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://microcosm.industries/",
-    "title": "[英] Show HN: Microcosm Industries – Simulation toys and software microcosms",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://theamericanscholar.org/twain-town-u-s-a/",
-    "title": "[英] Twain Town, USA",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think",
-    "title": "[英] Book prizes don't work how you think",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://www.plough.com/articles/who-is-americas-homer",
-    "title": "[英] Who Is America's Homer?",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://github.com/xai-org/grok-build",
-    "title": "[英] Grok Build",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://github.com/sirixdb/sirix",
-    "title": "[英] Show HN: SirixDB 1.0 Beta – Git-Like Versioning, Diffs, Time-Travel Queries",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
-    "title": "[英] Designing APIs for Agents",
     "date": "2026-07-16"
   }
 ]
