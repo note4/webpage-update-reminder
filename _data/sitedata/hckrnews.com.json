@@ -1,7 +1,22 @@
 [
   {
+    "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+    "title": "[英] Microsoft Patches a Record 570 Security Flaws",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://unsung.aresluna.org/sets-of-overlapping-circles/",
+    "title": "[英] Sets of Overlapping Circles",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://lenews.ch/2026/05/29/the-politics-of-air-conditioning-in-switzerland/",
+    "title": "[英] The politics of air conditioning in Switzerland",
+    "date": "2026-07-15"
+  },
+  {
     "link": "https://github.com/urbancamo/fx870p-emulator",
-    "title": "[英] Casio FX870P Emulator",
+    "title": "[英] Casio FX-870P Emulator",
     "date": "2026-07-15"
   },
   {
@@ -50,28 +65,13 @@
     "date": "2026-07-15"
   },
   {
-    "link": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
-    "title": "[英] The Estranged Worlds of J. G. Ballard",
-    "date": "2026-07-15"
-  },
-  {
     "link": "https://www.historytoday.com/archive/great-debates/human-canaries-remembering-munitionettes",
     "title": "[英] Human Canaries: Remembering the Munitionettes",
     "date": "2026-07-15"
   },
   {
-    "link": "https://www.cnn.com/2026/07/14/politics/house-vote-daylight-savings-time",
-    "title": "[英] House passes bill to enact year-round Daylight Saving Time across the country",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-    "title": "[英] How I use HTMX with Go",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://github.com/logxio/picchio",
-    "title": "[英] Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight",
+    "link": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
+    "title": "[英] The Estranged Worlds of J. G. Ballard",
     "date": "2026-07-15"
   }
 ]
