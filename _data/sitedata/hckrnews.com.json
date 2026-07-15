@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://news.artnet.com/art-world/matt-campbell-cambodia-looted-antiquities-2779870",
+    "title": "[英] The Trade in Looted Antiquities Endures for One Reason: Demand",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "[英] Jurassic Park computers in excruciating detail",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
+    "title": "[英] Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://github.com/paradise-runner/background-clouds",
+    "title": "[英] Ambient Website Background Clouds",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
+    "title": "[英] An unusual way for your DHCP server to run out of dynamic IPs",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://www.starfleetmath.com/",
+    "title": "[英] Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://tailscale.com/security-bulletins",
+    "title": "[英] TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
+    "title": "[英] Data centers have hiked electricity prices on the public by $23B",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://vpd.ca/",
+    "title": "[英] Vancouver PD website features Quick Escape button that wipes itself from history",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://lzon.ca/posts/tips/cpp-for-range-init/",
+    "title": "[英] C++20 Improved the For-Loop Syntax",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+    "title": "[英] Probably check on your smart appliances",
+    "date": "2026-07-15"
+  },
+  {
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
     "title": "[英] Microsoft Patches a Record 570 Security Flaws",
     "date": "2026-07-15"
@@ -17,61 +72,6 @@
   {
     "link": "https://github.com/urbancamo/fx870p-emulator",
     "title": "[英] Casio FX-870P Emulator",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/",
-    "title": "[英] Unlocking the PSP's Dual Core Setup",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://remark.ing/rob/rob.mw/-/Linear-is-always-a",
-    "title": "[英] Linear is always a lagging indicator",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://twitter.com/JoshuaKhane/status/2076918699248803977",
-    "title": "[英] Microsoft deleted my account and OneDrive",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://crates.io/crates/qr-swastika-avoider",
-    "title": "[英] QR-Swastika-Avoider",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-026-02170-8",
-    "title": "[英] Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://www.benjamin-bai.com/projects/lemario",
-    "title": "[英] LeMario: Training a JEPA World Model on Super Mario Bros",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://homosabiens.substack.com/p/banter",
-    "title": "[英] Banter",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://twitter.com/JoshuaKhane/status/2076918699248803977",
-    "title": "[英] Microsoft deleted my account and OneDrive",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://www.bis.org/publ/bisbull120.pdf",
-    "title": "[英] Financing the AI boom: from cash flows to debt [pdf]",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://www.historytoday.com/archive/great-debates/human-canaries-remembering-munitionettes",
-    "title": "[英] Human Canaries: Remembering the Munitionettes",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
-    "title": "[英] The Estranged Worlds of J. G. Ballard",
     "date": "2026-07-15"
   }
 ]
