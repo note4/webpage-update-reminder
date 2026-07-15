@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://mass-driver.com/article/from-human-hands",
+    "title": "[英] We don't use AI in any of our design or production processes",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
+    "title": "[英] Speculative Growth and the AI \"Bubble\" [pdf]",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "title": "[英] Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://hugodaniel.com/posts/the-end-of-creativity/",
+    "title": "[英] The End of Creativity",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://clig.dev/",
+    "title": "[英] Command Line Interface Guidelines",
+    "date": "2026-07-16"
+  },
+  {
     "link": "https://developer.puter.com/labs/firefox-wasm/",
     "title": "[英] Show HN: Firefox in WebAssembly",
     "date": "2026-07-16"
@@ -26,7 +51,7 @@
   },
   {
     "link": "https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think",
-    "title": "[英] Book Prizes Don't Work How You Think",
+    "title": "[英] Book prizes don't work how you think",
     "date": "2026-07-16"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
     "title": "[英] Designing APIs for Agents",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://brainless.swerdlow.dev",
-    "title": "[英] Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://www.abortretry.fail/p/micro-instrumentation-and-telemetry",
-    "title": "[英] MITS: Rockets, Calculators, and Personal Computers",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://www.lexaloffle.com/voxatron.php",
-    "title": "[英] Voxatron",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
-    "title": "[英] Duskers, the scary command line game, is getting a sequel",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://github.com/cyrusNuevoDia/capn-hook",
-    "title": "[英] Show HN: Capn-hook for coding agents – don't grep the same mystery twice",
     "date": "2026-07-16"
   }
 ]
