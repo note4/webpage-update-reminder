@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/07/15/aws-summit-taipei-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI Codex 負責人來台：下一代 AI 的定義，不再只由模型決定",
+    "date": "2026-07-15 19:00:47"
+  },
+  {
+    "link": "https://techorange.com/2026/07/15/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "追不上 Tesla、Waymo 的數據量，車廠怎麼做自駕？NVIDIA 汽車業務副總裁揭新解法",
+    "date": "2026-07-15 18:22:10"
+  },
+  {
+    "link": "https://techorange.com/2026/07/15/ai-prismml-apple/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "把 54GB 大模型壓進 iPhone 跑：PrismML 如何挑戰「模型越大越強」的產業定律",
+    "date": "2026-07-15 17:15:54"
+  },
+  {
     "link": "https://techorange.com/2026/07/15/openai-s-first-device-will-be-moveable-screenless-speaker/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "ChatGPT 正準備從螢幕走進房間：OpenAI 首款硬體裝置如何重塑下一代 AI 入口？",
     "date": "2026-07-15 12:49:55"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/07/14/ai-resource-race-intel-tsmc-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】AI 擴張進入資源戰：川普重押 Intel、台積電營收創高、資料中心搶土地水電",
     "date": "2026-07-14 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/07/13/jpmorgan-ai-agents-beat-60-40-model-in-backtests/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 打敗 60/40？摩根大通測試 AI Agent 挑戰華爾街最經典投資策略",
-    "date": "2026-07-13 17:37:50"
-  },
-  {
-    "link": "https://techorange.com/2026/07/13/333-robots-community-meetup-june/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【333 Robots Community Meetup】AI 機器人如何走出實驗室？陽明交大 HCIS Lab、帕德創新、台灣夏普拆解 3 條落地路徑",
-    "date": "2026-07-13 17:00:36"
-  },
-  {
-    "link": "https://techorange.com/2026/07/13/quantum-y2k/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "複雜度堪比 Y2K：企業啟動後量子遷移，該先盤點什麼？",
-    "date": "2026-07-13 16:36:33"
   }
 ]
