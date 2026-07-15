@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public",
+    "title": "[英] DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://github.com/synseqack/aict",
+    "title": "[英] Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agents",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://userfrom1995.github.io/goku/",
+    "title": "[英] Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://blog.exe.dev/meet-the-conservationist-who-turned-40-terabytes-of-government-data-into-a-video-game",
+    "title": "[英] The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://crates.io/crates/fli-tool",
+    "title": "[英] Show HN: 18KB ls alternative in no_std rust and Libc",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://www.ayush.digital/blog/the-memory-heist",
+    "title": "[英] The Memory Heist",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+    "title": "[英] OpenAI loses trademark dispute at EU court",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
+    "title": "[英] CVE-2026-59208: Cross-Issuer Account Takeover in n8n",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://github.com/bitjaru/styleseed",
+    "title": "[英] Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
+    "title": "[英] My Midlife Crisis Corolla Is Fast, Furious, and Modded",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cz9l9venjd8o",
+    "title": "[英] US House of Representatives takes step to make daylight saving time permanent",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://labs.quansight.org/blog/python-abi-abi3t",
+    "title": "[英] What Every Python Developer Should Know About the CPython ABI",
+    "date": "2026-07-15"
+  },
+  {
+    "link": "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/",
+    "title": "[英] Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled",
+    "date": "2026-07-15"
+  },
+  {
     "link": "https://imrannazar.com/articles/c64-pongwars",
     "title": "[英] Pong Wars on the Commodore 64",
     "date": "2026-07-15"
@@ -7,71 +72,6 @@
   {
     "link": "https://eardatasci.github.io/c/ambiance/index.html",
     "title": "[英] Towards a Harness That Can Do Anything",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://fitelson.org/seminar/dawid.pdf",
-    "title": "[英] The well-calibrated Bayesian [pdf]",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/14/if-you-want-claude-to-speak-nicely-to-you-try-hindi-or-arabic/5271409",
-    "title": "[英] If you want Claude to speak nicely to you, try Hindi or Arabic",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48919832",
-    "title": "[英] undefined",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48920698",
-    "title": "[英] Ask HN: Is it just me, or is software buggier across the board?",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://github.com/evansjp/grepathy",
-    "title": "[英] Show HN: Grepathy – Claude made a decision nobody approved",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://longnow.org/ideas/richard-feynman-and-the-connection-machine/",
-    "title": "[英] Richard Feynman and the Connection Machine",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://www.schweizerbart.de/papers/zdgg/detail/prepub/108503/Geological_and_geophysical_characterisation_of_the_exploration_boreholes_EB1_and_EB2_Inde_Syncline_Rhenohercynian_Fold_and_Thrust_Belt_and_Weisweiler_Horst_Lower_Rhine_Embayment_Germany",
-    "title": "[英] Germany maybe found a new source of renewable energy",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://briarproject.org/news/2026-maintenance-mode/",
-    "title": "[英] Briar Is in Maintenance Mode",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://fromscratchcode.com/blog/what-for-x-in-y-hides-from-you/",
-    "title": "[英] What `for x in y` hides from you – From Scratch Code",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles/",
-    "title": "[英] What's the most popular number in Hacker News titles?",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://briancallahan.net/blog/20260713.html",
-    "title": "[英] Bootstrapping GDC with DMD",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://snapsafe.org/incidents.html",
-    "title": "[英] Privacy Incidents – Real-world examples of why your photos need protection",
-    "date": "2026-07-15"
-  },
-  {
-    "link": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-    "title": "[英] The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
     "date": "2026-07-15"
   }
 ]
