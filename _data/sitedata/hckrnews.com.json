@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.lexaloffle.com/voxatron.php",
+    "title": "[英] Voxatron",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+    "title": "[英] Duskers, the scary command line game, is getting a sequel",
+    "date": "2026-07-16"
+  },
+  {
     "link": "https://github.com/cyrusNuevoDia/capn-hook",
     "title": "[英] Show HN: Capn-hook for coding agents – don't grep the same mystery twice",
     "date": "2026-07-16"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.corporatejetinvestor.com/news/starlink-price-rise-reckless-says-correnti/",
     "title": "[英] Starlink unlimited aviation plan to rise from $10k/month to $20k",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://theloop.ecpr.eu/purging-the-books-of-george-orwell-will-not-halt-the-rise-of-the-political-right/",
-    "title": "[英] Purging George Orwell's books misses what drives the political right",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989",
-    "title": "[英] Unsolved Problems in MLOps",
     "date": "2026-07-16"
   }
 ]
