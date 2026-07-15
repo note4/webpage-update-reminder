@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://github.com/jbunke/painterly",
+    "title": "[英] Show HN: Painterly – Turn pictures into digital paintings without generative AI",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://www.us-debt-clock.com/",
+    "title": "[英] US Debt Clock Live",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free",
+    "title": "[英] FreeBSD 16 Retires the Last of Its GPL Code from Its Base System",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://danq.me/2026/07/10/rescuing-7234-gifs/",
+    "title": "[英] Today I Rescued 7,234 Old GIFs",
+    "date": "2026-07-16"
+  },
+  {
     "link": "https://jobs.ashbyhq.com/artie",
     "title": "[英] Artie (YC S23) Is Hiring Software Engineers",
     "date": "2026-07-16"
@@ -11,7 +31,7 @@
   },
   {
     "link": "https://www.corporatejetinvestor.com/news/starlink-price-rise-reckless-says-correnti/",
-    "title": "[英] Starlink 2X Price Increase",
+    "title": "[英] Starlink unlimited aviation plan to rise from $10k/month to $20k",
     "date": "2026-07-16"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://openai.com/supply/co-lab/work-louder/",
     "title": "[英] Codex Micro",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family",
-    "title": "[英] When A.I. Is a Member of the Family",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://github.com/vshulcz/deja-vu/",
-    "title": "[英] Open-source memory for coding agents, synced over SSH",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://www.sendlang.com",
-    "title": "[英] SendLang: A DSL for Email Automation",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://museum.parallel.ai/introduction?era=modern",
-    "title": "[英] Museum of the Human Web",
     "date": "2026-07-16"
   }
 ]
