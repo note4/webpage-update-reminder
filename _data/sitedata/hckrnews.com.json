@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
+    "title": "[英] 42% of adults rely on their parents for financial support",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.atariarchives.org/deli/cottage_computer_programming.php",
+    "title": "[英] Cottage Computer Programming (1984)",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
+    "title": "[英] Someone Used AI to Write an Unauthorized Biography of Me",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
+    "title": "[英] Kimi K3 Is Live",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://github.com/cmk/connections",
+    "title": "[英] Show HN: Galois connections for composable numeric casts in Rust",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/adaptional/jobs",
+    "title": "[英] Adaptional (YC S25) Is Hiring",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://immersivemath.com/ila/",
+    "title": "[英] Immersive Linear Algebra Book with Interactive Figures",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://github.com/ratel-ai/ratel",
+    "title": "[英] Show HN: Ratel, give agents unlimited tools and skills without context bloat",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48936554",
+    "title": "[英] Show HN: A modern port of Linux to a ten-year-old QWERTY phone",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://blog.simbastack.com/announcing-sentinel/",
+    "title": "[英] Show HN: Sentinel – open-source QA agent that reads your code before it clicks",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48937020",
+    "title": "[英] Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+    "date": "2026-07-17"
+  },
+  {
     "link": "https://nebius.science/stories/meet-yann-lecuns-lab-and-the-ai-world-of-2030?shem=rimspwouohc,",
     "title": "[英] Yann LeCun on AMI Labs, JEPA, and the AI World of 2030",
     "date": "2026-07-17"
@@ -15,63 +70,8 @@
     "date": "2026-07-17"
   },
   {
-    "link": "https://github.com/patonw/leaves",
-    "title": "[英] Show HN: Leaves – a text-UI disk usage treemap visualizer",
-    "date": "2026-07-17"
-  },
-  {
     "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
     "title": "[英] NotebookLM is now Gemini Notebook",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://github.com/xhluca/agent-talk",
-    "title": "[英] Agent-talk: Enabling coding agents to work together",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
-    "title": "[英] Detecting LLM-Generated Texts with \"Classical\" Machine Learning",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
-    "title": "[英] Building scalable AI agents with modular prompt transpilation",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.gapminder.org/dollar-street",
-    "title": "[英] Photos of items from families in different countries with different incomes",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://betlang.dev/about/",
-    "title": "[英] 56,000 lines of DOOM, in a language I made up",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://gameswithtony.com/gorillas/",
-    "title": "[英] Show HN: QBasic Gorillas (Repeeled)",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.mixfont.com/experiments/decoy-font",
-    "title": "[英] Decoy Font",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-    "title": "[英] Microsoft Comic Chat is now open source",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://snehankekre.com/posts/hr/",
-    "title": "[英] My Homepage Has a Pulse",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-    "title": "[英] How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
     "date": "2026-07-17"
   }
 ]
