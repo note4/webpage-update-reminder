@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://typesanitizer.com/blog/job-queues.html",
+    "title": "[英] Job queues are deceptively tricky",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://github.com/frmoded/e--",
+    "title": "[英] Show HN: E-- – A language you dial between English and Python",
+    "date": "2026-07-16"
+  },
+  {
     "link": "https://playonemoreletter.com/",
     "title": "[英] Show HN: One More Letter",
     "date": "2026-07-16"
@@ -55,23 +65,13 @@
     "date": "2026-07-16"
   },
   {
-    "link": "https://hugodaniel.com/posts/the-end-of-creativity/",
-    "title": "[英] The End of Creativity",
-    "date": "2026-07-16"
-  },
-  {
     "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
     "title": "[英] Governments, companies, nonprofits should invest in free, open source AI [pdf]",
     "date": "2026-07-16"
   },
   {
-    "link": "https://clig.dev/",
-    "title": "[英] Command Line Interface Guidelines",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://developer.puter.com/labs/firefox-wasm/",
-    "title": "[英] Show HN: Firefox in WebAssembly",
+    "link": "https://hugodaniel.com/posts/the-end-of-creativity/",
+    "title": "[英] The End of Creativity",
     "date": "2026-07-16"
   }
 ]
