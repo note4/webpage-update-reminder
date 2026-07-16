@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/the-dma-should-not-undercut-security-privacy-for-europeans/",
+    "title": "[英] The DMA should not undercut security & privacy for Europeans",
+    "date": "2026-07-16 20:05:00"
+  },
+  {
     "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/were-partnering-with-screwfix-to-help-the-nations-tradespeople-nail-admin-and-grow-their-businesses-using-ai/",
     "title": "[英] We’re partnering with Screwfix to help the nation's tradespeople nail admin and grow their businesses using AI.",
     "date": "2026-07-16 15:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/",
     "title": "[英] We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
     "date": "2026-07-10 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/health/open-health-stack-software-foundation/",
-    "title": "[英] Building the future of global health, together",
-    "date": "2026-07-09 16:00:00"
   }
 ]
