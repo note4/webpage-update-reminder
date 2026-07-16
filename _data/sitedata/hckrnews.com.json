@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html",
+    "title": "[英] A Beautiful Theory Falls to Ugly Data",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://joinedanthropic.com",
+    "title": "[英] Where are YC founders now? OpenAI and Anthropic, mostly",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
+    "title": "[英] In defense of not understanding your codebase",
+    "date": "2026-07-16"
+  },
+  {
     "link": "https://aikoschurmann.com/blog/string-interning-compilers",
     "title": "[英] Dense Arena Interning: The Engine of Compiler Performance",
     "date": "2026-07-16"
@@ -57,21 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48930149",
     "title": "[英] undefined",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://planetscale.com/blog/making-768-servers-look-like-1",
-    "title": "[英] Making 768 servers look like 1",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.11859",
-    "title": "[英] Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://dl.acm.org/doi/full/10.1145/3806645.3807580",
-    "title": "[英] Accelerating Block Low-Rank Foundation Model Inference on MemoryConstrained GPUs",
     "date": "2026-07-16"
   }
 ]
