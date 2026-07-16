@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/07/16/ai-thinking-machines-inkling/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "開源 AI 不再只是「中國故事」？Thinking Machines 首款開源模型 Inkling 推上牌桌",
+    "date": "2026-07-16 13:10:58"
+  },
+  {
+    "link": "https://techorange.com/2026/07/16/unlocking-self-improvement-gpt-red/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "人類紅隊成功率僅 13%，GPT-Red 達 84%：OpenAI 如何讓 AI 攻擊 AI、強化下一代模型？",
+    "date": "2026-07-16 12:45:59"
+  },
+  {
     "link": "https://techorange.com/2026/07/16/samsung-agentic-ai-glance-integration/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "電視不只拿來追劇！三星聯手 Glance 推 AI 語音管家，讓客廳大螢幕變身個人虛擬衣櫥",
     "date": "2026-07-16 11:30:39"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/07/14/ai-agents-robots-training-data/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "機器人模擬資料不夠逼真？MIT 用 3 個 AI Agent 直接「生」出來",
     "date": "2026-07-14 17:39:23"
-  },
-  {
-    "link": "https://techorange.com/2026/07/14/ceo-survey-agentic-ai-promise-fears/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "企業還沒準備好，AI Agent 卻已進入核心流程：34 位 CEO 示警四大治理難題",
-    "date": "2026-07-14 15:46:54"
-  },
-  {
-    "link": "https://techorange.com/2026/07/14/ai-anthropic-openai-distillation-debate/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Anthropic、OpenAI「模型蒸餾」爭議延燒，為何燒成 AI 控制權之戰？",
-    "date": "2026-07-14 13:47:06"
   }
 ]
