@@ -1,12 +1,27 @@
 [
   {
-    "link": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/",
-    "title": "[英] Optimizing Lua string literals to save 400 bytes",
+    "link": "https://nicholas-afk.github.io/AttoChess/",
+    "title": "[英] AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://artificialanalysis.ai",
+    "title": "[英] Kimi K3 is ranked 3rd on artificial analysis, only 2 points behind Sol",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.kimi.com/blog/kimi-k3",
+    "title": "[英] Kimi K3: Open Frontier Intelligence",
     "date": "2026-07-17"
   },
   {
     "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
     "title": "[英] German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/",
+    "title": "[英] Optimizing Lua string literals to save 400 bytes",
     "date": "2026-07-17"
   },
   {
@@ -56,22 +71,7 @@
   },
   {
     "link": "https://immersivemath.com/ila/",
-    "title": "[英] Immersive Linear Algebra Book with Interactive Figures",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://github.com/ratel-ai/ratel",
-    "title": "[英] Show HN: Ratel, give agents unlimited tools and skills without context bloat",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48936554",
-    "title": "[英] Show HN: A modern port of Linux to a ten-year-old QWERTY phone",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://blog.simbastack.com/announcing-sentinel/",
-    "title": "[英] Show HN: Sentinel – open-source QA agent that reads your code before it clicks",
+    "title": "[英] Immersive Linear Algebra Book with Interactive Figures (2015)",
     "date": "2026-07-17"
   }
 ]
