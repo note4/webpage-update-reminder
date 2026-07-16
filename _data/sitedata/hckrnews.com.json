@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://arxiv.org/abs/2607.12395",
+    "title": "[英] Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://ray.zo.space/blog/just-do-things",
+    "title": "[英] Just Do Things",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+    "title": "[英] 'Likweli': A new monkey species discovered in the Congo Basin",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://hellorecon.com/blog/cve-2026-25089",
+    "title": "[英] CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://wc26.bogachev.fr/index.html",
+    "title": "[英] FIFA World Cup 2026 Data Portraits",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://superwhite.app/blog/how-it-works",
+    "title": "[英] Show HN: Make images render brighter than white by abusing Rec.2100 PQ profiles",
+    "date": "2026-07-17"
+  },
+  {
     "link": "https://libretto.sh/debug-agents",
     "title": "[英] Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
     "date": "2026-07-17"
@@ -35,43 +65,13 @@
     "date": "2026-07-17"
   },
   {
-    "link": "https://artificialanalysis.ai/models/kimi-k3",
-    "title": "[英] Kimi K3 Intelligence, Performance and Price Analysis",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "title": "[英] $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-    "date": "2026-07-17"
-  },
-  {
     "link": "https://news.ycombinator.com/item?id=48939596",
     "title": "[英] undefined",
     "date": "2026-07-17"
   },
   {
-    "link": "https://timelinescan.com/",
-    "title": "[英] Timeline Scan – AI fixes the dates on your scanned photos",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-    "title": "[英] LM Studio Bionic: the AI agent for open models",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
-    "title": "[英] The privacy problems hidden in your period tracker",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://derekwebb.tumblr.com/post/13503899950/giving-it-away-how-free-music-makes-more-than",
-    "title": "[英] As a musician, I prefer illegal downloading over Spotify (2011)",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
-    "title": "[英] CD sales growth outpaced vinyl in the first half of 2026",
+    "link": "https://artificialanalysis.ai/models/kimi-k3",
+    "title": "[英] Kimi K3 Intelligence, Performance and Price Analysis",
     "date": "2026-07-17"
   }
 ]
