@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "title": "[英] $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://artificialanalysis.ai/models/kimi-k3",
+    "title": "[英] Kimi K3 Intelligence, Performance and Price Analysis",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://github.com/Deadbytes101/BONEBOX-01",
+    "title": "[英] Show HN: Bonebox-01 – 29KB bare metal x86 OS (80 KiB, built to kill Tiny Core)",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://timelinescan.com/",
+    "title": "[英] Timeline Scan – AI fixes the dates on your scanned photos",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "title": "[英] LM Studio Bionic: the AI agent for open models",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
+    "title": "[英] The privacy problems hidden in your period tracker",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://derekwebb.tumblr.com/post/13503899950/giving-it-away-how-free-music-makes-more-than",
+    "title": "[英] As a musician, I prefer illegal downloading over Spotify (2011)",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
+    "title": "[英] CD sales growth outpaced vinyl in the first half of 2026",
+    "date": "2026-07-17"
+  },
+  {
     "link": "https://nicholas-afk.github.io/AttoChess/",
     "title": "[英] AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes",
     "date": "2026-07-17"
@@ -15,13 +55,13 @@
     "date": "2026-07-17"
   },
   {
-    "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-    "title": "[英] German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+    "link": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/",
+    "title": "[英] Optimizing Lua string literals to save 400 bytes",
     "date": "2026-07-17"
   },
   {
-    "link": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/",
-    "title": "[英] Optimizing Lua string literals to save 400 bytes",
+    "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+    "title": "[英] German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
     "date": "2026-07-17"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://schema-harness.github.io/",
     "title": "[英] Schema Harness Achieves ~99% on Arc‑AGI‑3 Public",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/",
-    "title": "[英] SPCX is now Wall Street's most shorted new stock",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
-    "title": "[英] 42% of adults rely on their parents for financial support",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.atariarchives.org/deli/cottage_computer_programming.php",
-    "title": "[英] Cottage Computer Programming (1984)",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
-    "title": "[英] Someone Used AI to Write an Unauthorized Biography of Me",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
-    "title": "[英] Kimi K3 Is Live",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://github.com/cmk/connections",
-    "title": "[英] Show HN: Galois connections for composable numeric casts in Rust",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/adaptional/jobs",
-    "title": "[英] Adaptional (YC S25) Is Hiring",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://immersivemath.com/ila/",
-    "title": "[英] Immersive Linear Algebra Book with Interactive Figures (2015)",
     "date": "2026-07-17"
   }
 ]
