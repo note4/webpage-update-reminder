@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://github.com/samyeyo/clx",
+    "title": "[英] Show HN: Clx – Compile Lua to Native Executables Through C++20",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://github.com/alxndrTL/little-book-rl/",
+    "title": "[英] The Little Book of Reinforcement Learning",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://mojibake.zaerl.com/",
+    "title": "[英] Show HN: Mojibake – a low-level Unicode library written in C",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://github.com/cgrtml/reasongate",
+    "title": "[英] Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+    "title": "[英] My car's OTA update broke Android Auto, and it's a indictment of modern software",
+    "date": "2026-07-17"
+  },
+  {
     "link": "https://arxiv.org/abs/2607.12395",
     "title": "[英] Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
     "date": "2026-07-17"
@@ -47,31 +72,6 @@
   {
     "link": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
     "title": "[英] Abstracting Effects with Continuations",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://bethechatbot.com/",
-    "title": "[英] Show HN: Be the ChatBOT",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://dynomight.net/pseudpocalypse/",
-    "title": "[英] Pseudpocalypse",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.science.org/doi/10.1126/science.aea9708",
-    "title": "[英] Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48939596",
-    "title": "[英] undefined",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://artificialanalysis.ai/models/kimi-k3",
-    "title": "[英] Kimi K3 Intelligence, Performance and Price Analysis",
     "date": "2026-07-17"
   }
 ]
