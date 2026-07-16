@@ -1,7 +1,37 @@
 [
   {
-    "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "title": "[英] $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "link": "https://libretto.sh/debug-agents",
+    "title": "[英] Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://bamboo.kickstage.com",
+    "title": "[英] Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.11938",
+    "title": "[英] Mathematics of Data Science",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+    "title": "[英] Abstracting Effects with Continuations",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://bethechatbot.com/",
+    "title": "[英] Show HN: Be the ChatBOT",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://dynomight.net/pseudpocalypse/",
+    "title": "[英] Pseudpocalypse",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.science.org/doi/10.1126/science.aea9708",
+    "title": "[英] Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
     "date": "2026-07-17"
   },
   {
@@ -10,8 +40,13 @@
     "date": "2026-07-17"
   },
   {
-    "link": "https://github.com/Deadbytes101/BONEBOX-01",
-    "title": "[英] Show HN: Bonebox-01 – 29KB bare metal x86 OS (80 KiB, built to kill Tiny Core)",
+    "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "title": "[英] $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48939596",
+    "title": "[英] undefined",
     "date": "2026-07-17"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
     "title": "[英] CD sales growth outpaced vinyl in the first half of 2026",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://nicholas-afk.github.io/AttoChess/",
-    "title": "[英] AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://artificialanalysis.ai",
-    "title": "[英] Kimi K3 is ranked 3rd on artificial analysis, only 2 points behind Sol",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.kimi.com/blog/kimi-k3",
-    "title": "[英] Kimi K3: Open Frontier Intelligence",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/",
-    "title": "[英] Optimizing Lua string literals to save 400 bytes",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-    "title": "[英] German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://github.com/Skyvern-AI/rustwright",
-    "title": "[英] Rustwright: Playwright rewritten in Rust that uses 70% less memory",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://schema-harness.github.io/",
-    "title": "[英] Schema Harness Achieves ~99% on Arc‑AGI‑3 Public",
     "date": "2026-07-17"
   }
 ]
