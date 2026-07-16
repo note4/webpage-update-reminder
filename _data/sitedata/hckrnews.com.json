@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://sinja.io/blog/data-landscape-guide-for-developers",
+    "title": "[英] Guide to data tools landscape for developers",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://www.kimi.com/en",
+    "title": "[英] Kimi K3 is now live",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+    "title": "[英] Generative AI Is an Engineering Disaster",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://macwright.com/2026/06/24/accidental-anonymity",
+    "title": "[英] Accidental Anonymity",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://rtfeldman.com/rust-to-zig",
+    "title": "[英] How Our Rust-to-Zig Rewrite Is Going",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://protora.vulcora.se/challenge",
+    "title": "[英] Show HN: We hid a backdoor in an LLM – $51,200 on finding it",
+    "date": "2026-07-16"
+  },
+  {
     "link": "https://ai-law-tracker.com",
     "title": "[英] Show HN: AI Law Tracker – one audited API for US, EU and global AI law",
     "date": "2026-07-16"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
     "title": "[英] Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Umuganda",
-    "title": "[英] Umuganda",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://lcamtuf.substack.com/p/panel-meter-calculator-with-floating",
-    "title": "[英] Panel meter calculator with floating point",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/",
-    "title": "[英] Track your workout from the iPhone Lock Screen",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://ente.com/open/",
-    "title": "[英] Ente – Opening Our Books",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://usevivace.dev",
-    "title": "[英] I resurrected an 8-year-old dead CSS library and gave it an engine",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
-    "title": "[英] SpaceX stock erases all its gains and slides below IPO price in intraday trading",
     "date": "2026-07-16"
   }
 ]
