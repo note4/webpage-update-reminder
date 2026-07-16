@@ -1,12 +1,32 @@
 [
   {
+    "link": "https://aikoschurmann.com/blog/string-interning-compilers",
+    "title": "[英] Dense Arena Interning: The Engine of Compiler Performance",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/",
+    "title": "[英] What's the story behind the names of Cloudflare's name servers? (2013)",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://github.com/minh-ton/reynard-browser",
+    "title": "[英] Reynard: A real Firefox web browser for iOS 13 or later",
+    "date": "2026-07-16"
+  },
+  {
+    "link": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+    "title": "[英] Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+    "date": "2026-07-16"
+  },
+  {
     "link": "https://www.brt.fyi/posts/mac-book-filing/",
     "title": "[英] I also filed the corners off my MacBook",
     "date": "2026-07-16"
   },
   {
     "link": "https://cr.yp.to/proto/netstrings.txt",
-    "title": "[英] DJB Netstrings (1997)",
+    "title": "[英] Netstrings (1997)",
     "date": "2026-07-16"
   },
   {
@@ -35,8 +55,8 @@
     "date": "2026-07-16"
   },
   {
-    "link": "https://thegustafson.com/blog/my-throw-decides-my-aim",
-    "title": "[英] My Throw Decides My Aim",
+    "link": "https://news.ycombinator.com/item?id=48930149",
+    "title": "[英] undefined",
     "date": "2026-07-16"
   },
   {
@@ -50,28 +70,8 @@
     "date": "2026-07-16"
   },
   {
-    "link": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
-    "title": "[英] If you want to create a button from scratch, you must first create the universe",
-    "date": "2026-07-16"
-  },
-  {
     "link": "https://dl.acm.org/doi/full/10.1145/3806645.3807580",
     "title": "[英] Accelerating Block Low-Rank Foundation Model Inference on MemoryConstrained GPUs",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48930160",
-    "title": "[英] undefined",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://github.com/PrestigePvP/Voicebox",
-    "title": "[英] Open Source, Free Tier Capable Whispr Using Cloudflare AI",
-    "date": "2026-07-16"
-  },
-  {
-    "link": "https://arxiv.org/abs/2604.15379",
-    "title": "[英] Fleet: Hierarchical Task-Based Abstraction for Megakernels on Multi-Die GPUs",
     "date": "2026-07-16"
   }
 ]
