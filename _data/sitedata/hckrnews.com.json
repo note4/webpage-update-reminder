@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard",
+    "title": "[英] ICE Flight Monitor Interactive Dashboard",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48951147",
+    "title": "[英] undefined",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7",
+    "title": "[英] SpaceX stock drops to a new low and loses $1T in value in a month",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://donmoynihan.substack.com/p/a-year-on-the-doge-disaster",
+    "title": "[英] A Year On: The DOGE Disaster",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://github.com/CharmingBlaze/moonbasic",
+    "title": "[英] MoonBASIC: A modern BASIC for building 2D and 3D games",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://app.everything.diena.co/",
+    "title": "[英] Show HN: A zoomable timeline of 4M Wikipedia events",
+    "date": "2026-07-18"
+  },
+  {
     "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
     "title": "[英] Learning a few things about running SQLite",
     "date": "2026-07-18"
@@ -42,36 +72,6 @@
   {
     "link": "https://msap2.mehran.dk",
     "title": "[英] Show HN: Simulator for a custom 8-bit discreet logic computer",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-    "title": "[英] Kimi K3, and what we can still learn from the pelican benchmark",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://workspaces.xyz/",
-    "title": "[英] Show HN: Explore the Workspaces of Modern Creators",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://selbonds.now",
-    "title": "[英] Show HN: On-chain bond market where the issuers are AI agents",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://fredblog.stlouisfed.org/2026/07/us-manufacturing-employment-is-down-but-each-state-has-its-own-story/",
-    "title": "[英] US manufacturing employment is down, but each state has its own story",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
-    "title": "[英] Claude Code: Anatomy of a Misfeature",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://stateofopensource.ai/",
-    "title": "[英] Mozilla: The state of open source AI",
     "date": "2026-07-18"
   }
 ]
