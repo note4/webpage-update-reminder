@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://selbonds.now",
+    "title": "[英] Show HN: On-chain bond market where the issuers are AI agents",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://fredblog.stlouisfed.org/2026/07/us-manufacturing-employment-is-down-but-each-state-has-its-own-story/",
+    "title": "[英] US manufacturing employment is down, but each state has its own story",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+    "title": "[英] Claude Code: Anatomy of a Misfeature",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://stateofopensource.ai/",
+    "title": "[英] Mozilla: The state of open source AI",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+    "title": "[英] First atmosphere found on Earth-like planet in habitable zone of distant star",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://github.com/PennyLaneAI/pennylane",
+    "title": "[英] PennyLane is an open-source quantum software platform for quantum",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
+    "title": "[英] More Bounce to the Ounce",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://scotto.me/blog/2026-07-17-which-lisp/",
+    "title": "[英] A Road to Lisp: Which Lisp",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+    "title": "[英] AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://honeypotlive.cc/",
+    "title": "[英] Show HN: Watch bots interact with an SSH honeypot in real time",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://improvesomething.today/responses-to-problems/",
+    "title": "[英] Three ways people respond to a problem (other than solving it)",
+    "date": "2026-07-17"
+  },
+  {
     "link": "https://bartoszmilewski.com/2026/07/14/tannakian-reconstruction/",
     "title": "[英] Tannakian Reconstruction",
     "date": "2026-07-17"
@@ -17,61 +72,6 @@
   {
     "link": "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer",
     "title": "[英] Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://minikotlin.run",
-    "title": "[英] Minikotlin",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.androidauthority.com/pebble-time-2-smartwatch-hands-on-3680077/",
-    "title": "[英] After wearing the Pebble Time 2 for two weeks, I'll never buy another smartwatch",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-    "title": "[英] Apple targets dozens of OpenAI employees with legal letters",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-    "title": "[英] Evidence of inconsistencies in evaluation process and selection of winners",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48945681",
-    "title": "[英] Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48945606",
-    "title": "[英] Just got an AWS billing alert projecting my monthly cost at $140B",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.dbpro.app/blog/sqlite-is-all-you-need",
-    "title": "[英] SQLite Is All You Need",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48945241",
-    "title": "[英] AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
-    "title": "[英] I Owe My Life to the Commodore 64",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://wyounas.github.io/puzzles/concurrency/2026/01/10/how-to-help-santa-claus-concurrently/",
-    "title": "[英] Solving Santa Claus Puzzle",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://transistor-man.com/gimbal_camera_rover.html",
-    "title": "[英] Camera Chase Vehicle",
     "date": "2026-07-17"
   }
 ]
