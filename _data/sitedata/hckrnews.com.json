@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=48949551",
+    "title": "[英] Thanks HN for 15 years of support and helping me find my life's work",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://lobste.rs/s/ko1ji1",
+    "title": "[英] Lobste.rs is now running on SQLite",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://simplifier.neocities.org/triode2",
+    "title": "[英] How to Make a Triode Yourself",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+    "title": "[英] Lego building instructions through time",
+    "date": "2026-07-18"
+  },
+  {
     "link": "https://www.theguardian.com/technology/2026/jul/17/meta-whistleblower-sarah-wynn-williams-us-senator-josh-hawley",
     "title": "[英] Meta trying to destroy whistleblower Sarah Wynn-Williams, US senator says",
     "date": "2026-07-18"
@@ -52,26 +72,6 @@
   {
     "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
     "title": "[英] Learning a few things about running SQLite",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://sofar.belfortlabs.cloud/",
-    "title": "[英] Homomorphically encrypted CIFAR-10 inference in 200ms",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48950477",
-    "title": "[英] Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
-    "title": "[英] Designing emoji for the way we communicate today",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
-    "title": "[英] Frank Lloyd Wright’s first home",
     "date": "2026-07-18"
   }
 ]
