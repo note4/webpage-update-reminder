@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://github.com/Robbyant/lingbot-map",
+    "title": "[英] Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://thepragmaticquant.com/why-we-stopped-materializing-arrays/",
+    "title": "[英] Count the Bytes, Not the FLOPs",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds",
+    "title": "[英] Scaling to 1M concurrent sandboxes in seconds",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://solod.dev",
+    "title": "[英] Solod: Go can be a better C",
+    "date": "2026-07-17"
+  },
+  {
     "link": "https://github.com/samyeyo/clx",
     "title": "[英] Show HN: Clx – Compile Lua to Native Executables Through C++20",
     "date": "2026-07-17"
@@ -21,7 +41,7 @@
   },
   {
     "link": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
-    "title": "[英] My car's OTA update broke Android Auto, and it's a indictment of modern software",
+    "title": "[英] My car’s OTA update broke Android Auto",
     "date": "2026-07-17"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://superwhite.app/blog/how-it-works",
     "title": "[英] Show HN: Make images render brighter than white by abusing Rec.2100 PQ profiles",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://libretto.sh/debug-agents",
-    "title": "[英] Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://bamboo.kickstage.com",
-    "title": "[英] Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.11938",
-    "title": "[英] Mathematics of Data Science",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
-    "title": "[英] Abstracting Effects with Continuations",
     "date": "2026-07-17"
   }
 ]
