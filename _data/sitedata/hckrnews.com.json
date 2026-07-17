@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
+    "title": "[英] Designing emoji for the way we communicate today",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
+    "title": "[英] Frank Lloyd Wright's First Home",
+    "date": "2026-07-18"
+  },
+  {
     "link": "https://link.springer.com/article/10.1007/s11869-026-01918-5",
     "title": "[英] CO2 overload, detected in human blood, suggests toxic atmosphere within 50 years",
     "date": "2026-07-18"
@@ -55,23 +65,13 @@
     "date": "2026-07-18"
   },
   {
-    "link": "https://scotto.me/blog/2026-07-17-which-lisp/",
-    "title": "[英] A Road to Lisp: Which Lisp",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
-    "title": "[英] More Bounce to the Ounce",
-    "date": "2026-07-18"
-  },
-  {
     "link": "https://github.com/PennyLaneAI/pennylane",
     "title": "[英] PennyLane is an open-source quantum software platform for quantum",
     "date": "2026-07-18"
   },
   {
-    "link": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-    "title": "[英] AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+    "link": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
+    "title": "[英] More Bounce to the Ounce",
     "date": "2026-07-18"
   }
 ]
