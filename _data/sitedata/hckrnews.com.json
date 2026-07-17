@@ -1,12 +1,42 @@
 [
   {
+    "link": "https://bartoszmilewski.com/2026/07/14/tannakian-reconstruction/",
+    "title": "[英] Tannakian Reconstruction",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+    "title": "[英] VulnHunter: Capital One's agentic AI code security tool",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/",
+    "title": "[英] Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer",
+    "title": "[英] Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://minikotlin.run",
+    "title": "[英] Minikotlin",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.androidauthority.com/pebble-time-2-smartwatch-hands-on-3680077/",
+    "title": "[英] After wearing the Pebble Time 2 for two weeks, I'll never buy another smartwatch",
+    "date": "2026-07-17"
+  },
+  {
     "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
     "title": "[英] Apple targets dozens of OpenAI employees with legal letters",
     "date": "2026-07-17"
   },
   {
     "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-    "title": "[英] Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+    "title": "[英] Evidence of inconsistencies in evaluation process and selection of winners",
     "date": "2026-07-17"
   },
   {
@@ -26,7 +56,7 @@
   },
   {
     "link": "https://news.ycombinator.com/item?id=48945241",
-    "title": "[英] AWS: Inaccurate Estimated Billing Data - $1.7 BILLION",
+    "title": "[英] AWS: Inaccurate Estimated Billing Data – $1.7 billion",
     "date": "2026-07-17"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://transistor-man.com/gimbal_camera_rover.html",
     "title": "[英] Camera Chase Vehicle",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c79gw4lj89eo",
-    "title": "[英] Trump Media to sell instant access to 'market-moving' social posts",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Pushinka",
-    "title": "[英] Pushinka",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
-    "title": "[英] In Praise of Exhaustive Destructuring",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-    "title": "[英] EEG shows brain can simultaneous encode two speech streams",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://nemanjatrifunovic.substack.com/p/starlink-from-1984",
-    "title": "[英] Starlink from 1984",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
-    "title": "[英] UIUC AI Teaching Assistant",
     "date": "2026-07-17"
   }
 ]

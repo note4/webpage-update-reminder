@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
+    "title": "[英] Zoox issues software recall after a robotaxi got confused by heavy smoke",
+    "date": "2026-07-17 22:12:02"
+  },
+  {
     "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
     "title": "[英] Why the first GPU financiers are turning to inference chips in a $400 million deal",
     "date": "2026-07-17 20:00:00"
@@ -68,10 +73,5 @@
     "link": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
     "title": "[英] Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
     "date": "2026-07-17 00:00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-    "title": "[英] Yes, you can now order DoorDash from the command line",
-    "date": "2026-07-16 23:38:55"
   }
 ]
