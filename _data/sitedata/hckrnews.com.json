@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
+    "title": "[英] I Owe My Life to the Commodore 64",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://wyounas.github.io/puzzles/concurrency/2026/01/10/how-to-help-santa-claus-concurrently/",
+    "title": "[英] Solving Santa Claus Puzzle",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://transistor-man.com/gimbal_camera_rover.html",
+    "title": "[英] Camera Chase Vehicle",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c79gw4lj89eo",
+    "title": "[英] Trump Media to sell instant access to 'market-moving' social posts",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Pushinka",
+    "title": "[英] Pushinka",
+    "date": "2026-07-17"
+  },
+  {
     "link": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
     "title": "[英] In Praise of Exhaustive Destructuring",
     "date": "2026-07-17"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
     "title": "[英] An Engineer's Guide to USB Typе-С (2024)",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-    "title": "[英] The human-in-the-loop is tired",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-    "title": "[英] Simulating everything, sort of: The promise and limits of world models",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://www.cbc.ca/news/canada/windsor/carney-presser-gord-bridge-9.7272695",
-    "title": "[英] Canada says bridge tolls won't be split with U.S. until $6.4B of debt is repaid",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
-    "title": "[英] Google Kills Custom Search API on Jan 1, 2027",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
-    "title": "[英] M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
     "date": "2026-07-17"
   }
 ]
