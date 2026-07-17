@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
+    "title": "[英] In Praise of Exhaustive Destructuring",
+    "date": "2026-07-17"
+  },
+  {
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
     "title": "[英] EEG shows brain can simultaneous encode two speech streams",
     "date": "2026-07-17"
@@ -67,11 +72,6 @@
   {
     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
     "title": "[英] M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://github.com/Robbyant/lingbot-map",
-    "title": "[英] Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
     "date": "2026-07-17"
   }
 ]
