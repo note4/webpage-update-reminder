@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+    "title": "[英] Learning a few things about running SQLite",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://sofar.belfortlabs.cloud/",
+    "title": "[英] Homomorphically encrypted CIFAR-10 inference in 200ms",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48950477",
+    "title": "[英] Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
+    "date": "2026-07-18"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
     "title": "[英] Designing emoji for the way we communicate today",
     "date": "2026-07-18"
@@ -57,21 +72,6 @@
   {
     "link": "https://stateofopensource.ai/",
     "title": "[英] Mozilla: The state of open source AI",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-    "title": "[英] First atmosphere found on Earth-like planet in habitable zone of distant star",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://github.com/PennyLaneAI/pennylane",
-    "title": "[英] PennyLane is an open-source quantum software platform for quantum",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
-    "title": "[英] More Bounce to the Ounce",
     "date": "2026-07-18"
   }
 ]
