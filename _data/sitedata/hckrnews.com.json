@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://leancrew.com/all-this/2026/07/old-icons/",
+    "title": "[英] Old Icons",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+    "title": "[英] GrapheneOS recommended for domestic abuse victims",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+    "title": "[英] An Engineer's Guide to USB Typе-С (2024)",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+    "title": "[英] The Human-in-the-Loop Is Tired",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+    "title": "[英] Simulating everything, sort of: The promise and limits of world models",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.cbc.ca/news/canada/windsor/carney-presser-gord-bridge-9.7272695",
+    "title": "[英] Canada says bridge tolls won't be split with U.S. until $6.4B of debt is repaid",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
+    "title": "[英] Google Kills Custom Search API on Jan 1, 2027",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+    "title": "[英] M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+    "date": "2026-07-17"
+  },
+  {
     "link": "https://github.com/Robbyant/lingbot-map",
     "title": "[英] Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
     "date": "2026-07-17"
@@ -31,47 +71,7 @@
   },
   {
     "link": "https://mojibake.zaerl.com/",
-    "title": "[英] Show HN: Mojibake – a low-level Unicode library written in C",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://github.com/cgrtml/reasongate",
-    "title": "[英] Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
-    "title": "[英] My car’s OTA update broke Android Auto",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.12395",
-    "title": "[英] Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://ray.zo.space/blog/just-do-things",
-    "title": "[英] Just Do Things",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
-    "title": "[英] 'Likweli': A new monkey species discovered in the Congo Basin",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://hellorecon.com/blog/cve-2026-25089",
-    "title": "[英] CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://wc26.bogachev.fr/index.html",
-    "title": "[英] FIFA World Cup 2026 Data Portraits",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://superwhite.app/blog/how-it-works",
-    "title": "[英] Show HN: Make images render brighter than white by abusing Rec.2100 PQ profiles",
+    "title": "[英] Show HN: Mojibake – A low-level Unicode library written in C",
     "date": "2026-07-17"
   }
 ]
