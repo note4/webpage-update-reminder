@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+    "title": "[英] EEG shows brain can simultaneous encode two speech streams",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://nemanjatrifunovic.substack.com/p/starlink-from-1984",
+    "title": "[英] Starlink from 1984",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+    "title": "[英] UIUC AI Teaching Assistant",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://repebble.com/blog/pebble-mega-update-july-2026",
+    "title": "[英] Pebble Mega Update – July 2026",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://oraziorillo.com/blog/what-loss-backward-actually-does/",
+    "title": "[英] What loss.backward() actually does",
+    "date": "2026-07-17"
+  },
+  {
+    "link": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+    "title": "[英] How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+    "date": "2026-07-17"
+  },
+  {
     "link": "https://leancrew.com/all-this/2026/07/old-icons/",
     "title": "[英] Old Icons",
     "date": "2026-07-17"
@@ -16,7 +46,7 @@
   },
   {
     "link": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-    "title": "[英] The Human-in-the-Loop Is Tired",
+    "title": "[英] The human-in-the-loop is tired",
     "date": "2026-07-17"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://github.com/Robbyant/lingbot-map",
     "title": "[英] Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://thepragmaticquant.com/why-we-stopped-materializing-arrays/",
-    "title": "[英] Count the Bytes, Not the FLOPs",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds",
-    "title": "[英] Scaling to 1M concurrent sandboxes in seconds",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://solod.dev",
-    "title": "[英] Solod: Go can be a better C",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://github.com/samyeyo/clx",
-    "title": "[英] Show HN: Clx – Compile Lua to Native Executables Through C++20",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://github.com/alxndrTL/little-book-rl/",
-    "title": "[英] The Little Book of Reinforcement Learning",
-    "date": "2026-07-17"
-  },
-  {
-    "link": "https://mojibake.zaerl.com/",
-    "title": "[英] Show HN: Mojibake – A low-level Unicode library written in C",
     "date": "2026-07-17"
   }
 ]
