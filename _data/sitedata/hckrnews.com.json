@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434",
+    "title": "[英] SpaceX and the myth of independent Wall St research",
+    "date": "2026-07-19"
+  },
+  {
     "link": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
     "title": "[英] Speech Recognition and TTS in less than 500kb",
     "date": "2026-07-19"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
     "title": "[英] If You Build It, They Will Come",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://www.lttlabs.com/articles/2026/07/15/gtx-1080s-revisiting-legends",
-    "title": "[英] GTX 1080s: Testing a Legend",
     "date": "2026-07-19"
   }
 ]
