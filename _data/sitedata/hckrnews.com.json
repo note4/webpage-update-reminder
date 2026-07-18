@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://github.com/skorotkiewicz/signal-in-the-dark",
+    "title": "[英] Show HN: Find someone in the dark – light them or light yourself? (Three.js)",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://github.com/stefanopineda/quintile",
+    "title": "[英] Quintile – keyboard N×M grid tiling for macOS",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48955690",
+    "title": "[英] undefined",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://ikea.greg.technology/",
+    "title": "[英] Show HN: IKEA Complexity Index",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://github.com/tucan9389/nanochat-jax/discussions/1",
+    "title": "[英] Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+    "date": "2026-07-18"
+  },
+  {
     "link": "https://in-toto.io/",
     "title": "[英] In-toto: A framework to secure the integrity of software supply chains",
     "date": "2026-07-18"
@@ -47,31 +72,6 @@
   {
     "link": "https://moonstone.sh/",
     "title": "[英] Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48954267",
-    "title": "[英] undefined",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://www.abuseofcats.com",
-    "title": "[英] PSA about abuse of cat(1) command. Don't abuse cats",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://www.nuget.org/packages/Celly",
-    "title": "[英] Native C# CEL Implementation",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
-    "title": "[英] A grumpy screed about AI in software engineering",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
-    "title": "[英] I Started a \"Dirt Notebook\"",
     "date": "2026-07-18"
   }
 ]
