@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+    "title": "[英] What AI did to stackoverflow in a graph",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/",
+    "title": "[英] Steam Machine: Between 12k and 15k Units Sold per week",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+    "title": "[英] Why do AI company logos look like buttholes?",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://30fps.net/pages/revisiting-yliluoma-2/",
+    "title": "[英] Revisiting Yliluoma's ordered dither algorithm",
+    "date": "2026-07-18"
+  },
+  {
     "link": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
     "title": "[英] LG monitors silently install software through Windows Update without consent",
     "date": "2026-07-18"
@@ -52,26 +72,6 @@
   {
     "link": "https://in-toto.io/",
     "title": "[英] In-toto: A framework to secure the integrity of software supply chains",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://maurycyz.com/projects/bad_jpeg/",
-    "title": "[英] Regressive JPEGs",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
-    "title": "[英] Battery packs: Let's talk about crates, baby",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html",
-    "title": "[英] Mac gaming is finally getting the overpowered upgrade it deserves",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://parksb.github.io/en/article/41.html",
-    "title": "[英] Reviving a 15-year-old netbook with Arch Linux",
     "date": "2026-07-18"
   }
 ]
