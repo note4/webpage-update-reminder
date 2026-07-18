@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
-    "title": "[英] Texas wins court order to suspend domain name for violating age-verification law",
+    "link": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
+    "title": "[英] An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
     "date": "2026-07-18"
   },
   {
-    "link": "https://bombich.com/blog/2026/07/07/disk-not-ejected-properly",
-    "title": "[英] \"Disk Not Ejected Properly\": What It Means",
+    "link": "https://humancode.us/2026/07/17/open-source-monopoly",
+    "title": "[英] Open Source is not immune to monopoly",
     "date": "2026-07-18"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=48952788",
+    "link": "https://www.stenchill.com/en/",
+    "title": "[英] Stenchill: 3D Printable Solder Paste Stencil Generator",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://moonstone.sh/",
+    "title": "[英] Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48954267",
     "title": "[英] undefined",
     "date": "2026-07-18"
   },
   {
-    "link": "https://curiouscoding.nl/posts/static-search-tree/",
-    "title": "[英] Static search trees: 40x faster than binary search (2024)",
+    "link": "https://www.abuseofcats.com",
+    "title": "[英] PSA about abuse of cat(1) command. Don't abuse cats",
     "date": "2026-07-18"
   },
   {
-    "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-    "title": "[英] Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+    "link": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+    "title": "[英] A grumpy screed about AI in software engineering",
     "date": "2026-07-18"
   },
   {
-    "link": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-    "title": "[英] Painting the sides of railroad rails white to reduce derailment",
+    "link": "https://www.nuget.org/packages/Celly",
+    "title": "[英] Native C# CEL Implementation",
     "date": "2026-07-18"
   },
   {
-    "link": "https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/",
-    "title": "[英] The US grocery slowdown is real",
+    "link": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+    "title": "[英] I Started a \"Dirt Notebook\"",
     "date": "2026-07-18"
   },
   {
-    "link": "https://github.com/tokio-rs/topcoat",
-    "title": "[英] Topcoat: The full full-stack framework for Rust",
+    "link": "https://github.com/abduznik/instrumation",
+    "title": "[英] Show HN: Instrumation a PYPI library for Instruments",
     "date": "2026-07-18"
   },
   {
-    "link": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
-    "title": "[英] Open Book Touch: open-source e-reader",
+    "link": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
+    "title": "[英] DrDroid (YC W23) Is Hiring",
     "date": "2026-07-18"
   },
   {
-    "link": "https://www.koreatimes.co.kr/business/tech-science/20260716/us-seeks-share-of-korean-chipmakers-excess-profits-source",
-    "title": "[英] US seeks share of Korean chipmakers' 'excess profits'",
+    "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+    "title": "[英] TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
     "date": "2026-07-18"
   },
   {
-    "link": "https://github.com/instavm/tarit",
-    "title": "[英] Show HN: Tarit – a hypervisor which is 2x faster than firecracker",
+    "link": "https://willisallstead.substack.com/p/your-credit-card-points-are-a-transfer",
+    "title": "[英] Credit Card Points Are a Transfer from the Broke to the Comfortable",
     "date": "2026-07-18"
   },
   {
-    "link": "https://paddockpass.app",
-    "title": "[英] I built a digital F1 garage to learn how Formula 1 cars work",
+    "link": "https://prathosh.in/vagdhenu/",
+    "title": "[英] Vāgdhenu: A Sanskrit Chanting TTS System",
     "date": "2026-07-18"
   },
   {
-    "link": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-    "title": "[英] FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
-    "title": "[英] Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48949551",
-    "title": "[英] Thanks HN for 15 years of support and helping me find my life's work",
+    "link": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+    "title": "[英] The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
     "date": "2026-07-18"
   }
 ]
