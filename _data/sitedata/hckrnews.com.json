@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html",
+    "title": "[英] Mac gaming is finally getting the overpowered upgrade it deserves",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://parksb.github.io/en/article/41.html",
+    "title": "[英] Reviving a 15-year-old netbook with Arch Linux",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://pocketjs.dev/blog/shipping-openstrike/",
+    "title": "[英] Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld",
+    "date": "2026-07-18"
+  },
+  {
     "link": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
     "title": "[英] An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
     "date": "2026-07-18"
@@ -30,13 +45,13 @@
     "date": "2026-07-18"
   },
   {
-    "link": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
-    "title": "[英] A grumpy screed about AI in software engineering",
+    "link": "https://www.nuget.org/packages/Celly",
+    "title": "[英] Native C# CEL Implementation",
     "date": "2026-07-18"
   },
   {
-    "link": "https://www.nuget.org/packages/Celly",
-    "title": "[英] Native C# CEL Implementation",
+    "link": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+    "title": "[英] A grumpy screed about AI in software engineering",
     "date": "2026-07-18"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
     "title": "[英] TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://willisallstead.substack.com/p/your-credit-card-points-are-a-transfer",
-    "title": "[英] Credit Card Points Are a Transfer from the Broke to the Comfortable",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://prathosh.in/vagdhenu/",
-    "title": "[英] Vāgdhenu: A Sanskrit Chanting TTS System",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-    "title": "[英] The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
     "date": "2026-07-18"
   }
 ]
