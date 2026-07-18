@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://in-toto.io/",
+    "title": "[英] In-toto: A framework to secure the integrity of software supply chains",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://maurycyz.com/projects/bad_jpeg/",
+    "title": "[英] Regressive JPEGs",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
+    "title": "[英] Battery packs: Let's talk about crates, baby",
+    "date": "2026-07-18"
+  },
+  {
     "link": "https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html",
     "title": "[英] Mac gaming is finally getting the overpowered upgrade it deserves",
     "date": "2026-07-18"
@@ -57,21 +72,6 @@
   {
     "link": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
     "title": "[英] I Started a \"Dirt Notebook\"",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://github.com/abduznik/instrumation",
-    "title": "[英] Show HN: Instrumation a PYPI library for Instruments",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
-    "title": "[英] DrDroid (YC W23) Is Hiring",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-    "title": "[英] TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
     "date": "2026-07-18"
   }
 ]
