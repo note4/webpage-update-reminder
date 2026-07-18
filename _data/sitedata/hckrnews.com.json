@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=48958273",
+    "title": "[英] LG ThinQ Terms of Use",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://asteriskmag.com/issues/14/engineering-peace",
+    "title": "[英] Engineering Peace",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots",
+    "title": "[英] Tech note: making your own V-I plots at home",
+    "date": "2026-07-18"
+  },
+  {
     "link": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
     "title": "[英] Is this the end of the once-mighty GoPro?",
     "date": "2026-07-18"
@@ -57,21 +72,6 @@
   {
     "link": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
     "title": "[英] The Computer at the Bottom of a Canal",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/",
-    "title": "[英] Funny item co-occurrences in 3.2M Instacart orders",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://github.com/waaldev/waldi",
-    "title": "[英] Waldi: A quiet place to write, and to be read",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://github.com/skorotkiewicz/signal-in-the-dark",
-    "title": "[英] Show HN: Find someone in the dark – light them or light yourself? (Three.js)",
     "date": "2026-07-18"
   }
 ]
