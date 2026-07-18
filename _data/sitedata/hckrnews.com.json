@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
+    "title": "[英] Is this the end of the once-mighty GoPro?",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "title": "[英] GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://tribunemag.co.uk/2026/07/how-america-broke-its-own-military",
+    "title": "[英] America Broke Its Own Military",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://www.redblobgames.com/blog/2026-07-11-responsive-design-calculator/",
+    "title": "[英] Responsive Design Calculator",
+    "date": "2026-07-18"
+  },
+  {
+    "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+    "title": "[英] Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+    "date": "2026-07-18"
+  },
+  {
     "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
     "title": "[英] What AI did to stackoverflow in a graph",
     "date": "2026-07-18"
@@ -11,7 +36,7 @@
   },
   {
     "link": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-    "title": "[英] Why do AI company logos look like buttholes?",
+    "title": "[英] Why do AI company logos look like buttholes? (2025)",
     "date": "2026-07-18"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://github.com/skorotkiewicz/signal-in-the-dark",
     "title": "[英] Show HN: Find someone in the dark – light them or light yourself? (Three.js)",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://github.com/stefanopineda/quintile",
-    "title": "[英] Quintile – keyboard N×M grid tiling for macOS",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48955690",
-    "title": "[英] undefined",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://ikea.greg.technology/",
-    "title": "[英] Show HN: IKEA Complexity Index",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://github.com/tucan9389/nanochat-jax/discussions/1",
-    "title": "[英] Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://in-toto.io/",
-    "title": "[英] In-toto: A framework to secure the integrity of software supply chains",
     "date": "2026-07-18"
   }
 ]
