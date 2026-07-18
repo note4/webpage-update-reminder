@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://github.com/waaldev/waldi",
+    "title": "[英] Waldi: A quiet place to write, and to be read",
+    "date": "2026-07-18"
+  },
+  {
     "link": "https://github.com/skorotkiewicz/signal-in-the-dark",
     "title": "[英] Show HN: Find someone in the dark – light them or light yourself? (Three.js)",
     "date": "2026-07-18"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.stenchill.com/en/",
     "title": "[英] Stenchill: 3D Printable Solder Paste Stencil Generator",
-    "date": "2026-07-18"
-  },
-  {
-    "link": "https://moonstone.sh/",
-    "title": "[英] Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
     "date": "2026-07-18"
   }
 ]
