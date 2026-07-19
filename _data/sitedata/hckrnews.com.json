@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://save-gpt-5-5.fyi/",
+    "title": "[英] Save GPT-5.5",
+    "date": "2026-07-19"
+  },
+  {
     "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
     "title": "[英] What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
     "date": "2026-07-19"
@@ -15,8 +20,8 @@
     "date": "2026-07-19"
   },
   {
-    "link": "https://thepotato.tech/posts/i-put-my-son-in-a-swamp/",
-    "title": "[英] I Put My Son in a Swamp",
+    "link": "https://news.ycombinator.com/item?id=48882993",
+    "title": "[英] undefined",
     "date": "2026-07-19"
   },
   {
@@ -30,17 +35,17 @@
     "date": "2026-07-19"
   },
   {
-    "link": "https://ollama.com/blog/all-aboard-open-models",
-    "title": "[英] Ollama: All Aboard Open Models",
-    "date": "2026-07-19"
-  },
-  {
     "link": "https://github.com/openai/codex/pull/33972/files",
     "title": "[英] OpenAI reduces Codex Model Context Size from 372k to 272k",
     "date": "2026-07-19"
   },
   {
-    "link": "https://www.blender.org/download/releases/5-2-lts/",
+    "link": "https://ollama.com/blog/all-aboard-open-models",
+    "title": "[英] Ollama: All Aboard Open Models",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://www.blender.org/download/releases/5-2/",
     "title": "[英] Blender 5.2 LTS",
     "date": "2026-07-19"
   },
@@ -67,11 +72,6 @@
   {
     "link": "https://www.qwencloud.com/pricing/token-plan",
     "title": "[英] Qwen 3.8 Max Preview",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "title": "[英] Claude Code uses Bun written in Rust now",
     "date": "2026-07-19"
   }
 ]
