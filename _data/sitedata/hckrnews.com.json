@@ -1,17 +1,52 @@
 [
   {
+    "link": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+    "title": "[英] Bananas sprout in Rayleigh Garden UK after 15 years",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://www.cortex.io/drive",
+    "title": "[英] DRIVE – Operational Excellence for AI-accelerated engineering",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
+    "title": "[英] Infinities, impossibilities, and the man in the white linen suit",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+    "title": "[英] I joined the IndieWeb, here's what I learned",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+    "title": "[英] Minecraft: Java Edition now uses SDL3",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://quesma.com/blog/custom-deep-research-pipeline/",
+    "title": "[英] I burned all my tokens researching how to save tokens",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://github.com/loopgain-ai/loopgain",
+    "title": "[英] Show HN: LoopGain – Stop agent loops with control theory, not max_iterations",
+    "date": "2026-07-19"
+  },
+  {
     "link": "https://save-gpt-5-5.fyi/",
     "title": "[英] Save GPT-5.5",
     "date": "2026-07-19"
   },
   {
-    "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "title": "[英] What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "link": "https://qwen.ai/home",
+    "title": "[英] Qwen 3.8 Max",
     "date": "2026-07-19"
   },
   {
-    "link": "https://qwen.ai/home",
-    "title": "[英] Qwen 3.8 Max",
+    "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "title": "[英] What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
     "date": "2026-07-19"
   },
   {
@@ -35,43 +70,8 @@
     "date": "2026-07-19"
   },
   {
-    "link": "https://github.com/openai/codex/pull/33972/files",
-    "title": "[英] OpenAI reduces Codex Model Context Size from 372k to 272k",
-    "date": "2026-07-19"
-  },
-  {
     "link": "https://ollama.com/blog/all-aboard-open-models",
     "title": "[英] Ollama: All Aboard Open Models",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://www.blender.org/download/releases/5-2/",
-    "title": "[英] Blender 5.2 LTS",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://www.half-second.com/",
-    "title": "[英] Half a Second – a book about the XZ backdoor",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
-    "title": "[英] The Mighty Big Array of Finn Jensen LA8YB",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://offlinetts.com/",
-    "title": "[英] Show HN: OfflineTTS — Free browser-based TTS & STT that runs locally",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://synchub.to/",
-    "title": "[英] Mirror your GitHub repos to tangled.org automatically",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://www.qwencloud.com/pricing/token-plan",
-    "title": "[英] Qwen 3.8 Max Preview",
     "date": "2026-07-19"
   }
 ]
