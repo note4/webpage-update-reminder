@@ -1,12 +1,32 @@
 [
   {
+    "link": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+    "title": "[英] Perforce charges $500 for training training videos.. and it's AI narrated",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+    "title": "[英] Qwen3.8 is launching and going open-weight soon",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://www.theatlantic.com/magazine/2026/08/rome-elite-tourism-imago-artis/687621/",
+    "title": "[英] How the Elite See Rome",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
+    "title": "[英] Using self-hosted Umami for iOS app analytics",
+    "date": "2026-07-19"
+  },
+  {
     "link": "https://github.com/gruns/icecream",
     "title": "[英] IceCream – Never use print() to debug again",
     "date": "2026-07-19"
   },
   {
     "link": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-    "title": "[英] Supabase just announced searchable encryption",
+    "title": "[英] Searchable field-level encryption on Supabase with CipherStash",
     "date": "2026-07-19"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://veganfta.com/articles/2026/07/17/european-court-confirms-ethical-veganism-is-a-protected-philosophical-belief-in-europe/",
     "title": "[英] ECHR confirms ethical veganism is a protected philosophical belief",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
-    "title": "[英] Mathematicians still don't know the fastest way to multiply numbers",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-    "title": "[英] AI Mania Is Eviscerating Global Decision-Making",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://magworld.pw",
-    "title": "[英] Developing an Intuitive Sense of Scale",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://github.com/stupside/castor",
-    "title": "[英] Better and Cheaper Than IPTV",
     "date": "2026-07-19"
   }
 ]
