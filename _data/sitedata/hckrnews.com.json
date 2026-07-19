@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
+    "title": "[英] Transcribe.cpp",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
+    "title": "[英] Popular sugar substitutes linked to faster brain aging",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://advances.realtimerendering.com",
+    "title": "[英] Advances in Real Time Rendering in Games",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=zWJ-g5u9Rqs",
+    "title": "[英] AI Bubble vs. Dot Com Crash. History Is Repeating",
+    "date": "2026-07-19"
+  },
+  {
     "link": "https://codex-resets.com/",
     "title": "[英] Codex Resets",
     "date": "2026-07-19"
@@ -52,26 +72,6 @@
   {
     "link": "https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/",
     "title": "[英] Pico W firmware creates driverless USB WiFi bridge (Layer-2)",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://uncovered.ink",
-    "title": "[英] Judge a book by its first pages",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434",
-    "title": "[英] SpaceX and the myth of independent Wall St research",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-    "title": "[英] Speech Recognition and TTS in less than 500kb",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://haxxorwpm.0s.is/",
-    "title": "[英] Typing Speed Test, but for Developers",
     "date": "2026-07-19"
   }
 ]
