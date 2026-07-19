@@ -1,7 +1,32 @@
 [
   {
-    "link": "https://github.com/openai/codex/pull/33972/files",
-    "title": "[英] OpenAI reduces Codex Model Context Size from 372k to 272k",
+    "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "title": "[英] What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://qwen.ai/home",
+    "title": "[英] Qwen 3.8 Max",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://sgt.hootr.club/blog/home-server-rebirth/",
+    "title": "[英] The death and rebirth of my home server",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://thepotato.tech/posts/i-put-my-son-in-a-swamp/",
+    "title": "[英] I Put My Son in a Swamp",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf",
+    "title": "[英] The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://www.inference.org.uk/sanjoy/thesis/thesis-letter.pdf",
+    "title": "[英] Order of Magnitude Physics a Textbook with Applications to the Retinal Rod(1998) [pdf]",
     "date": "2026-07-19"
   },
   {
@@ -10,13 +35,13 @@
     "date": "2026-07-19"
   },
   {
-    "link": "https://www.blender.org/download/releases/5-2-lts/",
-    "title": "[英] Blender 5.2 LTS",
+    "link": "https://github.com/openai/codex/pull/33972/files",
+    "title": "[英] OpenAI reduces Codex Model Context Size from 372k to 272k",
     "date": "2026-07-19"
   },
   {
-    "link": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
-    "title": "[英] The Mighty Big Array of Finn Jensen LA8YB",
+    "link": "https://www.blender.org/download/releases/5-2-lts/",
+    "title": "[英] Blender 5.2 LTS",
     "date": "2026-07-19"
   },
   {
@@ -25,13 +50,18 @@
     "date": "2026-07-19"
   },
   {
-    "link": "https://synchub.to/",
-    "title": "[英] Mirror your GitHub repos to tangled.org automatically",
+    "link": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
+    "title": "[英] The Mighty Big Array of Finn Jensen LA8YB",
     "date": "2026-07-19"
   },
   {
     "link": "https://offlinetts.com/",
     "title": "[英] Show HN: OfflineTTS — Free browser-based TTS & STT that runs locally",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://synchub.to/",
+    "title": "[英] Mirror your GitHub repos to tangled.org automatically",
     "date": "2026-07-19"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
     "title": "[英] Claude Code uses Bun written in Rust now",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://ibm-1401.info/pictures/Proc-MIW-2017-Garner-1401PDP1.pdf",
-    "title": "[英] Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://www.msn.com/en-us/health/other/boys-adhd-symptoms-linked-to-addictive-social-media-use-in-new-study/ar-AA287LY0",
-    "title": "[英] Boys' ADHD symptoms linked to addictive social media use in new study",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-    "title": "[英] Perforce charges $500 for training training videos.. and it's AI narrated",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-    "title": "[英] Qwen3.8 is launching and going open-weight soon",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://www.theatlantic.com/magazine/2026/08/rome-elite-tourism-imago-artis/687621/",
-    "title": "[英] How the Elite See Rome",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
-    "title": "[英] Using self-hosted Umami for iOS app analytics",
     "date": "2026-07-19"
   }
 ]
