@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://cagire.raphaelforment.fr",
+    "title": "[英] Cagire: Live Coding in Forth",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://github.com/JuliaLang/julia/pull/62334",
+    "title": "[英] UnifiedIR for Julia",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
+    "title": "[英] Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
+    "date": "2026-07-20"
+  },
+  {
     "link": "https://land-atlas-production.up.railway.app/welcome",
     "title": "[英] Land Atlas – soil, farmability, and crop analysis for land listings",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
     "link": "https://github.com/CaviraOSS/Akashic",
     "title": "[英] Show HN: Akashic – A self-hosted intelligence workspace inspired by Palantir",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
     "link": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
     "title": "[英] Bananas sprout in Rayleigh Garden UK after 15 years",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
     "link": "https://www.cortex.io/drive",
     "title": "[英] DRIVE – Operational Excellence for AI-accelerated engineering",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
     "link": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
     "title": "[英] Infinities, impossibilities, and the man in the white linen suit",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
     "link": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
     "title": "[英] I joined the IndieWeb, here's what I learned",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
     "link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
     "title": "[英] Minecraft: Java Edition now uses SDL3",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
     "link": "https://quesma.com/blog/custom-deep-research-pipeline/",
     "title": "[英] I burned all my tokens researching how to save tokens",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
     "link": "https://github.com/loopgain-ai/loopgain",
     "title": "[英] Show HN: LoopGain – Stop agent loops with control theory, not max_iterations",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
     "link": "https://save-gpt-5-5.fyi/",
     "title": "[英] Save GPT-5.5",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "title": "[英] What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
     "link": "https://qwen.ai/home",
     "title": "[英] Qwen 3.8 Max",
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
-    "link": "https://sgt.hootr.club/blog/home-server-rebirth/",
-    "title": "[英] The death and rebirth of my home server",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48882993",
-    "title": "[英] undefined",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf",
-    "title": "[英] The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]",
-    "date": "2026-07-19"
+    "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "title": "[英] What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "date": "2026-07-20"
   }
 ]
