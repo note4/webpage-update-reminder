@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://land-atlas-production.up.railway.app/welcome",
+    "title": "[英] Land Atlas – soil, farmability, and crop analysis for land listings",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://github.com/CaviraOSS/Akashic",
+    "title": "[英] Show HN: Akashic – A self-hosted intelligence workspace inspired by Palantir",
+    "date": "2026-07-19"
+  },
+  {
     "link": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
     "title": "[英] Bananas sprout in Rayleigh Garden UK after 15 years",
     "date": "2026-07-19"
@@ -40,13 +50,13 @@
     "date": "2026-07-19"
   },
   {
-    "link": "https://qwen.ai/home",
-    "title": "[英] Qwen 3.8 Max",
+    "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "title": "[英] What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
     "date": "2026-07-19"
   },
   {
-    "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "title": "[英] What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "link": "https://qwen.ai/home",
+    "title": "[英] Qwen 3.8 Max",
     "date": "2026-07-19"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf",
     "title": "[英] The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://www.inference.org.uk/sanjoy/thesis/thesis-letter.pdf",
-    "title": "[英] Order of Magnitude Physics a Textbook with Applications to the Retinal Rod(1998) [pdf]",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://ollama.com/blog/all-aboard-open-models",
-    "title": "[英] Ollama: All Aboard Open Models",
     "date": "2026-07-19"
   }
 ]
