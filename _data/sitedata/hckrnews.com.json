@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "title": "[英] AI advice made people 3x less accurate but 2x confident, researchers found",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+    "title": "[英] A new Intel Itanium (IA-64) emulator that boots Windows",
+    "date": "2026-07-20"
+  },
+  {
     "link": "https://MasterGodzilla.github.io/posts/2025/07/muon-clip/",
     "title": "[英] From Muon to Gradient Clipping: Some Thoughts on QK Stability",
     "date": "2026-07-20"
@@ -62,16 +72,6 @@
   {
     "link": "https://thegustafson.com/series",
     "title": "[英] Holding the LLM Stack in Your Head",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://www.hmd.com/en_int/hmd-touch-4g",
-    "title": "[英] HMD Touch 4G",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-    "title": "[英] Moonshot AI suspends new subscriptions due to Kimi K3 demand",
     "date": "2026-07-20"
   }
 ]
