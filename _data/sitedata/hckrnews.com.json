@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding",
+    "title": "[英] Natural experiments prove phytoplankton carbon removal works",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+    "title": "[英] The Zen of Parallel Programming",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/",
+    "title": "[英] Less Is More: Why Audio on SoundCloud Looks Different",
+    "date": "2026-07-20"
+  },
+  {
     "link": "https://sebsite.pw/w/20260708-badstdcxx.html",
     "title": "[英] Neither GCC nor Clang are compliant with standard C++",
     "date": "2026-07-20"
@@ -57,21 +72,6 @@
   {
     "link": "https://github.com/JuliaLang/julia/pull/62334",
     "title": "[英] UnifiedIR for Julia",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
-    "title": "[英] Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://land-atlas-production.up.railway.app/welcome",
-    "title": "[英] Land Atlas – soil, farmability, and crop analysis for land listings",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://github.com/CaviraOSS/Akashic",
-    "title": "[英] Show HN: Akashic – A self-hosted intelligence workspace inspired by Palantir",
     "date": "2026-07-20"
   }
 ]
