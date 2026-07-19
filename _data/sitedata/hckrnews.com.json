@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://pgadey.ca/notes/talk-relatorium-2026/",
+    "title": "[英] Talk: The Art of Braiding Algorithms",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://github.com/holland202/Principia-Artificialis",
+    "title": "[英] Principia Artificialis – Mathematical Foundations of Artificial Thought",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://github.com/Pedroshakoor/grok-build-ios",
+    "title": "[英] Grok-iOS – remote Grok Build from your iPhone over ACP",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html",
+    "title": "[英] How to Abandon Your Climate Commitments and Get Away with It",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://www.tomshardware.com/desktops/jurassic-park-packed-usd4-million-of-legit-1993-computer-hardware-a-software-engineer-detailed-every-single-piece-of-hardware-in-the-film",
+    "title": "[英] Jurassic Park packed $4M of legit 1993 computer hardware",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
+    "title": "[英] We want Texans to know their rights",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://www.passinote.app/",
+    "title": "[英] Show HN: A canvas-based note taking and organizer app",
+    "date": "2026-07-20"
+  },
+  {
     "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
     "title": "[英] AI advice made people 3x less accurate but 2x confident, researchers found",
     "date": "2026-07-20"
@@ -37,41 +72,6 @@
   {
     "link": "https://www.collabora.com/news-and-blog/news-and-events/building-an-arch-linux-aarch64-port-for-holo-core.html",
     "title": "[英] Building an Arch Linux Aarch64 Port for Holo Core",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://yourfairshare.info",
-    "title": "[英] Show HN: How much profit does your employer make per employee?",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding",
-    "title": "[英] Natural experiments prove phytoplankton carbon removal works",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-    "title": "[英] The Zen of Parallel Programming",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/",
-    "title": "[英] Less Is More: Why Audio on SoundCloud Looks Different",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://sebsite.pw/w/20260708-badstdcxx.html",
-    "title": "[英] Neither GCC nor Clang are compliant with standard C++",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48968606",
-    "title": "[英] Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://thegustafson.com/series",
-    "title": "[英] Holding the LLM Stack in Your Head",
     "date": "2026-07-20"
   }
 ]
