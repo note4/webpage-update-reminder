@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://github.com/gruns/icecream",
+    "title": "[英] IceCream – Never use print() to debug again",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
+    "title": "[英] Supabase just announced searchable encryption",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+    "title": "[英] Scrying the AMD GFX1250 LLVM Tea Leaves",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
+    "title": "[英] Making Software: How to make a font",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://github.com/vercel-labs/deepsec",
+    "title": "[英] Deepsec",
+    "date": "2026-07-19"
+  },
+  {
+    "link": "https://airdows.com/",
+    "title": "[英] I built a browser-based P2P file transfer tool using WebRTC",
+    "date": "2026-07-19"
+  },
+  {
     "link": "https://www.mediawiki.org/wiki/Parsoid",
     "title": "[英] Parsoid",
     "date": "2026-07-19"
@@ -42,36 +72,6 @@
   {
     "link": "https://github.com/stupside/castor",
     "title": "[英] Better and Cheaper Than IPTV",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://github.com/lopopolo/harness-engineering",
-    "title": "[英] Harness Engineering",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
-    "title": "[英] Transcribe.cpp",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
-    "title": "[英] Popular sugar substitutes linked to faster brain aging",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://advances.realtimerendering.com",
-    "title": "[英] Advances in Real Time Rendering in Games",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=zWJ-g5u9Rqs",
-    "title": "[英] AI Bubble vs. Dot Com Crash. History Is Repeating",
-    "date": "2026-07-19"
-  },
-  {
-    "link": "https://codex-resets.com/",
-    "title": "[英] Codex Resets",
     "date": "2026-07-19"
   }
 ]
