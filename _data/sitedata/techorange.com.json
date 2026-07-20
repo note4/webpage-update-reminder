@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/07/21/ai-infrastructure-bottlenecks-kimi-memory-data-center-protests/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【科技早餐】AI 擴張撞上基建瓶頸：Kimi 卡算力、記憶體喊缺、美國 42 州抗議資料中心",
+    "date": "2026-07-21 05:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/07/20/hugging-face-ai-agent-security/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Hugging Face 遭 AI Agent 惡意入侵：一個中國模型為何成了最後的調查工具？",
     "date": "2026-07-20 16:53:32"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/07/17/att-telecom-ai-network-outage-prevention/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "一年少派工 310 萬次、停機時間減少 1,200 萬小時：美國電信巨頭 AT&amp;T 如何重寫維運模式？",
     "date": "2026-07-17 17:09:47"
-  },
-  {
-    "link": "https://techorange.com/2026/07/17/gm-ai-and-virtual-labs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "用 Prompt 設計概念車、開發週期砍半：AI 如何改寫 GM 造車流程？",
-    "date": "2026-07-17 16:59:14"
   }
 ]

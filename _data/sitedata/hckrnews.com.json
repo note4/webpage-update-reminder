@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist",
+    "title": "[英] My falling-out with the rationalist community",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://mullvad.net/en/blog/donation-controversy",
+    "title": "[英] Donation Controversy",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+    "title": "[英] My two year old taught me constraint solving",
+    "date": "2026-07-21"
+  },
+  {
     "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
     "title": "[英] I wrote an bash enumerator because I was sick of xargs",
     "date": "2026-07-21"
@@ -57,21 +72,6 @@
   {
     "link": "https://cursor.com/blog/agent-swarm-model-economics",
     "title": "[英] Agent swarms and the new model economics",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://blaizzy.github.io/nativ/",
-    "title": "[英] Nativ: Run frontier open models locally on your Mac",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48982583",
-    "title": "[英] undefined",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://dl.acm.org/doi/10.1145/3800646.3800650",
-    "title": "[英] The drivers behind software delivery inefficiency",
     "date": "2026-07-21"
   }
 ]
