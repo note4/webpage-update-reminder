@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://github.com/houslast3/85.30-GFLOPS-Single-Core-FP32-Matrix-Multiplication-on-AMD-Zen-3",
+    "title": "[英] 85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core",
+    "date": "2026-07-21"
+  },
+  {
     "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
     "title": "[英] Human mathematicians are being outcounterexampled",
     "date": "2026-07-21"
@@ -20,13 +25,13 @@
     "date": "2026-07-21"
   },
   {
-    "link": "https://cursor.com/blog/agent-swarm-model-economics",
-    "title": "[英] Agent swarms and the new model economics",
+    "link": "https://blaizzy.github.io/nativ/",
+    "title": "[英] Nativ: Run frontier open models locally on your Mac",
     "date": "2026-07-21"
   },
   {
-    "link": "https://blaizzy.github.io/nativ/",
-    "title": "[英] Nativ: Run frontier open models locally on your Mac",
+    "link": "https://cursor.com/blog/agent-swarm-model-economics",
+    "title": "[英] Agent swarms and the new model economics",
     "date": "2026-07-21"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://jelly-ui.com/",
     "title": "[英] Jelly UI: Soft-body physics for native HTML form controls",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48980375",
-    "title": "[英] undefined",
     "date": "2026-07-21"
   }
 ]
