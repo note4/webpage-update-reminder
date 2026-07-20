@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/07/20/u-s-naval-power/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "從一艘橡皮艇到美國海軍合約，新創 Saronic 搭上美軍「無人艇」熱潮",
+    "date": "2026-07-20 10:57:24"
+  },
+  {
+    "link": "https://techorange.com/2026/07/20/europes-quantum-computing-sector-faces-the-same-capital-trap-that-hit-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "投資達美國 2 倍、募資直追北美：為何歐洲量子產業仍難逃「研發在本土，控制權歸美國」的資本陷阱？",
+    "date": "2026-07-20 10:44:34"
+  },
+  {
+    "link": "https://techorange.com/2026/07/20/ai-claude-code-engineer-thinkers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 讓開發產出翻 3 倍，決策端卻跟不上，未來的工程師得開始做 PM 的工作",
+    "date": "2026-07-20 10:23:17"
+  },
+  {
+    "link": "https://techorange.com/2026/07/20/ai-fintech-funding-surges-in-h1-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Fintech 今年募資逆勢成長 23%，AI 下一個殺手級應用為何指向金融？",
+    "date": "2026-07-20 09:40:29"
+  },
+  {
     "link": "https://techorange.com/2026/07/20/kimi-k3-us-china-ai-gap-compute-regulation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】中美 AI 差距縮小：Kimi K3 逼近美國，算力與監管戰同步升溫",
     "date": "2026-07-20 05:30:00"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/07/16/shopify-ai-agent-management/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "模型可以換，能力不能換：Shopify 如何把 AI 變成自己的長期能力？",
     "date": "2026-07-16 18:30:33"
-  },
-  {
-    "link": "https://techorange.com/2026/07/16/asml-raises-full-year-guidance-intel-ships-first-high-na-euv-logic-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Intel 率先把 High-NA EUV 帶進 18A，台積電卻延後導入：曝光成本高 2.5 倍，誰算對了這筆帳？",
-    "date": "2026-07-16 17:13:45"
-  },
-  {
-    "link": "https://techorange.com/2026/07/16/ntu-ntnu-operandocrosssectionalstm-soi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "臺灣團隊首創「臨場顯微半導體檢測技術」直接揭示次世代電晶體微縮關鍵",
-    "date": "2026-07-16 14:40:06"
-  },
-  {
-    "link": "https://techorange.com/2026/07/16/ai-thinking-machines-inkling/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "開源 AI 不再只是「中國故事」？Thinking Machines 首款開源模型 Inkling 推上牌桌",
-    "date": "2026-07-16 13:10:58"
-  },
-  {
-    "link": "https://techorange.com/2026/07/16/unlocking-self-improvement-gpt-red/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "人類紅隊成功率僅 13%，GPT-Red 達 84%：OpenAI 如何讓 AI 攻擊 AI、強化下一代模型？",
-    "date": "2026-07-16 12:45:59"
   }
 ]
