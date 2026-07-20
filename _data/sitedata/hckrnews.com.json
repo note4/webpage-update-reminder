@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+    "title": "[英] Human mathematicians are being outcounterexampled",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://alexyang.dev/vim-ascii-art/",
+    "title": "[英] Making ASCII Art in Vim",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://openai.com/index/safety-alignment-long-horizon-models/",
+    "title": "[英] Safety and alignment in an era of long-horizon models",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48936658",
+    "title": "[英] undefined",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://cursor.com/blog/agent-swarm-model-economics",
+    "title": "[英] Agent swarms and the new model economics",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://blaizzy.github.io/nativ/",
+    "title": "[英] Nativ: Run frontier open models locally on your Mac",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
+    "title": "[英] An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://dl.acm.org/doi/10.1145/3800646.3800650",
+    "title": "[英] The drivers behind software delivery inefficiency",
+    "date": "2026-07-21"
+  },
+  {
     "link": "https://rachelbythebay.com/w/2026/05/05/404/",
     "title": "[英] That post never existed. Stop listening to that thing",
     "date": "2026-07-21"
@@ -32,46 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=48980375",
     "title": "[英] undefined",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=NwhVJ7cv9B4",
-    "title": "[英] Cross sectioning insects in an electron microscope with a femtosecond laser [video]",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48910259",
-    "title": "[英] undefined",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-    "title": "[英] Over 30% of new ArXiv submissions now read as AI-written",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
-    "title": "[英] I Stopped \"Creating Content\"",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://github.com/simoarpe/ziggity",
-    "title": "[英] Ziggity – A terminal UI for Git, written in Zig",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://www.expats.cz/czech-news/article/czech-news-in-brief-for-july-20-2026-monday-top-afternoon-headlines",
-    "title": "[英] Czechia moves to ban mobile phones in schools from September 2027",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48981136",
-    "title": "[英] Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler",
-    "title": "[英] We rewrote our custom visualisation renderers from SVG to be in Canvas",
     "date": "2026-07-21"
   }
 ]
