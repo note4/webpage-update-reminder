@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://apnews.com/article/gas-prices-iran-war-4-gallon-4b82825734ec3ded192351e53a4be69e",
+    "title": "[英] US gas prices hit an average of $4 a gallon again",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+    "title": "[英] Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+    "title": "[英] Eliminating Go bounds checks with unsafe",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/",
+    "title": "[英] EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://moonwriting.blog/i-m-done-with-mullvad",
+    "title": "[英] I'm Done with Mullvad",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+    "title": "[英] 1-Bit LLM in the Browser",
+    "date": "2026-07-20"
+  },
+  {
+    "link": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+    "title": "[英] Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+    "date": "2026-07-20"
+  },
+  {
     "link": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
     "title": "[英] How proprietary formats have become Microsoft’s main tool for lock-in",
     "date": "2026-07-20"
@@ -31,47 +66,12 @@
   },
   {
     "link": "https://www.nytimes.com/2026/07/09/us/data-centers-native-american-tribes.html",
-    "title": "[英] Big Tech Is Now Targeting Native American Land for Data Centers",
+    "title": "[英] Big tech is now targeting Native American land for data centers",
     "date": "2026-07-20"
   },
   {
     "link": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
     "title": "[英] Power companies are using eminent domain to seize land for data centers",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://slate.com/human-interest/2012/07/the-chickens-and-the-bulls-the-rise-and-incredible-fall-of-a-vicious-extortion-ring-that-preyed-on-prominent-gay-men-in-the-1960s.html",
-    "title": "[英] The Chickens and the Bulls (2012)",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-    "title": "[英] Claude Fable produced a counterexample to the Jacobian Conjecture",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://privacy.ca.gov/",
-    "title": "[英] Delete Your Data with Drop",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://textbooks.wmisd.org/worldgeohist.html",
-    "title": "[英] World GeoHistoGram",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://github.com/hgaiser/moonshine",
-    "title": "[英] Moonshine: Lets you stream games from your PC to any device running Moonlight",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://nonogra.ph/the-anti-palantir-manifesto-07-20-2026",
-    "title": "[英] The Anti-Palantir Manifesto",
-    "date": "2026-07-20"
-  },
-  {
-    "link": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
-    "title": "[英] 11,700 Free Photos from John Margolies' Archive of Americana Architecture",
     "date": "2026-07-20"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/07/20/hugging-face-ai-agent-security/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Hugging Face 遭 AI Agent 惡意入侵：一個中國模型為何成了最後的調查工具？",
+    "date": "2026-07-20 16:53:32"
+  },
+  {
+    "link": "https://techorange.com/2026/07/20/china-brain-to-robot-platform/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "具身 AI 的下一個瓶頸不是動作，而是理解人類：BrainCo 如何把「意圖」變成機器人訓練資料？",
+    "date": "2026-07-20 16:37:35"
+  },
+  {
+    "link": "https://techorange.com/2026/07/20/delltechnologies-aidp-nvidia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "如何做到 AI 金融實戰 0.03 秒精準防詐？Dell Technologies 應用「AIDP 數據平台」助銀行突破傳統數據孤島",
+    "date": "2026-07-20 14:58:27"
+  },
+  {
+    "link": "https://techorange.com/2026/07/20/gss-a2a-aicyber-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "從開發風險到供應鏈威脅，叡揚資訊助金融業建構 AI 韌性防線",
+    "date": "2026-07-20 14:56:34"
+  },
+  {
     "link": "https://techorange.com/2026/07/20/ai-amds-next-reinvention/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "從賣晶片到賣系統：AMD 挑戰 NVIDIA，卻不想當第一？",
     "date": "2026-07-20 12:54:13"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/07/17/gm-ai-and-virtual-labs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "用 Prompt 設計概念車、開發週期砍半：AI 如何改寫 GM 造車流程？",
     "date": "2026-07-17 16:59:14"
-  },
-  {
-    "link": "https://techorange.com/2026/07/17/moonshot-kimi-k3/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場",
-    "date": "2026-07-17 12:29:50"
-  },
-  {
-    "link": "https://techorange.com/2026/07/17/visa-new-platform-stablecoin-services/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Circle 真正的威脅：當 Visa 與支付巨頭加入 Open Standard，穩定幣儲備收益將如何轉向分銷通路？",
-    "date": "2026-07-17 11:48:14"
-  },
-  {
-    "link": "https://techorange.com/2026/07/17/starbucks-just-fired-a-warning-shot-at-microsoft-and-ibm-ai-apps/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "星巴克想自研工具取代微軟、IBM 應用，卻仍離不開 Azure：AI 正在重畫企業軟體價值鏈",
-    "date": "2026-07-17 10:44:05"
-  },
-  {
-    "link": "https://techorange.com/2026/07/17/jlr-closed-loop-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "捷豹路虎 JLR 打造「閉環供應鏈」：看數據與循環經濟如何重塑汽車製造韌性",
-    "date": "2026-07-17 10:21:20"
   }
 ]
