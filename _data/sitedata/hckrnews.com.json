@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+    "title": "[英] I wrote an bash enumerator because I was sick of xargs",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html",
+    "title": "[英] The creepiest 'sales demo' of all time",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "title": "[英] Who's Afraid of Chinese Models?",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://vincentwoo.com/3d/grace_cathedral/",
+    "title": "[英] Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+    "title": "[英] The Power of Awareness: Overcoming Surveillance Capitalism",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://stencil.so/blog/prewalk",
+    "title": "[英] You only need the frontier model for one single edit",
+    "date": "2026-07-21"
+  },
+  {
     "link": "https://github.com/houslast3/85.30-GFLOPS-Single-Core-FP32-Matrix-Multiplication-on-AMD-Zen-3",
     "title": "[英] 85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core",
     "date": "2026-07-21"
@@ -25,53 +55,23 @@
     "date": "2026-07-21"
   },
   {
-    "link": "https://blaizzy.github.io/nativ/",
-    "title": "[英] Nativ: Run frontier open models locally on your Mac",
-    "date": "2026-07-21"
-  },
-  {
     "link": "https://cursor.com/blog/agent-swarm-model-economics",
     "title": "[英] Agent swarms and the new model economics",
     "date": "2026-07-21"
   },
   {
-    "link": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
-    "title": "[英] An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
+    "link": "https://blaizzy.github.io/nativ/",
+    "title": "[英] Nativ: Run frontier open models locally on your Mac",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48982583",
+    "title": "[英] undefined",
     "date": "2026-07-21"
   },
   {
     "link": "https://dl.acm.org/doi/10.1145/3800646.3800650",
     "title": "[英] The drivers behind software delivery inefficiency",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://rachelbythebay.com/w/2026/05/05/404/",
-    "title": "[英] That post never existed. Stop listening to that thing",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://peaceful.bearblog.dev",
-    "title": "[英] I turned my bearblog into a text based adventure",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://www.kimi.com/products/kimi-work",
-    "title": "[英] Kimi Work",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://www.statnews.com/2026/07/20/psychiatric-insurance-coverage-suicide-denial-personal-essay/",
-    "title": "[英] My husbands suicide shows theres something very wrong with US insurance industry",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://hypr.land/news/update55/",
-    "title": "[英] Hyprland 0.55 announced the switch to Lua for its config files",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://jelly-ui.com/",
-    "title": "[英] Jelly UI: Soft-body physics for native HTML form controls",
     "date": "2026-07-21"
   }
 ]
