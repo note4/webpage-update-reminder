@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/07/21/synthetic-insider-attacks-raise-stakes-for-corporate-cyber-defence/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "北韓假員工滲透逾百家美企：AI 如何把「合成內鬼」攻擊規模化？",
+    "date": "2026-07-21 17:15:16"
+  },
+  {
+    "link": "https://techorange.com/2026/07/21/gss-mendio-appsec/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "叡揚資訊舉辦 Mend.io 實機體驗營 打造 AI 時代無痛合規 AppSec 流程",
+    "date": "2026-07-21 15:00:00"
+  },
+  {
     "link": "https://techorange.com/2026/07/21/openai-is-scared-of-open-weight-models-should-the-us-be/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "OpenAI、Anthropic 擔心低價開放權重模型，美國也該害怕嗎？Kimi K3 掀起國安與商業模式之爭",
     "date": "2026-07-21 12:48:02"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/07/20/gss-a2a-aicyber-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "從開發風險到供應鏈威脅，叡揚資訊助金融業建構 AI 韌性防線",
     "date": "2026-07-20 14:56:34"
-  },
-  {
-    "link": "https://techorange.com/2026/07/20/ai-amds-next-reinvention/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "從賣晶片到賣系統：AMD 挑戰 NVIDIA，卻不想當第一？",
-    "date": "2026-07-20 12:54:13"
-  },
-  {
-    "link": "https://techorange.com/2026/07/20/hidden-prompts-can-secretly-rewrite-an-ais-memory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI Agent 長期記憶成新攻擊面：研究顯示惡意記憶寫入成功率達 98%，企業該如何防守？",
-    "date": "2026-07-20 12:39:01"
   }
 ]
