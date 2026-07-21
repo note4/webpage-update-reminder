@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
+    "title": "[英] New US homeownership measure puts people first",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
+    "title": "[英] Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+    "title": "[英] GitHub suddenly rejected my SSH key (the fix was a .pub file?)",
+    "date": "2026-07-21"
+  },
+  {
     "link": "https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage",
     "title": "[英] The Growing Compute Shortage",
     "date": "2026-07-21"
@@ -57,21 +72,6 @@
   {
     "link": "https://thefreemanmag.substack.com/p/the-rise-of-grocery-tourism",
     "title": "[英] The Rise of Grocery Tourism",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
-    "title": "[英] Reverse-engineering is cheap now",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://www.yashthapliyal.com/blog/do-we-just-want-slaves",
-    "title": "[英] Do we just want slaves?",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://alganet.github.io/terminal/?p=post:2026-07-21-00-Bash-for-Browser-Frontend&lang=en",
-    "title": "[英] Bash for Browser Front End",
     "date": "2026-07-21"
   }
 ]
