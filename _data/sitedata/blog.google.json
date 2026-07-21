@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+    "title": "[英] Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "date": "2026-07-21 23:00:00"
+  },
+  {
     "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/alliance-america-skilled-trades/",
     "title": "[英] We’re announcing the Alliance for America’s Skilled Trades.",
     "date": "2026-07-21 22:00:00"
@@ -45,13 +50,13 @@
     "date": "2026-07-17 00:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-    "title": "[英] Create, edit and star in videos with two Google Vids updates",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/",
+    "title": "[英] We’re partnering with the Georgia Public Library Service for no-cost career and AI training.",
     "date": "2026-07-17 00:00:00"
   },
   {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/",
-    "title": "[英] We’re partnering with the Georgia Public Library Service for no-cost career and AI training.",
+    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "title": "[英] Create, edit and star in videos with two Google Vids updates",
     "date": "2026-07-17 00:00:00"
   },
   {
@@ -68,10 +73,5 @@
     "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-care-plus-open-enrollment-2026/",
     "title": "[英] It's not too late to get Pixel Care+ for your Pixel 9 or 10.",
     "date": "2026-07-15 06:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-met-ai-initiatives/",
-    "title": "[英] Explore The Met in new ways with generative AI",
-    "date": "2026-07-15 04:00:00"
   }
 ]
