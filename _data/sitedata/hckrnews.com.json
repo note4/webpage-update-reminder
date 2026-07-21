@@ -1,7 +1,57 @@
 [
   {
+    "link": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+    "title": "[英] 'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+    "title": "[英] Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://localsotabenchmark.engineersf.dev/",
+    "title": "[英] I built a page that tells you what AI model your laptop can run",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://danielmiessler.com/blog/recreating-the-bell-labs-cafeteria",
+    "title": "[英] Recreating the Bell Labs Cafeteria",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://happiness-science.org/price-of-happiness/",
+    "title": "[英] The Price of Happiness",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+    "title": "[英] Laguna S 2.1",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://doccharm.com/",
+    "title": "[英] Show HN: DocCharm – The help center that keeps itself up to date",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://ads.openai.com/",
+    "title": "[英] Advertise in ChatGPT",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+    "title": "[英] AI makes programming differently difficult",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://alex4d.com/notes/item/apple-competing-for-creativity-app-users",
+    "title": "[英] Apple has decided to compete for creativity app users",
+    "date": "2026-07-22"
+  },
+  {
     "link": "https://freeink.org/",
-    "title": "[英] Freeink: Open Ecosystem for E-Readers",
+    "title": "[英] FreeInk: Open ecosystem for e-readers",
     "date": "2026-07-22"
   },
   {
@@ -10,68 +60,18 @@
     "date": "2026-07-22"
   },
   {
-    "link": "https://github.com/artob/edky",
-    "title": "[英] Show HN: Edky, a CLI to convert Ed25519 public keys from one encoding to another",
-    "date": "2026-07-22"
-  },
-  {
     "link": "https://numberstation.fm/the-body-shop/",
     "title": "[英] How did the H1B visa become the 'Indian' visa",
     "date": "2026-07-22"
   },
   {
+    "link": "https://github.com/artob/edky",
+    "title": "[英] Show HN: Edky, a CLI to convert Ed25519 public keys from one encoding to another",
+    "date": "2026-07-22"
+  },
+  {
     "link": "https://arxiv.org/abs/2607.14656",
     "title": "[英] Greedy is optimal for single-pass semi-streaming matching",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
-    "title": "[英] Cheap Self-Hosted Kubernetes on Hetzner Cloud",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://help.trmnl.com/en/articles/14130438-ai-agent",
-    "title": "[英] AI Agent – TRMNL",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://github.com/Kalcode/spaceprojectsim",
-    "title": "[英] Show HN: A self-running space economy SIM in Rust and Bevy",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure",
-    "title": "[英] YouTube System Design for Robotics Data Infrastructure",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://github.com/Hikari-Systems/slater",
-    "title": "[英] Slater – Low-memory graphdb designed for read-heavy graphs",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://blog.dlang.org/2026/07/19/abusing-overload-sets-to-create-ad-hoc-template-apis/",
-    "title": "[英] (Ab)Using Overload Sets to Create Ad-Hoc Template APIs in D",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://github.com/Observal/Observal",
-    "title": "[英] Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-    "title": "[英] Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-    "title": "[英] Firefox Containers Preview",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://github.com/mvp/uhubctl",
-    "title": "[英] Uhubctl – control USB power per-port on smart USB hubs",
     "date": "2026-07-22"
   }
 ]
