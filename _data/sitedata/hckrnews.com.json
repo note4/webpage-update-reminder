@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://github.com/MatheuZSecurity/Furtex",
+    "title": "[英] Furtex: Post-exploitation, rootkit and evasion research toolkit for Linux",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
+    "title": "[英] An Engineer's Guide to USB Type-C [pdf]",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://ai.google.dev/gemini-api/docs/latest-model",
+    "title": "[英] Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://fireworks.ai/blog/kimik3-fable",
+    "title": "[英] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://www.celestrak.org/satcat/",
+    "title": "[英] Celestrak adds catalog digit, fixes Y2K bug",
+    "date": "2026-07-22"
+  },
+  {
     "link": "https://libretto.sh/browser-tools",
     "title": "[英] Show HN: Browser Tools SDK – an optimal browser harness for agents",
     "date": "2026-07-22"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.marginpoints.com/essays/mickey-mouse-sells-a-bundle-hn",
     "title": "[英] Mickey Mouse Sells a Bundle",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://justif.lyall.co/",
-    "title": "[英] Show HN: Justif – Knuth-Plass justification and microtypography for the web",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://readthetape.cc/",
-    "title": "[英] Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://ayuhito.com/projects/modern-tar/",
-    "title": "[英] Zero-dependency streaming tar parser and writer for JavaScript",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-    "title": "[英] OpenAI and Hugging Face address security incident during model evaluation",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
-    "title": "[英] 'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
     "date": "2026-07-22"
   }
 ]
