@@ -1,12 +1,62 @@
 [
   {
-    "link": "https://e360.yale.edu/digest/benin-coral-reef",
-    "title": "[英] Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa",
+    "link": "https://github.com/matheuzgomes/decoreba",
+    "title": "[英] Show HN: I built a command palette for the terminal – 6.2MB, pure Go, no fzf",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
+    "title": "[英] My USB Drive Has a Hidden Encrypted Vault",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+    "title": "[英] Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=48995037",
+    "title": "[英] Bloomy (YC S26) is hiring a founding engineer",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://acoup.blog/2019/11/22/collections-why-are-there-no-empires-in-age-of-empires/",
+    "title": "[英] Why Are There No Empires in Age of Empires? (2019)",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+    "title": "[英] Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://thecastlemap.com/",
+    "title": "[英] The World's 2,400 Castles",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html",
+    "title": "[英] The unreasonable difficulty of time series forecasting",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://text.npr.org/nx-s1-5869813",
+    "title": "[英] Amid nurse shortage, a university rolls out the welcome mat for men",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
+    "title": "[英] France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
     "date": "2026-07-22"
   },
   {
     "link": "https://blog.outv.im/2026/npm-cooldown-security-theater/",
     "title": "[英] NPM's release cooldown is security theater",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://e360.yale.edu/digest/benin-coral-reef",
+    "title": "[英] Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa",
     "date": "2026-07-22"
   },
   {
@@ -22,56 +72,6 @@
   {
     "link": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
     "title": "[英] ICE to Pay Thomson Reuters $125M to Find Voter Fraud",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-    "title": "[英] Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://terradaily.com/anything-that-falls-into-a-four-kilometre-stretch-of-a-river-in-the-central-peruvian-amazon-dies-within-seconds-because-the-water-reaches-temperatures-of-up-to-100-degrees-celsius-despite-the-river/",
-    "title": "[英] Shanay-Timpishka, a boiling hot river 700km from the nearest active volcano",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemini-3.6-flash",
-    "title": "[英] Gemini 3.6 Flash",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://blog.exe.dev/claude-is-not-a-compiler",
-    "title": "[英] Claude Is Not a Compiler",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-    "title": "[英] Apple Defeats Liability for Not Scanning iCloud for CSAM",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://colossus.com/article/sarah-guo-conviction/",
-    "title": "[英] Sarah's Wager",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://markwrites.io/mullvad-and-daniel-berntssons-failed-cleanup/",
-    "title": "[英] Mullvad and Daniel Berntsson's Failed Cleanup",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://www.pcjs.org/",
-    "title": "[英] PCjs Machines",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://lore.kernel.org/linux-cve-announce/",
-    "title": "[英] Over 400 Linux CVEs published in the last 24 hours alone",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://artifacta.io/a/pg_x9pombpdybx90q2s16eu",
-    "title": "[英] Show HN: Explore 6048 YC companies as an interactive galaxy",
     "date": "2026-07-22"
   }
 ]
