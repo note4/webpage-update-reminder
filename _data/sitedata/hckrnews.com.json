@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://alignment.openai.com/measuring-reward-seeking/",
+    "title": "[英] Measuring reward-seeking by instilling contrastive beliefs",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation",
+    "title": "[英] Roblox Officially Supports GrapheneOS",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://www.marginpoints.com/essays/mickey-mouse-sells-a-bundle-hn",
+    "title": "[英] Mickey Mouse Sells a Bundle",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://justif.lyall.co/",
+    "title": "[英] Show HN: Justif – Knuth-Plass justification and microtypography for the web",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://readthetape.cc/",
+    "title": "[英] Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://ayuhito.com/projects/modern-tar/",
+    "title": "[英] Zero-dependency streaming tar parser and writer for JavaScript",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+    "title": "[英] OpenAI and Hugging Face address security incident during model evaluation",
+    "date": "2026-07-22"
+  },
+  {
     "link": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
     "title": "[英] 'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
     "date": "2026-07-22"
@@ -21,7 +56,7 @@
   },
   {
     "link": "https://happiness-science.org/price-of-happiness/",
-    "title": "[英] The Price of Happiness",
+    "title": "[英] The Price of Happiness (2024)",
     "date": "2026-07-22"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://ads.openai.com/",
     "title": "[英] Advertise in ChatGPT",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-    "title": "[英] AI makes programming differently difficult",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://alex4d.com/notes/item/apple-competing-for-creativity-app-users",
-    "title": "[英] Apple has decided to compete for creativity app users",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://freeink.org/",
-    "title": "[英] FreeInk: Open ecosystem for e-readers",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
-    "title": "[英] Apple Private Cloud Compute SoC 3 audit reports",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://numberstation.fm/the-body-shop/",
-    "title": "[英] How did the H1B visa become the 'Indian' visa",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://github.com/artob/edky",
-    "title": "[英] Show HN: Edky, a CLI to convert Ed25519 public keys from one encoding to another",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.14656",
-    "title": "[英] Greedy is optimal for single-pass semi-streaming matching",
     "date": "2026-07-22"
   }
 ]
