@@ -1,7 +1,52 @@
 [
   {
+    "link": "https://zoom.us/test",
+    "title": "[英] Zoom is now Chrome only",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://github.com/Qbix/webserver/blob/main/README.md",
+    "title": "[英] A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://thefreemanmag.substack.com/p/the-rise-of-grocery-tourism",
+    "title": "[英] The Rise of Grocery Tourism",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
+    "title": "[英] Reverse-engineering is cheap now",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://www.yashthapliyal.com/blog/do-we-just-want-slaves",
+    "title": "[英] Do we just want slaves?",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://alganet.github.io/terminal/?p=post:2026-07-21-00-Bash-for-Browser-Frontend&lang=en",
+    "title": "[英] Bash for Browser Front End",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://tech.marksblogg.com/little-navmap-flight-planning.html",
+    "title": "[英] Flight Planning with Little Navmap",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://exsitu.app/map",
+    "title": "[英] Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+    "date": "2026-07-21"
+  },
+  {
+    "link": "https://dsprtn.dev/posts/GTFO-VR-Postmortem/",
+    "title": "[英] GTFO VR Mod Postmortem",
+    "date": "2026-07-21"
+  },
+  {
     "link": "https://github.com/janestreet/incremental",
-    "title": "[英] Jane Street: Incremental",
+    "title": "[英] Incremental – A library for incremental computations",
     "date": "2026-07-21"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://portraify.app",
     "title": "[英] Show HN: Turn casual photos into professional headshots with AI",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48987634",
-    "title": "[英] Is surveillance risk chilling your online speech?",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://ramp.com/router/",
-    "title": "[英] Ramp Router",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://github.com/rochus-keller/MUMPS/blob/main/docs/First_MUMPS_Standard_Article.md",
-    "title": "[英] What most histories get wrong about MUMPS's first standard",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://www.ling.upenn.edu/~beatrice/110/docs/uncleftish-beholding.html",
-    "title": "[英] Atomic Physics in Pure Anglo-Saxon",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://words.filippo.io/passkey-record/",
-    "title": "[英] Opaque, Interoperable Passkey Records (and a Go API)",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
-    "title": "[英] Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://esigna.app",
-    "title": "[英] Show HN: I made email signatures less boring",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://forum.jellyfin.org/t-project-leadership-changes",
-    "title": "[英] Jellyfin founder Andrew leaves team",
-    "date": "2026-07-21"
-  },
-  {
-    "link": "https://www.outercloud.dev/blogs/webgpu-font-rendering/",
-    "title": "[英] Rendering Fonts Quickly on the GPU",
     "date": "2026-07-21"
   }
 ]
