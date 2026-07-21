@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://techorange.com/2026/07/21/openai-safety-alignment-long-horizon-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 為何主動暫停一款強大的 AI？一場內部測試揭 Agent 資安新盲點",
+    "date": "2026-07-21 12:09:45"
+  },
+  {
+    "link": "https://techorange.com/2026/07/21/ai-agent-mic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI Agent 已進入企業核心流程，為何反而遇到效率瓶頸？資策會產業情報研究所主任韓揚銘揭流程、人才與治理解方",
+    "date": "2026-07-21 10:44:00"
+  },
+  {
+    "link": "https://techorange.com/2026/07/21/ai-native-firms-startup/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "4 個人，服務 75 萬名客戶：研究揭 AI 原生企業正在改寫「請更多人」老規則",
+    "date": "2026-07-21 09:56:08"
+  },
+  {
+    "link": "https://techorange.com/2026/07/21/self-harness-ai-agent-rewrite/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【自我修復的 AI 代理】提案、驗證、重寫規則，Self-Harness 框架讓效能最高提升 60%",
+    "date": "2026-07-21 09:48:13"
+  },
+  {
+    "link": "https://techorange.com/2026/07/21/ready-for-ai-search/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "不追排名、流量、反向連結，AI 搜尋時代把 SEO 概念「轉譯」成四個新指標",
+    "date": "2026-07-21 09:41:37"
+  },
+  {
     "link": "https://techorange.com/2026/07/21/ai-infrastructure-bottlenecks-kimi-memory-data-center-protests/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】AI 擴張撞上基建瓶頸：Kimi 卡算力、記憶體喊缺、美國 42 州抗議資料中心",
     "date": "2026-07-21 05:30:00"
@@ -48,30 +73,5 @@
     "link": "https://techorange.com/2026/07/20/europes-quantum-computing-sector-faces-the-same-capital-trap-that-hit-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "投資達美國 2 倍、募資直追北美：為何歐洲量子產業仍難逃「研發在本土，控制權歸美國」的資本陷阱？",
     "date": "2026-07-20 10:44:34"
-  },
-  {
-    "link": "https://techorange.com/2026/07/20/ai-claude-code-engineer-thinkers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 讓開發產出翻 3 倍，決策端卻跟不上，未來的工程師得開始做 PM 的工作",
-    "date": "2026-07-20 10:23:17"
-  },
-  {
-    "link": "https://techorange.com/2026/07/20/ai-fintech-funding-surges-in-h1-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Fintech 今年募資逆勢成長 23%，AI 下一個殺手級應用為何指向金融？",
-    "date": "2026-07-20 09:40:29"
-  },
-  {
-    "link": "https://techorange.com/2026/07/20/kimi-k3-us-china-ai-gap-compute-regulation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】中美 AI 差距縮小：Kimi K3 逼近美國，算力與監管戰同步升溫",
-    "date": "2026-07-20 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/07/18/ai-bots-and-the-agentic-future-of-the-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【AI、機器人與網路的代理化未來】99% 機器人是惡意程式，如何精準分辨「惡意攻擊」與「AI 變現機會」？",
-    "date": "2026-07-18 06:29:00"
-  },
-  {
-    "link": "https://techorange.com/2026/07/17/att-telecom-ai-network-outage-prevention/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "一年少派工 310 萬次、停機時間減少 1,200 萬小時：美國電信巨頭 AT&amp;T 如何重寫維運模式？",
-    "date": "2026-07-17 17:09:47"
   }
 ]
