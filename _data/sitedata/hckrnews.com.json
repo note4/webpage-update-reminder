@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://twitter.com/na_announce/status/2079952538040672302",
+    "title": "[英] John C. Dvorak has died",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data",
+    "title": "[英] ICE shared Medicaid data it wasn't supposed to have with Palantir",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/",
+    "title": "[英] Nvidia DGX Spark as a daily driver",
+    "date": "2026-07-23"
+  },
+  {
     "link": "https://mitchellh.com/writing/everyone-should-know-simd",
     "title": "[英] Everyone Should Know SIMD",
     "date": "2026-07-23"
@@ -57,21 +72,6 @@
   {
     "link": "https://www.youtube.com/watch?v=0Y-9GbsS9Fg",
     "title": "[英] Mechanical light bulb from 1675 [video]",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://twitter.com/mkratsios47/status/2079933645888880708",
-    "title": "[英] “We have information that Moonshot distilled Fable for the development of K3”",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d",
-    "title": "[英] Six questions before you add an LLM",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://unlayer.com",
-    "title": "[英] Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
     "date": "2026-07-23"
   }
 ]
