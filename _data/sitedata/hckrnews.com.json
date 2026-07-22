@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
+    "title": "[英] Nobody knows what a used GPU cluster is worth",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "title": "[英] Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://github.com/marcelroed/gigatoken/",
+    "title": "[英] GigaToken: ~1000x faster Language model tokenization",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://platform-fools.com/posts/2026-04-27-nvlink/",
+    "title": "[英] When Is NVLink Worth It?",
+    "date": "2026-07-23"
+  },
+  {
     "link": "https://cruciblebench.ai/",
     "title": "[英] Can a MUD evaluate LLMs? A $99 proof of concept",
     "date": "2026-07-23"
@@ -16,7 +36,7 @@
   },
   {
     "link": "https://deepsql.ai/",
-    "title": "[英] Show HN: DeepSQL – A self-hostable AI DBA agent for Postgres and MySQL",
+    "title": "[英] Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
     "date": "2026-07-23"
   },
   {
@@ -45,33 +65,13 @@
     "date": "2026-07-23"
   },
   {
-    "link": "https://agonora.com/blog/ethics-most-important-skill",
-    "title": "[英] Ethics Is the Skill That Matters Most Now",
-    "date": "2026-07-23"
-  },
-  {
     "link": "https://ishmael.textualize.io/blog/ghost-cut/",
     "title": "[英] Ghost Cut – or why Cut and Paste is broken everywhere",
     "date": "2026-07-23"
   },
   {
-    "link": "https://hologram.page/blog/backing-hologram",
-    "title": "[英] Hologram works. Elixir runs in the browser",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/",
-    "title": "[英] Which streaming service was that on again",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://launchany.com/the-pillars-of-an-api-platform/",
-    "title": "[英] The Pillars of an API Platform",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/",
-    "title": "[英] Perlin's Noise Algorithm",
+    "link": "https://agonora.com/blog/ethics-most-important-skill",
+    "title": "[英] Ethics Is the Skill That Matters Most Now",
     "date": "2026-07-23"
   }
 ]
