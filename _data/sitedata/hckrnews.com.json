@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://late.sh/",
+    "title": "[英] Late.sh – a command-line Clubhouse for computer people",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+    "title": "[英] LG to ban residential proxies from smart TV apps",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://ambrook.com/offrange/culture/miso-in-space",
+    "title": "[英] The Miso That Went to Space",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
+    "title": "[英] It's a shame what's happened to radio",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://github.com/open-and-async/mcp",
+    "title": "[英] Show HN: An MCP server that turns async-work practices into tools",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "http://hintjens.com/blog:99",
+    "title": "[英] Ten Steps Towards Happiness (2015)",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://www.jugglingforblindpeople.com/",
+    "title": "[英] Juggling for Blind People",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/",
+    "title": "[英] A flaky test exposed a Redis client use-after-free",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://www.aventos.dev/our-process?view=blog",
+    "title": "[英] How an AI Anime Is Created",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://workaround.run/",
+    "title": "[英] Show HN: Workaround – Unstar GitHub Repos in Bulk",
+    "date": "2026-07-22"
+  },
+  {
     "link": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
     "title": "[英] Recreating the math behind the first stealth aircraft",
     "date": "2026-07-22"
@@ -22,56 +72,6 @@
   {
     "link": "https://fireworks.ai/blog/kimik3-fable",
     "title": "[英] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://www.celestrak.org/satcat/",
-    "title": "[英] Celestrak adds catalog digit, fixes Y2K bug",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://libretto.sh/browser-tools",
-    "title": "[英] Show HN: Browser Tools SDK – an optimal browser harness for agents",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://www.getcomputable.com/",
-    "title": "[英] Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://orate.to/",
-    "title": "[英] Show HN: Orate – On-device neural text-to-speech queue for Mac",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-    "title": "[英] A digestion of the Jacobian conjecture counterexample",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://project-mage.org/",
-    "title": "[英] Unified power-user environment and knowledge-representation in Common Lisp",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-    "title": "[英] \"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://dl.acm.org/doi/10.1145/234286.1057820",
-    "title": "[英] The Birth of Prolog (1996)",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://alignment.openai.com/measuring-reward-seeking/",
-    "title": "[英] Measuring reward-seeking by instilling contrastive beliefs",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation",
-    "title": "[英] Roblox Officially Supports GrapheneOS",
     "date": "2026-07-22"
   }
 ]

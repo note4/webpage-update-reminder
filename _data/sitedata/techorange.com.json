@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/07/22/taktile/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【決策速度成新競爭力】從數週審核到五分鐘核准，Taktile 用 AI 代理改寫金融業競爭規則",
+    "date": "2026-07-22 10:26:55"
+  },
+  {
+    "link": "https://techorange.com/2026/07/22/google-ai-open-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "研究指 75% AI Mode 搜尋未產生外部點擊：Google 築起流量圍牆，開放網路迎來「Google Zero」？",
+    "date": "2026-07-22 10:23:14"
+  },
+  {
+    "link": "https://techorange.com/2026/07/22/ai-expedia-vrbo-marketing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "用 AI 把行銷素材規模化、效率提升3-5倍：Expedia 子品牌如何拿捏人機協作的邊界？",
+    "date": "2026-07-22 08:00:00"
+  },
+  {
     "link": "https://techorange.com/2026/07/22/microsoft-kimi-k3-amd-ai-compute-china-export-controls/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】Microsoft 評估 Kimi K3、擴大 AMD 算力，中國也擬收緊 AI 技術出口",
     "date": "2026-07-22 05:30:00"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/07/21/ready-for-ai-search/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "不追排名、流量、反向連結，AI 搜尋時代把 SEO 概念「轉譯」成四個新指標",
     "date": "2026-07-21 09:41:37"
-  },
-  {
-    "link": "https://techorange.com/2026/07/21/ai-infrastructure-bottlenecks-kimi-memory-data-center-protests/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】AI 擴張撞上基建瓶頸：Kimi 卡算力、記憶體喊缺、美國 42 州抗議資料中心",
-    "date": "2026-07-21 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/07/20/hugging-face-ai-agent-security/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Hugging Face 遭 AI Agent 惡意入侵：一個中國模型為何成了最後的調查工具？",
-    "date": "2026-07-20 16:53:32"
-  },
-  {
-    "link": "https://techorange.com/2026/07/20/china-brain-to-robot-platform/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "具身 AI 的下一個瓶頸不是動作，而是理解人類：BrainCo 如何把「意圖」變成機器人訓練資料？",
-    "date": "2026-07-20 16:37:35"
   }
 ]
