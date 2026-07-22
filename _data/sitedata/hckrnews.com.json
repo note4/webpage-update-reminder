@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
+    "title": "[英] Recreating the math behind the first stealth aircraft",
+    "date": "2026-07-22"
+  },
+  {
     "link": "https://github.com/MatheuZSecurity/Furtex",
     "title": "[英] Furtex: Post-exploitation, rootkit and evasion research toolkit for Linux",
     "date": "2026-07-22"
@@ -67,11 +72,6 @@
   {
     "link": "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation",
     "title": "[英] Roblox Officially Supports GrapheneOS",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://www.marginpoints.com/essays/mickey-mouse-sells-a-bundle-hn",
-    "title": "[英] Mickey Mouse Sells a Bundle",
     "date": "2026-07-22"
   }
 ]
