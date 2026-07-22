@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+    "title": "[英] Everyone Should Know SIMD",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://swiftrocks.com/i-tried-to-record-music-onto-a-cassette-tape-using-modern-tech",
+    "title": "[英] I tried to record music onto a cassette tape using modern tech",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "title": "[英] Are AI Labs Pelicanmaxxing?",
+    "date": "2026-07-23"
+  },
+  {
     "link": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
     "title": "[英] Nobody knows what a used GPU cluster is worth",
     "date": "2026-07-23"
@@ -16,7 +31,7 @@
   },
   {
     "link": "https://platform-fools.com/posts/2026-04-27-nvlink/",
-    "title": "[英] When Is NVLink Worth It?",
+    "title": "[英] When is NVLink worth it?",
     "date": "2026-07-23"
   },
   {
@@ -46,7 +61,7 @@
   },
   {
     "link": "https://twitter.com/mkratsios47/status/2079933645888880708",
-    "title": "[英] \"We have information that Moonshot distilled Fable for the development of K3\"",
+    "title": "[英] “We have information that Moonshot distilled Fable for the development of K3”",
     "date": "2026-07-23"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://unlayer.com",
     "title": "[英] Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://itsjustchronicallyoffline.bearblog.dev/physical-media-vs-digital-media/",
-    "title": "[英] Physical Media vs. Digital Media",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://ishmael.textualize.io/blog/ghost-cut/",
-    "title": "[英] Ghost Cut – or why Cut and Paste is broken everywhere",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://agonora.com/blog/ethics-most-important-skill",
-    "title": "[英] Ethics Is the Skill That Matters Most Now",
     "date": "2026-07-23"
   }
 ]
