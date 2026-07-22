@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+    "title": "[英] Fairphone 6 wide camera experimental Linux support",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+    "title": "[英] Malleable Computing, Emacs, and You",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit",
+    "title": "[英] Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+    "title": "[英] Safari Technology Preview 248 Released",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+    "title": "[英] I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+    "title": "[英] Taking OCaml and Eio for a Spin",
+    "date": "2026-07-23"
+  },
+  {
     "link": "https://twitter.com/na_announce/status/2079952538040672302",
     "title": "[英] John C. Dvorak has died",
     "date": "2026-07-23"
@@ -42,36 +72,6 @@
   {
     "link": "https://github.com/marcelroed/gigatoken/",
     "title": "[英] GigaToken: ~1000x faster Language model tokenization",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://platform-fools.com/posts/2026-04-27-nvlink/",
-    "title": "[英] When is NVLink worth it?",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://cruciblebench.ai/",
-    "title": "[英] Can a MUD evaluate LLMs? A $99 proof of concept",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://www.swingnyc.com/",
-    "title": "[英] Show HN: Web swing through midtown NYC",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://thebaffler.com/latest/the-music-of-destruction-fuelling",
-    "title": "[英] The Music of Destruction",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://deepsql.ai/",
-    "title": "[英] Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=0Y-9GbsS9Fg",
-    "title": "[英] Mechanical light bulb from 1675 [video]",
     "date": "2026-07-23"
   }
 ]
