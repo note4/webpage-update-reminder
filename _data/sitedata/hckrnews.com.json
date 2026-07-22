@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=48904202",
+    "title": "[英] Ask HN: US Equivalent of Anabin?",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://github.com/chrislgarry/Apollo-11",
+    "title": "[英] Original Apollo 11 Guidance Computer source code for command and lunar modules",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://phronesis.world/papers/ways-of-checking/",
+    "title": "[英] Ten ways a check passes while the thing it checks is broken",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49002010",
+    "title": "[英] undefined",
+    "date": "2026-07-22"
+  },
+  {
+    "link": "https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark",
+    "title": "[英] Kimi K3: second only to Fable 5 on AA-Briefcase",
+    "date": "2026-07-22"
+  },
+  {
     "link": "https://late.sh/",
     "title": "[英] Late.sh – a command-line Clubhouse for computer people",
     "date": "2026-07-22"
@@ -47,31 +72,6 @@
   {
     "link": "https://workaround.run/",
     "title": "[英] Show HN: Workaround – Unstar GitHub Repos in Bulk",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
-    "title": "[英] Recreating the math behind the first stealth aircraft",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://github.com/MatheuZSecurity/Furtex",
-    "title": "[英] Furtex: Post-exploitation, rootkit and evasion research toolkit for Linux",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
-    "title": "[英] An Engineer's Guide to USB Type-C [pdf]",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://ai.google.dev/gemini-api/docs/latest-model",
-    "title": "[英] Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-    "date": "2026-07-22"
-  },
-  {
-    "link": "https://fireworks.ai/blog/kimik3-fable",
-    "title": "[英] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
     "date": "2026-07-22"
   }
 ]
