@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://rogerdickey.com/building-watchable-digital-twins-of-64-world-cup-games/",
+    "title": "[英] Building watchable digital twins of 64 World Cup games",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
+    "title": "[英] Interview with Matheus Moreira about Lone Lisp and Linux Kernel",
+    "date": "2026-07-24"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=49028037",
     "title": "[英] Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
     "date": "2026-07-24"
@@ -62,16 +72,6 @@
   {
     "link": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
     "title": "[英] A solid-state “atomic channel” for separating rare earth elements",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://www.geekbench.com/blog/2026/07/geekbench-7/",
-    "title": "[英] Geekbench 7",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://lukekanies.com/writing/building-on-atproto/",
-    "title": "[英] Building on ATProto",
     "date": "2026-07-24"
   }
 ]
