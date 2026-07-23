@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+    "title": "[英] The arguments against open source AI are bad",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://openai.com/index/health-in-chatgpt/",
+    "title": "[英] Launching Health in ChatGPT",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+    "title": "[英] Why Software Factories Fail (or: harness engineering is not enough)",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+    "title": "[英] What happened to TheNumbers.com",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://github.com/onecli/onecli",
+    "title": "[英] Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/",
+    "title": "[英] Log is non-monotonic in PHP and Lua",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49024620",
+    "title": "[英] Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://github.com/palmier-io/palmier-pro",
+    "title": "[英] Show HN: Palmier Pro – open-source macOS video editor built for AI",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://openjdk.org/jeps/540",
+    "title": "[英] JEP 540: Simple JSON API (Now in Incubator)",
+    "date": "2026-07-24"
+  },
+  {
     "link": "https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/",
     "title": "[英] Emacs Is a Lispboard",
     "date": "2026-07-24"
@@ -27,51 +72,6 @@
   {
     "link": "https://github.com/Conradqh/scrapemychats",
     "title": "[英] Free way to get your data out of ChatGPT Business accounts",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://eliemichel.github.io/LearnWebGPU/",
-    "title": "[英] Learn WebGPU for C++",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://github.com/ThatXliner/NerdLens",
-    "title": "[英] NerdLens: Mirror your computer with cardboard VR",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-    "title": "[英] DARPA, U.S. Air Force fly AI-controlled F-16",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
-    "title": "[英] Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/",
-    "title": "[英] What happens when the information runs out",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://tangled.org/janantos.tngl.sh/brow6el",
-    "title": "[英] Brow6el: A full-featured web browser for the terminal using Chromium",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html",
-    "title": "[英] I Think You Might Be Fooling Yourself with AI",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://github.com/pullrun/pullrun",
-    "title": "[英] You can now run same OCI images as containers or Firecracker microVMs",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://omnideck.cc/",
-    "title": "[英] Show HN: I built a zero-latency developer tool suite in pure Vanilla JavaScript",
     "date": "2026-07-24"
   }
 ]
