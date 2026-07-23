@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=49028037",
+    "title": "[英] Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+    "title": "[英] Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+    "date": "2026-07-24"
+  },
+  {
     "link": "https://www.lrb.co.uk/the-paper/v48/n13/jonathan-coe/where-was-the-drum-kit",
     "title": "[英] Hitchcock and Herrmann: The Friendship and Film Scores That Changed Cinema",
     "date": "2026-07-24"
@@ -62,16 +72,6 @@
   {
     "link": "https://lukekanies.com/writing/building-on-atproto/",
     "title": "[英] Building on ATProto",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://soteria-tools.com/blog/meta-garbage-collection",
-    "title": "[英] Meta Garbage Collection: Using OCaml's GC to GC Rust",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://github.com/izeigerman/claude-thermos",
-    "title": "[英] Show HN: Claude-thermos – keeps your Claude session warm for you",
     "date": "2026-07-24"
   }
 ]
