@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
+    "title": "[英] git's –end-of-options Flag",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://github.com/exlee/ascdraw",
+    "title": "[英] ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.20386",
+    "title": "[英] Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+    "title": "[英] Restructuring GitHub's bug bounty program",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+    "title": "[英] OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49015999",
+    "title": "[英] undefined",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://petals.dev/",
+    "title": "[英] Petals: Run LLMs at home, BitTorrent-style",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/",
+    "title": "[英] NixOS is more complicated than you think but OpenCode fixed it",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://codeberg.org/Codeberg/org/pulls/1254",
+    "title": "[英] Codeberg Bans Cryptocurrency Projects",
+    "date": "2026-07-23"
+  },
+  {
     "link": "https://www.oranlooney.com/post/rose-petals/",
     "title": "[英] What Rose Petals Teach Us about Induction",
     "date": "2026-07-23"
@@ -21,57 +66,12 @@
   },
   {
     "link": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
-    "title": "[英] Clarity didn't work, trying mysterianism",
+    "title": "[英] Clarity didn't work, trying mysterianism (2012)",
     "date": "2026-07-23"
   },
   {
     "link": "https://arxiv.org/abs/2607.18250",
     "title": "[英] Anthropomorphism in Children's Interactions with LLM Chatbots",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://ishiguro-lab.org/projects/designing-a-4d-digital-archive-for-ikebana/",
-    "title": "[英] Designing a 4D Digital Archive for Ikebana",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-    "title": "[英] Cookware Got Worse on Purpose",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://ohaodha.ie/blog/fretboard-memorisation-with-modular-arithmetic/",
-    "title": "[英] Fretboard Memorisation with Modular Arithmetic",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://valuepair.app",
-    "title": "[英] Show HN: ValuePair – a friendship app that cares about values first",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster",
-    "title": "[英] How we made our LeRobot video reader up to 15× faster",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://github.com/cactus-compute/cactus-hybrid",
-    "title": "[英] Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-    "title": "[英] Any text-to-SQL benchmark should address difficulties of real-world data stores",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-    "title": "[英] Medici family mystery may be solved after more than 400 years",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
-    "title": "[英] ISPs' long nightmare of having to list all the fees they charge is finally over",
     "date": "2026-07-23"
   }
 ]
