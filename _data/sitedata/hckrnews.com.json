@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/",
+    "title": "[英] From Evaluation to Guardrails: What We Brought to ACM FAccT 2026",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
+    "title": "[英] A solid-state “atomic channel” for separating rare earth elements",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://www.geekbench.com/blog/2026/07/geekbench-7/",
+    "title": "[英] Geekbench 7",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://lukekanies.com/writing/building-on-atproto/",
+    "title": "[英] Building on ATProto",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://soteria-tools.com/blog/meta-garbage-collection",
+    "title": "[英] Meta Garbage Collection: Using OCaml's GC to GC Rust",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://github.com/izeigerman/claude-thermos",
+    "title": "[英] Show HN: Claude-thermos – keeps your Claude session warm for you",
+    "date": "2026-07-24"
+  },
+  {
     "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
     "title": "[英] The arguments against open source AI are bad",
     "date": "2026-07-24"
@@ -36,42 +66,12 @@
   },
   {
     "link": "https://github.com/palmier-io/palmier-pro",
-    "title": "[英] Show HN: Palmier Pro – open-source macOS video editor built for AI",
+    "title": "[英] Show HN: Palmier Pro – Open-source macOS video editor built for AI",
     "date": "2026-07-24"
   },
   {
     "link": "https://openjdk.org/jeps/540",
     "title": "[英] JEP 540: Simple JSON API (Now in Incubator)",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/",
-    "title": "[英] Emacs Is a Lispboard",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://www.economist.com/business/2026/07/16/how-to-sell-a-kettle",
-    "title": "[英] How to Sell a Kettle",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels",
-    "title": "[英] UK households free to install plug-in balcony solar panels from end of August",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://mysk.blog/2026/07/23/macos-overwrite-app-executables/",
-    "title": "[英] Silent Replacement of Trusted macOS App Executables",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026",
-    "title": "[英] Fields Medals 2026",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://github.com/Conradqh/scrapemychats",
-    "title": "[英] Free way to get your data out of ChatGPT Business accounts",
     "date": "2026-07-24"
   }
 ]
