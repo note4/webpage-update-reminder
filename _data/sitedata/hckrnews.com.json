@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+    "title": "[英] Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+    "title": "[英] July 23 1985, Commodore introduced its Amiga 1000: 10 years ahead of its time",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://www.vaultsort.com/guardian",
+    "title": "[英] Local AI that finds sensitive files on your Mac before attackers do",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://ssenthilnathan3.github.io/blog/malloc/",
+    "title": "[英] Why malloc always does more than I asked for?",
+    "date": "2026-07-23"
+  },
+  {
     "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
     "title": "[英] git's –end-of-options Flag",
     "date": "2026-07-23"
@@ -52,26 +72,6 @@
   {
     "link": "https://claytondorge.com/patterns-list",
     "title": "[英] All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://withdocket.com/blog/why-im-building-a-note-taking-app-without-ai",
-    "title": "[英] Why I'm building a note taking app without AI",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://github.com/Cysharp/MemoryPack",
-    "title": "[英] MemoryPack: Zero encoding extreme performance binary serializer for C#",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
-    "title": "[英] Clarity didn't work, trying mysterianism (2012)",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.18250",
-    "title": "[英] Anthropomorphism in Children's Interactions with LLM Chatbots",
     "date": "2026-07-23"
   }
 ]
