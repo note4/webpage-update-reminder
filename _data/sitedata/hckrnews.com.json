@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+    "title": "[英] Writing by Hand is Good for your Brain",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://haqr.eu/tinyrenderer/",
+    "title": "[英] Software rendering in 500 lines of bare C++",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/",
+    "title": "[英] Private healthcare makes industries less innovative. It's time for change",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+    "title": "[英] I Regret Migrating to Codeberg",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://goldberg.berkeley.edu/garden/",
+    "title": "[英] The Telegarden (1995-2004)",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://www.eso.org/public/news/eso2610/",
+    "title": "[英] Astronomers may have found the first exomoon",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+    "title": "[英] AI Companies Are Trying to Hide a Staggering Amount of Debt",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+    "title": "[英] Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
+    "title": "[英] Scanning for Pangram Errors",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+    "title": "[英] OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+    "date": "2026-07-23"
+  },
+  {
     "link": "https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/",
     "title": "[英] Publishers consider opting out of Google as search traffic declines",
     "date": "2026-07-23"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.worseonpurpose.com/",
     "title": "[英] Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://www.agent-swarm.dev/blog/code-mode-token-savings",
-    "title": "[英] Code mode yields a 99.2% cost reduction in our systems",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://unity.com/blog/meet-the-unity-cli",
-    "title": "[英] The Unity CLI: manage Unity from your terminal",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-    "title": "[英] EU fines Google €890M for competition breaches over search and apps",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://jtpeterson.substack.com/p/faq-on-expertise",
-    "title": "[英] Frequently Asked Questions on Expertise",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://momentsingraphics.de/CameraRays.html",
-    "title": "[英] Computing Camera Rays",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-    "title": "[英] Protecting our FLOSS commons from LLMs",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
-    "title": "[英] ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
-    "title": "[英] Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
-    "title": "[英] Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
-    "title": "[英] Amiga 1000: Ten years ahead of its time",
     "date": "2026-07-23"
   }
 ]
