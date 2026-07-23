@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.worseonpurpose.com/",
+    "title": "[英] Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://www.agent-swarm.dev/blog/code-mode-token-savings",
+    "title": "[英] Code mode yields a 99.2% cost reduction in our systems",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://unity.com/blog/meet-the-unity-cli",
+    "title": "[英] The Unity CLI: manage Unity from your terminal",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+    "title": "[英] EU fines Google €890M for competition breaches over search and apps",
+    "date": "2026-07-23"
+  },
+  {
+    "link": "https://jtpeterson.substack.com/p/faq-on-expertise",
+    "title": "[英] Frequently Asked Questions on Expertise",
+    "date": "2026-07-23"
+  },
+  {
     "link": "https://momentsingraphics.de/CameraRays.html",
     "title": "[英] Computing Camera Rays",
     "date": "2026-07-23"
@@ -47,31 +72,6 @@
   {
     "link": "https://github.com/exlee/ascdraw",
     "title": "[英] ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.20386",
-    "title": "[英] Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-    "title": "[英] Restructuring GitHub's bug bounty program",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-    "title": "[英] OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49015999",
-    "title": "[英] undefined",
-    "date": "2026-07-23"
-  },
-  {
-    "link": "https://petals.dev/",
-    "title": "[英] Petals: Run LLMs at home, BitTorrent-style",
     "date": "2026-07-23"
   }
 ]
