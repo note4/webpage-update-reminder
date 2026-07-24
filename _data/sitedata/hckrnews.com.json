@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://marimo.io/blog/pycharm",
+    "title": "[英] Marimo Now Runs in PyCharm",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+    "title": "[英] Postgres LISTEN/NOTIFY actually scales",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://bhanu.io/blog/codex-pushed-my-private-repo-to-an-openai-server",
+    "title": "[英] Asked Codex to redesign a page; it pushed my repo to OpenAI infra",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://ben3d.ca/blog/reporting-web-3d-capabilities-on-a-budget",
+    "title": "[英] Reporting Web 3D Capabilities on a Budget of $3 a Month",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/",
+    "title": "[英] The small, real, original web",
+    "date": "2026-07-25"
+  },
+  {
     "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
     "title": "[英] Fil-C: Garbage In, Memory Safety Out [video]",
     "date": "2026-07-25"
@@ -21,7 +46,7 @@
   },
   {
     "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-    "title": "[英] I got into YC by hacking it",
+    "title": "[英] I got into YC (Startup School) by hacking it",
     "date": "2026-07-25"
   },
   {
@@ -30,13 +55,13 @@
     "date": "2026-07-25"
   },
   {
-    "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-    "title": "[英] Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+    "link": "https://ui.gsxhq.dev/",
+    "title": "[英] Gsxui – Shadcn-style components for Go",
     "date": "2026-07-25"
   },
   {
-    "link": "https://ui.gsxhq.dev/",
-    "title": "[英] Gsxui – Shadcn-style components for Go",
+    "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+    "title": "[英] Nvidia, Microsoft, Meta warn against overregulating open-weight models",
     "date": "2026-07-25"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://github.com/dynamicslab/pysindy",
     "title": "[英] PySINDy – A package for the sparse identification of nonlinear dynamical systems",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://friendo.monster/posts/the-kids-guide-to-piracy.html",
-    "title": "[英] The Kids' Guide to Piracy",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
-    "title": "[英] Extending Polars with Rust Expression Plugins",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://blog.muffn.io/posts/cloning-mifare-cards-proxmark3/",
-    "title": "[英] Cloning Mifare Classic Cards via Proxmark3",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://duckpgq.org/",
-    "title": "[英] DuckPGQ – A DuckDB community extension for graph workloads",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://www.anthropic.com/news/claude-opus-5",
-    "title": "[英] Claude Opus 5",
     "date": "2026-07-25"
   }
 ]
