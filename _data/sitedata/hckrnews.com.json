@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+    "title": "[英] Designing an Ethernet Switch ASIC",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://www.wired.com/story/how-amazon-made-alexa-smarter/",
+    "title": "[英] The Secret Origins of Amazon's Alexa",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://andonlabs.com/evals/drone-bench",
+    "title": "[英] Drone-Bench: Tracking simple drone surveillance capabilities of frontier models",
+    "date": "2026-07-25"
+  },
+  {
     "link": "https://marimo.io/blog/pycharm",
     "title": "[英] Marimo Now Runs in PyCharm",
     "date": "2026-07-25"
@@ -46,7 +61,7 @@
   },
   {
     "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-    "title": "[英] I got into YC (Startup School) by hacking it",
+    "title": "[英] I got into YC Startup School by hacking it",
     "date": "2026-07-25"
   },
   {
@@ -55,23 +70,8 @@
     "date": "2026-07-25"
   },
   {
-    "link": "https://ui.gsxhq.dev/",
-    "title": "[英] Gsxui – Shadcn-style components for Go",
-    "date": "2026-07-25"
-  },
-  {
     "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
     "title": "[英] Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://civboot.github.io/blog/2026-07-24-build-systems.html",
-    "title": "[英] Build Systems Discussion",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://github.com/dynamicslab/pysindy",
-    "title": "[英] PySINDy – A package for the sparse identification of nonlinear dynamical systems",
     "date": "2026-07-25"
   }
 ]
