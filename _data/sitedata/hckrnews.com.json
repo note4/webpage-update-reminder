@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://chillphysicsenjoyer.substack.com/p/computational-chemistry-locally",
+    "title": "[英] Computational chemistry, Locally? My rant on SSH",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
+    "title": "[英] AMD's Instinct MI455X: Aiming for the Sun",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://zhenyi.gibber.blog/the-ever-receding-pocket",
+    "title": "[英] The Ever-Receding Pocket",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://meuarcanopessoal.net/",
+    "title": "[英] Show HN: A static, client-side tarot calculator for Brazilian Portuguese",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://danluu.com/sounds-easy/",
+    "title": "[英] I could do that in a weekend (2016)",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://glyphack.com/attention/",
+    "title": "[英] It's getting harder to focus every day",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://book-prize-index.vercel.app",
+    "title": "[英] The Book Prize Index",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+    "title": "[英] Nothing works and everyone is euphoric",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://bfl.ai/blog/flux-3-mimic",
+    "title": "[英] Flux 3 X Mimic: The Next Generation of Video-Action Models",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html",
+    "title": "[英] Future euro banknote design proposals",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://sive.rs/itunes",
+    "title": "[英] The day Steve Jobs dissed me in a keynote (2010)",
+    "date": "2026-07-24"
+  },
+  {
     "link": "https://platform.claude.com/cookbook/",
     "title": "[英] Claude Cookbook",
     "date": "2026-07-24"
@@ -17,61 +72,6 @@
   {
     "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
     "title": "[英] The PImpl idiom and the C++26 std:indirect type",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
-    "title": "[英] Visualizing the Artemis II Mission",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://bfl.ai/blog/flux-3",
-    "title": "[英] Flux 3",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74",
-    "title": "[英] Stripe in talks to buy OpenRouter for ~10B",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://twitter.com/andrewcurran_/status/2080397684134007189",
-    "title": "[英] Stripe in talks to buy OpenRouter for about $10B",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512",
-    "title": "[英] For most US drivers, EVs offer emissions benefits and cost savings",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://www.logisheets.com/?craft=factory-simulator",
-    "title": "[英] Show HN: A factory simulator game built on Spreadsheets",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://www.wheresyoured.at/the-subprime-data-center-crisis/",
-    "title": "[英] Zitron: The Subprime Datacenter Crisis",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49031330",
-    "title": "[英] undefined",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://github.com/newren/git-filter-repo",
-    "title": "[英] Quickly rewrite Git repository history",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
-    "title": "[英] Why Sony can't bring back its classic Walkman models",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/",
-    "title": "[英] The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
     "date": "2026-07-24"
   }
 ]
