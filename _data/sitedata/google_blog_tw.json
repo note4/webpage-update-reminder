@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/intl/zh-tw/products/devices-services/selfie-for-signin/",
+    "title": "「自拍影片」登入 Google 帳號，安全防護再升級",
+    "date": "2026-07-24 17:00:00"
+  },
+  {
     "link": "https://blog.google/intl/zh-tw/products/cloud/google-cloud-day-taipei/",
     "title": "Google Cloud 陪伴台灣企業從實驗走向實戰，賦能企業邁向代理式企業新時代",
     "date": "2026-07-09 23:00:00"
@@ -67,11 +72,6 @@
   {
     "link": "https://blog.google/intl/zh-tw/products/android-chrome-play/meet-googlebook/",
     "title": "隆重介紹 Googlebook，專為 Gemini Intelligence 而生",
-    "date": "2026-05-13 17:00:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/android-chrome-play/android-gemini-intelligence/",
-    "title": "Android 透過 Gemini Intelligence 帶來主動智慧新體驗",
     "date": "2026-05-13 17:00:00"
   }
 ]

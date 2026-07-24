@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/",
+    "title": "[英] The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Freeze-casting",
+    "title": "[英] Freeze-Casting",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607",
+    "title": "[英] Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://lwn.net/Articles/1084545/",
+    "title": "[英] Mourning Dan Williams",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://fractl.art",
+    "title": "[英] Fractl.art – a fractal generator with 8 octillion different patterns",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://www.thegamer.com/the-backrooms-a24-copyright-strike-artwork/",
+    "title": "[英] A24 Is Copyright Striking Backrooms Artwork Older Than the Movie",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "http://visual6502.org/JSSim/index.html",
+    "title": "[英] The Visual 6502",
+    "date": "2026-07-24"
+  },
+  {
     "link": "https://wildlife.org/rats-feral-cats-fail-at-urban-rodent-control/",
     "title": "[英] Feral cats fail at urban rodent control (2018)",
     "date": "2026-07-24"
@@ -16,7 +51,7 @@
   },
   {
     "link": "https://arxiv.org/abs/2507.09369",
-    "title": "[英] A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
+    "title": "[英] A taxonomy of omnicidal futures involving artificial intelligence (2025)",
     "date": "2026-07-24"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
     "title": "[英] Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://www.lrb.co.uk/the-paper/v48/n13/jonathan-coe/where-was-the-drum-kit",
-    "title": "[英] Hitchcock and Herrmann: The Friendship and Film Scores That Changed Cinema",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/",
-    "title": "[英] Introducing selfie for sign-in: a new way to access your Google Account",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://glinscott.github.io/beam-engine/",
-    "title": "[英] The Beam Engine",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://finterm.ai/blog/big-tech-hidden-debt-fact-check.html",
-    "title": "[英] Big Tech Isn't Hiding $1.65T of Debt",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
-    "title": "[英] Escape Analysis in Go: Stack vs. Heap Allocations Explained",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49026810",
-    "title": "[英] Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://trifle.io/",
-    "title": "[英] Show HN: Trifle – Open-source analytics that stores answers, not events",
     "date": "2026-07-24"
   }
 ]
