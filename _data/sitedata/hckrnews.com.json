@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://www.anthropic.com/claude-opus-5-system-card",
+    "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+    "title": "[英] Fil-C: Garbage In, Memory Safety Out [video]",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+    "title": "[英] Self-host your mail server",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
+    "title": "[英] The hardest way to make a GIF",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+    "title": "[英] Don't Take the Black Pill [video]",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+    "title": "[英] I got into YC by hacking it",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://blog.cloudflare.com/bgp-origin-attribute/",
+    "title": "[英] BGP ORIGIN attribute manipulation and its impact on the Internet",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+    "title": "[英] Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://ui.gsxhq.dev/",
+    "title": "[英] Gsxui – Shadcn-style components for Go",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://civboot.github.io/blog/2026-07-24-build-systems.html",
+    "title": "[英] Build Systems Discussion",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://github.com/dynamicslab/pysindy",
+    "title": "[英] PySINDy – A package for the sparse identification of nonlinear dynamical systems",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://friendo.monster/posts/the-kids-guide-to-piracy.html",
+    "title": "[英] The Kids' Guide to Piracy",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
+    "title": "[英] Extending Polars with Rust Expression Plugins",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://blog.muffn.io/posts/cloning-mifare-cards-proxmark3/",
+    "title": "[英] Cloning Mifare Classic Cards via Proxmark3",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://duckpgq.org/",
+    "title": "[英] DuckPGQ – A DuckDB community extension for graph workloads",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://www.anthropic.com/news/claude-opus-5",
     "title": "[英] Claude Opus 5",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://adriengonin.com/writing/service-with-a-software/",
-    "title": "[英] Micro-SaaS Is Dead. Service With A Software Replaces It",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://gjtorikian.online/posts/proving-a-human-wrote-something/",
-    "title": "[英] Proving a Human Wrote Something",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://openjdk.org/jeps/541",
-    "title": "[英] As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://www.science.org/doi/10.1126/science.adx4343",
-    "title": "[英] The rise and fall of language diversity through the Holocene",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://www.unitree.com/As2-W/",
-    "title": "[英] Unitree As2-W",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://wisedayplanner.com/blog/apple-wont-let-me-show-my-app/",
-    "title": "[英] Apple won't let me show my app",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://hopl.info/",
-    "title": "[英] Online Historical Encyclopaedia of Programming Languages",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://github.com/rohankc69/clickit",
-    "title": "[英] Must have tool for agentic workspace and Mac users",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://edera.dev/stories/numa-part-4-closing-the-xen-dom0-i-o-gap",
-    "title": "[英] Making Xen's dom0 I/O path NUMA aware",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-    "title": "[英] Be skeptical of OpenAI's rogue hacker agent story",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49037076",
-    "title": "[英] undefined",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/",
-    "title": "[英] Codeberg Divides",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://stochastic.blog/the-linear-algebra-and-calculus-behind-every-model/",
-    "title": "[英] The linear algebra and calculus behind every model",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf",
-    "title": "[英] So bright the vision (1956) a story about machines writing instead of humans [pdf]",
     "date": "2026-07-25"
   }
 ]
