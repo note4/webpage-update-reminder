@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://artificialanalysis.ai/models",
+    "title": "[英] Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://globaloilnetwork.staffinganalytics.io/",
+    "title": "[英] Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
+    "title": "[英] Visualizing the Artemis II Mission",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://simone.org/advertising/",
+    "title": "[英] What if we made advertising illegal?",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://twitter.com/fried_rice/status/2080059356322918777",
+    "title": "[英] Kimi K3 exploited the latest Redis server",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://github.com/apresta/max-studio-tools",
+    "title": "[英] Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49041581",
+    "title": "[英] undefined",
+    "date": "2026-07-25"
+  },
+  {
     "link": "https://essenceia.github.io/projects/ethernet_switch_asic/",
     "title": "[英] Designing an Ethernet Switch ASIC",
     "date": "2026-07-25"
@@ -16,7 +51,7 @@
   },
   {
     "link": "https://marimo.io/blog/pycharm",
-    "title": "[英] Marimo Now Runs in PyCharm",
+    "title": "[英] Marimo now runs in PyCharm",
     "date": "2026-07-25"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/",
     "title": "[英] The small, real, original web",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
-    "title": "[英] Fil-C: Garbage In, Memory Safety Out [video]",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-    "title": "[英] Self-host your mail server",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-    "title": "[英] The hardest way to make a GIF",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-    "title": "[英] Don't Take the Black Pill [video]",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-    "title": "[英] I got into YC Startup School by hacking it",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://blog.cloudflare.com/bgp-origin-attribute/",
-    "title": "[英] BGP ORIGIN attribute manipulation and its impact on the Internet",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-    "title": "[英] Nvidia, Microsoft, Meta warn against overregulating open-weight models",
     "date": "2026-07-25"
   }
 ]
