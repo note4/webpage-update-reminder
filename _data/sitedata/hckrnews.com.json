@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.reuters.com/business/german-battery-maker-varta-files-insolvency-applications-2026-07-24/",
+    "title": "[英] German battery maker Varta files insolvency applications",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/",
+    "title": "[英] The IBM PC, Part 1: Arrival",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+    "title": "[英] The case for MUDs in modern times",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://github.com/43081j/tangleflow",
+    "title": "[英] Tangleflow: Converts GitHub Actions workflows to tangled workflows and back",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://openai.com/index/health-in-chatgpt/",
+    "title": "[英] Launching Health in ChatGPT to US Users",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://www.gameoftrees.org/",
+    "title": "[英] Game of Trees – Git-based version control from OpenBSD folks",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://kickoffreport.com/how-our-prediction-model-works/",
+    "title": "[英] My football predictor scores 0.203 vs. the bookies' 0.198 – and loses",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://www.usenix.org/conference/osdi26/presentation/sharma",
+    "title": "[英] Mohabi: Disaggregating and Sandboxing the Firefox JavaScript Engine",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://sliplane.io/blog/hetzner-inference",
+    "title": "[英] Hetzner is working on LLM Inference",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+    "title": "[英] Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+    "date": "2026-07-24"
+  },
+  {
     "link": "https://chillphysicsenjoyer.substack.com/p/computational-chemistry-locally",
     "title": "[英] Computational chemistry, Locally? My rant on SSH",
     "date": "2026-07-24"
@@ -22,56 +72,6 @@
   {
     "link": "https://danluu.com/sounds-easy/",
     "title": "[英] I could do that in a weekend (2016)",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://glyphack.com/attention/",
-    "title": "[英] It's getting harder to focus every day",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://book-prize-index.vercel.app",
-    "title": "[英] The Book Prize Index",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-    "title": "[英] Nothing works and everyone is euphoric",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://bfl.ai/blog/flux-3-mimic",
-    "title": "[英] Flux 3 X Mimic: The Next Generation of Video-Action Models",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html",
-    "title": "[英] Future euro banknote design proposals",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://sive.rs/itunes",
-    "title": "[英] The day Steve Jobs dissed me in a keynote (2010)",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://platform.claude.com/cookbook/",
-    "title": "[英] Claude Cookbook",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://rc-replay.dev/lr/vmrc/r/6912053",
-    "title": "[英] Projects every RC live races and results",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cvg9n2y61w6o",
-    "title": "[英] Russia's businesses under strain from Ukraine's attacks on Wildberries",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-    "title": "[英] The PImpl idiom and the C++26 std:indirect type",
     "date": "2026-07-24"
   }
 ]
