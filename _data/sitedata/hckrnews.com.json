@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://platform.claude.com/cookbook/",
+    "title": "[英] Claude Cookbook",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://rc-replay.dev/lr/vmrc/r/6912053",
+    "title": "[英] Projects every RC live races and results",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cvg9n2y61w6o",
+    "title": "[英] Russia's businesses under strain from Ukraine's attacks on Wildberries",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+    "title": "[英] The PImpl idiom and the C++26 std:indirect type",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
+    "title": "[英] Visualizing the Artemis II Mission",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://bfl.ai/blog/flux-3",
+    "title": "[英] Flux 3",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74",
+    "title": "[英] Stripe in talks to buy OpenRouter for ~10B",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://twitter.com/andrewcurran_/status/2080397684134007189",
+    "title": "[英] Stripe in talks to buy OpenRouter for about $10B",
+    "date": "2026-07-24"
+  },
+  {
+    "link": "https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512",
+    "title": "[英] For most US drivers, EVs offer emissions benefits and cost savings",
+    "date": "2026-07-24"
+  },
+  {
     "link": "https://www.logisheets.com/?craft=factory-simulator",
     "title": "[英] Show HN: A factory simulator game built on Spreadsheets",
     "date": "2026-07-24"
@@ -27,51 +72,6 @@
   {
     "link": "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/",
     "title": "[英] The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Freeze-casting",
-    "title": "[英] Freeze-Casting",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607",
-    "title": "[英] Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://lwn.net/Articles/1084545/",
-    "title": "[英] Mourning Dan Williams",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://fractl.art",
-    "title": "[英] Fractl.art – a fractal generator with 8 octillion different patterns",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://www.thegamer.com/the-backrooms-a24-copyright-strike-artwork/",
-    "title": "[英] A24 Is Copyright Striking Backrooms Artwork Older Than the Movie",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "http://visual6502.org/JSSim/index.html",
-    "title": "[英] The Visual 6502",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://wildlife.org/rats-feral-cats-fail-at-urban-rodent-control/",
-    "title": "[英] Feral cats fail at urban rodent control (2018)",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
-    "title": "[英] What else do people draw on gradient.horse?",
-    "date": "2026-07-24"
-  },
-  {
-    "link": "https://jdan.github.io/98.css/#status-bar",
-    "title": "[英] 98.css",
     "date": "2026-07-24"
   }
 ]
