@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.bookcorners.org",
+    "title": "[英] Book Corners: Community map of neighborhood book exchange spots",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+    "title": "[英] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://bytecodealliance.org/articles/wasmtime-gc",
+    "title": "[英] GC and Exceptions in Wasmtime",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+    "title": "[英] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://unattributed.cc/re-bye-bye-gravatar",
+    "title": "[英] Re: Bye Bye Gravatar",
+    "date": "2026-07-25"
+  },
+  {
     "link": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
     "title": "[英] Taylor Farms Called White House to Try to Delay Cyclospora Recall",
     "date": "2026-07-25"
@@ -36,7 +61,7 @@
   },
   {
     "link": "https://czterycztery.pl/slowo/quine-EN.html",
-    "title": "[英] How to Write a Quine",
+    "title": "[英] How to write a quine",
     "date": "2026-07-25"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://globaloilnetwork.staffinganalytics.io/",
     "title": "[英] Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
-    "title": "[英] Visualizing the Artemis II Mission",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://simone.org/advertising/",
-    "title": "[英] What if we made advertising illegal?",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://twitter.com/fried_rice/status/2080059356322918777",
-    "title": "[英] Kimi K3 exploited the latest Redis server",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://github.com/apresta/max-studio-tools",
-    "title": "[英] Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49041581",
-    "title": "[英] undefined",
     "date": "2026-07-25"
   }
 ]
