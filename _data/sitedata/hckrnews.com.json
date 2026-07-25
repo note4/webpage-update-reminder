@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+    "title": "[英] Kyber (YC W23) Is Hiring a Head of Engineering",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
+    "title": "[英] PyPI Blog: Releases now reject new files after 14 days",
+    "date": "2026-07-25"
+  },
+  {
     "link": "https://www.augmental.tech/",
     "title": "[英] MouthPad: A Tongue-Controlled Touchpad",
     "date": "2026-07-25"
@@ -62,16 +72,6 @@
   {
     "link": "https://bytecodealliance.org/articles/wasmtime-gc",
     "title": "[英] GC and Exceptions in Wasmtime",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-    "title": "[英] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://unattributed.cc/re-bye-bye-gravatar",
-    "title": "[英] Re: Bye Bye Gravatar",
     "date": "2026-07-25"
   }
 ]
