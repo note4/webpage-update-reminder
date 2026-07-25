@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://erinmurphy.dev/projects/project-2/",
+    "title": "[英] NYC Apartment Aquaponics",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+    "title": "[英] Android May Soon Restrict On-Device ADB",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://extinct-media-museum.blog.jp/otemachi/",
+    "title": "[英] Extinct Media Museum Tokyo",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://differentinstruments.com/",
+    "title": "[英] PartialString – A finite-difference time-domain physical modelling synthesiser",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://arcprize.org/leaderboard",
+    "title": "[英] ARC-AGI Leaderboard",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://logicmatters.net/ifl/pdfs/IFL2_LM.pdf",
+    "title": "[英] An Introduction to Formal Logic(2020) [pdf]",
+    "date": "2026-07-25"
+  },
+  {
     "link": "https://www.bookcorners.org",
     "title": "[英] Book Corners: Community map of neighborhood book exchange spots",
     "date": "2026-07-25"
@@ -42,36 +72,6 @@
   {
     "link": "https://blog.plover.com/math/ordinals/02-wellfoundedness.html",
     "title": "[英] The road to epsilon-zero: Nim always ends, even with infinite ordinals",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-    "title": "[英] Sperm Whales blow bubbles to achieve restful, vertical sleep",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://rewardhacking.org",
-    "title": "[英] AIs don't do what you want. This is bad",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://www.spacex.com/launches/starship-flight-13",
-    "title": "[英] SpaceX Starship Flight 13 livestream [video]",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://czterycztery.pl/slowo/quine-EN.html",
-    "title": "[英] How to write a quine",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://artificialanalysis.ai/models",
-    "title": "[英] Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://globaloilnetwork.staffinganalytics.io/",
-    "title": "[英] Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
     "date": "2026-07-25"
   }
 ]
