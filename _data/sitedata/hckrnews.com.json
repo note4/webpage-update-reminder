@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+    "title": "[英] Memory Safety Absolutists",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49050412",
+    "title": "[英] undefined",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://github.com/adamsjack711-ux/pkgxray",
+    "title": "[英] Pkgxray – inspect what gets installed, not what executes",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://github.com/lucid-fabrics/proxmox-bluetooth",
+    "title": "[英] Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+    "title": "[英] Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
+    "title": "[英] The growing vigilante movement to knock out Flock surveillance cameras",
+    "date": "2026-07-26"
+  },
+  {
     "link": "https://brolly.sh/forecast/RWFP2qW8",
     "title": "[英] Show HN: Brolly, a plain-text weather forecast site",
     "date": "2026-07-26"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
     "title": "[英] Politician reads AI prompt during assembly",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://korben.info/en/gdid-windows-cut-tracker-vpn.html",
-    "title": "[英] GDID Windows – Cut the tracker that follows you even under VPN",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Amen_break",
-    "title": "[英] Amen Break",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://rauno.me/notes/2",
-    "title": "[英] Rauno's Field Notes #2",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://labs.iximiuz.com/tutorials/c-program-without-main-a1eea557",
-    "title": "[英] Writing a (valid) C program without main()",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://webmars.nfiles.top/",
-    "title": "[英] My web version of Mars MIPS, now have builtin C compiler",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://github.com/AncientJames/Scanwheel/",
-    "title": "[英] Scanwheel is a drum style mechanical television you can build yourself",
     "date": "2026-07-26"
   }
 ]
