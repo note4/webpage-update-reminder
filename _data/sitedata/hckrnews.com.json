@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://github.com/slvDev/esp32-ai",
+    "title": "[英] Running a 28.9M parameter LLM on an $8 microcontroller",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://geochess.org",
+    "title": "[英] Show HN: GeoChess – open-source geography strategy game",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://weneedaballroom.com/",
+    "title": "[英] We Need a National Ballroom",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://windows-xp.kimi.site/",
+    "title": "[英] Kimi K3 built a Windows XP in browser",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://singularityforge.space/2026/07/26/illusion-of-control/",
+    "title": "[英] Digital Intelligence: Why Humanity Created What It Does Not Understand",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://www.debian.org/vote/2026/vote_002",
+    "title": "[英] General Resolution: LLM Usage in Debian",
+    "date": "2026-07-26"
+  },
+  {
     "link": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
     "title": "[英] Show HN: Minesweeper Raycasted",
     "date": "2026-07-26"
@@ -20,6 +50,11 @@
     "date": "2026-07-26"
   },
   {
+    "link": "https://github.com/0hardik1/awsmux",
+    "title": "[英] Show HN: Awsmux – Multi-account AWS CLI, up to 5.4x faster, 7.4x fewer tokens",
+    "date": "2026-07-26"
+  },
+  {
     "link": "https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/",
     "title": "[英] A 77-year-old Republican man is staging a solo protest against Flock cameras",
     "date": "2026-07-26"
@@ -30,48 +65,13 @@
     "date": "2026-07-26"
   },
   {
-    "link": "https://github.com/0hardik1/awsmux",
-    "title": "[英] Show HN: Awsmux – Multi-account AWS CLI, up to 5.4x faster, 7.4x fewer tokens",
-    "date": "2026-07-26"
-  },
-  {
     "link": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
     "title": "[英] 'AI Mania Is Eviscerating Global Decision-Making'",
     "date": "2026-07-26"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=49051130",
-    "title": "[英] Show HN: Writemark, a dependency free web component for inline Markdown editing",
-    "date": "2026-07-26"
-  },
-  {
     "link": "https://didtheyghostyou.com/",
     "title": "[英] Did They Ghost You?",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://fly.io/blog/kurt-scott-money-sprites/",
-    "title": "[英] Fly.io CEO Kurt Mackey is stepping down",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "title": "[英] The new rules of context engineering for Claude 5 generation models",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://www.apalrd.net/posts/2026/isp_mcast/",
-    "title": "[英] Multicast TV Distribution on My Home Network",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://www.lrb.co.uk/the-paper/v48/n13/terry-eagleton/starveling-rabblement",
-    "title": "[英] Starveling Rabblement",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://github.com/sktkkoo/Yorishiro",
-    "title": "[英] Show HN: Yorishiro – a macOS terminal where AI agents live",
     "date": "2026-07-26"
   }
 ]
