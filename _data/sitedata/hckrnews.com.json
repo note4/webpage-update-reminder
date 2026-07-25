@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.augmental.tech/",
+    "title": "[英] MouthPad: A Tongue-Controlled Touchpad",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
+    "title": "[英] Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
+    "title": "[英] Building a Tiny 3D Renderer for a Tiny Handheld",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://www.cbc.ca/news/canada/nova-scotia/how-a-single-underscore-led-to-an-innocent-halifax-man-s-conviction-9.7283149",
+    "title": "[英] Man convicted of child sex crime by added _ char \"Fus Ro Dah\" Skyrim username",
+    "date": "2026-07-25"
+  },
+  {
     "link": "https://erinmurphy.dev/projects/project-2/",
     "title": "[英] NYC Apartment Aquaponics",
     "date": "2026-07-25"
@@ -52,26 +72,6 @@
   {
     "link": "https://unattributed.cc/re-bye-bye-gravatar",
     "title": "[英] Re: Bye Bye Gravatar",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
-    "title": "[英] Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://parksb.github.io/en/article/29.html",
-    "title": "[英] A concrete explanation of how a cache works",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://github.com/fcmv/lucen",
-    "title": "[英] Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://blog.plover.com/math/ordinals/02-wellfoundedness.html",
-    "title": "[英] The road to epsilon-zero: Nim always ends, even with infinite ordinals",
     "date": "2026-07-25"
   }
 ]
