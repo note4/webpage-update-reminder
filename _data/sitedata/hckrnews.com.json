@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://shukla.io/blog/2026-07/cccx.html",
+    "title": "[英] Spatial languages: Writing code in 2D",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+    "title": "[英] Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://areadenial.games/design/preface#00-01",
+    "title": "[英] League of Legends designer shares game design field manual",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://dead.garden/blog/how-my-images-are-dithered.html",
+    "title": "[英] My Images Are Dithered",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
+    "title": "[英] The Fedora 45 Sausage Factory",
+    "date": "2026-07-25"
+  },
+  {
     "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
     "title": "[英] Kyber (YC W23) Is Hiring a Head of Engineering",
     "date": "2026-07-25"
@@ -47,31 +72,6 @@
   {
     "link": "https://differentinstruments.com/",
     "title": "[英] PartialString – A finite-difference time-domain physical modelling synthesiser",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://arcprize.org/leaderboard",
-    "title": "[英] ARC-AGI Leaderboard",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://logicmatters.net/ifl/pdfs/IFL2_LM.pdf",
-    "title": "[英] An Introduction to Formal Logic(2020) [pdf]",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://www.bookcorners.org",
-    "title": "[英] Book Corners: Community map of neighborhood book exchange spots",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-    "title": "[英] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://bytecodealliance.org/articles/wasmtime-gc",
-    "title": "[英] GC and Exceptions in Wasmtime",
     "date": "2026-07-25"
   }
 ]
