@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://blog.plover.com/math/ordinals/02-wellfoundedness.html",
+    "title": "[英] The road to epsilon-zero: Nim always ends, even with infinite ordinals",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+    "title": "[英] Sperm Whales blow bubbles to achieve restful, vertical sleep",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://rewardhacking.org",
+    "title": "[英] AIs don't do what you want. This is bad",
+    "date": "2026-07-25"
+  },
+  {
     "link": "https://www.spacex.com/launches/starship-flight-13",
     "title": "[英] SpaceX Starship Flight 13 livestream [video]",
     "date": "2026-07-25"
@@ -57,21 +72,6 @@
   {
     "link": "https://andonlabs.com/evals/drone-bench",
     "title": "[英] Drone-Bench: Tracking simple drone surveillance capabilities of frontier models",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://marimo.io/blog/pycharm",
-    "title": "[英] Marimo now runs in PyCharm",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-    "title": "[英] Postgres LISTEN/NOTIFY actually scales",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://bhanu.io/blog/codex-pushed-my-private-repo-to-an-openai-server",
-    "title": "[英] Asked Codex to redesign a page; it pushed my repo to OpenAI infra",
     "date": "2026-07-25"
   }
 ]
