@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+    "title": "[英] Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://parksb.github.io/en/article/29.html",
+    "title": "[英] A concrete explanation of how a cache works",
+    "date": "2026-07-25"
+  },
+  {
+    "link": "https://github.com/fcmv/lucen",
+    "title": "[英] Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas",
+    "date": "2026-07-25"
+  },
+  {
     "link": "https://blog.plover.com/math/ordinals/02-wellfoundedness.html",
     "title": "[英] The road to epsilon-zero: Nim always ends, even with infinite ordinals",
     "date": "2026-07-25"
@@ -57,21 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=49041581",
     "title": "[英] undefined",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://essenceia.github.io/projects/ethernet_switch_asic/",
-    "title": "[英] Designing an Ethernet Switch ASIC",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://www.wired.com/story/how-amazon-made-alexa-smarter/",
-    "title": "[英] The Secret Origins of Amazon's Alexa",
-    "date": "2026-07-25"
-  },
-  {
-    "link": "https://andonlabs.com/evals/drone-bench",
-    "title": "[英] Drone-Bench: Tracking simple drone surveillance capabilities of frontier models",
     "date": "2026-07-25"
   }
 ]
