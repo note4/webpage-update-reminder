@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://cribl.io/blog/introducing-capra-cribls-design-system/",
+    "title": "[英] Capra, Cribl's Design System",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+    "title": "[英] Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://killthecookiebanner.eu/",
+    "title": "[英] Kill The Cookie Banner",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+    "title": "[英] The New AI Superpowers: Focus and Followthrough",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://sunflowersgame.com/",
+    "title": "[英] Show HN: Reverse Minesweeper",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+    "title": "[英] Park by Robot at London Gatwick Airport",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://github.com/Nutlope/hallmark",
+    "title": "[英] Hallmark – Anti-AI-Slop Design Skill for Claude Code, Cursor, and Codex",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+    "title": "[英] The hacker who humiliated spyware makers and was never caught",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
+    "title": "[英] What's Under Your Feet in New York City?",
+    "date": "2026-07-26"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=49057972",
     "title": "[英] Ask HN: What are the most promising RL fields for a new master student?",
     "date": "2026-07-26"
@@ -27,51 +72,6 @@
   {
     "link": "https://english.mapn.ro/",
     "title": "[英] Third Drone Shot Down in Three Days in Romanian Territory",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://freddiedeboer.substack.com/p/i-wouldnt-say-pangram-is-broken-but",
-    "title": "[英] I wouldn't say Pangram is broken, but I would say that it's brittle",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
-    "title": "[英] An OpenAI model left notes about how to evade containment; we need more details",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
-    "title": "[英] Systemd Linger",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/German_Peasants%27_War",
-    "title": "[英] German Peasants' War",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://status.claude.com/incidents/zftg3gqkmv18",
-    "title": "[英] Elevated Errors for Opus 5",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://github.com/leontrolski/postgresql-testing",
-    "title": "[英] Pip install Postgres – no Docker/Brew/apt",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://comuniq.xyz/post?t=1439",
-    "title": "[英] No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://astral.sh/blog/ruff-v0.16.0",
-    "title": "[英] Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://powerfulpython.com/blog/overloaded-overloading/",
-    "title": "[英] Overloaded Overloading",
     "date": "2026-07-26"
   }
 ]
