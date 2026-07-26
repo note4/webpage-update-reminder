@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://github.com/jdefrancesco/dskDitto",
+    "title": "[英] DskDitto: Ultra-fast, parallel duplicate-file detector",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+    "title": "[英] GrapheneOS protections against data extraction from locked devices",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49055339",
+    "title": "[英] undefined",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+    "title": "[英] Some more things about Django I've been enjoying",
+    "date": "2026-07-26"
+  },
+  {
     "link": "https://systemf.epfl.ch/etc/librrd/",
     "title": "[英] Librrd Playground",
     "date": "2026-07-26"
@@ -52,26 +72,6 @@
   {
     "link": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
     "title": "[英] Humans haven't stopped evolving",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://www.zwplayer.com/",
-    "title": "[英] Show HN: ZWPlayer – Free player with interactive annotations and subtitle search",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://synaptale.com/graph?ch=100",
-    "title": "[英] Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://blog.ktz.me/esp32-plane-radar/",
-    "title": "[英] An ESP32 based plane radar for my desk",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://golfcoursebrowser.com/",
-    "title": "[英] Show HN: I mapped every US golf course",
     "date": "2026-07-26"
   }
 ]
