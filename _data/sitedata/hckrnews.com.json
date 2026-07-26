@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://github.com/leontrolski/postgresql-testing",
+    "title": "[英] Pip install Postgres – no Docker/Brew/apt",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://comuniq.xyz/post?t=1439",
+    "title": "[英] No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://astral.sh/blog/ruff-v0.16.0",
+    "title": "[英] Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://powerfulpython.com/blog/overloaded-overloading/",
+    "title": "[英] Overloaded Overloading",
+    "date": "2026-07-26"
+  },
+  {
     "link": "https://github.com/jdefrancesco/dskDitto",
     "title": "[英] DskDitto: Ultra-fast, parallel duplicate-file detector",
     "date": "2026-07-26"
@@ -52,26 +72,6 @@
   {
     "link": "https://danluu.com/ai-coding/",
     "title": "[英] Agentic test processes, LLM benchmarks, and other notes on agentic coding",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/",
-    "title": "[英] Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49054108",
-    "title": "[英] undefined",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
-    "title": "[英] Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
-    "title": "[英] Humans haven't stopped evolving",
     "date": "2026-07-26"
   }
 ]
