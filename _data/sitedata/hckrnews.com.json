@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=49057972",
+    "title": "[英] Ask HN: What are the most promising RL fields for a new master student?",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
+    "title": "[英] I learned PCB design, 3D printing and C just to listen to music",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+    "title": "[英] Go Analysis Framework: modular static analysis by go team",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+    "title": "[英] Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+    "date": "2026-07-26"
+  },
+  {
     "link": "https://code.claude.com/docs/en/data-usage",
     "title": "[英] Claude Code Deletes Your Context History from Your Device After 30 Days",
     "date": "2026-07-26"
@@ -52,26 +72,6 @@
   {
     "link": "https://powerfulpython.com/blog/overloaded-overloading/",
     "title": "[英] Overloaded Overloading",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://github.com/jdefrancesco/dskDitto",
-    "title": "[英] DskDitto: Ultra-fast, parallel duplicate-file detector",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-    "title": "[英] GrapheneOS protections against data extraction from locked devices",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49055339",
-    "title": "[英] undefined",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-    "title": "[英] Some more things about Django I've been enjoying",
     "date": "2026-07-26"
   }
 ]
