@@ -1,7 +1,47 @@
 [
   {
-    "link": "https://getqrcodepro.com/blog/google-ranking-evidence",
-    "title": "[英] Google ignored my site for 13 weeks, so I audited everyone who outranks me",
+    "link": "https://systemf.epfl.ch/etc/librrd/",
+    "title": "[英] Librrd Playground",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://github.com/mulfyx/w4me-station",
+    "title": "[英] W4ME Station – a WASM-4 runtime for Java ME phones",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://github.com/telemetry-sh/retry-storm-lab",
+    "title": "[英] Retry Storm Lab",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://lcamtuf.substack.com/p/negative-resistance",
+    "title": "[英] Negative Resistance",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://tangled.org/oppi.li/stinkpot",
+    "title": "[英] Stinkpot: SQLite-backed shell history",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://refp.se/articles/your-shell-and-the-magic-colon",
+    "title": "[英] A shell colon does nothing. Use it anyway",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://danluu.com/ai-coding/",
+    "title": "[英] Agentic test processes, LLM benchmarks, and other notes on agentic coding",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/",
+    "title": "[英] Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49054108",
+    "title": "[英] undefined",
     "date": "2026-07-26"
   },
   {
@@ -11,12 +51,7 @@
   },
   {
     "link": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
-    "title": "[英] Humans Haven't Stopped Evolving",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://synaptale.com/graph?ch=100",
-    "title": "[英] Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
+    "title": "[英] Humans haven't stopped evolving",
     "date": "2026-07-26"
   },
   {
@@ -25,8 +60,8 @@
     "date": "2026-07-26"
   },
   {
-    "link": "https://golfcoursebrowser.com/",
-    "title": "[英] Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+    "link": "https://synaptale.com/graph?ch=100",
+    "title": "[英] Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
     "date": "2026-07-26"
   },
   {
@@ -35,43 +70,8 @@
     "date": "2026-07-26"
   },
   {
-    "link": "https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/",
-    "title": "[英] What if they are all wrong? (2020)",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://www.jetzero.aero",
-    "title": "[英] JetZero",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-    "title": "[英] Rethinking Legal Education in the AI Era",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
-    "title": "[英] Inflect-Micro-v2: complete voice in 9.36M parameters",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://cachebag.sh/journal/interactive-rebasing/",
-    "title": "[英] Git rebase -I is not that scary",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
-    "title": "[英] Possible invasive species superspreader event near Strait of Hormuz",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-    "title": "[英] Systems and Delays",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Star_Axis",
-    "title": "[英] Star Axis",
+    "link": "https://golfcoursebrowser.com/",
+    "title": "[英] Show HN: I mapped every US golf course",
     "date": "2026-07-26"
   }
 ]
