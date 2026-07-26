@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+    "title": "[英] Multiway Turing Machines (2021 pre-ai)",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://thedailywtf.com/articles/classic-wtf-server-room-fans-and-more-fun",
+    "title": "[英] Classic WTF: Server Room Fans and More Fun",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+    "title": "[英] Simulate cassette tape audio profiles using FFmpeg",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
+    "title": "[英] Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
+    "title": "[英] How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://infinitejigsaw.com",
+    "title": "[英] Show HN: Infinite Jigsaw Game",
+    "date": "2026-07-27"
+  },
+  {
     "link": "https://blog.xoria.org/integers/",
     "title": "[英] Thoughts on Integers (2023)",
     "date": "2026-07-27"
@@ -40,38 +70,8 @@
     "date": "2026-07-27"
   },
   {
-    "link": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-    "title": "[英] Introduction to Data-Oriented Design [pdf]",
-    "date": "2026-07-27"
-  },
-  {
     "link": "https://occultgatsby.work",
     "title": "[英] Show HN: The Occult Gatsby",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://beyondloom.com/decker/",
-    "title": "[英] Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
-    "title": "[英] How to Block Some of the Bots",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://www.hornet.org/wikipedia-notes.txt",
-    "title": "[英] Google Cache used to have a copy of this page at",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-    "title": "[英] The Strongest El Niño Ever",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://unternehmen.lidl.de/pressreleases/260724_lidl_pi_einfuehrung_wero",
-    "title": "[英] Lidl Introduces the European Payment Method Wero in Germany",
     "date": "2026-07-27"
   }
 ]
