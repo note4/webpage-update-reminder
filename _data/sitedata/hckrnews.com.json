@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "title": "[英] Cloudflare's new AI traffic options for customers",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+    "title": "[英] DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://www.maxmynter.com/pages/blog/jobhunt",
+    "title": "[英] Becoming a Research Engineer at a Big LLM Lab",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://github.com/alokdhir/spinwin",
+    "title": "[英] Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+    "title": "[英] What is happening to jobs? Separating AI hype from reality",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49052625",
+    "title": "[英] undefined",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+    "title": "[英] Clinical Failure Rates over the Decades: Yikes",
+    "date": "2026-07-26"
+  },
+  {
     "link": "https://github.com/slvDev/esp32-ai",
     "title": "[英] Running a 28.9M parameter LLM on an $8 microcontroller",
     "date": "2026-07-26"
@@ -37,41 +72,6 @@
   {
     "link": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
     "title": "[英] Who does Anubis actually stop?",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://box2d.org/posts/2026/07/simd-for-collision/",
-    "title": "[英] SIMD for Collision",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-    "title": "[英] GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://github.com/0hardik1/awsmux",
-    "title": "[英] Show HN: Awsmux – Multi-account AWS CLI, up to 5.4x faster, 7.4x fewer tokens",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/",
-    "title": "[英] A 77-year-old Republican man is staging a solo protest against Flock cameras",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://www.phoronix.com/news/Fedora-45-Atomic-Remote-Install",
-    "title": "[英] Fedora 45 Atomic Desktops Look to Allow for Web-Based Remote Installations",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-    "title": "[英] 'AI Mania Is Eviscerating Global Decision-Making'",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://didtheyghostyou.com/",
-    "title": "[英] Did They Ghost You?",
     "date": "2026-07-26"
   }
 ]
