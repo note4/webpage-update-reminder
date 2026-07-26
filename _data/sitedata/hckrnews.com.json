@@ -1,7 +1,32 @@
 [
   {
+    "link": "https://blog.xoria.org/integers/",
+    "title": "[英] Thoughts on Integers (2023)",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://orchidfiles.com/github-security-team/",
+    "title": "[英] What does GitHub's security team even do?",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+    "title": "[英] It's not empowering to hand off the details",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://learnofchrist.com",
+    "title": "[英] Show HN: Free Bible study that explains every chapter you read",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://www.alexinch.com/blog/kimi-k3",
+    "title": "[英] Kimi K3 is not cheap",
+    "date": "2026-07-27"
+  },
+  {
     "link": "https://blog.playcanvas.com/building-the-grace-cathedral-experience/",
-    "title": "[英] Building the Grace Cathedral Experience",
+    "title": "[英] Building the Grace Cathedral experience",
     "date": "2026-07-27"
   },
   {
@@ -26,7 +51,7 @@
   },
   {
     "link": "https://beyondloom.com/decker/",
-    "title": "[英] Decker",
+    "title": "[英] Decker, a platform that builds on the legacy of Hypercard and classic macOS",
     "date": "2026-07-27"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://unternehmen.lidl.de/pressreleases/260724_lidl_pi_einfuehrung_wero",
     "title": "[英] Lidl Introduces the European Payment Method Wero in Germany",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://leancrew.com/all-this/2026/07/sum-of-cubes-via-difference-tables/",
-    "title": "[英] Sum of Cubes via Difference Tables",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://github.com/MicSm/boffin",
-    "title": "[英] Show HN: Boffin – Staff-engineer layer for AI coding agents",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-    "title": "[英] French firefighters face 'pyrocumulonimbus' for first time",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
-    "title": "[英] Calling all open source maintainers working with Ruby",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-    "title": "[英] How to Write English Prose",
     "date": "2026-07-27"
   }
 ]
