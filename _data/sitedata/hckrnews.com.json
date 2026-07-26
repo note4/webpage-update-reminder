@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://code.claude.com/docs/en/data-usage",
+    "title": "[英] Claude Code Deletes Your Context History from Your Device After 30 Days",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://english.mapn.ro/",
+    "title": "[英] Third Drone Shot Down in Three Days in Romanian Territory",
+    "date": "2026-07-26"
+  },
+  {
+    "link": "https://freddiedeboer.substack.com/p/i-wouldnt-say-pangram-is-broken-but",
+    "title": "[英] I wouldn't say Pangram is broken, but I would say that it's brittle",
+    "date": "2026-07-26"
+  },
+  {
     "link": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
     "title": "[英] An OpenAI model left notes about how to evade containment; we need more details",
     "date": "2026-07-26"
@@ -57,21 +72,6 @@
   {
     "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
     "title": "[英] Some more things about Django I've been enjoying",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://systemf.epfl.ch/etc/librrd/",
-    "title": "[英] Librrd Playground",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://github.com/mulfyx/w4me-station",
-    "title": "[英] W4ME Station – a WASM-4 runtime for Java ME phones",
-    "date": "2026-07-26"
-  },
-  {
-    "link": "https://github.com/telemetry-sh/retry-storm-lab",
-    "title": "[英] Retry Storm Lab",
     "date": "2026-07-26"
   }
 ]
