@@ -1,12 +1,32 @@
 [
   {
-    "link": "http://kristerw.blogspot.com/2019/01/building-gcc-127.html",
-    "title": "[英] Building GCC 1.27",
+    "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+    "title": "[英] A missing underscore sent innocent man to prison for 18 months",
     "date": "2026-07-28"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=49074693",
-    "title": "[英] The Author of Clean Code No Longer Reviews AI-Generated Code",
+    "link": "https://www.anthropic.com/news/position-open-weights-models",
+    "title": "[英] Our position on open-weights models",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://twitter.com/lilianweng/status/2081816923088814421",
+    "title": "[英] Lilian Weng (co-founder) leaving Thinking Machines",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
+    "title": "[英] Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "http://kristerw.blogspot.com/2019/01/building-gcc-127.html",
+    "title": "[英] Building GCC 1.27 (2019)",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://twitter.com/unclebobmartin/status/2080257779395154409?s=20",
+    "title": "[英] My current strategy is to not read any of the code written by my agents",
     "date": "2026-07-28"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://github.com/letsseal/letsseal",
     "title": "[英] Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
-    "title": "[英] Ray tracing massive amounts of animated geometry using tetrahedral cages",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49073595",
-    "title": "[英] undefined",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://arxiv.org/abs/math/0411418",
-    "title": "[英] How real are real numbers? (2004)",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/",
-    "title": "[英] Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
     "date": "2026-07-28"
   }
 ]
