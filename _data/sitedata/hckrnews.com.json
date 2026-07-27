@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://muchmirul.github.io/jacobian-conjecture/",
+    "title": "[英] Jacobian Conjecture for Baby",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://github.com/maco30001/Mirror-Mirror",
+    "title": "[英] Mirror-Mirror: Mirror your PC screen to your phone over your local network",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://github.com/vercel-labs/scriptc",
+    "title": "[英] Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://atmos-atelier.de/en/atmos-uhr/",
+    "title": "[英] How the Atmos clock functions",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://blackhole.plav.in",
+    "title": "[英] Show HN: Physically accurate black hole you can put in your room",
+    "date": "2026-07-27"
+  },
+  {
     "link": "https://portzero.net/",
     "title": "[英] Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
     "date": "2026-07-27"
@@ -47,31 +72,6 @@
   {
     "link": "https://github.com/experientiallabs/world-model-optimizer",
     "title": "[英] Show HN: Distill and serve models with frontier quality for half the cost",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Productivity_paradox",
-    "title": "[英] Productivity Paradox",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
-    "title": "[英] The Usefulness of Useless Knowledge (1939) [pdf]",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://github.com/hkc5/cursor-bridge",
-    "title": "[英] Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://www.bbc.com/sport/football/articles/c3r087181ndo",
-    "title": "[英] Japan legend Miura, 59, scores first goal since 2022",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://epatel.github.io/discrete6502/",
-    "title": "[英] Show HN: Discrete6502 – one thing led to another",
     "date": "2026-07-27"
   }
 ]

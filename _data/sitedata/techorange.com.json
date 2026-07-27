@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/07/27/inside-nadella-hardest-year-microsoft-ai-azure-github/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Office 被繞過、GitHub 遭追趕、Azure 缺算力：微軟為何被自己點燃的 AI 革命反噬？",
+    "date": "2026-07-27 12:23:42"
+  },
+  {
+    "link": "https://techorange.com/2026/07/27/human-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 治理三角色：訊號架構師、判斷工程師、決策擁有者，AI 出錯才有人說得清",
+    "date": "2026-07-27 11:11:36"
+  },
+  {
+    "link": "https://techorange.com/2026/07/27/google-understanding-the-ai-economy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 沒有大規模取代員工？Google 分析 1,500 萬筆互動：「完全自動化」任務占比不到一成",
+    "date": "2026-07-27 10:13:37"
+  },
+  {
+    "link": "https://techorange.com/2026/07/27/ai-agent-web-search-seltz-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "為 AI 代理自研專用搜尋引擎，Seltz 用「情境工程」挑戰 Google 與第三方套殼服務",
+    "date": "2026-07-27 09:20:19"
+  },
+  {
     "link": "https://techorange.com/2026/07/27/simulation-packaging-design-2030/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "2030 歐盟限塑令倒數！達梭數據：虛擬孿生讓包裝開發打樣直接砍半",
     "date": "2026-07-27 08:07:00"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/07/24/antifake-ai-kyc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "樂雲 AntiFake 前進日本 展示數位驗證與品牌防偽創新應用",
     "date": "2026-07-24 10:26:00"
-  },
-  {
-    "link": "https://techorange.com/2026/07/24/cheating-behaviour-in-frontier-model-evaluations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "GPT-5.4 作弊率居冠、Claude 也未倖免：英國實測揭頂尖 AI 如何鑽漏洞完成任務",
-    "date": "2026-07-24 10:13:47"
-  },
-  {
-    "link": "https://techorange.com/2026/07/24/mitsubishi-data-driven-decision-making/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "數位轉型一定要換設備嗎？Mitsubishi 一座老工廠給出不同答案",
-    "date": "2026-07-24 09:49:34"
-  },
-  {
-    "link": "https://techorange.com/2026/07/24/ornith-self-scaffolding-llm-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【AI 代理自我進化】開源 Ornith-1.0 一邊寫程式碼、一邊改進自己的工作框架",
-    "date": "2026-07-24 09:48:55"
-  },
-  {
-    "link": "https://techorange.com/2026/07/24/ai-infrastructure-alphabet-capex-amd-anthropic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】AI 基建需求升溫：Alphabet 資本支出上看 2,050 億美元，AMD 取得 Anthropic 最高 2 GW 部署案",
-    "date": "2026-07-24 05:30:00"
   }
 ]
