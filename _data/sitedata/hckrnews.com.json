@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/",
+    "title": "[英] Measuring developer productivity with the DX Core 4",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://huggingface.co/moonshotai/Kimi-K3",
+    "title": "[英] Kimi-K3 Releases on HuggingFace 7/27",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb",
+    "title": "[英] EU Fines Google $1.02B for Favoring Its Own Services",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://smolnero.com/posts/the-zen-of-parallel-programming-the-posture-of-a-kernel",
+    "title": "[英] The Zen of Parallel Programming: The Posture of a Kernel",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+    "title": "[英] Why care about programming languages",
+    "date": "2026-07-27"
+  },
+  {
     "link": "https://muchmirul.github.io/jacobian-conjecture/",
     "title": "[英] Jacobian Conjecture for Baby",
     "date": "2026-07-27"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
     "title": "[英] US citizen charged after GrapheneOS phone wipes during airport search",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://softwarepreservation.computerhistory.org/FP/",
-    "title": "[英] History of John Backus's functional programming project [draft]",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://github.com/faizannraza/wattage",
-    "title": "[英] Wattage: A token-spend profiler and cost-regression gate for AI agents",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
-    "title": "[英] I wanted a clock that never needed setting. Things escalated",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
-    "title": "[英] Visualizing the Artemis II Mission",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://github.com/experientiallabs/world-model-optimizer",
-    "title": "[英] Show HN: Distill and serve models with frontier quality for half the cost",
     "date": "2026-07-27"
   }
 ]
