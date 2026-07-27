@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://tidefield.dev/bytecode-to-source-mapping/",
+    "title": "[英] Bytecode-to-Source Mapping",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+    "title": "[英] Self-contained highly-portable Python distributions",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli",
+    "title": "[英] The Artist Who Colored Ghibli",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+    "title": "[英] Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+    "title": "[英] Watching Go's new garbage collector move through the heap",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://bigthink.com/mind-behavior/exercise-works-for-depression-so-why-isnt-it-treated-like-real-medicine/",
+    "title": "[英] Exercise works for depression. So why isn't it treated like real medicine?",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://klarasystems.com/articles/if-scrubs-hurt-your-zfs-design-is-broken/",
+    "title": "[英] If Scrubs Hurt, Your ZFS Design Is Broken",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://discuss.ai.google.dev/t/the-google-ai-overview-itself-describes-google-ai-studio-s-chat-deletion-fraud-and-i-prove-it-with-video-and-images-in-a-way-that-also-stands-legally/176329",
+    "title": "[英] Google's own system admits the back end never deletes – video proof included",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
+    "title": "[英] Jensen Huang's first-ever post on X is in defense of open access to AI models",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://chadnauseam.com/random/cancelling-my-hey",
+    "title": "[英] Canceling \"Hey\"",
+    "date": "2026-07-28"
+  },
+  {
     "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
     "title": "[英] MAI-Cyber 1",
     "date": "2026-07-28"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
     "title": "[英] Decathlon Germany adds Wero payment option to decathlon.de website",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://infrawrench.com",
-    "title": "[英] Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-    "title": "[英] Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://up.codes/careers?utm_source=HN",
-    "title": "[英] UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
-    "title": "[英] Nvidia's $750B in Deals Reignite Circular AI Fears",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://pagedout.institute/download/PagedOut_009.pdf",
-    "title": "[英] Paged Out #9 [pdf]",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://theamericanscholar.org/beckett-the-prophet/",
-    "title": "[英] Beckett the Prophet",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://brittany-ellich.offprint.app/a/3mrjj34puva23-108-prs-in-eight-days-accidentally-discovering-loop-engineering",
-    "title": "[英] 108 PRs in eight days: Accidentally discovering loop engineering",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://unslop.run/blog/political-compass-of-llms",
-    "title": "[英] All major LLMs are lib-left. Even Grok, half the time",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://www.gavinmai.com/1736354308000-diy-home-solar-backup-system",
-    "title": "[英] DIY Home Solar System for under $5000 (2025)",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
-    "title": "[英] Kimi-K3 Technical Report [pdf]",
     "date": "2026-07-28"
   }
 ]
