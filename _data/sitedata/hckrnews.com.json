@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+    "title": "[英] Should you wash your solar panels?",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/",
+    "title": "[英] First Robotic Satellite Servicer Launched",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things",
+    "title": "[英] 3D-printed F-14 Tomcat uses FPGA recreation of the first microprocessor",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://incredible.pm/",
+    "title": "[英] The Proof Machine (2016)",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://ledger.worseonpurpose.com/brands",
+    "title": "[英] Worse on Purpose",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://nypost.com/2026/07/26/world-news/tanker-hits-mine-in-the-strait-of-hormuz-as-iran-intercepts-six-vessels/",
+    "title": "[英] Tanker hits mine in the Strait of Hormuz as Iran intercepts six vessels",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+    "title": "[英] AI companies are shredding rare books",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/",
+    "title": "[英] Towards a Theory of Bugs: The Ruliology of the Unexpected",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
+    "title": "[英] Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://status.claude.com/incidents/mfdtrknpxghq",
+    "title": "[英] Elevated errors on Claude Opus 5",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/",
+    "title": "[英] Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+    "title": "[英] Removing React.js from the codebase and adapting Htmx for UI interactivity",
+    "date": "2026-07-27"
+  },
+  {
+    "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+    "title": "[英] How is the Bun Rewrite in Rust going?",
+    "date": "2026-07-27"
+  },
+  {
     "link": "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html",
     "title": "[英] If digital computers are conscious, they are conscious at the hardware level",
     "date": "2026-07-27"
@@ -7,71 +72,6 @@
   {
     "link": "https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/",
     "title": "[英] Building a Fast Lock-Free Queue in Modern C++ from Scratch",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind",
-    "title": "[英] Why I Left Google DeepMind",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://www.shaylocomotives.com/",
-    "title": "[英] Shay Locomotives",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://www.harpguitars.net/history/grunewald/12-string.htm",
-    "title": "[英] The Birth of the American 12-string Guitar",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
-    "title": "[英] Modern email can be built from borrowed parts",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://status.claude.com/incidents/lhqp09kxq7pb",
-    "title": "[英] Elevated errors on Claude Opus 5",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://code.videolan.org/videolan/vlc-unity",
-    "title": "[英] VLC for Unity now supported on Linux",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://namethatui.org/",
-    "title": "[英] Show HN: NameThatUI – A quiz game to test your UI design knowledge",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://github.com/libsm64/libsm64",
-    "title": "[英] Libsm64: Mario 64 as a library for use in external game engines",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://manualdousuario.net/en/boox-go-10-3-lumi-first-impressions/",
-    "title": "[英] Boox Go 10.3 (gen II) Lumi: First impressions",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
-    "title": "[英] Chinese chipmaker shares surge 470%",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
-    "title": "[英] Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/",
-    "title": "[英] The old-school way of keeping the summer heat out of your home",
-    "date": "2026-07-27"
-  },
-  {
-    "link": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
-    "title": "[英] How Unix spell ran in 64 kB of RAM",
     "date": "2026-07-27"
   }
 ]
