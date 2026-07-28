@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+    "title": "[英] iPhone Upgrade Program",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://stephenkrings.com/posts/rtx-5070-linux-gpu-server/",
+    "title": "[英] Using a Gaming PC's RTX 5070 from a separate Linux workstation",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/",
+    "title": "[英] WOFF 1.0: a milestone on W3C's journey of fonts on the web",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49086868",
+    "title": "[英] undefined",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://github.com/xyTom/coding-tools-mcp",
+    "title": "[英] Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://sbcl.org/all-news.html?2.6.7",
+    "title": "[英] Steel Bank Common Lisp version 2.6.7",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://openai.com/index/scientific-computing-agentic-ai/",
+    "title": "[英] Scientific computing in the age of agentic AI",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+    "title": "[英] Discovering Cryptographic Weaknesses with Claude",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+    "title": "[英] Substack writers, you need a website",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://unawatch.com/",
+    "title": "[英] Una Watch: Garmin watch competitor but repairable, open ecosystem and USB-C",
+    "date": "2026-07-29"
+  },
+  {
     "link": "https://www.airbus.com/en/newsroom/press-releases/2026-06-worlds-longest-range-aircraft-the-airbus-a350-1000ulr-takes-to-the-skies",
     "title": "[英] Rear center fuel tank adds roughly 20k liters and extends range by 1k NM",
     "date": "2026-07-29"
@@ -22,56 +72,6 @@
   {
     "link": "https://piechowski.io/post/setup-script-git-worktrees/",
     "title": "[英] Setup Script Should Support Git Worktrees",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-    "title": "[英] Kimi K3 Architecture Overview and Notes",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://paulshepherd.com/conversations/session-1.html",
-    "title": "[英] I showed an AI an image it couldn't see – then caught it lying about what it saw",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-    "title": "[英] You Could Have Come Up with Kimi Delta Attention",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://flashpaper.app/",
-    "title": "[英] Show HN: Flashpaper – Self-destructing secret sharing with no database",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
-    "title": "[英] So, you want to make a game engine (2023)",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-    "title": "[英] Zig's Incremental Compilation Internals",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://github.com/reflex-dev/xy",
-    "title": "[英] Show HN: XY – Fast, composable, GPU-accelerated Python charting library",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-    "title": "[英] How Do I Profile eBPF Code?",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.slow-journalism.com/",
-    "title": "[英] Delayed Gratification – Proud to Be 'Last to Breaking News'",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
-    "title": "[英] Stop Killing the Internet: No Digital ID and No Age Verification",
     "date": "2026-07-29"
   }
 ]
