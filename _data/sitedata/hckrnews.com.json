@@ -1,12 +1,52 @@
 [
   {
+    "link": "https://arxiv.org/abs/2607.23806",
+    "title": "[英] Show HN: A 6M-token movable window on a single 46GB GPU",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/",
+    "title": "[英] How to choose an AI Agent platform for your team",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://arsastronomica.com/",
+    "title": "[英] Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+    "title": "[英] PyTorch: A Reference Language",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://www.fermionresearch.com/models/neutrino-8b/",
+    "title": "[英] Neutrino-1 8B",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://www.blacksmith.sh/blog/why-i-joined-blacksmith-to-work-on-storage-again",
+    "title": "[英] Why I joined Blacksmith to work on storage again",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
+    "title": "[英] Why do we think we understand the world more than we actually do?",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://golemui.com/blog/the-age-of-token-efficiency/",
+    "title": "[英] The age of token efficiency, the age of libraries",
+    "date": "2026-07-28"
+  },
+  {
     "link": "https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/",
     "title": "[英] A Dying Art: The last of the morticians",
     "date": "2026-07-28"
   },
   {
     "link": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
-    "title": "[英] An Uncomplicated Man",
+    "title": "[英] An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan",
     "date": "2026-07-28"
   },
   {
@@ -30,48 +70,8 @@
     "date": "2026-07-28"
   },
   {
-    "link": "https://boringsql.com/posts/mvcc-bad-bad/",
-    "title": "[英] PostgreSQL's MVCC is bad. So is everyone else's",
-    "date": "2026-07-28"
-  },
-  {
     "link": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
     "title": "[英] Vehicle Motion Cues",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-    "title": "[英] EYG: A Programming Language for Humans",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49078318",
-    "title": "[英] Internet is no longer accessible?",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://trylle.com/home",
-    "title": "[英] Show HN: Trylle – The Next-Gen Git Platform for Modern Teams",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://github.com/FrigadeHQ/yap",
-    "title": "[英] Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
-    "title": "[英] RTX 2080 Ti Memory Upgrade to 22 GB",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-    "title": "[英] Kimi K3 Now Available via Telnyx Inference API",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49077671",
-    "title": "[英] undefined",
     "date": "2026-07-28"
   }
 ]
