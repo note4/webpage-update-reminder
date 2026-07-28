@@ -1,7 +1,37 @@
 [
   {
+    "link": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan",
+    "title": "[英] The Fabled Flatbreads of Uzbekistan",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://github.com/astral-sh/uv/releases/tag/0.12.0",
+    "title": "[英] uv 0.12.0",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://grapheneos.org/donate",
+    "title": "[英] Donate to GrapheneOS",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://deflockcg.com/",
+    "title": "[英] Deflock Casa Grande",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+    "title": "[英] The most advanced robotic servicing satellite–that we know about",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+    "title": "[英] MCP 2026-07-28 Specification: transport going stateless",
+    "date": "2026-07-29"
+  },
+  {
     "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-    "title": "[英] iPhone Upgrade Program",
+    "title": "[英] The iPhone Upgrade Program is being replaced by Apple Upgrade",
     "date": "2026-07-29"
   },
   {
@@ -10,8 +40,8 @@
     "date": "2026-07-29"
   },
   {
-    "link": "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/",
-    "title": "[英] WOFF 1.0: a milestone on W3C's journey of fonts on the web",
+    "link": "https://github.com/xyTom/coding-tools-mcp",
+    "title": "[英] Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code",
     "date": "2026-07-29"
   },
   {
@@ -20,8 +50,8 @@
     "date": "2026-07-29"
   },
   {
-    "link": "https://github.com/xyTom/coding-tools-mcp",
-    "title": "[英] Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code",
+    "link": "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/",
+    "title": "[英] WOFF 1.0: a milestone on W3C's journey of fonts on the web",
     "date": "2026-07-29"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
     "title": "[英] Substack writers, you need a website",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://unawatch.com/",
-    "title": "[英] Una Watch: Garmin watch competitor but repairable, open ecosystem and USB-C",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.airbus.com/en/newsroom/press-releases/2026-06-worlds-longest-range-aircraft-the-airbus-a350-1000ulr-takes-to-the-skies",
-    "title": "[英] Rear center fuel tank adds roughly 20k liters and extends range by 1k NM",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-    "title": "[英] Now Is the Time to Give LLMs Access to the ACM Digital Library",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html",
-    "title": "[英] Xenharmlib (music theory library) adds support for Just Intonation",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://anthropeum.com/",
-    "title": "[英] Anthropeum",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://piechowski.io/post/setup-script-git-worktrees/",
-    "title": "[英] Setup Script Should Support Git Worktrees",
     "date": "2026-07-29"
   }
 ]
