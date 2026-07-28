@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://twcclassics.com/",
+    "title": "[英] TWC Classics",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+    "title": "[英] 7.1 Earthquake in Japan",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://psyll.com/articles/technology/why-copper-still-rules-the-motherboard-trace",
+    "title": "[英] Why copper still rules the motherboard trace",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://www.makonea.com/en-US/blog/programming-languages-are-authoring-tools-for-platforms",
+    "title": "[英] Programming Languages Are Authoring Tools for Platforms",
+    "date": "2026-07-28"
+  },
+  {
     "link": "https://arxiv.org/abs/2607.23806",
     "title": "[英] Show HN: A 6M-token movable window on a single 46GB GPU",
     "date": "2026-07-28"
@@ -52,26 +72,6 @@
   {
     "link": "https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/",
     "title": "[英] Residential Proxies Are a National Security Threat",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-    "title": "[英] Using an open model feels surprisingly good",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://fermisense.com/when-machines-take-the-wheel/",
-    "title": "[英] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://www2.isye.gatech.edu/~jjb/research/mow/mow.html",
-    "title": "[英] Some combinatorial applications of spacefilling curves",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
-    "title": "[英] Vehicle Motion Cues",
     "date": "2026-07-28"
   }
 ]
