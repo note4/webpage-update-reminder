@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=49058956",
+    "title": "[英] Robotics development made dead simple (open source)",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://github.com/gavamedia/deltafin",
+    "title": "[英] Running Kimi K3 on a M1 Mac",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://github.com/anthropics/cryptography-research-demo",
+    "title": "[英] Anthropic publishes a practical key-recovery attack on HAWK-256",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+    "title": "[英] Half-Life ported to Mac OS 9",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49089689",
+    "title": "[英] undefined",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://github.com/openai/codex-security",
+    "title": "[英] OpenAI just open-sourced Codex Security",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
+    "title": "[英] Interview with Boris Cherny [video]",
+    "date": "2026-07-29"
+  },
+  {
     "link": "https://imjasonh.github.io/playground/population-rays/",
     "title": "[英] Show HN: How far do I have to go to run into 100k people?",
     "date": "2026-07-29"
@@ -10,13 +45,13 @@
     "date": "2026-07-29"
   },
   {
-    "link": "https://beko.famkos.net/2026/07/27/id-not-buy-a-lg-monitor/",
-    "title": "[英] I'd not buy a LG monitor",
+    "link": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
+    "title": "[英] Recursion is lying to you",
     "date": "2026-07-29"
   },
   {
-    "link": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
-    "title": "[英] Recursion Is Lying to You",
+    "link": "https://beko.famkos.net/2026/07/27/id-not-buy-a-lg-monitor/",
+    "title": "[英] I'd not buy a LG monitor",
     "date": "2026-07-29"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://github.com/astral-sh/uv/releases/tag/0.12.0",
     "title": "[英] Uv 0.12.0",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://grapheneos.org/donate",
-    "title": "[英] Donate to GrapheneOS",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://deflockcg.com/",
-    "title": "[英] Deflock Casa Grande",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
-    "title": "[英] The most advanced robotic servicing satellite–that we know about",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-    "title": "[英] MCP 2026-07-28 Specification: transport going stateless",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-    "title": "[英] The iPhone Upgrade Program is being replaced by Apple Upgrade",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://stephenkrings.com/posts/rtx-5070-linux-gpu-server/",
-    "title": "[英] Using a Gaming PC's RTX 5070 from a separate Linux workstation",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/",
-    "title": "[英] WOFF 1.0: a milestone on W3C's journey of fonts on the web",
     "date": "2026-07-29"
   }
 ]
