@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+    "title": "[英] AI revenues are growing fast, but not fast enough",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://scalatutorials.com",
+    "title": "[英] Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+    "title": "[英] DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://github.com/wolfpld/usenetarchive",
+    "title": "[英] Usenet Archive Toolkit – process Usenet messages into a searchable archive",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://tajd.github.io/projektor/",
+    "title": "[英] Show HN: Open-source Cloudflare deployed agent native task management and wiki",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://arxiv.org/abs/2510.26692",
+    "title": "[英] Kimi Linear: An Expressive, Efficient Attention Architecture",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://windowsforum.com/windows-news.4/asrock-4u16x-gnr2-packs-8-b300-gpus-demands-liquid-cooling.440701/",
+    "title": "[英] ASRock 4U16X-GNR2 packs 8 B300 GPUs, demands liquid cooling",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
+    "title": "[英] Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Mondragon_Corporation",
+    "title": "[英] Mondragon Corporation – a federation of co-operatives",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore",
+    "title": "[英] I'm 38 and I Can't Support Myself Anymore",
+    "date": "2026-07-28"
+  },
+  {
+    "link": "https://homer.scrivium.com/report/",
+    "title": "[英] Which Odyssey translation wins a blind reading test?",
+    "date": "2026-07-28"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=49080775",
     "title": "[英] Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
     "date": "2026-07-28"
@@ -17,61 +72,6 @@
   {
     "link": "https://var0.xyz/posts/what-even-are-microservices.html",
     "title": "[英] What Even Are Microservices?",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://support.apple.com/en-us/128067",
-    "title": "[英] About the security content of macOS Tahoe 26.6",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://taxa.substack.com/p/how-to-survive-boiling-water",
-    "title": "[英] How to Survive Boiling Water",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-    "title": "[英] Don't ask an LLM for a confidence score",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://twcclassics.com/",
-    "title": "[英] TWC Classics",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-    "title": "[英] 7.1 Earthquake in Japan",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://psyll.com/articles/technology/why-copper-still-rules-the-motherboard-trace",
-    "title": "[英] Why copper still rules the motherboard trace",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://www.makonea.com/en-US/blog/programming-languages-are-authoring-tools-for-platforms",
-    "title": "[英] Programming Languages Are Authoring Tools for Platforms",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.23806",
-    "title": "[英] Show HN: A 6M-token movable window on a single 46GB GPU",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/",
-    "title": "[英] How to choose an AI Agent platform for your team",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://arsastronomica.com/",
-    "title": "[英] Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
-    "date": "2026-07-28"
-  },
-  {
-    "link": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
-    "title": "[英] PyTorch: A Reference Language",
     "date": "2026-07-28"
   }
 ]
