@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://techorange.com/2026/07/28/2026aifactory-foxconn-nexcom-solomon-digihua-itri/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "鴻海、新漢、所羅門實戰分享：AI 如何真正落地製造產線",
+    "date": "2026-07-28 11:40:56"
+  },
+  {
+    "link": "https://techorange.com/2026/07/28/anthropics-position-on-open-weights-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Anthropic 終於表態：真正該限制的不是開放權重，而是另外三件事",
+    "date": "2026-07-28 11:30:40"
+  },
+  {
+    "link": "https://techorange.com/2026/07/28/taitra-james-lee/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "只要 1% 員工會用 Agent，公司產能就能翻倍？外貿協會資深顧問李牮斯：人類已成 AI 團隊的「豬隊友」",
+    "date": "2026-07-28 11:24:54"
+  },
+  {
+    "link": "https://techorange.com/2026/07/28/microfusion-googlecloudday-ai-agenticworkspaceroi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "直擊 Google Cloud Day！宏庭科技大展 AI 落地實力，助企業突破 PoC 困境，將生成式 AI 轉化為實質 ROI",
+    "date": "2026-07-28 11:00:00"
+  },
+  {
+    "link": "https://techorange.com/2026/07/28/why-some-workers-turn-ai-into-results-and-others-dont/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "人人都會用 AI 後，真正的績效差距從哪來？德州大學、KPMG 實驗點出關鍵",
+    "date": "2026-07-28 10:11:03"
+  },
+  {
+    "link": "https://techorange.com/2026/07/28/gss-ai-agent-soap-bmccontrolm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "當 AI Agent 進駐產線：高科技製造 IT 如何從「維運後勤」變身「自動化指揮中樞」？",
+    "date": "2026-07-28 10:09:29"
+  },
+  {
+    "link": "https://techorange.com/2026/07/28/ai-agent-smartphone-keyboard-acti/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【手機鍵盤進化論】與其打開另一個 AI App，Acti 把 AI 代理直接塞進你的鍵盤裡",
+    "date": "2026-07-28 09:24:40"
+  },
+  {
     "link": "https://techorange.com/2026/07/28/nvidia-openai-ai-data-center-financing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】NVIDIA 傳為 OpenAI 擔保 2,500 億美元，AI 算力戰從晶片打到融資",
     "date": "2026-07-28 05:30:00"
@@ -38,40 +73,5 @@
     "link": "https://techorange.com/2026/07/27/ai-agent-web-search-seltz-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "為 AI 代理自研專用搜尋引擎，Seltz 用「情境工程」挑戰 Google 與第三方套殼服務",
     "date": "2026-07-27 09:20:19"
-  },
-  {
-    "link": "https://techorange.com/2026/07/27/simulation-packaging-design-2030/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "2030 歐盟限塑令倒數！達梭數據：虛擬孿生讓包裝開發打樣直接砍半",
-    "date": "2026-07-27 08:07:00"
-  },
-  {
-    "link": "https://techorange.com/2026/07/27/ai-capital-race-korea-us-big-tech-spending/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】AI 資本競賽加速：美韓合作上看 9,500 億美元，四巨頭支出達 7,250 億美元",
-    "date": "2026-07-27 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/07/25/data-sovereignty/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【企業資料主權的危機與行動策略】35% 企業重兵佈局「混合雲」，掌握資料主權是加速 AI 創新的底層引擎",
-    "date": "2026-07-25 06:29:00"
-  },
-  {
-    "link": "https://techorange.com/2026/07/24/foxconn-ainative-digitaltwin/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "從智慧城市到智慧工廠：解密鴻海「AI 原生 X 數位孿生」的左右腦思維",
-    "date": "2026-07-24 18:01:24"
-  },
-  {
-    "link": "https://techorange.com/2026/07/24/nvidia-meet-amd-your-new-competition/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "從 AI 機櫃到人形機器人：AMD 如何用 Helios、FPGA 挑戰 NVIDIA 全端護城河？",
-    "date": "2026-07-24 17:39:16"
-  },
-  {
-    "link": "https://techorange.com/2026/07/24/microsoft-mai-image-2-5-voice-2-flash/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "微軟開始把 OpenAI 換掉了？兩款新自研 MAI 模型背後，是一套更值錢的方法",
-    "date": "2026-07-24 17:02:18"
-  },
-  {
-    "link": "https://techorange.com/2026/07/24/digital-economy-association-taiwan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "DEAT 完成第五屆理監事改選，劉于遜續任理事長：聚焦代理式 AI、共享經濟與數位政策，打造台灣平台經濟下一個十年",
-    "date": "2026-07-24 15:25:45"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/intl/zh-tw/company-news/technology/2026-google-marketing-live/",
+    "title": "迎向 B2A 的代理式商務新時代",
+    "date": "2026-07-28 18:00:00"
+  },
+  {
     "link": "https://blog.google/intl/zh-tw/products/devices-services/selfie-for-signin/",
     "title": "「自拍影片」登入 Google 帳號，安全防護再升級",
     "date": "2026-07-24 17:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/gemini-apps-all-up/",
     "title": "Gemini 應用程式代理能力再升級，帶來全天候主動協助",
     "date": "2026-05-20 09:45:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/android-chrome-play/meet-googlebook/",
-    "title": "隆重介紹 Googlebook，專為 Gemini Intelligence 而生",
-    "date": "2026-05-13 17:00:00"
   }
 ]
