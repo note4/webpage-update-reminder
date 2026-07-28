@@ -1,12 +1,42 @@
 [
   {
+    "link": "https://imjasonh.github.io/playground/population-rays/",
+    "title": "[英] Show HN: How far do I have to go to run into 100k people?",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://www.pacingthefrontier.com/",
+    "title": "[英] Pacing the frontier",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://beko.famkos.net/2026/07/27/id-not-buy-a-lg-monitor/",
+    "title": "[英] I'd not buy a LG monitor",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
+    "title": "[英] Recursion Is Lying to You",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://www.granola.ai/blog/granola-for-apple-watch",
+    "title": "[英] Granola for Apple Watch",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://github.com/ghaziwali/Hulios",
+    "title": "[英] Hulios: An eBPF-powered, transparent Tor gateway for Linux",
+    "date": "2026-07-29"
+  },
+  {
     "link": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan",
-    "title": "[英] The Fabled Flatbreads of Uzbekistan",
+    "title": "[英] The Fabled Flatbreads of Uzbekistan (2015)",
     "date": "2026-07-29"
   },
   {
     "link": "https://github.com/astral-sh/uv/releases/tag/0.12.0",
-    "title": "[英] uv 0.12.0",
+    "title": "[英] Uv 0.12.0",
     "date": "2026-07-29"
   },
   {
@@ -40,38 +70,8 @@
     "date": "2026-07-29"
   },
   {
-    "link": "https://github.com/xyTom/coding-tools-mcp",
-    "title": "[英] Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49086868",
-    "title": "[英] undefined",
-    "date": "2026-07-29"
-  },
-  {
     "link": "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/",
     "title": "[英] WOFF 1.0: a milestone on W3C's journey of fonts on the web",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://sbcl.org/all-news.html?2.6.7",
-    "title": "[英] Steel Bank Common Lisp version 2.6.7",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://openai.com/index/scientific-computing-agentic-ai/",
-    "title": "[英] Scientific computing in the age of agentic AI",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-    "title": "[英] Discovering Cryptographic Weaknesses with Claude",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-    "title": "[英] Substack writers, you need a website",
     "date": "2026-07-29"
   }
 ]
