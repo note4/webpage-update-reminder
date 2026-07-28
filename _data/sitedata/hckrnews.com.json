@@ -1,12 +1,22 @@
 [
   {
+    "link": "https://leeaky.vercel.app/",
+    "title": "[英] Leeaky Catches hidden fees draining your travel budget",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://vishal.rs/essay/banning-ai-will-not-make-it-go-away",
+    "title": "[英] Banning AI will not make it go away",
+    "date": "2026-07-29"
+  },
+  {
     "link": "https://max-amb.github.io/blog/your_type_checker_may_be_wrong/",
-    "title": "[英] Type checker may be wrong – Lean and the Curry-Howard correspondence",
+    "title": "[英] An introduction to formal proof verification and the Curry-Howard Correspondence",
     "date": "2026-07-29"
   },
   {
     "link": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
-    "title": "[英] Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn",
+    "title": "[英] Underwater oxygen loss threatens earth's stability, researchers warn",
     "date": "2026-07-29"
   },
   {
@@ -51,7 +61,7 @@
   },
   {
     "link": "https://github.com/openai/codex-security",
-    "title": "[英] OpenAI just open-sourced Codex Security",
+    "title": "[英] Codex Security",
     "date": "2026-07-29"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://imjasonh.github.io/playground/population-rays/",
     "title": "[英] Show HN: How far do I have to go to run into 100k people?",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.pacingthefrontier.com/",
-    "title": "[英] Pacing the frontier",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://beko.famkos.net/2026/07/27/id-not-buy-a-lg-monitor/",
-    "title": "[英] I'd not buy a LG monitor",
     "date": "2026-07-29"
   }
 ]
