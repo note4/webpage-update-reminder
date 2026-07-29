@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/07/29/anthropic-mythos-cryptographic-weaknesses/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Anthropic Mythos 找到密碼攻擊新方法：量子電腦之外，AI 成加密安全新變數？",
+    "date": "2026-07-29 11:48:18"
+  },
+  {
+    "link": "https://techorange.com/2026/07/29/ai-open-letter-automated-development/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI、Anthropic 等千人聯署要 AI「踩煞車」，祖克柏卻警告：真正危險的是權力集中",
+    "date": "2026-07-29 11:47:11"
+  },
+  {
+    "link": "https://techorange.com/2026/07/29/security-challenges-in-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【AppSec 防不住的新戰場】AI 深度參與軟體開發，資安新學科 AISec 成形",
+    "date": "2026-07-29 10:33:32"
+  },
+  {
+    "link": "https://techorange.com/2026/07/29/ai-future-of-work-skinny-hamburger-talking-about-work/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "兩個月推出逾 100 項功能，Yahoo 實戰揭密：當開發時間更短，為何更要警惕 AI「虛假生產力」？",
+    "date": "2026-07-29 10:19:53"
+  },
+  {
     "link": "https://techorange.com/2026/07/29/ai-videos-tiktok-shop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 分身是帶貨神隊友，還是信任終結者？拆解 TikTok Shop 的 AI 分潤紅利與爭議",
     "date": "2026-07-29 08:07:00"
@@ -31,7 +51,7 @@
   },
   {
     "link": "https://techorange.com/2026/07/28/anthropics-position-on-open-weights-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Anthropic 終於表態：真正該限制的不是開放權重，而是另外三件事",
+    "title": "Anthropic 終於表態：真正該限制的不是開放權重",
     "date": "2026-07-28 11:30:40"
   },
   {
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/07/28/gss-ai-agent-soap-bmccontrolm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "當 AI Agent 進駐產線：高科技製造 IT 如何從「維運後勤」變身「自動化指揮中樞」？",
     "date": "2026-07-28 10:09:29"
-  },
-  {
-    "link": "https://techorange.com/2026/07/28/ai-agent-smartphone-keyboard-acti/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【手機鍵盤進化論】與其打開另一個 AI App，Acti 把 AI 代理直接塞進你的鍵盤裡",
-    "date": "2026-07-28 09:24:40"
-  },
-  {
-    "link": "https://techorange.com/2026/07/28/nvidia-openai-ai-data-center-financing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】NVIDIA 傳為 OpenAI 擔保 2,500 億美元，AI 算力戰從晶片打到融資",
-    "date": "2026-07-28 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/07/27/cxmt-chinas-dram-champion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "十年虧損翻身成中國最貴新股，CXMT 的 AI 記憶體之路還有兩關要過",
-    "date": "2026-07-27 17:42:10"
-  },
-  {
-    "link": "https://techorange.com/2026/07/27/ai-race-intelligence-per-dollar/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "OpenAI 財務長揭企業 AI 新帳本：每一美元能買到多少「有用智慧」？",
-    "date": "2026-07-27 16:07:07"
   }
 ]
