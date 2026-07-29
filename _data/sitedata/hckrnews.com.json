@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://andreadimatteo.com/md-to-html-compiler.html",
+    "title": "[英] Show HN: Learning Rust by writing a Markdown to HTML compiler",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
+    "title": "[英] Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://lwn.net/Articles/1081871/",
+    "title": "[英] Lockless MPSC FIFO queues for io_uring",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+    "title": "[英] Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://reframe.camera/",
+    "title": "[英] ReFrame – The EPaper Camera",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://www.hubble.md/",
+    "title": "[英] Hubble: Open-source notetaking app for you and your agents",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://studio.academa.ai/",
+    "title": "[英] Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+    "title": "[英] The Difference Between a Button and a Link",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://www.washingtonpost.com/nation/2026/07/28/schools-are-adding-pepper-spraying-drones-help-combat-active-shooters/",
+    "title": "[英] Schools are adding pepper-spraying drones to help combat active shooters",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://ae.studio/jobs/pirate",
+    "title": "[英] AE Studio recruiting pirates to recover treasure located by AI",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://www.norvig.com/21-days.html",
+    "title": "[英] Teach yourself programming in ten years (1998)",
+    "date": "2026-07-29"
+  },
+  {
     "link": "https://leeaky.vercel.app/",
     "title": "[英] Leeaky Catches hidden fees draining your travel budget",
     "date": "2026-07-29"
@@ -17,61 +72,6 @@
   {
     "link": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
     "title": "[英] Underwater oxygen loss threatens earth's stability, researchers warn",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.interviewquery.com/p/tech-interview-offer-rates-lowest-12-years",
-    "title": "[英] Offer rates for tech jobs fell from 51% to 39% since 2015",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://github.com/twalichiewicz/HNewhere",
-    "title": "[英] Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://toolcraft.sh",
-    "title": "[英] Toolcraft",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49058956",
-    "title": "[英] Robotics development made dead simple (open source)",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://github.com/gavamedia/deltafin",
-    "title": "[英] Running Kimi K3 on a M1 Max",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://github.com/anthropics/cryptography-research-demo",
-    "title": "[英] Anthropic publishes a practical key-recovery attack on HAWK-256",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-    "title": "[英] Half-Life ported to Mac OS 9",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49089689",
-    "title": "[英] undefined",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://github.com/openai/codex-security",
-    "title": "[英] Codex Security",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
-    "title": "[英] Interview with Boris Cherny [video]",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://imjasonh.github.io/playground/population-rays/",
-    "title": "[英] Show HN: How far do I have to go to run into 100k people?",
     "date": "2026-07-29"
   }
 ]
