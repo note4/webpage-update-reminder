@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://aegis-security.higgsfield.app",
-    "title": "[英] We Hardened an AI Security Platform Against 16 Critical Vulnerabilities",
+    "link": "https://laurentiugabriel.github.io/token-town/",
+    "title": "[英] TokenTown: A visual way to understand how LLMs work",
     "date": "2026-07-29"
   },
   {
-    "link": "https://starling.build/",
-    "title": "[英] Starling: The first real desktop written by AI",
+    "link": "https://tracewayapp.com/blog/sqlite-vs-duckdb",
+    "title": "[英] Choose DuckDB rather than SQLite",
     "date": "2026-07-29"
   },
   {
-    "link": "https://koreader.rocks/",
-    "title": "[英] KOReader",
+    "link": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
+    "title": "[英] Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
     "date": "2026-07-29"
   },
   {
-    "link": "https://moai.studio/blog/posts/they-stole-your-attention.html",
-    "title": "[英] They Stole Your Attention",
+    "link": "https://www.darktable.org/",
+    "title": "[英] Darktable",
     "date": "2026-07-29"
   },
   {
-    "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "title": "[英] Document-borne AI worms can self-propagate through Copilot for Word",
+    "link": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
+    "title": "[英] It doesn't matter whether \"Matz is nice\"",
     "date": "2026-07-29"
   },
   {
-    "link": "https://www.mylondon.news/news/transport/only-road-london-you-drive-30499294",
-    "title": "[英] The only road in London where you have to drive on the right",
+    "link": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
+    "title": "[英] Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
     "date": "2026-07-29"
   },
   {
-    "link": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
-    "title": "[英] National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
+    "link": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
+    "title": "[英] Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
     "date": "2026-07-29"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=49058673",
+    "link": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
+    "title": "[英] After the AI Crash",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://github.com/SerhiiKorniienko/bullshit-detector",
+    "title": "[英] Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.25398",
+    "title": "[英] Handbook.md shows that long policy documents do not reliably govern agents",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://echologue.com/",
+    "title": "[英] Show HN: Echologue – the private AI voice journal I built for myself",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49095601",
+    "title": "[英] Ask HN: Anyone else tired of brands discontinuing your favorite everyday items?",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49096389",
     "title": "[英] undefined",
     "date": "2026-07-29"
   },
   {
-    "link": "https://amiga.lychesis.net/index.html",
-    "title": "[英] Amiga Graphics Archive",
+    "link": "https://pulsepathgame.netlify.app/",
+    "title": "[英] Pulse Path – a browser puzzle where placement is the only decision",
     "date": "2026-07-29"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=49095620",
-    "title": "[英] undefined",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://docs.imiron.io/v/0.5.10/en/tour.html",
-    "title": "[英] SpecForge – A Platform for Authoring Formal Specifications",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.scattered-thoughts.net/writing/the-shape-of-data/",
-    "title": "[英] The Shape of Data (2022)",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://vimgolf.ai",
-    "title": "[英] Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach",
-    "title": "[英] Ancient Rome's version of Google Maps: how long to reach the beach",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
-    "title": "[英] ChatGPT claims rogue AI attacked more companies",
+    "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+    "title": "[英] Disrupting supply chain attacks on NPM and GitHub Actions",
     "date": "2026-07-29"
   }
 ]
