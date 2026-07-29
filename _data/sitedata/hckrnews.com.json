@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://render.com/blog/infrastructure-patterns-for-agentic-applications",
+    "title": "[英] Infrastructure Patterns for Agentic Applications",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://docs.espressif.com/projects/rust/book/",
+    "title": "[英] The Rust on ESP Book",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
+    "title": "[英] PgDog (YC P25) Is Hiring",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://chupacabra.bearblog.dev/i-want-to-leave-the-internet/",
+    "title": "[英] I Want to Leave the Internet",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+    "title": "[英] Keychron announces first open-source firmware for gaming mice",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/",
+    "title": "[英] CipherX applies painless permanent tattoos with dissolving microneedle patches",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://kedge.dev/",
+    "title": "[英] Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://cleanenergyreview.io/p/baseload-is-a-myth",
+    "title": "[英] Baseload Is a Myth (2024)",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.superlogical.com/",
+    "title": "[英] Mitchellh starts a new company: Superlogical",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://mitchellh.com/writing/superlogical",
+    "title": "[英] Superlogical – Mitchell Hashimoto",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49099021",
+    "title": "[英] Ask HN: My domain registrar (Hover) rug-pulled me for $3000",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.engadget.com/2225849/google-shuts-down-alphafold/",
+    "title": "[英] Google shuts down Nobel Prize winning AlphaFold",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
+    "title": "[英] Hamburg's Stadtpark: A Park Built to Be Used",
+    "date": "2026-07-30"
+  },
+  {
     "link": "https://usetokenless.com/",
     "title": "[英] Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
     "date": "2026-07-30"
@@ -7,71 +72,6 @@
   {
     "link": "https://aistack.imec-int.com/blog/gpu-self-hosting",
     "title": "[英] Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://drewdevault.com/blog/AI-in-Linux/",
-    "title": "[英] AI in Linux",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://fluxtion-playground.dev/blog/2026-07-29-graph-engineering-needs-a-compiler",
-    "title": "[英] Graph Engineering Needs a Compiler",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://lapcatsoftware.com/articles/2026/7/14.html",
-    "title": "[英] Apple should be ashamed of its hostile App Store rating system",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://boringsql.com/posts/mvcc-bad-bad/",
-    "title": "[英] PostgreSQL's MVCC is bad. So is everyone else's",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://github.com/VladUZH/qwen-scribe",
-    "title": "[英] Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-    "title": "[英] GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
-    "title": "[英] Hugging Face: Anatomy of a frontier-lab agent intrusion",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://cesium.com/events/cesium-developer-conference/2026/",
-    "title": "[英] Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.reinvent.science/p/the-scientific-literature-is-poisonous",
-    "title": "[英] The Scientific Literature Is Poisonous to LLMs",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://github.com/drumih/turbo-fieldfare",
-    "title": "[英] Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-    "title": "[英] A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://risingedge.pro",
-    "title": "[英] Show HN: Write, simulate and synthesize VHDL/Verilog in the browser",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://github.com/hongnoul/hwatu",
-    "title": "[英] Show HN: A verification browser for AI agents – 13ms windows, one-call checks",
     "date": "2026-07-30"
   }
 ]
