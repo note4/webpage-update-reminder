@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/",
+    "title": "[英] 60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://www.datagubbe.se/scenegui/",
+    "title": "[英] User Interfaces of the Demo Scene",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+    "title": "[英] Cracking Windows Open: Porting RADV to Win32",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "title": "[英] More Tailscale tricks for your jailbroken Kindle",
+    "date": "2026-07-29"
+  },
+  {
     "link": "https://transformer-transformer.github.io/",
     "title": "[英] Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
     "date": "2026-07-29"
@@ -25,13 +45,13 @@
     "date": "2026-07-29"
   },
   {
-    "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
-    "title": "[英] Hooray for the Sockets Interface",
+    "link": "https://dynomight.net/betteridge/",
+    "title": "[英] Does every question mark deserve a Betteridge?",
     "date": "2026-07-29"
   },
   {
-    "link": "https://dynomight.net/betteridge/",
-    "title": "[英] Does every question mark deserve a Betteridge?",
+    "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+    "title": "[英] Hooray for the Sockets Interface",
     "date": "2026-07-29"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://andreadimatteo.com/md-to-html-compiler.html",
     "title": "[英] Show HN: Learning Rust by writing a Markdown to HTML compiler",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
-    "title": "[英] Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://lwn.net/Articles/1081871/",
-    "title": "[英] Lockless MPSC FIFO queues for io_uring",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
-    "title": "[英] Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.hubble.md/",
-    "title": "[英] Hubble: Open-source notetaking app for you and your agents",
     "date": "2026-07-29"
   }
 ]
