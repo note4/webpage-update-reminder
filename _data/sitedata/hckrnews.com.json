@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://aegis-security.higgsfield.app",
+    "title": "[英] We Hardened an AI Security Platform Against 16 Critical Vulnerabilities",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://starling.build/",
+    "title": "[英] Starling: The first real desktop written by AI",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://koreader.rocks/",
+    "title": "[英] KOReader",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://moai.studio/blog/posts/they-stole-your-attention.html",
+    "title": "[英] They Stole Your Attention",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "title": "[英] Document-borne AI worms can self-propagate through Copilot for Word",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://www.mylondon.news/news/transport/only-road-london-you-drive-30499294",
+    "title": "[英] The only road in London where you have to drive on the right",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
+    "title": "[英] National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49058673",
+    "title": "[英] undefined",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://amiga.lychesis.net/index.html",
+    "title": "[英] Amiga Graphics Archive",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49095620",
+    "title": "[英] undefined",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+    "title": "[英] SpecForge – A Platform for Authoring Formal Specifications",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://www.scattered-thoughts.net/writing/the-shape-of-data/",
+    "title": "[英] The Shape of Data (2022)",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://vimgolf.ai",
+    "title": "[英] Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+    "date": "2026-07-29"
+  },
+  {
     "link": "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach",
     "title": "[英] Ancient Rome's version of Google Maps: how long to reach the beach",
     "date": "2026-07-29"
@@ -7,71 +72,6 @@
   {
     "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
     "title": "[英] ChatGPT claims rogue AI attacked more companies",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
-    "title": "[英] Lisp moving Forth moving Lisp",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-    "title": "[英] SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://alexwlchan.net/2026/byte-order-marks/",
-    "title": "[英] Fixing a bug with byte order marks",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://firemapsspain.online/",
-    "title": "[英] Show HN: Firemaps Spain – Live wildfire map with wind flow for ES and PT",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/",
-    "title": "[英] 60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.datagubbe.se/scenegui/",
-    "title": "[英] User Interfaces of the Demo Scene",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
-    "title": "[英] Cracking Windows Open: Porting RADV to Win32",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "title": "[英] More Tailscale tricks for your jailbroken Kindle",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://transformer-transformer.github.io/",
-    "title": "[英] Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://github.com/lensapp/openshell-k8s-operator",
-    "title": "[英] OpenShell Kubernetes Operator",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://github.com/jagg-ix/zil-lean",
-    "title": "[英] Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome",
-    "title": "[英] Beyond Greece and Rome",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cly8zng43npo",
-    "title": "[英] Chip stocks slide in US and Asia as AI jitters rattle investors",
     "date": "2026-07-29"
   }
 ]
