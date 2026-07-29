@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
+    "title": "[英] A Trampoline",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "http://muratbuffalo.blogspot.com/2026/07/aurora-dsql-scalable-multi-region-oltp.html",
+    "title": "[英] Aurora DSQL: Scalable, Multi-Region OLTP",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://status.claude.com/incidents/q2kg8n613kr3",
+    "title": "[英] Claude Is Down",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.brightsaver.org/balcony-solar-kits",
+    "title": "[英] Balcony Solar: $1.74/watt direct plug-in solar",
+    "date": "2026-07-30"
+  },
+  {
     "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
     "title": "[英] Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
     "date": "2026-07-30"
@@ -35,13 +55,13 @@
     "date": "2026-07-30"
   },
   {
-    "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
-    "title": "[英] A field day for Gleam's language server – Gleam v1.18.0 release",
+    "link": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
+    "title": "[英] How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
     "date": "2026-07-30"
   },
   {
-    "link": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
-    "title": "[英] How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
+    "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+    "title": "[英] A field day for Gleam's language server – Gleam v1.18.0 release",
     "date": "2026-07-30"
   },
   {
@@ -50,28 +70,8 @@
     "date": "2026-07-30"
   },
   {
-    "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-    "title": "[英] Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-    "date": "2026-07-30"
-  },
-  {
     "link": "https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/",
     "title": "[英] Who the welfare state protects shapes a country’s financial openness",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Simplified_Technical_English",
-    "title": "[英] Ads-STE100: Simplified Technical English",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.jefftk.com/p/learning-musical-multitasking",
-    "title": "[英] Learning Musical Multitasking",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://cheapfoodmap.com/",
-    "title": "[英] Show HN: CheapFoodMap – A map of good meals under $10",
     "date": "2026-07-30"
   }
 ]
