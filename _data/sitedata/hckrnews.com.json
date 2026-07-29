@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://zachholman.com/posts/cold-email",
+    "title": "[英] The Cold Email",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.simonholywell.com/post/git-add-p/",
+    "title": "[英] Staging patches with Git add -p",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+    "title": "[英] AI's top startups are barely publishing their research",
+    "date": "2026-07-30"
+  },
+  {
     "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
     "title": "[英] SalesPatriot (YC W25) Is Hiring FDEs",
     "date": "2026-07-30"
@@ -57,21 +72,6 @@
   {
     "link": "https://newsletter.posthog.com/p/agent-autonomy",
     "title": "[英] How much can you delegate to agents?",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://github.com/NikolayS/pgsimcity",
-    "title": "[英] PGSimCity – an explorable 3D model that shows how Postgres works",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://prilik.com/blog/post/automating-ac-nyc/",
-    "title": "[英] Turning a dumb AC unit smart (without losing my security deposit)",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
-    "title": "[英] How to not die by a thousand cuts or how to think about software quality (2023)",
     "date": "2026-07-30"
   }
 ]
