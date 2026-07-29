@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.jefftk.com/p/learning-musical-multitasking",
+    "title": "[英] Learning Musical Multitasking",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://cheapfoodmap.com/",
+    "title": "[英] Show HN: CheapFoodMap – A map of good meals under $10",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "title": "[英] Some thoughts about Anthropic's new cryptanalysis results",
+    "date": "2026-07-30"
+  },
+  {
     "link": "https://render.com/blog/infrastructure-patterns-for-agentic-applications",
     "title": "[英] Infrastructure Patterns for Agentic Applications",
     "date": "2026-07-30"
@@ -41,12 +56,12 @@
   },
   {
     "link": "https://www.superlogical.com/",
-    "title": "[英] Mitchellh starts a new company: Superlogical",
+    "title": "[英] Superlogical",
     "date": "2026-07-30"
   },
   {
     "link": "https://mitchellh.com/writing/superlogical",
-    "title": "[英] Superlogical – Mitchell Hashimoto",
+    "title": "[英] Superlogical",
     "date": "2026-07-30"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://www.engadget.com/2225849/google-shuts-down-alphafold/",
     "title": "[英] Google shuts down Nobel Prize winning AlphaFold",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
-    "title": "[英] Hamburg's Stadtpark: A Park Built to Be Used",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://usetokenless.com/",
-    "title": "[英] Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://aistack.imec-int.com/blog/gpu-self-hosting",
-    "title": "[英] Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
     "date": "2026-07-30"
   }
 ]
