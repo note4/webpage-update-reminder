@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach",
+    "title": "[英] Ancient Rome's version of Google Maps: how long to reach the beach",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+    "title": "[英] ChatGPT claims rogue AI attacked more companies",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
+    "title": "[英] Lisp moving Forth moving Lisp",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "title": "[英] SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://alexwlchan.net/2026/byte-order-marks/",
+    "title": "[英] Fixing a bug with byte order marks",
+    "date": "2026-07-29"
+  },
+  {
+    "link": "https://firemapsspain.online/",
+    "title": "[英] Show HN: Firemaps Spain – Live wildfire map with wind flow for ES and PT",
+    "date": "2026-07-29"
+  },
+  {
     "link": "https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/",
     "title": "[英] 60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",
     "date": "2026-07-29"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.bbc.com/news/articles/cly8zng43npo",
     "title": "[英] Chip stocks slide in US and Asia as AI jitters rattle investors",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://dynomight.net/betteridge/",
-    "title": "[英] Does every question mark deserve a Betteridge?",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
-    "title": "[英] Hooray for the Sockets Interface",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://learnvector.ai/",
-    "title": "[英] LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-    "title": "[英] Truth is not a direction: a Tarski attack on LLM probes",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://blinry.org/multi-seat-wayland/",
-    "title": "[英] Multiple Mouse Cursors in Wayland",
-    "date": "2026-07-29"
-  },
-  {
-    "link": "https://andreadimatteo.com/md-to-html-compiler.html",
-    "title": "[英] Show HN: Learning Rust by writing a Markdown to HTML compiler",
     "date": "2026-07-29"
   }
 ]
