@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "title": "[英] Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
+    "title": "[英] Kimi K3-256k",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541",
+    "title": "[英] Why has the display control panel pointer truncation bug gone unfixed for long?",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://newsletter.posthog.com/p/agent-autonomy",
+    "title": "[英] How much can you delegate to agents?",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://github.com/NikolayS/pgsimcity",
+    "title": "[英] PGSimCity – an explorable 3D model that shows how Postgres works",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://prilik.com/blog/post/automating-ac-nyc/",
+    "title": "[英] Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.darktrace.com/blog/the-growing-threat-of-docusign-phishing-attacks",
+    "title": "[英] The Growing Threat of Docusign Phishing Attacks",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+    "title": "[英] A field day for Gleam's language server – Gleam v1.18.0 release",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
+    "title": "[英] How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings",
+    "title": "[英] The motion-sickness cure hidden in iPhone settings",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+    "title": "[英] Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/",
+    "title": "[英] Who the welfare state protects shapes a country’s financial openness",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Simplified_Technical_English",
+    "title": "[英] Ads-STE100: Simplified Technical English",
+    "date": "2026-07-30"
+  },
+  {
     "link": "https://www.jefftk.com/p/learning-musical-multitasking",
     "title": "[英] Learning Musical Multitasking",
     "date": "2026-07-30"
@@ -7,71 +72,6 @@
   {
     "link": "https://cheapfoodmap.com/",
     "title": "[英] Show HN: CheapFoodMap – A map of good meals under $10",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "title": "[英] Some thoughts about Anthropic's new cryptanalysis results",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://render.com/blog/infrastructure-patterns-for-agentic-applications",
-    "title": "[英] Infrastructure Patterns for Agentic Applications",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://docs.espressif.com/projects/rust/book/",
-    "title": "[英] The Rust on ESP Book",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
-    "title": "[英] PgDog (YC P25) Is Hiring",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://chupacabra.bearblog.dev/i-want-to-leave-the-internet/",
-    "title": "[英] I Want to Leave the Internet",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-    "title": "[英] Keychron announces first open-source firmware for gaming mice",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/",
-    "title": "[英] CipherX applies painless permanent tattoos with dissolving microneedle patches",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://kedge.dev/",
-    "title": "[英] Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://cleanenergyreview.io/p/baseload-is-a-myth",
-    "title": "[英] Baseload Is a Myth (2024)",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.superlogical.com/",
-    "title": "[英] Superlogical",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://mitchellh.com/writing/superlogical",
-    "title": "[英] Superlogical",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49099021",
-    "title": "[英] Ask HN: My domain registrar (Hover) rug-pulled me for $3000",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.engadget.com/2225849/google-shuts-down-alphafold/",
-    "title": "[英] Google shuts down Nobel Prize winning AlphaFold",
     "date": "2026-07-30"
   }
 ]
