@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://laurentiugabriel.github.io/token-town/",
-    "title": "[英] TokenTown: A visual way to understand how LLMs work",
-    "date": "2026-07-29"
+    "link": "https://usetokenless.com/",
+    "title": "[英] Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+    "date": "2026-07-30"
   },
   {
-    "link": "https://tracewayapp.com/blog/sqlite-vs-duckdb",
-    "title": "[英] Choose DuckDB rather than SQLite",
-    "date": "2026-07-29"
+    "link": "https://aistack.imec-int.com/blog/gpu-self-hosting",
+    "title": "[英] Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
+    "date": "2026-07-30"
   },
   {
-    "link": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
-    "title": "[英] Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
-    "date": "2026-07-29"
+    "link": "https://drewdevault.com/blog/AI-in-Linux/",
+    "title": "[英] AI in Linux",
+    "date": "2026-07-30"
   },
   {
-    "link": "https://www.darktable.org/",
-    "title": "[英] Darktable",
-    "date": "2026-07-29"
+    "link": "https://fluxtion-playground.dev/blog/2026-07-29-graph-engineering-needs-a-compiler",
+    "title": "[英] Graph Engineering Needs a Compiler",
+    "date": "2026-07-30"
   },
   {
-    "link": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
-    "title": "[英] It doesn't matter whether \"Matz is nice\"",
-    "date": "2026-07-29"
+    "link": "https://lapcatsoftware.com/articles/2026/7/14.html",
+    "title": "[英] Apple should be ashamed of its hostile App Store rating system",
+    "date": "2026-07-30"
   },
   {
-    "link": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
-    "title": "[英] Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
-    "date": "2026-07-29"
+    "link": "https://boringsql.com/posts/mvcc-bad-bad/",
+    "title": "[英] PostgreSQL's MVCC is bad. So is everyone else's",
+    "date": "2026-07-30"
   },
   {
-    "link": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
-    "title": "[英] Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
-    "date": "2026-07-29"
+    "link": "https://github.com/VladUZH/qwen-scribe",
+    "title": "[英] Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+    "date": "2026-07-30"
   },
   {
-    "link": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
-    "title": "[英] After the AI Crash",
-    "date": "2026-07-29"
+    "link": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+    "title": "[英] GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+    "date": "2026-07-30"
   },
   {
-    "link": "https://github.com/SerhiiKorniienko/bullshit-detector",
-    "title": "[英] Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
-    "date": "2026-07-29"
+    "link": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
+    "title": "[英] Hugging Face: Anatomy of a frontier-lab agent intrusion",
+    "date": "2026-07-30"
   },
   {
-    "link": "https://arxiv.org/abs/2607.25398",
-    "title": "[英] Handbook.md shows that long policy documents do not reliably govern agents",
-    "date": "2026-07-29"
+    "link": "https://cesium.com/events/cesium-developer-conference/2026/",
+    "title": "[英] Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",
+    "date": "2026-07-30"
   },
   {
-    "link": "https://echologue.com/",
-    "title": "[英] Show HN: Echologue – the private AI voice journal I built for myself",
-    "date": "2026-07-29"
+    "link": "https://www.reinvent.science/p/the-scientific-literature-is-poisonous",
+    "title": "[英] The Scientific Literature Is Poisonous to LLMs",
+    "date": "2026-07-30"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=49095601",
-    "title": "[英] Ask HN: Anyone else tired of brands discontinuing your favorite everyday items?",
-    "date": "2026-07-29"
+    "link": "https://github.com/drumih/turbo-fieldfare",
+    "title": "[英] Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "date": "2026-07-30"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=49096389",
-    "title": "[英] undefined",
-    "date": "2026-07-29"
+    "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+    "title": "[英] A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+    "date": "2026-07-30"
   },
   {
-    "link": "https://pulsepathgame.netlify.app/",
-    "title": "[英] Pulse Path – a browser puzzle where placement is the only decision",
-    "date": "2026-07-29"
+    "link": "https://risingedge.pro",
+    "title": "[英] Show HN: Write, simulate and synthesize VHDL/Verilog in the browser",
+    "date": "2026-07-30"
   },
   {
-    "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-    "title": "[英] Disrupting supply chain attacks on NPM and GitHub Actions",
-    "date": "2026-07-29"
+    "link": "https://github.com/hongnoul/hwatu",
+    "title": "[英] Show HN: A verification browser for AI agents – 13ms windows, one-call checks",
+    "date": "2026-07-30"
   }
 ]
