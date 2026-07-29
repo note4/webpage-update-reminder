@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://llm2human.pages.dev/",
+    "title": "[英] LLM Honeypot",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://archive.org/details/mancomputerbyjoh0000john",
+    "title": "[英] Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
+    "title": "[英] GitHub is the wrong shape for this new world",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
+    "title": "[英] Refactoring cuisine: how an Iraqi stew sailed to Singapore",
+    "date": "2026-07-30"
+  },
+  {
     "link": "https://zachholman.com/posts/cold-email",
     "title": "[英] The Cold Email",
     "date": "2026-07-30"
@@ -52,26 +72,6 @@
   {
     "link": "https://www.brightsaver.org/balcony-solar-kits",
     "title": "[英] Balcony Solar: $1.74/watt direct plug-in solar",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "title": "[英] Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
-    "title": "[英] Kimi K3-256k",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541",
-    "title": "[英] Why has the display control panel pointer truncation bug gone unfixed for long?",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://newsletter.posthog.com/p/agent-autonomy",
-    "title": "[英] How much can you delegate to agents?",
     "date": "2026-07-30"
   }
 ]
