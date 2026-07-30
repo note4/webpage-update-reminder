@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://obryant.dev/p/2x-not-10x/",
+    "title": "[英] 2x, not 10x: coding with LLMs in 2026",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+    "title": "[英] UEFA and its national associations will not participate in FIFA competitions",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://dynomight.net/plants/",
+    "title": "[英] So you want to use plants to reduce CO₂",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://tally.jiegou.ai/",
+    "title": "[英] Show HN: Tally – check a spreadsheet's numbers against their source, in-browser",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+    "title": "[英] Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+    "title": "[英] Postgres Queues Actually Scale",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+    "title": "[英] CodePen 2.0",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+    "title": "[英] We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+    "date": "2026-07-31"
+  },
+  {
     "link": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
     "title": "[英] US gov and OpenAI mislabel map of Africa at global conference",
     "date": "2026-07-31"
@@ -26,52 +66,12 @@
   },
   {
     "link": "https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2",
-    "title": "[英] Toot.community Is Shutting Down",
+    "title": "[英] Toot.community is shutting down",
     "date": "2026-07-31"
   },
   {
     "link": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
     "title": "[英] Rise Reforming (YC S26) Is Hiring",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/",
-    "title": "[英] How to Mount a Balcony Awning",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://www.humprog.org/~stephen/blog/research/recovering-abstraction.html",
-    "title": "[英] Reversing Abstractions: An Existential Crisis",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49112294",
-    "title": "[英] undefined",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://brandur.org/fragments/pgtestdb",
-    "title": "[英] Pgtestdb's template cloning approach to testing is fast",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49111312",
-    "title": "[英] undefined",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://github.com/hamzarehmandeveloper/claude-account",
-    "title": "[英] Show HN: Claude-account – switch Claude Code accounts without logging in again",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://github.com/malisper/pgrust/releases/tag/v0.2-release",
-    "title": "[英] Postgres rewritten in Rust v0.2, now faster than Postgres and ClickHouse",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "http://bradconte.com/files/misc/HackerNewsParodyThread/",
-    "title": "[英] Parody Hacker News (2013)",
     "date": "2026-07-31"
   }
 ]
