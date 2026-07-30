@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://theamericanscholar.org/thanatos-rising/",
+    "title": "[英] Thanatos Rising",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://noelo.org/blog/kuna-release/",
+    "title": "[英] Kuna: Decompiler Development in the Age of Coding Agents",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
+    "title": "[英] NSF pilots 4-year PhDs with industry research placements",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://logicforprogrammers.com/",
+    "title": "[英] Logic for Programmers by Hillel Wayne",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
+    "title": "[英] A pharmacy chain in Vermont implemented AI for efficiency",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/",
+    "title": "[英] Angels in Coptic Magic I: Introduction",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://waveformsecurity.com/blog/flume/",
+    "title": "[英] Flume Water Monitor 915 MHz Security Is Pretty Good",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.zillow.com/research/starter-homes-price-tiers-36571/",
+    "title": "[英] Starter Homes Are Piling Up While Luxury Homes Fly Off the Market",
+    "date": "2026-07-30"
+  },
+  {
     "link": "https://www.staszewski.xyz/blog/recursive-filters/",
     "title": "[英] Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",
     "date": "2026-07-30"
@@ -11,7 +51,7 @@
   },
   {
     "link": "https://capabase.ai/learn/sell-your-ai-skills",
-    "title": "[英] Sell Your AI Skills?",
+    "title": "[英] Why you should sell your AI Skills?",
     "date": "2026-07-30"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://archive.org/details/mancomputerbyjoh0000john",
     "title": "[英] Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
-    "title": "[英] GitHub is the wrong shape for this new world",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
-    "title": "[英] Refactoring cuisine: how an Iraqi stew sailed to Singapore",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://zachholman.com/posts/cold-email",
-    "title": "[英] The Cold Email",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.simonholywell.com/post/git-add-p/",
-    "title": "[英] Staging patches with git add (2024)",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-    "title": "[英] AI's top startups are barely publishing their research",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-    "title": "[英] SalesPatriot (YC W25) Is Hiring FDEs",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://christianselig.com/2026/07/vision-pro-house/",
-    "title": "[英] The coolest use for the Vision Pro",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
-    "title": "[英] I'm running a programming contest",
     "date": "2026-07-30"
   }
 ]

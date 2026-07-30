@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/07/30/doordash-gm-weave/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "三分之二程式碼由 AI 寫仍不夠：DoorDash、GM、Weave 揭企業生產力真正瓶頸",
+    "date": "2026-07-30 10:20:45"
+  },
+  {
+    "link": "https://techorange.com/2026/07/30/pqc-post-quantum-cryptography-netapp/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "量子危機倒數，台灣企業卻連「盤點」都還沒做完？專訪 NetApp 談 PQC 遷移盲點",
+    "date": "2026-07-30 10:08:39"
+  },
+  {
+    "link": "https://techorange.com/2026/07/30/opportunity-in-household-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【家庭 AI 代理崛起】運轉一個家庭比管理一間公司更複雜，SuperNori 想成為 AI 管家",
+    "date": "2026-07-30 09:58:12"
+  },
+  {
+    "link": "https://techorange.com/2026/07/30/savis-app/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "三秒複製聲音、一通電話掏空存款，Savi 要用「即時通話監控」反制 AI 詐騙",
+    "date": "2026-07-30 09:37:22"
+  },
+  {
     "link": "https://techorange.com/2026/07/30/china-duv-us-robot-ban-ai-memory-contracts/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】中國傳啟動國產 DUV、美國封殺中國機器人，AI 供應鏈進入管制與長約戰",
     "date": "2026-07-30 05:30:00"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/07/28/amazon-d2d-global-satellite-cellphone-network-2028/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "複製 Starlink 模式？亞馬遜一口氣申請逾 5 千顆衛星，要搶的卻不是衛星市場",
     "date": "2026-07-28 16:23:23"
-  },
-  {
-    "link": "https://techorange.com/2026/07/28/microsofts-solution-to-ai-security/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "90% 資安任務交給專用小模型、成本降 50%：微軟如何用 MAI-Cyber-1-Flash 重寫企業防線？",
-    "date": "2026-07-28 12:14:30"
-  },
-  {
-    "link": "https://techorange.com/2026/07/28/2026aifactory-foxconn-nexcom-solomon-digihua-itri/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "鴻海、新漢、所羅門實戰分享：AI 如何真正落地製造產線",
-    "date": "2026-07-28 11:40:56"
-  },
-  {
-    "link": "https://techorange.com/2026/07/28/anthropics-position-on-open-weights-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Anthropic 終於表態：真正該限制的不是開放權重",
-    "date": "2026-07-28 11:30:40"
-  },
-  {
-    "link": "https://techorange.com/2026/07/28/taitra-james-lee/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "只要 1% 員工會用 Agent，公司產能就能翻倍？外貿協會資深顧問李牮斯：人類已成 AI 團隊的「豬隊友」",
-    "date": "2026-07-28 11:24:54"
   }
 ]
