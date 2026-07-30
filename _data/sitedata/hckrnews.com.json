@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://andreafortuna.org/2026/07/06/ntfs-forensics-deep-dive/",
-    "title": "[英] Going beneath NTFS: USN Journal, dfir_NTFS, and artefact-driven investigations",
-    "date": "2026-07-30"
+    "link": "https://github.com/malisper/pgrust/releases/tag/v0.2-release",
+    "title": "[英] Postgres rewritten in Rust v0.2, now faster than Postgres and ClickHouse",
+    "date": "2026-07-31"
   },
   {
-    "link": "https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start",
-    "title": "[英] Europe's fires are just the start",
-    "date": "2026-07-30"
+    "link": "http://bradconte.com/files/misc/HackerNewsParodyThread/",
+    "title": "[英] Parody Hacker News (2013)",
+    "date": "2026-07-31"
   },
   {
-    "link": "https://hex.ooo/library/alicebob.html",
-    "title": "[英] The Alice and Bob After Dinner Speech (1984)",
-    "date": "2026-07-30"
+    "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+    "title": "[英] Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+    "date": "2026-07-31"
   },
   {
-    "link": "https://prized.dev",
-    "title": "[英] Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
-    "date": "2026-07-30"
+    "link": "https://www.youtube.com/watch?v=W-OpIbLUOU0",
+    "title": "[英] RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]",
+    "date": "2026-07-31"
   },
   {
-    "link": "https://mathoverflow.net/questions/513742/are-we-stuck-with-lean",
-    "title": "[英] Are We Stuck with Lean?",
-    "date": "2026-07-30"
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+    "title": "[英] The Economic Benefit of Refactoring",
+    "date": "2026-07-31"
   },
   {
-    "link": "https://twitter.com/metpoliceuk/status/2082527338735005811",
-    "title": "[英] UK police to arrest people for showing support for Palestine Action",
-    "date": "2026-07-30"
+    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "title": "[英] Gemini Robotics 2 brings whole body intelligence to robots",
+    "date": "2026-07-31"
   },
   {
-    "link": "https://steelmanlabs.com/blog/computer-use-is-far-from-solved",
-    "title": "[英] You can't solve computer use by ignoring the interface",
-    "date": "2026-07-30"
+    "link": "https://fletch.sh/blog/git-worktrees-vs-clones-for-ai-agents/",
+    "title": "[英] Git worktrees are not an isolation boundary for coding agents",
+    "date": "2026-07-31"
   },
   {
-    "link": "https://98.js.org/programs/pinball/space-cadet.html",
-    "title": "[英] 3D Pinball for Windows (1995)",
-    "date": "2026-07-30"
+    "link": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
+    "title": "[英] Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
+    "date": "2026-07-31"
   },
   {
-    "link": "https://remysharp.com/links/2026-07-23-35890312",
-    "title": "[英] 'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-    "date": "2026-07-30"
+    "link": "https://agiranker.com/",
+    "title": "[英] Show HN: I audited my AI leaderboard scale – every score dropped 6-15 points",
+    "date": "2026-07-31"
   },
   {
-    "link": "https://mnot.net/blog/2020/for_the_users",
-    "title": "[英] RFC 8890 – The Internet is for End Users (2020)",
-    "date": "2026-07-30"
+    "link": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+    "title": "[英] The Lost Civic Life of Movie Rental Stores",
+    "date": "2026-07-31"
   },
   {
-    "link": "https://select.supply/game/chipbuilder",
-    "title": "[英] I made a game where you build a CPU from logic gates",
-    "date": "2026-07-30"
+    "link": "https://www.cam.ac.uk/research/news/study-reveals-why-dna-damage-from-smoking-and-uv-rays-may-cause-cancer-in-some-people-but-not-others",
+    "title": "[英] Why DNA damage from smoking and UV rays cause cancer in some but not others",
+    "date": "2026-07-31"
   },
   {
-    "link": "https://github.com/grafana/ai-sdk",
-    "title": "[英] Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-    "date": "2026-07-30"
+    "link": "https://bsid.io/writing/building-a-cel-engine-for-net",
+    "title": "[英] Building a native C# implementation of CEL engine",
+    "date": "2026-07-31"
   },
   {
-    "link": "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db",
-    "title": "[英] CosmosEscape: Taking over Every Database in Azure Cosmos DB",
-    "date": "2026-07-30"
+    "link": "https://github.com/n67094/sdl_gp",
+    "title": "[英] SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+    "date": "2026-07-31"
   },
   {
-    "link": "https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/",
-    "title": "[英] What it means for an API to be RESTful",
-    "date": "2026-07-30"
+    "link": "https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html",
+    "title": "[英] Trusted URLs via Cryptographic Signatures",
+    "date": "2026-07-31"
   },
   {
-    "link": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
-    "title": "[英] How Old Is Ann?",
-    "date": "2026-07-30"
+    "link": "https://hackerpublicradio.org/",
+    "title": "[英] Hacker Public Radio",
+    "date": "2026-07-31"
   }
 ]
