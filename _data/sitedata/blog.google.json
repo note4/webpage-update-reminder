@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
+    "title": "[英] Gemini Spark now integrates with Chrome",
+    "date": "2026-07-31 04:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
     "title": "[英] Introducing Gemini Robotics ER 2",
     "date": "2026-07-30 23:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/ai-startup-support-program-japan/",
     "title": "[英] Google and KDDI are ready to back Japanese startups.",
     "date": "2026-07-28 09:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/",
-    "title": "[英] NOAA and Google Cloud collaborate to advance weather forecasting.",
-    "date": "2026-07-28 01:00:00"
   }
 ]

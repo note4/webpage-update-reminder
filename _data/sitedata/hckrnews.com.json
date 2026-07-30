@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://github.com/AminBlg/SimpleEnglish",
+    "title": "[英] Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://github.com/MemoireMorte/Memo-1",
+    "title": "[英] Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://phulin.me/blog/poker/",
+    "title": "[英] Solving poker in custom WebGPU kernels",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color",
+    "title": "[英] What would it mean to see a new color?",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+    "title": "[英] Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://supapool.io/",
+    "title": "[英] Show HN: Supapool – a Supabase per coding agent in ~400 ms",
+    "date": "2026-07-31"
+  },
+  {
     "link": "https://obryant.dev/p/2x-not-10x/",
     "title": "[英] 2x, not 10x: coding with LLMs in 2026",
     "date": "2026-07-31"
@@ -26,7 +56,7 @@
   },
   {
     "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
-    "title": "[英] Postgres Queues Actually Scale",
+    "title": "[英] Making Postgres queues scale",
     "date": "2026-07-31"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
     "title": "[英] US gov and OpenAI mislabel map of Africa at global conference",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-    "title": "[英] Stacked PRs are now live on GitHub",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-    "title": "[英] Advancing the price-performance frontier with GPT‑5.6",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-    "title": "[英] Read This Before You Buy That TV Streaming Stick",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle",
-    "title": "[英] How Olinia Turns Mexico's EV Ambition into Reality",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2",
-    "title": "[英] Toot.community is shutting down",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
-    "title": "[英] Rise Reforming (YC S26) Is Hiring",
     "date": "2026-07-31"
   }
 ]
