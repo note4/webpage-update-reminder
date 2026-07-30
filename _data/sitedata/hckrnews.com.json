@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "title": "[英] Investigating three real-world incidents in our cybersecurity evaluations",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
+    "title": "[英] I flagged two research papers for fake authors and both were accepted as orals",
+    "date": "2026-07-31"
+  },
+  {
     "link": "https://rune.build/blog/rune-1-1-release",
     "title": "[英] Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
     "date": "2026-07-31"
@@ -62,16 +72,6 @@
   {
     "link": "https://supapool.io/",
     "title": "[英] Show HN: Supapool – a Supabase per coding agent in ~400 ms",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://obryant.dev/p/2x-not-10x/",
-    "title": "[英] 2x, not 10x: coding with LLMs in 2026",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-    "title": "[英] UEFA and its national associations will not participate in FIFA competitions",
     "date": "2026-07-31"
   }
 ]
