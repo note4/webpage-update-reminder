@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://lwn.net/Articles/1086041/",
+    "title": "[英] GCC steering committee announces AI policy",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+    "title": "[英] Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://edconway.substack.com/p/the-glass-famine",
+    "title": "[英] The Glass Famine",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+    "title": "[英] ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://www.grumpygamer.com/twp2_announce/",
+    "title": "[英] Ron Gilbert started production on Thimbleweed Park 2",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh",
+    "title": "[英] Cisco FMC static credential vulnerability exploited as a zero-day",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://wadetregaskis.com/the-apple-calculator-language/",
+    "title": "[英] The Apple Calculator Language",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://github.com/tailscale/tailscale/issues/9284",
+    "title": "[英] Tailscale with Mullvad leaks your DNS",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
+    "title": "[英] Carolina Cloud pays SOFR on unused prepaid credits",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://github.com/YoanWai/agent-manager",
+    "title": "[英] Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+    "date": "2026-07-30"
+  },
+  {
     "link": "https://en.wikipedia.org/wiki/Azulejo",
     "title": "[英] Azulejo",
     "date": "2026-07-30"
@@ -22,56 +72,6 @@
   {
     "link": "https://by.seiko-design.com/140th/en/topic/58.html",
     "title": "[英] The first watch featuring computer functions",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
-    "title": "[英] ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://christianselig.com/2026/07/iphone-air-review/",
-    "title": "[英] I Have Thoughts on the iPhone Air",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/",
-    "title": "[英] Concurrency, interactivity, mutability, choose two",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://getapps.cafe/blog/why-the-future-is-local-app",
-    "title": "[英] Why the future is local app",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://github.com/Deepender25/Edge-Drop",
-    "title": "[英] Show HN: Edge Drop- #1 productivity and unique clipboard 200 stars on GitHub",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://status.claude.com/incidents/fsh2zzzl2c4l",
-    "title": "[英] Claude is down for 2nd consecutive day",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.eunews.it/en/2026/07/29/eu-now-fears-us-interference-in-european-elections/",
-    "title": "[英] EU now fears US interference in European elections",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://equidistance.io/londons-most-equidistant-pub/",
-    "title": "[英] London’s most equidistant pub",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed",
-    "title": "[英] 1,741 \"informed\" consents with one click? GDPR complaint filed",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://ken.fyi/ooo",
-    "title": "[英] The Royal Order of Operations",
     "date": "2026-07-30"
   }
 ]
