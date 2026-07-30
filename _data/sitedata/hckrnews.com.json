@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed",
+    "title": "[英] 1,741 \"informed\" consents with one click? GDPR complaint filed",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://ken.fyi/ooo",
+    "title": "[英] The Royal Order of Operations",
+    "date": "2026-07-30"
+  },
+  {
     "link": "https://theamericanscholar.org/thanatos-rising/",
     "title": "[英] Thanatos Rising",
     "date": "2026-07-30"
@@ -16,7 +26,7 @@
   },
   {
     "link": "https://logicforprogrammers.com/",
-    "title": "[英] Logic for Programmers by Hillel Wayne",
+    "title": "[英] Logic for Programmers",
     "date": "2026-07-30"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://quuxplusone.github.io/blog/2026/07/26/function-explosion/",
     "title": "[英] Interconverting std::function with copyable_function",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://llm2human.pages.dev/",
-    "title": "[英] LLM Honeypot",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://archive.org/details/mancomputerbyjoh0000john",
-    "title": "[英] Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
     "date": "2026-07-30"
   }
 ]
