@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.staszewski.xyz/blog/recursive-filters/",
+    "title": "[英] Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://github.com/funador/claude-code-merge-queue",
+    "title": "[英] Show HN: A local merge queue for parallel Claude Code agents",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://capabase.ai/learn/sell-your-ai-skills",
+    "title": "[英] Sell Your AI Skills?",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://frantic.im/mirage/",
+    "title": "[英] The Productivity Mirage",
+    "date": "2026-07-30"
+  },
+  {
+    "link": "https://quuxplusone.github.io/blog/2026/07/26/function-explosion/",
+    "title": "[英] Interconverting std::function with copyable_function",
+    "date": "2026-07-30"
+  },
+  {
     "link": "https://llm2human.pages.dev/",
     "title": "[英] LLM Honeypot",
     "date": "2026-07-30"
@@ -26,7 +51,7 @@
   },
   {
     "link": "https://www.simonholywell.com/post/git-add-p/",
-    "title": "[英] Staging patches with Git add -p",
+    "title": "[英] Staging patches with git add (2024)",
     "date": "2026-07-30"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
     "title": "[英] I'm running a programming contest",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
-    "title": "[英] Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
-    "title": "[英] A Trampoline",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "http://muratbuffalo.blogspot.com/2026/07/aurora-dsql-scalable-multi-region-oltp.html",
-    "title": "[英] Aurora DSQL: Scalable, Multi-Region OLTP",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://status.claude.com/incidents/q2kg8n613kr3",
-    "title": "[英] Claude: Elevated errors across all models",
-    "date": "2026-07-30"
-  },
-  {
-    "link": "https://www.brightsaver.org/balcony-solar-kits",
-    "title": "[英] Balcony Solar: $1.74/watt direct plug-in solar",
     "date": "2026-07-30"
   }
 ]
