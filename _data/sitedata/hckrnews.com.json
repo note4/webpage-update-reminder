@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://spectrum.ieee.org/dark-matter",
+    "title": "[英] Detect Dark Matter's Mark from Your Backyard",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://pluralistic.net/2026/07/31/just-do-it/",
+    "title": "[英] Better to Beg Forgiveness",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+    "title": "[英] Moonshot built on 20k Nvidia chip cluster from Alibaba",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.27197",
+    "title": "[英] The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://hyperbo.la/w/winding-down-artichoke-ruby/",
+    "title": "[英] Winding Down Artichoke Ruby",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://whatever.scalzi.com/2026/07/31/another-reason-not-to-use-ai-for-your-writing/",
+    "title": "[英] Another Reason Not to Use \"AI\" for Your Writing",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cx2kp639yx4o",
+    "title": "[英] About 60k migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+    "title": "[英] Situational Awareness Down 67% in July in AI Stock Rout",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://clereviewofbooks.com/we-shall-dwell-amidst-wonder-and-glory-for-ever-on-weird-fiction/",
+    "title": "[英] We shall dwell amidst wonder and glory for ever: On weird fiction",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html",
+    "title": "[英] Premier league bans gambling sponsors",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+    "title": "[英] Ruby Central's Destructive Legacy",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://hughhowey.com/the-end-of-an-era/",
+    "title": "[英] The End of an Era",
+    "date": "2026-07-31"
+  },
+  {
     "link": "https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html",
     "title": "[英] How A Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist",
     "date": "2026-07-31"
@@ -12,66 +72,6 @@
   {
     "link": "https://www.engadget.com/2220571/differences-between-imax-70mm/",
     "title": "[英] IMAX vs. IMAX 70mm: The difference between these two cinema formats",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://vitalik.eth.limo/general/2026/07/28/obfuscation_part_ii_diamond_io.html",
-    "title": "[英] Obfuscation (Part II): Diamond IO",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
-    "title": "[英] DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cn0nqv05g0do",
-    "title": "[英] Danube's record low levels force shutdown of Hungary's only nuclear plant",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://codeberg.org/goodev/goodev",
-    "title": "[英] Show HN: A udev implementation in Guile Scheme",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://blog.google/security/chrome-stronger-with-every-update/",
-    "title": "[英] Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://twitter.com/lemire/status/2082851447499088173",
-    "title": "[英] \"the very foundation of modern academia has been blown to bits\"",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://github.com/SphericalCowww/CubicDoggo_06R",
-    "title": "[英] Show HN: Cubic Doggo 06R: 12-DOF 4-Legged Robot with IMU",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://github.com/mokshablr/gander",
-    "title": "[英] Show HN: Gander, an Android file viewer that asks for no permissions at all",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://ccsim.fly.dev",
-    "title": "[英] Simulating TCP loss and congestion in browser using Go/WASM",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://api-docs.deepseek.com/updates/",
-    "title": "[英] DeepSeek-V4-Flash Update",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://marbleos.com/demo",
-    "title": "[英] Show HN: What should the GUI for AI agents look like?",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
-    "title": "[英] The mean means nothing: data visualization to debug a latency problem",
     "date": "2026-07-31"
   }
 ]
