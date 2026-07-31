@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+    "title": "[英] The American Grilled Cheese Sandwich Essay (2024)",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122",
+    "title": "[英] Destroying a Community with a Gigantic \"Clogged Vacuum Cleaner\"",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "title": "[英] The AI Aesthetic",
+    "date": "2026-07-31"
+  },
+  {
     "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
     "title": "[英] Investigating three real-world incidents in our cybersecurity evaluations",
     "date": "2026-07-31"
@@ -57,21 +72,6 @@
   {
     "link": "https://phulin.me/blog/poker/",
     "title": "[英] Solving poker in custom WebGPU kernels",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color",
-    "title": "[英] What would it mean to see a new color?",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-    "title": "[英] Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://supapool.io/",
-    "title": "[英] Show HN: Supapool – a Supabase per coding agent in ~400 ms",
     "date": "2026-07-31"
   }
 ]
