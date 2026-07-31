@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/07/31/anthropic-claude-incidents-cybersecurity-evaluations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 才出事，Anthropic 也承認：Claude 測試曾誤駭 3 家公司",
+    "date": "2026-07-31 12:38:22"
+  },
+  {
+    "link": "https://techorange.com/2026/07/31/amazon-earnings-andy-jassy-aws-win-without-top-ai-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "自研模型未領先，AWS 營收卻大增 37%：Amazon 如何把多模型競賽變成平台紅利？",
+    "date": "2026-07-31 12:24:10"
+  },
+  {
     "link": "https://techorange.com/2026/07/31/robots-see-touch-color-changing-sensor/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "讓機器人「看見觸覺」：新型變色感測器成本低廉，還能即時呈現壓力的細微變化",
     "date": "2026-07-31 09:38:06"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/07/29/mcp-update-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "MCP 史上最大更新來了：AI Agent 為何終於更適合大規模部署？",
     "date": "2026-07-29 16:49:04"
-  },
-  {
-    "link": "https://techorange.com/2026/07/29/anthropic-mythos-cryptographic-weaknesses/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Anthropic Mythos 找到密碼攻擊新方法：量子電腦之外，AI 成加密安全新變數？",
-    "date": "2026-07-29 11:48:18"
-  },
-  {
-    "link": "https://techorange.com/2026/07/29/ai-open-letter-automated-development/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "OpenAI、Anthropic 等千人聯署要 AI「踩煞車」，祖克柏卻警告：真正危險的是權力集中",
-    "date": "2026-07-29 11:47:11"
   }
 ]

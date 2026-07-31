@@ -1,7 +1,47 @@
 [
   {
+    "link": "https://github.com/mokshablr/gander",
+    "title": "[英] Show HN: Gander, an Android file viewer that asks for no permissions at all",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://ccsim.fly.dev",
+    "title": "[英] Simulating TCP loss and congestion in browser using Go/WASM",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://api-docs.deepseek.com/updates/",
+    "title": "[英] DeepSeek-V4-Flash Update",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://marbleos.com/demo",
+    "title": "[英] Show HN: What should the GUI for AI agents look like?",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+    "title": "[英] The mean means nothing: data visualization to debug a latency problem",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://human2llm.pages.dev/",
+    "title": "[英] Human Honeypot",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://github.com/openjdk/jdk/pull/31120",
+    "title": "[英] JEP 401: Value Objects (Preview) merged to OpenJDK master",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
+    "title": "[英] Where USB Memory Sticks are Born (2013)",
+    "date": "2026-07-31"
+  },
+  {
     "link": "https://earendil.com/posts/session-portability/",
-    "title": "[英] The Session You Cannot take with you",
+    "title": "[英] The session you cannot take with you",
     "date": "2026-07-31"
   },
   {
@@ -11,7 +51,7 @@
   },
   {
     "link": "https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/",
-    "title": "[英] The bond market isn't buying what Fed Chair Warsh is selling",
+    "title": "[英] The bond market isn’t buying what Fed Chair Warsh is selling",
     "date": "2026-07-31"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://moritzhamann.com/blog/2026-07-26-box-drawing-glyphs-on-android.html",
     "title": "[英] Fixing miss-aligned monospace text in Android browsers",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
-    "title": "[英] The American Grilled Cheese Sandwich Essay (2024)",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122",
-    "title": "[英] Destroying a Community with a Gigantic \"Clogged Vacuum Cleaner\"",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "title": "[英] The AI Aesthetic",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-    "title": "[英] Investigating three real-world incidents in our cybersecurity evaluations",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
-    "title": "[英] I flagged two research papers for fake authors and both were accepted as orals",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://rune.build/blog/rune-1-1-release",
-    "title": "[英] Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
-    "title": "[英] Saber-toothed cats became inbred–and struggled to move–before they went extinct",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://github.com/sawfwair/mere-run",
-    "title": "[英] Show HN: Local text, image, video, music and 3D from one CLI, no Python",
     "date": "2026-07-31"
   }
 ]
