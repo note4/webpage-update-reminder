@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
+    "title": "[英] Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://weeraman.com/because-we-can/",
+    "title": "[英] Twenty-five years ago it was cryptography, today it's model weights",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://softwaredoug.com/blog/2026/07/29/just-brute-force-embeddings",
+    "title": "[英] Just brute force your embeddings",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://zserge.com/posts/worst-htmx-ever/",
+    "title": "[英] Let's make the worst Htmx",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://arielsalminen.com/2026/progressive-web-components/",
+    "title": "[英] Progressive Web Components",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+    "title": "[英] Show HN: How to build and self-host a code review agent",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+    "title": "[英] Loops (YC W22) Is Hiring a Product Educator",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
+    "title": "[英] Authorize, don't authenticate",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
+    "title": "[英] Predictive Speculative KV Replication for Bursty LLM Inference",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.28233",
+    "title": "[英] Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+    "date": "2026-08-01"
+  },
+  {
     "link": "https://janilowski.pl/en/blog/2026/amodei-memo/",
     "title": "[英] Dario Amodei's stance on open weights is self-serving and short-sighted",
     "date": "2026-08-01"
@@ -22,56 +72,6 @@
   {
     "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
     "title": "[英] June in Servo: real world compat, media queries, SharedWorker, and more",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/",
-    "title": "[英] AI companies destroy rare and non recoverable physical books",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-    "title": "[英] Using the railway network as a flatbed scanner [video]",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://lcamtuf.substack.com/p/severance",
-    "title": "[英] Severance",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://tailscale.com/blog/hugging-face-intrusion",
-    "title": "[英] Tailscale didn't stop the Hugging Face intrusion",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://jovidecroock.com/blog/referential-stability-types/",
-    "title": "[英] Making Referential Stability a Type",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://github.com/golang/go/issues/80590",
-    "title": "[英] Golang proposal: container/: generic collection types",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.28545",
-    "title": "[英] Orca-Bench: How Ready Are Language Model Agents for Oncall?",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup",
-    "title": "[英] AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://github.com/l00sed/termixer",
-    "title": "[英] Termixer (TUI DJ Mixer)",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars",
-    "title": "[英] How to Survive an Infestation of Toxic Caterpillars",
     "date": "2026-08-01"
   }
 ]
