@@ -1,12 +1,47 @@
 [
   {
-    "link": "https://driftformac.app/",
-    "title": "[英] I built a f.lux alternative because the M5 Max firmware broke existing solutions",
+    "link": "https://github.com/sqliteai/waste",
+    "title": "[英] Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
     "date": "2026-08-01"
   },
   {
-    "link": "https://secretspec.dev/blog/where-env-went-wrong/",
-    "title": "[英] Where .env Went Wrong",
+    "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "title": "[英] Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://cgjennings.ca/articles/jpeg-compression/",
+    "title": "[英] How JPEG works: Interactively explore JPEG's lossy compression methods",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
+    "title": "[英] Miso (YC S16) is hiring for U.S. expansion",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://blog.zernote.com/2gb-user-interviews-into-claude/",
+    "title": "[英] Bypassing Claude's upload limits, 4x (500 MB → 2 GB)",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://privacything.com/en/",
+    "title": "[英] Show HN: I built a cross-browser extension that controls fingerprinting surfaces",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+    "title": "[英] The most official water costs $120k a gallon",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
+    "title": "[英] Why ugly buildings create NIMBYism",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://driftformac.app/",
+    "title": "[英] I built a f.lux alternative because the M5 Max firmware broke existing solutions",
     "date": "2026-08-01"
   },
   {
@@ -15,8 +50,13 @@
     "date": "2026-08-01"
   },
   {
-    "link": "https://klartext.it-handwerk-stuttgart.de/",
-    "title": "[英] Make Everything to Markdown",
+    "link": "https://news.ycombinator.com/item?id=49124444",
+    "title": "[英] undefined",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://secretspec.dev/blog/where-env-went-wrong/",
+    "title": "[英] Where .env Went Wrong",
     "date": "2026-08-01"
   },
   {
@@ -30,48 +70,8 @@
     "date": "2026-08-01"
   },
   {
-    "link": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-    "title": "[英] Big Food vs. the People",
-    "date": "2026-08-01"
-  },
-  {
     "link": "https://uml.gpmai.workers.dev",
     "title": "[英] Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.taskloco.com/",
-    "title": "[英] Next-Level Productivity Revealed to Be Smart Sticky Notes",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c0jl4np49w1o",
-    "title": "[英] Puberty blockers trial can start recruiting children",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
-    "title": "[英] Online Friends Are Real Friends",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://github.com/richlegrand/bitbang-cli",
-    "title": "[英] Show HN: BitBang – Reach machines behind NAT from a browser, no account",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.bbc.com/news/world-us-canada-50849559",
-    "title": "[英] US Government lists fictional nation Wakanda as trade partner",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
-    "title": "[英] Dubious research tied to Red Bull has shaped energy drink policy",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://enlarger.app/blog/upscayl-vs-enlarger/",
-    "title": "[英] I 4x'd a 367x479 stamp-sized photo through 8 upscaling models",
     "date": "2026-08-01"
   }
 ]
