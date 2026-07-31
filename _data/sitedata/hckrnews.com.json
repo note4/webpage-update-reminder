@@ -1,12 +1,37 @@
 [
   {
+    "link": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+    "title": "[英] The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://newleftreview.org/sidecar/posts/hope-and-defeat",
+    "title": "[英] Hope and Defeat: John Berger",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
+    "title": "[英] Britain's New World of Tobacco (2017)",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.cabinetmagazine.org/issues/70/kofen.php",
+    "title": "[英] A past and future of trade secrets",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+    "title": "[英] The Absurdity of Albert Camus",
+    "date": "2026-08-01"
+  },
+  {
     "link": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/",
     "title": "[英] Thomson Reuters built its own AI model that now ranks among the best",
     "date": "2026-08-01"
   },
   {
     "link": "https://maurycyz.com/misc/tungsten/",
-    "title": "[英] You have been mislead about lightbulbs",
+    "title": "[英] Increasing the lifespan of a bulb makes it worse in every other way",
     "date": "2026-08-01"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
     "title": "[英] Loops (YC W22) Is Hiring a Product Educator",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
-    "title": "[英] Authorize, don't authenticate",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
-    "title": "[英] Predictive Speculative KV Replication for Bursty LLM Inference",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.28233",
-    "title": "[英] Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://janilowski.pl/en/blog/2026/amodei-memo/",
-    "title": "[英] Dario Amodei's stance on open weights is self-serving and short-sighted",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://cassidoo.co/post/clustering-tiles/",
-    "title": "[英] A simple clustering algorithm for lists",
     "date": "2026-08-01"
   }
 ]
