@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://vitalik.eth.limo/general/2026/07/28/obfuscation_part_ii_diamond_io.html",
+    "title": "[英] Obfuscation (Part II): Diamond IO",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+    "title": "[英] DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cn0nqv05g0do",
+    "title": "[英] Danube's record low levels force shutdown of Hungary's only nuclear plant",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://codeberg.org/goodev/goodev",
+    "title": "[英] Show HN: A udev implementation in Guile Scheme",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "title": "[英] Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://twitter.com/lemire/status/2082851447499088173",
+    "title": "[英] \"the very foundation of modern academia has been blown to bits\"",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://github.com/SphericalCowww/CubicDoggo_06R",
+    "title": "[英] Show HN: Cubic Doggo 06R: 12-DOF 4-Legged Robot with IMU",
+    "date": "2026-07-31"
+  },
+  {
     "link": "https://github.com/mokshablr/gander",
     "title": "[英] Show HN: Gander, an Android file viewer that asks for no permissions at all",
     "date": "2026-07-31"
@@ -37,41 +72,6 @@
   {
     "link": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
     "title": "[英] Where USB Memory Sticks are Born (2013)",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://earendil.com/posts/session-portability/",
-    "title": "[英] The session you cannot take with you",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://greyswansignals.com/?theme=dark",
-    "title": "[英] The AI trade now runs on borrowed money, and the lenders are repricing it",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/",
-    "title": "[英] The bond market isn’t buying what Fed Chair Warsh is selling",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
-    "title": "[英] A California aquifer may have crossed the point of no return",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/",
-    "title": "[英] Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://graybeard.ing/the-religion-of-speed/",
-    "title": "[英] The Religion of Speed",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://moritzhamann.com/blog/2026-07-26-box-drawing-glyphs-on-android.html",
-    "title": "[英] Fixing miss-aligned monospace text in Android browsers",
     "date": "2026-07-31"
   }
 ]
