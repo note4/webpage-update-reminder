@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html",
+    "title": "[英] How A Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://tasklet.ai/careers/customer-success-engineer",
+    "title": "[英] Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://www.engadget.com/2220571/differences-between-imax-70mm/",
+    "title": "[英] IMAX vs. IMAX 70mm: The difference between these two cinema formats",
+    "date": "2026-07-31"
+  },
+  {
     "link": "https://vitalik.eth.limo/general/2026/07/28/obfuscation_part_ii_diamond_io.html",
     "title": "[英] Obfuscation (Part II): Diamond IO",
     "date": "2026-07-31"
@@ -57,21 +72,6 @@
   {
     "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
     "title": "[英] The mean means nothing: data visualization to debug a latency problem",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://human2llm.pages.dev/",
-    "title": "[英] Human Honeypot",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://github.com/openjdk/jdk/pull/31120",
-    "title": "[英] JEP 401: Value Objects (Preview) merged to OpenJDK master",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
-    "title": "[英] Where USB Memory Sticks are Born (2013)",
     "date": "2026-07-31"
   }
 ]

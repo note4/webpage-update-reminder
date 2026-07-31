@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/07/31/cloudmile-ai-agent-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "那些沒人搶著做的 AI 題目，為什麼半年後客戶回頭找我們做？",
+    "date": "2026-07-31 18:18:49"
+  },
+  {
+    "link": "https://techorange.com/2026/07/31/cloudmile-openai-anthropic-fde/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI、Anthropic 都在養的神秘職位 FDE 是什麼？萬里雲用「這個工程概念」讓 AI 落地",
+    "date": "2026-07-31 18:18:07"
+  },
+  {
+    "link": "https://techorange.com/2026/07/31/ai-could-lower-workers-pay-job-market-impact/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 沒搶走工作，卻更難加薪？Apollo 研究：工作容易被 AI 取代的職位，薪資成長下滑 6.7%",
+    "date": "2026-07-31 17:59:46"
+  },
+  {
+    "link": "https://techorange.com/2026/07/31/google-gemini-robotics-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Google Gemini Robotics 2 登場：如何讓人形機器人「餵資料」就能一路變強？",
+    "date": "2026-07-31 17:54:57"
+  },
+  {
     "link": "https://techorange.com/2026/07/31/anthropic-claude-incidents-cybersecurity-evaluations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "OpenAI 才出事，Anthropic 也承認：Claude 測試曾誤駭 3 家公司",
     "date": "2026-07-31 12:38:22"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/07/30/opportunity-in-household-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【家庭 AI 代理崛起】運轉一個家庭比管理一間公司更複雜，SuperNori 想成為 AI 管家",
     "date": "2026-07-30 09:58:12"
-  },
-  {
-    "link": "https://techorange.com/2026/07/30/savis-app/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "三秒複製聲音、一通電話掏空存款，Savi 要用「即時通話監控」反制 AI 詐騙",
-    "date": "2026-07-30 09:37:22"
-  },
-  {
-    "link": "https://techorange.com/2026/07/30/china-duv-us-robot-ban-ai-memory-contracts/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】中國傳啟動國產 DUV、美國封殺中國機器人，AI 供應鏈進入管制與長約戰",
-    "date": "2026-07-30 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/07/29/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "美國封殺中國新型人形機器人、機器狗：宇樹科技首當其衝，禁令能否帶動製造回流？",
-    "date": "2026-07-29 18:03:25"
-  },
-  {
-    "link": "https://techorange.com/2026/07/29/mcp-update-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "MCP 史上最大更新來了：AI Agent 為何終於更適合大規模部署？",
-    "date": "2026-07-29 16:49:04"
   }
 ]
