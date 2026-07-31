@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/",
+    "title": "[英] Thomson Reuters built its own AI model that now ranks among the best",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://maurycyz.com/misc/tungsten/",
+    "title": "[英] You have been mislead about lightbulbs",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://code.intellios.ai/cwbrowser/",
+    "title": "[英] Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+    "date": "2026-08-01"
+  },
+  {
     "link": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
     "title": "[英] Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
     "date": "2026-08-01"
@@ -57,21 +72,6 @@
   {
     "link": "https://cassidoo.co/post/clustering-tiles/",
     "title": "[英] A simple clustering algorithm for lists",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.gao.gov/products/gao-26-108082",
-    "title": "[英] Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://github.com/lerd-env/lerd",
-    "title": "[英] Lerd, an open source Herd-like PHP development environment for Linux and macOS",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
-    "title": "[英] June in Servo: real world compat, media queries, SharedWorker, and more",
     "date": "2026-08-01"
   }
 ]
