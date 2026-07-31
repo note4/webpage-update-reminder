@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://earendil.com/posts/session-portability/",
+    "title": "[英] The Session You Cannot take with you",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://greyswansignals.com/?theme=dark",
+    "title": "[英] The AI trade now runs on borrowed money, and the lenders are repricing it",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/",
+    "title": "[英] The bond market isn't buying what Fed Chair Warsh is selling",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
+    "title": "[英] A California aquifer may have crossed the point of no return",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/",
+    "title": "[英] Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://graybeard.ing/the-religion-of-speed/",
+    "title": "[英] The Religion of Speed",
+    "date": "2026-07-31"
+  },
+  {
+    "link": "https://moritzhamann.com/blog/2026-07-26-box-drawing-glyphs-on-android.html",
+    "title": "[英] Fixing miss-aligned monospace text in Android browsers",
+    "date": "2026-07-31"
+  },
+  {
     "link": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
     "title": "[英] The American Grilled Cheese Sandwich Essay (2024)",
     "date": "2026-07-31"
@@ -37,41 +72,6 @@
   {
     "link": "https://github.com/sawfwair/mere-run",
     "title": "[英] Show HN: Local text, image, video, music and 3D from one CLI, no Python",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
-    "title": "[英] One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758",
-    "title": "[英] I obtained Claude Opus 5 system prompt",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://www.tucsonsentinel.com/local/report/072926_melendez_swatting/man-seeks-millions-after-being-shot-by-pima-deputies-swatting-incident/",
-    "title": "[英] Man seeks millions after being shot by police in game-related swatting incident",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
-    "title": "[英] Bad Apple but It's Traceroute",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://github.com/AminBlg/SimpleEnglish",
-    "title": "[英] Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://github.com/MemoireMorte/Memo-1",
-    "title": "[英] Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
-    "date": "2026-07-31"
-  },
-  {
-    "link": "https://phulin.me/blog/poker/",
-    "title": "[英] Solving poker in custom WebGPU kernels",
     "date": "2026-07-31"
   }
 ]
