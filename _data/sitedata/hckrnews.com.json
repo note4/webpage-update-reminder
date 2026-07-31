@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://janilowski.pl/en/blog/2026/amodei-memo/",
+    "title": "[英] Dario Amodei's stance on open weights is self-serving and short-sighted",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://cassidoo.co/post/clustering-tiles/",
+    "title": "[英] A simple clustering algorithm for lists",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.gao.gov/products/gao-26-108082",
+    "title": "[英] Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://github.com/lerd-env/lerd",
+    "title": "[英] Lerd, an open source Herd-like PHP development environment for Linux and macOS",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "title": "[英] June in Servo: real world compat, media queries, SharedWorker, and more",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/",
+    "title": "[英] AI companies destroy rare and non recoverable physical books",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+    "title": "[英] Using the railway network as a flatbed scanner [video]",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://lcamtuf.substack.com/p/severance",
+    "title": "[英] Severance",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://tailscale.com/blog/hugging-face-intrusion",
+    "title": "[英] Tailscale didn't stop the Hugging Face intrusion",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://jovidecroock.com/blog/referential-stability-types/",
+    "title": "[英] Making Referential Stability a Type",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://github.com/golang/go/issues/80590",
+    "title": "[英] Golang proposal: container/: generic collection types",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.28545",
+    "title": "[英] Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+    "date": "2026-08-01"
+  },
+  {
     "link": "https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup",
     "title": "[英] AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup",
     "date": "2026-08-01"
@@ -10,68 +70,8 @@
     "date": "2026-08-01"
   },
   {
-    "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-    "title": "[英] Everyone is building LLM routers, we deprecated ours",
-    "date": "2026-08-01"
-  },
-  {
     "link": "https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars",
     "title": "[英] How to Survive an Infestation of Toxic Caterpillars",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://github.com/yc-software/qm",
-    "title": "[英] qm",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://hurtle.site/",
-    "title": "[英] Show HN: Slope remade in HTML5 to load instantly on any browser, any device",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://usa.visa.com/partner-with-us/visa-consulting-analytics/economic-insights/great-wealth-transfer-reality-check.html",
-    "title": "[英] The great wealth transfer reality check",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://github.com/sqliteai/waste",
-    "title": "[英] Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-    "title": "[英] Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://cgjennings.ca/articles/jpeg-compression/",
-    "title": "[英] How JPEG works: Interactively explore JPEG's lossy compression methods",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
-    "title": "[英] Miso (YC S16) is hiring for U.S. expansion",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://blog.zernote.com/2gb-user-interviews-into-claude/",
-    "title": "[英] Bypassing Claude's upload limits, 4x (500 MB → 2 GB)",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://privacything.com/en/",
-    "title": "[英] Show HN: I built a cross-browser extension that controls fingerprinting surfaces",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-    "title": "[英] The most official water costs $120k a gallon",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
-    "title": "[英] Why ugly buildings create NIMBYism",
     "date": "2026-08-01"
   }
 ]
