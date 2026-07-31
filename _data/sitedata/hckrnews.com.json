@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup",
+    "title": "[英] AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://github.com/l00sed/termixer",
+    "title": "[英] Termixer (TUI DJ Mixer)",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "title": "[英] Everyone is building LLM routers, we deprecated ours",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars",
+    "title": "[英] How to Survive an Infestation of Toxic Caterpillars",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://github.com/yc-software/qm",
+    "title": "[英] qm",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://hurtle.site/",
+    "title": "[英] Show HN: Slope remade in HTML5 to load instantly on any browser, any device",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://usa.visa.com/partner-with-us/visa-consulting-analytics/economic-insights/great-wealth-transfer-reality-check.html",
+    "title": "[英] The great wealth transfer reality check",
+    "date": "2026-08-01"
+  },
+  {
     "link": "https://github.com/sqliteai/waste",
     "title": "[英] Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
     "date": "2026-08-01"
@@ -37,41 +72,6 @@
   {
     "link": "https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
     "title": "[英] Why ugly buildings create NIMBYism",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://driftformac.app/",
-    "title": "[英] I built a f.lux alternative because the M5 Max firmware broke existing solutions",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://swe-rebench.com",
-    "title": "[英] 13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49124444",
-    "title": "[英] undefined",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://secretspec.dev/blog/where-env-went-wrong/",
-    "title": "[英] Where .env Went Wrong",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making",
-    "title": "[英] The Art of Decision-Making (2019)",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-    "title": "[英] Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://uml.gpmai.workers.dev",
-    "title": "[英] Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
     "date": "2026-08-01"
   }
 ]
