@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+    "title": "[英] EU will mandate labels on authentic-looking AI content starting August 2",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/",
+    "title": "[英] AWS Secrets Manager Terraform: Least-Privilege Access",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://paulgraham.com/greatwork.html",
+    "title": "[英] How to Do Great Work",
+    "date": "2026-08-01"
+  },
+  {
     "link": "https://openai-git-upstream.openai.chatgpt.site/",
     "title": "[英] OpenAI's work on Git for large repositories",
     "date": "2026-08-01"
@@ -15,13 +30,13 @@
     "date": "2026-08-01"
   },
   {
-    "link": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/",
-    "title": "[英] Simon Willison on DeepSeek-V4-Flash-0731",
+    "link": "https://ramen.haus/",
+    "title": "[英] RamenHaus",
     "date": "2026-08-01"
   },
   {
-    "link": "https://ramen.haus/",
-    "title": "[英] RamenHaus",
+    "link": "https://news.ycombinator.com/item?id=49132468",
+    "title": "[英] undefined",
     "date": "2026-08-01"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://indevelopmentmag.com/numbers-man/",
     "title": "[英] History remembers two Robert McNamaras",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://innig.net/teaching/liberal-arts-manifesto",
-    "title": "[英] What liberal arts education is for (2024)",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/",
-    "title": "[英] Firefighter arson a long-standing issue – expert",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
-    "title": "[英] Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
     "date": "2026-08-01"
   }
 ]
