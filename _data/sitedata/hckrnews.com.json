@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+    "title": "[英] Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://minimaxh3.art/blog/what-is-minimax-h3",
+    "title": "[英] What Is MiniMax H3? Everything You Need to Know About the Hailuo 3.0 Video Model",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://piegames.de/dumps/a-week-in-matrix/",
+    "title": "[英] A Week in Matrix",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+    "title": "[英] BMW Spider-Man in-car advertising",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+    "title": "[英] The development pipeline is a production system",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.johndcook.com/blog/2026/07/27/float-binary/",
+    "title": "[英] Printing floating point numbers in binary",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.infoq.com/presentations/archaeopteryx-bowkett/",
+    "title": "[英] Archaeopteryx: A Ruby MIDI Generator [video]",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://microsoft.github.io/flint-chart/",
+    "title": "[英] Flint: A Visualization Language for the AI Era",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.ajwaxman.com/writing/software-for-one",
+    "title": "[英] Software for One",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "title": "[英] How to Exist",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.digitaldigging.org/p/nano-banana-2-removed-from-google",
+    "title": "[英] Nano Banana 2 removed from Google Earth",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
+    "title": "[英] How far can you push the range of Wi-Fi connectivity in an ideal environment?",
+    "date": "2026-08-01"
+  },
+  {
     "link": "https://github.com/elmiram/anime-professions",
     "title": "[英] Anime Professions",
     "date": "2026-08-01"
@@ -12,66 +72,6 @@
   {
     "link": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
     "title": "[英] The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://newleftreview.org/sidecar/posts/hope-and-defeat",
-    "title": "[英] Hope and Defeat: John Berger",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
-    "title": "[英] Britain's New World of Tobacco (2017)",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.cabinetmagazine.org/issues/70/kofen.php",
-    "title": "[英] A past and future of trade secrets",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-    "title": "[英] The Absurdity of Albert Camus",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/",
-    "title": "[英] Thomson Reuters built its own AI model that now ranks among the best",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://maurycyz.com/misc/tungsten/",
-    "title": "[英] Increasing the lifespan of a bulb makes it worse in every other way",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://code.intellios.ai/cwbrowser/",
-    "title": "[英] Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
-    "title": "[英] Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://weeraman.com/because-we-can/",
-    "title": "[英] Twenty-five years ago it was cryptography, today it's model weights",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://softwaredoug.com/blog/2026/07/29/just-brute-force-embeddings",
-    "title": "[英] Just brute force your embeddings",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://zserge.com/posts/worst-htmx-ever/",
-    "title": "[英] Let's make the worst Htmx",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://arielsalminen.com/2026/progressive-web-components/",
-    "title": "[英] Progressive Web Components",
     "date": "2026-08-01"
   }
 ]
