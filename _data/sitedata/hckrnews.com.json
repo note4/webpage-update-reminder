@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
+    "title": "[英] Just because a game is on disc doesn't mean it will work in the future",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.dailymail.com/news/article-16021741/flee-Americans-nine-countries-US-embassies-Iran-war.html",
+    "title": "[英] Get ready to flee, Americans in ten countries warned",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
+    "title": "[英] CISA Alert: Water Sector PLC Targeting",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+    "title": "[英] But can your calculator run Linux?",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Fermi_paradox",
+    "title": "[英] Fermi Paradox",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+    "title": "[英] How Google helped destroy adoption of RSS feeds (2023)",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://github.com/adamtwiss/coda/issues/15",
+    "title": "[英] Chess Engine Dev Community Openly Hostile to AI Assisted Development",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf",
+    "title": "[英] Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+    "title": "[英] Google News is just Forrest Gump's shrimp boat now",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions",
+    "title": "[英] Top amputation surgeon had own legs removed due to fetish. Were patients safe?",
+    "date": "2026-08-02"
+  },
+  {
     "link": "https://en.wikipedia.org/wiki/Nyctography",
     "title": "[英] Nyctography: A substituton cypher by Lewis Carroll",
     "date": "2026-08-02"
@@ -22,56 +72,6 @@
   {
     "link": "https://franken.domains/",
     "title": "[英] Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-    "title": "[英] NetBSD 11.0 Released",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
-    "title": "[英] Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://glyphsapp.com",
-    "title": "[英] Glyphs 4 – the leading Mac font editor",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49136134",
-    "title": "[英] undefined",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://khessin.de/twelve-years-without-a-vpn/",
-    "title": "[英] Twelve Years Without a VPN",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/",
-    "title": "[英] BMW Is Showing Commercials on Their Car's Dash Screens as a Treat",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html",
-    "title": "[英] Floundering A.I. 'Nostradamus' Hedge Fund Is Rescued by Rival",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://github.com/paradise-runner/toast",
-    "title": "[英] Toast IDE Gets Markdown Spell Checking",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://twitter.com/stalkermustang/status/2083485500250198453",
-    "title": "[英] Assessment of open AI math results",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://kaisel.dev/",
-    "title": "[英] Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
     "date": "2026-08-02"
   }
 ]
