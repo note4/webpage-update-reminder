@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://pubdeer.com/",
+    "title": "[英] Astro Loop",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+    "title": "[英] Google kills Earth AI generator after one day",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/2AX2BCJ3EQX7G3YXSDX73BR4NCAWXXBZ/",
+    "title": "[英] Morten Linderud resigning from Arch Linux development team",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49133617",
+    "title": "[英] undefined",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49133672",
+    "title": "[英] undefined",
+    "date": "2026-08-01"
+  },
+  {
     "link": "https://github.com/BurntSushi/ripgrep/issues/3494",
     "title": "[英] RipGrep musl binaries occasionally segfault during very-large searches",
     "date": "2026-08-01"
@@ -30,13 +55,13 @@
     "date": "2026-08-01"
   },
   {
-    "link": "https://paulgraham.com/greatwork.html",
-    "title": "[英] How to Do Great Work (2023)",
+    "link": "https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/",
+    "title": "[英] AWS Secrets Manager Terraform: Least-Privilege Access",
     "date": "2026-08-01"
   },
   {
-    "link": "https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/",
-    "title": "[英] AWS Secrets Manager Terraform: Least-Privilege Access",
+    "link": "https://paulgraham.com/greatwork.html",
+    "title": "[英] How to Do Great Work (2023)",
     "date": "2026-08-01"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
     "title": "[英] Solid Queue 1.6.0 now supports fiber workers",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://weeraman.com/the-prototype-isnt-the-product/",
-    "title": "[英] AI doesn't generate working products, that's still your job",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://ramen.haus/",
-    "title": "[英] RamenHaus",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49132468",
-    "title": "[英] undefined",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://gmic.eu/gmic40/",
-    "title": "[英] G'mic 4.0: Squaring the Pixel, Easier",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://openai.com/index/ten-advances-in-mathematics/",
-    "title": "[英] Ten advances in mathematics and theoretical computer science",
     "date": "2026-08-01"
   }
 ]
