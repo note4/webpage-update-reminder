@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Nyctography",
+    "title": "[英] Nyctography: A substituton cypher by Lewis Carroll",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
+    "title": "[英] Oil companies report sky-high profits thanks to wartime crude prices",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+    "title": "[英] Postmortem for Kernel Soundness Bug #14576",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49136990",
+    "title": "[英] Tell HN: I hate your fuzzy search",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://franken.domains/",
+    "title": "[英] Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+    "title": "[英] NetBSD 11.0 Released",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
+    "title": "[英] Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://glyphsapp.com",
+    "title": "[英] Glyphs 4 – the leading Mac font editor",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49136134",
+    "title": "[英] undefined",
+    "date": "2026-08-02"
+  },
+  {
     "link": "https://khessin.de/twelve-years-without-a-vpn/",
     "title": "[英] Twelve Years Without a VPN",
     "date": "2026-08-02"
@@ -27,51 +72,6 @@
   {
     "link": "https://kaisel.dev/",
     "title": "[英] Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://chreke.com/posts/i-fired-my-ai-assistant",
-    "title": "[英] I Fired My AI Assitant",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-    "title": "[英] A directory of people who love RSS",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://donutdns.com",
-    "title": "[英] DNS propagation checker that shows the results as a box of 24 donuts",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://rjp.io/blog/2026-07-19-register-deprivation",
-    "title": "[英] Register deprivation: spills and runtime under forced register scarcity",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49135174",
-    "title": "[英] Ask HN: Any tips for a college freshman enrolled in computer science?",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://brandur.org/fragments/pgtestdb",
-    "title": "[英] Pgtestdb's template cloning approach to testing is fast",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://play.crystalwars.io",
-    "title": "[英] Crystal Wars – turn-based strategy on a fresh Voronoi map every match",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html",
-    "title": "[英] Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries",
-    "title": "[英] Indexing the Data Lake for Online Point Queries",
     "date": "2026-08-02"
   }
 ]
