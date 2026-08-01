@@ -1,7 +1,52 @@
 [
   {
+    "link": "https://openai-git-upstream.openai.chatgpt.site/",
+    "title": "[英] OpenAI's work on Git for large repositories",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
+    "title": "[英] Solid Queue 1.6.0 now supports fiber workers",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://weeraman.com/the-prototype-isnt-the-product/",
+    "title": "[英] AI doesn't generate working products, that's still your job",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/",
+    "title": "[英] Simon Willison on DeepSeek-V4-Flash-0731",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://ramen.haus/",
+    "title": "[英] RamenHaus",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://gmic.eu/gmic40/",
+    "title": "[英] G'mic 4.0: Squaring the Pixel, Easier",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://openai.com/index/ten-advances-in-mathematics/",
+    "title": "[英] Ten advances in mathematics and theoretical computer science",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery",
+    "title": "[英] When Internal Memory Fails: A No-Solder Wii U Recovery",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://economist.com/europe/2026/07/31/a-migrant-surge-tests-spains-open-policies",
+    "title": "[英] A migrant surge tests Spain's open policies",
+    "date": "2026-08-01"
+  },
+  {
     "link": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-    "title": "[英] By billboards for over 100 years, holdout building by Macy's is back",
+    "title": "[英] A tiny holdout building in the middle of Macy’s is back in view",
     "date": "2026-08-01"
   },
   {
@@ -16,7 +61,7 @@
   },
   {
     "link": "https://innig.net/teaching/liberal-arts-manifesto",
-    "title": "[英] What Liberal Arts Education Is for (2024)",
+    "title": "[英] What liberal arts education is for (2024)",
     "date": "2026-08-01"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
     "title": "[英] Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://minimaxh3.art/blog/what-is-minimax-h3",
-    "title": "[英] What Is MiniMax H3? Everything You Need to Know About the Hailuo 3.0 Video Model",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://piegames.de/dumps/a-week-in-matrix/",
-    "title": "[英] A Week in Matrix",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
-    "title": "[英] BMW Spider-Man in-car advertising",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-    "title": "[英] The development pipeline is a production system",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.johndcook.com/blog/2026/07/27/float-binary/",
-    "title": "[英] Printing floating point numbers in binary",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.infoq.com/presentations/archaeopteryx-bowkett/",
-    "title": "[英] Archaeopteryx: A Ruby MIDI Generator [video]",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://microsoft.github.io/flint-chart/",
-    "title": "[英] Flint: A Visualization Language for the AI Era",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.ajwaxman.com/writing/software-for-one",
-    "title": "[英] Software for One",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "title": "[英] How to Exist",
     "date": "2026-08-01"
   }
 ]
