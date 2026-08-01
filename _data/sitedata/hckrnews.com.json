@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://chreke.com/posts/i-fired-my-ai-assistant",
+    "title": "[英] I Fired My AI Assitant",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://kaisel.dev/",
+    "title": "[英] Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+    "title": "[英] I ♥ RSS – A directory of people who love RSS",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://donutdns.com",
+    "title": "[英] DNS propagation checker that shows the results as a box of 24 donuts",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://rjp.io/blog/2026-07-19-register-deprivation",
+    "title": "[英] Register deprivation: spills and runtime under forced register scarcity",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49135174",
+    "title": "[英] Ask HN: Any tips for a college freshman enrolled in computer science?",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://brandur.org/fragments/pgtestdb",
+    "title": "[英] Pgtestdb's template cloning approach to testing is fast",
+    "date": "2026-08-02"
+  },
+  {
     "link": "https://play.crystalwars.io",
     "title": "[英] Crystal Wars – turn-based strategy on a fresh Voronoi map every match",
     "date": "2026-08-02"
@@ -37,41 +72,6 @@
   {
     "link": "https://news.yale.edu/2026/07/23/study-uncovers-lost-golden-age-languages",
     "title": "[英] Study uncovers lost 'golden age' of languages",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://nostarch.com/art-64-bit-assembly-v2",
-    "title": "[英] The Art of 64-bit Assembly",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/",
-    "title": "[英] Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
-    "title": "[英] How to Spot AI Writing",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-    "title": "[英] A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://github.com/GrieferPig/esp32-s31-linux",
-    "title": "[英] Linux on ESP32",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://pubdeer.com/",
-    "title": "[英] Astro Loop",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-    "title": "[英] Google kills Earth AI generator after one day",
     "date": "2026-08-02"
   }
 ]
