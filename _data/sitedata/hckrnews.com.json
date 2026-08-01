@@ -1,7 +1,27 @@
 [
   {
-    "link": "https://chreke.com/posts/i-fired-my-ai-assistant",
-    "title": "[英] I Fired My AI Assitant",
+    "link": "https://khessin.de/twelve-years-without-a-vpn/",
+    "title": "[英] Twelve Years Without a VPN",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/",
+    "title": "[英] BMW Is Showing Commercials on Their Car's Dash Screens as a Treat",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html",
+    "title": "[英] Floundering A.I. 'Nostradamus' Hedge Fund Is Rescued by Rival",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://github.com/paradise-runner/toast",
+    "title": "[英] Toast IDE Gets Markdown Spell Checking",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://twitter.com/stalkermustang/status/2083485500250198453",
+    "title": "[英] Assessment of open AI math results",
     "date": "2026-08-02"
   },
   {
@@ -10,8 +30,13 @@
     "date": "2026-08-02"
   },
   {
+    "link": "https://chreke.com/posts/i-fired-my-ai-assistant",
+    "title": "[英] I Fired My AI Assitant",
+    "date": "2026-08-02"
+  },
+  {
     "link": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-    "title": "[英] I ♥ RSS – A directory of people who love RSS",
+    "title": "[英] A directory of people who love RSS",
     "date": "2026-08-02"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries",
     "title": "[英] Indexing the Data Lake for Online Point Queries",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-    "title": "[英] Explorative modeling: Train on the best of K guesses",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-    "title": "[英] Cursor removed cost information from the usage page and CSV export",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://lalitm.com/post/github-alternatives/",
-    "title": "[英] GitHub has alternatives, but no replacement",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-    "title": "[英] Charlie Stross – On the non-use of AI in my writing process",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://news.yale.edu/2026/07/23/study-uncovers-lost-golden-age-languages",
-    "title": "[英] Study uncovers lost 'golden age' of languages",
     "date": "2026-08-02"
   }
 ]
