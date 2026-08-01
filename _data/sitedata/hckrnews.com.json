@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+    "title": "[英] Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+    "title": "[英] The Silicon Valley Founder Meat Grinder",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://diataxis.fr/",
+    "title": "[英] Diátaxis",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://danvilela.com/squirrel-up",
+    "title": "[英] I made Squirrel game with Flutter and Flame",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://episko.dev/",
+    "title": "[英] Show HN: Cockpit for you Claude Code agents in Rust",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
+    "title": "[英] Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
+    "date": "2026-08-02"
+  },
+  {
     "link": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
     "title": "[英] Just because a game is on disc doesn't mean it will work in the future",
     "date": "2026-08-02"
@@ -25,6 +55,11 @@
     "date": "2026-08-02"
   },
   {
+    "link": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf",
+    "title": "[英] Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
+    "date": "2026-08-02"
+  },
+  {
     "link": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
     "title": "[英] How Google helped destroy adoption of RSS feeds (2023)",
     "date": "2026-08-02"
@@ -35,43 +70,8 @@
     "date": "2026-08-02"
   },
   {
-    "link": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf",
-    "title": "[英] Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
-    "date": "2026-08-02"
-  },
-  {
     "link": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-    "title": "[英] Google News is just Forrest Gump's shrimp boat now",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions",
-    "title": "[英] Top amputation surgeon had own legs removed due to fetish. Were patients safe?",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Nyctography",
-    "title": "[英] Nyctography: A substituton cypher by Lewis Carroll",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
-    "title": "[英] Oil companies report sky-high profits thanks to wartime crude prices",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-    "title": "[英] Postmortem for Kernel Soundness Bug #14576",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49136990",
-    "title": "[英] Tell HN: I hate your fuzzy search",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://franken.domains/",
-    "title": "[英] Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
+    "title": "[英] Google has abandoned Google News?",
     "date": "2026-08-02"
   }
 ]
