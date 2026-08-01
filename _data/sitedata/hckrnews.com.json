@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://github.com/elmiram/anime-professions",
+    "title": "[英] Anime Professions",
+    "date": "2026-08-01"
+  },
+  {
+    "link": "https://inpractice.yimbyaction.org/p/that-viral-photo-of-san-francisco",
+    "title": "[英] That Viral Photo of San Francisco NIMBYs Shows Why Housing Is Winning",
+    "date": "2026-08-01"
+  },
+  {
     "link": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
     "title": "[英] The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
     "date": "2026-08-01"
@@ -62,16 +72,6 @@
   {
     "link": "https://arielsalminen.com/2026/progressive-web-components/",
     "title": "[英] Progressive Web Components",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
-    "title": "[英] Show HN: How to build and self-host a code review agent",
-    "date": "2026-08-01"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
-    "title": "[英] Loops (YC W22) Is Hiring a Product Educator",
     "date": "2026-08-01"
   }
 ]
