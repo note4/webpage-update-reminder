@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://github.com/paoloanzn/microcodex",
+    "title": "[英] Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
+    "title": "[英] Read the Novels and Forget Everything Else",
+    "date": "2026-08-03"
+  },
+  {
     "link": "https://wireguardtcp.net/",
     "title": "[英] WireguardTCP: WireGuard over TCP",
     "date": "2026-08-03"
@@ -55,23 +65,13 @@
     "date": "2026-08-03"
   },
   {
+    "link": "https://blog.semenzin.com/let-the-machines-in/",
+    "title": "[英] Let the machines in",
+    "date": "2026-08-03"
+  },
+  {
     "link": "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys",
     "title": "[英] Anthropic's Fever Dream: Claude's package that stole real keys",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
-    "title": "[英] Sharing an X11 Server Across Hosts with FamilyWild",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://blog.semenzin.com/let-the-machines-in/",
-    "title": "[英] Let the Machines In",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://www.wevolver.com/article/schmitt-trigger-robust-comparator-design-with-hysteresis",
-    "title": "[英] Schmitt Trigger: Robust Comparator Design with Hysteresis",
     "date": "2026-08-03"
   }
 ]
