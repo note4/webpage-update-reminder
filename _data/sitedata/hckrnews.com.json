@@ -1,17 +1,52 @@
 [
   {
+    "link": "https://github.com/nyvexis1/temporize",
+    "title": "[英] I made a Promise-aware debounce and throttle library for TypeScript",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49143315",
+    "title": "[英] undefined",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://fstar-lang.org/",
+    "title": "[英] F*: A general-purpose proof-oriented programming language",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/",
+    "title": "[英] ESP32-C3 SuperMini antenna modification",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://foldingglobes.com/globes",
+    "title": "[英] Folding Paper Globes",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived",
+    "title": "[英] Has the New Cocaine Arrived?",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+    "title": "[英] Twenty Years of RISC OS Open",
+    "date": "2026-08-02"
+  },
+  {
     "link": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
     "title": "[英] The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
     "date": "2026-08-02"
   },
   {
-    "link": "https://github.com/kamalfarahani/katharos",
-    "title": "[英] Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+    "link": "https://fuselang.org",
+    "title": "[英] Show HN: Fuse – statically typed functional programming language",
     "date": "2026-08-02"
   },
   {
-    "link": "https://fuselang.org",
-    "title": "[英] Show HN: Fuse – statically typed functional programming language",
+    "link": "https://github.com/kamalfarahani/katharos",
+    "title": "[英] Show HN: Katharos Functional programming and CSP-style concurrency for Python",
     "date": "2026-08-02"
   },
   {
@@ -25,53 +60,18 @@
     "date": "2026-08-02"
   },
   {
-    "link": "https://meshdiff.com/",
-    "title": "[英] Meshdiff – visually compare two STL versions in the browser, client-side",
-    "date": "2026-08-02"
-  },
-  {
     "link": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
     "title": "[英] Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
     "date": "2026-08-02"
   },
   {
+    "link": "https://meshdiff.com/",
+    "title": "[英] Meshdiff – visually compare two STL versions in the browser, client-side",
+    "date": "2026-08-02"
+  },
+  {
     "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
     "title": "[英] Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.20349",
-    "title": "[英] Generative AI floods and dilutes the market for books",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://holocloth.vercel.app",
-    "title": "[英] Holocloth",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
-    "title": "[英] US Treasury undertakes historic intervention in yen market",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html",
-    "title": "[英] Is the Industrial Revolution a good precedent for explosive growth today?",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://publicdomainreview.org/essay/ars-notoria/",
-    "title": "[英] Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://maze.toys",
-    "title": "[英] Maze Toys",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-    "title": "[英] Show HN: Bor – Open-source policy management for Linux desktops",
     "date": "2026-08-02"
   }
 ]
