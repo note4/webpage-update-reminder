@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+    "title": "[英] Harvesting SSH Credentials: Insights from My Honeypot Network",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594",
+    "title": "[英] The Coldcard Disaster Gets Worse: The Hack May Have Reached $88.6M",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+    "title": "[英] Developers are attached to tools because tools encode trust",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/",
+    "title": "[英] Linux Desktop Market Share Surpasses 10% in North America",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
+    "title": "[英] Pushes to arch AUR are suspendended right now.",
+    "date": "2026-08-03"
+  },
+  {
     "link": "https://ge97.com/",
     "title": "[英] GE-97 Terminal: The Old Internet",
     "date": "2026-08-03"
@@ -21,7 +46,7 @@
   },
   {
     "link": "https://letterformarchive.org/news/milwaukee-transit-passes/",
-    "title": "[英] When transit passes were designed by hand",
+    "title": "[英] When transit passes were designed by hand (2022)",
     "date": "2026-08-03"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://seinfeld.visualisingdata.com/",
     "title": "[英] The Seinfeld Chronicles: Digital Edition",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://16-bits.org/ft2.php",
-    "title": "[英] Fasttracker II clone in C using SDL 2",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
-    "title": "[英] Rust All Hands 2026 Retrospective",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://github.com/nyvexis1/temporize",
-    "title": "[英] I made a Promise-aware debounce and throttle library for TypeScript",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49143315",
-    "title": "[英] undefined",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://fstar-lang.org/",
-    "title": "[英] F*: A general-purpose proof-oriented programming language",
     "date": "2026-08-03"
   }
 ]
