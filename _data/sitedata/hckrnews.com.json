@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
+    "title": "[英] The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://github.com/kamalfarahani/katharos",
+    "title": "[英] Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://fuselang.org",
+    "title": "[英] Show HN: Fuse – statically typed functional programming language",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://website-auditor.io/ai-visibility-index",
+    "title": "[英] Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://twitter.com/polynoamial/status/2083467194663571701",
+    "title": "[英] An internal OpenAI Astra model solved 10 major open math and CS problems",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://meshdiff.com/",
+    "title": "[英] Meshdiff – visually compare two STL versions in the browser, client-side",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+    "title": "[英] Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+    "title": "[英] Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+    "date": "2026-08-02"
+  },
+  {
     "link": "https://arxiv.org/abs/2607.20349",
     "title": "[英] Generative AI floods and dilutes the market for books",
     "date": "2026-08-02"
@@ -32,46 +72,6 @@
   {
     "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
     "title": "[英] Show HN: Bor – Open-source policy management for Linux desktops",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://borretti.me/article/mathematics-without-mathematicians",
-    "title": "[英] Mathematics Without Mathematicians",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
-    "title": "[英] IBM i (OS/400) the Database Operating System",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://agent4lease.com/",
-    "title": "[英] Agent4Lease",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cpw9q0ekd9eo",
-    "title": "[英] Police in the US are making their own true crime podcasts",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://cyberscript.dev",
-    "title": "[英] Cyberscript",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://github.com/syncular/syncular",
-    "title": "[英] Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
-    "title": "[英] Drug reverses autism-like brain changes in adult mice within hours",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://clickhouse.com/blog/espresso-machine-observability-with-otel",
-    "title": "[英] Instrumenting my espresso machine with OpenTelemetry",
     "date": "2026-08-02"
   }
 ]
