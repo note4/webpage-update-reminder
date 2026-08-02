@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+    "title": "[英] Show HN: Bor – Open-source policy management for Linux desktops",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://agent4lease.com/",
+    "title": "[英] Agent4Lease",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
+    "title": "[英] IBM i (OS/400) the Database Operating System",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cpw9q0ekd9eo",
+    "title": "[英] Police in the US are making their own true crime podcasts",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://borretti.me/article/mathematics-without-mathematicians",
+    "title": "[英] Mathematics Without Mathematicians",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://cyberscript.dev",
+    "title": "[英] Cyberscript",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://github.com/syncular/syncular",
+    "title": "[英] Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
+    "title": "[英] Drug reverses autism-like brain changes in adult mice within hours",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://clickhouse.com/blog/espresso-machine-observability-with-otel",
+    "title": "[英] Instrumenting my espresso machine with OpenTelemetry",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://mastodon.online/@mwichary/117023736804129342",
+    "title": "[英] The time filter in Google Search broke a few days ago",
+    "date": "2026-08-02"
+  },
+  {
     "link": "https://sinusoft.com/loganbasic/",
     "title": "[英] Show HN: Logan Basic v2.1 - An online BASIC interpreter.",
     "date": "2026-08-02"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals",
     "title": "[英] Nerd culture is murdering intellectuals",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/",
-    "title": "[英] Australia's social media ban has failed",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
-    "title": "[英] A big win for Android interoperability",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://elenajs.com/",
-    "title": "[英] Elena, a library for building Progressive Web Components",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://thehub.ca/2026/04/03/can-anyone-solve-canadas-brain-drain-problem/",
-    "title": "[英] Canadians are leaving the country at record levels. Can anyone solve this?",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://khz.ac/low-voltage/drive-failure.html",
-    "title": "[英] P[drive failure]: how reliable is your NAS?",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://yarchive.net/comp/128bit.html",
-    "title": "[英] The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
-    "title": "[英] Don't credit the LLM",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-    "title": "[英] Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://philarchive.org/archive/NIEWTCv17",
-    "title": "[英] OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/",
-    "title": "[英] The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes",
     "date": "2026-08-02"
   }
 ]
