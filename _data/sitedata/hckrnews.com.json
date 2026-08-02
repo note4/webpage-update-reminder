@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://pudding.cool/2026/07/essential-words/",
+    "title": "[英] How the words we teach English language learners changed",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872",
+    "title": "[英] Norway Salmon",
+    "date": "2026-08-03"
+  },
+  {
     "link": "https://www.ursulakleguin.com/a-rant-about-technology",
-    "title": "[英] Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
-    "date": "2026-08-02"
+    "title": "[英] A Rant About “Technology” (2005)",
+    "date": "2026-08-03"
   },
   {
     "link": "https://seinfeld.visualisingdata.com/",
     "title": "[英] The Seinfeld Chronicles: Digital Edition",
-    "date": "2026-08-02"
+    "date": "2026-08-03"
   },
   {
     "link": "https://16-bits.org/ft2.php",
     "title": "[英] Fasttracker II clone in C using SDL 2",
-    "date": "2026-08-02"
+    "date": "2026-08-03"
   },
   {
     "link": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
     "title": "[英] Rust All Hands 2026 Retrospective",
-    "date": "2026-08-02"
+    "date": "2026-08-03"
   },
   {
     "link": "https://github.com/nyvexis1/temporize",
     "title": "[英] I made a Promise-aware debounce and throttle library for TypeScript",
-    "date": "2026-08-02"
+    "date": "2026-08-03"
   },
   {
     "link": "https://news.ycombinator.com/item?id=49143315",
     "title": "[英] undefined",
-    "date": "2026-08-02"
+    "date": "2026-08-03"
   },
   {
     "link": "https://fstar-lang.org/",
     "title": "[英] F*: A general-purpose proof-oriented programming language",
-    "date": "2026-08-02"
+    "date": "2026-08-03"
   },
   {
     "link": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/",
     "title": "[英] ESP32-C3 SuperMini antenna modification",
-    "date": "2026-08-02"
+    "date": "2026-08-03"
   },
   {
     "link": "https://foldingglobes.com/globes",
     "title": "[英] Folding Paper Globes",
-    "date": "2026-08-02"
+    "date": "2026-08-03"
   },
   {
     "link": "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived",
     "title": "[英] Has the New Cocaine Arrived?",
-    "date": "2026-08-02"
+    "date": "2026-08-03"
   },
   {
     "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
     "title": "[英] Twenty Years of RISC OS Open",
-    "date": "2026-08-02"
+    "date": "2026-08-03"
   },
   {
     "link": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
     "title": "[英] The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://fuselang.org",
-    "title": "[英] Show HN: Fuse – statically typed functional programming language",
-    "date": "2026-08-02"
+    "date": "2026-08-03"
   },
   {
     "link": "https://github.com/kamalfarahani/katharos",
     "title": "[英] Show HN: Katharos Functional programming and CSP-style concurrency for Python",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://website-auditor.io/ai-visibility-index",
-    "title": "[英] Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-    "date": "2026-08-02"
+    "date": "2026-08-03"
   }
 ]
