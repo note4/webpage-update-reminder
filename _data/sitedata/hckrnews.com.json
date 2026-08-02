@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://sinusoft.com/loganbasic/",
+    "title": "[英] Show HN: Logan Basic v2.1 - An online BASIC interpreter.",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+    "title": "[英] I don't recommend Tailwind CSS",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://soundtonegenerator.com/",
+    "title": "[英] Show HN: Tone Generator",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://github.com/trycompai/crm",
+    "title": "[英] CRM: An open-source, agentic-first CRM",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals",
+    "title": "[英] Nerd culture is murdering intellectuals",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/",
+    "title": "[英] Australia's social media ban has failed",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+    "title": "[英] A big win for Android interoperability",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://elenajs.com/",
+    "title": "[英] Elena, a library for building Progressive Web Components",
+    "date": "2026-08-02"
+  },
+  {
     "link": "https://thehub.ca/2026/04/03/can-anyone-solve-canadas-brain-drain-problem/",
     "title": "[英] Canadians are leaving the country at record levels. Can anyone solve this?",
     "date": "2026-08-02"
@@ -32,46 +72,6 @@
   {
     "link": "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/",
     "title": "[英] The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
-    "title": "[英] Linux desktop market share has hit over 10% in North America",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific",
-    "title": "[英] Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/czrjyevmv61o",
-    "title": "[英] The teenage hitmen recruited to kill across Europe",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.theparisreview.org/blog/2026/07/29/the-theater-of-sport-bill-buford-revisits-among-the-thugs/",
-    "title": "[英] The Theater of Sport: Bill Buford Revisits Among the Thugs",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
-    "title": "[英] Plug-in solar is coming. Plug-in batteries should follow",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-    "title": "[英] MkLinux and the pimped-out Apple Workgroup Server 9150",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49140713",
-    "title": "[英] undefined",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
-    "title": "[英] When random.bytes() runs but doesn't work",
     "date": "2026-08-02"
   }
 ]
