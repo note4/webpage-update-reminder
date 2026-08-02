@@ -1,12 +1,37 @@
 [
   {
+    "link": "https://www.rfc-editor.org/rfc/rfc10015.html",
+    "title": "[英] RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.droppedasbaby.com/posts/db-commits/",
+    "title": "[英] A stray commit buried multiple levels deep cost me months",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://github.com/nooneknowspeter/legionlinuxtui",
+    "title": "[英] Show HN: Legionlinuxtui – Control Lenovo legion laptops in the terminal",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://animeuserinterface.tumblr.com",
+    "title": "[英] Anime User Interfaces",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+    "title": "[英] Unraveling the mysteries of habit formation",
+    "date": "2026-08-02"
+  },
+  {
     "link": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-    "title": "[英] \"Everyone Has Been Sold a Lie\" on AI",
+    "title": "[英] Zitron: \"Everyone Has Been Sold a Lie\" on AI",
     "date": "2026-08-02"
   },
   {
     "link": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
-    "title": "[英] Morph (YC S23) Is Hiring Member of Technical Stuff",
+    "title": "[英] Morph (YC S23) Is Hiring Member of Technical Staff",
     "date": "2026-08-02"
   },
   {
@@ -16,7 +41,7 @@
   },
   {
     "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-    "title": "[英] From MIT: AI financial advice is surprisingly good",
+    "title": "[英] AI financial advice is surprisingly good if you ask the right questions",
     "date": "2026-08-02"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://diataxis.fr/",
     "title": "[英] Diátaxis",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://danvilela.com/squirrel-up",
-    "title": "[英] I made Squirrel game with Flutter and Flame",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://episko.dev/",
-    "title": "[英] Show HN: Cockpit for you Claude Code agents in Rust",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-    "title": "[英] Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
-    "title": "[英] Just because a game is on disc doesn't mean it will work in the future",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.dailymail.com/news/article-16021741/flee-Americans-nine-countries-US-embassies-Iran-war.html",
-    "title": "[英] Get ready to flee, Americans in ten countries warned",
     "date": "2026-08-02"
   }
 ]
