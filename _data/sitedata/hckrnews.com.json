@@ -1,7 +1,42 @@
 [
   {
+    "link": "https://frogs.vaguespac.es/",
+    "title": "[英] My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
+    "title": "[英] Europe EV Sales BEVs Jump 50% & Reach 26% Market Share",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597",
+    "title": "[英] German carmakers flood jobs market with managers after wielding axe",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+    "title": "[英] 'Crush this lady': how eBay harassment campaign led to $56M payout",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/23/magazine/google-it-search-it-up.html",
+    "title": "[英] Saying 'Google It' Makes You Sound Old",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+    "title": "[英] EU rules on AI models become enforceable. What's going to change?",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+    "title": "[英] Note-Taking and Personal Knowledge Management",
+    "date": "2026-08-03"
+  },
+  {
     "link": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
-    "title": "[英] SwiftUI After 7 Years: A Story of Mediocrity",
+    "title": "[英] SwiftUI After 7 Years",
     "date": "2026-08-03"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
     "title": "[英] Developers are attached to tools because tools encode trust",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/",
-    "title": "[英] Linux Desktop Market Share Surpasses 10% in North America",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
-    "title": "[英] Pushes to arch AUR are suspendended right now.",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://ge97.com/",
-    "title": "[英] GE-97 Terminal: The Old Internet",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://github.com/graham33/nixos-dgx-spark",
-    "title": "[英] Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://github.com/wie-project/kakehashi",
-    "title": "[英] Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-    "title": "[英] Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://letterformarchive.org/news/milwaukee-transit-passes/",
-    "title": "[英] When transit passes were designed by hand (2022)",
     "date": "2026-08-03"
   }
 ]
