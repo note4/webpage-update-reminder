@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.ursulakleguin.com/a-rant-about-technology",
+    "title": "[英] Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://seinfeld.visualisingdata.com/",
+    "title": "[英] The Seinfeld Chronicles: Digital Edition",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://16-bits.org/ft2.php",
+    "title": "[英] Fasttracker II clone in C using SDL 2",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
+    "title": "[英] Rust All Hands 2026 Retrospective",
+    "date": "2026-08-02"
+  },
+  {
     "link": "https://github.com/nyvexis1/temporize",
     "title": "[英] I made a Promise-aware debounce and throttle library for TypeScript",
     "date": "2026-08-02"
@@ -52,26 +72,6 @@
   {
     "link": "https://website-auditor.io/ai-visibility-index",
     "title": "[英] Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://twitter.com/polynoamial/status/2083467194663571701",
-    "title": "[英] An internal OpenAI Astra model solved 10 major open math and CS problems",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
-    "title": "[英] Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://meshdiff.com/",
-    "title": "[英] Meshdiff – visually compare two STL versions in the browser, client-side",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-    "title": "[英] Wikimedia Foundation refuses union recognition, hires union-busting law firm",
     "date": "2026-08-02"
   }
 ]
