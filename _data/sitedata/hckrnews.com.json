@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://thehub.ca/2026/04/03/can-anyone-solve-canadas-brain-drain-problem/",
+    "title": "[英] Canadians are leaving the country at record levels. Can anyone solve this?",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://khz.ac/low-voltage/drive-failure.html",
+    "title": "[英] P[drive failure]: how reliable is your NAS?",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://yarchive.net/comp/128bit.html",
+    "title": "[英] The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
+    "title": "[英] Don't credit the LLM",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+    "title": "[英] Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://philarchive.org/archive/NIEWTCv17",
+    "title": "[英] OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/",
+    "title": "[英] The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes",
+    "date": "2026-08-02"
+  },
+  {
+    "link": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
+    "title": "[英] Linux desktop market share has hit over 10% in North America",
+    "date": "2026-08-02"
+  },
+  {
     "link": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific",
     "title": "[英] Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
     "date": "2026-08-02"
@@ -32,46 +72,6 @@
   {
     "link": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
     "title": "[英] When random.bytes() runs but doesn't work",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://costperprompt.com/",
-    "title": "[英] Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://chrismorgan.info/atom%3Erss",
-    "title": "[英] Atom is better than RSS, in ways that matter",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
-    "title": "[英] Four Time Scales for Technology Development and Deployment",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://github.com/tom-ilan/cycloidal_gearbox",
-    "title": "[英] Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.newyorker.com/news/the-lede/why-is-europe-burning",
-    "title": "[英] Why Is Europe Burning?",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28/",
-    "title": "[英] China begins producing advanced chipmaking deep-ultraviolet lithography machines",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-    "title": "[英] Art Invented Humanity",
-    "date": "2026-08-02"
-  },
-  {
-    "link": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-    "title": "[英] ASRock BC-250: Building the Budget Steam Machine",
     "date": "2026-08-02"
   }
 ]
