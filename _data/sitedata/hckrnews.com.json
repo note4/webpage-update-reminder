@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://ge97.com/",
+    "title": "[英] GE-97 Terminal: The Old Internet",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://github.com/graham33/nixos-dgx-spark",
+    "title": "[英] Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://github.com/wie-project/kakehashi",
+    "title": "[英] Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+    "title": "[英] Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://letterformarchive.org/news/milwaukee-transit-passes/",
+    "title": "[英] When transit passes were designed by hand",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://twitter.com/karpathy/status/2083749667410727319",
+    "title": "[英] Karpathy’s Pelican",
+    "date": "2026-08-03"
+  },
+  {
     "link": "https://pudding.cool/2026/07/essential-words/",
     "title": "[英] How the words we teach English language learners changed",
     "date": "2026-08-03"
@@ -42,36 +72,6 @@
   {
     "link": "https://fstar-lang.org/",
     "title": "[英] F*: A general-purpose proof-oriented programming language",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/",
-    "title": "[英] ESP32-C3 SuperMini antenna modification",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://foldingglobes.com/globes",
-    "title": "[英] Folding Paper Globes",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived",
-    "title": "[英] Has the New Cocaine Arrived?",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-    "title": "[英] Twenty Years of RISC OS Open",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
-    "title": "[英] The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://github.com/kamalfarahani/katharos",
-    "title": "[英] Show HN: Katharos Functional programming and CSP-style concurrency for Python",
     "date": "2026-08-03"
   }
 ]
