@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.11971.com/",
+    "title": "[英] Flock – Chilling Effects: Long Island's Emerging Open-Air Prison",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://mattbeton.com/blog/bitnet-6502.html",
+    "title": "[英] Autoregressive Language Model on the 6502 Processor",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
+    "title": "[英] Californians' data deletion requests, DROP, become enforceable Aug. 1",
+    "date": "2026-08-03"
+  },
+  {
     "link": "https://github.com/paoloanzn/microcodex",
     "title": "[英] Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
     "date": "2026-08-03"
@@ -57,21 +72,6 @@
   {
     "link": "https://seanhelvey.com/tools-and-their-tools/",
     "title": "[英] AI Mania: From Tulips to Tokens",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://www.lrb.co.uk/the-paper/v48/n13/edmund-gordon/uncanny-little-blighter",
-    "title": "[英] The End of Everything by M. John Harrison",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://blog.semenzin.com/let-the-machines-in/",
-    "title": "[英] Let the machines in",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys",
-    "title": "[英] Anthropic's Fever Dream: Claude's package that stole real keys",
     "date": "2026-08-03"
   }
 ]
