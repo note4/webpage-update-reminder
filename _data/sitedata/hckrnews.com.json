@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://lake.computer/blog/help-wanted/",
+    "title": "[英] Help Wanted",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://planetscale.com/blog/massively-parallel-postgres-backups",
+    "title": "[英] Massively Parallel Postgres Backups",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49158580",
+    "title": "[英] Ask HN: Claude multisession",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://github.com/MikeLuu99/searxng-rust",
+    "title": "[英] SearXNG in Rust",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+    "title": "[英] Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://www.cnn.com/2026/08/03/politics/us-military-iran-war-troops-punish",
+    "title": "[英] US Military asks troops for 'creative and unconventional' ideas to punish Iran",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+    "title": "[英] C++ float-to-int conversion can be undefined behavior",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://openai.com/index/ten-advances-in-mathematics/",
+    "title": "[英] Ten advances in mathematics and theoretical computer science",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://armature.tech/",
+    "title": "[英] Show HN: Product analytics (and evals) for agent sessions on your MCP",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://hoplite.sh",
+    "title": "[英] Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://epoch.ai/MirrorCode",
+    "title": "[英] What's the largest software project AI can complete on its own?",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49157960",
+    "title": "[英] undefined",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en",
+    "title": "[英] Explanation of INT8 ConvRot (FP8 is no longer needed)",
+    "date": "2026-08-04"
+  },
+  {
     "link": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
     "title": "[英] Wind and solar overtake fossil fuels in Germany for the first time",
     "date": "2026-08-04"
@@ -7,71 +72,6 @@
   {
     "link": "https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html",
     "title": "[英] Kraid is a now a real compiler",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
-    "title": "[英] Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://lapcatsoftware.com/articles/2026/8/2.html",
-    "title": "[英] Why does Mail app contact iCloud when sending a non-iCloud email?",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/",
-    "title": "[英] Utah produced more power from solar than any other source in May, a new first",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-    "title": "[英] Andy Pavlo Joins ClickHouse to Establish ClickHouse Labs",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://prospect.org/2026/08/03/tsa-privatization-airport-security-911-trump-bush/",
-    "title": "[英] TSA Privatization Returns Airport Security to a Dangerous Past",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first",
-    "title": "[英] Flock's CEO Faced Me After Its Cameras Led to My Wrongful Stop",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
-    "title": "[英] Hollywood Stopped Making Movies in Hollywood",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://blog.exe.dev/devtools-must-be-open-source",
-    "title": "[英] Devtools must be open source",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china",
-    "title": "[英] The Future, Made in China",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb",
-    "title": "[英] Finding zombies in our systems: A real-world story of CPU bottlenecks",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/",
-    "title": "[英] Games at the press of a button: The Rip-O-Bot (1989)",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49154685",
-    "title": "[英] undefined",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49155492",
-    "title": "[英] Ask HN: What are the viable alternatives to DuckDuckGo?",
     "date": "2026-08-04"
   }
 ]
