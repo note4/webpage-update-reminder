@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/08/03/devcore-2026-semiconductor-supplychain-forum/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "駭客 29 分鐘就能橫向移動、企業只剩 5.5 天阻斷攻擊，DEVCORE 共同創辦人暨執行長翁浩正：別再追求漏洞清零",
+    "date": "2026-08-03 10:39:11"
+  },
+  {
+    "link": "https://techorange.com/2026/08/03/small-language-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【SLM 崛起】2030 年市場規模超過 200 億美元，小模型悄取代大模型成企業 AI 主力",
+    "date": "2026-08-03 10:15:50"
+  },
+  {
+    "link": "https://techorange.com/2026/08/03/supply-chain-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 試行專案燒錢又沒成效？供應鏈 AI 落地的 3 個實務原則",
+    "date": "2026-08-03 09:41:44"
+  },
+  {
     "link": "https://techorange.com/2026/08/03/aws-ai-compute-demand-amazon-openai-mediatek-ai-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】AWS 算力供不應求、亞馬遜結盟 OpenAI，聯發科 AI 晶片第 4 季量產",
     "date": "2026-08-03 05:30:00"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/07/30/r2s2r-world-labs-ai-robotics-simulation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "李飛飛 World Labs 新成果：要讓機器人 AI 規模化，先讓它學習的「世界」規模化",
     "date": "2026-07-30 17:01:53"
-  },
-  {
-    "link": "https://techorange.com/2026/07/30/cycraft-2026-semiconductor-supplychain-forum/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "從原始碼到部署都可能失守：奧義智慧資安研究處長陳仲寬拆解 4 大供應鏈威脅、3 階段防禦策略",
-    "date": "2026-07-30 14:17:46"
-  },
-  {
-    "link": "https://techorange.com/2026/07/30/microsoft-ai-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Microsoft 一季簽下 1,300 億美元資料中心租約，AI 基建需求還沒降溫？",
-    "date": "2026-07-30 12:59:20"
-  },
-  {
-    "link": "https://techorange.com/2026/07/30/doordash-gm-weave/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "三分之二程式碼由 AI 寫仍不夠：DoorDash、GM、Weave 揭企業生產力真正瓶頸",
-    "date": "2026-07-30 10:20:45"
   }
 ]

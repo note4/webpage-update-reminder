@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+    "title": "[英] OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://localai.io/blog/why-we-write-our-own-engines/",
+    "title": "[英] Why we write our own C and C++ inference engines",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic",
+    "title": "[英] Apple engineer says he was fired after refusing to send cust. device IDs to AT&T",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://qwen.ai/blog?id=qwen3.8",
+    "title": "[英] Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://handwritten.blog/",
+    "title": "[英] Show HN: A Handwritten Blogging Platform",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://www.qwencloud.com/models/qwen3.8-max",
+    "title": "[英] Qwen 3.8 Max Live Now",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://doku.su/history-of-sudoku",
+    "title": "[英] A Playable History of Sudoku",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://philarchive.org/rec/NIEWTC",
+    "title": "[英] Connes' Rigidity Theorem: Disproof of Open AI's Counterexample and Proof",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://ssh.place",
+    "title": "[英] Show HN: ssh ssh.place",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://sf.isopolis.city/",
+    "title": "[英] Show HN: Isopolis – Isometric pixel map of SF",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://www.rfc-editor.org/rfc/rfc9851.html",
+    "title": "[英] RFC 9851: TLS 1.2 is in Feature Freeze",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+    "title": "[英] Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://github.com/johnsonjh/cpm386",
+    "title": "[英] CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+    "date": "2026-08-03"
+  },
+  {
     "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
     "title": "[英] Why Book Corners won't sync contributions back to OpenStreetMap",
     "date": "2026-08-03"
@@ -7,71 +72,6 @@
   {
     "link": "https://mighil.com/playing-with-georgia",
     "title": "[英] Playing with Georgia",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://github.com/mgaitan/pytest-leak-finder",
-    "title": "[英] A tool for finding the causes of unstable Python tests",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://github.com/micro/mu",
-    "title": "[英] Show HN: Mu – Tools for Agents",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://plato.stanford.edu/entries/computational-mind/",
-    "title": "[英] The Computational Theory of Mind (2015)",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-    "title": "[英] AI poster wins Ohio State Fair contest",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://github.com/pg83/shitty",
-    "title": "[英] Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://www.11971.com/",
-    "title": "[英] Flock – Chilling Effects: Long Island's Emerging Open-Air Prison",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://mattbeton.com/blog/bitnet-6502.html",
-    "title": "[英] Autoregressive Language Model on the 6502 Processor",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
-    "title": "[英] Californians' data deletion requests, DROP, become enforceable Aug. 1",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://github.com/paoloanzn/microcodex",
-    "title": "[英] Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
-    "title": "[英] Read the Novels and Forget Everything Else",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://wireguardtcp.net/",
-    "title": "[英] WireguardTCP: WireGuard over TCP",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
-    "title": "[英] TinyNES Review – A Super Niche NES Console",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
-    "title": "[英] Adding Go's Defer to the TypeScript Compiler",
     "date": "2026-08-03"
   }
 ]
