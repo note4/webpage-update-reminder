@@ -1,7 +1,32 @@
 [
   {
+    "link": "https://www.seangoedecke.com/llms-reward-expertise/",
+    "title": "[英] LLMs reward expertise",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://github.com/SwagSoftware/KisakCOD",
+    "title": "[英] KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://kypolicy.org/kentucky-data-center-tax-breaks/",
+    "title": "[英] Is Kentucky about to give billions in tax breaks to data centers?",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+    "title": "[英] AI's debt binge can't last, hidden borrowing reaches $1.65T",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
+    "title": "[英] Replacing the Kobo Libra H2O Battery",
+    "date": "2026-08-04"
+  },
+  {
     "link": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
-    "title": "[英] The Dunning-Kruger effect is probably not real",
+    "title": "[英] The Dunning-Kruger effect may just be a data artefact (2020)",
     "date": "2026-08-04"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://blog.cloudflare.com/billable-usage-api/",
     "title": "[英] The Billable Usage API: programmatic cost visibility for Cloudflare",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://hcker.news/?view=frontpage&ai=exclude",
-    "title": "[英] Show HN: Hacker News with AI stories filtered out",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://lake.computer/blog/help-wanted/",
-    "title": "[英] Help wanted",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://planetscale.com/blog/massively-parallel-postgres-backups",
-    "title": "[英] Massively Parallel Postgres Backups",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49158580",
-    "title": "[英] Ask HN: Claude multisession",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://github.com/MikeLuu99/searxng-rust",
-    "title": "[英] SearXNG in Rust",
     "date": "2026-08-04"
   }
 ]
