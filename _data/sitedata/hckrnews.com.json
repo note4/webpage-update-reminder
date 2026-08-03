@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+    "title": "[英] The Dunning-Kruger effect is probably not real",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+    "title": "[英] DDoS against Norwegian government IT infrastructure – status",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://200ms.thenodebook.com",
+    "title": "[英] 200 Milliseconds",
+    "date": "2026-08-04"
+  },
+  {
     "link": "https://admiralcloudberg.medium.com/reaping-the-whirlwind-inside-the-potomac-river-midair-collision-0475416f2b0f",
     "title": "[英] The Potomac River Midair Collision",
     "date": "2026-08-04"
@@ -57,21 +72,6 @@
   {
     "link": "https://github.com/MikeLuu99/searxng-rust",
     "title": "[英] SearXNG in Rust",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-    "title": "[英] Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://www.cnn.com/2026/08/03/politics/us-military-iran-war-troops-punish",
-    "title": "[英] US Military asks troops for 'creative and unconventional' ideas to punish Iran",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-    "title": "[英] C++ float-to-int conversion can be undefined behavior",
     "date": "2026-08-04"
   }
 ]
