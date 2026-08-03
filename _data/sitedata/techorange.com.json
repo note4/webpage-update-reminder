@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/08/03/google-secops-siem-cloudmile/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "以 GCP SIEM 建構雲端資安監控架構（下篇）：資料策略與營運設計，往往比工具選擇更重要",
+    "date": "2026-08-03 17:59:05"
+  },
+  {
+    "link": "https://techorange.com/2026/08/03/cloudmile-gcp-siem-soc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "以 GCP SIEM 建構雲端資安監控架構（上篇）：從日誌收容到威脅偵測",
+    "date": "2026-08-03 17:58:17"
+  },
+  {
+    "link": "https://techorange.com/2026/08/03/japanese-startups-defense-drones/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Anduril 看上日產組裝廠、外商搶進日本零組件：亞洲防衛無人機供應鏈正在洗牌",
+    "date": "2026-08-03 17:44:47"
+  },
+  {
+    "link": "https://techorange.com/2026/08/03/ai-chips-data-center-boom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 晶片數量每 9 個月翻倍、2028 年衝上 2 億顆：史上最大算力擴建潮，電力與資金撐得住嗎？",
+    "date": "2026-08-03 16:21:52"
+  },
+  {
     "link": "https://techorange.com/2026/08/03/ikala-agenteconomy-geo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "iKala 攜手 Google Cloud、Google Ads，打造企業迎向 Agent Economy 的完整藍圖",
     "date": "2026-08-03 15:58:16"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/07/31/cloudmile-openai-anthropic-fde/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "OpenAI、Anthropic 都在養的神秘職位 FDE 是什麼？萬里雲用「這個工程概念」讓 AI 落地",
     "date": "2026-07-31 18:18:07"
-  },
-  {
-    "link": "https://techorange.com/2026/07/31/ai-could-lower-workers-pay-job-market-impact/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 沒搶走工作，卻更難加薪？Apollo 研究：工作容易被 AI 取代的職位，薪資成長下滑 6.7%",
-    "date": "2026-07-31 17:59:46"
-  },
-  {
-    "link": "https://techorange.com/2026/07/31/google-gemini-robotics-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Google Gemini Robotics 2 登場：如何讓人形機器人「餵資料」就能一路變強？",
-    "date": "2026-07-31 17:54:57"
-  },
-  {
-    "link": "https://techorange.com/2026/07/31/anthropic-claude-incidents-cybersecurity-evaluations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "OpenAI 才出事，Anthropic 也承認：Claude 測試曾誤駭 3 家公司",
-    "date": "2026-07-31 12:38:22"
-  },
-  {
-    "link": "https://techorange.com/2026/07/31/amazon-earnings-andy-jassy-aws-win-without-top-ai-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "自研模型未領先，AWS 營收卻大增 37%：Amazon 如何把多模型競賽變成平台紅利？",
-    "date": "2026-07-31 12:24:10"
   }
 ]

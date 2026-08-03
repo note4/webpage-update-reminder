@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://alexlitzenberger.com/blog/emulating_alibi_with_rope",
-    "title": "[英] Emulating ALiBi with Rope",
+    "link": "https://z80.me/blog/tsc-2026-july/",
+    "title": "[英] Train Simulator Controller",
     "date": "2026-08-03"
   },
   {
-    "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-    "title": "[英] Rust project goals: Immobile types and guaranteed destructors",
+    "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "title": "[英] Prevent cognitive debt by manually retyping LLM-generated code",
     "date": "2026-08-03"
   },
   {
-    "link": "https://mertbulan.com/more-german-than-many-germans/",
-    "title": "[英] More German than many Germans",
+    "link": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+    "title": "[英] The true power of regular expressions (2012)",
     "date": "2026-08-03"
   },
   {
-    "link": "https://orbites.cat/",
-    "title": "[英] Òrbites – Connection and constellation puzzle game",
+    "link": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+    "title": "[英] PISIGuard: Protect your personal and sensitive info when you chat with AI",
     "date": "2026-08-03"
   },
   {
-    "link": "https://gruhn.me/blog/2026-08-03/",
-    "title": "[英] Don't be a meat proxy",
+    "link": "https://www.marginalia.nu/log/a_109_sleep2/",
+    "title": "[英] Less Coffee, Better Sleep",
     "date": "2026-08-03"
   },
   {
-    "link": "https://www.inkandswitch.com/livelymerge/notebook/lm-02/",
-    "title": "[英] Convergence is not enough",
+    "link": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+    "title": "[英] What DMARC Protects You From, and What It Does Not",
     "date": "2026-08-03"
   },
   {
-    "link": "https://arxiv.org/abs/2607.28271",
-    "title": "[英] AI migrated legacy COBOL programs to Java, bugs included",
+    "link": "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/",
+    "title": "[英] Medieval Ideas About Food",
     "date": "2026-08-03"
   },
   {
-    "link": "https://cro.raku.org/",
-    "title": "[英] Cro – elegant reactive services in Raku",
+    "link": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+    "title": "[英] Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
     "date": "2026-08-03"
   },
   {
-    "link": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-    "title": "[英] OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+    "link": "https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks",
+    "title": "[英] MPs demand answers on Fujitsu's inclusion in lucrative frameworks",
     "date": "2026-08-03"
   },
   {
-    "link": "https://localai.io/blog/why-we-write-our-own-engines/",
-    "title": "[英] Why we write our own C and C++ inference engines",
+    "link": "https://octanejs.dev",
+    "title": "[英] Octane – React's programming model, compiled",
     "date": "2026-08-03"
   },
   {
-    "link": "https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic",
-    "title": "[英] Apple engineer says he was fired after refusing to send cust. device IDs to AT&T",
+    "link": "https://github.com/janestreet/bonsai",
+    "title": "[英] Bonsai: Janestreet's UI Library",
     "date": "2026-08-03"
   },
   {
-    "link": "https://qwen.ai/blog?id=qwen3.8",
-    "title": "[英] Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "link": "https://yegge.ai/essays/the-shape-of-things-to-come/",
+    "title": "[英] The Shape of Things to Come",
     "date": "2026-08-03"
   },
   {
-    "link": "https://handwritten.blog/",
-    "title": "[英] Show HN: A Handwritten Blogging Platform",
+    "link": "https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/",
+    "title": "[英] How do you rewrite C/C++ projects to Rust?",
     "date": "2026-08-03"
   },
   {
-    "link": "https://www.qwencloud.com/models/qwen3.8-max",
-    "title": "[英] Qwen 3.8 Max Live Now",
+    "link": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
+    "title": "[英] Situational Awareness and the Impending Stock Market Volatility",
     "date": "2026-08-03"
   },
   {
-    "link": "https://doku.su/history-of-sudoku",
-    "title": "[英] A Playable History of Sudoku",
+    "link": "https://is.team",
+    "title": "[英] Show HN: I created a project management system",
     "date": "2026-08-03"
   }
 ]
