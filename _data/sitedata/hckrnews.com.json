@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://alexlitzenberger.com/blog/emulating_alibi_with_rope",
+    "title": "[英] Emulating ALiBi with Rope",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+    "title": "[英] Rust project goals: Immobile types and guaranteed destructors",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://mertbulan.com/more-german-than-many-germans/",
+    "title": "[英] More German than many Germans",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://orbites.cat/",
+    "title": "[英] Òrbites – Connection and constellation puzzle game",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://gruhn.me/blog/2026-08-03/",
+    "title": "[英] Don't be a meat proxy",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://www.inkandswitch.com/livelymerge/notebook/lm-02/",
+    "title": "[英] Convergence is not enough",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.28271",
+    "title": "[英] AI migrated legacy COBOL programs to Java, bugs included",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://cro.raku.org/",
+    "title": "[英] Cro – elegant reactive services in Raku",
+    "date": "2026-08-03"
+  },
+  {
     "link": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
     "title": "[英] OpenAI's super PAC is funding AI-generated news site attacking industry critics",
     "date": "2026-08-03"
@@ -32,46 +72,6 @@
   {
     "link": "https://doku.su/history-of-sudoku",
     "title": "[英] A Playable History of Sudoku",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://philarchive.org/rec/NIEWTC",
-    "title": "[英] Connes' Rigidity Theorem: Disproof of Open AI's Counterexample and Proof",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://ssh.place",
-    "title": "[英] Show HN: ssh ssh.place",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://sf.isopolis.city/",
-    "title": "[英] Show HN: Isopolis – Isometric pixel map of SF",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://www.rfc-editor.org/rfc/rfc9851.html",
-    "title": "[英] RFC 9851: TLS 1.2 is in Feature Freeze",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
-    "title": "[英] Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://github.com/johnsonjh/cpm386",
-    "title": "[英] CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-    "title": "[英] Why Book Corners won't sync contributions back to OpenStreetMap",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://mighil.com/playing-with-georgia",
-    "title": "[英] Playing with Georgia",
     "date": "2026-08-03"
   }
 ]

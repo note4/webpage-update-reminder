@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/08/03/ikala-agenteconomy-geo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "iKala 攜手 Google Cloud、Google Ads，打造企業迎向 Agent Economy 的完整藍圖",
+    "date": "2026-08-03 15:58:16"
+  },
+  {
+    "link": "https://techorange.com/2026/08/03/netapp-forrester-storagegrid12-1/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "NetApp 全面強化大規模 AI 工作負載支援能力",
+    "date": "2026-08-03 15:47:43"
+  },
+  {
+    "link": "https://techorange.com/2026/08/03/bitcoin-cold-wallet-attack/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "硬體未遭入侵、私鑰未被偷，Coldcard 近 8,900 萬美元比特幣竊案如何揭露「種子生成」的系統性風險？",
+    "date": "2026-08-03 12:22:16"
+  },
+  {
+    "link": "https://techorange.com/2026/08/03/openai-astra/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 悄悄公布下一代模型 Astra，卻沒公布任何 benchmark 分數",
+    "date": "2026-08-03 12:21:33"
+  },
+  {
     "link": "https://techorange.com/2026/08/03/devcore-2026-semiconductor-supplychain-forum/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "駭客 29 分鐘就能橫向移動、企業只剩 5.5 天阻斷攻擊，DEVCORE 共同創辦人暨執行長翁浩正：別再追求漏洞清零",
     "date": "2026-08-03 10:39:11"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/07/31/amazon-earnings-andy-jassy-aws-win-without-top-ai-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "自研模型未領先，AWS 營收卻大增 37%：Amazon 如何把多模型競賽變成平台紅利？",
     "date": "2026-07-31 12:24:10"
-  },
-  {
-    "link": "https://techorange.com/2026/07/31/robots-see-touch-color-changing-sensor/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "讓機器人「看見觸覺」：新型變色感測器成本低廉，還能即時呈現壓力的細微變化",
-    "date": "2026-07-31 09:38:06"
-  },
-  {
-    "link": "https://techorange.com/2026/07/31/how-to-measure-ai-search-visibility/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "被 AI 引用不等於被推薦！AI 搜尋優化的關鍵不是可見度，而是品牌精準度",
-    "date": "2026-07-31 09:37:31"
-  },
-  {
-    "link": "https://techorange.com/2026/07/31/ai-compute-demand-microsoft-azure-meta-capex/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】AI 算力仍供不應求：Microsoft Azure 年營收破千億美元、Meta 投資上看 1,450 億美元",
-    "date": "2026-07-31 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/07/30/r2s2r-world-labs-ai-robotics-simulation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "李飛飛 World Labs 新成果：要讓機器人 AI 規模化，先讓它學習的「世界」規模化",
-    "date": "2026-07-30 17:01:53"
   }
 ]
