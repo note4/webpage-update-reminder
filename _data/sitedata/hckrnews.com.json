@@ -1,7 +1,22 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Battle_of_the_Beams",
+    "title": "[英] Battle of the Beams",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49156682",
+    "title": "[英] Ask HN: Who wants to be hired? (August 2026)",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49156683",
+    "title": "[英] Ask HN: Who is hiring? (August 2026)",
+    "date": "2026-08-04"
+  },
+  {
     "link": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
-    "title": "[英] ZX Spectrum System Tour: Text Mode – Bumbershoot Software",
+    "title": "[英] ZX Spectrum System Tour: Text Mode",
     "date": "2026-08-04"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://200ms.thenodebook.com",
     "title": "[英] 200 Milliseconds",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://admiralcloudberg.medium.com/reaping-the-whirlwind-inside-the-potomac-river-midair-collision-0475416f2b0f",
-    "title": "[英] The Potomac River Midair Collision",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
-    "title": "[英] ZX Spectrum System Tour: Sound",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://kellysimulator.com/",
-    "title": "[英] Kelly Criterion Simulator",
     "date": "2026-08-04"
   }
 ]
