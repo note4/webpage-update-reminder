@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/08/04/deepseek-low-cost-openai-astra-math-ai-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【科技早餐】DeepSeek 成本不到 Claude 百分之一，OpenAI Astra 挑戰十項數學難題",
+    "date": "2026-08-04 05:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/08/03/google-secops-siem-cloudmile/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "以 GCP SIEM 建構雲端資安監控架構（下篇）：資料策略與營運設計，往往比工具選擇更重要",
     "date": "2026-08-03 17:59:05"
@@ -11,7 +16,7 @@
   },
   {
     "link": "https://techorange.com/2026/08/03/japanese-startups-defense-drones/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Anduril 看上日產組裝廠、外商搶進日本零組件：亞洲防衛無人機供應鏈正在洗牌",
+    "title": "Anduril 傳看上日產組裝廠、外商搶進日本零組件：亞洲防衛無人機供應鏈正在洗牌",
     "date": "2026-08-03 17:44:47"
   },
   {
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/07/31/cloudmile-ai-agent-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "那些沒人搶著做的 AI 題目，為什麼半年後客戶回頭找我們做？",
     "date": "2026-07-31 18:18:49"
-  },
-  {
-    "link": "https://techorange.com/2026/07/31/cloudmile-openai-anthropic-fde/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "OpenAI、Anthropic 都在養的神秘職位 FDE 是什麼？萬里雲用「這個工程概念」讓 AI 落地",
-    "date": "2026-07-31 18:18:07"
   }
 ]

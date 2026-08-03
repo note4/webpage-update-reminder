@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
+    "title": "[英] ZX Spectrum System Tour: Text Mode – Bumbershoot Software",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+    "title": "[英] Windows XP 2002 for the Itanium: Unbridled rage",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://pandoc.org/twenty-years-of-pandoc.html",
+    "title": "[英] Twenty Years of Pandoc",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://asteriskmag.com/issues/15/chinas-last-bus",
+    "title": "[英] Boarding China's Last Bus",
+    "date": "2026-08-04"
+  },
+  {
     "link": "https://www.seangoedecke.com/llms-reward-expertise/",
     "title": "[英] LLMs reward expertise",
     "date": "2026-08-04"
@@ -52,26 +72,6 @@
   {
     "link": "https://kellysimulator.com/",
     "title": "[英] Kelly Criterion Simulator",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/",
-    "title": "[英] Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://hamvocke.com/blog/task-runners/",
-    "title": "[英] Use Task Runners for Common Coding Tasks",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-    "title": "[英] Smaller, faster, safer: running Kimi and GLM at scale",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://blog.cloudflare.com/billable-usage-api/",
-    "title": "[英] The Billable Usage API: programmatic cost visibility for Cloudflare",
     "date": "2026-08-04"
   }
 ]
