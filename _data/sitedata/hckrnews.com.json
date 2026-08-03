@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+    "title": "[英] Why Book Corners won't sync contributions back to OpenStreetMap",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://mighil.com/playing-with-georgia",
+    "title": "[英] Playing with Georgia",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://github.com/mgaitan/pytest-leak-finder",
+    "title": "[英] A tool for finding the causes of unstable Python tests",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://github.com/micro/mu",
+    "title": "[英] Show HN: Mu – Tools for Agents",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://plato.stanford.edu/entries/computational-mind/",
+    "title": "[英] The Computational Theory of Mind (2015)",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+    "title": "[英] AI poster wins Ohio State Fair contest",
+    "date": "2026-08-03"
+  },
+  {
+    "link": "https://github.com/pg83/shitty",
+    "title": "[英] Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+    "date": "2026-08-03"
+  },
+  {
     "link": "https://www.11971.com/",
     "title": "[英] Flock – Chilling Effects: Long Island's Emerging Open-Air Prison",
     "date": "2026-08-03"
@@ -37,41 +72,6 @@
   {
     "link": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
     "title": "[英] Adding Go's Defer to the TypeScript Compiler",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://github.com/ArcaEge/creakwork12",
-    "title": "[英] Show HN: Make your Framework 12 sound like a creaky door",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Bubble_memory",
-    "title": "[英] Bubble Memory",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://www.effectivehtml.com/",
-    "title": "[英] Effective HTML",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://github.com/0xchasercat/draco/",
-    "title": "[英] Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
-    "title": "[英] EU Age Verification Project Mandates Hardware-Bound Attestation",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
-    "title": "[英] The Myth of Snow Leopard",
-    "date": "2026-08-03"
-  },
-  {
-    "link": "https://seanhelvey.com/tools-and-their-tools/",
-    "title": "[英] AI Mania: From Tulips to Tokens",
     "date": "2026-08-03"
   }
 ]
