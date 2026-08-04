@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Nobel_disease",
+    "title": "[英] Nobel Disease",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://www.bfi.org/about-fuller/everything-i-know/",
+    "title": "[英] Buckminster Fuller: everything I know",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+    "title": "[英] Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://www.ssp.sh/brain/mini-retirements/",
+    "title": "[英] Mini retirements: like a sabbatical, but much smaller",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://shellzine.net/cyberpunk-video-games/",
+    "title": "[英] Cyberpunk Video Games",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+    "title": "[英] U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://picburn.xyz/",
+    "title": "[英] Show HN: I made a private self-destructing image hosting site in Golang",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+    "title": "[英] DeepSeek V4 Flash on a Single AMD MI300X",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
+    "title": "[英] Archaeologists Find Ancient Glyphs in the Amazon",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://www.upi.com/Top_News/US/2014/04/16/The-US-is-not-a-democracy-but-an-oligarchy-study-concludes/2761397680051/",
+    "title": "[英] The US is not a democracy but an oligarchy, study concludes (2014)",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
+    "title": "[英] Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+    "title": "[英] FFmpeg 9.0",
+    "date": "2026-08-04"
+  },
+  {
     "link": "https://pedroth.github.io/?p=post/NoNeedReact",
     "title": "[英] You don't need React: creating a minimal UI library in Vanilla JavaScript",
     "date": "2026-08-04"
@@ -12,66 +72,6 @@
   {
     "link": "https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/",
     "title": "[英] NHS apologises and admits Palantir have access to identifiable patient data",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-    "title": "[英] Harness Engineering for Self-Improvement",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx",
-    "title": "[英] RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
-    "title": "[英] Beauty in my backyard",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://ing.dk/artikel/ny-rekord-maaned-elbilsalget-private-koeb-ligger-paa-97-procent",
-    "title": "[英] Denmark: EVs Make Up 97% of New Private Car Sales in July",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
-    "title": "[英] CollectWise (YC F24) Is Hiring",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://zenodo.org/records/21359923",
-    "title": "[英] Nobody checked which state IBM's flagship quantum chemistry results compute",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://openai.com/index/apple-is-getting-this-wrong/",
-    "title": "[英] Apple is getting this wrong",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/",
-    "title": "[英] The Myth, the Mythos, and the Man",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf",
-    "title": "[英] IPC-7351B Electronic Component Zero Orientation [pdf] (2010)",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
-    "title": "[英] Why did we wait so long for the bicycle? (2019)",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
-    "title": "[英] That time when I failed the Microsoft interview",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://github.com/leonickson1/Swiftlet",
-    "title": "[英] Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
     "date": "2026-08-04"
   }
 ]
