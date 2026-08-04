@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+    "title": "[英] Don't stop early: Case-folding source code at memory speed",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
+    "title": "[英] Investors in Situational Awareness deserved to lose their shirts",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://www.vegard.net/the-red-strings-club-review/",
+    "title": "[英] The Red Strings Club",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+    "title": "[英] Stephen Wolfram's Wife Has Died",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+    "title": "[英] Waymo – Dallas Open to All",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://blog.cloudflare.com/engineering-standards-enforcement/",
+    "title": "[英] Cloudflare enforces engineering standards using AI",
+    "date": "2026-08-05"
+  },
+  {
     "link": "https://edotenv.com/",
     "title": "[英] Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
     "date": "2026-08-05"
@@ -10,13 +40,13 @@
     "date": "2026-08-05"
   },
   {
-    "link": "https://gwern.net/blackmail",
-    "title": "[英] Blackmail Fail (2013)",
+    "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+    "title": "[英] Web security is too hard",
     "date": "2026-08-05"
   },
   {
-    "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-    "title": "[英] Security Is Hard, Y'all",
+    "link": "https://gwern.net/blackmail",
+    "title": "[英] Blackmail Fail (2013)",
     "date": "2026-08-05"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://www.msn.com/en-us/money/general/america-s-weird-and-unwise-intervention-in-the-japanese-yen-the-last-thing-you-want-is-to-give-markets-any-kind-of-reason-to-ask-questions/ar-AA29jLZc",
     "title": "[英] America's 'weird' and 'unwise' intervention in the Japanese yen",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://www.not-ship.com/not-ship-summer-vacation/",
-    "title": "[英] Most countries provide between 20 and 40 paid days off",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49172567",
-    "title": "[英] undefined",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://jg.gg/2026/08/04/the-knowledge-chipper/",
-    "title": "[英] The Knowledge Chipper: An Agentic Coding Story",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://github.com/mcindi/siematic",
-    "title": "[英] Show HN: SIEMatic, a fair-sourced observability and security platform",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://gail.wharton.upenn.edu/gen-ai-studio/the-generative-ai-studio-pedagogy/",
-    "title": "[英] The Pedagogy Behind the Studio",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
-    "title": "[英] AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
     "date": "2026-08-05"
   }
 ]
