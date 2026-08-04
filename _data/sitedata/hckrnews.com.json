@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://mosh.org/elevator.txt",
+    "title": "[英] Mosh in a Lift (2012)",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+    "title": "[英] Keyv and friends compromised in active Shai-Hulud supply chain attack",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49167493",
+    "title": "[英] How did Wikipedia layout become so bloated?",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/",
+    "title": "[英] Safe Lock-free Primitives with iceoryx2's ByteAtomic",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+    "title": "[英] AI-Generated Images Discourage Me from Reading Your Blog",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://resobscura.substack.com/p/why-i-love-etymologies",
+    "title": "[英] Why etymologies matter: How tracing words can illuminate history (2024)",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://github.com/MakazhanAlpamys/Soup",
+    "title": "[英] Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+    "title": "[英] Xbox goes down. You can't play games you own on disc",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
+    "title": "[英] Roame (YC S23) Is Hiring Lead Engineer",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://github.com/david-g-3654/homebench",
+    "title": "[英] Homebench – Benchmark local LLMs for speed, memory, and quality",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/",
+    "title": "[英] An Honest Review of AI Programming",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://learning-rust.github.io",
+    "title": "[英] Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.02412",
+    "title": "[英] Why Large Language Models Fail at Tabular Prediction",
+    "date": "2026-08-04"
+  },
+  {
     "link": "https://en.wikipedia.org/wiki/Nobel_disease",
     "title": "[英] Nobel Disease",
     "date": "2026-08-04"
@@ -7,71 +72,6 @@
   {
     "link": "https://www.bfi.org/about-fuller/everything-i-know/",
     "title": "[英] Buckminster Fuller: everything I know",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-    "title": "[英] Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://www.ssp.sh/brain/mini-retirements/",
-    "title": "[英] Mini retirements: like a sabbatical, but much smaller",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://shellzine.net/cyberpunk-video-games/",
-    "title": "[英] Cyberpunk Video Games",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
-    "title": "[英] U.S. used 'virtually all' of its long-range precision missiles during Iran war",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://picburn.xyz/",
-    "title": "[英] Show HN: I made a private self-destructing image hosting site in Golang",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-    "title": "[英] DeepSeek V4 Flash on a Single AMD MI300X",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
-    "title": "[英] Archaeologists Find Ancient Glyphs in the Amazon",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://www.upi.com/Top_News/US/2014/04/16/The-US-is-not-a-democracy-but-an-oligarchy-study-concludes/2761397680051/",
-    "title": "[英] The US is not a democracy but an oligarchy, study concludes (2014)",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
-    "title": "[英] Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-    "title": "[英] FFmpeg 9.0",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://pedroth.github.io/?p=post/NoNeedReact",
-    "title": "[英] You don't need React: creating a minimal UI library in Vanilla JavaScript",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://physics.aps.org/articles/v19/89",
-    "title": "[英] Trembling Photons in Non-Abelian Electric Fields",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/",
-    "title": "[英] NHS apologises and admits Palantir have access to identifiable patient data",
     "date": "2026-08-04"
   }
 ]
