@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+    "title": "[英] Why did we wait so long for the bicycle? (2019)",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
+    "title": "[英] That time when I failed the Microsoft interview",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://github.com/leonickson1/Swiftlet",
+    "title": "[英] Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
+    "title": "[英] Native Apps Should Be Avoided Whenever Possible",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/",
+    "title": "[英] Living in the Math World Means Threading the Needle",
+    "date": "2026-08-04"
+  },
+  {
+    "link": "https://openreview.net/pdf?id=klU4737opt",
+    "title": "[英] LLMs Can't Jump",
+    "date": "2026-08-04"
+  },
+  {
     "link": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
     "title": "[英] Amazonian civilization had estimated 3M people in 3% of forest area",
     "date": "2026-08-04"
@@ -42,36 +72,6 @@
   {
     "link": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
     "title": "[英] ZX Spectrum System Tour: Text Mode",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-    "title": "[英] Windows XP 2002 for the Itanium: Unbridled rage",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://pandoc.org/twenty-years-of-pandoc.html",
-    "title": "[英] Twenty Years of Pandoc",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://asteriskmag.com/issues/15/chinas-last-bus",
-    "title": "[英] Boarding China's Last Bus",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://www.seangoedecke.com/llms-reward-expertise/",
-    "title": "[英] LLMs reward expertise",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://github.com/SwagSoftware/KisakCOD",
-    "title": "[英] KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
-    "date": "2026-08-04"
-  },
-  {
-    "link": "https://kypolicy.org/kentucky-data-center-tax-breaks/",
-    "title": "[英] Is Kentucky about to give billions in tax breaks to data centers?",
     "date": "2026-08-04"
   }
 ]
