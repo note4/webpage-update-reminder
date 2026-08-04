@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+    "title": "[英] Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://www.transportenvironment.org/articles/ever-bigger-car-size-at-a-crossroads",
+    "title": "[英] New cars are getting 1.2cm longer and 0.5cm taller each year",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/",
+    "title": "[英] Most tech revolutions made work worse for employees",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+    "title": "[英] Oxide Computer raises $445M (SEC Form D)",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/",
+    "title": "[英] Waymo CEO explains why Tesla’s camera-only self-driving falls short",
+    "date": "2026-08-05"
+  },
+  {
     "link": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
     "title": "[英] Don't stop early: Case-folding source code at memory speed",
     "date": "2026-08-05"
@@ -16,7 +41,7 @@
   },
   {
     "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-    "title": "[英] Stephen Wolfram's Wife Has Died",
+    "title": "[英] In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
     "date": "2026-08-05"
   },
   {
@@ -40,38 +65,13 @@
     "date": "2026-08-05"
   },
   {
-    "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-    "title": "[英] Web security is too hard",
-    "date": "2026-08-05"
-  },
-  {
     "link": "https://gwern.net/blackmail",
     "title": "[英] Blackmail Fail (2013)",
     "date": "2026-08-05"
   },
   {
-    "link": "https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation",
-    "title": "[英] What's Behind the Sharp Drop in Labor Force Participation?",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://pudding.cool/2026/06/mow/",
-    "title": "[英] Why some people mow a lawn better than others",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://mistral.ai/news/shieldstral/",
-    "title": "[英] Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://adriansieber.com/announcing-perspec-1-0/",
-    "title": "[英] Perspec 1.0",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://www.msn.com/en-us/money/general/america-s-weird-and-unwise-intervention-in-the-japanese-yen-the-last-thing-you-want-is-to-give-markets-any-kind-of-reason-to-ask-questions/ar-AA29jLZc",
-    "title": "[英] America's 'weird' and 'unwise' intervention in the Japanese yen",
+    "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+    "title": "[英] Web Security is Too Hard",
     "date": "2026-08-05"
   }
 ]
