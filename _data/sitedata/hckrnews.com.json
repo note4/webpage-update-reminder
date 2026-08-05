@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://reelang.com/open-startup/blog/llm-localization-context-beats-translator",
+    "title": "[英] We let models localize into 16 languages. How we made it read native.",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://runarcn.no/android-to-linux/",
+    "title": "[英] I'm switching my phone from Android to Linux",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://nanomicon.com/blog/260730-the-job-board-is-lying-to-you",
+    "title": "[英] The Job Board Is Lying to You",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+    "title": "[英] Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+    "date": "2026-08-06"
+  },
+  {
     "link": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
     "title": "[英] What happens if you put work into the second dimension?",
     "date": "2026-08-06"
@@ -52,26 +72,6 @@
   {
     "link": "https://forum.proxmox.com/threads/proxmox-virtual-environment-now-available-for-64-bit-arm-arm64.185527/",
     "title": "[英] Proxmox VE now available for ARM64",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://zed.dev/deltadb",
-    "title": "[英] Zed DeltaDB",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://blog.fogus.me/llm/born-against.html",
-    "title": "[英] Born Against, or why hobby programming communities are against LLM usage",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
-    "title": "[英] Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://arxiv.org/abs/2510.01395",
-    "title": "[英] Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
     "date": "2026-08-06"
   }
 ]
