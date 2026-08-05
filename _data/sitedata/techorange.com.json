@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/08/05/fraud-stack/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【防詐邏輯升級】AI 代理人讓身分驗證失效，「授權範圍」與「斷路器機制」成新控制點",
+    "date": "2026-08-05 10:51:36"
+  },
+  {
+    "link": "https://techorange.com/2026/08/05/asml-euv-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "中國還造不出 EUV，卻可能先搶走 ASML 中國訂單：出口管制正改寫設備採購邏輯",
+    "date": "2026-08-05 10:43:32"
+  },
+  {
+    "link": "https://techorange.com/2026/08/05/cloudflare-precursor-ai-agentic-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "機器人流量首度超越真人，Cloudflare 推 Precursor 用全程行為監測識破偽裝",
+    "date": "2026-08-05 09:21:00"
+  },
+  {
     "link": "https://techorange.com/2026/08/05/google-anthropic-200-billion-ai-compute-financing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】Anthropic 對 Google 五年算力承諾達 2,000 億美元，Apple 聲請禁制 OpenAI 使用商業機密",
     "date": "2026-08-05 05:30:00"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/08/03/google-secops-siem-cloudmile/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "以 GCP SIEM 建構雲端資安監控架構（下篇）：資料策略與營運設計，往往比工具選擇更重要",
     "date": "2026-08-03 17:59:05"
-  },
-  {
-    "link": "https://techorange.com/2026/08/03/cloudmile-gcp-siem-soc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "以 GCP SIEM 建構雲端資安監控架構（上篇）：從日誌收容到威脅偵測",
-    "date": "2026-08-03 17:58:17"
-  },
-  {
-    "link": "https://techorange.com/2026/08/03/japanese-startups-defense-drones/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Anduril 傳看上日產組裝廠、外商搶進日本零組件：亞洲防衛無人機供應鏈正在洗牌",
-    "date": "2026-08-03 17:44:47"
-  },
-  {
-    "link": "https://techorange.com/2026/08/03/ai-chips-data-center-boom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 晶片數量每 9 個月翻倍、2028 年衝上 2 億顆：史上最大算力擴建潮，電力與資金撐得住嗎？",
-    "date": "2026-08-03 16:21:52"
   }
 ]
