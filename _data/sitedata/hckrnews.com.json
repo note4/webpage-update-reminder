@@ -1,12 +1,52 @@
 [
   {
+    "link": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+    "title": "[英] Scaling NumPy on Free-Threaded Python",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+    "title": "[英] Civilian plane crash in New Mexico tied to military GPS blocking",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://jasmi.news/p/no-data-centers-in-my-backyard",
+    "title": "[英] No Data Centers in My Backyard",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://hannahilea.com/blog/birduino/",
+    "title": "[英] Birduino: A card-triggered audio player for [learning] the birds",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://calpaterson.com/helsinki-hn.html",
+    "title": "[英] Helsinki Hacker News Meetup",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon",
+    "title": "[英] Bitcoin BIP110 mandatory activation this Saturday, how game theory will unfold?",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
+    "title": "[英] The software group Palantir paid just £2M in corporation tax in the UK in 2024",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=e5GRwnCE2Y0",
+    "title": "[英] I ran a 1998 artificial life SIM at 560x speed and caught a rare easter egg [video]",
+    "date": "2026-08-05"
+  },
+  {
     "link": "https://github.com/hallko1234/cr4501-ral-hack",
     "title": "[英] Colorimeter 3nh CR4501 RAL Hack",
     "date": "2026-08-05"
   },
   {
     "link": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
-    "title": "[英] The Pneumatics of Hero of Alexandria",
+    "title": "[英] The Pneumatics of Hero of Alexandria (1851)",
     "date": "2026-08-05"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://www.bbc.com/news/articles/cr7k4gdrgljo",
     "title": "[英] Italy putting nearly all major cities on highest heat alert",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://github.com/Carloscodix/qapla",
-    "title": "[英] An SLM trained on $8 ESP32-S3",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cjejyl34345o",
-    "title": "[英] The sale of Electronic Arts has been finalized",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
-    "title": "[英] The Golden Age of British Ice Cream",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/",
-    "title": "[英] Some car companies are operating without regard for a declining customer base",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/",
-    "title": "[英] Gallium: Why the US Cannot Produce Precision Missiles and Fully-Functional F-35s",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
-    "title": "[英] Rio-vt and librio: Rio's terminal engine, now embeddable",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-    "title": "[英] Stateless MCP has recaptured my interest",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html",
-    "title": "[英] From boiling lead and black art: The history of mathematical typography (2017)",
     "date": "2026-08-05"
   }
 ]
