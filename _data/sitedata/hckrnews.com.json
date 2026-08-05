@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://dylan.blog/2026/08/03/im-scared-a-stranger-will.html",
+    "title": "[英] I'm Scared a Stranger Will Call My Novel AI, So I Built GitHub for Words",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+    "title": "[英] Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://naomibashkansky.com/blog/telepathy/",
+    "title": "[英] Why I'm leaving OpenAI to build telepathy",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://securelist.com/cloud-platforms-in-phishing/120832/",
+    "title": "[英] Phishers are hijacking legitimate cloud infrastructure",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html",
+    "title": "[英] AI is a bubble, just like dot-com",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://sahansera.dev/no-healthy-upstream/",
+    "title": "[英] When \"no healthy upstream\" isn't about the upstream you think",
+    "date": "2026-08-06"
+  },
+  {
     "link": "https://www.hyperprobe.co",
     "title": "[英] Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
     "date": "2026-08-06"
@@ -36,42 +66,12 @@
   },
   {
     "link": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
-    "title": "[英] Google DeepMind CEO Demis Hassabis is stepping down",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://www.theparisreview.org/blog/2015/02/11/the-law-of-jante/",
-    "title": "[英] The Law of Jante (2015)",
+    "title": "[英] Demis Hassabis is moving from CEO to Chairman at Google DeepMind",
     "date": "2026-08-06"
   },
   {
     "link": "https://en.wikipedia.org/wiki/Western_Sahara",
     "title": "[英] Western Sahara",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11",
-    "title": "[英] Microsoft Is Quietly Deleting Mentions of 32 GB RAM Recommendation for Win 11",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://weli.dev/blog/the-valley-of-webhooks/",
-    "title": "[英] The Valley of Webhooks",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
-    "title": "[英] Oracle Just Halved Its Always Free ARM Limits",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
-    "title": "[英] Qwen 3.0 Image Pro",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://patrik.re/where-was-mythos-when-wordpress-fell/",
-    "title": "[英] Where was Mythos when WordPress fell?",
     "date": "2026-08-06"
   }
 ]
