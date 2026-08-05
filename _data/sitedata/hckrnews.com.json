@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+    "title": "[英] \"Gravity is worth asking about.\"",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://lawrencecpaulson.github.io//2026/07/30/Collatz.html",
+    "title": "[英] Why is it all in the kernel?",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.29377",
+    "title": "[英] Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cr7k4gdrgljo",
+    "title": "[英] Italy putting nearly all major cities on highest heat alert",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://github.com/Carloscodix/qapla",
+    "title": "[英] An SLM trained on $8 ESP32-S3",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cjejyl34345o",
+    "title": "[英] The sale of Electronic Arts has been finalized",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
+    "title": "[英] The Golden Age of British Ice Cream",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/",
+    "title": "[英] Some car companies are operating without regard for a declining customer base",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/",
+    "title": "[英] Gallium: Why the US Cannot Produce Precision Missiles and Fully-Functional F-35s",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
+    "title": "[英] Rio-vt and librio: Rio's terminal engine, now embeddable",
+    "date": "2026-08-05"
+  },
+  {
     "link": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
     "title": "[英] Stateless MCP has recaptured my interest",
     "date": "2026-08-05"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.godox.com/product-e/C100.html",
     "title": "[英] Godox Transparent Viewfinder Camera C100",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://flowiseai.com/sunset",
-    "title": "[英] Flowise Is Shutting Down",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
-    "title": "[英] Bugtraq Is Back",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://arxiv.org/abs/2603.04221",
-    "title": "[英] Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://brontosaurusrex.github.io/physical/v7/",
-    "title": "[英] Show HN: A little physical breakout clone",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://queue.acm.org/detail.cfm?id=3807963",
-    "title": "[英] Eight Myths on Software Engineering and GenAI",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-    "title": "[英] IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://github.com/brian-armstrong/fec",
-    "title": "[英] Show HN: SIMD Viterbi Decoder in Rust",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
-    "title": "[英] FIPS 140-3 is not a security guarantee, and auditors know it",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
-    "title": "[英] Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "title": "[英] Pi's Minimalism Is Its Advantage",
     "date": "2026-08-05"
   }
 ]
