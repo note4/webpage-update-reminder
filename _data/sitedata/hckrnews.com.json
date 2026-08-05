@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://flowiseai.com/sunset",
+    "title": "[英] Flowise Is Shutting Down",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+    "title": "[英] Bugtraq Is Back",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://arxiv.org/abs/2603.04221",
+    "title": "[英] Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://brontosaurusrex.github.io/physical/v7/",
+    "title": "[英] Show HN: A little physical breakout clone",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://queue.acm.org/detail.cfm?id=3807963",
+    "title": "[英] Eight Myths on Software Engineering and GenAI",
+    "date": "2026-08-05"
+  },
+  {
+    "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+    "title": "[英] IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+    "date": "2026-08-05"
+  },
+  {
     "link": "https://github.com/brian-armstrong/fec",
     "title": "[英] Show HN: SIMD Viterbi Decoder in Rust",
     "date": "2026-08-05"
@@ -42,36 +72,6 @@
   {
     "link": "https://techascent.com/blog/just-ducking-around.html",
     "title": "[英] DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://twitter.com/gwern/status/2084739205071343837",
-    "title": "[英] I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://www.panoptica.com/the-sound-of-inevitability/",
-    "title": "[英] The Sound of Inevitability",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
-    "title": "[英] Video2NAND – Abusing video codecs for great computational power",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-    "title": "[英] AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
-    "title": "[英] Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
-    "date": "2026-08-05"
-  },
-  {
-    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-    "title": "[英] Third-party cyber evaluations involving OpenAI models",
     "date": "2026-08-05"
   }
 ]
