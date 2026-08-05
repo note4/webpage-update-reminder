@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://twitter.com/nikitabier/status/2085105586966827343/",
+    "title": "[英] Nikita Bier Steps Down as Head of Product at X",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "title": "[英] The Title Cards in Blade Runner Are Fucking Amazing",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233",
+    "title": "[英] OpenAI says my prepaid credits were consumed, refuses to show any record",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+    "title": "[英] Nvidia's Vera Whitepaper Has a Thread Loose",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://www.primeintellect.ai/blog/prime-agent",
+    "title": "[英] Prime Agent: A self-improving RLM agent",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://github.com/matt-w-horn/morningprint",
+    "title": "[英] Show HN: My receipt printer prints an original artwork every morning",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://cmarmitage.substack.com/p/pam-bondi-implicated-in-as-much-as",
+    "title": "[英] Pam Bondi Implicated in as Much as $5.5M in Insider Trading",
+    "date": "2026-08-06"
+  },
+  {
     "link": "https://reelang.com/open-startup/blog/llm-localization-context-beats-translator",
     "title": "[英] We let models localize into 16 languages. How we made it read native.",
     "date": "2026-08-06"
@@ -37,41 +72,6 @@
   {
     "link": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
     "title": "[英] Muse Code and Muse Spark 1.2",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://sagredo.dev/projects/sula/",
-    "title": "[英] Sula: A Gemini protocol server written in Scryer Prolog",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://benchmark.clickhouse.com/playground/",
-    "title": "[英] Show HN: ClickBench Playground – a playground for 110 database systems",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://sprinklz.io/public/nncrnx74ykir",
-    "title": "[英] Show HN: Hacker News with reduced priority for AI driven content",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults",
-    "title": "[英] You're not uncool. Making friends as an adult is just hard (2021)",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c36d4376nd2o",
-    "title": "[英] See the Sun like never before with most detailed images yet",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html",
-    "title": "[英] Stop sending me your errors",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://forum.proxmox.com/threads/proxmox-virtual-environment-now-available-for-64-bit-arm-arm64.185527/",
-    "title": "[英] Proxmox VE now available for ARM64",
     "date": "2026-08-06"
   }
 ]
