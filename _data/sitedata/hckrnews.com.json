@@ -1,12 +1,17 @@
 [
   {
+    "link": "https://github.com/morishuz/delaunay32",
+    "title": "[英] Exact, parallel 2D Delaunay triangulation for int32 coordinates",
+    "date": "2026-08-06"
+  },
+  {
     "link": "https://twitter.com/nikitabier/status/2085105586966827343/",
     "title": "[英] Nikita Bier Steps Down as Head of Product at X",
     "date": "2026-08-06"
   },
   {
     "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-    "title": "[英] The Title Cards in Blade Runner Are Fucking Amazing",
+    "title": "[英] The title cards in Blade Runner are amazing",
     "date": "2026-08-06"
   },
   {
@@ -16,7 +21,7 @@
   },
   {
     "link": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-    "title": "[英] Nvidia's Vera Whitepaper Has a Thread Loose",
+    "title": "[英] NVIDIA’s Vera Whitepaper Has a Thread Loose",
     "date": "2026-08-06"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://banthethrobber.neocities.org/",
     "title": "[英] Ban the Throbber",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-    "title": "[英] Muse Code and Muse Spark 1.2",
     "date": "2026-08-06"
   }
 ]
