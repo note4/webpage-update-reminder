@@ -1,7 +1,42 @@
 [
   {
+    "link": "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/",
+    "title": "[英] The Cipher Behind Qsyrupwd: Reconstructing IBM i Password Hashes",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://buttondown.com/blog/what-i-love-about-django",
+    "title": "[英] What I love about Django",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
+    "title": "[英] Morioka Shoten",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+    "title": "[英] How to Make a Nintendo 64 Game in 2026",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+    "title": "[英] Let's all meet up in the Y2K",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://fgiesen.wordpress.com/2026/08/03/ryg_rans-is-not-a-library/",
+    "title": "[英] Ryg_rans Is Not a Library",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+    "title": "[英] Crime Pays but Botany Doesn't",
+    "date": "2026-08-06"
+  },
+  {
     "link": "https://www.realtor.com/news/real-estate-news/virginia-data-center-electric-infrastructure-spanberger/",
-    "title": "[英] Virginia Orders Data Centers to Pay for Dedicated New Electric Infrastructure",
+    "title": "[英] Virginia orders data centers to pay for dedicated new electric infrastructure",
     "date": "2026-08-06"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://marcin.juszkiewicz.com.pl/2026/07/29/new-keyboard-alicja-v2/",
     "title": "[英] New Keyboard: Alicja v2",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-    "title": "[英] Nashville uses eminent domain to block data center near zoo",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-    "title": "[英] LLMs won't break symmetric crypto",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://www.greyblake.com/blog/branchless-rust/",
-    "title": "[英] Branchless Rust: Making a Filter 4x Faster by Removing an If",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1",
-    "title": "[英] The Origins of Vintage Comics Part 1",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/",
-    "title": "[英] DHS Wants Protesters' Signal Group Chats",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/",
-    "title": "[英] Something is changing in the unit economics of software",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://shuklaayu.sh/blog/riscv-recompiler",
-    "title": "[英] Pushing the limits of RISC-V emulation",
     "date": "2026-08-06"
   }
 ]
