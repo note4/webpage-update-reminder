@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://marcin.juszkiewicz.com.pl/2026/07/29/new-keyboard-alicja-v2/",
+    "title": "[英] New Keyboard: Alicja v2",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+    "title": "[英] Nashville uses eminent domain to block data center near zoo",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+    "title": "[英] LLMs won't break symmetric crypto",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://www.greyblake.com/blog/branchless-rust/",
+    "title": "[英] Branchless Rust: Making a Filter 4x Faster by Removing an If",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1",
+    "title": "[英] The Origins of Vintage Comics Part 1",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/",
+    "title": "[英] DHS Wants Protesters' Signal Group Chats",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/",
+    "title": "[英] Something is changing in the unit economics of software",
+    "date": "2026-08-06"
+  },
+  {
     "link": "https://shuklaayu.sh/blog/riscv-recompiler",
     "title": "[英] Pushing the limits of RISC-V emulation",
     "date": "2026-08-06"
@@ -11,7 +46,7 @@
   },
   {
     "link": "https://twitter.com/nikitabier/status/2085105586966827343/",
-    "title": "[英] Nikita Bier Steps Down as Head of Product at X",
+    "title": "[英] I'll be stepping back from leading product for X",
     "date": "2026-08-06"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://github.com/matt-w-horn/morningprint",
     "title": "[英] Show HN: My receipt printer prints an original artwork every morning",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://cmarmitage.substack.com/p/pam-bondi-implicated-in-as-much-as",
-    "title": "[英] Pam Bondi Implicated in as Much as $5.5M in Insider Trading",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://reelang.com/open-startup/blog/llm-localization-context-beats-translator",
-    "title": "[英] We let models localize into 16 languages. How we made it read native.",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://runarcn.no/android-to-linux/",
-    "title": "[英] I'm switching my phone from Android to Linux",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://nanomicon.com/blog/260730-the-job-board-is-lying-to-you",
-    "title": "[英] The Job Board Is Lying to You",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-    "title": "[英] Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
-    "title": "[英] What happens if you put work into the second dimension?",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
-    "title": "[英] Goodhart's Law Comes for Every Benchmark You Trust",
     "date": "2026-08-06"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/08/06/ceos-real-ai-problem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "六成企業看不到 AI 成效，CEO 們該問的不是用了多少 AI 而是「品質怎麼衡量」",
+    "date": "2026-08-06 10:29:47"
+  },
+  {
+    "link": "https://techorange.com/2026/08/06/the-met-new-ways-with-generative-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Gemini、Vertex AI 走進美術館：紐約大都會博物館的生成式 Gemini 怎麼落地？",
+    "date": "2026-08-06 09:54:01"
+  },
+  {
     "link": "https://techorange.com/2026/08/06/spacex-ai-investment-nvidia-amd-data-center-revenue/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】SpaceX 投入 158 億美元擴 AI、押注 NVIDIA，AMD 資料中心營收翻倍",
     "date": "2026-08-06 05:30:00"
@@ -46,7 +56,7 @@
   },
   {
     "link": "https://techorange.com/2026/08/04/oracle-neil-sholay-cloudmile-spencer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "模型大家都買得到，企業靠什麼勝出？Oracle 高層、CloudMile 萬里雲集團創辦人劉永信揭關鍵在「垂直 AI」",
+    "title": "企業都在用 AI，競爭力為何沒拉開？下一步是「垂直 AI」",
     "date": "2026-08-04 18:37:17"
   },
   {
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/08/04/ai-in-3d-printing-industry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 串聯 3D 列印產業鏈，生成式 AI 讓人能從一張照片做出實體產品",
     "date": "2026-08-04 11:08:01"
-  },
-  {
-    "link": "https://techorange.com/2026/08/04/smart-glasses-without-a-camera/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【智慧眼鏡新賽道】不拍照、不錄影，Even Realities 想靠生產力工具挑戰 Meta 獨大的市場",
-    "date": "2026-08-04 11:07:40"
-  },
-  {
-    "link": "https://techorange.com/2026/08/04/taitra-james-lee-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "不能只替世界「造船」，外貿協會資深顧問李牮斯：台灣 AI Token 使用量居四小龍之末，恐陷「荷蘭病」",
-    "date": "2026-08-04 10:53:52"
   }
 ]
