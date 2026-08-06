@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://shuklaayu.sh/blog/riscv-recompiler",
+    "title": "[英] Pushing the limits of RISC-V emulation",
+    "date": "2026-08-06"
+  },
+  {
     "link": "https://github.com/morishuz/delaunay32",
     "title": "[英] Exact, parallel 2D Delaunay triangulation for int32 coordinates",
     "date": "2026-08-06"
@@ -67,11 +72,6 @@
   {
     "link": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
     "title": "[英] Goodhart's Law Comes for Every Benchmark You Trust",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://banthethrobber.neocities.org/",
-    "title": "[英] Ban the Throbber",
     "date": "2026-08-06"
   }
 ]
