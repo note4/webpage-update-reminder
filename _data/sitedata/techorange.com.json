@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/08/06/ai-agent-going-to-production-in-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI Agent 進入製造業卻卡在工程系統：真正的瓶頸為何不再是模型？",
+    "date": "2026-08-06 17:35:36"
+  },
+  {
+    "link": "https://techorange.com/2026/08/06/ai-models-have-been-going-rogue-in-tests/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Meta、OpenAI、Anthropic 接連爆 AI Agent 越界，專家：真正失控的不是模型，是人類治理",
+    "date": "2026-08-06 16:32:36"
+  },
+  {
     "link": "https://techorange.com/2026/08/06/anthropic-build-in-house-chip-design-team/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "自研晶片卻不放棄 NVIDIA：Anthropic 為何想用軟硬體協同設計重塑 Claude 成本結構？",
     "date": "2026-08-06 12:43:15"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/08/04/siemens-eda-agentic-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "開源 AI 取代 EDA？西門子 EDA：AI Agent 不會改變商用工具的價值",
     "date": "2026-08-04 19:12:52"
-  },
-  {
-    "link": "https://techorange.com/2026/08/04/oracle-neil-sholay-cloudmile-spencer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "企業都在用 AI，競爭力為何沒拉開？下一步是「垂直 AI」",
-    "date": "2026-08-04 18:37:17"
-  },
-  {
-    "link": "https://techorange.com/2026/08/04/hugging-face-china-ai-race-open-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Qwen 追近前沿、DeepSeek 任務成本僅約 Claude 的 1%，Hugging Face 執行長：中國明年若主導前沿模型也不意外",
-    "date": "2026-08-04 13:12:57"
   }
 ]
