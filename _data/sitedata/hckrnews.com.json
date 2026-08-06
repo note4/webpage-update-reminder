@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.realtor.com/news/real-estate-news/virginia-data-center-electric-infrastructure-spanberger/",
+    "title": "[英] Virginia Orders Data Centers to Pay for Dedicated New Electric Infrastructure",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+    "title": "[英] Decimen Optical Transfer: fountain-coded QR file transfer",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://github.com/pradipta/wallfacer",
+    "title": "[英] Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://github.com/asamassekou10/ship-safe",
+    "title": "[英] Ship Safe, an open source security scanner for coding agents",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://quantego.org/",
+    "title": "[英] Quantego: A Family of Lego Models of IBM Quantum Computers",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom",
+    "title": "[英] Governments are making a dangerous bet on the AI boom",
+    "date": "2026-08-06"
+  },
+  {
+    "link": "https://brill.com/view/journals/beh/aop/article-10.1163-1568539X-bja10370/article-10.1163-1568539X-bja10370.xml",
+    "title": "[英] Do birds enjoy flying? Analysis of affect after flight in galah (E roseicapilla)",
+    "date": "2026-08-06"
+  },
+  {
     "link": "https://marcin.juszkiewicz.com.pl/2026/07/29/new-keyboard-alicja-v2/",
     "title": "[英] New Keyboard: Alicja v2",
     "date": "2026-08-06"
@@ -37,41 +72,6 @@
   {
     "link": "https://shuklaayu.sh/blog/riscv-recompiler",
     "title": "[英] Pushing the limits of RISC-V emulation",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://github.com/morishuz/delaunay32",
-    "title": "[英] Exact, parallel 2D Delaunay triangulation for int32 coordinates",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://twitter.com/nikitabier/status/2085105586966827343/",
-    "title": "[英] I'll be stepping back from leading product for X",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-    "title": "[英] The title cards in Blade Runner are amazing",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233",
-    "title": "[英] OpenAI says my prepaid credits were consumed, refuses to show any record",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-    "title": "[英] NVIDIA’s Vera Whitepaper Has a Thread Loose",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://www.primeintellect.ai/blog/prime-agent",
-    "title": "[英] Prime Agent: A self-improving RLM agent",
-    "date": "2026-08-06"
-  },
-  {
-    "link": "https://github.com/matt-w-horn/morningprint",
-    "title": "[英] Show HN: My receipt printer prints an original artwork every morning",
     "date": "2026-08-06"
   }
 ]

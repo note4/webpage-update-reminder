@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/08/06/anthropic-build-in-house-chip-design-team/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "自研晶片卻不放棄 NVIDIA：Anthropic 為何想用軟硬體協同設計重塑 Claude 成本結構？",
+    "date": "2026-08-06 12:43:15"
+  },
+  {
+    "link": "https://techorange.com/2026/08/06/meta-muse-code-muse-spark-1-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Meta 首款程式代理 Muse Code 上線！改按 token 計費，最低價要拿你的程式碼交換",
+    "date": "2026-08-06 12:27:48"
+  },
+  {
     "link": "https://techorange.com/2026/08/06/ceos-real-ai-problem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "六成企業看不到 AI 成效，CEO 們該問的不是用了多少 AI 而是「品質怎麼衡量」",
     "date": "2026-08-06 10:29:47"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/08/04/hugging-face-china-ai-race-open-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Qwen 追近前沿、DeepSeek 任務成本僅約 Claude 的 1%，Hugging Face 執行長：中國明年若主導前沿模型也不意外",
     "date": "2026-08-04 13:12:57"
-  },
-  {
-    "link": "https://techorange.com/2026/08/04/qnap-qsirch-nas-aimode/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "從直覺語意搜尋到企業知識庫：QNAP Qsirch 7.1.0 雙核 AI 架構與落地藍圖",
-    "date": "2026-08-04 11:11:22"
-  },
-  {
-    "link": "https://techorange.com/2026/08/04/ai-in-3d-printing-industry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 串聯 3D 列印產業鏈，生成式 AI 讓人能從一張照片做出實體產品",
-    "date": "2026-08-04 11:08:01"
   }
 ]
