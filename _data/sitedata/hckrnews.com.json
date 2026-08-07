@@ -1,7 +1,42 @@
 [
   {
-    "link": "https://github.com/Kayvan-Zahiri/asr-age-gap",
-    "title": "[英] Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds",
+    "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+    "title": "[英] Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://mag.uchicago.edu/arts-humanities/shades-meaning",
+    "title": "[英] Shades of Meaning (2018)",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2003-a-retired-man-planted-trees-on-forgotten-land-alone-20-years-later-it-had-become-one-of-sao-paulos-largest-urban-forests/articleshow/132761848.cms",
+    "title": "[英] Retired man plants trees on forgotten land, now it's Sao Paulo's largest park",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://www.nationalreview.com/corner/obviously-doge-did-not-save-money/",
+    "title": "[英] Obviously, DOGE Did Not Save Money",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
+    "title": "[英] Why Estonians invite strangers into their back gardens each summer",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+    "title": "[英] New Orleans will use AI to answer 911 calls instead of a human",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cj63966j95yo",
+    "title": "[英] Trump again tries to limit US birthright citizenship with new executive orders",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49204388",
+    "title": "[英] undefined",
     "date": "2026-08-07"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://github.com/mattdeeds/pokeemerald-rp2350",
     "title": "[英] Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization",
-    "title": "[英] A Visual Guide to Quantization (2024)",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-    "title": "[英] Welcoming the Nepalese Government to Have I Been Pwned",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://www.aleksagordic.com/blog/vllm",
-    "title": "[英] Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-    "title": "[英] Bioengineered chewing gum may offer a way to fight microbes linked to cancers",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://www.pbs.org/newshour/world/civilians-that-were-under-siege-by-a-mexican-cartel-fight-back-with-ak-47s-and-grenades",
-    "title": "[英] Civilians under siege by Mexican cartel fight back with AK-47s, grenades",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.25373",
-    "title": "[英] Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://keel-iot.eu/blog/state-oriented-consistency.html",
-    "title": "[英] State-oriented consistency: Why we stopped looking for one right answer",
     "date": "2026-08-07"
   }
 ]
