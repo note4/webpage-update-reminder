@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7",
+    "title": "[英] U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://github.com/Wyzer-Lang/wyzer",
+    "title": "[英] Show HN: Wyzer Programming Language",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://text.npr.org/nx-s1-5922530",
+    "title": "[英] Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+    "title": "[英] AI psychosis is the new leadership blind spot",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "[英] Why is Everyone in Tech so sad?",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+    "title": "[英] Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+    "title": "[英] Radical Study Suggests Life on Earth Arose Twice",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://blog.cloudflare.com/kitesurf/",
+    "title": "[英] Kitesurf: Agent-first browser that runs in V8 isolates",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+    "title": "[英] U.S. economy lost 23,000 jobs in July, a sudden reversal",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://dmarcguard.io/blog/tlsa-record-setup/",
+    "title": "[英] How to Generate a TLSA Record and Fix the 3 1 1 Mismatch",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://w.on-t.work/web-deployment-model",
+    "title": "[英] The web server deployment model breaks at hobby scale",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797",
+    "title": "[英] DOGE overstated savings, government watchdog says",
+    "date": "2026-08-07"
+  },
+  {
     "link": "https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668",
     "title": "[英] Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas",
     "date": "2026-08-07"
@@ -12,66 +72,6 @@
   {
     "link": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
     "title": "[英] Generative \"AI\": The Guitar Hero of Creativity",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://github.com/schroedinger-Hat/certo",
-    "title": "[英] Show HN: Certo – An open source platform to deliver Open Badges",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization",
-    "title": "[英] The Gargantuan Lie That Is Collapsing the Climate",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
-    "title": "[英] The BBC Tetris Companion",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-    "title": "[英] US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
-    "title": "[英] Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=GwMtzhjCzyc",
-    "title": "[英] A quine in Piet – a GIF image that prints itself [video]",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-    "title": "[英] 2027 memory capacity is reportedly sold out",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
-    "title": "[英] I won't read LLM authored fiction",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://bkaradzic.github.io/posts/scanner/",
-    "title": "[英] Parsers don't have to be complicated",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo",
-    "title": "[英] Artificial Intelligence used to design new viruses",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://read-the-water.netlify.app/",
-    "title": "[英] Show HN: A free mini game that makes you a smarter fly fisherperson",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://roge.onwrite.app/what-is-a-product",
-    "title": "[英] What is a product?",
     "date": "2026-08-07"
   }
 ]
