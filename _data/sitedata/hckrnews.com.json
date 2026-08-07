@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
+    "title": "[英] Tax cuts for the wealthy only benefit the rich (2023)",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+    "title": "[英] Möbius-Strip Crosswords",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
+    "title": "[英] The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+    "title": "[英] Responding to the next frontier of critical cyber capabilities",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/",
+    "title": "[英] The AI Billboards Are Killing SF",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://www.sdss.org/black-hole-mapper-release-20/",
+    "title": "[英] An all-sky map of half a million supermassive black holes",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
+    "title": "[英] Zohran Mamdani's NYC Tech Team Is What DOGE Should Have Been",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://londonist.com/london/history/oxford-street-beavers",
+    "title": "[英] Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
+    "date": "2026-08-08"
+  },
+  {
     "link": "https://www.freeformatter.com/",
     "title": "[英] Another Corner of the Internet Has Been Ruined",
     "date": "2026-08-08"
@@ -32,46 +72,6 @@
   {
     "link": "https://textlog.cc/about",
     "title": "[英] Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
-    "title": "[英] USA Today Co., partners with Palantir to analyze audience data",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://ykiko.me/en/articles/692886292/",
-    "title": "[英] Thoroughly Understanding C++ ABI",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7",
-    "title": "[英] U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://github.com/Wyzer-Lang/wyzer",
-    "title": "[英] Show HN: Wyzer Programming Language",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://text.npr.org/nx-s1-5922530",
-    "title": "[英] Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-    "title": "[英] AI psychosis is the new leadership blind spot",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "[英] Why is Everyone in Tech so sad?",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-    "title": "[英] Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
     "date": "2026-08-08"
   }
 ]
