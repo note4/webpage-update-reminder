@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://genesisopenmodels.anl.gov/",
+    "title": "[英] U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://www.hypertesto.me/en/blog/2026/08/curlese-five-years-later",
+    "title": "[英] Curlese, Five Years Later",
+    "date": "2026-08-08"
+  },
+  {
     "link": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
     "title": "[英] Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
     "date": "2026-08-08"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
     "title": "[英] Databricks drove down AI coding spend 70%",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://ancientlibrary.net/",
-    "title": "[英] Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49214065",
-    "title": "[英] undefined",
     "date": "2026-08-08"
   }
 ]
