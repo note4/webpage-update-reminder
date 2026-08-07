@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/intl/zh-tw/products/cloud/security_operations_launch_in_taiwan_region/",
+    "title": "Google Cloud 在台啟用資安營運平台，協助組織強化數位主權",
+    "date": "2026-08-07 21:00:00"
+  },
+  {
     "link": "https://blog.google/intl/zh-tw/products/devices-services/gemini-spark-ai/",
     "title": "隆重介紹 Gemini Spark：你全天候的個人 AI 代理",
     "date": "2026-07-29 20:00:00"
@@ -67,11 +72,6 @@
   {
     "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/gemini-3-5/",
     "title": "Gemini 3.5 正式登場：懂你所想，為你代勞",
-    "date": "2026-05-20 09:45:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/sundar-pichai-io-2026/",
-    "title": "2026 年 I/O 大會：歡迎來到 Gemini 代理新紀元",
     "date": "2026-05-20 09:45:00"
   }
 ]

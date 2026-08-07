@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://socket.dev/blog/ai-agent-open-source-malware",
+    "title": "[英] Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://onekey.so/anzen/coldcard-entropy-failure/",
+    "title": "[英] Lines of code. 1,596 BTC gone",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
+    "title": "[英] Learning to fly FPV drones with AI flight coach",
+    "date": "2026-08-07"
+  },
+  {
     "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
     "title": "[英] Hackers Stalked Me by Hijacking a Smartwatch for Kids",
     "date": "2026-08-07"
@@ -57,21 +72,6 @@
   {
     "link": "https://zenodo.org/records/21359923",
     "title": "[英] Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
-    "title": "[英] I stopped trusting USB-C cable labels and started testing them",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://www.githubstatus.com/uptime/br0l2tvcx85d",
-    "title": "[英] GitHub Actions suffers second-longest major outage in its history",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://github.com/mattdeeds/pokeemerald-rp2350",
-    "title": "[英] Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
     "date": "2026-08-07"
   }
 ]
