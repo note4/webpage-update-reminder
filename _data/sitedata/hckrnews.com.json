@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
+    "title": "[英] The BBC Tetris Companion",
+    "date": "2026-08-07"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+    "title": "[英] US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+    "date": "2026-08-07"
+  },
+  {
     "link": "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
     "title": "[英] Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
     "date": "2026-08-07"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
     "title": "[英] Atomic Clocks",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://socket.dev/blog/ai-agent-open-source-malware",
-    "title": "[英] Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://onekey.so/anzen/coldcard-entropy-failure/",
-    "title": "[英] Lines of code. 1,596 BTC gone",
     "date": "2026-08-07"
   }
 ]
