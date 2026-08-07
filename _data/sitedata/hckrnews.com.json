@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://chasa.io/",
+    "title": "[英] Chasa",
+    "date": "2026-08-08"
+  },
+  {
     "link": "https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support",
     "title": "[英] Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support",
     "date": "2026-08-08"
@@ -67,11 +72,6 @@
   {
     "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
     "title": "[英] Oracle bans AI-generated code from OpenJDK",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225",
-    "title": "[英] Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years",
     "date": "2026-08-08"
   }
 ]
