@@ -1,7 +1,12 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=GwMtzhjCzyc",
+    "title": "[英] A quine in Piet – a GIF image that prints itself [video]",
+    "date": "2026-08-07"
+  },
+  {
     "link": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-    "title": "[英] All memory manufactured in 2027 has been sold out",
+    "title": "[英] 2027 memory capacity is reportedly sold out",
     "date": "2026-08-07"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
     "title": "[英] Learning to fly FPV drones with AI flight coach",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
-    "title": "[英] Hackers Stalked Me by Hijacking a Smartwatch for Kids",
     "date": "2026-08-07"
   }
 ]
