@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
+    "title": "[英] Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+    "date": "2026-08-07"
+  },
+  {
     "link": "https://www.youtube.com/watch?v=GwMtzhjCzyc",
     "title": "[英] A quine in Piet – a GIF image that prints itself [video]",
     "date": "2026-08-07"
@@ -67,11 +72,6 @@
   {
     "link": "https://onekey.so/anzen/coldcard-entropy-failure/",
     "title": "[英] Lines of code. 1,596 BTC gone",
-    "date": "2026-08-07"
-  },
-  {
-    "link": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
-    "title": "[英] Learning to fly FPV drones with AI flight coach",
     "date": "2026-08-07"
   }
 ]
