@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://alaskabeacon.com/briefs/cruise-ship-helps-stranded-skiff-and-crew-in-southeast-alaska-as-zuckerberg-yacht-stands-by/",
+    "title": "[英] Cruise ship helps stranded skiff, crew in Alaska as Zuckerberg yacht stands by",
+    "date": "2026-08-09"
+  },
+  {
+    "link": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
+    "title": "[英] Building a Rust Inference Engine That Matches Llama.cpp",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://mastodon.social/@sundogplanets/117043472890805956",
     "title": "[英] You can't have 24hour sunlight AND low altitude, low-latency orbits",
     "date": "2026-08-09"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
     "title": "[英] Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49221089",
-    "title": "[英] undefined",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://andreadimatteo.com/torus-v0-5.html",
-    "title": "[英] Show HN: Rotating torus in terminal (but with kitty graphics protocol)",
     "date": "2026-08-09"
   }
 ]
