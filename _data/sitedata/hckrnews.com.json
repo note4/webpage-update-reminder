@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://mastodon.social/@sundogplanets/117043472890805956",
+    "title": "[英] You can't have 24hour sunlight AND low altitude, low-latency orbits",
+    "date": "2026-08-09"
+  },
+  {
+    "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+    "title": "[英] Triton: DirectX 11 Driver for QEMU",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://thezvi.substack.com/p/openai-trained-its-models-for-months",
     "title": "[英] OpenAI Trained Models While They Were Coordinating Exploits via Message Boards",
     "date": "2026-08-09"
@@ -55,23 +65,13 @@
     "date": "2026-08-09"
   },
   {
+    "link": "https://news.ycombinator.com/item?id=49221089",
+    "title": "[英] undefined",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://andreadimatteo.com/torus-v0-5.html",
     "title": "[英] Show HN: Rotating torus in terminal (but with kitty graphics protocol)",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-    "title": "[英] The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://ecosophia.net/a-tome-of-forbidden-technologies/",
-    "title": "[英] A Tome of Forbidden Technologies",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html",
-    "title": "[英] The USSR in 100 Photographs",
     "date": "2026-08-09"
   }
 ]
