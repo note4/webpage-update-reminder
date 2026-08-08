@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "title": "[英] Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.25973",
+    "title": "[英] k-Coloring is Faster than Computing the Chromatic Number",
+    "date": "2026-08-08"
+  },
+  {
     "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "title": "[英] DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
     "date": "2026-08-08"
@@ -62,16 +72,6 @@
   {
     "link": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
     "title": "[英] From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
-    "title": "[英] Working on Economics with Fable 5",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
-    "title": "[英] As a Windows user, it's a surreal way to install a program",
     "date": "2026-08-08"
   }
 ]
