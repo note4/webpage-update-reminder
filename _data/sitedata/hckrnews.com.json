@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://sebsite.pw/w/20260806-pystrings.html",
+    "title": "[英] Python string literals are kinda funny",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://classicbits.net/coding-and-software/my-software/monosol/",
     "title": "[英] TinySol, a tiny solitaire game for DOS",
     "date": "2026-08-09"
@@ -67,11 +72,6 @@
   {
     "link": "https://thezvi.substack.com/p/openai-trained-its-models-for-months",
     "title": "[英] OpenAI Trained Models While They Were Coordinating Exploits via Message Boards",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://adepts.of0x.cc/eufy-doorbell-hacking/",
-    "title": "[英] From your doorbell to your home network",
     "date": "2026-08-09"
   }
 ]
