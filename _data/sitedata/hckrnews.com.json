@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
+    "title": "[英] The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
+    "date": "2026-08-09"
+  },
+  {
+    "link": "http://www.davetech.co.uk/difficultycurves",
+    "title": "[英] Making difficulty curves in games",
+    "date": "2026-08-09"
+  },
+  {
+    "link": "https://citizendot.github.io/articles/the-idea-of-immutable-social-media/",
+    "title": "[英] The Idea of an Immutable Social Media",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
     "title": "[英] Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
     "date": "2026-08-09"
@@ -57,21 +72,6 @@
   {
     "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
     "title": "[英] \"Code was never the hard part\" is an insult to all programmers",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://toonk.io/index.html",
-    "title": "[英] Wireblast a 100 Gbps packet generator in Go using AF_XDP",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-    "title": "[英] Fastmail offers EU data region",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://github.com/andrewpollack/linkedin-feed-blocker",
-    "title": "[英] LinkedIn Feed Blocker",
     "date": "2026-08-09"
   }
 ]
