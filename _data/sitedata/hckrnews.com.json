@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments",
+    "title": "[英] BYOC Is Not Just 'Deploy into Their Cloud'",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+    "title": "[英] Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://nate.spot/no-phone-while-poop/",
+    "title": "[英] Don't use your phone while you poop",
+    "date": "2026-08-08"
+  },
+  {
     "link": "https://social.treehouse.systems/@mgorny/117058483039362779",
     "title": "[英] Gentoo bugzilla closed due AI bot scraper overload",
     "date": "2026-08-08"
@@ -21,7 +36,7 @@
   },
   {
     "link": "https://www.wired.com/story/no-one-can-afford-to-make-myst-games-anymore/",
-    "title": "[英] No One Can Afford to Make Myst Games Anymore",
+    "title": "[英] No one can afford to make Myst games anymore",
     "date": "2026-08-08"
   },
   {
@@ -51,27 +66,12 @@
   },
   {
     "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-    "title": "[英] Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+    "title": "[英] Timeline of the OpenAI accidental attack against Hugging Face",
     "date": "2026-08-08"
   },
   {
     "link": "https://arxiv.org/abs/2607.25973",
     "title": "[英] k-Coloring is Faster than Computing the Chromatic Number",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "title": "[英] DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://github.com/aadisang/hand-wave",
-    "title": "[英] Show HN: Sign language translation with smart glasses",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
-    "title": "[英] Apple Introduces Leasing Program for iPhones and Other Devices",
     "date": "2026-08-08"
   }
 ]
