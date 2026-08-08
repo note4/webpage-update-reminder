@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://seg6.space/posts/phone-server/",
+    "title": "[英] My server is a phone now",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://github.com/GrammaTech/ddisasm",
     "title": "[英] DDisasm: Reversible (bi-directional) Disassembler",
     "date": "2026-08-09"
@@ -67,11 +72,6 @@
   {
     "link": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
     "title": "[英] Amazon Is Creating the Biggest Pollution Source in the Country",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-    "title": "[英] Can Intel finally beat ARM on performance per Watt?",
     "date": "2026-08-09"
   }
 ]
