@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://andreadimatteo.com/torus-v0-5.html",
+    "title": "[英] Show HN: Rotating torus in terminal (but with kitty graphics protocol)",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+    "title": "[英] The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://ecosophia.net/a-tome-of-forbidden-technologies/",
+    "title": "[英] A Tome of Forbidden Technologies",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html",
+    "title": "[英] The USSR in 100 Photographs",
+    "date": "2026-08-08"
+  },
+  {
     "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
     "title": "[英] Now we have a timeline of the OpenAI accidental attack against Hugging Face",
     "date": "2026-08-08"
@@ -52,26 +72,6 @@
   {
     "link": "https://github.com/alfikpl/ao486",
     "title": "[英] ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://github.com/xoreaxeaxeax/rosenbridge",
-    "title": "[英] Hardware backdoors in some x86 CPUs",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html",
-    "title": "[英] How the 'fecal revolution' changed Earth's ecosystems",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49219418",
-    "title": "[英] undefined",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
-    "title": "[英] From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
     "date": "2026-08-08"
   }
 ]
