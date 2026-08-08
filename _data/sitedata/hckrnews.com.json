@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://github.com/peterkelly/captain-bible-re",
+    "title": "[英] Captain Bible Reverse Engineering",
+    "date": "2026-08-08"
+  },
+  {
     "link": "https://genesisopenmodels.anl.gov/",
     "title": "[英] U.S. Department of Energy Launches the Genesis Open Models Initiative",
     "date": "2026-08-08"
@@ -46,7 +51,7 @@
   },
   {
     "link": "https://xvw.lol/en/articles/oop-refl.html",
-    "title": "[英] Guarded Methods in OCaml",
+    "title": "[英] Guarded Methods in OCaml (2025)",
     "date": "2026-08-08"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
     "title": "[英] App Store Rejection of the Week: Dark Hours",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-    "title": "[英] Databricks drove down AI coding spend 70%",
     "date": "2026-08-08"
   }
 ]
