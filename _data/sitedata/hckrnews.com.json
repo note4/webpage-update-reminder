@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://github.com/xoreaxeaxeax/rosenbridge",
+    "title": "[英] Hardware backdoors in some x86 CPUs",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html",
+    "title": "[英] How the 'fecal revolution' changed Earth's ecosystems",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://www.harperflow.io/dead-internet",
+    "title": "[英] Stack Overflow new questions are down 98.5% since ChatGPT (+ 5 other platforms)",
+    "date": "2026-08-08"
+  },
+  {
     "link": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
     "title": "[英] From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
     "date": "2026-08-08"
@@ -26,7 +41,7 @@
   },
   {
     "link": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-    "title": "[英] Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
+    "title": "[英] A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
     "date": "2026-08-08"
   },
   {
@@ -36,7 +51,7 @@
   },
   {
     "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-    "title": "[英] NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+    "title": "[英] NASA figured out how to keep its Voyager 2 probe running for another year",
     "date": "2026-08-08"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
     "title": "[英] Should AI labs be treated like the owners of dangerous animals?",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://github.com/peterkelly/captain-bible-re",
-    "title": "[英] Captain Bible Reverse Engineering",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://genesisopenmodels.anl.gov/",
-    "title": "[英] U.S. Department of Energy Launches the Genesis Open Models Initiative",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://www.hypertesto.me/en/blog/2026/08/curlese-five-years-later",
-    "title": "[英] Curlese, Five Years Later",
     "date": "2026-08-08"
   }
 ]
