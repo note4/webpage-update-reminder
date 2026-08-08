@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Tell_Abu_Hureyra",
+    "title": "[英] Tell Abu Hureyra (prehistoric archaeological site)",
+    "date": "2026-08-08"
+  },
+  {
     "link": "https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/",
     "title": "[英] Grindr CEO Says AI Is Doing the Work of 200 Engineers",
     "date": "2026-08-08"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/",
     "title": "[英] I'm Pulling ColorCopy from the macOS App Store",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-    "title": "[英] The Nixpkgs core team has disbanded",
     "date": "2026-08-08"
   }
 ]
