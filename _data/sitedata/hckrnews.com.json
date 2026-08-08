@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.wired.com/story/no-one-can-afford-to-make-myst-games-anymore/",
+    "title": "[英] No One Can Afford to Make Myst Games Anymore",
+    "date": "2026-08-08"
+  },
+  {
+    "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+    "title": "[英] Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+    "date": "2026-08-08"
+  },
+  {
     "link": "https://andreadimatteo.com/torus-v0-5.html",
     "title": "[英] Show HN: Rotating torus in terminal (but with kitty graphics protocol)",
     "date": "2026-08-08"
@@ -62,16 +72,6 @@
   {
     "link": "https://en.wikipedia.org/wiki/Tell_Abu_Hureyra",
     "title": "[英] Tell Abu Hureyra (prehistoric archaeological site)",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/",
-    "title": "[英] Grindr CEO Says AI Is Doing the Work of 200 Engineers",
-    "date": "2026-08-08"
-  },
-  {
-    "link": "https://github.com/alfikpl/ao486",
-    "title": "[英] ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
     "date": "2026-08-08"
   }
 ]
