@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://zeus.ugent.be/blog/25-26/12urenloop-uwb/",
+    "title": "[英] Building a local positioning system to track runners using Ultra-Wideband",
+    "date": "2026-08-09"
+  },
+  {
+    "link": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+    "title": "[英] Open-source interactive map for the Aug 12 total solar eclipse",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://code.claude.com/docs/en/cross-session-messaging",
     "title": "[英] Message your other Claude Code sessions",
     "date": "2026-08-09"
@@ -62,16 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=49222993",
     "title": "[英] undefined",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
-    "title": "[英] Building a Rust Inference Engine That Matches Llama.cpp",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://mastodon.social/@sundogplanets/117043472890805956",
-    "title": "[英] You can't have 24hour sunlight AND low altitude, low-latency orbits",
     "date": "2026-08-09"
   }
 ]
