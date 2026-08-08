@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://github.com/GrammaTech/ddisasm",
+    "title": "[英] DDisasm: Reversible (bi-directional) Disassembler",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=49226113",
     "title": "[英] undefined",
     "date": "2026-08-09"
@@ -67,11 +72,6 @@
   {
     "link": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
     "title": "[英] Can Intel finally beat ARM on performance per Watt?",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://etbe.coker.com.au/2026/08/05/monitors-for-work/",
-    "title": "[英] Monitors for Work",
     "date": "2026-08-09"
   }
 ]
