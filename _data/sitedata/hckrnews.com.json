@@ -1,12 +1,17 @@
 [
   {
+    "link": "https://blog.denv.it/posts/when-the-apartment-listing-is-too-good-to-be-true/",
+    "title": "[英] When the apartment listing is too good to be true",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://kibotronics.net/unlisted/lilly-machines/",
     "title": "[英] John C. Lilly on solid state intelligence and the elimination of man (1978)",
     "date": "2026-08-09"
   },
   {
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota",
-    "title": "[英] An Israeli professor lost a prestigious US job offer after speaking out on Gaza",
+    "link": "https://news.ycombinator.com/item?id=49231419",
+    "title": "[英] undefined",
     "date": "2026-08-09"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
     "title": "[英] Reviving a four year old reMarkable 2",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://github.com/uber/submitqueue/",
-    "title": "[英] Uber SubmitQueue: a high-performance speculative merge queue",
     "date": "2026-08-09"
   }
 ]
