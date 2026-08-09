@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://dylancastillo.co/posts/matryoshka-vs-pca",
+    "title": "[英] Honey, I shrunk the embeddings: Matryoshka vs. PCA",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
     "title": "[英] Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
     "date": "2026-08-09"
@@ -67,11 +72,6 @@
   {
     "link": "https://halfhill.com/byte/1998-12_alpha.html",
     "title": "[英] The Alpha 21264 CPU: NT's Greatest RISC (1998)",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-    "title": "[英] CSS: The bomb inside your inbox",
     "date": "2026-08-09"
   }
 ]
