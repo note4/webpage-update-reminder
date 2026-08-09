@@ -1,17 +1,32 @@
 [
   {
+    "link": "https://blog.mastykarz.nl/coding-is-solved-misses-the-point/",
+    "title": "[英] \"Coding is solved\" misses the point",
+    "date": "2026-08-09"
+  },
+  {
+    "link": "https://github.com/jmarshall23/msword",
+    "title": "[英] Microsoft Word for Windows 1.1a, Native X64 Port",
+    "date": "2026-08-09"
+  },
+  {
+    "link": "https://fiberfs.io/blog/assert_a_modern_how_to",
+    "title": "[英] Assert(): A Modern How To",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://marketnow.site/",
     "title": "[英] Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
     "date": "2026-08-09"
   },
   {
     "link": "https://itsfoss.com/news/illinois-age-verification-bill/",
-    "title": "[英] Illinois Just Told Every Operating System to Start Reporting Your Kid's Age",
+    "title": "[英] Illinois just told every operating system to start reporting your kid's age",
     "date": "2026-08-09"
   },
   {
-    "link": "https://longbets.org/601/",
-    "title": "[英] \"The original URL for this prediction will no longer be available in 11 years.\" (2011)",
+    "link": "http://longbets.org/601/",
+    "title": "[英] The original URL for this prediction will no longer be available in 11 years (2011)",
     "date": "2026-08-09"
   },
   {
@@ -21,7 +36,7 @@
   },
   {
     "link": "https://www.experimental-history.com/p/incentives-are-for-losers",
-    "title": "[英] Incentives Are for Losers",
+    "title": "[英] Incentives are for losers",
     "date": "2026-08-09"
   },
   {
@@ -41,12 +56,12 @@
   },
   {
     "link": "https://theoremdb.org/",
-    "title": "[英] TheoremDB · A public workspace for machine mathematics",
+    "title": "[英] TheoremDB – A public workspace for machine mathematics",
     "date": "2026-08-09"
   },
   {
     "link": "https://www.nature.com/articles/s44184-025-00171-5",
-    "title": "[英] Unexpected events and prosocial behavior: the Batman effect",
+    "title": "[英] Unexpected events and prosocial behavior: the Batman effect (2025)",
     "date": "2026-08-09"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://software.rajivprab.com/2019/12/19/when-feature-flags-do-and-dont-make-sense/",
     "title": "[英] When Feature Flags Do and Don't Make Sense",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
-    "title": "[英] The AI Apocalypse Is Here",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
-    "title": "[英] Should you stop cracking your knuckles?",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://shopify.engineering/scaling-inventory-reservations",
-    "title": "[英] Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
     "date": "2026-08-09"
   }
 ]
