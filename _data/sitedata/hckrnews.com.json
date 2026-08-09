@@ -1,7 +1,27 @@
 [
   {
-    "link": "https://netbajura.blogspot.com/2026/08/inside-meme-factory-how-indonesians-are.html",
-    "title": "[英] The Meme Factory: The Indonesians Making Money Off Facebook Outrage",
+    "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+    "title": "[英] The tragedy of the commons, AI edition",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://github.com/yegors/deGDID",
+    "title": "[英] Deletes all instances of Microsoft's GDID and prevents minting of new ones",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://nemanjatrifunovic.substack.com/p/when-compilers-disagree-about-utf8",
+    "title": "[英] When Compilers Disagree About UTF‑8",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium",
+    "title": "[英] Poland now 6th-largest EU economy, ahead of Switzerland and Belgium",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49233408",
+    "title": "[英] undefined",
     "date": "2026-08-10"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://chriswheeler.dev/posts/cross-compilation-with-wails/",
     "title": "[英] Cross-compilation with Wails (2025)",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://unyolo.io/",
-    "title": "[英] UnYOLO: Agent credential broker and policy engine for your GitHub account",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
-    "title": "[英] An OpenAI Strategist Says AI Labs Should Rival Government Power",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
-    "title": "[英] Show HN: A replayable A2A jury for tracing how agents influence decisions",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://openchamber.dev/",
-    "title": "[英] OpenChamber: An Agentic Development Environment",
     "date": "2026-08-10"
   }
 ]
