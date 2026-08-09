@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
+    "title": "[英] Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you",
+    "title": "[英] If experience is the goal, then you always win",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://www.nytimes.com/2025/05/09/technology/apple-app-store-antitrust.html",
+    "title": "[英] Apple lied under oath to a federal court. The decision to lie came from Tim Cook",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://chriswheeler.dev/posts/cross-compilation-with-wails/",
+    "title": "[英] Cross-compilation with Wails (2025)",
+    "date": "2026-08-10"
+  },
+  {
     "link": "https://unyolo.io/",
     "title": "[英] UnYOLO: Agent credential broker and policy engine for your GitHub account",
     "date": "2026-08-10"
@@ -45,33 +65,13 @@
     "date": "2026-08-10"
   },
   {
-    "link": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-    "title": "[英] AI Code Is Insane Trash",
+    "link": "https://news.ycombinator.com/item?id=49233313",
+    "title": "[英] undefined",
     "date": "2026-08-10"
   },
   {
     "link": "https://en.wikipedia.org/wiki/Crickets_as_pets",
     "title": "[英] Crickets as Pets",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo",
-    "title": "[英] Banksy works cost public almost £150k",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
-    "title": "[英] FCC moves to ban Lidar-equipped foreign drones from US",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://github.com/eighttrigrams/us-vs-them",
-    "title": "[英] Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
-    "title": "[英] Criminal Deception in Silicon Valley",
     "date": "2026-08-10"
   }
 ]
