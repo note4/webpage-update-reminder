@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+    "title": "[英] ChatGPT starts blocking direct requests to copy an author's style",
+    "date": "2026-08-09"
+  },
+  {
+    "link": "https://theoremdb.org/",
+    "title": "[英] TheoremDB · A public workspace for machine mathematics",
+    "date": "2026-08-09"
+  },
+  {
+    "link": "https://www.nature.com/articles/s44184-025-00171-5",
+    "title": "[英] Unexpected events and prosocial behavior: the Batman effect",
+    "date": "2026-08-09"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
+    "title": "[英] The phone book that led us to Assad's spy chief in hiding",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://software.rajivprab.com/2019/12/19/when-feature-flags-do-and-dont-make-sense/",
     "title": "[英] When Feature Flags Do and Don't Make Sense",
     "date": "2026-08-09"
@@ -52,26 +72,6 @@
   {
     "link": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
     "title": "[英] Improving Heuristics for A* Pathfinding",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://seg6.space/posts/phone-server/",
-    "title": "[英] My server is a phone now",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://github.com/GrammaTech/ddisasm",
-    "title": "[英] DDisasm: Reversible (bi-directional) Disassembler",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49226113",
-    "title": "[英] undefined",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
-    "title": "[英] The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf] (1960)",
     "date": "2026-08-09"
   }
 ]
