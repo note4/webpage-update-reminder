@@ -1,12 +1,17 @@
 [
   {
+    "link": "https://www.science.org/doi/10.1126/science.adv5441",
+    "title": "[英] The climate benefits of retiring an operational combustion engine vehicle",
+    "date": "2026-08-10"
+  },
+  {
     "link": "https://tuxedono2.com",
     "title": "[英] Tuxedo No. 2 – Cocktail recipes",
     "date": "2026-08-10"
   },
   {
     "link": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
-    "title": "[英] \"I loved every minute of it, however hard it had been\" [video]",
+    "title": "[英] “I loved every minute of it, however hard it had been” (1995) [video]",
     "date": "2026-08-10"
   },
   {
@@ -16,7 +21,7 @@
   },
   {
     "link": "https://mynoise.net/vlog.php?ep=20260803",
-    "title": "[英] I Made Tinnitus My Friend (Then It Disappeared)",
+    "title": "[英] I Made Tinnitus My Friend (Then It Disappeared) [video]",
     "date": "2026-08-10"
   },
   {
@@ -27,6 +32,11 @@
   {
     "link": "https://blog.raed.dev/posts/motocycle/",
     "title": "[英] Two wheels, a few tradeoffs, and gas prices",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://phrack.org/issues/72/19#article",
+    "title": "[英] The Hacker's Renaissance",
     "date": "2026-08-10"
   },
   {
@@ -41,12 +51,7 @@
   },
   {
     "link": "https://arks.org/",
-    "title": "[英] Archival Resource Key (Ark) Alliance",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://phrack.org/issues/72/19#article",
-    "title": "[英] The Hacker's Renaissance",
+    "title": "[英] Archival Resource Key (ARK) Alliance",
     "date": "2026-08-10"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://nemanjatrifunovic.substack.com/p/when-compilers-disagree-about-utf8",
     "title": "[英] When Compilers Disagree About UTF‑8",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium",
-    "title": "[英] Poland now 6th-largest EU economy, ahead of Switzerland and Belgium",
     "date": "2026-08-10"
   }
 ]
