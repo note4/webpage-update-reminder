@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/",
+    "title": "[英] Georgia police officers fired after Flock camera misuse",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://theconsensus.dev/blog/2026/08/05/touring-the-consensus-six-months-in.html",
+    "title": "[英] Touring the Consensus, Six Months In",
+    "date": "2026-08-10"
+  },
+  {
     "link": "https://www.science.org/doi/10.1126/science.adv5441",
     "title": "[英] The climate benefits of retiring an operational combustion engine vehicle",
     "date": "2026-08-10"
@@ -11,7 +21,7 @@
   },
   {
     "link": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
-    "title": "[英] “I loved every minute of it, however hard it had been” (1995) [video]",
+    "title": "[英] Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
     "date": "2026-08-10"
   },
   {
@@ -21,7 +31,7 @@
   },
   {
     "link": "https://mynoise.net/vlog.php?ep=20260803",
-    "title": "[英] I Made Tinnitus My Friend (Then It Disappeared) [video]",
+    "title": "[英] I made tinnitus my friend, then it disappeared [video]",
     "date": "2026-08-10"
   },
   {
@@ -35,13 +45,13 @@
     "date": "2026-08-10"
   },
   {
-    "link": "https://phrack.org/issues/72/19#article",
-    "title": "[英] The Hacker's Renaissance",
+    "link": "https://arks.org/",
+    "title": "[英] Archival Resource Key (ARK) Alliance",
     "date": "2026-08-10"
   },
   {
     "link": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
-    "title": "[英] How not to turn ideologically crazy",
+    "title": "[英] The main way I've seen people turn ideologically crazy (2025)",
     "date": "2026-08-10"
   },
   {
@@ -50,8 +60,8 @@
     "date": "2026-08-10"
   },
   {
-    "link": "https://arks.org/",
-    "title": "[英] Archival Resource Key (ARK) Alliance",
+    "link": "https://phrack.org/issues/72/19#article",
+    "title": "[英] The Hacker's Renaissance",
     "date": "2026-08-10"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
     "title": "[英] The tragedy of the commons, AI edition",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://github.com/yegors/deGDID",
-    "title": "[英] Deletes all instances of Microsoft's GDID and prevents minting of new ones",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://nemanjatrifunovic.substack.com/p/when-compilers-disagree-about-utf8",
-    "title": "[英] When Compilers Disagree About UTF‑8",
     "date": "2026-08-10"
   }
 ]
