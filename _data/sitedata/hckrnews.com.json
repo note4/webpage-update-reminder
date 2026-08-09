@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+    "title": "[英] Improving Heuristics for A* Pathfinding",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://seg6.space/posts/phone-server/",
     "title": "[英] My server is a phone now",
     "date": "2026-08-09"
@@ -67,11 +72,6 @@
   {
     "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
     "title": "[英] Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
-    "title": "[英] Amazon Is Creating the Biggest Pollution Source in the Country",
     "date": "2026-08-09"
   }
 ]
