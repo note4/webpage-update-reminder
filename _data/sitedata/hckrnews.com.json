@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://marketnow.site/",
+    "title": "[英] Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+    "date": "2026-08-09"
+  },
+  {
+    "link": "https://itsfoss.com/news/illinois-age-verification-bill/",
+    "title": "[英] Illinois Just Told Every Operating System to Start Reporting Your Kid's Age",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://longbets.org/601/",
     "title": "[英] \"The original URL for this prediction will no longer be available in 11 years.\" (2011)",
     "date": "2026-08-09"
@@ -62,16 +72,6 @@
   {
     "link": "https://shopify.engineering/scaling-inventory-reservations",
     "title": "[英] Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://gdcvault.com/play/1024135/The-Sound-and-Music-of",
-    "title": "[英] The Sound and Music of 'Hyper Light Drifter' [video]",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b",
-    "title": "[英] You can build an AI agent's memory layer with only Go's standard library",
     "date": "2026-08-09"
   }
 ]
