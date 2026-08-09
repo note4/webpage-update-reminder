@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://kibotronics.net/unlisted/lilly-machines/",
+    "title": "[英] John C. Lilly on solid state intelligence and the elimination of man (1978)",
+    "date": "2026-08-09"
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota",
+    "title": "[英] An Israeli professor lost a prestigious US job offer after speaking out on Gaza",
+    "date": "2026-08-09"
+  },
+  {
+    "link": "https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric",
+    "title": "[英] Switching to electric stoves can dramatically cut indoor air pollution",
+    "date": "2026-08-09"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=68X8yEatepQ",
+    "title": "[英] 70% of AI revenue comes from OpenAI and Anthropic",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://dylancastillo.co/posts/matryoshka-vs-pca",
     "title": "[英] Honey, I shrunk the embeddings: Matryoshka vs. PCA",
     "date": "2026-08-09"
@@ -52,26 +72,6 @@
   {
     "link": "https://github.com/uber/submitqueue/",
     "title": "[英] Uber SubmitQueue: a high-performance speculative merge queue",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-    "title": "[英] Everything You Do Is Being Recorded",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://airy.so",
-    "title": "[英] Show HN: Airy – Free, fast, and simple voice content creation",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://hivekit.io/blog/why-you-might-want-to-build-your-webapp-in-canvas-instead-of-html/",
-    "title": "[英] You might want to build your WebApp in Canvas instead of HTML",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://halfhill.com/byte/1998-12_alpha.html",
-    "title": "[英] The Alpha 21264 CPU: NT's Greatest RISC (1998)",
     "date": "2026-08-09"
   }
 ]
