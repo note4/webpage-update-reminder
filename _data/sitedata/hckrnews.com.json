@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html",
+    "title": "[英] Stylized GGX Shading",
+    "date": "2026-08-09"
+  },
+  {
     "link": "https://blog.mastykarz.nl/coding-is-solved-misses-the-point/",
     "title": "[英] \"Coding is solved\" misses the point",
     "date": "2026-08-09"
@@ -31,7 +36,7 @@
   },
   {
     "link": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
-    "title": "[英] Melatonin impairs morning cognition in healthy young adults",
+    "title": "[英] Melatonin impairs morning cognition in healthy young adults (2023)",
     "date": "2026-08-09"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
     "title": "[英] The phone book that led us to Assad's spy chief in hiding",
-    "date": "2026-08-09"
-  },
-  {
-    "link": "https://software.rajivprab.com/2019/12/19/when-feature-flags-do-and-dont-make-sense/",
-    "title": "[英] When Feature Flags Do and Don't Make Sense",
     "date": "2026-08-09"
   }
 ]
