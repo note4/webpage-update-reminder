@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.meta.com/thefutureisforeveryone/",
+    "title": "[英] The Future Is for Everyone – The Path to a Positive AI Future",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://github.com/mrblakessinger-rgb/qec-evaluation-suite",
+    "title": "[英] Open QEC harness – greedy vs. GE, uniform vs. clustered k=4",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://www.economist.com/finance-and-economics/2026/08/09/china-is-now-the-worlds-great-oil-power",
+    "title": "[英] China is now the world's greatest oil power",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "title": "[英] Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://julienreszka.com/blog/your-pension-depends-on-kids-you-did-not-have/",
+    "title": "[英] Your Pension Depends on Kids You Did Not Have",
+    "date": "2026-08-10"
+  },
+  {
     "link": "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/",
     "title": "[英] Defending my own brain against enshittification",
     "date": "2026-08-10"
@@ -47,31 +72,6 @@
   {
     "link": "https://github.com/ben-z/findphone",
     "title": "[英] Findphone: Locate a nearby Bluetooth device by signal strength",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://ethw.org/Milestones:Parametron,_1954",
-    "title": "[英] Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49241293",
-    "title": "[英] undefined",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
-    "title": "[英] Because It's Not Fun Enough: why languages fail",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/",
-    "title": "[英] A 'bananas' order for 5000 obscure book titles fuels suspicion",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://lwn.net/Articles/1034703/",
-    "title": "[英] Tail-call optimization in C is relatively recent",
     "date": "2026-08-10"
   }
 ]
