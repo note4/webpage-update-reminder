@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+    "title": "[英] The \"mechanical miracle\" that ruined Mark Twain's life",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://github.com/leog/ai-pulse",
+    "title": "[英] Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+    "title": "[英] GPT 5.6 Cyber",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://worldtrainmap.com/",
+    "title": "[英] World Train Map – 1247 train routes around the world",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "http://danluu.com/pl-tokens/",
+    "title": "[英] What's the best programming language for coding agents?",
+    "date": "2026-08-11"
+  },
+  {
     "link": "https://thewalrus.ca/google-search-is-dying/",
     "title": "[英] Google Search Is Dying. What Comes Next Is Worse",
     "date": "2026-08-11"
@@ -47,31 +72,6 @@
   {
     "link": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
     "title": "[英] Publishing Schematics Before “Open Source” Was a Word",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://cactuscompute.com/needle",
-    "title": "[英] Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-    "title": "[英] Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49248629",
-    "title": "[英] undefined",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://www.newyorker.com/culture/open-questions/why-cant-you-pack-a-bag",
-    "title": "[英] Why Can't You Pack a Bag? (2024)",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://www.vectorware.com/blog/simd-on-gpu/",
-    "title": "[英] Rust SIMD on the GPU",
     "date": "2026-08-11"
   }
 ]
