@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges",
+    "title": "[英] Show HN: I made alchemical-cosmological PCB badges",
+    "date": "2026-08-10"
+  },
+  {
     "link": "https://www.dsprelated.com/showarticle/40.php",
     "title": "[英] An Interesting Fourier Transform – 1/F Noise",
     "date": "2026-08-10"
@@ -40,13 +45,13 @@
     "date": "2026-08-10"
   },
   {
-    "link": "https://github.com/shinyquagsire23/Klepton",
-    "title": "[英] Run Android ARM64 VR APKs on Apple Vision Pro",
+    "link": "https://www.whodunnitai.com/",
+    "title": "[英] Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
     "date": "2026-08-10"
   },
   {
-    "link": "https://www.whodunnitai.com/",
-    "title": "[英] Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+    "link": "https://github.com/shinyquagsire23/Klepton",
+    "title": "[英] Run Android ARM64 VR APKs on Apple Vision Pro",
     "date": "2026-08-10"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
     "title": "[英] What Happened to HackerOne?",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://atproto.com/articles/atproto-for-distsys-engineers",
-    "title": "[英] ATProto for Distributed Systems Engineers",
     "date": "2026-08-10"
   }
 ]
