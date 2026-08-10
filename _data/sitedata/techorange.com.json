@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/08/10/eu-esa-iris2-2029/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "歐盟擴大部署「主權衛星」：IRIS² 提前 2029 上線，逾 156 億歐元規模如何落地？",
+    "date": "2026-08-10 16:23:40"
+  },
+  {
+    "link": "https://techorange.com/2026/08/10/cloudmile-power-bi-focus-lumiture-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "「這跟 Power BI 有什麼差別？」一句話，改變了我們做產品的方式",
+    "date": "2026-08-10 16:10:02"
+  },
+  {
+    "link": "https://techorange.com/2026/08/10/cloudmile-finops/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "雲端顧問起家的萬里雲，為什麼不希望客戶多花雲端費？",
+    "date": "2026-08-10 16:09:39"
+  },
+  {
     "link": "https://techorange.com/2026/08/10/vicone-defcon34-robot-nvidia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "VicOne 結合 DEF CON 34 機器人駭客研究成果，推出免費 NVIDIA Isaac Sim 擴充套件",
     "date": "2026-08-10 14:45:29"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/08/07/silicon-valleys-other-china-problem-its-training-their-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "晶片禁令下的破口：美國嚴防硬體輸中，中國卻年砸 5 億美元買進矽谷訓練資料",
     "date": "2026-08-07 16:59:50"
-  },
-  {
-    "link": "https://techorange.com/2026/08/07/amd-acquires-taalas-to-advance-compute-solutions/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "特定模型推論快 48 倍卻犧牲彈性：AMD 為何仍買下 Taalas 對抗 NVIDIA？",
-    "date": "2026-08-07 11:47:36"
-  },
-  {
-    "link": "https://techorange.com/2026/08/07/ai-agent-plugins/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI Agent 跨平台終於有共同標準了：Agent Plugins 統一封裝，安全與信任仍留白",
-    "date": "2026-08-07 10:59:53"
-  },
-  {
-    "link": "https://techorange.com/2026/08/07/ai-token-1password-management-tools/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【AI 預算管理】Token 消耗超預期才收到帳單，1Password 工具讓企業提前掌握 AI 支出",
-    "date": "2026-08-07 09:28:56"
   }
 ]

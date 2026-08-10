@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant",
+    "title": "[英] Implant – an extension to VS Code that exposes its APIs to coding agents",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://lordgoati.us/blog/tail-call/",
+    "title": "[英] Tail-Call Interpreters in Rust – Jimmy Ostler",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
+    "title": "[英] An alias-based formulation of the borrow checker (2018)",
+    "date": "2026-08-10"
+  },
+  {
     "link": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges",
     "title": "[英] Show HN: I made alchemical-cosmological PCB badges",
     "date": "2026-08-10"
@@ -45,33 +60,18 @@
     "date": "2026-08-10"
   },
   {
-    "link": "https://www.whodunnitai.com/",
-    "title": "[英] Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-    "date": "2026-08-10"
-  },
-  {
     "link": "https://github.com/shinyquagsire23/Klepton",
     "title": "[英] Run Android ARM64 VR APKs on Apple Vision Pro",
     "date": "2026-08-10"
   },
   {
+    "link": "https://www.whodunnitai.com/",
+    "title": "[英] Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+    "date": "2026-08-10"
+  },
+  {
     "link": "https://www.cnbc.com/2026/08/09/taylor-farms-recalls-salsa-and-guacamole-over-salmonella-risk.html",
     "title": "[英] Taylor Farms recalls salsa and guacamole over salmonella risk",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://memelang.net/11/",
-    "title": "[英] Memelang: Token-Terse Query Language",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://foldingglobes.com/",
-    "title": "[英] Turn satellite imagery into a paper globe you fold yourself",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-    "title": "[英] What Happened to HackerOne?",
     "date": "2026-08-10"
   }
 ]
