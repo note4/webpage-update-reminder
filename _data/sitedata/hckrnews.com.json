@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.dsprelated.com/showarticle/40.php",
+    "title": "[英] An Interesting Fourier Transform – 1/F Noise",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://www.docker.com/products/docker-sandboxes/",
+    "title": "[英] Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+    "title": "[英] The Philippines' big offshoring industry is growing despite AI",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/",
+    "title": "[英] Why do we assume everyone should be working?",
+    "date": "2026-08-10"
+  },
+  {
     "link": "https://nyuu.page/projects/slap/",
     "title": "[英] Slap ROM Patcher",
     "date": "2026-08-10"
@@ -52,26 +72,6 @@
   {
     "link": "https://atproto.com/articles/atproto-for-distsys-engineers",
     "title": "[英] ATProto for Distributed Systems Engineers",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://www.betonit.ai/p/the-ambition-project",
-    "title": "[英] The Ambition Project",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://kieranvelasquez.substack.com/p/on-the-german-mittelstand",
-    "title": "[英] The German Mittelstand",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-    "title": "[英] How We Pushed CDC into Postgres",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
-    "title": "[英] Japanese court overturns Red RAW video patent",
     "date": "2026-08-10"
   }
 ]
