@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/08/10/sand-battery/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【全球最大商用沙電池】儲熱數週、成本僅鋰電池 1/30，重寫長時儲能的商業模式",
+    "date": "2026-08-10 11:02:10"
+  },
+  {
+    "link": "https://techorange.com/2026/08/10/doordash-air-drone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "完成數萬次無人機配送、用 AI 改善品質，外送平台 DoorDash 如何實現空陸分流？",
+    "date": "2026-08-10 10:24:11"
+  },
+  {
     "link": "https://techorange.com/2026/08/10/per-token-price-ai-harness-databricks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Token 單價便宜的 AI 模型不代表省錢，Databricks 稱任務成本與 Harness 更關鍵",
     "date": "2026-08-10 09:24:34"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/08/06/ai-agent-going-to-production-in-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI Agent 進入製造業卻卡在工程系統：真正的瓶頸為何不再是模型？",
     "date": "2026-08-06 17:35:36"
-  },
-  {
-    "link": "https://techorange.com/2026/08/06/ai-models-have-been-going-rogue-in-tests/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Meta、OpenAI、Anthropic 接連爆 AI Agent 越界，專家：真正失控的不是模型，是人類治理",
-    "date": "2026-08-06 16:32:36"
-  },
-  {
-    "link": "https://techorange.com/2026/08/06/anthropic-build-in-house-chip-design-team/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "自研晶片卻不放棄 NVIDIA：Anthropic 為何想用軟硬體協同設計重塑 Claude 成本結構？",
-    "date": "2026-08-06 12:43:15"
   }
 ]
