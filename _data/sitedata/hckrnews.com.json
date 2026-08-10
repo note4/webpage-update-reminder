@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "title": "[英] Meta Muse Glimmer – open weights 30B local coding model",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=fow-LsdaH2E",
+    "title": "[英] How Blackwing Pencils are Made [video]",
+    "date": "2026-08-10"
+  },
+  {
     "link": "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant",
     "title": "[英] Implant – an extension to VS Code that exposes its APIs to coding agents",
     "date": "2026-08-10"
@@ -62,16 +72,6 @@
   {
     "link": "https://github.com/shinyquagsire23/Klepton",
     "title": "[英] Run Android ARM64 VR APKs on Apple Vision Pro",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://www.whodunnitai.com/",
-    "title": "[英] Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/09/taylor-farms-recalls-salsa-and-guacamole-over-salmonella-risk.html",
-    "title": "[英] Taylor Farms recalls salsa and guacamole over salmonella risk",
     "date": "2026-08-10"
   }
 ]
