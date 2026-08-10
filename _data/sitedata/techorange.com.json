@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/08/10/per-token-price-ai-harness-databricks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Token 單價便宜的 AI 模型不代表省錢，Databricks 稱任務成本與 Harness 更關鍵",
+    "date": "2026-08-10 09:24:34"
+  },
+  {
+    "link": "https://techorange.com/2026/08/10/apple-cxmt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Apple、HP、Acer 都開始找上 CXMT：AI 記憶體荒如何改寫 DRAM 供應鏈格局",
+    "date": "2026-08-10 09:19:49"
+  },
+  {
     "link": "https://techorange.com/2026/08/10/spacex-tesla-terafab-nvidia-amazon-ai-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】SpaceX、Tesla 砸 168 億美元自建 AI 晶片園區，NVIDIA 傳投資電力、亞馬遜建離網資料中心",
     "date": "2026-08-10 05:30:00"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/08/06/anthropic-build-in-house-chip-design-team/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "自研晶片卻不放棄 NVIDIA：Anthropic 為何想用軟硬體協同設計重塑 Claude 成本結構？",
     "date": "2026-08-06 12:43:15"
-  },
-  {
-    "link": "https://techorange.com/2026/08/06/meta-muse-code-muse-spark-1-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Meta 首款程式代理 Muse Code 上線！改按 token 計費，最低價要拿你的程式碼交換",
-    "date": "2026-08-06 12:27:48"
-  },
-  {
-    "link": "https://techorange.com/2026/08/06/ceos-real-ai-problem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "六成企業看不到 AI 成效，CEO 們該問的不是用了多少 AI 而是「品質怎麼衡量」",
-    "date": "2026-08-06 10:29:47"
   }
 ]

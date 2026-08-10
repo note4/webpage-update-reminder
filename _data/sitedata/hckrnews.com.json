@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.betonit.ai/p/the-ambition-project",
+    "title": "[英] The Ambition Project",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://kieranvelasquez.substack.com/p/on-the-german-mittelstand",
+    "title": "[英] The German Mittelstand",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+    "title": "[英] How We Pushed CDC into Postgres",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
+    "title": "[英] Japanese court overturns Red RAW video patent",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://gitlab.com/Kazade/picophysics",
+    "title": "[英] Picophysics: Single file physics for games on platforms like N64, PSX, DC",
+    "date": "2026-08-10"
+  },
+  {
     "link": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
     "title": "[英] AI assistant hacks gym website in first known Australian autonomous cyber attack",
     "date": "2026-08-10"
@@ -10,8 +35,8 @@
     "date": "2026-08-10"
   },
   {
-    "link": "https://www.theguardian.com/us-news/2026/aug/09/zuckerberg-superyacht-boat-alaska",
-    "title": "[英] Zuckerberg faces questions over why superyacht declined to help stranded boat",
+    "link": "https://news.ycombinator.com/item?id=49236831",
+    "title": "[英] undefined",
     "date": "2026-08-10"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
     "title": "[英] Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
-    "title": "[英] I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://mynoise.net/vlog.php?ep=20260803",
-    "title": "[英] I made tinnitus my friend, then it disappeared [video]",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware",
-    "title": "[英] Is it all just vapourware?",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://blog.raed.dev/posts/motocycle/",
-    "title": "[英] Two wheels, a few tradeoffs, and gas prices",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://phrack.org/issues/72/19#article",
-    "title": "[英] The Hacker's Renaissance",
     "date": "2026-08-10"
   }
 ]
