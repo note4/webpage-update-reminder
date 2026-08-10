@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://coldcard.rip/",
+    "title": "[英] COLDCARD's Random Numbers Weren't",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://twitter.com/finkd/status/2086754845218726027",
+    "title": "[英] Meta's new open-weight model targets local agentic AI",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc",
+    "title": "[英] One Email, Three Identities: SPF, DKIM and DMARC Explained",
+    "date": "2026-08-10"
+  },
+  {
     "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
     "title": "[英] Meta Muse Glimmer – open weights 30B local coding model",
     "date": "2026-08-10"
@@ -57,21 +72,6 @@
   {
     "link": "https://www.nber.org/papers/w35560",
     "title": "[英] Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "title": "[英] Auto mode is now the default in Claude Code",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://knowwhereconsulting.co.uk/maps/pubs/",
-    "title": "[英] Nearest Pint",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://github.com/shinyquagsire23/Klepton",
-    "title": "[英] Run Android ARM64 VR APKs on Apple Vision Pro",
     "date": "2026-08-10"
   }
 ]
