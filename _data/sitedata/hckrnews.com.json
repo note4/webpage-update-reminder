@@ -1,7 +1,62 @@
 [
   {
-    "link": "https://www.economist.com/interactive/1843/2026/05/29/what-i-did-in-gaza-an-israeli-soldiers-reckoning",
-    "title": "[英] What I did in Gaza: an Israeli soldier's reckoning",
+    "link": "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/",
+    "title": "[英] Defending my own brain against enshittification",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://82mhz.net/posts/2026/08/why-a-raspberry-pi-shouldn-t-be-powered-through-it-s-gpio-pins/",
+    "title": "[英] Why a Raspberry Pi shouldn't be powered through its GPIO pins",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+    "title": "[英] Mistral Patent for \"Code implemented tool calls\"",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://games.lukicengineering.com/blog/2013-vs-2026/",
+    "title": "[英] From 13.5M installs to 499 active devices",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://lwn.net/Articles/647636/",
+    "title": "[英] Resurrecting the SuperH Architecture (2015)",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://www.beautifulpublicdata.com/boat-names/",
+    "title": "[英] 50k Boat Names",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://bobdahacker.com/blog/tldv-hack",
+    "title": "[英] Over 181,000 AI meeting recordings left wide open in note taking app",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://squeak.org/release_notes/6.1/",
+    "title": "[英] Squeak/Smalltalk 6.1 Release Notes",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://twitter.com/thdxr/status/2086599224674681242",
+    "title": "[英] DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://github.com/ben-z/findphone",
+    "title": "[英] Findphone: Locate a nearby Bluetooth device by signal strength",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://ethw.org/Milestones:Parametron,_1954",
+    "title": "[英] Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49241293",
+    "title": "[英] undefined",
     "date": "2026-08-10"
   },
   {
@@ -17,61 +72,6 @@
   {
     "link": "https://lwn.net/Articles/1034703/",
     "title": "[英] Tail-call optimization in C is relatively recent",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://coldcard.rip/",
-    "title": "[英] COLDCARD's Random Numbers Weren't",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://twitter.com/finkd/status/2086754845218726027",
-    "title": "[英] Meta's new open-weight model targets local agentic AI",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc",
-    "title": "[英] One Email, Three Identities: SPF, DKIM and DMARC Explained",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "title": "[英] Meta Muse Glimmer – open weights 30B local coding model",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=fow-LsdaH2E",
-    "title": "[英] How Blackwing Pencils are Made [video]",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant",
-    "title": "[英] Implant – an extension to VS Code that exposes its APIs to coding agents",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://lordgoati.us/blog/tail-call/",
-    "title": "[英] Tail-Call Interpreters in Rust – Jimmy Ostler",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
-    "title": "[英] An alias-based formulation of the borrow checker (2018)",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges",
-    "title": "[英] Show HN: I made alchemical-cosmological PCB badges",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://www.dsprelated.com/showarticle/40.php",
-    "title": "[英] An Interesting Fourier Transform – 1/F Noise",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://www.docker.com/products/docker-sandboxes/",
-    "title": "[英] Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
     "date": "2026-08-10"
   }
 ]
