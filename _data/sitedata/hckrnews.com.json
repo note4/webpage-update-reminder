@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://danicat.dev/posts/20260808-gemini-for-go-developers-part-1-model-family/",
+    "title": "[英] Gemini for Go Developers – Part 1: The Gemini Model Family",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "title": "[英] OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "date": "2026-08-10"
+  },
+  {
     "link": "https://www.meta.com/thefutureisforeveryone/",
     "title": "[英] The Future Is for Everyone – The Path to a Positive AI Future",
     "date": "2026-08-10"
@@ -62,16 +72,6 @@
   {
     "link": "https://squeak.org/release_notes/6.1/",
     "title": "[英] Squeak/Smalltalk 6.1 Release Notes",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://twitter.com/thdxr/status/2086599224674681242",
-    "title": "[英] DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://github.com/ben-z/findphone",
-    "title": "[英] Findphone: Locate a nearby Bluetooth device by signal strength",
     "date": "2026-08-10"
   }
 ]
