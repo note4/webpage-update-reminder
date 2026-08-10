@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.economist.com/interactive/1843/2026/05/29/what-i-did-in-gaza-an-israeli-soldiers-reckoning",
+    "title": "[英] What I did in Gaza: an Israeli soldier's reckoning",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+    "title": "[英] Because It's Not Fun Enough: why languages fail",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/",
+    "title": "[英] A 'bananas' order for 5000 obscure book titles fuels suspicion",
+    "date": "2026-08-10"
+  },
+  {
+    "link": "https://lwn.net/Articles/1034703/",
+    "title": "[英] Tail-call optimization in C is relatively recent",
+    "date": "2026-08-10"
+  },
+  {
     "link": "https://coldcard.rip/",
     "title": "[英] COLDCARD's Random Numbers Weren't",
     "date": "2026-08-10"
@@ -52,26 +72,6 @@
   {
     "link": "https://www.docker.com/products/docker-sandboxes/",
     "title": "[英] Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-    "title": "[英] The Philippines' big offshoring industry is growing despite AI",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/",
-    "title": "[英] Why do we assume everyone should be working?",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://nyuu.page/projects/slap/",
-    "title": "[英] Slap ROM Patcher",
-    "date": "2026-08-10"
-  },
-  {
-    "link": "https://www.nber.org/papers/w35560",
-    "title": "[英] Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
     "date": "2026-08-10"
   }
 ]
