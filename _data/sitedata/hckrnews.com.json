@@ -1,12 +1,42 @@
 [
   {
+    "link": "https://tokenstead.ai/",
+    "title": "[英] Claude will watermark AI-generated text and images",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://hypercritical.co/hyperspace/",
+    "title": "[英] Hyperspace",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
+    "title": "[英] US President hid in catering cart for secret flight in Turkey amid Iran threat",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://www.choral-lang.org/",
+    "title": "[英] Choral: Choreographic Programming for Java",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d",
+    "title": "[英] Gulf States Accept a New Normal in Hormuz: Iran Is in Control",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://www.floppydisk.com/recycle",
+    "title": "[英] Recycle – Floppydisks",
+    "date": "2026-08-11"
+  },
+  {
     "link": "https://github.com/antirez/h3.c",
     "title": "[英] Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
     "date": "2026-08-11"
   },
   {
-    "link": "https://sjg.io/writing/sqrl-wasnt-wrong-it-was-early/",
-    "title": "[英] SQRL wan't wrong, it was early",
+    "link": "https://news.ycombinator.com/item?id=49221169",
+    "title": "[英] undefined",
     "date": "2026-08-11"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://everycube.alen.is/",
     "title": "[英] Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://nymag.com/intelligencer/article/zuckerbergs-yacht-booed-over-failing-to-help-stranded-boat.html",
-    "title": "[英] Mark Zuckerberg's Yacht Refused to Help Ship in Distress",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-    "title": "[英] The “mechanical miracle” that ruined Mark Twain’s life",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://github.com/leog/ai-pulse",
-    "title": "[英] Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
-    "title": "[英] GPT 5.6 Cyber",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://worldtrainmap.com/",
-    "title": "[英] World Train Map – 1247 train routes around the world",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "http://danluu.com/pl-tokens/",
-    "title": "[英] What's the best programming language for coding agents?",
     "date": "2026-08-11"
   }
 ]
