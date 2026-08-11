@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
+    "title": "[英] To Save C, We Must Save ABI",
+    "date": "2026-08-11"
+  },
+  {
     "link": "https://pythonspeed.com/articles/faster-float-math-rust/",
     "title": "[英] Faster floating point math with Rust's new API",
     "date": "2026-08-11"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
     "title": "[英] US President hid in catering cart for secret flight in Turkey amid Iran threat",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://www.choral-lang.org/",
-    "title": "[英] Choral: Choreographic Programming for Java",
     "date": "2026-08-11"
   }
 ]
