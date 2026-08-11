@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://rapha.land/closing-canario-terminal-source-code/",
+    "title": "[英] Closing Canario Terminal source code",
+    "date": "2026-08-11"
+  },
+  {
     "link": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
     "title": "[英] London Underground begins scanning passengers' faces",
     "date": "2026-08-11"
@@ -50,8 +55,8 @@
     "date": "2026-08-11"
   },
   {
-    "link": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
-    "title": "[英] DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
+    "link": "https://news.ycombinator.com/item?id=49253738",
+    "title": "[英] undefined",
     "date": "2026-08-11"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/",
     "title": "[英] Microsoft Responds to Outcry After Quiet Enterprise Install of Beta 'Photos' App",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-    "title": "[英] LFM2.5 2.6B model competitive with 4x larger models",
     "date": "2026-08-11"
   }
 ]
