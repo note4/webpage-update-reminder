@@ -1,17 +1,32 @@
 [
   {
+    "link": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+    "title": "[英] The brain may be about to have its Ozempic moment",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://everythingmachine.io/phone/",
+    "title": "[英] Your phone is the most intricate machine you've ever held. Let's take it apart.",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://ngrok.com/blog/compression-is-prediction",
+    "title": "[英] Compression Is Prediction",
+    "date": "2026-08-12"
+  },
+  {
     "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
     "title": "[英] Bluesky's active user base is shrinking as its focus expands beyond the app",
     "date": "2026-08-12"
   },
   {
     "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-    "title": "[英] Nvidia Nemotron 3.5 lightning and Nemo Switchyard",
+    "title": "[英] Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
     "date": "2026-08-12"
   },
   {
-    "link": "https://x.ai/bot",
-    "title": "[英] Grok Bot",
+    "link": "https://news.ycombinator.com/item?id=49261514",
+    "title": "[英] undefined",
     "date": "2026-08-12"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/",
     "title": "[英] Archive of Animal Photography Reveals 18,000 Species and Counting",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/",
-    "title": "[英] The SpaceX Sham",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
-    "title": "[英] Woman pulled over twice after Flock-linked software connected her to homicide",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-    "title": "[英] Go is an ideal language for AI-assisted software engineering",
     "date": "2026-08-12"
   }
 ]
