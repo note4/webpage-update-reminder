@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://photosynthesis.camera",
+    "title": "[英] Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://writemd.app/",
+    "title": "[英] Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS",
+    "date": "2026-08-12"
+  },
+  {
     "link": "https://jolt-lang.github.io",
     "title": "[英] Jolt: Clojure compiler implemented with Chez Scheme",
     "date": "2026-08-12"
@@ -15,13 +25,13 @@
     "date": "2026-08-12"
   },
   {
-    "link": "https://www.propublica.org/article/foia-requests-responses",
-    "title": "[英] Federal vendor with $50M in contracts leaves portal broken for a month",
+    "link": "https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/",
+    "title": "[英] Beltrunner: Game Design Postmortem",
     "date": "2026-08-12"
   },
   {
-    "link": "https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/",
-    "title": "[英] Beltrunner: Game Design Postmortem",
+    "link": "https://www.propublica.org/article/foia-requests-responses",
+    "title": "[英] Federal vendor with $50M in contracts leaves portal broken for a month",
     "date": "2026-08-12"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://holderdashboard.com/learn/backtest-that-lost-to-the-index",
     "title": "[英] I backtested my own stock rankings. They lost to the index",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://github.com/anthropics/claude-code/issues/78431",
-    "title": "[英] Claude Code is leaking real email address as a User-Agent string in curl command",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site",
-    "title": "[英] $580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
     "date": "2026-08-12"
   }
 ]
