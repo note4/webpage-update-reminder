@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://twitter.com/_can1357/status/2087228354399265125",
+    "title": "[英] OpenAI and Anthropic hidden CoT leaks when given deep_think tool.",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+    "title": "[英] pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+    "title": "[英] WorldClaw Agentic 3D open-world generation at scale",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.theregister.com/public-sector/2026/08/11/palantir-could-receive-244m-pentagon-no-bid-contract/5286438",
+    "title": "[英] Give Palantir up to $244M through 2028, says internal Defense Department memo",
+    "date": "2026-08-12"
+  },
+  {
     "link": "https://momath.org/the-hat/",
     "title": "[英] The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics",
     "date": "2026-08-12"
@@ -52,26 +72,6 @@
   {
     "link": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
     "title": "[英] The brain may be about to have its Ozempic moment",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://everythingmachine.io/phone/",
-    "title": "[英] Let’s take apart your phone",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://ngrok.com/blog/compression-is-prediction",
-    "title": "[英] Compression is prediction",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
-    "title": "[英] Bluesky's active user base is shrinking as its focus expands beyond the app",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-    "title": "[英] Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
     "date": "2026-08-12"
   }
 ]
