@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+    "title": "[英] Nvidia Nemotron 3.5 Lightning",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c75gk620r22o",
+    "title": "[英] England set to be one of the first countries to eliminate hepatitis C",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=91DoiansHqk",
+    "title": "[英] It's time Amazon played by the same rules as everyone else [video]",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+    "title": "[英] What I learned by putting GitHub Copilot behind a MitM proxy",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://www.asml.com/en/company/stories/2023/how-immersion-lithography-saved-moores-law",
+    "title": "[英] Immersion lithography saved Moore's Law (2023)",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
+    "title": "[英] How to organize Claude Code for product work",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/ce3q5nxpgk1o",
+    "title": "[英] More than 10 firms pay up to $100k a month for access to Truth Social posts",
+    "date": "2026-08-11"
+  },
+  {
+    "link": "https://stratechery.com/2026/nvidias-risky-business/",
+    "title": "[英] Nvidia's Risky Business",
+    "date": "2026-08-11"
+  },
+  {
     "link": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883",
     "title": "[英] OpenAI's Only Ethicist Reportedly Left Last Month",
     "date": "2026-08-11"
@@ -32,46 +72,6 @@
   {
     "link": "https://doi.org/10.1016/j.watres.2026.125866",
     "title": "[英] The Water Footprint of AI",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://rxkids.org/about/",
-    "title": "[英] About Rx Kids",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-    "title": "[英] France to ban unsolicited telemarketing calls",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
-    "title": "[英] To Save C, We Must Save ABI (2022)",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://pythonspeed.com/articles/faster-float-math-rust/",
-    "title": "[英] Faster floating point math with Rust's new API",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/11/world/europe/france-ban-unsolicited-telemarketing-calls.html",
-    "title": "[英] France Bans Unsolicited Telemarketing Calls",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
-    "title": "[英] OpenAI wraps $7B share sale ahead of potential IPO",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/",
-    "title": "[英] Half of Europe's towns and villages have fewer residents than 60 years ago",
-    "date": "2026-08-11"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49253738",
-    "title": "[英] undefined",
     "date": "2026-08-11"
   }
 ]
