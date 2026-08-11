@@ -1,12 +1,47 @@
 [
   {
+    "link": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
+    "title": "[英] A new study of a bot running a store finds it is friendly but not very smart",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://master.dev/blog/typographic-css-tricks/",
+    "title": "[英] CSS properties you should know for better text designs",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
+    "title": "[英] The Tradeoffs Facing Japan's Economy",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+    "title": "[英] How We Used To Get Jobs: A Newspaper Classifieds Story",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.openssh.org/releasenotes.html#10.5",
+    "title": "[英] OpenSSH 10.5/10.5p1",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+    "title": "[英] Mojo 1.0",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/",
+    "title": "[英] Archive of Animal Photography Reveals 18,000 Species and Counting",
+    "date": "2026-08-12"
+  },
+  {
     "link": "https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/",
     "title": "[英] The SpaceX Sham",
     "date": "2026-08-12"
   },
   {
     "link": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
-    "title": "[英] Woman Pulled over at Gunpoint Twice After Flock Camera Glitch",
+    "title": "[英] Woman pulled over twice after Flock-linked software connected her to homicide",
     "date": "2026-08-12"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4",
     "title": "[英] University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis'",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://flowingdata.com/2026/08/10/flock-wanted-to-tap-dashcams-in-rideshare-vechicles-to-add-to-surveillance-data/",
-    "title": "[英] Flock wanted to tap dashcams in rideshare vechicles to add to surveillance data",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/",
-    "title": "[英] Beltrunner: Game Design Postmortem",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://www.propublica.org/article/foia-requests-responses",
-    "title": "[英] Federal vendor with $50M in contracts leaves portal broken for a month",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://manus.im/blog/a-note-to-our-users",
-    "title": "[英] Manus will return to operating as an independent company",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://github.com/TheRealYT/git-knife",
-    "title": "[英] Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://www.trykeet.com/",
-    "title": "[英] Launch HN: Keet (YC S24) – An app to create video courses on anything",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-    "title": "[英] Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
     "date": "2026-08-12"
   }
 ]
