@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+    "title": "[英] Bluesky's active user base is shrinking as its focus expands beyond the app",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "title": "[英] Nvidia Nemotron 3.5 lightning and Nemo Switchyard",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://x.ai/bot",
+    "title": "[英] Grok Bot",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://tensor.khalilli.ai/blog/part-0-the-map/",
+    "title": "[英] The whole of PyTorch on one page",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+    "title": "[英] Making holograms with a pen plotter",
+    "date": "2026-08-12"
+  },
+  {
     "link": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
     "title": "[英] A new study of a bot running a store finds it is friendly but not very smart",
     "date": "2026-08-12"
@@ -16,7 +41,7 @@
   },
   {
     "link": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-    "title": "[英] How We Used To Get Jobs: A Newspaper Classifieds Story",
+    "title": "[英] How we used to get jobs: A newspaper classifieds story",
     "date": "2026-08-12"
   },
   {
@@ -46,32 +71,7 @@
   },
   {
     "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-    "title": "[英] Why Go Is an Ideal Language for AI-Assisted Software Engineering",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://x.ai/news/introducing-grok-bot",
-    "title": "[英] Grok Bot by SpaceXAI",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://photosynthesis.camera",
-    "title": "[英] Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://writemd.app/",
-    "title": "[英] Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://jolt-lang.github.io",
-    "title": "[英] Jolt: Clojure compiler implemented with Chez Scheme",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4",
-    "title": "[英] University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis'",
+    "title": "[英] Go is an ideal language for AI-assisted software engineering",
     "date": "2026-08-12"
   }
 ]
