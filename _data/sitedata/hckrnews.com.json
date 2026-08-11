@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/",
+    "title": "[英] The SpaceX Sham",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
+    "title": "[英] Woman Pulled over at Gunpoint Twice After Flock Camera Glitch",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "title": "[英] Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://x.ai/news/introducing-grok-bot",
+    "title": "[英] Grok Bot by SpaceXAI",
+    "date": "2026-08-12"
+  },
+  {
     "link": "https://photosynthesis.camera",
     "title": "[英] Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
     "date": "2026-08-12"
@@ -52,26 +72,6 @@
   {
     "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
     "title": "[英] Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://github.com/halcyon-video/halcyon-video",
-    "title": "[英] Halcyon Video – a 3D video store for your media server",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/aug/11/us-mexico-border-area-money-transfer-rule-change-small-businesses",
-    "title": "[英] The US tried to stop cartel money-laundering; devastated mom-and-pop businesses",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://stolen-thoughts.com/",
-    "title": "[英] Stealing Reasoning Traces from Proprietary LLM APIs",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://holderdashboard.com/learn/backtest-that-lost-to-the-index",
-    "title": "[英] I backtested my own stock rankings. They lost to the index",
     "date": "2026-08-12"
   }
 ]
