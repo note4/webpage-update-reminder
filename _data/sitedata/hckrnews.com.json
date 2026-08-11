@@ -1,12 +1,42 @@
 [
   {
+    "link": "https://momath.org/the-hat/",
+    "title": "[英] The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://arxiv.org/abs/2601.01828",
+    "title": "[英] Emergent Introspective Awareness in Large Language Models",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.suzanne3d.com/",
+    "title": "[英] Suzanne: AI tool for designing and manufacturing physical products",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.paradigm.xyz/writing/rsi-simulator",
+    "title": "[英] RSI Simulator",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.effort.news/p4ne",
+    "title": "[英] The 19th-Century Family Fortunes Funding Degrowth",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "title": "[英] OpenAI launches ChatGPT desktop app for Linux",
+    "date": "2026-08-12"
+  },
+  {
     "link": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
     "title": "[英] AI Is Solving CTF Challenges in Minutes",
     "date": "2026-08-12"
   },
   {
-    "link": "https://gizmodo.com/wisconsin-cops-tracked-a-man-with-flock-cameras-to-arrest-him-for-weed-2000795424",
-    "title": "[英] Wisconsin Tracks Man Across State Line with Flock Cameras to Arrest Him for Weed",
+    "link": "https://news.ycombinator.com/item?id=49264273",
+    "title": "[英] undefined",
     "date": "2026-08-12"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
     "title": "[英] Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://x.ai/bot",
-    "title": "[英] Grok Bot",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://tensor.khalilli.ai/blog/part-0-the-map/",
-    "title": "[英] The whole of PyTorch on one page",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-    "title": "[英] Making holograms with a pen plotter",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
-    "title": "[英] A new study of a bot running a store finds it is friendly but not very smart",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://master.dev/blog/typographic-css-tricks/",
-    "title": "[英] CSS properties you should know for better text designs",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
-    "title": "[英] The Tradeoffs Facing Japan's Economy",
     "date": "2026-08-12"
   }
 ]
