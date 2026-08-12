@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://x.ai/news/grok-4-6",
+    "title": "[英] Grok 4.6",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.02478",
+    "title": "[英] Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "title": "[英] Qwen/Qwen3.8-2.4T-A95B",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://usehax.dev/",
+    "title": "[英] Hax – a minimalist, terminal-native coding agent written in C",
+    "date": "2026-08-13"
+  },
+  {
     "link": "https://www.masswerk.at/nowgobang/2026/commodore-disk-images",
     "title": "[英] Commodore 8-Bit 5¼\" Disk Images",
-    "date": "2026-08-12"
+    "date": "2026-08-13"
   },
   {
     "link": "https://modelscope.cn/models/Qwen/Qwen3.8-2.4T-A95B",
     "title": "[英] Qwen3.8 Weights Released",
-    "date": "2026-08-12"
+    "date": "2026-08-13"
   },
   {
     "link": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
     "title": "[英] GiveCampus (YC S15) Is Hiring Engineering Managers",
-    "date": "2026-08-12"
+    "date": "2026-08-13"
   },
   {
     "link": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-    "title": "[英] License Plate Reader Searches Should Require a Warrant",
-    "date": "2026-08-12"
+    "title": "[英] License plate reader searches should require a warrant",
+    "date": "2026-08-13"
   },
   {
     "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
     "title": "[英] Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-    "date": "2026-08-12"
+    "date": "2026-08-13"
   },
   {
     "link": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
     "title": "[英] uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-    "date": "2026-08-12"
+    "date": "2026-08-13"
   },
   {
     "link": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
     "title": "[英] German advocacy group lodges criminal complaint over Meta AI glasses",
-    "date": "2026-08-12"
+    "date": "2026-08-13"
   },
   {
     "link": "https://www.severe-weather.eu/global-weather/excessive-heat-dome-heatwave-western-europe-mid-august-2026-mk/",
     "title": "[英] 5th Heat Dome Expands Across Europe: 40°C+ Target Western and Central Europe",
-    "date": "2026-08-12"
+    "date": "2026-08-13"
   },
   {
     "link": "https://www.openmymind.net/Arena-Allocators-and-ArrayLists/",
     "title": "[英] ArenaAllocators don't play nicely with ArrayLists",
-    "date": "2026-08-12"
+    "date": "2026-08-13"
   },
   {
     "link": "https://power2026.ai/",
     "title": "[英] Electricity Pricing in the Age of AI",
-    "date": "2026-08-12"
+    "date": "2026-08-13"
   },
   {
     "link": "https://knownagents.com/insights",
     "title": "[英] Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "title": "[英] Qwen 3.8-27B goes openweight in 2 days",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-    "title": "[英] Obituary: AmigaDOS developer Dr. Tim King has passed away",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://www.orangecrumbs.com/stories/yc-domains",
-    "title": "[英] YC startups are abandoning .com",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://spectrum.ieee.org/robot-finger",
-    "title": "[英] European scientists developed a tactile sensor capable of 100 μm resolution",
-    "date": "2026-08-12"
+    "date": "2026-08-13"
   }
 ]
