@@ -1,12 +1,17 @@
 [
   {
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/how-chartreuse-conquered-paris-wine-bars-to-become-a-luxury-spirit",
+    "title": "[英] Why Paris Is Obsessed with a Niche Spirit Made by Monks",
+    "date": "2026-08-13"
+  },
+  {
     "link": "https://openrouter.ai/x-ai/grok-4.6",
     "title": "[英] SpaceXAI: Grok 4.6",
     "date": "2026-08-13"
   },
   {
     "link": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
-    "title": "[英] Your Key to Success Isn't More Luck or Hard Work",
+    "title": "[英] Your key to success isn't more luck or hard work",
     "date": "2026-08-13"
   },
   {
@@ -20,8 +25,8 @@
     "date": "2026-08-13"
   },
   {
-    "link": "https://blog.matthewbrunelle.com/agentic-engineering-is-just-everything-we-havent-been-doing/",
-    "title": "[英] Agentic Engineering Is Just Everything We Haven't Been Doing",
+    "link": "https://news.ycombinator.com/item?id=49276488",
+    "title": "[英] undefined",
     "date": "2026-08-13"
   },
   {
@@ -61,17 +66,12 @@
   },
   {
     "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-    "title": "[英] SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+    "title": "[英] Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
     "date": "2026-08-13"
   },
   {
     "link": "https://loudbicycle.com/bb",
     "title": "[英] Bike Bureau: Report Bike Lane Obstructions",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://api-docs.deepseek.com/guides/responses_api/",
-    "title": "[英] DeepSeek V4 Pro 0813 quietly released",
     "date": "2026-08-13"
   }
 ]
