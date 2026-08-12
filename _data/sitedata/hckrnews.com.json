@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://monictheory.com",
+    "title": "[英] Music Generation by a Composer, for Musicians",
+    "date": "2026-08-12"
+  },
+  {
     "link": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
     "title": "[英] High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
     "date": "2026-08-12"
@@ -11,7 +16,7 @@
   },
   {
     "link": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-    "title": "[英] Tim Gowers: What sort of maths are LLMs good at?",
+    "title": "[英] What sort of maths are LLMs good at?",
     "date": "2026-08-12"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://jamesoclaire.com/2026/08/06/how-to-install-python3-14-from-source-on-ubuntu-26-04/",
     "title": "[英] How to Install Python3.14 from source on Ubuntu 26.04",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
-    "title": "[英] DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
     "date": "2026-08-12"
   }
 ]
