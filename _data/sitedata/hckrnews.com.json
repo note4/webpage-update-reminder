@@ -1,7 +1,32 @@
 [
   {
+    "link": "https://www.foiaball.com/p/aaron-rodgers-secretly-bought-police-alpr-cameras",
+    "title": "[英] Aaron Rodgers secretly funded his town's Flock-style cameras",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+    "title": "[英] Qwen3.8-2.4T",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://www.theparisreview.org/blog/2026/07/27/the-bit-player-my-father-with-steve-zissou/",
+    "title": "[英] The Bit Player: My Father with Steve Zissou",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+    "title": "[英] Pixel Watch 5",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://lovable.dev/blog/series-c",
+    "title": "[英] We just raised $400M in Series C",
+    "date": "2026-08-13"
+  },
+  {
     "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
-    "title": "[英] Reflex (YC W23) Is Growth and GTM Roles",
+    "title": "[英] Reflex (YC W23) Is hiring Growth and GTM Roles",
     "date": "2026-08-13"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://x.ai/news/grok-4-6",
     "title": "[英] Grok 4.6",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.02478",
-    "title": "[英] Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-    "title": "[英] Qwen/Qwen3.8-2.4T-A95B",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://usehax.dev/",
-    "title": "[英] Hax – a minimalist, terminal-native coding agent written in C",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://www.masswerk.at/nowgobang/2026/commodore-disk-images",
-    "title": "[英] Commodore 8-Bit 5¼\" Disk Images",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://modelscope.cn/models/Qwen/Qwen3.8-2.4T-A95B",
-    "title": "[英] Qwen3.8 Weights Released",
     "date": "2026-08-13"
   }
 ]
