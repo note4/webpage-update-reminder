@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.cringebot3000.com/",
+    "title": "[英] LinkedIn CringeBot 3000",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/aug/11/ice-electric-shock-gloves",
+    "title": "[英] ICE to spend up to $20M on gloves that can deliver painful electric shocks",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
+    "title": "[英] AI agent hacks gym to get its user a spot in pilates class",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://jamesoclaire.com/2026/08/06/how-to-install-python3-14-from-source-on-ubuntu-26-04/",
+    "title": "[英] How to Install Python3.14 from source on Ubuntu 26.04",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
+    "title": "[英] DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://github.com/sgkdev/bad_garbage",
+    "title": "[英] CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "title": "[英] A shell exclamation mark is not for yelling. Be lazy",
+    "date": "2026-08-12"
+  },
+  {
     "link": "https://llama.app",
     "title": "[英] llama.cpp",
     "date": "2026-08-12"
@@ -37,41 +72,6 @@
   {
     "link": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
     "title": "[英] The lifesaving secret hidden inside a horseshoe crab's blue blood",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-    "title": "[英] The hardest working font in Manhattan (2025)",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
-    "title": "[英] New Bedford police officer accused of using Flock cameras to track ex-partner",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
-    "title": "[英] Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies",
-    "title": "[英] Gen Z has rediscovered the joy of going to the movies",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-    "title": "[英] DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions",
-    "title": "[英] Retire the Abstractions",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
-    "title": "[英] CFTC declares market emergency, orders Kalshi to continue to operate in New York",
     "date": "2026-08-12"
   }
 ]
