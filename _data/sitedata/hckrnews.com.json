@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
+    "title": "[英] Reflex (YC W23) Is Growth and GTM Roles",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+    "title": "[英] HTML over WebSockets: real-time SPAs with barely any JavaScript",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+    "title": "[英] SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://loudbicycle.com/bb",
+    "title": "[英] Bike Bureau: Report Bike Lane Obstructions",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://api-docs.deepseek.com/guides/responses_api/",
+    "title": "[英] DeepSeek V4 Pro 0813 quietly released",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://climate.metoffice.cloud/glaciers.html",
+    "title": "[英] Glaciers on the Climate Dashboard",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://www.githubstatus.com/incidents/76t89hbfb09h",
+    "title": "[英] Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "title": "[英] DeepSeek V4 Pro 0813",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+    "title": "[英] Google launches Pixel 11 Pro Fold",
+    "date": "2026-08-13"
+  },
+  {
     "link": "https://x.ai/news/grok-4-6",
     "title": "[英] Grok 4.6",
     "date": "2026-08-13"
@@ -27,51 +72,6 @@
   {
     "link": "https://modelscope.cn/models/Qwen/Qwen3.8-2.4T-A95B",
     "title": "[英] Qwen3.8 Weights Released",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
-    "title": "[英] GiveCampus (YC S15) Is Hiring Engineering Managers",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-    "title": "[英] License plate reader searches should require a warrant",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "title": "[英] Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-    "title": "[英] uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
-    "title": "[英] German advocacy group lodges criminal complaint over Meta AI glasses",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://www.severe-weather.eu/global-weather/excessive-heat-dome-heatwave-western-europe-mid-august-2026-mk/",
-    "title": "[英] 5th Heat Dome Expands Across Europe: 40°C+ Target Western and Central Europe",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://www.openmymind.net/Arena-Allocators-and-ArrayLists/",
-    "title": "[英] ArenaAllocators don't play nicely with ArrayLists",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://power2026.ai/",
-    "title": "[英] Electricity Pricing in the Age of AI",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://knownagents.com/insights",
-    "title": "[英] Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
     "date": "2026-08-13"
   }
 ]
