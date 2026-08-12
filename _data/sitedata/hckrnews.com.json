@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://github.com/rimironenko/rag-staleness-check",
+    "title": "[英] Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+    "title": "[英] The Human Is the Loop",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.smh.com.au/national/nsw/every-millimetre-counts-inside-the-beast-tunnelling-under-sydney-harbour-20260804-p60la1.html",
+    "title": "[英] 'Every millimetre counts': Inside the beast tunnelling under Sydney Harbour",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+    "title": "[英] Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+    "date": "2026-08-12"
+  },
+  {
     "link": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
     "title": "[英] The lifesaving secret hidden inside a horseshoe crab's blue blood",
     "date": "2026-08-12"
@@ -52,26 +72,6 @@
   {
     "link": "https://blog.val.town/ethical-cold-outreach",
     "title": "[英] Ethical Cold Outreach",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://github.com/yikerman/tamron-lens-control",
-    "title": "[英] Show HN: Tamron Lens Utility Alternative on Linux",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://twitter.com/_can1357/status/2087228354399265125",
-    "title": "[英] OpenAI and Anthropic hidden CoT leaks when given deep_think tool.",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
-    "title": "[英] pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-    "title": "[英] WorldClaw Agentic 3D open-world generation at scale",
     "date": "2026-08-12"
   }
 ]
