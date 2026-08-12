@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://openrouter.ai/x-ai/grok-4.6",
+    "title": "[英] SpaceXAI: Grok 4.6",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+    "title": "[英] Your Key to Success Isn't More Luck or Hard Work",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://thenewcuriosityshop.substack.com/p/the-essential-question",
+    "title": "[英] The Essential Question: \"What should I read next?\"",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://zed.dev/blog/introducing-delta",
+    "title": "[英] Zed: Delta",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://blog.matthewbrunelle.com/agentic-engineering-is-just-everything-we-havent-been-doing/",
+    "title": "[英] Agentic Engineering Is Just Everything We Haven't Been Doing",
+    "date": "2026-08-13"
+  },
+  {
     "link": "https://www.foiaball.com/p/aaron-rodgers-secretly-bought-police-alpr-cameras",
     "title": "[英] Aaron Rodgers secretly funded his town's Flock-style cameras",
     "date": "2026-08-13"
@@ -47,31 +72,6 @@
   {
     "link": "https://api-docs.deepseek.com/guides/responses_api/",
     "title": "[英] DeepSeek V4 Pro 0813 quietly released",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://climate.metoffice.cloud/glaciers.html",
-    "title": "[英] Glaciers on the Climate Dashboard",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://www.githubstatus.com/incidents/76t89hbfb09h",
-    "title": "[英] Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-    "title": "[英] DeepSeek V4 Pro 0813",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
-    "title": "[英] Google launches Pixel 11 Pro Fold",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://x.ai/news/grok-4-6",
-    "title": "[英] Grok 4.6",
     "date": "2026-08-13"
   }
 ]
