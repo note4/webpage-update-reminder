@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.bbc.com/news/articles/c20d292gdp4o",
+    "title": "[英] ICE equipping agents with gloves that deliver electric shocks",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+    "title": "[英] Why Can't You Find Canned Sardines?",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://lwn.net/Articles/1083985/",
+    "title": "[英] Debugging Information for Inlined Functions",
+    "date": "2026-08-13"
+  },
+  {
     "link": "https://antithesis.com/blog/2026/wal-reset-bug/",
     "title": "[英] Breaking the WAL",
     "date": "2026-08-13"
@@ -57,21 +72,6 @@
   {
     "link": "https://www.theparisreview.org/blog/2026/07/27/the-bit-player-my-father-with-steve-zissou/",
     "title": "[英] The Bit Player: My Father with Steve Zissou",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-    "title": "[英] Pixel Watch 5",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://lovable.dev/blog/series-c",
-    "title": "[英] Lovable raises $400M Series C",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
-    "title": "[英] Reflex (YC W23) Is hiring Growth and GTM Roles",
     "date": "2026-08-13"
   }
 ]
