@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://woxi.ad-si.com",
+    "title": "[英] Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+    "title": "[英] Tim Gowers: What sort of maths are LLMs good at?",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland",
+    "title": "[英] Beef and dairy drive 41% of biodiversity damage linked to global farmland",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+    "title": "[英] Facebook is paying controversial creators to produce rage-bait content",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://spoorkaart.zaza.dev",
+    "title": "[英] Dutch Train Map Simulator",
+    "date": "2026-08-12"
+  },
+  {
+    "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-hard-bread-history-shortage-9.7299276",
+    "title": "[英] Newfoundland has a hard bread shortage, but why do they eat it?",
+    "date": "2026-08-12"
+  },
+  {
     "link": "https://worm.net/",
     "title": "[英] Worms: The Future of Yesterday's Worms Today",
     "date": "2026-08-12"
@@ -42,36 +72,6 @@
   {
     "link": "https://github.com/sgkdev/bad_garbage",
     "title": "[英] CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-    "title": "[英] A shell exclamation mark is not for yelling. Be lazy",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://llama.app",
-    "title": "[英] llama.cpp",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://www.science.org/content/blog-post/flatworms-ion-channels-and-burning-mouths",
-    "title": "[英] Flatworms, Ion Channels, and Burning Mouths",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
-    "title": "[英] Dropbox is an obvious PE Target?",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://github.com/rimironenko/rag-staleness-check",
-    "title": "[英] Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-    "title": "[英] The Human Is the Loop",
     "date": "2026-08-12"
   }
 ]
