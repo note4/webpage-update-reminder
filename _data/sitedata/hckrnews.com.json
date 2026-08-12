@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+    "title": "[英] High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+    "date": "2026-08-12"
+  },
+  {
     "link": "https://woxi.ad-si.com",
     "title": "[英] Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
     "date": "2026-08-12"
@@ -67,11 +72,6 @@
   {
     "link": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
     "title": "[英] DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
-    "date": "2026-08-12"
-  },
-  {
-    "link": "https://github.com/sgkdev/bad_garbage",
-    "title": "[英] CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
     "date": "2026-08-12"
   }
 ]
