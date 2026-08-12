@@ -1,7 +1,22 @@
 [
   {
+    "link": "https://antithesis.com/blog/2026/wal-reset-bug/",
+    "title": "[英] Breaking the WAL",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://iagoleal.com/posts/dynamic-programming/",
+    "title": "[英] A Tale of Dynamic Programming (2022)",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://cynative.com/blog/agent-trust-boundaries/",
+    "title": "[英] Building Security Agents That Cannot Escape Their Trust Boundary",
+    "date": "2026-08-13"
+  },
+  {
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/how-chartreuse-conquered-paris-wine-bars-to-become-a-luxury-spirit",
-    "title": "[英] Why Paris Is Obsessed with a Niche Spirit Made by Monks",
+    "title": "[英] Chartreuse, a case study in how scarcity and authenticity can drive desirability",
     "date": "2026-08-13"
   },
   {
@@ -11,17 +26,17 @@
   },
   {
     "link": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
-    "title": "[英] Your key to success isn't more luck or hard work",
+    "title": "[英] People who grew up with high economic connectedness earn more",
     "date": "2026-08-13"
   },
   {
     "link": "https://thenewcuriosityshop.substack.com/p/the-essential-question",
-    "title": "[英] The Essential Question: \"What should I read next?\"",
+    "title": "[英] The Essential Question: “What should I read next?”",
     "date": "2026-08-13"
   },
   {
     "link": "https://zed.dev/blog/introducing-delta",
-    "title": "[英] Zed: Delta",
+    "title": "[英] Delta",
     "date": "2026-08-13"
   },
   {
@@ -51,27 +66,12 @@
   },
   {
     "link": "https://lovable.dev/blog/series-c",
-    "title": "[英] We just raised $400M in Series C",
+    "title": "[英] Lovable raises $400M Series C",
     "date": "2026-08-13"
   },
   {
     "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
     "title": "[英] Reflex (YC W23) Is hiring Growth and GTM Roles",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-    "title": "[英] HTML over WebSockets: real-time SPAs with barely any JavaScript",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-    "title": "[英] Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://loudbicycle.com/bb",
-    "title": "[英] Bike Bureau: Report Bike Lane Obstructions",
     "date": "2026-08-13"
   }
 ]
