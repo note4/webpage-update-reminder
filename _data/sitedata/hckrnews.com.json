@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://inertiagraphics.com/",
+    "title": "[英] Show HN: Inertia – Not your Grandfathers animation editor",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+    "title": "[英] Accelerating GPT-5.6 Sol Ultrafast",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
+    "title": "[英] JDK 27 G1/Parallel/Serial GC Changes",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://0.mk/blog/link-rot",
     "title": "[英] Where did the old web go? We followed 657,607 links to find out",
     "date": "2026-08-14"
@@ -30,13 +45,18 @@
     "date": "2026-08-14"
   },
   {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "title": "[英] Gemini 3.7 Flash",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://docs.mistral.ai/models/ocr-4-1",
     "title": "[英] Mistral OCR 4.1",
     "date": "2026-08-14"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "title": "[英] Gemini 3.7 Flash",
+    "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+    "title": "[英] AI At Home Part 1: A Box Of Scraps",
     "date": "2026-08-14"
   },
   {
@@ -50,28 +70,8 @@
     "date": "2026-08-14"
   },
   {
-    "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-    "title": "[英] AI At Home Part 1: A Box Of Scraps",
-    "date": "2026-08-14"
-  },
-  {
     "link": "https://ojcp.dev/",
     "title": "[英] Show HN: OJCP – an open protocol for agent-consumable job data",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://sourcelibrary.org",
-    "title": "[英] Translating the Renaissance: 17,000+ historical source texts",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.neowin.net/news/samsung-is-using-claude-to-verify-chip-designs-and-its-not-going-smoothly/",
-    "title": "[英] Samsung is using Claude to verify chip designs. It's not going smoothly",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://xcancel.com/deepseek_ai/status/2087864589895798968",
-    "title": "[英] DeepSeek up to 1000% price hike is live",
     "date": "2026-08-14"
   }
 ]
