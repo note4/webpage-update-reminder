@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9",
+    "title": "[英] US sells 30-year bonds at highest borrowing costs since 2001",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://www.forth.org/literature/noble.html",
     "title": "[英] Finite State Machines in Forth (1994)",
     "date": "2026-08-14"
@@ -60,18 +65,13 @@
     "date": "2026-08-14"
   },
   {
-    "link": "https://github.com/systemd/systemd/issues/40262",
-    "title": "[英] Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
-    "date": "2026-08-14"
-  },
-  {
     "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
     "title": "[英] Understanding is the new bottleneck",
     "date": "2026-08-14"
   },
   {
-    "link": "https://www.firecrawl.dev/blog/kimi-k3",
-    "title": "[英] What Is Kimi K3? A Complete Developer Guide for 2026",
+    "link": "https://github.com/systemd/systemd/issues/40262",
+    "title": "[英] Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
     "date": "2026-08-14"
   }
 ]
