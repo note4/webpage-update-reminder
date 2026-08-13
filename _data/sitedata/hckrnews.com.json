@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "title": "[英] How Organizations Use AI: Evidence from ChatGPT [pdf]",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal",
+    "title": "[英] Solid 2.0 RC: The Big <Reveal>",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://github.com/itsmeadarsh2008/opencode-senses",
+    "title": "[英] Show HN: OpenCode Senses, An insanely fast and highly accurate vision plugin",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "title": "[英] Understanding is the new bottleneck",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://www.firecrawl.dev/blog/kimi-k3",
+    "title": "[英] What Is Kimi K3? A Complete Developer Guide for 2026",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://github.com/systemd/systemd/issues/40262",
+    "title": "[英] Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49290629",
+    "title": "[英] undefined",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://inertiagraphics.com/",
     "title": "[英] Show HN: Inertia – Not your Grandfathers animation editor",
     "date": "2026-08-14"
@@ -37,41 +72,6 @@
   {
     "link": "https://lrc.la.utexas.edu/eieol/tokol/0",
     "title": "[英] Tocharian Online",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "title": "[英] Gemini 3.7 Flash",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "title": "[英] Gemini 3.7 Flash",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://docs.mistral.ai/models/ocr-4-1",
-    "title": "[英] Mistral OCR 4.1",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-    "title": "[英] AI At Home Part 1: A Box Of Scraps",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://goaccess.io/",
-    "title": "[英] GoAccess – Open-source real-time log analyzer and interactive viewer",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/",
-    "title": "[英] Mozilla says stricter antitrust measures against Google 'threaten Firefox'",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://ojcp.dev/",
-    "title": "[英] Show HN: OJCP – an open protocol for agent-consumable job data",
     "date": "2026-08-14"
   }
 ]

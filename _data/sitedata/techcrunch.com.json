@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "title": "[英] OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "date": "2026-08-14 03:22:40"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "title": "[英] IBM partners with OpenAI to bolster enterprise AI push",
+    "date": "2026-08-14 03:19:49"
+  },
+  {
     "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
     "title": "[英] Anthropic set AI agents loose on the same task. They started a turf war.",
     "date": "2026-08-14 02:28:14"
@@ -63,15 +73,5 @@
     "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
     "title": "[英] AI nuclear power firm Fermi finally has a new CEO",
     "date": "2026-08-13 06:24:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
-    "title": "[英] Northrop’s robot space mechanic is a new way to keep satellites at work longer",
-    "date": "2026-08-13 04:53:41"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "title": "[英] Amazon will train on Twitch streamers’ content by default, unless they opt out",
-    "date": "2026-08-13 04:10:40"
   }
 ]
