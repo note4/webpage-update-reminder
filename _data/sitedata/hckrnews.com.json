@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://sourcelibrary.org",
+    "title": "[英] Translating the Renaissance: 17,000+ historical source texts",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://www.neowin.net/news/samsung-is-using-claude-to-verify-chip-designs-and-its-not-going-smoothly/",
+    "title": "[英] Samsung is using Claude to verify chip designs. It's not going smoothly",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://xcancel.com/deepseek_ai/status/2087864589895798968",
+    "title": "[英] DeepSeek up to 1000% price hike is live",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://djbinder.com/language-tree/",
+    "title": "[英] The Indo-European Family Tree",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+    "title": "[英] How art invented humanity",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://ordinaryabundance.com/",
     "title": "[英] Ordinary Abundance",
     "date": "2026-08-14"
@@ -16,7 +41,7 @@
   },
   {
     "link": "https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency",
-    "title": "[英] Flock Safety changes system defaults in response to criticisms",
+    "title": "[英] Flock updates privacy, accountability, security, and transparency safeguards",
     "date": "2026-08-14"
   },
   {
@@ -46,32 +71,7 @@
   },
   {
     "link": "https://oxide.computer/blog/kubernetes-on-oxide",
-    "title": "[英] Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-    "title": "[英] Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
-    "title": "[英] AI Generated 3D Models Flood Market, but Almost No One Is Buying Them",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-    "title": "[英] Spaghettifying DRAM",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://gloom.sh/",
-    "title": "[英] Gloomberb",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
-    "title": "[英] Anthropic: Introducing The Conceptual Reasoning Index",
+    "title": "[英] Kubernetes on Oxide: How customer needs shaped our integrations",
     "date": "2026-08-14"
   }
 ]
