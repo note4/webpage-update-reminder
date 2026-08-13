@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://0.mk/blog/link-rot",
+    "title": "[英] Where did the old web go? We followed 657,607 links to find out",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://mcfunley.com/choose-boring-technology",
+    "title": "[英] Choose Boring Technology (2015)",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://donkeybas.com/",
+    "title": "[英] Donkey.bas is 45 Years Old – 131 line of Glory",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://svelte.dev/blog/sveltekit-3-release-candidate",
+    "title": "[英] The SvelteKit 3 Release Candidate is here",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://lrc.la.utexas.edu/eieol/tokol/0",
+    "title": "[英] Tocharian Online",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "title": "[英] Gemini 3.7 Flash",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://docs.mistral.ai/models/ocr-4-1",
+    "title": "[英] Mistral OCR 4.1",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "title": "[英] Gemini 3.7 Flash",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://goaccess.io/",
+    "title": "[英] GoAccess – Open-source real-time log analyzer and interactive viewer",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/",
+    "title": "[英] Mozilla says stricter antitrust measures against Google 'threaten Firefox'",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+    "title": "[英] AI At Home Part 1: A Box Of Scraps",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://ojcp.dev/",
+    "title": "[英] Show HN: OJCP – an open protocol for agent-consumable job data",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://sourcelibrary.org",
     "title": "[英] Translating the Renaissance: 17,000+ historical source texts",
     "date": "2026-08-14"
@@ -12,66 +72,6 @@
   {
     "link": "https://xcancel.com/deepseek_ai/status/2087864589895798968",
     "title": "[英] DeepSeek up to 1000% price hike is live",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://djbinder.com/language-tree/",
-    "title": "[英] The Indo-European Family Tree",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-    "title": "[英] How art invented humanity",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://ordinaryabundance.com/",
-    "title": "[英] Ordinary Abundance",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://generativeai.pub/my-macbook-aged-three-years-in-three-months-of-vibe-coding-64e7ab92123d",
-    "title": "[英] My MacBook aged three years in three months of vibe coding",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/",
-    "title": "[英] Build a Stratum 1 PTP Grandmaster on a Budget",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency",
-    "title": "[英] Flock updates privacy, accountability, security, and transparency safeguards",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.seangoedecke.com/text-ai-watermarks/",
-    "title": "[英] Text AI watermarks will always be trivial to remove",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-    "title": "[英] I requested a copy of my data from McDonald’s loyalty program",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
-    "title": "[英] The mathematical physics of rainbows and glories (2001) [pdf]",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-    "title": "[英] We eliminated 1,400 CVEs in NanoClaw's container images",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://namedaisy.com/blog/us-vs-uk-top-100-baby-names-2025",
-    "title": "[英] US vs. UK Baby Names 2025: The Biggest Top Differences Visualized",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://oxide.computer/blog/kubernetes-on-oxide",
-    "title": "[英] Kubernetes on Oxide: How customer needs shaped our integrations",
     "date": "2026-08-14"
   }
 ]
