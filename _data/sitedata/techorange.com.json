@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/08/14/apple-ai-siri-news-licensing-ymtc-nand/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【科技早餐】蘋果擬投入上億美元為 AI 版 Siri 買新聞授權，長江存儲 NAND 出貨首登全球第三",
+    "date": "2026-08-14 05:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/08/13/pixel-11-gemini-google-taiwan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Pixel 11 把 Gemini 推向手機核心：Google 台灣硬體研發團隊談背後的軟硬體工程",
     "date": "2026-08-13 15:02:52"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/08/12/beyond-the-salary/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【工程師薪資新變數】AI 推論成本進入薪資結構，token 消耗開始成為工程師談判籌碼",
     "date": "2026-08-12 11:01:07"
-  },
-  {
-    "link": "https://techorange.com/2026/08/12/nemotron-lightning-switchyard/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "大客戶開始自研 AI 晶片，NVIDIA 反而加碼開放模型：Nemotron 如何擴大下一波 GPU 需求？",
-    "date": "2026-08-12 10:49:44"
   }
 ]

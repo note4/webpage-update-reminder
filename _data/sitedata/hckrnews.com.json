@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.forth.org/literature/noble.html",
+    "title": "[英] Finite State Machines in Forth (1994)",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
     "title": "[英] Smooth Move: Taming Trajectories with Polynomials",
     "date": "2026-08-14"
@@ -55,8 +60,8 @@
     "date": "2026-08-14"
   },
   {
-    "link": "https://www.firecrawl.dev/blog/kimi-k3",
-    "title": "[英] What Is Kimi K3? A Complete Developer Guide for 2026",
+    "link": "https://github.com/systemd/systemd/issues/40262",
+    "title": "[英] Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
     "date": "2026-08-14"
   },
   {
@@ -65,13 +70,8 @@
     "date": "2026-08-14"
   },
   {
-    "link": "https://github.com/systemd/systemd/issues/40262",
-    "title": "[英] Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49290629",
-    "title": "[英] undefined",
+    "link": "https://www.firecrawl.dev/blog/kimi-k3",
+    "title": "[英] What Is Kimi K3? A Complete Developer Guide for 2026",
     "date": "2026-08-14"
   }
 ]
