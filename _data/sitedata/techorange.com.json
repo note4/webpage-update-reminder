@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/08/13/agentic-security/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【零信任新挑戰】AI 代理能跨系統存取、層層委派授權，企業的身分治理框架需從頭設計",
+    "date": "2026-08-13 10:58:22"
+  },
+  {
+    "link": "https://techorange.com/2026/08/13/inside-a-multi-agent-ai-framework-used-to-compromise-government-entities-in-asia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "疑中國駭客用 8 個 AI Agent 攻擊台灣，入侵失敗還會自己找新招：資安防線如何跟上自主網攻速度？",
+    "date": "2026-08-13 10:43:00"
+  },
+  {
     "link": "https://techorange.com/2026/08/13/grok-4-6-spacexai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Grok 4.6 強攻長時間 AI Agent：企業選模型不能再只看 Token 單價",
     "date": "2026-08-13 10:29:32"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/08/11/cloudflare-wallets-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Cloudflare Wallets 讓 AI Agent 自主付款：為何網路基礎設施商也開始做支付？",
     "date": "2026-08-11 17:05:12"
-  },
-  {
-    "link": "https://techorange.com/2026/08/11/automationtaipei2026-moxa-amr/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "2026 台北國際自動化工業大展｜Moxa 打造工業 AI 網路底座，從控制網路到資安治理全面布局",
-    "date": "2026-08-11 16:25:01"
-  },
-  {
-    "link": "https://techorange.com/2026/08/11/nissan-ai-camera/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Nissan 用 AI 分析工人姿勢防職災，省下 3,400 萬美元：員工為何從抗拒變歡迎？",
-    "date": "2026-08-11 15:00:00"
   }
 ]
