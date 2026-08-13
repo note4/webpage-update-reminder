@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
+    "title": "[英] Program images and portable Scheme back ends for Jolt",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+    "title": "[英] What's New in Flutter 3.47",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://gwern.net/doc/psychology/spaced-repetition/1973-standing.pdf",
+    "title": "[英] Learning 10000 pictures (1973) [pdf]",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://www.apple.com/shop/apple-upgrade",
+    "title": "[英] Apple Leasing Program",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+    "title": "[英] Principia Mathematica is modern and insightful",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://adapt.com/blog/build-wide-ship-narrow",
+    "title": "[英] Build Wide, Ship Narrow",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://sharktastica.co.uk/articles/pc-fxt-45",
+    "title": "[英] Happy 45th Birthday to the IBM PC and Model F/XT",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://www.ballet.dev/",
+    "title": "[英] Show HN: Ballet – Workflow automation that writes integrations against any API",
+    "date": "2026-08-13"
+  },
+  {
     "link": "https://bengodfrey.dev/blog/process/",
     "title": "[英] Process as a Proxy for Motivation",
     "date": "2026-08-13"
@@ -32,46 +72,6 @@
   {
     "link": "https://timer.jotaen.net",
     "title": "[英] Show HN: Programmable timer web app (for gym workouts or stretching sessions)",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49278641",
-    "title": "[英] undefined",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-    "title": "[英] Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://lwn.net/Articles/1083985/",
-    "title": "[英] Debugging Information for Inlined Functions",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://antithesis.com/blog/2026/wal-reset-bug/",
-    "title": "[英] Breaking the WAL",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://iagoleal.com/posts/dynamic-programming/",
-    "title": "[英] A Tale of Dynamic Programming (2022)",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://cynative.com/blog/agent-trust-boundaries/",
-    "title": "[英] Building Security Agents That Cannot Escape Their Trust Boundary",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/how-chartreuse-conquered-paris-wine-bars-to-become-a-luxury-spirit",
-    "title": "[英] Chartreuse, a case study in how scarcity and authenticity can drive desirability",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://openrouter.ai/x-ai/grok-4.6",
-    "title": "[英] SpaceXAI: Grok 4.6",
     "date": "2026-08-13"
   }
 ]
