@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
+    "title": "[英] Smooth Move: Taming Trajectories with Polynomials",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788",
+    "title": "[英] Airbnb Eval-driven development: Lessons from evaluating GenAI at scale",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://gruhn.me/blog/2026-08-13/",
     "title": "[英] NP-Overrated",
     "date": "2026-08-14"
@@ -16,7 +26,7 @@
   },
   {
     "link": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-    "title": "[英] How Gödel's Proof Works",
+    "title": "[英] How Gödel's Proof Works (2020)",
     "date": "2026-08-14"
   },
   {
@@ -50,28 +60,18 @@
     "date": "2026-08-14"
   },
   {
-    "link": "https://github.com/systemd/systemd/issues/40262",
-    "title": "[英] Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
-    "date": "2026-08-14"
-  },
-  {
     "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
     "title": "[英] Understanding is the new bottleneck",
     "date": "2026-08-14"
   },
   {
+    "link": "https://github.com/systemd/systemd/issues/40262",
+    "title": "[英] Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=49290629",
     "title": "[英] undefined",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://inertiagraphics.com/",
-    "title": "[英] Show HN: Inertia – Not your Grandfathers animation editor",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-    "title": "[英] Accelerating GPT-5.6 Sol Ultrafast",
     "date": "2026-08-14"
   }
 ]
