@@ -1,7 +1,22 @@
 [
   {
-    "link": "https://travelandtannins.com/an-italian-bank-keeps-400000-wheels-of-cheese-in-a-guarded-vault-and-farmers-borrow-money-against-them-like-gold/",
-    "title": "[英] Italian Bank Stores 400K Wheels of Cheese as Collateral for Farmer Loans",
+    "link": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
+    "title": "[英] If I own Claude's outputs why can't I train my own model on them?",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+    "title": "[英] The lattice of sets of natural numbers is rich",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://agent-wars.com/news/2026-08-11-mistral-code-tool-calls-patent-b1",
+    "title": "[英] Mistral got a US patent on tool calls in 118 days. Without prior public notice",
+    "date": "2026-08-13"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49219428",
+    "title": "[英] undefined",
     "date": "2026-08-13"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
     "title": "[英] Antiqua–Fraktur dispute",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7",
-    "title": "[英] Locating an unknown source of radiation in a heterogeneous environment (2019)",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://www.etherionconsulting.com/blog/what-is-ai-governance-and-how-to-operationalize-it/",
-    "title": "[英] What is AI governance and how to operationalize it?",
-    "date": "2026-08-13"
-  },
-  {
-    "link": "https://timereshared.com/waits-samuel-checkers/",
-    "title": "[英] Waits: Arthur Samuel's Checkers",
     "date": "2026-08-13"
   }
 ]
