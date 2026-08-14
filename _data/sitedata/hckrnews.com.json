@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones",
+    "title": "[英] Study links coffee consumption to metabolic health and sex hormones",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
     "title": "[英] What You Gain by Building Your Own Game Engine",
     "date": "2026-08-15"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.derekthompson.org/p/the-american-sports-plutocracy-is",
     "title": "[英] The American Sports Plutocracy Is Bullshit",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://github.com/lajosdeme/mole",
-    "title": "[英] Show HN: Mole – Deep research agent for your terminal",
     "date": "2026-08-15"
   }
 ]
