@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://github.com/robss2020/claude-fable-5-having-fun",
+    "title": "[英] Claude Fable 5 Having Fun",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://sonniss.com/gameaudiogdc/",
+    "title": "[英] Game Developers Conference – Royalty Free Sound Effects",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
     "title": "[英] Racket v9.3",
     "date": "2026-08-15"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.bbc.com/news/articles/c1j1ye6n30no",
     "title": "[英] Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
-    "title": "[英] Anthropic Risk August 2026 [pdf]",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.aletheionagi.com",
-    "title": "[英] Show HN: AletheionAGI – Grounding enforcement for AI agents",
     "date": "2026-08-15"
   }
 ]
