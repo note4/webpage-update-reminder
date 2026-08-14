@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+    "title": "[英] Racket v9.3",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "title": "[英] RISC-V: They should have known better",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://fzakaria.com/2026/08/05/super-mario-derivations",
     "title": "[英] Super Mario Derivations",
     "date": "2026-08-15"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.aletheionagi.com",
     "title": "[英] Show HN: AletheionAGI – Grounding enforcement for AI agents",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.11158",
-    "title": "[英] New Lower and Upper Bounds for the Grothendieck Constant",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://github.com/adanil-code/LRUHashTable",
-    "title": "[英] High-Performance Array-Backed LRU Hash Table",
     "date": "2026-08-15"
   }
 ]
