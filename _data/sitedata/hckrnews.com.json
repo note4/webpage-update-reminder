@@ -1,12 +1,47 @@
 [
   {
+    "link": "https://www.tokyodev.com/articles/yes-and-what-an-improv-stage-can-teach-you-about-leading-cross-cultural-teams-in-tokyo",
+    "title": "[英] What an Improv Stage Can Teach You About Leading Cross-Cultural Teams in Tokyo",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://github.com/JustVugg/lumabri",
+    "title": "[英] Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+    "title": "[英] Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/",
+    "title": "[英] Why Books Don't Work: Constructivism over Transmissionism (2021)",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://github.com/ArcadeMakerSources/ArcadeMaker",
+    "title": "[英] Show HN: C# Game Engine with its own scripting language and IDE",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49295163",
+    "title": "[英] undefined",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://www.historytoday.com/archive/feature/library-ashurbanipal",
+    "title": "[英] The Library of Ashurbanipal (2025)",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://z.ai/blog/glm-5.3",
-    "title": "[英] GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+    "title": "[英] GLM-5.3: Frontier coding with emergent cyber capabilities",
     "date": "2026-08-14"
   },
   {
     "link": "https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry",
-    "title": "[英] How do you sell a CPU design when the instruction set is free?",
+    "title": "[英] Credibility is the barrier to entry in silicon",
     "date": "2026-08-14"
   },
   {
@@ -36,42 +71,7 @@
   },
   {
     "link": "https://sebsite.pw/w/20260810-c89ambiguity.html",
-    "title": "[英] An ambiguity in c89 which will never be fixed",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://szha.ai/blog/compute-optimal-is-not-cluster-optimal/",
-    "title": "[英] Compute-optimal is not cluster-optimal",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-    "title": "[英] Hello, me. It's been a while",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-    "title": "[英] I want extern \"fil-C\"",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://sparrowmap.com/",
-    "title": "[英] SparrowMap – Cameras that watch government vehicles",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-    "title": "[英] Bluesky Protocol Services",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
-    "title": "[英] How a device finds encrypted DNS by itself",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://declaude.org/watermarking/",
-    "title": "[英] How AI text watermarking works",
+    "title": "[英] an ambiguity in C89 which will never be fixed",
     "date": "2026-08-14"
   }
 ]
