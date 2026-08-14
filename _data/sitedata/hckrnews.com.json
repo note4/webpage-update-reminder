@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl",
+    "title": "[英] Forbidden City Cabbage",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://opencrawling.org/blog/introducing-qdrant-output-connector.html",
+    "title": "[英] The Qdrant Output Connector",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://luacad.ad-si.com",
+    "title": "[英] Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://www.byhand.ai/p/28-discrete-fourier-transform",
+    "title": "[英] Discrete Fourier Transform by Hand",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.12700",
+    "title": "[英] A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+    "title": "[英] Count Binface receives over a quarter of votes in Clacton by-election",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
     "title": "[英] Maximizing the value of your Claude Code sessions",
     "date": "2026-08-15"
@@ -16,7 +46,7 @@
   },
   {
     "link": "https://cursor.com/blog/joining-spacex",
-    "title": "[英] Cursor Is Joining SpaceX",
+    "title": "[英] Cursor is now a part of SpaceX",
     "date": "2026-08-15"
   },
   {
@@ -41,37 +71,7 @@
   },
   {
     "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-    "title": "[英] France blocks social media ban because it would require adults to prove age",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
-    "title": "[英] Private prisons announce $1.4B in revenue as immigration detentions climb",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://mib-viewer.com/",
-    "title": "[英] Show HN: Online SNMP MIB database - upload/view your own MIBs",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/",
-    "title": "[英] \"Solving a largely imaginary user goal\"",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49299970",
-    "title": "[英] undefined",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://github.com/NanoNets/Graft",
-    "title": "[英] Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://earth.nullschool.net/",
-    "title": "[英] Earth.nullschool.net",
+    "title": "[英] France's top court blocks social media ban for under-15s",
     "date": "2026-08-15"
   }
 ]
