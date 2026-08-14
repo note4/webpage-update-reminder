@@ -1,5 +1,10 @@
 [
   {
+    "link": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
+    "title": "[英] Moving integer division to floating-point is trivial",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl",
     "title": "[英] Forbidden City Cabbage",
     "date": "2026-08-15"
@@ -67,11 +72,6 @@
   {
     "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
     "title": "[英] Google is making private AI practical with homomorphic encryption",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-    "title": "[英] France's top court blocks social media ban for under-15s",
     "date": "2026-08-15"
   }
 ]
