@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+    "title": "[英] Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://e360.yale.edu/digest/australia-home-batteries",
+    "title": "[英] In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://codeberg.org/jjba23/lambdock",
+    "title": "[英] Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://www.whatcable.uk/",
+    "title": "[英] WhatCable: Know what your USB-C cable can do",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+    "title": "[英] The TEMU-Fication of Software, Digital Goods and Services",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://hashagent.pages.dev/",
+    "title": "[英] HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+    "title": "[英] Dear people who work at the airport",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html",
+    "title": "[英] France's tax authority had data stolen on 680k taxpayers",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://en.wikipedia.org/wiki/Pneumatic_tube_mail_in_New_York_City",
     "title": "[英] Pneumatic tube mail in New York City",
     "date": "2026-08-14"
@@ -32,46 +72,6 @@
   {
     "link": "https://www.domenkozar.com/2026/08/13/i-want-extern-fil-c/",
     "title": "[英] I want extern \"fil-C\"",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cr7kpdkg13zo",
-    "title": "[英] Major oil slick washes up on Iran coast after Hormuz ship strike",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-    "title": "[英] Why does Opus 5 feel worse to work with?",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://api-docs.deepseek.com/news/news260813/",
-    "title": "[英] DeepSeek peak/off-peak pricing update",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://claytonwramsey.com/blog/mvt/",
-    "title": "[英] We're not done with point clouds",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
-    "title": "[英] Differential Heuristics",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
-    "title": "[英] Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/",
-    "title": "[英] Phones should have a 'guest lock' feature",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.tokyodev.com/articles/yes-and-what-an-improv-stage-can-teach-you-about-leading-cross-cultural-teams-in-tokyo",
-    "title": "[英] What an improv stage can teach you about leading cross-cultural teams in Tokyo",
     "date": "2026-08-14"
   }
 ]
