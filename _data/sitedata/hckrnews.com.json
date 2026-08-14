@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "title": "[英] Maximizing the value of your Claude Code sessions",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://www.byhand.ai/",
+    "title": "[英] AI by Hand",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://desk.napkinbook.com/",
+    "title": "[英] Show HN: Napkinbook, a smart canvas for discovering, and sharing insights",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://cursor.com/blog/joining-spacex",
+    "title": "[英] Cursor Is Joining SpaceX",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "title": "[英] RustDesk now supports true unattended remote access on Wayland",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://rayforcedb.com/",
+    "title": "[英] RayforceDB – a pure C analytics database with a Lisp-like syntax",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://uvbirds.com/",
+    "title": "[英] Ultraviolet Bird Photography",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "[英] Google is making private AI practical with homomorphic encryption",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+    "title": "[英] France blocks social media ban because it would require adults to prove age",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
     "title": "[英] Private prisons announce $1.4B in revenue as immigration detentions climb",
     "date": "2026-08-15"
@@ -15,8 +60,8 @@
     "date": "2026-08-15"
   },
   {
-    "link": "https://www.red5.net/blog/av1-vs-av2/",
-    "title": "[英] AV1 vs. AV2: Which Video Codec Should You Use in 2026?",
+    "link": "https://news.ycombinator.com/item?id=49299970",
+    "title": "[英] undefined",
     "date": "2026-08-15"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://earth.nullschool.net/",
     "title": "[英] Earth.nullschool.net",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-    "title": "[英] Unsloth Qwen3.8-27B GGUF files",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.indiatoday.in/world/story/us-loses-one-fourth-mq-9-reaper-drones-near-strait-of-hormuz-in-iran-war-2970823-2026-08-14",
-    "title": "[英] US loses one-fourth of drone fleet as Iran war drains its arsenal",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
-    "title": "[英] Gödel, Escher, Elisp: The Beauty of Macros",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://blog.plover.com/2026/08/02/",
-    "title": "[英] Seven books I keep close because I love them",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://kukuroo.cc/",
-    "title": "[英] Self-hosted web push Cloudflare Worker, works on iOS",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.mixedbread.com/blog/toast-1",
-    "title": "[英] Introducing Toast 1",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-    "title": "[英] Qwen 3.8 27B is out: open weights, best local dense model yet",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
-    "title": "[英] Qwen3.8-27B",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://apimart.ai/register?aff=yScTCM",
-    "title": "[英] Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
     "date": "2026-08-15"
   }
 ]
