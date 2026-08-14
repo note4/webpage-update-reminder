@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.iroh.computer/blog/authenticated-relays",
+    "title": "[英] Protect Your Relays",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://pssah4.github.io/vault-operator/guides/capabilities",
+    "title": "[英] Everyone talks about AI agents. This is what one looks from the inside",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
+    "title": "[英] For the love of god stop using CPU limits in Kubernetes",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://www.domenkozar.com/2026/08/13/i-want-extern-fil-c/",
     "title": "[英] I want extern \"fil-C\"",
     "date": "2026-08-14"
@@ -57,21 +72,6 @@
   {
     "link": "https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/",
     "title": "[英] Why Books Don't Work: Constructivism over Transmissionism (2021)",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://github.com/ArcadeMakerSources/ArcadeMaker",
-    "title": "[英] Show HN: C# Game Engine with its own scripting language and IDE",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49295163",
-    "title": "[英] undefined",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.historytoday.com/archive/feature/library-ashurbanipal",
-    "title": "[英] The Library of Ashurbanipal (2025)",
     "date": "2026-08-14"
   }
 ]
