@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://arxiv.org/abs/2608.11158",
+    "title": "[英] New Lower and Upper Bounds for the Grothendieck Constant",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://github.com/adanil-code/LRUHashTable",
+    "title": "[英] High-Performance Array-Backed LRU Hash Table",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
+    "title": "[英] Open WireGuard Endpoints",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://www.anthropic.com/news/claude-text-watermark",
+    "title": "[英] How Claude's text watermarking works",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://cvd.z.ai",
+    "title": "[英] Z.ai Security Disclosure",
+    "date": "2026-08-15"
+  },
+  {
     "link": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
     "title": "[英] Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines",
     "date": "2026-08-15"
@@ -30,18 +55,13 @@
     "date": "2026-08-15"
   },
   {
-    "link": "https://luacad.ad-si.com",
-    "title": "[英] Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-    "date": "2026-08-15"
-  },
-  {
     "link": "https://opencrawling.org/blog/introducing-qdrant-output-connector.html",
     "title": "[英] The Qdrant Output Connector",
     "date": "2026-08-15"
   },
   {
-    "link": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-    "title": "[英] Count Binface receives over a quarter of votes in Clacton by-election",
+    "link": "https://luacad.ad-si.com",
+    "title": "[英] Show HN: LuaCAD – Parametric CAD Scripted in Lua",
     "date": "2026-08-15"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://arxiv.org/abs/2608.12700",
     "title": "[英] A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-    "title": "[英] Maximizing the value of your Claude Code sessions",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.byhand.ai/",
-    "title": "[英] AI by Hand",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://desk.napkinbook.com/",
-    "title": "[英] Show HN: Napkinbook, a smart canvas for discovering, and sharing insights",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://cursor.com/blog/joining-spacex",
-    "title": "[英] Cursor is now a part of SpaceX",
     "date": "2026-08-15"
   }
 ]
