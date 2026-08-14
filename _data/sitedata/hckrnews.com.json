@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://z.ai/blog/glm-5.3",
+    "title": "[英] GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry",
+    "title": "[英] How do you sell a CPU design when the instruction set is free?",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals",
     "title": "[英] Cave of the Crystals",
     "date": "2026-08-14"
@@ -62,16 +72,6 @@
   {
     "link": "https://declaude.org/watermarking/",
     "title": "[英] How AI text watermarking works",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation",
-    "title": "[英] PBS loses 70 years of TV history after cloud storage vendor goes defunct",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://sunranker.com",
-    "title": "[英] Show HN: My solar died for 6 months, so I built a watchdog",
     "date": "2026-08-14"
   }
 ]
