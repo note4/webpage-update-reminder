@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+    "title": "[英] What You Gain by Building Your Own Game Engine",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo",
     "title": "[英] CEO who fired 900 people on Zoom just before Christmas wants his job back",
     "date": "2026-08-15"
@@ -45,13 +50,13 @@
     "date": "2026-08-15"
   },
   {
-    "link": "https://cvd.z.ai",
-    "title": "[英] Z.ai Security Disclosure",
+    "link": "https://www.anthropic.com/news/claude-text-watermark",
+    "title": "[英] How Claude's text watermarking works",
     "date": "2026-08-15"
   },
   {
-    "link": "https://www.anthropic.com/news/claude-text-watermark",
-    "title": "[英] How Claude's text watermarking works",
+    "link": "https://cvd.z.ai",
+    "title": "[英] Z.ai Security Disclosure",
     "date": "2026-08-15"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://github.com/lajosdeme/mole",
     "title": "[英] Show HN: Mole – Deep research agent for your terminal",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://sandbox.bio/training/embed",
-    "title": "[英] Show HN: Embed a real Linux terminal on your website",
     "date": "2026-08-15"
   }
 ]
