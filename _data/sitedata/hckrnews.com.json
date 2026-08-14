@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo",
+    "title": "[英] CEO who fired 900 people on Zoom just before Christmas wants his job back",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://github.com/carpdiem/ember",
+    "title": "[英] Show HN: Ember – Redshift safe color palettes",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://iafisher.com/2026/07/pelham-123",
+    "title": "[英] Every exterior shot in The Taking of Pelham 123",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c1j1ye6n30no",
+    "title": "[英] Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+    "title": "[英] Anthropic Risk August 2026 [pdf]",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://www.aletheionagi.com",
+    "title": "[英] Show HN: AletheionAGI – Grounding enforcement for AI agents",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://arxiv.org/abs/2608.11158",
     "title": "[英] New Lower and Upper Bounds for the Grothendieck Constant",
     "date": "2026-08-15"
@@ -15,13 +45,13 @@
     "date": "2026-08-15"
   },
   {
-    "link": "https://www.anthropic.com/news/claude-text-watermark",
-    "title": "[英] How Claude's text watermarking works",
+    "link": "https://cvd.z.ai",
+    "title": "[英] Z.ai Security Disclosure",
     "date": "2026-08-15"
   },
   {
-    "link": "https://cvd.z.ai",
-    "title": "[英] Z.ai Security Disclosure",
+    "link": "https://www.anthropic.com/news/claude-text-watermark",
+    "title": "[英] How Claude's text watermarking works",
     "date": "2026-08-15"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://sandbox.bio/training/embed",
     "title": "[英] Show HN: Embed a real Linux terminal on your website",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
-    "title": "[英] Moving integer division to floating-point is trivial",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl",
-    "title": "[英] Forbidden City Cabbage",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://opencrawling.org/blog/introducing-qdrant-output-connector.html",
-    "title": "[英] The Qdrant Output Connector",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://luacad.ad-si.com",
-    "title": "[英] Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.byhand.ai/p/28-discrete-fourier-transform",
-    "title": "[英] Discrete Fourier Transform by Hand",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.12700",
-    "title": "[英] A Contract-Grade Verifier for LLM-Generated GPU Kernels",
     "date": "2026-08-15"
   }
 ]
