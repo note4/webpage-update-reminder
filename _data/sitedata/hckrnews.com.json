@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+    "title": "[英] How a device finds encrypted DNS by itself",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://declaude.org/watermarking/",
+    "title": "[英] How AI text watermarking works",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation",
+    "title": "[英] PBS loses 70 years of TV history after cloud storage vendor goes defunct",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://sunranker.com",
     "title": "[英] Show HN: My solar died for 6 months, so I built a watchdog",
     "date": "2026-08-14"
@@ -57,21 +72,6 @@
   {
     "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
     "title": "[英] How Organizations Use AI: Evidence from ChatGPT [pdf]",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal",
-    "title": "[英] Solid 2.0 RC: The Big <Reveal>",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://github.com/itsmeadarsh2008/opencode-senses",
-    "title": "[英] Show HN: OpenCode Senses, An insanely fast and highly accurate vision plugin",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.firecrawl.dev/blog/kimi-k3",
-    "title": "[英] What Is Kimi K3? A Complete Developer Guide for 2026",
     "date": "2026-08-14"
   }
 ]
