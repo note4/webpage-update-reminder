@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://op.tngl.io/every-fucking-website/",
+    "title": "[英] Every fucking website: 2026 edition",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
     "title": "[英] Firefox is now the last major browser that still supports uBlock Origin",
     "date": "2026-08-15"
@@ -67,11 +72,6 @@
   {
     "link": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
     "title": "[英] Open WireGuard Endpoints",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://cvd.z.ai",
-    "title": "[英] Z.ai Security Disclosure",
     "date": "2026-08-15"
   }
 ]
