@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/08/14/gemini-3-7-flash-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Google 三週又升級 Gemini 3.7 Flash：為何定位 Flash 成 Agent 日常主力？",
+    "date": "2026-08-14 11:30:03"
+  },
+  {
+    "link": "https://techorange.com/2026/08/14/anthropic-multiagent-systems/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Anthropic 新研究揭多 Agent 風險：從同步犯錯、價格共謀到互相攻擊，企業風險不再只是「單點失控」",
+    "date": "2026-08-14 10:57:54"
+  },
+  {
     "link": "https://techorange.com/2026/08/14/capital-one-ai-agent-vulnhunter/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【開源資安工具】用推翻結論減少誤報，Capital One 把漏洞檢測工具 VulnHunter 分享給全世界",
     "date": "2026-08-14 10:02:11"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/08/12/train-robots-laundry-folding/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "摺衣成功率達 99.1%，超過 99% 訓練資料來自手套：機器人如何克服 Physical AI 數據荒？",
     "date": "2026-08-12 15:00:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/12/taiwanmobile-5g-opensignal-nrca/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "5G 競爭進入穩定度時代：從 Opensignal 七項榮譽，看台灣大哥大如何打造世界級網路底座",
-    "date": "2026-08-12 14:00:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/12/ai-south-koreas-military-airbase-relocated-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "南韓端出逾 11 兆韓元銀彈：半導體基金齊發、主權基金押 AI 與機器人",
-    "date": "2026-08-12 13:45:08"
   }
 ]

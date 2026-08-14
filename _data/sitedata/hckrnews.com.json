@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals",
+    "title": "[英] Cave of the Crystals",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=nNXzQ7V1S_k",
+    "title": "[英] The Legend of the Novell NE2000 [video]",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
+    "title": "[英] US conducted mass spying campaign against leftwing and anti-ICE protesters",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://www.crownengine.org/news/crown-0-64/",
     "title": "[英] Crown 0.64 – Native and cross-platform game engine",
     "date": "2026-08-14"
@@ -57,21 +72,6 @@
   {
     "link": "https://sunranker.com",
     "title": "[英] Show HN: My solar died for 6 months, so I built a watchdog",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9",
-    "title": "[英] US sells 30-year bonds at highest borrowing costs since 2001",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.forth.org/literature/noble.html",
-    "title": "[英] Finite State Machines in Forth (1994)",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
-    "title": "[英] Smooth Move: Taming Trajectories with Polynomials",
     "date": "2026-08-14"
   }
 ]
