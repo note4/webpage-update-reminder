@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+    "title": "[英] Super Mario Derivations",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://op.tngl.io/every-fucking-website/",
     "title": "[英] Every fucking website: 2026 edition",
     "date": "2026-08-15"
@@ -11,7 +16,7 @@
   },
   {
     "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-    "title": "[英] Everything is about to \"go dark\"",
+    "title": "[英] Going Dark, and the era of law enforcement hacking",
     "date": "2026-08-15"
   },
   {
@@ -26,7 +31,7 @@
   },
   {
     "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-    "title": "[英] What You Gain by Building Your Own Game Engine",
+    "title": "[英] Soup Raiders goes native: What you gain by building your own game engine",
     "date": "2026-08-15"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://github.com/adanil-code/LRUHashTable",
     "title": "[英] High-Performance Array-Backed LRU Hash Table",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
-    "title": "[英] Open WireGuard Endpoints",
     "date": "2026-08-15"
   }
 ]

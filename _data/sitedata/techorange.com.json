@@ -1,13 +1,18 @@
 [
   {
-    "link": "https://techorange.com/2026/08/14/openai-ultrafast-cerebras-gpt-5-6-sol/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "GPT-5.6 Sol 接 Cerebras 快 14 倍：OpenAI 開始替不同 AI 工作挑晶片",
-    "date": "2026-08-14 15:06:16"
+    "link": "https://techorange.com/2026/08/15/securing-ai-agents-in-financial-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【金融 AI 代理安全與防禦】AI Agents 直上支付與交易第一線，機構「分階段放權」才是安全底線",
+    "date": "2026-08-15 06:29:00"
   },
   {
     "link": "https://techorange.com/2026/08/14/samsung-claude-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "三星用 Claude 把晶片驗證從 1 個月壓縮到 2 天：不只拚效率，更想縮小與高通的工程人力差距",
     "date": "2026-08-14 15:00:00"
+  },
+  {
+    "link": "https://techorange.com/2026/08/14/openai-ultrafast-cerebras-gpt-5-6-sol/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "GPT-5.6 Sol 接 Cerebras 快 14 倍：OpenAI 開始替不同 AI 工作挑晶片",
+    "date": "2026-08-14 14:06:00"
   },
   {
     "link": "https://techorange.com/2026/08/14/deepseek-harness-launches-open-source-ai-rival-claude-code/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/08/13/grok-4-6-spacexai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Grok 4.6 強攻長時間 AI Agent：企業選模型不能再只看 Token 單價",
     "date": "2026-08-13 10:29:32"
-  },
-  {
-    "link": "https://techorange.com/2026/08/13/ai-digital-transformation-of-a-pringles-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "ROI 逾 40%、廢料少 13%：品客的洋芋片產線，把 AI 數位孿生做到了哪一步？",
-    "date": "2026-08-13 09:30:58"
   }
 ]
