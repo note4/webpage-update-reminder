@@ -1,5 +1,25 @@
 [
   {
+    "link": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
+    "title": "[英] Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://www.derekthompson.org/p/the-american-sports-plutocracy-is",
+    "title": "[英] The American Sports Plutocracy Is Bullshit",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://github.com/lajosdeme/mole",
+    "title": "[英] Show HN: Mole – Deep research agent for your terminal",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://sandbox.bio/training/embed",
+    "title": "[英] Show HN: Embed a real Linux terminal on your website",
+    "date": "2026-08-15"
+  },
+  {
     "link": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
     "title": "[英] Moving integer division to floating-point is trivial",
     "date": "2026-08-15"
@@ -10,13 +30,18 @@
     "date": "2026-08-15"
   },
   {
+    "link": "https://luacad.ad-si.com",
+    "title": "[英] Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://opencrawling.org/blog/introducing-qdrant-output-connector.html",
     "title": "[英] The Qdrant Output Connector",
     "date": "2026-08-15"
   },
   {
-    "link": "https://luacad.ad-si.com",
-    "title": "[英] Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+    "link": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+    "title": "[英] Count Binface receives over a quarter of votes in Clacton by-election",
     "date": "2026-08-15"
   },
   {
@@ -27,11 +52,6 @@
   {
     "link": "https://arxiv.org/abs/2608.12700",
     "title": "[英] A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-    "title": "[英] Count Binface receives over a quarter of votes in Clacton by-election",
     "date": "2026-08-15"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://cursor.com/blog/joining-spacex",
     "title": "[英] Cursor is now a part of SpaceX",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-    "title": "[英] RustDesk now supports true unattended remote access on Wayland",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://rayforcedb.com/",
-    "title": "[英] RayforceDB – a pure C analytics database with a Lisp-like syntax",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://uvbirds.com/",
-    "title": "[英] Ultraviolet Bird Photography",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "title": "[英] Google is making private AI practical with homomorphic encryption",
     "date": "2026-08-15"
   }
 ]
