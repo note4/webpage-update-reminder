@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "title": "[英] Firefox is now the last major browser that still supports uBlock Origin",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
     "title": "[英] Everything is about to \"go dark\"",
     "date": "2026-08-15"
@@ -62,11 +67,6 @@
   {
     "link": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
     "title": "[英] Open WireGuard Endpoints",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.anthropic.com/news/claude-text-watermark",
-    "title": "[英] How Claude's text watermarking works",
     "date": "2026-08-15"
   },
   {
