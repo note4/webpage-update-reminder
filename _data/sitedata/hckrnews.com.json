@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Pneumatic_tube_mail_in_New_York_City",
+    "title": "[英] Pneumatic tube mail in New York City",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+    "title": "[英] Don't classify, hallucinate!",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
     "title": "[英] Israeli forces force families from homes amid settler terror campaign West Bank",
     "date": "2026-08-14"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.tokyodev.com/articles/yes-and-what-an-improv-stage-can-teach-you-about-leading-cross-cultural-teams-in-tokyo",
     "title": "[英] What an improv stage can teach you about leading cross-cultural teams in Tokyo",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://github.com/JustVugg/lumabri",
-    "title": "[英] Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-    "title": "[英] Ruby 4.0 Universal RCE Deserialization Gadget Chain",
     "date": "2026-08-14"
   }
 ]
