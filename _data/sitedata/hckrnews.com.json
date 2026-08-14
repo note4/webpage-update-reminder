@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "title": "[英] Qwen 3.8 27B is out: open weights, best local dense model yet",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+    "title": "[英] Qwen3.8-27B",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://apimart.ai/register?aff=yScTCM",
+    "title": "[英] Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+    "title": "[英] When Genius Fails: The Intellectual Arrogance of the AI Labs",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+    "title": "[英] I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+    "title": "[英] AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49299333",
+    "title": "[英] Ask HN: Should hard-tech founders join a problem or technology-first PhD lab?",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://lxe.github.io/everywebsite/",
+    "title": "[英] Every Fucking Website",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://sniffnet.app/news/github-secure-open-source-fund/",
+    "title": "[英] What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund",
+    "date": "2026-08-14"
+  },
+  {
+    "link": "https://ntfy.sh/",
+    "title": "[英] Ntfy – open-source Push to Mobile",
+    "date": "2026-08-14"
+  },
+  {
     "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
     "title": "[英] Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
     "date": "2026-08-14"
@@ -22,56 +72,6 @@
   {
     "link": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
     "title": "[英] The TEMU-Fication of Software, Digital Goods and Services",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://hashagent.pages.dev/",
-    "title": "[英] HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
-    "title": "[英] Dear people who work at the airport",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html",
-    "title": "[英] France's tax authority had data stolen on 680k taxpayers",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Pneumatic_tube_mail_in_New_York_City",
-    "title": "[英] Pneumatic tube mail in New York City",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-    "title": "[英] Don't classify, hallucinate!",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
-    "title": "[英] Israeli forces force families from homes amid settler terror campaign West Bank",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.iroh.computer/blog/authenticated-relays",
-    "title": "[英] Protect Your Relays",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://pssah4.github.io/vault-operator/guides/capabilities",
-    "title": "[英] Everyone talks about AI agents. This is what one looks from the inside",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
-    "title": "[英] For the love of god stop using CPU limits in Kubernetes",
-    "date": "2026-08-14"
-  },
-  {
-    "link": "https://www.domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-    "title": "[英] I want extern \"fil-C\"",
     "date": "2026-08-14"
   }
 ]

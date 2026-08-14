@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+    "title": "[英] Apple proposes to take a 15% cut of purchases made outside the App Store",
+    "date": "2026-08-14 22:54:48"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "title": "[英] Kog is going deeper to squeeze more inference out of GPUs",
+    "date": "2026-08-14 22:50:11"
+  },
+  {
     "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
     "title": "[英] Hyperscalers might regret embracing natural gas if new forecast proves correct",
     "date": "2026-08-14 22:05:00"
@@ -63,15 +73,5 @@
     "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
     "title": "[英] Ford on track to complete $2B factory overhaul for Fathom EV truck",
     "date": "2026-08-14 00:37:53"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
-    "title": "[英] X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
-    "date": "2026-08-14 00:00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
-    "title": "[英] Instagram introduces a redesigned wordmark",
-    "date": "2026-08-13 23:46:02"
   }
 ]
