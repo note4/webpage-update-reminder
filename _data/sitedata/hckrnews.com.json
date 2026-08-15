@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=49307653",
+    "title": "[英] undefined",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+    "title": "[英] The other Sean Byrne doesn't exist",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/",
     "title": "[英] I close SSH port 22 (and what I use instead)",
     "date": "2026-08-15"
@@ -62,16 +72,6 @@
   {
     "link": "https://phys.org/news/2026-08-ant-teams-gravity-based-puzzle.html",
     "title": "[英] Ant teams beat gravity-based puzzle solvers",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
-    "title": "[英] Jane Street suffers $15B hit after meltdown at Situational Awareness",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
-    "title": "[英] The case for overhauling American science",
     "date": "2026-08-15"
   }
 ]
