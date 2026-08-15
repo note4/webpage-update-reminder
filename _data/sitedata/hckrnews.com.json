@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://spectrum.ieee.org/ai-designed-virus",
+    "title": "[英] AI Can Now Design Functional Viruses. Should We Worry?",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://controlsystemssecurity.com/posts/when-the-bridge-goes-haywire.html",
+    "title": "[英] When Bridges Go Haywire",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/",
+    "title": "[英] 2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://srikanth.ch/posts/the-ai-situation/",
     "title": "[英] The AI Situation in Software Development",
     "date": "2026-08-15"
@@ -57,21 +72,6 @@
   {
     "link": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
     "title": "[英] Xorshift Generators",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-    "title": "[英] Yadda 3.0.0: BDD in the Age of AI Agents",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-    "title": "[英] Secondhand book sales are booming. Is it because of AI?",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://hidden-phenomena.com/articles/monodromy",
-    "title": "[英] Möbius Strips and Differential Equations",
     "date": "2026-08-15"
   }
 ]
