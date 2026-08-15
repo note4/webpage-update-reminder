@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "title": "[英] So How Is AI Drug Discovery Doing, Really?",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08",
+    "title": "[英] First human trials of designer protein therapies stun US neuroscientists",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://github.com/schapman1974/briskdb",
     "title": "[英] BriskDB",
     "date": "2026-08-16"
@@ -62,16 +72,6 @@
   {
     "link": "https://sina.bio/posts/costco-hotdog.html",
     "title": "[英] The price of a Costco hot dog has gone up",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://www.dampfkraft.com/ghost-characters.html",
-    "title": "[英] A Spectre Is Haunting Unicode",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-    "title": "[英] RISC-V: They Should Have Known Better",
     "date": "2026-08-16"
   }
 ]
