@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://ludens.cl/photo/spectra/spectra.html",
+    "title": "[英] The Color of White Light",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://linebender.org/blog/hyperbezier/",
     "title": "[英] The mathematical beauty of hyperbezier curves",
     "date": "2026-08-15"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
     "title": "[英] Coin-sized device can hack a Boeing 737",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49307653",
-    "title": "[英] undefined",
     "date": "2026-08-15"
   }
 ]
