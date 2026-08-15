@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://doeken.org/wcag-ebook",
+    "title": "[英] Understanding WCAG 2.2 as ePub and PDF",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
     "title": "[英] Suspecting court of using AI, man injected prompts in filings to try to win case",
     "date": "2026-08-15"
@@ -67,11 +72,6 @@
   {
     "link": "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c",
     "title": "[英] Unearthing a 31 year old Easter egg in Ecco the Dolphin",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://blog.cr.yp.to/20260814-update.html",
-    "title": "[英] NSA and IETF, Part 9",
     "date": "2026-08-15"
   }
 ]
