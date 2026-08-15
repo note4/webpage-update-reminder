@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://github.com/schapman1974/briskdb",
+    "title": "[英] BriskDB",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+    "title": "[英] Thunderbird's Desktop Calendar Visual Redesign",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
     "title": "[英] Robot Videos: Heavy Lift Cargo Drones, Grippers, More",
     "date": "2026-08-16"
@@ -62,16 +72,6 @@
   {
     "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
     "title": "[英] RISC-V: They Should Have Known Better",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://spectrum.ieee.org/ai-designed-virus",
-    "title": "[英] AI Can Now Design Functional Viruses. Should We Worry?",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://controlsystemssecurity.com/posts/when-the-bridge-goes-haywire.html",
-    "title": "[英] When Bridges Go Haywire",
     "date": "2026-08-16"
   }
 ]
