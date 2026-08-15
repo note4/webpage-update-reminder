@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://linebender.org/blog/hyperbezier/",
+    "title": "[英] The mathematical beauty of hyperbezier curves",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
     "title": "[英] Debian has begun voting on the future of AI/LLM contributions",
     "date": "2026-08-15"
@@ -67,11 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=49307653",
     "title": "[英] undefined",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-    "title": "[英] The other Sean Byrne doesn't exist",
     "date": "2026-08-15"
   }
 ]
