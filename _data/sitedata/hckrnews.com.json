@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://leancrew.com/all-this/2026/08/a-planet-position-widget/",
+    "title": "[英] A Planet Position Widget",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://opensauce.it/cloudflare-ai-psychosis/",
+    "title": "[英] Cloudflare's AI Psychosis",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://alexrios.me/blog/writergate/",
+    "title": "[英] Writergate: Zig I/O Interface Overhaul",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://hypnagogic-quasicrystals.github.io/",
     "title": "[英] Show HN: Quasicrystals Animation Playground with WebXR",
     "date": "2026-08-15"
@@ -35,13 +50,13 @@
     "date": "2026-08-15"
   },
   {
-    "link": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
-    "title": "[英] 388 years ago, Galileo worked out why human giants can't exist",
+    "link": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
+    "title": "[英] Brain turns listening inward during REM sleep, EEG recordings suggest",
     "date": "2026-08-15"
   },
   {
-    "link": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
-    "title": "[英] Brain turns listening inward during REM sleep, EEG recordings suggest",
+    "link": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
+    "title": "[英] 388 years ago, Galileo worked out why human giants can't exist",
     "date": "2026-08-15"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
     "title": "[英] Brazilian election filter in X For You timeline",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-    "title": "[英] Working with AI Feels More Like Leadership Than Coding",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://sophontic.ai/",
-    "title": "[英] Geometric Reasoning",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://openai.com/policies/eu-privacy-policy-preview/",
-    "title": "[英] OpenAI rolling out ads for Europe later this month",
     "date": "2026-08-15"
   }
 ]
