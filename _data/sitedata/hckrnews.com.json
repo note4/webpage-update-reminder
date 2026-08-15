@@ -1,12 +1,32 @@
 [
   {
+    "link": "https://silentshark.app/",
+    "title": "[英] Show HN: Silent Shark – tactical map-based WWII submarine sim",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://ampcode.com/notes/thats-not-soc-2-compliant",
+    "title": "[英] \"That's not SoC 2 compliant\"",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49308059",
+    "title": "[英] Ask HN: How do you keep up with HN these days?",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://chenxiachan.github.io/thoughtdag/",
+    "title": "[英] Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
     "title": "[英] The End of Mathematics",
     "date": "2026-08-15"
   },
   {
     "link": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
-    "title": "[英] Coin-Sized Device Can Hack a Boeing 737",
+    "title": "[英] Coin-sized device can hack a Boeing 737",
     "date": "2026-08-15"
   },
   {
@@ -31,7 +51,7 @@
   },
   {
     "link": "https://app.deltix.ai",
-    "title": "[英] AI Driven Testing",
+    "title": "[英] Show HN: Deltix – AI Driven Testing",
     "date": "2026-08-15"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
     "title": "[英] Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://spectrum.ieee.org/magnetophon-laugh-track",
-    "title": "[英] Hi-Fi Tape Recorder Changed Radio Forever",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://arxiv.org/abs/1811.03459",
-    "title": "[英] Simplifying and Refactoring Introductory Calculus",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees",
-    "title": "[英] Corgi kills short-lived website that ranked its female employees",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-    "title": "[英] The Ploopy A+ Trackball Is Here",
     "date": "2026-08-15"
   }
 ]
