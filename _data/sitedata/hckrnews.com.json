@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://sophontic.ai/",
+    "title": "[英] Geometric Reasoning",
+    "date": "2026-08-15"
+  },
+  {
+    "link": "https://openai.com/policies/eu-privacy-policy-preview/",
+    "title": "[英] OpenAI rolling out ads for Europe later this month",
+    "date": "2026-08-15"
+  },
+  {
     "link": "https://sankalp.bearblog.dev/autoresearch/",
     "title": "[英] Auto-research with codex: How I achieved a 232x Faster Kernel",
     "date": "2026-08-15"
@@ -62,16 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=49308059",
     "title": "[英] Ask HN: How do you keep up with HN these days?",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://chenxiachan.github.io/thoughtdag/",
-    "title": "[英] Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-    "date": "2026-08-15"
-  },
-  {
-    "link": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
-    "title": "[英] The End of Mathematics",
     "date": "2026-08-15"
   }
 ]
