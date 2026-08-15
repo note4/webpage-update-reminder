@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Triple_product_rule",
+    "title": "[英] Triple Product Rule of Partial Derivatives",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+    "title": "[英] Tracking down a Zsh history data loss bug",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+    "title": "[英] Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://github.com/christensen143/claude-trofeo-hud",
+    "title": "[英] Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://xescu.re/keeta-consensus.pdf",
+    "title": "[英] Modeling and Verification of Keeta's Consensus [pdf]",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
+    "title": "[英] Engineers will do anything to avoid learning from history",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://hughhowey.com/humazon/",
     "title": "[英] Humazon",
     "date": "2026-08-16"
@@ -42,36 +72,6 @@
   {
     "link": "https://github.com/wmww/tawc",
     "title": "[英] Tess's Android Wayland Compositor",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
-    "title": "[英] Meta will train its AI on Newsmax, a far-right media outlet",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138",
-    "title": "[英] Israeli PR wants to answer your ChatGPT questions",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://geek-fighter.vercel.app/",
-    "title": "[英] Geek Fighter – 2d fighter game",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://gadlevanon.substack.com/p/job-recession-in-higher-education",
-    "title": "[英] Job Recession in Higher Education",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cz97ljy91zxo",
-    "title": "[英] Why tech bosses keep sharing their manifestos about AI",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://cblgh.org/posts/2026-07-31-pizza-box-project-stack/",
-    "title": "[英] Pizza Box Project Stack",
     "date": "2026-08-16"
   }
 ]
