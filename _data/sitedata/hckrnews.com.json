@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://ovidem.com/impulsetracker/",
+    "title": "[英] Impulse Tracker",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://littlelearner-ll.github.io/",
     "title": "[英] What happens when an LLM never sees material beyond fifth grade?",
     "date": "2026-08-16"
@@ -15,8 +20,8 @@
     "date": "2026-08-16"
   },
   {
-    "link": "https://ikouchiha47.github.io/2026/08/12/concurrency-and-gc.html",
-    "title": "[英] Not sure where I am going with this garbage collection rabbit hole",
+    "link": "https://news.ycombinator.com/item?id=49275701",
+    "title": "[英] undefined",
     "date": "2026-08-16"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://blog.pickcode.io/program-with-paint-brushes-not-pencils/",
     "title": "[英] Program with Paint Brushes, Not Pencils",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://nntaleb.substack.com/p/have-another-drink",
-    "title": "[英] Government sponsored study on alcohol doesn't stand up to scrutiny",
     "date": "2026-08-16"
   }
 ]
