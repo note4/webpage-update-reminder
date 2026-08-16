@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+    "title": "[英] Guiding Ships with Moire Patterns",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://notebook.link/blog/numba-in-the-browser/",
+    "title": "[英] Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+    "title": "[英] Software Engineering fundamentals matter more",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://bribes.fyi/compare",
+    "title": "[英] Show HN: Bribes.fyi – Compare bribes statistics department wise",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.13122",
+    "title": "[英] AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.13328",
+    "title": "[英] It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind",
+    "title": "[英] Decoding smell: Study reveals how odor signals shapeshift in the wind",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://waku.sh",
     "title": "[英] Show HN: I built a native app for coding agents with Rust and GPUI",
     "date": "2026-08-16"
@@ -20,8 +55,8 @@
     "date": "2026-08-16"
   },
   {
-    "link": "https://github.com/TraceCohenTech/ai-seo-playbook",
-    "title": "[英] The complete AI SEO playbook: from zero to 4.6M impressions in 3 months",
+    "link": "https://news.ycombinator.com/item?id=49315620",
+    "title": "[英] undefined",
     "date": "2026-08-16"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://aicharts.grok.me/c/market-share",
     "title": "[英] ChatGPT lost 22 points of web share in a year",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://pen.org/banned-words-list/",
-    "title": "[英] Banned Words List",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
-    "title": "[英] Tea5767-Radio-Tuner",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/",
-    "title": "[英] Credit card debt rises to $1.26T, nearing all-time record",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://lapcatsoftware.com/articles/2026/8/3.html",
-    "title": "[英] A fortuitous decade as an indie software developer",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://magic-oracle.com/",
-    "title": "[英] Oracle – a photorealistic browser for every Magic card ever printed",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
-    "title": "[英] I Remain a Skeptic",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://sugartrack-beta.vercel.app/",
-    "title": "[英] SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
     "date": "2026-08-16"
   }
 ]
