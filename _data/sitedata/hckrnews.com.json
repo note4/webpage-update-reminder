@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://waku.sh",
+    "title": "[英] Show HN: I built a native app for coding agents with Rust and GPUI",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
+    "title": "[英] Big Pickle on SWE Atlas – Codebase QnA",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://duckdb.org/2026/07/31/asynchronous-io",
+    "title": "[英] Asynchronous I/O in DuckDB: Work, Thread, Work",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://www.micdrop.gg/",
+    "title": "[英] Show HN: Mic Drop, a real-time multiplayer karaoke game",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://github.com/TraceCohenTech/ai-seo-playbook",
+    "title": "[英] The complete AI SEO playbook: from zero to 4.6M impressions in 3 months",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://unsung.aresluna.org/deeper-dive-were-touch-bars-problems-software-rather-than-hardware/",
+    "title": "[英] Were Touch Bar's problems software rather than hardware?",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+    "title": "[英] Asus Bike Booster",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://aicharts.grok.me/c/market-share",
+    "title": "[英] ChatGPT lost 22 points of web share in a year",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://pen.org/banned-words-list/",
     "title": "[英] Banned Words List",
     "date": "2026-08-16"
@@ -32,46 +72,6 @@
   {
     "link": "https://sugartrack-beta.vercel.app/",
     "title": "[英] SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://www.forbes.com/sites/alisondurkee/2026/08/14/who-is-cami-clark-anthropic-ceos-wife-asked-epstein-to-invest-in-porn-business/",
-    "title": "[英] Anthropic CEO wife asked Epstein for porn business",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://github.com/abhiramasonny/jaithon",
-    "title": "[英] Jaithon 3, a fast programming language with the perfect syntax",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
-    "title": "[英] The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Triple_product_rule",
-    "title": "[英] Triple Product Rule of Partial Derivatives",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-    "title": "[英] Tracking down a Zsh history data loss bug",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-    "title": "[英] Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://github.com/christensen143/claude-trofeo-hud",
-    "title": "[英] Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://xescu.re/keeta-consensus.pdf",
-    "title": "[英] Modeling and Verification of Keeta's Consensus [pdf]",
     "date": "2026-08-16"
   }
 ]
