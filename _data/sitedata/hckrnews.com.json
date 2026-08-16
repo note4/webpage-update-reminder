@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+    "title": "[英] Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
+    "title": "[英] A True Telnet BBS on a Casio Calculator",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://peterbloem.nl/blog/craft-coding",
     "title": "[英] AI Coding Without the Vibes",
     "date": "2026-08-16"
@@ -35,8 +45,8 @@
     "date": "2026-08-16"
   },
   {
-    "link": "https://pen.org/banned-words-list/",
-    "title": "[英] Banned Words List",
+    "link": "https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out",
+    "title": "[英] Is the industry ready for tokens-constrained work?",
     "date": "2026-08-16"
   },
   {
@@ -45,8 +55,8 @@
     "date": "2026-08-16"
   },
   {
-    "link": "https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out",
-    "title": "[英] Is the industry ready for tokens-constrained work?",
+    "link": "https://pen.org/banned-words-list/",
+    "title": "[英] Banned Words List",
     "date": "2026-08-16"
   },
   {
@@ -55,23 +65,13 @@
     "date": "2026-08-16"
   },
   {
-    "link": "https://unslopai.com",
-    "title": "[英] Show HN: Remove AI voice from AI writings",
-    "date": "2026-08-16"
-  },
-  {
     "link": "https://valueaddvc.com/blog/stripe-vs-adyen-vs-braintree-enterprise-payment-processing-compared-in-2026",
     "title": "[英] Stripe 2.9% vs. Adyen 0.6% vs. Braintree 2.59%: 2026 Fees",
     "date": "2026-08-16"
   },
   {
-    "link": "https://brandur.org/fragments/postgres-without-pgbouncer",
-    "title": "[英] Does anyone run Postgres without PgBouncer?",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://anthony.dev.profullstack.com/blog/012-post.html",
-    "title": "[英] Leave your screen unlocked, meet developers paypal.com",
+    "link": "https://unslopai.com",
+    "title": "[英] Show HN: Remove AI voice from AI writings",
     "date": "2026-08-16"
   }
 ]
