@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://claude.ai/new",
+    "title": "[英] Claude Auth Is Down",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
     "title": "[英] Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
     "date": "2026-08-17"
@@ -67,11 +72,6 @@
   {
     "link": "https://math-ai-org.github.io/mathcode/",
     "title": "[英] MathCode, Mathematical Coding Agent",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.lorekit.io/blog/give-your-agent-a-memory",
-    "title": "[英] I've built a free, open-source local and remote memory system for agentw and CL",
     "date": "2026-08-17"
   }
 ]
