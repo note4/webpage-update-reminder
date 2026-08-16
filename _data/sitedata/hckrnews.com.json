@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.nature.com/articles/s41586-026-10857-1",
+    "title": "[英] Superconducting monolayer cuprate with a single CuO2 plane",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://ovidem.com/impulsetracker/",
     "title": "[英] Impulse Tracker",
     "date": "2026-08-16"
@@ -67,11 +72,6 @@
   {
     "link": "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard",
     "title": "[英] I checked 30 frontier model cards. Here are the benchmarks labs report",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://blog.pickcode.io/program-with-paint-brushes-not-pencils/",
-    "title": "[英] Program with Paint Brushes, Not Pencils",
     "date": "2026-08-16"
   }
 ]
