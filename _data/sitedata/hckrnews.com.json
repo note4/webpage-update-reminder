@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.slowtravelberlin.com/in-the-shadow-of-the-berlin-wall/",
+    "title": "[英] In the Shadow of the (Berlin) Wall",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
     "title": "[英] Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
     "date": "2026-08-17"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.youtube.com/watch?v=-y8bGBE71yw",
     "title": "[英] Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://rvembedded.com/blog_post/12/",
-    "title": "[英] A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
     "date": "2026-08-17"
   }
 ]
