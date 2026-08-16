@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+    "title": "[英] Models Are Getting Dumber on Purpose",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+    "title": "[英] Nvidia discloses $21B stake in SpaceX at end of second quarter",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://buf.build/blog/protobuf-lsp",
     "title": "[英] Protobuf has LSP support. You're welcome",
     "date": "2026-08-17"
@@ -55,23 +65,13 @@
     "date": "2026-08-17"
   },
   {
-    "link": "https://publicdomainreview.org/collection/maine-forest-fire-maps/",
-    "title": "[英] Archie G. Norcross' Maine Forest Fire Maps (1918–22)",
-    "date": "2026-08-17"
-  },
-  {
     "link": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
     "title": "[英] Anton Chekhov played at love most of his life",
     "date": "2026-08-17"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=49313711",
-    "title": "[英] Kimi Work attaches raw agent sessions to feedback reports",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
-    "title": "[英] Clamiga: Common Lisp for the Amiga",
+    "link": "https://publicdomainreview.org/collection/maine-forest-fire-maps/",
+    "title": "[英] Archie G. Norcross' Maine Forest Fire Maps (1918–22)",
     "date": "2026-08-17"
   }
 ]
