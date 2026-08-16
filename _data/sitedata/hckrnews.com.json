@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
+    "title": "[英] Clamiga: Common Lisp for the Amiga",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
     "title": "[英] St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
     "date": "2026-08-17"
@@ -66,11 +71,6 @@
   },
   {
     "link": "https://news.ycombinator.com/item?id=49319563",
-    "title": "[英] undefined",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49319712",
     "title": "[英] undefined",
     "date": "2026-08-17"
   }
