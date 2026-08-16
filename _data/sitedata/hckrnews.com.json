@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.lorekit.io/blog/give-your-agent-a-memory",
+    "title": "[英] I've built a free, open-source local and remote memory system for agentw and CL",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://www.wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains",
     "title": "[英] The deep history behind the Road to Nowhere inside the Great Smoky Mountains",
     "date": "2026-08-17"
@@ -67,11 +72,6 @@
   {
     "link": "https://wildstatic.com/",
     "title": "[英] Show HN: A public AI whose memory is shared across all users",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://vectoral.com/blog/who-are-the-token-brokers",
-    "title": "[英] The AI Credit Resale Economy",
     "date": "2026-08-17"
   }
 ]
