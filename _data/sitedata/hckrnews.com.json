@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
+    "title": "[英] A U.S. Strategy to Prevent the Creation of Mirror Life",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
     "title": "[英] Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
     "date": "2026-08-16"
@@ -45,13 +50,13 @@
     "date": "2026-08-16"
   },
   {
-    "link": "https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out",
-    "title": "[英] Is the industry ready for tokens-constrained work?",
+    "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+    "title": "[英] Claude: System Prompts",
     "date": "2026-08-16"
   },
   {
-    "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-    "title": "[英] Claude: System Prompts",
+    "link": "https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out",
+    "title": "[英] Is the industry ready for tokens-constrained work?",
     "date": "2026-08-16"
   },
   {
@@ -62,11 +67,6 @@
   {
     "link": "https://www.wsj.com/business/media/sony-ceo-hiroki-totoki-efc8923f",
     "title": "[英] How a Sony Veteran Is Overhauling the Company He Grew Up In",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://valueaddvc.com/blog/stripe-vs-adyen-vs-braintree-enterprise-payment-processing-compared-in-2026",
-    "title": "[英] Stripe 2.9% vs. Adyen 0.6% vs. Braintree 2.59%: 2026 Fees",
     "date": "2026-08-16"
   },
   {
