@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://ikouchiha47.github.io/2026/08/12/concurrency-and-gc.html",
+    "title": "[英] Not sure where I am going with this garbage collection rabbit hole",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://www.falstad.com/mathphysics.html",
+    "title": "[英] Falstad Math and Physics Simulations",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217",
     "title": "[英] The Iran War Is a Whole New Level of Quagmire for the US",
     "date": "2026-08-16"
@@ -46,7 +56,7 @@
   },
   {
     "link": "https://nntaleb.substack.com/p/have-another-drink",
-    "title": "[英] Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb",
+    "title": "[英] Government sponsored study on alcohol doesn't stand up to scrutiny",
     "date": "2026-08-16"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
     "title": "[英] Guiding Ships with Moire Patterns",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://notebook.link/blog/numba-in-the-browser/",
-    "title": "[英] Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-    "title": "[英] Software Engineering fundamentals matter more",
     "date": "2026-08-16"
   }
 ]
