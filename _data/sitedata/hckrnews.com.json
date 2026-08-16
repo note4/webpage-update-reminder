@@ -1,7 +1,22 @@
 [
   {
+    "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "[英] Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+    "title": "[英] An open-source, candle-only crypto pump detector–looking for ML contributors",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49324078",
+    "title": "[英] Claude Seems Down",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://claude.ai/new",
-    "title": "[英] Claude Auth Is Down",
+    "title": "[英] Claude Is Down",
     "date": "2026-08-17"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://buf.build/blog/protobuf-lsp",
     "title": "[英] Protobuf has LSP support. You're welcome",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-    "title": "[英] Low-Tech Ceramic Water Filter",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49322107",
-    "title": "[英] Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://math-ai-org.github.io/mathcode/",
-    "title": "[英] MathCode, Mathematical Coding Agent",
     "date": "2026-08-17"
   }
 ]
