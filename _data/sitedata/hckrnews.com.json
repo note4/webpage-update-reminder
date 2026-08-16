@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://arxiv.org/abs/2608.08421",
+    "title": "[英] A SAT Attack on Tarski's High School Algebra Problem",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
+    "title": "[英] Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=49318906",
     "title": "[英] Ask HN: Do you know of any company that went back to hand-written code?",
     "date": "2026-08-16"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.science.org/doi/10.1126/sciadv.adx3012",
     "title": "[英] Targeted marine cloud brightening weakens subsequent El Niño",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://github.com/yebiguo/ProofRun",
-    "title": "[英] ProofRun – a local verification receipt for AI coding agents",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/",
-    "title": "[英] 21,000 MCP servers exposed: the protocol reaches a security inflection point",
     "date": "2026-08-16"
   }
 ]
