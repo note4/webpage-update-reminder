@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=49318906",
+    "title": "[英] Ask HN: Do you know of any company that went back to hand-written code?",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
+    "title": "[英] Show HN: Grafana agent observability for Hermes Agent",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
     "title": "[英] Chestnut – eGPU dock with open-source firmware",
     "date": "2026-08-16"
@@ -62,16 +72,6 @@
   {
     "link": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/",
     "title": "[英] 21,000 MCP servers exposed: the protocol reaches a security inflection point",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://github.com/PJHkorea/photonic-mesh-fng-router",
-    "title": "[英] Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://breck.lol/plMakers.html",
-    "title": "[英] The quirky personal homepages of programming language creators",
     "date": "2026-08-16"
   }
 ]
