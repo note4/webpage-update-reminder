@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi",
+    "title": "[英] Health benefits of Tai Chi",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://github.com/jitpass/jit",
+    "title": "[英] Show HN: Laptop is the last place your secrets are still in plaintext",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://ikouchiha47.github.io/2026/08/12/concurrency-and-gc.html",
     "title": "[英] Not sure where I am going with this garbage collection rabbit hole",
     "date": "2026-08-16"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.anthropic.com/research/multiagent-systems",
     "title": "[英] Patterns and problems in emerging multi-agent systems",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
-    "title": "[英] Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
-    "title": "[英] Guiding Ships with Moire Patterns",
     "date": "2026-08-16"
   }
 ]
