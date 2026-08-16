@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://breck.lol/plMakers.html",
+    "title": "[英] The quirky personal homepages of programming language creators",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard",
     "title": "[英] I checked 30 frontier model cards. Here are the benchmarks labs report",
     "date": "2026-08-16"
@@ -67,11 +72,6 @@
   {
     "link": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
     "title": "[英] Big Pickle on SWE Atlas – Codebase QnA",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://duckdb.org/2026/07/31/asynchronous-io",
-    "title": "[英] Asynchronous I/O in DuckDB: Work, Thread, Work",
     "date": "2026-08-16"
   }
 ]
