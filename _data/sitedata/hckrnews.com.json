@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+    "title": "[英] Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://bernsteinbear.com/blog/zkp/",
+    "title": "[英] A quick look at zero-knowledge proofs",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
     "title": "[英] Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
     "date": "2026-08-17"
@@ -62,16 +72,6 @@
   {
     "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
     "title": "[英] Models Are Getting Dumber on Purpose",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
-    "title": "[英] Nvidia discloses $21B stake in SpaceX at end of second quarter",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://buf.build/blog/protobuf-lsp",
-    "title": "[英] Protobuf has LSP support. You're welcome",
     "date": "2026-08-17"
   }
 ]
