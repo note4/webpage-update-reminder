@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard",
+    "title": "[英] I checked 30 frontier model cards. Here are the benchmarks labs report",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://blog.pickcode.io/program-with-paint-brushes-not-pencils/",
+    "title": "[英] Program with Paint Brushes, Not Pencils",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://nntaleb.substack.com/p/have-another-drink",
     "title": "[英] Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb",
     "date": "2026-08-16"
@@ -62,16 +72,6 @@
   {
     "link": "https://duckdb.org/2026/07/31/asynchronous-io",
     "title": "[英] Asynchronous I/O in DuckDB: Work, Thread, Work",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://www.micdrop.gg/",
-    "title": "[英] Show HN: Mic Drop, a real-time multiplayer karaoke game",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49315620",
-    "title": "[英] undefined",
     "date": "2026-08-16"
   }
 ]
