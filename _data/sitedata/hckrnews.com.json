@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://brandur.org/fragments/postgres-without-pgbouncer",
+    "title": "[英] Does anyone run Postgres without PgBouncer?",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://anthony.dev.profullstack.com/blog/012-post.html",
+    "title": "[英] Leave your screen unlocked, meet developers paypal.com",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+    "title": "[英] Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+    "date": "2026-08-16"
+  },
+  {
+    "link": "https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html",
+    "title": "[英] Access to telemetry data: Automotive industry criticizes intelligence reform",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://arxiv.org/abs/2608.08421",
     "title": "[英] A SAT Attack on Tarski's High School Algebra Problem",
     "date": "2026-08-16"
@@ -52,26 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=49275701",
     "title": "[英] undefined",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://www.falstad.com/mathphysics.html",
-    "title": "[英] Falstad Math and Physics Simulations",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217",
-    "title": "[英] The Iran War Is a Whole New Level of Quagmire for the US",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://longreads.com/2026/08/11/obituaries-new-york-times-sam-roberts/",
-    "title": "[英] Speaking for the Dead",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://www.science.org/doi/10.1126/sciadv.adx3012",
-    "title": "[英] Targeted marine cloud brightening weakens subsequent El Niño",
     "date": "2026-08-16"
   }
 ]
