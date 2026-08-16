@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://littlelearner-ll.github.io/",
+    "title": "[英] What happens when an LLM never sees material beyond fifth grade?",
+    "date": "2026-08-16"
+  },
+  {
     "link": "https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi",
     "title": "[英] Health benefits of Tai Chi",
     "date": "2026-08-16"
@@ -67,11 +72,6 @@
   {
     "link": "https://nntaleb.substack.com/p/have-another-drink",
     "title": "[英] Government sponsored study on alcohol doesn't stand up to scrutiny",
-    "date": "2026-08-16"
-  },
-  {
-    "link": "https://www.anthropic.com/research/multiagent-systems",
-    "title": "[英] Patterns and problems in emerging multi-agent systems",
     "date": "2026-08-16"
   }
 ]
