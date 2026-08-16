@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request",
+    "title": "[英] Stop Turning every purchase into a tip request",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
     "title": "[英] Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
     "date": "2026-08-17"
@@ -67,11 +72,6 @@
   {
     "link": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
     "title": "[英] SIMD in the 90s: Programming Intel's Pentium MMX",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-    "title": "[英] Models Are Getting Dumber on Purpose",
     "date": "2026-08-17"
   }
 ]
