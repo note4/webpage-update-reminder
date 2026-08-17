@@ -1,7 +1,17 @@
 [
   {
+    "link": "https://aitradingcompetition.com/",
+    "title": "[英] Show HN: LLMs each trading $100K vs. a frozen rulebook – the rulebook leads",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://saggar.marginalutility.dev/",
+    "title": "[英] Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+    "date": "2026-08-18"
+  },
+  {
     "link": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-    "title": "[英] Universal Health Coverage Could Save $1T and 114,000 Lives a Year, Yale Study",
+    "title": "[英] Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
     "date": "2026-08-18"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
     "title": "[英] How to put 170 atoms in an atom",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
-    "title": "[英] Human Interface Guidelines from various platforms",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-    "title": "[英] A Preview of DuckDB v2.0",
     "date": "2026-08-18"
   }
 ]
