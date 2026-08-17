@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/",
+    "title": "[英] GitHub Has an Availability Problem. Is It Time to Look Elsewhere?",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://www.theindianalawyer.com/articles/amazons-new-user-agreement-seeks-to-curb-class-action-suits",
+    "title": "[英] Amazon’s new user agreement seeks to curb class-action suits",
+    "date": "2026-08-18"
+  },
+  {
     "link": "https://aitradingcompetition.com/",
     "title": "[英] Show HN: LLMs each trading $100K vs. a frozen rulebook – the rulebook leads",
     "date": "2026-08-18"
@@ -25,7 +35,7 @@
     "date": "2026-08-18"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=49332751",
+    "link": "https://speko.ai/",
     "title": "[英] Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
     "date": "2026-08-18"
   },
@@ -41,7 +51,7 @@
   },
   {
     "link": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
-    "title": "[英] Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
+    "title": "[英] Qwen3.8 27B at 256K: 50 TPS on a 24 GB GPU",
     "date": "2026-08-18"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/",
     "title": "[英] Speeding Up the Plush Garbage Collector",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://github.com/vercel-labs/eve-software-factory-template/tree/main",
-    "title": "[英] Show HN: Eve Software Factory",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
-    "title": "[英] How to put 170 atoms in an atom",
     "date": "2026-08-18"
   }
 ]
