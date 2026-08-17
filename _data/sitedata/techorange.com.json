@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/08/17/delta-infinity-ready-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "從機器手臂到半導體設備都不能停機：台達如何用新世代電源生態系兼顧高負載、極端環境與能源效率？",
+    "date": "2026-08-17 17:55:23"
+  },
+  {
     "link": "https://techorange.com/2026/08/17/us-navy-3d-prints-combat-ready-drones/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "直接在軍艦上造出 12 架無人機：美軍如何將「分散式製造」接進前線供應鏈？",
     "date": "2026-08-17 16:54:43"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/08/14/gemini-3-7-flash-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Google 三週又升級 Gemini 3.7 Flash：為何定位 Flash 成 Agent 日常主力？",
     "date": "2026-08-14 11:30:03"
-  },
-  {
-    "link": "https://techorange.com/2026/08/14/anthropic-multiagent-systems/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Anthropic 新研究揭多 Agent 風險：從同步犯錯、價格共謀到互相攻擊，企業風險不再只是「單點失控」",
-    "date": "2026-08-14 10:57:54"
   }
 ]
