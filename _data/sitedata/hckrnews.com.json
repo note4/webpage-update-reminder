@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "title": "[英] Quake Shareware, a CD-ROM just a little too full",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+    "title": "[英] How do functions like alloca allocate memory from the stack?",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
+    "title": "[英] Nation's Largest Reservoirs Are Drying Up, Threatening Life in the Southwest",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "title": "[英] Bluesky draws its logo on screenshots",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "title": "[英] Fairphone 6 and PostmarketOS working main camera",
+    "date": "2026-08-18"
+  },
+  {
     "link": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
     "title": "[英] Intriguing Stories in Computer Science",
     "date": "2026-08-18"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.businessinsider.com/oldest-bar-every-state",
     "title": "[英] The oldest bar in every state",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-    "title": "[英] AI;DR (AI; Didn't Read)",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-    "title": "[英] AirTag reveals Amazon is trashing rare books to train AI",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "title": "[英] Amazon, which started off selling books, is destroying rare texts to train AI",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data",
-    "title": "[英] Marketers are Addicted to Bad Data (2020)",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://blog.roboflow.com/roboflow-playground/",
-    "title": "[英] Roboflow Playground: Try and Compare 30 Computer Vision Models",
     "date": "2026-08-18"
   }
 ]
