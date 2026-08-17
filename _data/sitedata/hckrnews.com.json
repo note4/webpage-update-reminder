@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+    "title": "[英] AGI-64 Brings Sierra Adventures to the Commodore 64",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+    "title": "[英] Red queen hypothesis – a new way forward for self-improving AI",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
+    "title": "[英] Interview with Amit Patel, Creator of \"Solar Realms Elite\"",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://reticulum.network/",
+    "title": "[英] Reticulum – Decentralized Mesh Network",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+    "title": "[英] Rhombus 1.1 is now available",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
+    "title": "[英] Physicists discover a hidden gluon structure inside protons",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "title": "[英] Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+    "title": "[英] The federal keyword lists that canceled billions in research funding",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+    "title": "[英] The Life and Death of Direct File [pdf]",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://brennan.day/webmaster-a-manifesto-for-everyone/",
     "title": "[英] Webmaster a Manifesto for Everyone",
     "date": "2026-08-17"
@@ -27,51 +72,6 @@
   {
     "link": "https://bernsteinbear.com/blog/zkp/",
     "title": "[英] A quick look at zero-knowledge proofs",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "[英] Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://github.com/aleks-ent/pump-dump-crypto-screener",
-    "title": "[英] An open-source, candle-only crypto pump detector–looking for ML contributors",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49324078",
-    "title": "[英] Claude Seems Down",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://claude.ai/new",
-    "title": "[英] Claude Is Down",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-    "title": "[英] Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
-    "title": "[英] Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.slowtravelberlin.com/in-the-shadow-of-the-berlin-wall/",
-    "title": "[英] In the Shadow of the (Berlin) Wall",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "title": "[英] Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
-    "title": "[英] ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days",
     "date": "2026-08-17"
   }
 ]
