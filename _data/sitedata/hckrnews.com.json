@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://blog.roboflow.com/roboflow-playground/",
+    "title": "[英] Roboflow Playground: Try and Compare 30 Computer Vision Models",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.13759",
+    "title": "[英] GPU Offload in Rust: Portable, Safe, and Fast",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+    "title": "[英] The Lonely Men Who Work in Patagonia, at the End of the World",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
+    "title": "[英] Llama.cpp v0.1.0",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/",
+    "title": "[英] How I Over-Engineered My Book",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
+    "title": "[英] We Are Forking dotenvy into dotenv-ng",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://www.cbc.ca/news/politics/canadian-citizenship-certificates-americans-9.7307536",
+    "title": "[英] Demand for Canadian citizenship certificates soaring, fuelled by Americans",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+    "title": "[英] Meta faces 'astronomical' consequences as legal fight reaches critical moment",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://artificialanalysis.ai/models/qwen3-8-27b",
+    "title": "[英] Qwen3.8 27B scores 52 on Artificial Analysis",
+    "date": "2026-08-18"
+  },
+  {
     "link": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
     "title": "[英] Judge sets framework for Nine PBS to retrieve archival data",
     "date": "2026-08-18"
@@ -27,51 +72,6 @@
   {
     "link": "https://www.kenkoonwong.com/blog/crossvalidation/",
     "title": "[英] Cross-Validation From Scratch and a Surprise at n=100",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-    "title": "[英] Anthropic's War on open source AI",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/",
-    "title": "[英] GitHub Has an Availability Problem. Is It Time to Look Elsewhere?",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://www.theindianalawyer.com/articles/amazons-new-user-agreement-seeks-to-curb-class-action-suits",
-    "title": "[英] Amazon’s new user agreement seeks to curb class-action suits",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://aitradingcompetition.com/",
-    "title": "[英] Show HN: LLMs each trading $100K vs. a frozen rulebook – the rulebook leads",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://saggar.marginalutility.dev/",
-    "title": "[英] Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-    "title": "[英] Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Olo_(color)",
-    "title": "[英] Olo (Color)",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
-    "title": "[英] Judge relying wholly on AI in order is covered by judicial immunity, court rules",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://speko.ai/",
-    "title": "[英] Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
     "date": "2026-08-18"
   }
 ]
