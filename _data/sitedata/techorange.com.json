@@ -1,12 +1,27 @@
 [
   {
+    "link": "https://techorange.com/2026/08/17/ai-weichuan-dragons-the-golden-state-warriors/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "當球隊開始用 AI 經營球迷：味全龍與 NBA 勇士的 365 天解法",
+    "date": "2026-08-17 10:07:13"
+  },
+  {
+    "link": "https://techorange.com/2026/08/17/ai-agent-incident-and-security-gap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【AI 代理資安警訊】54% 企業已發生資安事件，卻對現行防護工具打出高滿意度",
+    "date": "2026-08-17 10:03:11"
+  },
+  {
+    "link": "https://techorange.com/2026/08/17/quantum-pqc-foxconn-netapp-ibm-cisco/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "「你現在的祕密，十年後還是祕密嗎？」鴻海、NetApp、IBM、思科等產學專家剖析量子防線與運算新局",
+    "date": "2026-08-17 10:01:34"
+  },
+  {
     "link": "https://techorange.com/2026/08/17/openai-anthropic-revenue-us-china-ai-alliance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】OpenAI 年化營收估破 400 億美元、Anthropic 單季營收達去年 14 倍，美國擬要求 AI 夥伴選邊",
     "date": "2026-08-17 05:30:00"
   },
   {
     "link": "https://techorange.com/2026/08/15/securing-ai-agents-in-financial-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【金融 AI 代理安全與防禦】AI Agents 直上支付與交易第一線，機構「分階段放權」才是安全底線",
+    "title": "【金融 AI 代理安全與防禦】AI Agents 直接經手支付與交易，機構「分階段放權」才是安全底線",
     "date": "2026-08-15 06:29:00"
   },
   {
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/08/13/can-agents-use-a-computer-yet-weve-got-the-data-a16z/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI Agent 操作電腦準確率衝上 85%，為何企業真正難題仍是如何「可靠地把工作做完」？",
     "date": "2026-08-13 15:00:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/13/the-white-house-expand-ai-policy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "白宮 AI 監管再擴大：達 GPT-5.6 級「開放模型」恐也須發布前測試",
-    "date": "2026-08-13 13:27:46"
-  },
-  {
-    "link": "https://techorange.com/2026/08/13/agentic-security/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【零信任新挑戰】AI 代理能跨系統存取、層層委派授權，企業的身分治理框架需從頭設計",
-    "date": "2026-08-13 10:58:22"
-  },
-  {
-    "link": "https://techorange.com/2026/08/13/inside-a-multi-agent-ai-framework-used-to-compromise-government-entities-in-asia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "疑中國駭客用 8 個 AI Agent 攻擊台灣，入侵失敗還會自己找新招：資安防線如何跟上自主網攻速度？",
-    "date": "2026-08-13 10:43:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.dave.tf/post/fastlanes-utl/",
+    "title": "[英] The FastLanes Unified Transport Layout",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
     "title": "[英] AGI-64 Brings Sierra Adventures to the Commodore 64",
     "date": "2026-08-17"
@@ -67,11 +72,6 @@
   {
     "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
     "title": "[英] Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://bernsteinbear.com/blog/zkp/",
-    "title": "[英] A quick look at zero-knowledge proofs",
     "date": "2026-08-17"
   }
 ]
