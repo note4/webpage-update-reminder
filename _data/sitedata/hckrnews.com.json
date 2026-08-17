@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
+    "title": "[英] Intriguing Stories in Computer Science",
+    "date": "2026-08-18"
+  },
+  {
     "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
     "title": "[英] Israel creates fake think tank in likely attempt to dupe AI chatbots",
     "date": "2026-08-18"
@@ -67,11 +72,6 @@
   {
     "link": "https://blog.roboflow.com/roboflow-playground/",
     "title": "[英] Roboflow Playground: Try and Compare 30 Computer Vision Models",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.13759",
-    "title": "[英] GPU Offload in Rust: Portable, Safe, and Fast",
     "date": "2026-08-18"
   }
 ]
