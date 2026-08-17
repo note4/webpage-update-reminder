@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
+    "title": "[英] Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+    "title": "[英] The only known trebuchet casualty in history",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://gwolf.org/2026/08/file-recovery-in-process.html",
     "title": "[英] File Recovery in Process",
     "date": "2026-08-17"
@@ -35,8 +45,8 @@
     "date": "2026-08-17"
   },
   {
-    "link": "https://www.librarian.net/notoai/",
-    "title": "[英] How to disable or avoid intrusive AI",
+    "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "title": "[英] AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
     "date": "2026-08-17"
   },
   {
@@ -45,8 +55,8 @@
     "date": "2026-08-17"
   },
   {
-    "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-    "title": "[英] AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+    "link": "https://www.librarian.net/notoai/",
+    "title": "[英] How to disable or avoid intrusive AI",
     "date": "2026-08-17"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
     "title": "[英] We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://nmsspot.com/2026/08/09/my-ten-years-in-no-mans-sky/",
-    "title": "[英] My Ten Years in No Man's Sky",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49330632",
-    "title": "[英] GitHub down again? no PR access",
     "date": "2026-08-17"
   }
 ]
