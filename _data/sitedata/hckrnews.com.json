@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+    "title": "[英] Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49336520",
+    "title": "[英] undefined",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://cursor.com/changelog/origin-code-hosting",
+    "title": "[英] Cursor launches Origin, GitHub alternative",
+    "date": "2026-08-18"
+  },
+  {
     "link": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
     "title": "[英] A simple fix for LLM tail latency",
     "date": "2026-08-18"
@@ -57,21 +72,6 @@
   {
     "link": "https://arxiv.org/abs/2608.13759",
     "title": "[英] GPU Offload in Rust: Portable, Safe, and Fast",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-    "title": "[英] Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
-    "title": "[英] Llama.cpp v0.1.0",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/",
-    "title": "[英] How I over-engineered my book",
     "date": "2026-08-18"
   }
 ]
