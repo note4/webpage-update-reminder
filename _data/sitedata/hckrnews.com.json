@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "title": "[英] Amazon, which started off selling books, is destroying rare texts to train AI",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data",
+    "title": "[英] Marketers are Addicted to Bad Data (2020)",
+    "date": "2026-08-18"
+  },
+  {
     "link": "https://blog.roboflow.com/roboflow-playground/",
     "title": "[英] Roboflow Playground: Try and Compare 30 Computer Vision Models",
     "date": "2026-08-18"
@@ -62,16 +72,6 @@
   {
     "link": "https://sunclock.net/",
     "title": "[英] Sun Clock",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
-    "title": "[英] Buy Your Friends Batteries",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://www.kenkoonwong.com/blog/crossvalidation/",
-    "title": "[英] Cross-Validation From Scratch and a Surprise at n=100",
     "date": "2026-08-18"
   }
 ]
