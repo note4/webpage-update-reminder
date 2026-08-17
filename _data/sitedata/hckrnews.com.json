@@ -1,12 +1,27 @@
 [
   {
+    "link": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
+    "title": "[英] Strong Gravitational Lensing and Microlensing of Supernovae",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://vocalslice.com/",
+    "title": "[英] Show HN: Vocal Slice – Cut audio by selecting text, fully on-device",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473",
+    "title": "[英] Hayden Panetierre Dies at 36",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://www.motherjones.com/politics/2026/08/ice-shock-gloves-torture-compliant-technologies-jeff-niklaus/",
     "title": "[英] The Orwellian Company Behind ICE's New Electric Shock Gloves",
     "date": "2026-08-17"
   },
   {
     "link": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
-    "title": "[英] How do I permanently disable Google Photos pop-up prompt to backup my photos?",
+    "title": "[英] How do I permanently disable random Google Photos popup to backup photos? (2024)",
     "date": "2026-08-17"
   },
   {
@@ -31,7 +46,7 @@
   },
   {
     "link": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
-    "title": "[英] Applying a photosynthetic process to treat \"dry eye\"",
+    "title": "[英] Applying a photosynthetic process to treat “dry eye”",
     "date": "2026-08-17"
   },
   {
@@ -46,32 +61,17 @@
   },
   {
     "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-    "title": "[英] Red queen hypothesis – a new way forward for self-improving AI",
+    "title": "[英] Red queen hypothesis – A new way forward for self-improving AI",
     "date": "2026-08-17"
   },
   {
     "link": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
-    "title": "[英] Interview with Amit Patel, Creator of \"Solar Realms Elite\"",
+    "title": "[英] Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)",
     "date": "2026-08-17"
   },
   {
     "link": "https://reticulum.network/",
     "title": "[英] Reticulum – Decentralized Mesh Network",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-    "title": "[英] Rhombus 1.1 is now available",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
-    "title": "[英] Physicists discover a hidden gluon structure inside protons",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "title": "[英] Qwen 3.8 27B is excellent, but it defaults to overthinking things",
     "date": "2026-08-17"
   }
 ]
