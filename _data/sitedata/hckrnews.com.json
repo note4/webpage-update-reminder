@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=49330632",
+    "title": "[英] GitHub down again? no PR access",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "title": "[英] Incident with Github.com",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://1667.ai/",
+    "title": "[英] Show HN: 1667, a terminal UI for writing fiction with language models",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49330597",
+    "title": "[英] Tell HN: GitHub Is Overloaded",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+    "title": "[英] Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "title": "[英] Stripe to Buy OpenRouter for $7B",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://mkornreich.me/projects/sokoban/",
+    "title": "[英] Show HN: Sokoban AI Solver",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://github.com/earendil-works/pi/issues/534",
+    "title": "[英] Pi coding agent: config folder is out of place on Linux",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
     "title": "[英] Mexico Crackdown on Coastal Development Underway",
     "date": "2026-08-17"
@@ -32,46 +72,6 @@
   {
     "link": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
     "title": "[英] People are worried about America's solvency",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://func25.dev/posts/go-sync-nocopy/",
-    "title": "[英] How Go detects struct copies with sync.noCopy",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
-    "title": "[英] Self hosted email continues to steeply decline",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://desktopcolors.com",
-    "title": "[英] Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://github.com/chainguard-dev/osquery-defense-kit",
-    "title": "[英] Production-ready detection and response queries for osquery",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.outsideonline.com/health/training-performance/running-empty/",
-    "title": "[英] The Mysterious Syndrome Destroying Endurance Athletes",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://statmodeling.stat.columbia.edu/2026/08/13/we-should-probably-be-doing-more-coverage-of-science-adjacent-medical-scams-like-the-q-collar-and-less-on-repulsively-self-promoting-but-ultimately-less-harmful-academic-grifters/",
-    "title": "[英] The continuing \"Q collar\" scandal",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://asteriskmag.com/issues/15/beware-the-permanent-periphery",
-    "title": "[英] Beware the Permanent Periphery",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://duti.dev/blog/2026/spr/",
-    "title": "[英] HackEurope 2026: A short rant on AI and hackathons",
     "date": "2026-08-17"
   }
 ]
