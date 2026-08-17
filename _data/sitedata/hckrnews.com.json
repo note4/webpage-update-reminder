@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
+    "title": "[英] Mexico Crackdown on Coastal Development Underway",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "title": "[英] GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://twitter.com/DavidSacks/status/2089227290769080656",
+    "title": "[英] David Sacks on X: Some thoughts on Dario's post",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://twitter.com/lydiakauppi/status/2089196932413452386",
+    "title": "[英] Buyer cancels showing after Deflock shows two cameras utilized by the HOA",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://www.bgr.com/2233625/who-owns-commodore-retro-brand/",
+    "title": "[英] Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism",
     "title": "[英] The Marxist Case for the Technofeudal Hypothesis",
     "date": "2026-08-17"
@@ -47,31 +72,6 @@
   {
     "link": "https://duti.dev/blog/2026/spr/",
     "title": "[英] HackEurope 2026: A short rant on AI and hackathons",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-    "title": "[英] On A.I. regulation and messaging",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Gakutensoku",
-    "title": "[英] Gakutensoku",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-    "title": "[英] GIMP Development Update",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://linear.axler.net/",
-    "title": "[英] Linear algebra done right",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://nurb.dev/",
-    "title": "[英] Design 3D-printable parts by talking",
     "date": "2026-08-17"
   }
 ]
