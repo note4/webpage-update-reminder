@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.motherjones.com/politics/2026/08/ice-shock-gloves-torture-compliant-technologies-jeff-niklaus/",
+    "title": "[英] The Orwellian Company Behind ICE's New Electric Shock Gloves",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
     "title": "[英] How do I permanently disable Google Photos pop-up prompt to backup my photos?",
     "date": "2026-08-17"
@@ -67,11 +72,6 @@
   {
     "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
     "title": "[英] Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
-    "title": "[英] The federal keyword lists that canceled billions in research funding",
     "date": "2026-08-17"
   }
 ]
