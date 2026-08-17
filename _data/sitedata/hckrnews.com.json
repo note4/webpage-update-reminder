@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+    "title": "[英] A Preview of DuckDB v2.0",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://www.librarian.net/notoai/",
+    "title": "[英] How to disable or avoid intrusive AI",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+    "title": "[英] Apple's App Tracking Transparency treated its own apps better than rivals",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "title": "[英] AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://nanochess.org/am29000_c_compiler_web_browser.html",
+    "title": "[英] How I developed an Am29000 C compiler and web browser",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49331033",
+    "title": "[英] Ask HN: Alternatives to GitHub",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
     "title": "[英] We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
     "date": "2026-08-17"
@@ -42,36 +72,6 @@
   {
     "link": "https://mkornreich.me/projects/sokoban/",
     "title": "[英] Show HN: Sokoban AI Solver",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://github.com/earendil-works/pi/issues/534",
-    "title": "[英] Pi coding agent: config folder is out of place on Linux",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
-    "title": "[英] Mexico Crackdown on Coastal Development Underway",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://twitter.com/DavidSacks/status/2089227290769080656",
-    "title": "[英] David Sacks on X: Some thoughts on Dario's post",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://blog.roboflow.com/openai-gpt-5-6/",
-    "title": "[英] GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://twitter.com/lydiakauppi/status/2089196932413452386",
-    "title": "[英] Buyer cancels showing after Deflock shows two cameras utilized by the HOA",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.bgr.com/2233625/who-owns-commodore-retro-brand/",
-    "title": "[英] Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed",
     "date": "2026-08-17"
   }
 ]
