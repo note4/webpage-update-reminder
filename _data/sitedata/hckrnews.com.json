@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://news.ycombinator.com/item?id=49332751",
+    "title": "[英] Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49332495",
+    "title": "[英] Ask HN: GitHub employees what's going on? Why?",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://flagquizzes.com/",
+    "title": "[英] Show HN: Learn Flags Quiz",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
     "title": "[英] Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
     "date": "2026-08-17"
@@ -45,33 +60,18 @@
     "date": "2026-08-17"
   },
   {
-    "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-    "title": "[英] AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-    "date": "2026-08-17"
-  },
-  {
     "link": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
     "title": "[英] Apple's App Tracking Transparency treated its own apps better than rivals",
     "date": "2026-08-17"
   },
   {
+    "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "title": "[英] AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://www.librarian.net/notoai/",
     "title": "[英] How to disable or avoid intrusive AI",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://nanochess.org/am29000_c_compiler_web_browser.html",
-    "title": "[英] How I developed an Am29000 C compiler and web browser",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49331033",
-    "title": "[英] Ask HN: Alternatives to GitHub",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-    "title": "[英] We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
     "date": "2026-08-17"
   }
 ]
