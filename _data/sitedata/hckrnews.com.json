@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+    "title": "[英] On A.I. regulation and messaging",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Gakutensoku",
+    "title": "[英] Gakutensoku",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
     "title": "[英] GIMP Development Update",
     "date": "2026-08-17"
@@ -62,16 +72,6 @@
   {
     "link": "https://github.com/crabbuild/prolly",
     "title": "[英] Prolly: A content-addressed ordered map built on prolly trees",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
-    "title": "[英] Applying a photosynthetic process to treat “dry eye”",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://blog.dave.tf/post/fastlanes-utl/",
-    "title": "[英] The FastLanes Unified Transport Layout",
     "date": "2026-08-17"
   }
 ]
