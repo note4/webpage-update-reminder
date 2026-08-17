@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://asteriskmag.com/issues/15/beware-the-permanent-periphery",
+    "title": "[英] Beware the Permanent Periphery",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://duti.dev/blog/2026/spr/",
+    "title": "[英] HackEurope 2026: A short rant on AI and hackathons",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://twitter.com/DarioAmodei/status/2088758816376807762",
     "title": "[英] On A.I. regulation and messaging",
     "date": "2026-08-17"
@@ -16,7 +26,7 @@
   },
   {
     "link": "https://linear.axler.net/",
-    "title": "[英] Linear Algebra Done Right – Sheldon Axler",
+    "title": "[英] Linear algebra done right",
     "date": "2026-08-17"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://boston.conman.org/2026/08/11.1",
     "title": "[英] Gmail might partially be to blame for receiving emails from other Sean Conners",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.pbs.org/wgbh/americanexperience/features/sun-queen-marvelously-inventive-life-maria-telkes/",
-    "title": "[英] The Marvelously Inventive Life of Mária Telkes (2023)",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://github.com/crabbuild/prolly",
-    "title": "[英] Prolly: A content-addressed ordered map built on prolly trees",
     "date": "2026-08-17"
   }
 ]
