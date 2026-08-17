@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://sunclock.net/",
+    "title": "[英] Sun Clock",
+    "date": "2026-08-18"
+  },
+  {
     "link": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
     "title": "[英] Buy Your Friends Batteries",
     "date": "2026-08-18"
@@ -11,7 +16,7 @@
   },
   {
     "link": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-    "title": "[英] Ahmad on X: \"Anthropic's War on open source AI\" / X",
+    "title": "[英] Anthropic's War on open source AI",
     "date": "2026-08-18"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
     "title": "[英] Qwen3.8 27B at 256K: 50 TPS on a 24 GB GPU",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
-    "title": "[英] The only known trebuchet casualty in history",
     "date": "2026-08-18"
   }
 ]
