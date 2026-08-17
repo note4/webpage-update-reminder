@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://openrouter.ai/openai/gpt-5.6-sol",
+    "title": "[英] GPT-5.6 Sol Pricing Cut by 50%",
+    "date": "2026-08-18"
+  },
+  {
     "link": "https://scapplications.com/",
     "title": "[英] scScript for Linux",
     "date": "2026-08-18"
@@ -36,12 +41,12 @@
   },
   {
     "link": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
-    "title": "[英] Nation's largest reservoirs are drying up, threatening life in the southwest",
+    "title": "[英] Colorado River plummets as lakes Powell and Mead drop to record lows",
     "date": "2026-08-18"
   },
   {
     "link": "https://timmarinin.net/2026/bluesky-screenshots/",
-    "title": "[英] Bluesky draws its logo on screenshots",
+    "title": "[英] How Bluesky draws its logo on screenshots",
     "date": "2026-08-18"
   },
   {
@@ -51,7 +56,7 @@
   },
   {
     "link": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
-    "title": "[英] Intriguing Stories in Computer Science",
+    "title": "[英] Intriguing stories in computer science",
     "date": "2026-08-18"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://cursor.com/changelog/origin-code-hosting",
     "title": "[英] Cursor launches Origin, GitHub alternative",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
-    "title": "[英] A simple fix for LLM tail latency",
     "date": "2026-08-18"
   }
 ]
