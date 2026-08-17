@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism",
+    "title": "[英] The Marxist Case for the Technofeudal Hypothesis",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+    "title": "[英] People are worried about America's solvency",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://func25.dev/posts/go-sync-nocopy/",
+    "title": "[英] How Go detects struct copies with sync.noCopy",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
     "title": "[英] Self hosted email continues to steeply decline",
     "date": "2026-08-17"
@@ -57,21 +72,6 @@
   {
     "link": "https://nurb.dev/",
     "title": "[英] Design 3D-printable parts by talking",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
-    "title": "[英] $12B of US ratepayers' money wasted on a modeling mistake in PJM",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
-    "title": "[英] Strong gravitational lensing and microlensing of supernovae (2024)",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://vocalslice.com/",
-    "title": "[英] Show HN: Vocal Slice – Cut audio by selecting text, fully on-device",
     "date": "2026-08-17"
   }
 ]
