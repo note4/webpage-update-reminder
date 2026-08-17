@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+    "title": "[英] GIMP Development Update",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://linear.axler.net/",
+    "title": "[英] Linear Algebra Done Right – Sheldon Axler",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://nurb.dev/",
+    "title": "[英] Design 3D-printable parts by talking",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
     "title": "[英] $12B of US ratepayers' money wasted on a modeling mistake in PJM",
     "date": "2026-08-17"
@@ -57,21 +72,6 @@
   {
     "link": "https://blog.dave.tf/post/fastlanes-utl/",
     "title": "[英] The FastLanes Unified Transport Layout",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-    "title": "[英] AGI-64 Brings Sierra Adventures to the Commodore 64",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-    "title": "[英] Red queen hypothesis – A new way forward for self-improving AI",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
-    "title": "[英] Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)",
     "date": "2026-08-17"
   }
 ]
