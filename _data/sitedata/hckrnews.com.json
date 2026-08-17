@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://gwolf.org/2026/08/file-recovery-in-process.html",
+    "title": "[英] File Recovery in Process",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://turbopuffer.com/blog/control-plane",
+    "title": "[英] How to ship a database every day",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/",
+    "title": "[英] Speeding Up the Plush Garbage Collector",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://github.com/vercel-labs/eve-software-factory-template/tree/main",
+    "title": "[英] Show HN: Eve Software Factory",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
+    "title": "[英] How to put 170 atoms in an atom",
+    "date": "2026-08-17"
+  },
+  {
+    "link": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
+    "title": "[英] Human Interface Guidelines from various platforms",
+    "date": "2026-08-17"
+  },
+  {
     "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
     "title": "[英] A Preview of DuckDB v2.0",
     "date": "2026-08-17"
@@ -42,36 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=49330632",
     "title": "[英] GitHub down again? no PR access",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-    "title": "[英] Incident with Github.com",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://1667.ai/",
-    "title": "[英] Show HN: 1667, a terminal UI for writing fiction with language models",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49330597",
-    "title": "[英] Tell HN: GitHub Is Experiencing Degraded Performance",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
-    "title": "[英] Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "title": "[英] Stripe to Buy OpenRouter for $7B",
-    "date": "2026-08-17"
-  },
-  {
-    "link": "https://mkornreich.me/projects/sokoban/",
-    "title": "[英] Show HN: Sokoban AI Solver",
     "date": "2026-08-17"
   }
 ]
