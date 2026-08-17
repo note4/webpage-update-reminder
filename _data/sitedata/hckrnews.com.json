@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+    "title": "[英] A simple fix for LLM tail latency",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://blog.plover.com/brain/Jaynes.html",
+    "title": "[英] The Origin of Consciousness (2008)",
+    "date": "2026-08-18"
+  },
+  {
     "link": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
     "title": "[英] An update on leaving Gmail for Fastmail",
     "date": "2026-08-18"
@@ -51,7 +61,7 @@
   },
   {
     "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-    "title": "[英] The Lonely Men Who Work in Patagonia, at the End of the World",
+    "title": "[英] Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
     "date": "2026-08-18"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/",
     "title": "[英] How I over-engineered my book",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
-    "title": "[英] We Are Forking dotenvy into dotenv-ng",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://www.cbc.ca/news/politics/canadian-citizenship-certificates-americans-9.7307536",
-    "title": "[英] Demand for Canadian citizenship certificates soaring, fuelled by Americans",
     "date": "2026-08-18"
   }
 ]
