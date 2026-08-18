@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=xoTFywZpPcc",
+    "title": "[英] IBM Simon (1994): the original smartphone, explained in its own ad [video]",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://pixelcluster.dev/VRAM-Overcommit/",
+    "title": "[英] Linux 7.3 improves performance when running out of vRAM",
+    "date": "2026-08-18"
+  },
+  {
     "link": "https://acadia.engineering/blog/rethinking-database-programming",
     "title": "[英] Rethinking Database Programming",
     "date": "2026-08-18"
@@ -55,23 +65,13 @@
     "date": "2026-08-18"
   },
   {
-    "link": "https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders",
-    "title": "[英] Wellington second-hand bookstore's mysterious orders",
-    "date": "2026-08-18"
-  },
-  {
     "link": "https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary",
     "title": "[英] What's Better Than Binary? – Advent of Computing Episode 187",
     "date": "2026-08-18"
   },
   {
-    "link": "https://danluu.com/benchpocalypse/",
-    "title": "[英] The Benchmarkpocalypse",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
-    "title": "[英] California's new tire efficiency rules could save drivers $1B a year",
+    "link": "https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders",
+    "title": "[英] Wellington second-hand bookstore's mysterious orders",
     "date": "2026-08-18"
   }
 ]
