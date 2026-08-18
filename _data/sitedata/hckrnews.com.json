@@ -1,12 +1,37 @@
 [
   {
+    "link": "https://dl.acm.org/doi/10.1145/3828685",
+    "title": "[英] Programmable Property-Based Testing",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
+    "title": "[英] How a giant battery is transforming a town centre in Cannington, Ontario",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://linear.app/data",
+    "title": "[英] AI usage patterns in software teams",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://www.msrebrandregistry.com/analysis.html",
+    "title": "[英] The Microsoft Rebrand Registry",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://en.wikiquote.org/wiki/Terry_A._Davis",
+    "title": "[英] Terry A. Davis Quotes",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://artificialanalysis.ai/models/glm-5-3",
     "title": "[英] GLM-5.3 Artificial Analysis Benchmarks",
     "date": "2026-08-19"
   },
   {
     "link": "https://whoownsthecode.com/",
-    "title": "[英] Who owns the code? AI code == no author == no copyright",
+    "title": "[英] Who owns the code?",
     "date": "2026-08-19"
   },
   {
@@ -36,7 +61,7 @@
   },
   {
     "link": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
-    "title": "[英] Companies promote incompetent employees to management tolimit damage they can do",
+    "title": "[英] Companies promote incompetent employees to management to limit damage they do",
     "date": "2026-08-19"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
     "title": "[英] Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://geojacker.com/llms-txt",
-    "title": "[英] llms.txt: a proposed standard no major AI platform has confirmed it uses",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://a-hidden-infrastructure.spun.earth/map",
-    "title": "[英] Mycorrhizal Infrastructure Map",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-    "title": "[英] Beware Management Consultants",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://github.com/argus-testing/argus",
-    "title": "[英] Show HN: Argus, agentic QA for teams whose coding agents move faster than QA",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-    "title": "[英] The Norwegian Government Pension Fund Global ought to purchase OpenAI",
     "date": "2026-08-19"
   }
 ]
