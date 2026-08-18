@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://solariz.de/posts/26/04-xteink-local-epub-server",
+    "title": "[英] A local ePub eBook server for my xteink",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://bond.now/news/superpowers-not-superintelligence",
+    "title": "[英] Superpowers, Not Superintelligence",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://status.claude.com/incidents/q7txxvbsftgq",
     "title": "[英] Claude: Degraded Performance for Multiple Models",
     "date": "2026-08-19"
@@ -62,16 +72,6 @@
   {
     "link": "https://arxiv.org/abs/2607.22738",
     "title": "[英] Code-native generation of highly programmable 3D assets (2026)",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://jpegxlconvert.com/en/",
-    "title": "[英] JPEG XL converter and .jxl viewer",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://blog.gnoack.org/post/git-history-split",
-    "title": "[英] Splitting a Git Commit",
     "date": "2026-08-19"
   }
 ]
