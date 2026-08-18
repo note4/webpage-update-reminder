@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://geojacker.com/llms-txt",
+    "title": "[英] llms.txt: a proposed standard no major AI platform has confirmed it uses",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://a-hidden-infrastructure.spun.earth/map",
     "title": "[英] Mycorrhizal Infrastructure Map",
     "date": "2026-08-19"
@@ -62,11 +67,6 @@
   {
     "link": "https://pmotschmann.github.io/Evolve/",
     "title": "[英] Evolve: An incremental game about evolving a civilization",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://github.com/RyanCodrai/turbovec",
-    "title": "[英] Turbovec – Google's TurboQuant for vector search in Rust",
     "date": "2026-08-19"
   },
   {
