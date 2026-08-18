@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://status.claude.com/incidents/q7txxvbsftgq",
+    "title": "[英] Claude: Degraded Performance for Multiple Models",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://machine0.io",
+    "title": "[英] Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+    "title": "[英] Apple announces changes for apps in the European Union",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://github.com/therepanic/openleetcode",
+    "title": "[英] Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49313346",
+    "title": "[英] Ask HN: Ive quit six systems for tracking my illness. What works?",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://abstractextraordinary.com/blog/how-muse-glimmer-fits-an-agent-on-your-device/",
     "title": "[英] Muse Glimmer is a memory hierarchy disguised as a 30B Transformer",
     "date": "2026-08-19"
@@ -47,31 +72,6 @@
   {
     "link": "https://blog.gnoack.org/post/git-history-split",
     "title": "[英] Splitting a Git Commit",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/",
-    "title": "[英] An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49346591",
-    "title": "[英] undefined",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://82mhz.net/posts/2026/08/i-used-to-be-excited-about-new-tech-but-i-rarely-am-anymore/",
-    "title": "[英] I used to be excited about new tech, but I rarely am anymore",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
-    "title": "[英] Babies born under sugar rationing grew into adults with lower cancer risk",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Oxford_Electric_Bell",
-    "title": "[英] Oxford Electric Bell",
     "date": "2026-08-19"
   }
 ]
