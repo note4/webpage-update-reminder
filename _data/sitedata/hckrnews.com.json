@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://consequence.net/2026/08/columbia-house-closing-down/",
+    "title": "[英] Columbia House, Mail-Order Media Company, Is Shuttering",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://github.com/RyanCodrai/turbovec",
+    "title": "[英] Turbovec – Google's TurboQuant for vector search in Rust",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://github.com/biw/keychain-store",
+    "title": "[英] Show HN: macOS data protection keychain for Electron apps",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
     "title": "[英] Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
     "date": "2026-08-19"
@@ -57,21 +72,6 @@
   {
     "link": "https://github.com/therepanic/openleetcode",
     "title": "[英] Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49313346",
-    "title": "[英] Ask HN: I've quit six systems for tracking my illness. What works?",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://abstractextraordinary.com/blog/how-muse-glimmer-fits-an-agent-on-your-device/",
-    "title": "[英] Muse Glimmer is a memory hierarchy disguised as a 30B Transformer",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://www.wheresyoured.at/what-happens-if-openai-dies/",
-    "title": "[英] What Happens If OpenAI Dies?",
     "date": "2026-08-19"
   }
 ]
