@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://github.com/ytkoka/impersonate-proxy",
+    "title": "[英] Show HN: A local MitM proxy to control TLS fingerprints",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/",
+    "title": "[英] A group of Gandalfs protest outside the home of Peter Thiel in Argentina",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://albertogalca.com/5-things-that-used-to-be-normal-and-are-now-a-luxury",
+    "title": "[英] Things That Used to Be Normal and Are Now a Luxury",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://newsletter.kentbeck.com/p/composable-tests",
+    "title": "[英] Kent Beck: Composable Tests",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://github.com/mukundzha/avouch",
+    "title": "[英] Show HN: I canceled my AI code reviewer and wrote a free local one",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+    "title": "[英] Fixing a Bricked Framework Laptop",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49345255",
+    "title": "[英] Ask HN: Good content on using AI to modernize professional services delivery",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://github.com/pitiflautico/neobrowser",
+    "title": "[英] NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c62em5lpvnjo",
+    "title": "[英] AI to help planes avoid climate-warming 'sky graffiti'",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://newsletter.kentbeck.com/p/baking-a-model",
+    "title": "[英] Baking a Model: A Metaphor for LLM Training",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+    "title": "[英] Fairphone is now officially available in the United States",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
+    "title": "[英] Deus Ex creator Warren Spector is retiring from game development",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://philo.gay/linecam/",
+    "title": "[英] Using the railway network as a flatbed scanner",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+    "title": "[英] Meta Files Patent for Facial Recognition, Automatic Recording of People",
+    "date": "2026-08-18"
+  },
+  {
     "link": "https://twitter.com/kuberwastaken/status/2089377982536388964",
     "title": "[英] Claude writing a macOS driver for my obscure HP printer built only for Windows",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://tau.dev/2026/08/07/canon",
-    "title": "[英] Teaching my kid to code with a modern MUD",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-    "title": "[英] As Wisconsin cities flee Flock, its shared camera network loses value",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://808bits.com/articles/threshold-signing-ceremony-in-your-browser/",
-    "title": "[英] The key that never exists: a threshold signing ceremony in the browser",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
-    "title": "[英] Finger: Social network that never died",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "title": "[英] Google buys crashed airline Spirit's data at auction, because AI",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://www.rainydaygc.com/",
-    "title": "[英] I built a golf career management SIM (like Basketball GM, but golf)",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://twitter.com/sean_geiger/status/2089487682305216534",
-    "title": "[英] When I worked at Apple, I remember seeing code that was 15 years old",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=xoTFywZpPcc",
-    "title": "[英] IBM Simon (1994): the original smartphone, explained in its own ad [video]",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://pixelcluster.dev/VRAM-Overcommit/",
-    "title": "[英] Linux 7.3 improves performance when running out of vRAM",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://acadia.engineering/blog/rethinking-database-programming",
-    "title": "[英] Rethinking Database Programming",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
-    "title": "[英] Ranking the Most Brilliantly Colored Birds with Data",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://caiustheory.com/git-git-git-git-git/",
-    "title": "[英] git git git git git",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028",
-    "title": "[英] Micron, SK Commit Billions to RAM Capacity, but Almost Nothing Lands Before 2028",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
-    "title": "[英] Exercise intensity modulates interorgan communication and is associated with",
     "date": "2026-08-18"
   }
 ]
