@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+    "title": "[英] Why your Amazon order confirmation emails have become so unhelpful",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+    "title": "[英] We've flown a radiation-blocking vest to the Moon and back, and it worked",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://digitalescapetools.com/tools/tool.html?id=magnitude",
+    "title": "[英] Magnitude – Open-source AI coding agent that runs local models offline",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
+    "title": "[英] Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://solariz.de/posts/26/04-xteink-local-epub-server",
     "title": "[英] A local ePub eBook server for my xteink",
     "date": "2026-08-19"
@@ -11,7 +31,7 @@
   },
   {
     "link": "https://status.claude.com/incidents/q7txxvbsftgq",
-    "title": "[英] Claude: Degraded Performance for Multiple Models",
+    "title": "[英] Degraded performance for multiple models",
     "date": "2026-08-19"
   },
   {
@@ -31,7 +51,7 @@
   },
   {
     "link": "https://news.ycombinator.com/item?id=49313346",
-    "title": "[英] Ask HN: Ive quit six systems for tracking my illness. What works?",
+    "title": "[英] Ask HN: I've quit six systems for tracking my illness. What works?",
     "date": "2026-08-19"
   },
   {
@@ -51,27 +71,7 @@
   },
   {
     "link": "https://chriskiehl.com/article/how-i-under-engineered-my-book",
-    "title": "[英] How I Under-Engineered My Book",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://www.worldwidewebsize.com/",
-    "title": "[英] The Size of the World Wide Web",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://oaklandside.org/2026/01/29/oakland-police-overtime/",
-    "title": "[英] One Oakland police officer made $490k in overtime",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
-    "title": "[英] The coolest anti-surveillance tools at Defcon [video]",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.22738",
-    "title": "[英] Code-native generation of highly programmable 3D assets (2026)",
+    "title": "[英] How I Under-Engineered my Book",
     "date": "2026-08-19"
   }
 ]
