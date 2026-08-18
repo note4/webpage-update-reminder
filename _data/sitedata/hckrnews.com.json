@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://pantheongpu.com/",
+    "title": "[英] Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+    "title": "[英] And then the men with guns tell you to do it anyway",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "title": "[英] How does IKEA come up with names for its products?",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://pmotschmann.github.io/Evolve/",
+    "title": "[英] Evolve: An incremental game about evolving a civilization",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://consequence.net/2026/08/columbia-house-closing-down/",
     "title": "[英] Columbia House, Mail-Order Media Company, Is Shuttering",
     "date": "2026-08-19"
@@ -21,7 +41,7 @@
   },
   {
     "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-    "title": "[英] Claude Code weekly limits reduce by a third tomorrow",
+    "title": "[英] Claude Code May–August 2026 weekly limits promotion",
     "date": "2026-08-19"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://bond.now/news/superpowers-not-superintelligence",
     "title": "[英] Superpowers, Not Superintelligence",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://status.claude.com/incidents/q7txxvbsftgq",
-    "title": "[英] Degraded performance for multiple models",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://machine0.io",
-    "title": "[英] Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-    "title": "[英] Apple announces changes for apps in the European Union",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://github.com/therepanic/openleetcode",
-    "title": "[英] Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
     "date": "2026-08-19"
   }
 ]
