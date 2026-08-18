@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://artificialanalysis.ai/models/glm-5-3",
+    "title": "[英] GLM-5.3 Artificial Analysis Benchmarks",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://whoownsthecode.com/",
+    "title": "[英] Who owns the code? AI code == no author == no copyright",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://fx.sh",
     "title": "[英] fx :Tiny, open, native coding agent.",
     "date": "2026-08-19"
@@ -30,13 +40,13 @@
     "date": "2026-08-19"
   },
   {
-    "link": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-    "title": "[英] Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+    "link": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+    "title": "[英] Being ambitious and being a dad",
     "date": "2026-08-19"
   },
   {
-    "link": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-    "title": "[英] Being Ambitious and Being a Dad",
+    "link": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+    "title": "[英] Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
     "date": "2026-08-19"
   },
   {
@@ -61,17 +71,7 @@
   },
   {
     "link": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-    "title": "[英] Norway Should Buy OpenAI",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-    "title": "[英] Pacing model development in an era of cyber-critical capabilities",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
-    "title": "[英] 2,500-year-old sculpture discovered at UNESCO site in Turkey",
+    "title": "[英] The Norwegian Government Pension Fund Global ought to purchase OpenAI",
     "date": "2026-08-19"
   }
 ]
