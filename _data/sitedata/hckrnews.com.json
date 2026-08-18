@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://acadia.engineering/blog/rethinking-database-programming",
+    "title": "[英] Rethinking Database Programming",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+    "title": "[英] Ranking the Most Brilliantly Colored Birds with Data",
+    "date": "2026-08-18"
+  },
+  {
     "link": "https://caiustheory.com/git-git-git-git-git/",
     "title": "[英] git git git git git",
     "date": "2026-08-18"
@@ -62,16 +72,6 @@
   {
     "link": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
     "title": "[英] California's new tire efficiency rules could save drivers $1B a year",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://gww.su/map/",
-    "title": "[英] Gum Wrappers World",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
-    "title": "[英] Shattered skeleton is first confirmed death from trebuchet",
     "date": "2026-08-18"
   }
 ]
