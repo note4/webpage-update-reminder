@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.wheresyoured.at/what-happens-if-openai-dies/",
+    "title": "[英] What Happens If OpenAI Dies?",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://notactuallytreyanastasio.github.io/shoehorn/",
+    "title": "[英] Show HN: Shoehorn – Quantize any model down to run on your machine",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://www.worldwidewebsize.com/",
+    "title": "[英] The Size of the World Wide Web",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://chriskiehl.com/article/how-i-under-engineered-my-book",
+    "title": "[英] How I Under-Engineered My Book",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://oaklandside.org/2026/01/29/oakland-police-overtime/",
+    "title": "[英] One Oakland police officer made $490k in overtime",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+    "title": "[英] The coolest anti-surveillance tools at Defcon [video]",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.22738",
+    "title": "[英] Code-native generation of highly programmable 3D assets (2026)",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://jpegxlconvert.com/en/",
+    "title": "[英] JPEG XL converter and .jxl viewer",
+    "date": "2026-08-18"
+  },
+  {
+    "link": "https://blog.gnoack.org/post/git-history-split",
+    "title": "[英] Splitting a Git Commit",
+    "date": "2026-08-18"
+  },
+  {
     "link": "https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/",
     "title": "[英] An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet",
     "date": "2026-08-18"
@@ -27,51 +72,6 @@
   {
     "link": "https://seths.blog/2026/08/the-amazon-tax/",
     "title": "[英] The Amazon Tax",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://opensource.posit.co/resources/cheatsheets/polars/",
-    "title": "[英] Python Polars Cheatsheet (based on our O'Reilly book)",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://github.com/ytkoka/impersonate-proxy",
-    "title": "[英] Show HN: A local MitM proxy to control TLS fingerprints",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49345438",
-    "title": "[英] undefined",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://albertogalca.com/5-things-that-used-to-be-normal-and-are-now-a-luxury",
-    "title": "[英] Things That Used to Be Normal and Are Now a Luxury",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://newsletter.kentbeck.com/p/composable-tests",
-    "title": "[英] Composable Tests",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://github.com/mukundzha/avouch",
-    "title": "[英] Show HN: I canceled my AI code reviewer and wrote a free local one",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://github.com/pitiflautico/neobrowser",
-    "title": "[英] NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-    "title": "[英] Fixing a Bricked Framework Laptop",
-    "date": "2026-08-18"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49345255",
-    "title": "[英] Ask HN: Good content on using AI to modernize professional services delivery",
     "date": "2026-08-18"
   }
 ]
