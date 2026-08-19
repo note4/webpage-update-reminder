@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+    "title": "[英] The little-known winstart.bat batch file",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+    "title": "[英] Unlocking a locked/deactivated e-waste Cricut Maker",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://arxiv.org/abs/2510.24491",
+    "title": "[英] From Quantum Relative Entropy to the Semiclassical Einstein Equations",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://router.com",
+    "title": "[英] Ramp Launches a Model Router",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://whatever.scalzi.com/2026/08/19/daily-reminder-to-not-listen-to-googles-ai-overview/",
+    "title": "[英] Daily Reminder to Not Listen to Google's AI Overview",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+    "title": "[英] Pixel 11 Pro Fold feels like the end of an era",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/",
     "title": "[英] Police officer used Flock cameras to track estranged wife 717 times",
     "date": "2026-08-20"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
     "title": "[英] Cop Explains Why He Used License Plate Reader to Stalk Woman",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://daverupert.com/2026/08/microlighter/",
-    "title": "[英] Introducing MicroLighter",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://github.com/anthropics/claude-code/issues/77136",
-    "title": "[英] Opus 5.0 drives incoherence into the stratosphere",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49364633",
-    "title": "[英] undefined",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-    "title": "[英] OpenRouter is joining Stripe",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49364158",
-    "title": "[英] undefined",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803",
-    "title": "[英] Turning molecules into reliable electronic devices",
     "date": "2026-08-20"
   }
 ]
