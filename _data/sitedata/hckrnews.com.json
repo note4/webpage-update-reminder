@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+    "title": "[英] Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://github.com/DioxusLabs/taffy",
+    "title": "[英] Taffy: A flexible, high-performance, cross-platform UI layout library",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+    "title": "[英] PostgreSQL for Everything",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49361322",
+    "title": "[英] Train your own AI model, even on your laptop",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "[英] A joke domain purchase turned in geopolitical warfare",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://kolja.rs/algorithm-d/",
     "title": "[英] A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",
     "date": "2026-08-19"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.modular.com/blog/modcon-announcements",
     "title": "[英] The Mojo language (by Modular, now Qualcomm) is now open-source",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
-    "title": "[英] \"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://berd.xyz",
-    "title": "[英] Berd",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://nautil.us/where-human-sleep-went-wrong-1283797",
-    "title": "[英] Where Human Sleep Went Wrong",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://dl.acm.org/doi/10.1145/3789240.3829151",
-    "title": "[英] λλ: A Programming Language for Silicon Photonics",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://password-generator.aaqa.dev/",
-    "title": "[英] Show HN: Privacy focused client side password generator",
     "date": "2026-08-19"
   }
 ]
