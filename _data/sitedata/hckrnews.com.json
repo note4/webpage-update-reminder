@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://inco.ai/blog/dflash2/",
+    "title": "[英] DFlash 2: Keep Drafting Parallel",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://pennypresses.net/home/map.php",
+    "title": "[英] Pressed Penny Machine Map",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://lists.x.org/archives/xorg/2026-August/062280.html",
+    "title": "[英] XWayland 26.1-rc1 Released Two Years After the Last Release",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html",
+    "title": "[英] Copper Shortage Threatens the Green Transition",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://www.amppublic.com/research/openrouter",
     "title": "[英] You Probably Don't Get Why Stripe Bought OpenRouter",
     "date": "2026-08-20"
@@ -46,32 +66,12 @@
   },
   {
     "link": "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/",
-    "title": "[英] Rules of Good Social Skills",
+    "title": "[英] Rules of Good Social Skills (2025)",
     "date": "2026-08-20"
   },
   {
     "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
     "title": "[英] Unsloth Dynamic 3.0 GGUFs",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://go.dev/blog/go1.27",
-    "title": "[英] Go 1.27",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.reuters.com/world/asia-pacific/south-korea-some-savour-last-season-legal-dog-meat-2026-08-14/",
-    "title": "[英] In South Korea, some savour last season of legal dog meat",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
-    "title": "[英] A revisit of remote Spectre attacks on Cloudflare Workers",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
-    "title": "[英] The A.I. In Google's New Pixel 11 Is Not Helpful",
     "date": "2026-08-20"
   }
 ]
