@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
+    "title": "[英] The Two Factions of C++",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://www.modular.com/blog/modcon-announcements",
+    "title": "[英] The Mojo language (by Modular, now Qualcomm) is now open-source",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
     "title": "[英] \"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
     "date": "2026-08-19"
@@ -62,16 +72,6 @@
   {
     "link": "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/",
     "title": "[英] CUDA Shared Memory Swizzling",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-    "title": "[英] Palomar: A registry of Lean verified mathematics",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-    "title": "[英] Meta's blockbuster trial draws parallels to big tobacco",
     "date": "2026-08-19"
   }
 ]
