@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html",
+    "title": "[英] A recipe for drone racing with reinforcement learning",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://arxiv.org/abs/2503.08679",
+    "title": "[英] Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "title": "[英] Extensible Software in the Age of LLMs",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://github.com/onecli/onecli",
     "title": "[英] Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
     "date": "2026-08-20"
@@ -16,7 +31,7 @@
   },
   {
     "link": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
-    "title": "[英] Civic Hygiene – avoid building technologies that could be used by a police state",
+    "title": "[英] Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
     "date": "2026-08-20"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://github.com/enthdegree/f100",
     "title": "[英] Show HN: Nikon F100 Film Camera Repair Notes",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://lists.sr.ht/~sircmpwn/sr.ht-discuss/%3CDKSTMKM0ZD9N.2FTBDFREZH699@ddevault.org%3E",
-    "title": "[英] Proposal to prohibit vibe coded projects from being hosted on Sourcehut",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
-    "title": "[英] Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://github.com/DioxusLabs/taffy",
-    "title": "[英] Taffy: A flexible, high-performance, cross-platform UI layout library",
     "date": "2026-08-20"
   }
 ]
