@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://dogdogfish.com/blog/2026/08/19/digital-immortality/",
+    "title": "[英] Digital Immortality",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://ludens.cl/Electron/geiger2/geiger2.html",
     "title": "[英] A portable, sensitive, low power, analog Geiger counter",
     "date": "2026-08-20"
@@ -20,13 +25,13 @@
     "date": "2026-08-20"
   },
   {
-    "link": "https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html",
-    "title": "[英] Copper Shortage Threatens the Green Transition",
+    "link": "https://news.ycombinator.com/item?id=49366704",
+    "title": "[英] undefined",
     "date": "2026-08-20"
   },
   {
-    "link": "https://www.amppublic.com/research/openrouter",
-    "title": "[英] You Probably Don't Get Why Stripe Bought OpenRouter",
+    "link": "https://news.ycombinator.com/item?id=49366225",
+    "title": "[英] undefined",
     "date": "2026-08-20"
   },
   {
@@ -40,11 +45,6 @@
     "date": "2026-08-20"
   },
   {
-    "link": "https://router.com",
-    "title": "[英] Router by Ramp",
-    "date": "2026-08-20"
-  },
-  {
     "link": "https://whatever.scalzi.com/2026/08/19/daily-reminder-to-not-listen-to-googles-ai-overview/",
     "title": "[英] Daily Reminder to Not Listen to Google's AI Overview",
     "date": "2026-08-20"
@@ -52,6 +52,11 @@
   {
     "link": "https://arxiv.org/abs/2510.24491",
     "title": "[英] From Quantum Relative Entropy to the Semiclassical Einstein Equations",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://router.com",
+    "title": "[英] Router by Ramp",
     "date": "2026-08-20"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
     "title": "[英] Google replaced Git tags for certain source code with obtaining via Google Drive",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/",
-    "title": "[英] Rules of Good Social Skills (2025)",
     "date": "2026-08-20"
   }
 ]
