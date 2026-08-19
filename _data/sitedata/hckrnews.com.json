@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.reuters.com/world/asia-pacific/south-korea-some-savour-last-season-legal-dog-meat-2026-08-14/",
+    "title": "[英] In South Korea, some savour last season of legal dog meat",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+    "title": "[英] A revisit of remote Spectre attacks on Cloudflare Workers",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+    "title": "[英] The A.I. In Google's New Pixel 11 Is Not Helpful",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
+    "title": "[英] Cop Explains Why He Used License Plate Reader to Stalk Woman",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://daverupert.com/2026/08/microlighter/",
+    "title": "[英] Introducing MicroLighter",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://github.com/anthropics/claude-code/issues/77136",
     "title": "[英] Opus 5.0 drives incoherence into the stratosphere",
     "date": "2026-08-20"
@@ -11,7 +36,7 @@
   },
   {
     "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-    "title": "[英] OpenRouter Is Joining Stripe",
+    "title": "[英] Openrouter is joining Stripe",
     "date": "2026-08-20"
   },
   {
@@ -40,38 +65,13 @@
     "date": "2026-08-20"
   },
   {
-    "link": "https://arxiv.org/abs/2503.08679",
-    "title": "[英] Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
-    "date": "2026-08-20"
-  },
-  {
     "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
     "title": "[英] Extensible Software in the Age of LLMs",
     "date": "2026-08-20"
   },
   {
-    "link": "https://github.com/onecli/onecli",
-    "title": "[英] Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.16753",
-    "title": "[英] Mathematics in the Age of AI",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://mazingamazingly.blogspot.com/2026/08/sea-turtle-sex-crisis-why-99-are-now.html",
-    "title": "[英] Sea Turtle Sex Crisis: Why 99% Are Now Female",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
-    "title": "[英] Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://ornith.ai/ornith_1_5.html",
-    "title": "[英] Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+    "link": "https://arxiv.org/abs/2503.08679",
+    "title": "[英] Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
     "date": "2026-08-20"
   }
 ]

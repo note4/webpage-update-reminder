@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "title": "[英] 5 new ways to level up your learning with Search",
+    "date": "2026-08-20 03:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+    "title": "[英] Start the semester with one year of Gemini, on us",
+    "date": "2026-08-20 03:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
+    "title": "[英] Back to School 2026",
+    "date": "2026-08-20 03:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/",
     "title": "[英] Waymo is bringing Gemini into its custom Ojai vehicles.",
     "date": "2026-08-20 01:30:00"
@@ -58,20 +73,5 @@
     "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/",
     "title": "[英] Get updates while your Pixel 11 Pro is face down with HiLight.",
     "date": "2026-08-14 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/",
-    "title": "[英] Omni experts share what excites them most about the model.",
-    "date": "2026-08-13 21:30:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
-    "title": "[英] Sharing between Pixel devices is now just a tap away.",
-    "date": "2026-08-12 22:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
-    "title": "[英] How we built the new GPS on Pixel Watch 5",
-    "date": "2026-08-12 22:00:00"
   }
 ]
