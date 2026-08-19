@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/08/19/retailer-security-strategy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "商品評論可能藏攻擊指令，零售業導入 AI 代理前該將哪些資安缺口補起來？",
+    "date": "2026-08-19 10:51:43"
+  },
+  {
     "link": "https://techorange.com/2026/08/19/openai-slows-ai-model-training/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "OpenAI 暫停部分前沿模型訓練：AI 安全為何開始影響研發速度？",
     "date": "2026-08-19 10:42:04"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/08/18/spacex-cursor-acquisition-alibaba-qwen-ai-model-downloads/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】SpaceX 600 億美元收購 Cursor，阿里稱 Qwen 半年下載破 30 億次、在 Hugging Face 領先 Google 與 Meta",
     "date": "2026-08-18 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/17/delta-infinity-ready-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "從機器手臂到半導體設備都不能停機：台達如何用新世代電源生態系兼顧高負載、極端環境與能源效率？",
-    "date": "2026-08-17 17:55:23"
   }
 ]
