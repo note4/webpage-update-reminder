@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://homosabiens.substack.com/p/activation-energy-is-a-good-model",
+    "title": "[英] Activation Energy is a good model for a lot of things",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
     "title": "[英] The Two Factions of C++",
     "date": "2026-08-19"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.youtube.com/watch?v=Co57SfcT-h0",
     "title": "[英] Supersonic Trebuchet [video]",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/",
-    "title": "[英] CUDA Shared Memory Swizzling",
     "date": "2026-08-19"
   }
 ]
