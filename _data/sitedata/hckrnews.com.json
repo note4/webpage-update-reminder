@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/",
+    "title": "[英] Police officer used Flock cameras to track estranged wife 717 times",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+    "title": "[英] Google replaced Git tags for certain source code with obtaining via Google Drive",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/",
+    "title": "[英] Rules of Good Social Skills",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+    "title": "[英] Unsloth Dynamic 3.0 GGUFs",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://go.dev/blog/go1.27",
+    "title": "[英] Go 1.27",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://www.reuters.com/world/asia-pacific/south-korea-some-savour-last-season-legal-dog-meat-2026-08-14/",
     "title": "[英] In South Korea, some savour last season of legal dog meat",
     "date": "2026-08-20"
@@ -36,7 +61,7 @@
   },
   {
     "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-    "title": "[英] Openrouter is joining Stripe",
+    "title": "[英] OpenRouter is joining Stripe",
     "date": "2026-08-20"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803",
     "title": "[英] Turning molecules into reliable electronic devices",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://demo.frugaltokens.com/",
-    "title": "[英] Show HN: Frugal Tokens – explore costs and usage across coding agents",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://ngrok.com/blog/probes",
-    "title": "[英] How Kubernetes Probes Work",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html",
-    "title": "[英] A recipe for drone racing with reinforcement learning",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-    "title": "[英] Extensible Software in the Age of LLMs",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://arxiv.org/abs/2503.08679",
-    "title": "[英] Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
     "date": "2026-08-20"
   }
 ]
