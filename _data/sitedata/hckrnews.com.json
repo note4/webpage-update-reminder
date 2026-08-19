@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://ludens.cl/Electron/geiger2/geiger2.html",
+    "title": "[英] A portable, sensitive, low power, analog Geiger counter",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://inco.ai/blog/dflash2/",
     "title": "[英] DFlash 2: Keep Drafting Parallel",
     "date": "2026-08-20"
@@ -35,6 +40,11 @@
     "date": "2026-08-20"
   },
   {
+    "link": "https://router.com",
+    "title": "[英] Router by Ramp",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://whatever.scalzi.com/2026/08/19/daily-reminder-to-not-listen-to-googles-ai-overview/",
     "title": "[英] Daily Reminder to Not Listen to Google's AI Overview",
     "date": "2026-08-20"
@@ -42,11 +52,6 @@
   {
     "link": "https://arxiv.org/abs/2510.24491",
     "title": "[英] From Quantum Relative Entropy to the Semiclassical Einstein Equations",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://router.com",
-    "title": "[英] Ramp Launches a Model Router",
     "date": "2026-08-20"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/",
     "title": "[英] Rules of Good Social Skills (2025)",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-    "title": "[英] Unsloth Dynamic 3.0 GGUFs",
     "date": "2026-08-20"
   }
 ]
