@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://jumploops.com/blog/sol-loves-to-cheat/",
+    "title": "[英] Sol Loves to Cheat",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://github.com/BrightbeamAI/chap",
+    "title": "[英] Collaborative Human Agent Protocol (CHAP)",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://davidsmaynard.com/blog/keyset",
     "title": "[英] IDE Nostalgia (2022)",
     "date": "2026-08-20"
@@ -40,8 +50,8 @@
     "date": "2026-08-20"
   },
   {
-    "link": "https://www.amppublic.com/research/openrouter",
-    "title": "[英] You Probably Don't Get Why Stripe Bought OpenRouter",
+    "link": "https://news.ycombinator.com/item?id=49366225",
+    "title": "[英] undefined",
     "date": "2026-08-20"
   },
   {
@@ -55,23 +65,13 @@
     "date": "2026-08-20"
   },
   {
-    "link": "https://whatever.scalzi.com/2026/08/19/daily-reminder-to-not-listen-to-googles-ai-overview/",
-    "title": "[英] Daily Reminder to Not Listen to Google's AI Overview",
-    "date": "2026-08-20"
-  },
-  {
     "link": "https://arxiv.org/abs/2510.24491",
     "title": "[英] From Quantum Relative Entropy to the Semiclassical Einstein Equations (2025)",
     "date": "2026-08-20"
   },
   {
-    "link": "https://router.com",
-    "title": "[英] Router by Ramp",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-    "title": "[英] Pixel 11 Pro Fold feels like the end of an era",
+    "link": "https://whatever.scalzi.com/2026/08/19/daily-reminder-to-not-listen-to-googles-ai-overview/",
+    "title": "[英] Daily Reminder to Not Listen to Google's AI Overview",
     "date": "2026-08-20"
   }
 ]
