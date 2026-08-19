@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+    "title": "[英] Bun 1.4 Rust rewrite is not looking good",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
     "title": "[英] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
     "date": "2026-08-19"
@@ -67,11 +72,6 @@
   {
     "link": "https://capto.run",
     "title": "[英] Show HN: Capto – alerts when a background job goes quiet, with breadcrumbs",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://devin.ai/blog/gpt-5-6-sol-promo",
-    "title": "[英] GPT-5.6 Sol: 70% off in Devin",
     "date": "2026-08-19"
   }
 ]
