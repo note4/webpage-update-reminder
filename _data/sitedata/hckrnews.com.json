@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
+    "title": "[英] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://github.com/katiahayati/lucasartsifier/",
+    "title": "[英] Show HN: Automatically detect and patch walking-dead states in Sierra games",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=Co57SfcT-h0",
+    "title": "[英] Supersonic Trebuchet [video]",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/",
     "title": "[英] CUDA Shared Memory Swizzling",
     "date": "2026-08-19"
@@ -36,17 +51,17 @@
   },
   {
     "link": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-    "title": "[英] New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-    "title": "[英] Scientists stunned by children's lung recovery in ultra low emission zone",
+    "title": "[英] Sticky wage norms and the real wage cost of unexpected inflation",
     "date": "2026-08-19"
   },
   {
     "link": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
     "title": "[英] Tiny satellite will use the dark side of the Moon as a shield",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+    "title": "[英] Scientists stunned by children's lung recovery in ultra low emission zone",
     "date": "2026-08-19"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://devin.ai/blog/gpt-5-6-sol-promo",
     "title": "[英] GPT-5.6 Sol: 70% off in Devin",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://www.cerebras.ai/cs4",
-    "title": "[英] Cerebras CS-4",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
-    "title": "[英] Why crypto's best infrastructure companies stopped looking like crypto?",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://marketa.behdad.org/loft-day",
-    "title": "[英] Show HN: Loft Day – a wedding invitation turned point-and-click game",
     "date": "2026-08-19"
   }
 ]
