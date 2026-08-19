@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://github.com/onecli/onecli",
+    "title": "[英] Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.16753",
+    "title": "[英] Mathematics in the Age of AI",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://mazingamazingly.blogspot.com/2026/08/sea-turtle-sex-crisis-why-99-are-now.html",
+    "title": "[英] Sea Turtle Sex Crisis: Why 99% Are Now Female",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
+    "title": "[英] Civic Hygiene – avoid building technologies that could be used by a police state",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://ornith.ai/ornith_1_5.html",
+    "title": "[英] Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
     "title": "[英] New Casio F-B100W – Upgrade to the iconic F-91W after 40 years",
     "date": "2026-08-20"
@@ -47,31 +72,6 @@
   {
     "link": "https://github.com/DioxusLabs/taffy",
     "title": "[英] Taffy: A flexible, high-performance, cross-platform UI layout library",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-    "title": "[英] PostgreSQL for Everything",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49361322",
-    "title": "[英] undefined",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "[英] A joke domain purchase turned in geopolitical warfare",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://kolja.rs/algorithm-d/",
-    "title": "[英] A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://yassa9.github.io/osint/gralhix-004/",
-    "title": "[英] Geolocating a random island using geometry and CUDA programming",
     "date": "2026-08-20"
   }
 ]
