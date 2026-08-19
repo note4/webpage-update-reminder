@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.regehr.org/archives/2124",
+    "title": "[英] Looking for Missed Alarm Bugs in a Formal Verification Tool",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
     "title": "[英] Bun 1.4 Rust rewrite is not looking good",
     "date": "2026-08-19"
@@ -55,6 +60,11 @@
     "date": "2026-08-19"
   },
   {
+    "link": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+    "title": "[英] Scientists stunned by children's lung recovery in ultra low emission zone",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
     "title": "[英] Sticky wage norms and the real wage cost of unexpected inflation",
     "date": "2026-08-19"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
     "title": "[英] Tiny satellite will use the dark side of the Moon as a shield",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-    "title": "[英] Scientists stunned by children's lung recovery in ultra low emission zone",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://capto.run",
-    "title": "[英] Show HN: Capto – alerts when a background job goes quiet, with breadcrumbs",
     "date": "2026-08-19"
   }
 ]
