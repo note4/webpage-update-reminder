@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://os8088.com/spotlight/",
+    "title": "[英] Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://dogdogfish.com/blog/2026/08/19/digital-immortality/",
     "title": "[英] Digital Immortality",
     "date": "2026-08-20"
@@ -30,8 +35,8 @@
     "date": "2026-08-20"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=49366225",
-    "title": "[英] undefined",
+    "link": "https://www.amppublic.com/research/openrouter",
+    "title": "[英] You Probably Don't Get Why Stripe Bought OpenRouter",
     "date": "2026-08-20"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/",
     "title": "[英] Police officer used Flock cameras to track estranged wife 717 times",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-    "title": "[英] Google replaced Git tags for certain source code with obtaining via Google Drive",
     "date": "2026-08-20"
   }
 ]
