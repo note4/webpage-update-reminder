@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://kolja.rs/algorithm-d/",
+    "title": "[英] A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://yassa9.github.io/osint/gralhix-004/",
+    "title": "[英] Geolocating a random island using geometry and CUDA programming",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
     "title": "[英] GrapheneOS in 2027 available on high-end Motorola phones",
     "date": "2026-08-19"
@@ -62,16 +72,6 @@
   {
     "link": "https://password-generator.aaqa.dev/",
     "title": "[英] Show HN: Privacy focused client side password generator",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://incident.io/blog/we-turned-off-pub-sub-and-nobody-noticed",
-    "title": "[英] We turned off Pub/Sub and nobody noticed",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling",
-    "title": "[英] Japan's Gen X workers are struggling",
     "date": "2026-08-19"
   }
 ]
