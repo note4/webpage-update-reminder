@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://teadriven.com/blog/why-i-stopped-caring-about-terminology/",
+    "title": "[英] I stopped caring about programming terms",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
+    "title": "[英] That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b",
+    "title": "[英] The Integer",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
+    "title": "[英] Tiny satellite will use the dark side of the Moon as a shield",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
     "title": "[英] Scientists stunned by children's lung recovery in ultra low emission zone",
     "date": "2026-08-19"
@@ -7,11 +27,6 @@
   {
     "link": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
     "title": "[英] New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
-    "title": "[英] Tiny satellite will use the dark side of the Moon as a shield",
     "date": "2026-08-19"
   },
   {
@@ -26,7 +41,7 @@
   },
   {
     "link": "https://www.cerebras.ai/cs4",
-    "title": "[英] Cerebras CS4",
+    "title": "[英] Cerebras CS-4",
     "date": "2026-08-19"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://modelmap.cc",
     "title": "[英] Show HN: Interactive, animated architecture of any HuggingFace models",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://dl.acm.org/doi/10.1145/3828685",
-    "title": "[英] Programmable Property-Based Testing",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
-    "title": "[英] How a giant battery is transforming a town centre in Cannington, Ontario",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://linear.app/data",
-    "title": "[英] AI usage patterns in software teams",
     "date": "2026-08-19"
   }
 ]
