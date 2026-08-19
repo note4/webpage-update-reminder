@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/",
+    "title": "[英] Waymo is bringing Gemini into its custom Ojai vehicles.",
+    "date": "2026-08-20 01:30:00"
+  },
+  {
     "link": "https://blog.google/products/ads-commerce/the-small-brief/",
     "title": "[英] What 3 creatives built with unlimited access to Google Flow",
     "date": "2026-08-19 22:00:00"
@@ -65,13 +70,8 @@
     "date": "2026-08-12 22:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
-    "title": "[英] 7 can’t-miss updates from our Pixel 11 launch",
-    "date": "2026-08-12 22:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/",
-    "title": "[英] Made by Google 2026",
+    "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
+    "title": "[英] How we built the new GPS on Pixel Watch 5",
     "date": "2026-08-12 22:00:00"
   }
 ]

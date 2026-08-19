@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://demo.frugaltokens.com/",
+    "title": "[英] Show HN: Frugal Tokens – explore costs and usage across coding agents",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://ngrok.com/blog/probes",
     "title": "[英] How Kubernetes Probes Work",
     "date": "2026-08-20"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.empirical.health/blog/wearable-insulin-resistance/",
     "title": "[英] The science behind Pixel Watch's insulin resistance feature",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://github.com/vixhal-baraiya/microgpt-c",
-    "title": "[英] Microgpt in pure C hits 10M tps on Apple m5",
     "date": "2026-08-20"
   }
 ]
