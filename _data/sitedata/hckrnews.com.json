@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://ngrok.com/blog/probes",
+    "title": "[英] How Kubernetes Probes Work",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html",
     "title": "[英] A recipe for drone racing with reinforcement learning",
     "date": "2026-08-20"
@@ -67,11 +72,6 @@
   {
     "link": "https://github.com/vixhal-baraiya/microgpt-c",
     "title": "[英] Microgpt in pure C hits 10M tps on Apple m5",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://github.com/enthdegree/f100",
-    "title": "[英] Show HN: Nikon F100 Film Camera Repair Notes",
     "date": "2026-08-20"
   }
 ]
