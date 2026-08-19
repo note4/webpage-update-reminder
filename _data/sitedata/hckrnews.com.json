@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/",
+    "title": "[英] The 90-year history of the binoculars bolted to scenic overlooks",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://github.com/pg83/solo",
+    "title": "[英] Solo – a .so loader for static Linux binaries",
+    "date": "2026-08-19"
+  },
+  {
+    "link": "https://modelmap.cc",
+    "title": "[英] Show HN: Interactive, animated architecture of any HuggingFace models",
+    "date": "2026-08-19"
+  },
+  {
     "link": "https://dl.acm.org/doi/10.1145/3828685",
     "title": "[英] Programmable Property-Based Testing",
     "date": "2026-08-19"
@@ -57,21 +72,6 @@
   {
     "link": "https://www.secondcitycitation.com",
     "title": "[英] Find Chicago Parking Cops",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
-    "title": "[英] Companies promote incompetent employees to management to limit damage they do",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-    "title": "[英] Being ambitious and being a dad",
-    "date": "2026-08-19"
-  },
-  {
-    "link": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-    "title": "[英] Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
     "date": "2026-08-19"
   }
 ]
