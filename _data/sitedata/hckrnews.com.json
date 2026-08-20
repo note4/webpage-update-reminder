@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://arxiv.org/abs/2504.09762",
+    "title": "[英] Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://chrisburnell.com/html-can-do-that/",
+    "title": "[英] HTML Can Do That",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://cursor.com/blog/git-at-any-scale",
+    "title": "[英] Git at any scale",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.modular.com/blog/mojo-open-source",
+    "title": "[英] Mojo is now open source",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.salesforce.com/introducing-slack-code/?bc=HL",
+    "title": "[英] Slack Code",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49375164",
+    "title": "[英] undefined",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://xcancel.com/antibot/captcha",
+    "title": "[英] Rivian OS 2",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
+    "title": "[英] Xorg-Server 26.0.99.901",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://arxiv.org/abs/2601.00624",
+    "title": "[英] Do Chatbot LLMs Talk Too Much?",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/",
+    "title": "[英] Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://elliptic-rank.icarm.cloud/curve/273",
+    "title": "[英] An elliptic curve of rank ≥ 30",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/clyq011414eo",
+    "title": "[英] Harvest hikes bills by 1500% after purchased by Bending Spoons",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://bun.com/blog/bun-v1.4",
     "title": "[英] Bun 1.4",
     "date": "2026-08-20"
@@ -12,66 +72,6 @@
   {
     "link": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
     "title": "[英] Every Model Cheats",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://stwipe.com/",
-    "title": "[英] Stwipe Acquires OpenWouter",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-    "title": "[英] Hacking with Claude on a $27 Smart Watch",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
-    "title": "[英] An American Mosaic (interactive map of ancestry census data)",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/",
-    "title": "[英] I Spent Twenty Years Becoming Good at the Wrong Game",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://deadsimpleci.sparrowhub.io/doc/job-artifacts",
-    "title": "[英] CI jobs artifacts should not be difficult",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49374376",
-    "title": "[英] undefined",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.vibeleaderboard.ai/tools",
-    "title": "[英] Index of the best vibe coding tools",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
-    "title": "[英] Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.00146",
-    "title": "[英] DiffusionGemma Technical Report",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2",
-    "title": "[英] UK internet age checks have boosted rogue adult sites, says Pornhub",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://sokoban.grok.me/",
-    "title": "[英] Sokoban via Grok App Builder",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
-    "title": "[英] Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
     "date": "2026-08-20"
   }
 ]
