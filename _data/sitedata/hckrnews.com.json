@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+    "title": "[英] Windows brings out the Rorschach test in everyone",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://openai.com/index/asana/",
+    "title": "[英] Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/",
+    "title": "[英] Zuckerberg encouraged growth over child safety, ex-Meta executive testifies",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://github.com/cesarblum/sectorforth",
+    "title": "[英] Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
     "title": "[英] Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
     "date": "2026-08-20"
@@ -52,26 +72,6 @@
   {
     "link": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
     "title": "[英] Technical leaders should have the largest AI exhaust",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.bbc.com/travel/article/20260811-the-supermarket-is-becoming-a-tourist-attraction",
-    "title": "[英] Why travellers are obsessed with foreign supermarkets",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
-    "title": "[英] Gardner police discontinue Flock cameras as license plate readers face scrutiny",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/",
-    "title": "[英] The Future of CSS: Target Multiple Classes with the Class Prefix Selector",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://itsairborne.com/aluminum-frame-pc-fan-corsi-rosenthal-build-c28aa7ca8927",
-    "title": "[英] Aluminum Frame PC Fan Corsi-Rosenthal Build (2023)",
     "date": "2026-08-20"
   }
 ]
