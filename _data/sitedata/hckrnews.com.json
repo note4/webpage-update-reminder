@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://strn.cat/posts/spacetime/",
+    "title": "[英] SpacetimeDB: A Short Technical Review",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://tidalcycles.org/",
+    "title": "[英] Tidal Cycles – Live coding music with Algorithmic patterns",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+    "title": "[英] GitHub, autoscaling, and the component substitution fallacy",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
+    "title": "[英] Stop Eating Lady Gaga's Oreos",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+    "title": "[英] Why Aren't Smart People Happier?",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
     "title": "[英] The August 17 outage, and the work ahead",
     "date": "2026-08-21"
@@ -30,13 +55,13 @@
     "date": "2026-08-21"
   },
   {
-    "link": "https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/",
-    "title": "[英] What Is Reasoning",
+    "link": "https://github.com/truefoundry/trueforge",
+    "title": "[英] TrueForge – The open-source agent harness",
     "date": "2026-08-21"
   },
   {
-    "link": "https://github.com/truefoundry/trueforge",
-    "title": "[英] TrueForge – The open-source agent harness",
+    "link": "https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/",
+    "title": "[英] What Is Reasoning",
     "date": "2026-08-21"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
     "title": "[英] AI at Home Part 2: Multi-GPU Drifting",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49378036",
-    "title": "[英] undefined",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://github.com/volution/simple-console-editor",
-    "title": "[英] Show HN: sce (Simple Console Editor)",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
-    "title": "[英] Optimizing things in the USSR (2016)",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://jsomers.net/i-should-have-loved-biology/",
-    "title": "[英] I should have loved biology",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://bactra.org/notebooks/cybersyn.html",
-    "title": "[英] Project Cybersyn (2022)",
     "date": "2026-08-21"
   }
 ]
