@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+    "title": "[英] Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00137-4",
+    "title": "[英] Fossilisation processes and our reading of animal antiquity",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://strn.cat/posts/spacetime/",
     "title": "[英] SpacetimeDB: A Short Technical Review",
     "date": "2026-08-21"
@@ -16,7 +26,7 @@
   },
   {
     "link": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
-    "title": "[英] Stop Eating Lady Gaga's Oreos",
+    "title": "[英] Stop eating Lady Gaga's Oreos",
     "date": "2026-08-21"
   },
   {
@@ -55,23 +65,13 @@
     "date": "2026-08-21"
   },
   {
-    "link": "https://github.com/truefoundry/trueforge",
-    "title": "[英] TrueForge – The open-source agent harness",
-    "date": "2026-08-21"
-  },
-  {
     "link": "https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/",
     "title": "[英] What Is Reasoning",
     "date": "2026-08-21"
   },
   {
-    "link": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
-    "title": "[英] Scientific study reveals TikTok videos deactivate key cognitive brain regions",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-    "title": "[英] AI at Home Part 2: Multi-GPU Drifting",
+    "link": "https://github.com/truefoundry/trueforge",
+    "title": "[英] TrueForge – The open-source agent harness",
     "date": "2026-08-21"
   }
 ]
