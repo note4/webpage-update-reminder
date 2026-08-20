@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+    "title": "[英] Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/",
     "title": "[英] Rewriting in Rust",
     "date": "2026-08-20"
@@ -67,11 +72,6 @@
   {
     "link": "https://itsairborne.com/aluminum-frame-pc-fan-corsi-rosenthal-build-c28aa7ca8927",
     "title": "[英] Aluminum Frame PC Fan Corsi-Rosenthal Build (2023)",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://github.com/anthropics/claude-code/issues/6235",
-    "title": "[英] Feature Request: Support AGENTS.md",
     "date": "2026-08-20"
   }
 ]
