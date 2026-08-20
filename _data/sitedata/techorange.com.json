@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/08/20/moxa-ai-amr-agv/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Moxa 加速工業 AI 應用落地，強韌無線網路成智慧製造關鍵基礎設施",
+    "date": "2026-08-20 15:25:51"
+  },
+  {
+    "link": "https://techorange.com/2026/08/20/rockwell-automation-edge-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Edge AI 抓瑕疵、AI Agent 自動派工：洛克威爾自動化如何讓工廠從「看見問題」走向自主決策？",
+    "date": "2026-08-20 15:00:00"
+  },
+  {
     "link": "https://techorange.com/2026/08/20/speedyone-ibm-linuxone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "突破「一套系統一台主機」限制：百商推出 SpeedyOne，整合 IBM LinuxONE 實現金融交易系統集中部署",
     "date": "2026-08-20 14:50:05"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/08/19/openai-slows-ai-model-training/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "OpenAI 暫停部分前沿模型訓練：AI 安全為何開始影響研發速度？",
     "date": "2026-08-19 10:42:04"
-  },
-  {
-    "link": "https://techorange.com/2026/08/19/cerebras-unveils-cs-4/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "零件比前代少一半、推論最高快 30 倍：Cerebras 推 CS-4，讓 GPU 與專用晶片各自做擅長的事",
-    "date": "2026-08-19 10:40:53"
-  },
-  {
-    "link": "https://techorange.com/2026/08/19/zillow-pinterest-kohler-retail-media/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "提早搶進心智購物車：衛浴巨頭如何靠 Zillow×Pinterest「意向數據」卡位上游商機？",
-    "date": "2026-08-19 10:21:12"
   }
 ]

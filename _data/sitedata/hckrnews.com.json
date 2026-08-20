@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://engines.egr.uh.edu/episode/1495",
+    "title": "[英] The Chauffeur Problem",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
     "title": "[英] What's missing to have reproducible builds on PyPI",
     "date": "2026-08-20"
@@ -67,11 +72,6 @@
   {
     "link": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
     "title": "[英] Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://coca11272000.wixsite.com/manabukosaka",
-    "title": "[英] Manabu Kosaka's Handmade Paper Sculptures",
     "date": "2026-08-20"
   }
 ]
