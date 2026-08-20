@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/united-parks-of-america/",
+    "title": "[英] Take an interactive journey through America’s national parks",
+    "date": "2026-08-21 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/search/personalize-search-discover-news/",
+    "title": "[英] Personalize the content you see on Search, Discover, and News",
+    "date": "2026-08-21 00:00:00"
+  },
+  {
     "link": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/",
     "title": "[英] Make AI Max work for your business with new testing and planning tools.",
     "date": "2026-08-20 21:00:00"
@@ -63,15 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
     "title": "[英] Introducing Gemini 3.7 Flash",
     "date": "2026-08-14 01:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-    "title": "[英] Bring your spreadsheet data to life with Sheets canvas",
-    "date": "2026-08-14 00:45:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/",
-    "title": "[英] Stay present while taking pictures with Magic Capture on Pixel 11.",
-    "date": "2026-08-14 00:00:00"
   }
 ]
