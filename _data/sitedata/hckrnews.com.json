@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://bun.com/blog/bun-v1.4",
+    "title": "[英] Bun 1.4",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://hatchet.run/blog/andon-cord",
+    "title": "[英] Bufo pulls the andon cord",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+    "title": "[英] Every Model Cheats",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://stwipe.com/",
+    "title": "[英] Stwipe Acquires OpenWouter",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+    "title": "[英] Hacking with Claude on a $27 Smart Watch",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
+    "title": "[英] An American Mosaic (interactive map of ancestry census data)",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/",
+    "title": "[英] I Spent Twenty Years Becoming Good at the Wrong Game",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://deadsimpleci.sparrowhub.io/doc/job-artifacts",
+    "title": "[英] CI jobs artifacts should not be difficult",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49374376",
+    "title": "[英] undefined",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.vibeleaderboard.ai/tools",
+    "title": "[英] Index of the best vibe coding tools",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
+    "title": "[英] Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://arxiv.org/abs/2608.00146",
     "title": "[英] DiffusionGemma Technical Report",
     "date": "2026-08-20"
@@ -10,68 +65,13 @@
     "date": "2026-08-20"
   },
   {
-    "link": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
-    "title": "[英] Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
-    "date": "2026-08-20"
-  },
-  {
     "link": "https://sokoban.grok.me/",
     "title": "[英] Sokoban via Grok App Builder",
     "date": "2026-08-20"
   },
   {
-    "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-    "title": "[英] Malicious Rust Crate Arrayref Runs a Build-Time Payload",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://streambench.app",
-    "title": "[英] Show HN: Streambench – Native Mac Client for Kafka and NATS",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.trtworld.com/article/911b7ff6c075",
-    "title": "[英] Netherlands lists Israel as a threat to its national security for the first time",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
-    "title": "[英] Australia passes law to levy tech giants that fail to pay for local news",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-    "title": "[英] Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://risk-engineering.org/",
-    "title": "[英] Risk Engineering",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.sacredheartsc.com/blog/browser-de-slop/",
-    "title": "[英] Browser De-Slop",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
-    "title": "[英] Show HN: I trained a 125M model to autocomplete piano on-device",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://qdrant.tech/articles/filtered-vector-search-acorn/",
-    "title": "[英] Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
-    "title": "[英] Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-    "title": "[英] AI didn't erase the junior engineer's value, it increased it it",
+    "link": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
+    "title": "[英] Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
     "date": "2026-08-20"
   }
 ]
