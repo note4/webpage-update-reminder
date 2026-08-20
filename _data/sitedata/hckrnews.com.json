@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://medium.com/data-science-collective/i-analyzed-163k-lines-of-kuzus-codebase-here-s-why-apple-wanted-it-12294a7035fa",
+    "title": "[英] I Analyzed 163K Lines of Kuzu's Codebase. Here's Why Apple Wanted It",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
     "title": "[英] Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
     "date": "2026-08-21"
@@ -31,7 +36,7 @@
   },
   {
     "link": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-    "title": "[英] Why Aren't Smart People Happier?",
+    "title": "[英] Why aren't smart people happier? (2022)",
     "date": "2026-08-21"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/",
     "title": "[英] What Is Reasoning",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://github.com/truefoundry/trueforge",
-    "title": "[英] TrueForge – The open-source agent harness",
     "date": "2026-08-21"
   }
 ]
