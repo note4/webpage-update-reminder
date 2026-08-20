@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
+    "title": "[英] What's missing to have reproducible builds on PyPI",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
     "title": "[英] Windows brings out the Rorschach test in everyone",
     "date": "2026-08-20"
@@ -67,11 +72,6 @@
   {
     "link": "https://coca11272000.wixsite.com/manabukosaka",
     "title": "[英] Manabu Kosaka's Handmade Paper Sculptures",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
-    "title": "[英] Technical leaders should have the largest AI exhaust",
     "date": "2026-08-20"
   }
 ]
