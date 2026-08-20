@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://arxiv.org/abs/2608.00146",
+    "title": "[英] DiffusionGemma Technical Report",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2",
+    "title": "[英] UK internet age checks have boosted rogue adult sites, says Pornhub",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
+    "title": "[英] Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://sokoban.grok.me/",
+    "title": "[英] Sokoban via Grok App Builder",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+    "title": "[英] Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://streambench.app",
     "title": "[英] Show HN: Streambench – Native Mac Client for Kafka and NATS",
     "date": "2026-08-20"
@@ -20,13 +45,13 @@
     "date": "2026-08-20"
   },
   {
-    "link": "https://www.sacredheartsc.com/blog/browser-de-slop/",
-    "title": "[英] Browser De-Slop",
+    "link": "https://risk-engineering.org/",
+    "title": "[英] Risk Engineering",
     "date": "2026-08-20"
   },
   {
-    "link": "https://risk-engineering.org/",
-    "title": "[英] Risk Engineering",
+    "link": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+    "title": "[英] Browser De-Slop",
     "date": "2026-08-20"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
     "title": "[英] AI didn't erase the junior engineer's value, it increased it it",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html",
-    "title": "[英] YACS 2.0 – Yet Another Curta Simulator",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
-    "title": "[英] If this is true, the hyperscalers are toast",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-    "title": "[英] AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://v4-frontend.netiter.com/",
-    "title": "[英] Free v4 front end for your v6 site",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://github.com/safer-rust/RAPx",
-    "title": "[英] RAPx: A static analysis tool for Rust programs",
     "date": "2026-08-20"
   }
 ]
