@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://github.com/safer-rust/RAPx",
+    "title": "[英] RAPx: A static analysis tool for Rust programs",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://dontpastetheai.com/",
     "title": "[英] Don't Paste the AI, please",
     "date": "2026-08-20"
@@ -67,11 +72,6 @@
   {
     "link": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
     "title": "[英] Simulacra and Simulation",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://arxiv.org/abs/2007.13664",
-    "title": "[英] Universality of Gradient Descent Neural Network Training",
     "date": "2026-08-20"
   }
 ]
