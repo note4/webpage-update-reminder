@@ -1,7 +1,37 @@
 [
   {
-    "link": "https://bitflash.network/",
-    "title": "[英] Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX",
+    "link": "http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html",
+    "title": "[英] Seeking God in Science Part 10.5: The Mind-Body Problem (Take 2)",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://consumerrights.wiki/w/Main_Page",
+    "title": "[英] Consumer Rights Wiki",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/",
+    "title": "[英] What Is Reasoning",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://github.com/truefoundry/trueforge",
+    "title": "[英] TrueForge – The open-source agent harness",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+    "title": "[英] Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+    "title": "[英] AI at Home Part 2: Multi-GPU Drifting",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49378036",
+    "title": "[英] undefined",
     "date": "2026-08-21"
   },
   {
@@ -25,18 +55,13 @@
     "date": "2026-08-21"
   },
   {
-    "link": "https://github.com/paulsp94/omacosy",
-    "title": "[英] Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
-    "date": "2026-08-21"
-  },
-  {
     "link": "https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation",
     "title": "[英] The Defense-Tech Bubble Is Headed for Consolidation",
     "date": "2026-08-21"
   },
   {
-    "link": "https://atpr.to/",
-    "title": "[英] URL shortener links stored in your ATProto PDS",
+    "link": "https://github.com/paulsp94/omacosy",
+    "title": "[英] Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
     "date": "2026-08-21"
   },
   {
@@ -45,33 +70,8 @@
     "date": "2026-08-21"
   },
   {
-    "link": "https://medium.com/@pokhts/i-bought-the-most-expensive-cable-i-could-and-it-still-died-welcome-to-rs485-vs-1000v-dc-d9e73d31a607",
-    "title": "[英] I bought the most expensive cable I could find. It still died",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
-    "title": "[英] Sixtyfour (YC P25) Is Hiring",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-    "title": "[英] Linux 7.2",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://strawberry9.github.io/the-wrong-memory/Appendix_02.html",
-    "title": "[英] A theory for decades of C vulnerabilities",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://dominik.info/blog/go-generic-methods",
-    "title": "[英] Generic Methods in Go 1.27",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://www.justfuckinguseneovim.com/",
-    "title": "[英] Just Fucking Use Neovim",
+    "link": "https://atpr.to/",
+    "title": "[英] URL shortener links stored in your ATProto PDS",
     "date": "2026-08-21"
   }
 ]
