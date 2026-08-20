@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://streambench.app",
+    "title": "[英] Show HN: Streambench – Native Mac Client for Kafka and NATS",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.trtworld.com/article/911b7ff6c075",
+    "title": "[英] Netherlands lists Israel as a threat to its national security for the first time",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+    "title": "[英] Australia passes law to levy tech giants that fail to pay for local news",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+    "title": "[英] Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+    "title": "[英] Browser De-Slop",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://risk-engineering.org/",
+    "title": "[英] Risk Engineering",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
     "title": "[英] Show HN: I trained a 125M model to autocomplete piano on-device",
     "date": "2026-08-20"
@@ -42,36 +72,6 @@
   {
     "link": "https://github.com/safer-rust/RAPx",
     "title": "[英] RAPx: A static analysis tool for Rust programs",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://dontpastetheai.com/",
-    "title": "[英] Don't Paste the AI, please",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://engines.egr.uh.edu/episode/1495",
-    "title": "[英] The Chauffeur Problem",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
-    "title": "[英] What's missing to have reproducible builds on PyPI",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-    "title": "[英] Windows brings out the Rorschach test in everyone (2003)",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://openai.com/index/asana/",
-    "title": "[英] Asana cleared 5 years of engineering work in 2 weeks with Codex",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/",
-    "title": "[英] Zuckerberg encouraged growth over child safety, ex-Meta executive testifies",
     "date": "2026-08-20"
   }
 ]
