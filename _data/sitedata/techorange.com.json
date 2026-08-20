@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/08/20/technical-debt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【技術債吃掉 AI 投資報酬】企業砸錢導入 AI，卻因底層跑 20 年前的舊系統而難以兌現",
+    "date": "2026-08-20 09:38:42"
+  },
+  {
     "link": "https://techorange.com/2026/08/20/anthropic-openai-q2-revenue-nvidia-h200-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】Anthropic 單季營收首度超越 OpenAI，字節跳動、騰訊各獲約 1 萬顆 NVIDIA H200",
     "date": "2026-08-20 05:30:00"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/08/18/arm-cfo-eyes-deals-chip-building-bring-new-challenges/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 晶片客戶需求上看 20 億美元，Arm 卻得從零搶台積電與記憶體產能：從賣 IP 到自己賣晶片有多難？",
     "date": "2026-08-18 11:33:02"
-  },
-  {
-    "link": "https://techorange.com/2026/08/18/gss-cra-sbom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "CRA 漏洞與重大資安事件通報義務 9 月上路！叡揚資訊攜手電電公會 聚焦產品安全治理與合規落地",
-    "date": "2026-08-18 11:08:26"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
+    "title": "[英] Simulacra and Simulation",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://arxiv.org/abs/2007.13664",
+    "title": "[英] Universality of Gradient Descent Neural Network Training",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
+    "title": "[英] Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://coca11272000.wixsite.com/manabukosaka",
     "title": "[英] Manabu Kosaka's Handmade Paper Sculptures",
     "date": "2026-08-20"
@@ -57,21 +72,6 @@
   {
     "link": "https://dogdogfish.com/blog/2026/08/19/digital-immortality/",
     "title": "[英] Digital Immortality",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://ludens.cl/Electron/geiger2/geiger2.html",
-    "title": "[英] A portable, sensitive, low power, analog Geiger counter (2025)",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://inco.ai/blog/dflash2/",
-    "title": "[英] DFlash 2: Keep Drafting Parallel",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://pennypresses.net/home/map.php",
-    "title": "[英] Pressed Penny Machine Map",
     "date": "2026-08-20"
   }
 ]
