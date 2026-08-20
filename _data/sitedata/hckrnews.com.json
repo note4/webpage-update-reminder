@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+    "title": "[英] AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://v4-frontend.netiter.com/",
     "title": "[英] Free v4 front end for your v6 site",
     "date": "2026-08-20"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.benjoffe.com/fast-day-of-week",
     "title": "[英] A faster way to calculate the day of the week",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-    "title": "[英] Turns are Better than Radians (2022)",
     "date": "2026-08-20"
   }
 ]
