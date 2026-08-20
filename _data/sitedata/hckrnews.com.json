@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://andrewacomb.substack.com/p/a-tale-of-three-refunds",
+    "title": "[英] How do payments work in the US, China, and Brazil?",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.benjoffe.com/fast-day-of-week",
+    "title": "[英] A faster way to calculate the day of the week",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
     "title": "[英] Turns are Better than Radians",
     "date": "2026-08-20"
@@ -62,16 +72,6 @@
   {
     "link": "https://github.com/BrightbeamAI/chap",
     "title": "[英] Collaborative Human Agent Protocol (CHAP)",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://davidsmaynard.com/blog/keyset",
-    "title": "[英] IDE Nostalgia (2022)",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://os8088.com/spotlight/",
-    "title": "[英] Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
     "date": "2026-08-20"
   }
 ]
