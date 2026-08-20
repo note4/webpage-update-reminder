@@ -1,7 +1,22 @@
 [
   {
-    "link": "https://cognitus.grrn.io",
-    "title": "[英] Pursuit of AGI",
+    "link": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
+    "title": "[英] Speeding Up (Small) Ruby Hashes",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://ameliorate.app/",
+    "title": "[英] Ameliorate",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947",
+    "title": "[英] The Wonders of the Male Human Pelvis",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49380555",
+    "title": "[英] undefined",
     "date": "2026-08-21"
   },
   {
@@ -10,13 +25,13 @@
     "date": "2026-08-21"
   },
   {
-    "link": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
-    "title": "[英] Code as an Artifact",
+    "link": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+    "title": "[英] Citizen Devs: Everyone is an engineer now",
     "date": "2026-08-21"
   },
   {
-    "link": "https://www.massdriver.cloud/blogs/the-citizen-developer",
-    "title": "[英] Citizen Devs: Everyone is an engineer now",
+    "link": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+    "title": "[英] Code as an Artifact",
     "date": "2026-08-21"
   },
   {
@@ -35,13 +50,13 @@
     "date": "2026-08-21"
   },
   {
-    "link": "https://tidalcycles.org/",
-    "title": "[英] Tidal Cycles – Live coding music with Algorithmic patterns",
+    "link": "https://strn.cat/posts/spacetime/",
+    "title": "[英] SpacetimeDB: A Short Technical Review",
     "date": "2026-08-21"
   },
   {
-    "link": "https://strn.cat/posts/spacetime/",
-    "title": "[英] SpacetimeDB: A Short Technical Review",
+    "link": "https://tidalcycles.org/",
+    "title": "[英] Tidal Cycles – Live coding music with Algorithmic patterns",
     "date": "2026-08-21"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
     "title": "[英] Why aren't smart people happier? (2022)",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-    "title": "[英] The August 17 outage, and the work ahead",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://dl.acm.org/doi/10.1145/3759429.3762631",
-    "title": "[英] Gauguin, Descartes, Bayes: A Diurnal Golem's Brain",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://www.danielvaughn.dev/posts/huzzah/",
-    "title": "[英] Show HN: Huzzah – a novel approach to coding with AI",
     "date": "2026-08-21"
   }
 ]
