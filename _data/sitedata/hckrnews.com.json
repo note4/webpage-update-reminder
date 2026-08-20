@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+    "title": "[英] Error by AI scribe during medical appointment leaves patient devastated",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://andrewacomb.substack.com/p/a-tale-of-three-refunds",
     "title": "[英] How do payments work in the US, China, and Brazil?",
     "date": "2026-08-20"
@@ -67,11 +72,6 @@
   {
     "link": "https://jumploops.com/blog/sol-loves-to-cheat/",
     "title": "[英] Sol Loves to Cheat",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://github.com/BrightbeamAI/chap",
-    "title": "[英] Collaborative Human Agent Protocol (CHAP)",
     "date": "2026-08-20"
   }
 ]
