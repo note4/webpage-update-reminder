@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://v4-frontend.netiter.com/",
+    "title": "[英] Free v4 front end for your v6 site",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://github.com/safer-rust/RAPx",
     "title": "[英] RAPx: A static analysis tool for Rust programs",
     "date": "2026-08-20"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
     "title": "[英] Turns are Better than Radians (2022)",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
-    "title": "[英] Simulacra and Simulation",
     "date": "2026-08-20"
   }
 ]
