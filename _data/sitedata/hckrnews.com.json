@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://cognitus.grrn.io",
+    "title": "[英] Pursuit of AGI",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
     "title": "[英] Scientists Release Biggest 2D Map of the Universe",
     "date": "2026-08-21"
@@ -30,13 +35,13 @@
     "date": "2026-08-21"
   },
   {
-    "link": "https://strn.cat/posts/spacetime/",
-    "title": "[英] SpacetimeDB: A Short Technical Review",
+    "link": "https://tidalcycles.org/",
+    "title": "[英] Tidal Cycles – Live coding music with Algorithmic patterns",
     "date": "2026-08-21"
   },
   {
-    "link": "https://tidalcycles.org/",
-    "title": "[英] Tidal Cycles – Live coding music with Algorithmic patterns",
+    "link": "https://strn.cat/posts/spacetime/",
+    "title": "[英] SpacetimeDB: A Short Technical Review",
     "date": "2026-08-21"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://www.danielvaughn.dev/posts/huzzah/",
     "title": "[英] Show HN: Huzzah – a novel approach to coding with AI",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://kandelo.dev/20260819-demo/",
-    "title": "[英] Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
     "date": "2026-08-21"
   }
 ]
