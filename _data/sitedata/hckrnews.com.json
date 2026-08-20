@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.maayanroth.com/blog/posts/hundred-page-lm-book-chapter-2.html",
+    "title": "[英] In Which I Lose My Mind over Embeddings (HPLM Chapter 2)",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
     "title": "[英] Detecting scraper bots through scroll behaviour",
     "date": "2026-08-21"
@@ -30,13 +35,13 @@
     "date": "2026-08-21"
   },
   {
-    "link": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
-    "title": "[英] Code as an Artifact",
+    "link": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+    "title": "[英] Citizen Devs: Everyone is an engineer now",
     "date": "2026-08-21"
   },
   {
-    "link": "https://www.massdriver.cloud/blogs/the-citizen-developer",
-    "title": "[英] Citizen Devs: Everyone is an engineer now",
+    "link": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+    "title": "[英] Code as an Artifact",
     "date": "2026-08-21"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
     "title": "[英] GitHub, autoscaling, and the component substitution fallacy",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
-    "title": "[英] Stop eating Lady Gaga's Oreos",
     "date": "2026-08-21"
   }
 ]
