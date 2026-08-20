@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+    "title": "[英] Scientists Release Biggest 2D Map of the Universe",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+    "title": "[英] Code as an Artifact",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+    "title": "[英] Citizen Devs: Everyone is an engineer now",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://medium.com/data-science-collective/i-analyzed-163k-lines-of-kuzus-codebase-here-s-why-apple-wanted-it-12294a7035fa",
     "title": "[英] I Analyzed 163K Lines of Kuzu's Codebase. Here's Why Apple Wanted It",
     "date": "2026-08-21"
@@ -57,21 +72,6 @@
   {
     "link": "https://kandelo.dev/20260819-demo/",
     "title": "[英] Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html",
-    "title": "[英] Seeking God in Science Part 10.5: The Mind-Body Problem (Take 2)",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://consumerrights.wiki/w/Main_Page",
-    "title": "[英] Consumer Rights Wiki",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/",
-    "title": "[英] What Is Reasoning",
     "date": "2026-08-21"
   }
 ]
