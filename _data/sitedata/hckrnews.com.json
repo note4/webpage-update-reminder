@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+    "title": "[英] Sixtyfour (YC P25) Is Hiring",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+    "title": "[英] Linux 7.2 Released",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://strawberry9.github.io/the-wrong-memory/Appendix_02.html",
     "title": "[英] A theory for decades of C vulnerabilities",
     "date": "2026-08-21"
@@ -45,13 +55,13 @@
     "date": "2026-08-21"
   },
   {
-    "link": "https://marekfiser.com/blog/double-double-arithmetic/",
-    "title": "[英] Double-double: 31 digits of precision without leaving the FPU",
+    "link": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+    "title": "[英] CIA funding helped keep NeXT afloat in the 80s",
     "date": "2026-08-21"
   },
   {
-    "link": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-    "title": "[英] CIA funding helped keep NeXT afloat in the 80s",
+    "link": "https://marekfiser.com/blog/double-double-arithmetic/",
+    "title": "[英] Double-double: 31 digits of precision without leaving the FPU",
     "date": "2026-08-21"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://zoneless.com",
     "title": "[英] Show HN: Open-source Stripe Connect alternative",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
-    "title": "[英] Theory of Fluids Enters the 21st Century",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://pub.doub.ly/",
-    "title": "[英] Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
     "date": "2026-08-21"
   }
 ]
