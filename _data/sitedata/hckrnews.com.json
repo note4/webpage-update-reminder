@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://dontpastetheai.com/",
+    "title": "[英] Don't Paste the AI, please",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://engines.egr.uh.edu/episode/1495",
     "title": "[英] The Chauffeur Problem",
     "date": "2026-08-20"
@@ -67,11 +72,6 @@
   {
     "link": "https://arxiv.org/abs/2007.13664",
     "title": "[英] Universality of Gradient Descent Neural Network Training",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
-    "title": "[英] Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
     "date": "2026-08-20"
   }
 ]
