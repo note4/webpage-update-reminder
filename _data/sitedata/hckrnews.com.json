@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://github.com/runvendo/vendo",
+    "title": "[英] Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+    "title": "[英] Anti-AI fonts are useless and harmful",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://github.com/zachahn/vomit",
+    "title": "[英] Clean up Claude 5's token vomit with a separate LLM",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.experimental-history.com/p/i-like-em-thick",
+    "title": "[英] I like 'em thick: an apology to my English teachers",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+    "title": "[英] CIA funding helped keep NeXT afloat in the 80s",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://marekfiser.com/blog/double-double-arithmetic/",
+    "title": "[英] Double-double: 31 digits of precision without leaving the FPU",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://tomarigi.me/",
+    "title": "[英] Nearly 1,400 live streams from Japan",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://zoneless.com",
+    "title": "[英] Show HN: Open-source Stripe Connect alternative",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
+    "title": "[英] Theory of Fluids Enters the 21st Century",
+    "date": "2026-08-20"
+  },
+  {
+    "link": "https://pub.doub.ly/",
+    "title": "[英] Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://arxiv.org/abs/2504.09762",
     "title": "[英] Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
     "date": "2026-08-20"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.salesforce.com/introducing-slack-code/?bc=HL",
     "title": "[英] Slack Code",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49375164",
-    "title": "[英] undefined",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://xcancel.com/antibot/captcha",
-    "title": "[英] Rivian OS 2",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
-    "title": "[英] Xorg-Server 26.0.99.901",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://arxiv.org/abs/2601.00624",
-    "title": "[英] Do Chatbot LLMs Talk Too Much?",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/",
-    "title": "[英] Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://elliptic-rank.icarm.cloud/curve/273",
-    "title": "[英] An elliptic curve of rank ≥ 30",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/clyq011414eo",
-    "title": "[英] Harvest hikes bills by 1500% after purchased by Bending Spoons",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://bun.com/blog/bun-v1.4",
-    "title": "[英] Bun 1.4",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://hatchet.run/blog/andon-cord",
-    "title": "[英] Bufo pulls the andon cord",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-    "title": "[英] Every Model Cheats",
     "date": "2026-08-20"
   }
 ]
