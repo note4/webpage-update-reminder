@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://bitflash.network/",
+    "title": "[英] Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://github.com/volution/simple-console-editor",
+    "title": "[英] Show HN: sce (Simple Console Editor)",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
+    "title": "[英] Optimizing things in the USSR (2016)",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://bactra.org/notebooks/cybersyn.html",
+    "title": "[英] Project Cybersyn",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://jsomers.net/i-should-have-loved-biology/",
+    "title": "[英] I should have loved biology",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://github.com/paulsp94/omacosy",
     "title": "[英] Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
     "date": "2026-08-21"
@@ -31,7 +56,7 @@
   },
   {
     "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-    "title": "[英] Linux 7.2 Released",
+    "title": "[英] Linux 7.2",
     "date": "2026-08-21"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://www.justfuckinguseneovim.com/",
     "title": "[英] Just Fucking Use Neovim",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-    "title": "[英] How to compromise your system with a job interview",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://alex-jacobs.com/posts/claudemd/",
-    "title": "[英] I Am Morally Opposed to Updating My Claude.md",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://github.com/runvendo/vendo",
-    "title": "[英] Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-    "title": "[英] Anti-AI fonts are useless and harmful",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://github.com/zachahn/vomit",
-    "title": "[英] Clean up Claude 5's token vomit with a separate LLM",
     "date": "2026-08-21"
   }
 ]
