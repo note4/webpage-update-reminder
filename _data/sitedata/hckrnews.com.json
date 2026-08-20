@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+    "title": "[英] AI didn't erase the junior engineer's value, it increased it it",
+    "date": "2026-08-20"
+  },
+  {
     "link": "https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html",
     "title": "[英] YACS 2.0 – Yet Another Curta Simulator",
     "date": "2026-08-20"
@@ -67,11 +72,6 @@
   {
     "link": "https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/",
     "title": "[英] Rewriting in Rust",
-    "date": "2026-08-20"
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
-    "title": "[英] Error by AI scribe during medical appointment leaves patient devastated",
     "date": "2026-08-20"
   }
 ]
