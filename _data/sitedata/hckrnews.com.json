@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://api-docs.deepseek.com/guides/vision/",
+    "title": "[英] DeepSeek-v4-flash-vision-exp",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://changyi.fun/posts/attention-arithmetic-intensity/",
     "title": "[英] Attention Through Arithmetic Intensity",
     "date": "2026-08-21"
@@ -67,11 +72,6 @@
   {
     "link": "https://tyoverby.com/posts/version-control-for-everything-else/",
     "title": "[英] Version Control for Everything",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-    "title": "[英] The Religious Experience of Philip K. Dick by R. Crumb (1986)",
     "date": "2026-08-21"
   }
 ]
