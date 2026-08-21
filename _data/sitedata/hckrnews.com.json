@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+    "title": "[英] How We Made a Text-to-Speech Model Respond in Sub-50 ms",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
+    "title": "[英] I came to write THAT paper with Leslie Lamport",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
+    "title": "[英] Code Obfuscation via Local Mixing",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://www.felonybench.com/",
+    "title": "[英] Felony Bench",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504",
+    "title": "[英] Cancer-Related Mortality Among US Pilots and Flight Attendants",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+    "title": "[英] Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://canews24.online/?p=71",
+    "title": "[英] AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://xnacly.me/posts/2026/making-stinkarm-stink-less/",
+    "title": "[英] Making stinkarm stink less, or more?",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://github.com/kulikov0/desktop-vibe-fly",
+    "title": "[英] Show HN: A desktop fly drawn to the scent of vibecode",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://www.winonapost.com/news/wpd-wont-replace-stolen-flock-cameras-citing-public-trust/article_06a67859-2d97-414b-aa8f-d8751ad214bb.html",
     "title": "[英] WPD won't replace stolen Flock cameras, citing public trust",
-    "date": "2026-08-21"
+    "date": "2026-08-22"
   },
   {
     "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
     "title": "[英] Zig's Io.Threaded Is Neat",
-    "date": "2026-08-21"
+    "date": "2026-08-22"
   },
   {
     "link": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
     "title": "[英] The B-right/V R2 Operating System",
-    "date": "2026-08-21"
+    "date": "2026-08-22"
   },
   {
     "link": "https://caligra.com/c100/",
     "title": "[英] c100",
-    "date": "2026-08-21"
+    "date": "2026-08-22"
   },
   {
     "link": "https://blog.coredump.cx/p/getting-silly-with-c-part-and-int1",
     "title": "[英] Getting silly with C, part and((int*)-8)[3]",
-    "date": "2026-08-21"
+    "date": "2026-08-22"
   },
   {
     "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
     "title": "[英] Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://www.theguardian.com/books/2026/aug/10/john-berger-from-life-by-tom-overton-review-a-vibrant-biography-of-the-pioneering-critic",
-    "title": "[英] John Berger: From Life by Tom Overton review – a vibrant biography",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://www.futilitycloset.com/2026/08/10/nothing-doing-12/",
-    "title": "[英] Nothing Doing",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49386884",
-    "title": "[英] undefined",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/",
-    "title": "[英] Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/",
-    "title": "[英] AI;DR or Don't be a meat proxy",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
-    "title": "[英] The road to ACID transactions in Cassandra 6",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://blog.8ball.space/what-we-lost-when-search/",
-    "title": "[英] What We Lost When Search Stopped Making Us Think",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://github.com/baturyilmaz/agent-office",
-    "title": "[英] Show HN: Agent Office (Slack for AI Agents) – Similar to Grok Bot but older",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
-    "title": "[英] DuckDB V2 PEG-based SQL parser",
-    "date": "2026-08-21"
+    "date": "2026-08-22"
   }
 ]
