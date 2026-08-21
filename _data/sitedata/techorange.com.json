@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/08/21/terrapower-natrium/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "GPU 負載劇烈波動，TerraPower 如何讓核能同時做到穩定與快速調度？",
+    "date": "2026-08-21 15:00:00"
+  },
+  {
     "link": "https://techorange.com/2026/08/21/salesforce-slack-code-agentic-team-coding/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Salesforce 推 Slack Code：AI 不再只拚個人生產力，把寫程式搬進聊天頻道",
     "date": "2026-08-21 14:09:54"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/08/20/rockwell-automation-edge-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Edge AI 抓瑕疵、AI Agent 自動派工：洛克威爾自動化如何讓工廠從「看見問題」走向自主決策？",
     "date": "2026-08-20 15:00:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/20/speedyone-ibm-linuxone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "突破「一套系統一台主機」限制：百商推出 SpeedyOne，整合 IBM LinuxONE 實現金融交易系統集中部署",
-    "date": "2026-08-20 14:50:05"
   }
 ]
