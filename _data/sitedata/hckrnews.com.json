@@ -1,17 +1,27 @@
 [
   {
+    "link": "https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html",
+    "title": "[英] Church of the TigerBeetle: A Look at Tech Evangelism",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "title": "[英] Quick impressions: A week of using Codex more than Claude",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://monocyte.blog/using-an-old-android-phone-as-a-music-player/",
     "title": "[英] Using an old Android phone as a music player",
     "date": "2026-08-22"
   },
   {
-    "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-    "title": "[英] Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+    "link": "https://www.jank.cool/death-to-the-self-playing-game/",
+    "title": "[英] Death to the Self-Playing Game",
     "date": "2026-08-22"
   },
   {
-    "link": "https://www.jank.cool/death-to-the-self-playing-game/",
-    "title": "[英] Death to the Self-Playing Game",
+    "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+    "title": "[英] Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
     "date": "2026-08-22"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://bastian.rieck.me/blog/2026/unix/",
     "title": "[英] LLMs are proof that Unix won",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://pointinthecloud.com/2026-08-19-144600.html",
-    "title": "[英] I ran Photoshop on a £0.60 computer chip",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-    "title": "[英] AI boosted homework scores, then exam scores dropped: study",
     "date": "2026-08-22"
   }
 ]
