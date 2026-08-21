@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.winonapost.com/news/wpd-wont-replace-stolen-flock-cameras-citing-public-trust/article_06a67859-2d97-414b-aa8f-d8751ad214bb.html",
+    "title": "[英] WPD won't replace stolen Flock cameras, citing public trust",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+    "title": "[英] Zig's Io.Threaded Is Neat",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
+    "title": "[英] The B-right/V R2 Operating System",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://caligra.com/c100/",
+    "title": "[英] c100",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://blog.coredump.cx/p/getting-silly-with-c-part-and-int1",
+    "title": "[英] Getting silly with C, part and((int*)-8)[3]",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
     "title": "[英] Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
     "date": "2026-08-21"
@@ -40,38 +65,13 @@
     "date": "2026-08-21"
   },
   {
-    "link": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-    "title": "[英] We are living in a version of the future out of J.G. Ballard or William Gibson",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html",
-    "title": "[英] Yes/No/Cancel causes Aspirin sales to soar",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
-    "title": "[英] DuckDB V2 PEG-based SQL parser",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://lina.sh/blog/hijacking-e164-arpa",
-    "title": "[英] I accidentally logged phone calls to military bases",
-    "date": "2026-08-21"
-  },
-  {
     "link": "https://github.com/baturyilmaz/agent-office",
     "title": "[英] Show HN: Agent Office (Slack for AI Agents) – Similar to Grok Bot but older",
     "date": "2026-08-21"
   },
   {
-    "link": "https://www.guidavid.com/writing/convite",
-    "title": "[英] Convite",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
-    "title": "[英] What Happens When the Cost of Intelligence Drops 100x",
+    "link": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
+    "title": "[英] DuckDB V2 PEG-based SQL parser",
     "date": "2026-08-21"
   }
 ]
