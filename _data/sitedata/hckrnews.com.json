@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://github.com/openai/codex/issues/37674",
+    "title": "[英] Codex on AWS bedrock bug causing 10x charges",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://www.zilog.com/captain_zilog/",
     "title": "[英] Captain Zilog",
     "date": "2026-08-21"
@@ -41,7 +46,7 @@
   },
   {
     "link": "https://openrouter.ai/stealth/ox-alpha",
-    "title": "[英] Stealth Model",
+    "title": "[英] Ox Alpha",
     "date": "2026-08-21"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
     "title": "[英] Speeding Up (Small) Ruby Hashes",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://ameliorate.app/",
-    "title": "[英] Ameliorate",
     "date": "2026-08-21"
   }
 ]

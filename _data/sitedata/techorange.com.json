@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/08/21/2026automation-datasystems-aiot-agent-space/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "串聯企業營運數據與 AIoT 設備控制，鼎新 Agent Space 讓 AI Agent 深入製造現場",
+    "date": "2026-08-21 11:51:49"
+  },
+  {
+    "link": "https://techorange.com/2026/08/21/2026-automation-delta-nvidia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "2026 自動化展台達具身智能雙臂協作平台展現AI 自主作業能力",
+    "date": "2026-08-21 11:21:19"
+  },
+  {
+    "link": "https://techorange.com/2026/08/21/ezaqua-2026-tie-detachable-smart-aquacultureunmannedboatsystem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "「科技沒有離想像中遙遠。」豐漁水產智慧無人養殖船，如何從雲林魚塭走向日本？",
+    "date": "2026-08-21 11:06:14"
+  },
+  {
+    "link": "https://techorange.com/2026/08/21/waymo-has-built-a-custom-chip-for-its-robotaxis/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "算力 8 年提升 20 倍還不夠：Waymo 如何用自研 ASIC、液冷與雙晶片備援，把「資料中心級 AI」搬上車？",
+    "date": "2026-08-21 10:59:09"
+  },
+  {
     "link": "https://techorange.com/2026/08/21/vcs-pour-billions-into-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Physical AI 半年吸金 474 億美元：軟體創投為何開始改押實體世界？",
     "date": "2026-08-21 10:06:32"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/08/20/netapp-pqc-hndl-user-behavior/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "對抗「先竊取，後解密」，NetApp 解析：PQC＋行為分析如何助企業構築寶貴資料的抗量子防線",
     "date": "2026-08-20 11:51:51"
-  },
-  {
-    "link": "https://techorange.com/2026/08/20/marvell-google-broadcom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Marvell 願拿股權換 Google 大單，Broadcom 為何可能不跟進？AI 客製晶片競爭規則正在改寫",
-    "date": "2026-08-20 10:52:37"
-  },
-  {
-    "link": "https://techorange.com/2026/08/20/gap-ai-agentic-commerce-gemini/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Gap 把結帳搬進 Gemini：不必跳回官網，服飾電商的獲客規則正被改寫",
-    "date": "2026-08-20 10:11:49"
-  },
-  {
-    "link": "https://techorange.com/2026/08/20/technical-debt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【技術債吃掉 AI 投資報酬】企業砸錢導入 AI，卻因底層跑 20 年前的舊系統而難以兌現",
-    "date": "2026-08-20 09:38:42"
-  },
-  {
-    "link": "https://techorange.com/2026/08/20/anthropic-openai-q2-revenue-nvidia-h200-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】Anthropic 單季營收首度超越 OpenAI，字節跳動、騰訊各獲約 1 萬顆 NVIDIA H200",
-    "date": "2026-08-20 05:30:00"
   }
 ]
