@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.geekdot.com/siemens-pc-x/",
+    "title": "[英] Siemens PC-X (2015)",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+    "title": "[英] Felony charges for citizen deleting phone data at US Border",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://github.com/yaroslav/kino",
     "title": "[英] Kino: A high-performance Ractor web server for Ruby 4.0",
     "date": "2026-08-21"
@@ -62,16 +72,6 @@
   {
     "link": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
     "title": "[英] The Lost Treasure of Sid Meier's Pirates",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://encore.dev/blog/firecracker-apple-silicon",
-    "title": "[英] We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://petewarden.com/2026/08/15/why-i-ported-moonshine-to-javascript/",
-    "title": "[英] I Ported Moonshine to JavaScript",
     "date": "2026-08-21"
   }
 ]
