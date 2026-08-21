@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+    "title": "[英] LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://bandarlabs.github.io/Cobalt/",
+    "title": "[英] Kobo can run apps now",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+    "title": "[英] A self hosted AI software factory",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix",
+    "title": "[英] Three ways to smuggle SQLite into Nix",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+    "title": "[英] What happens when a GPU reads memory",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://passo.uno/if-you-are-an-agent-read-this/",
+    "title": "[英] Does whispering to agents in docs help?",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://www.0xsid.com/blog/just-want-to-search",
     "title": "[英] I Just Want to Search",
     "date": "2026-08-22"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.felonybench.com/",
     "title": "[英] Felony Bench",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
-    "title": "[英] Code Obfuscation via Local Mixing",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
-    "title": "[英] Show HN: AgentSight – eBPF observability for AI agents, no code changes",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504",
-    "title": "[英] Cancer-Related Mortality Among US Pilots and Flight Attendants",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://canews24.online/?p=71",
-    "title": "[英] AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://xnacly.me/posts/2026/making-stinkarm-stink-less/",
-    "title": "[英] Making stinkarm stink less, or more?",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://github.com/kulikov0/desktop-vibe-fly",
-    "title": "[英] Show HN: A desktop fly drawn to the scent of vibecode",
     "date": "2026-08-22"
   }
 ]

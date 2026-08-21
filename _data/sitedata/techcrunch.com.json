@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
+    "title": "[英] Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+    "date": "2026-08-22 00:53:39"
+  },
+  {
     "link": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
     "title": "[英] US government lab is probing Chinese lidar for security vulnerabilities",
     "date": "2026-08-22 00:01:54"
@@ -68,10 +73,5 @@
     "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
     "title": "[英] OK, can we actually cool data centers with our pee?",
     "date": "2026-08-21 04:53:13"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
-    "title": "[英] Someone targeted security researchers using a fake crypto conference as a lure",
-    "date": "2026-08-21 04:00:00"
   }
 ]
