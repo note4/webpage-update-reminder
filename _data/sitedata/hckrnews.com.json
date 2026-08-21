@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://htmlcat.net/",
+    "title": "[英] Small, native web tricks worth remembering",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
     "title": "[英] Better Batteries",
     "date": "2026-08-21"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
     "title": "[英] Japan tried to build an operating system for the world, the US intervened",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://www.harperflow.io/dead-internet/quora-collapse",
-    "title": "[英] The Quora Collapse",
     "date": "2026-08-21"
   }
 ]
