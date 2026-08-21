@@ -1,7 +1,47 @@
 [
   {
+    "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+    "title": "[英] Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://www.theguardian.com/books/2026/aug/10/john-berger-from-life-by-tom-overton-review-a-vibrant-biography-of-the-pioneering-critic",
+    "title": "[英] John Berger: From Life by Tom Overton review – a vibrant biography",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://www.futilitycloset.com/2026/08/10/nothing-doing-12/",
+    "title": "[英] Nothing Doing",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49386884",
+    "title": "[英] undefined",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/",
+    "title": "[英] Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/",
+    "title": "[英] AI;DR or Don't be a meat proxy",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
+    "title": "[英] The road to ACID transactions in Cassandra 6",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://blog.8ball.space/what-we-lost-when-search/",
     "title": "[英] What We Lost When Search Stopped Making Us Think",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+    "title": "[英] We are living in a version of the future out of J.G. Ballard or William Gibson",
     "date": "2026-08-21"
   },
   {
@@ -10,8 +50,8 @@
     "date": "2026-08-21"
   },
   {
-    "link": "https://github.com/baturyilmaz/agent-office",
-    "title": "[英] Show HN: Agent Office (Slack for AI Agents) – Similar to Grok Bot but older",
+    "link": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
+    "title": "[英] DuckDB V2 PEG-based SQL parser",
     "date": "2026-08-21"
   },
   {
@@ -20,13 +60,8 @@
     "date": "2026-08-21"
   },
   {
-    "link": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
-    "title": "[英] DuckDB V2 PEG-based SQL parser",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-    "title": "[英] We are living in a version of the future out of J.G. Ballard or William Gibson",
+    "link": "https://github.com/baturyilmaz/agent-office",
+    "title": "[英] Show HN: Agent Office (Slack for AI Agents) – Similar to Grok Bot but older",
     "date": "2026-08-21"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
     "title": "[英] What Happens When the Cost of Intelligence Drops 100x",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c9d8z72nn02o",
-    "title": "[英] US debt has hit $40tn - Will that be a wake-up call?",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://plabayo.tech/blog/rama-0-4",
-    "title": "[英] Rama 0.4: System proxy and PAC support",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-    "title": "[英] Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://kagi.com/changelog#11296",
-    "title": "[英] Kagi added a setting for removing paywalled links from search results",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://twitter.com/NVIDIAAI/status/2090786258981466231",
-    "title": "[英] Nvidia AVO scores 100% on the ARC-AGI-3 interactive reasoning benchmark",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.18214",
-    "title": "[英] Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
-    "title": "[英] Four Levels of In-Place Initialization (Rust)",
     "date": "2026-08-21"
   }
 ]
