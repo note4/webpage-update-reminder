@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.harperflow.io/dead-internet/quora-collapse",
+    "title": "[英] The Quora Collapse",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://stochastic.blog/hard-problems-and-heuristic-answers/",
     "title": "[英] Hard Problems and Heuristic Answers",
     "date": "2026-08-21"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.maayanroth.com/blog/posts/hundred-page-lm-book-chapter-2.html",
     "title": "[英] In Which I Lose My Mind over Embeddings (HPLM Chapter 2)",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
-    "title": "[英] Detecting scraper bots through scroll behaviour",
     "date": "2026-08-21"
   }
 ]
