@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://stochastic.blog/hard-problems-and-heuristic-answers/",
+    "title": "[英] Hard Problems and Heuristic Answers",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://github.com/openai/codex/issues/37674",
     "title": "[英] Codex on AWS bedrock bug causing 10x charges",
     "date": "2026-08-21"
@@ -67,11 +72,6 @@
   {
     "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
     "title": "[英] Detecting scraper bots through scroll behaviour",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
-    "title": "[英] Speeding Up (Small) Ruby Hashes",
     "date": "2026-08-21"
   }
 ]
