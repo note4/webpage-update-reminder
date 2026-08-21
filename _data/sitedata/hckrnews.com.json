@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://monocyte.blog/using-an-old-android-phone-as-a-music-player/",
+    "title": "[英] Using an old Android phone as a music player",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+    "title": "[英] Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://www.jank.cool/death-to-the-self-playing-game/",
+    "title": "[英] Death to the Self-Playing Game",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://tumbleforth.hardcoded.net/",
+    "title": "[英] Tumble Forth – from assembly to OS with C compiler",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
+    "title": "[英] Volcanoes That Made History",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
     "title": "[英] People of ACM – Russ Cox",
     "date": "2026-08-22"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
     "title": "[英] AI boosted homework scores, then exam scores dropped: study",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
-    "title": "[英] When the shortage is the strategy",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341456",
-    "title": "[英] Quantifying the honey bee dance floor",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
-    "title": "[英] New York’s office market is home to the most tech workers: CBRE report",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://github.com/aravpanwar/decayfmt",
-    "title": "[英] Decayfmt – a file format that corrupts itself a little every time you open it",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
-    "title": "[英] Rebuilding our Electron meeting-recording engine in Swift",
     "date": "2026-08-22"
   }
 ]
