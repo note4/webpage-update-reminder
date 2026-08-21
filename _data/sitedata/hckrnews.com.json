@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
+    "title": "[英] Better Batteries",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
+    "title": "[英] Flat Chair by Sara Paculdo",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY",
     "title": "[英] Emacs 31.1 will release on 8/24",
     "date": "2026-08-21"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.harperflow.io/dead-internet/quora-collapse",
     "title": "[英] The Quora Collapse",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://stochastic.blog/hard-problems-and-heuristic-answers/",
-    "title": "[英] Hard Problems and Heuristic Answers",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://github.com/openai/codex/issues/37674",
-    "title": "[英] Codex on AWS bedrock bug causing 10x charges",
     "date": "2026-08-21"
   }
 ]
