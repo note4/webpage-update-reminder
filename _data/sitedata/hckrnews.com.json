@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
+    "title": "[英] Paul Atkins Misreads Adam Smith and the American Founding",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://matklad.github.io/2026/08/21/rust-glancer.html",
     "title": "[英] Rust Glancer",
     "date": "2026-08-22"
@@ -55,23 +60,18 @@
     "date": "2026-08-22"
   },
   {
-    "link": "https://www.jank.cool/death-to-the-self-playing-game/",
-    "title": "[英] Death to the Self-Playing Game",
-    "date": "2026-08-22"
-  },
-  {
     "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
     "title": "[英] Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
     "date": "2026-08-22"
   },
   {
-    "link": "https://tumbleforth.hardcoded.net/",
-    "title": "[英] Tumble Forth – from assembly to OS with C compiler",
+    "link": "https://www.jank.cool/death-to-the-self-playing-game/",
+    "title": "[英] Death to the Self-Playing Game",
     "date": "2026-08-22"
   },
   {
-    "link": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
-    "title": "[英] Volcanoes That Made History",
+    "link": "https://tumbleforth.hardcoded.net/",
+    "title": "[英] Tumble Forth – from assembly to OS with C compiler",
     "date": "2026-08-22"
   }
 ]
