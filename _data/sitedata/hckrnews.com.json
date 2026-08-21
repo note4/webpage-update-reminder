@@ -1,12 +1,27 @@
 [
   {
+    "link": "https://www.zilog.com/captain_zilog/",
+    "title": "[英] Captain Zilog",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://orbitalconstructionpioneers.com/",
+    "title": "[英] Orbital Construction Pioneers",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://annas-archive.gl/blog/physical-destruction.html",
+    "title": "[英] AI companies destroy physical books – let's scan rare books before it's too late",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
     "title": "[英] Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
     "date": "2026-08-21"
   },
   {
     "link": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
-    "title": "[英] Berkeley Law prohibits AI use in classes (by default)",
+    "title": "[英] Artificial Intelligence Policy",
     "date": "2026-08-21"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://ameliorate.app/",
     "title": "[英] Ameliorate",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947",
-    "title": "[英] The Wonders of the Male Human Pelvis",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49380555",
-    "title": "[英] undefined",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-    "title": "[英] Scientists Release Biggest 2D Map of the Universe",
     "date": "2026-08-21"
   }
 ]
