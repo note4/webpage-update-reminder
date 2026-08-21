@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/",
+    "title": "[英] Tap to pay with Google Pay is coming to Walmart.",
+    "date": "2026-08-21 22:00:00"
+  },
+  {
     "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/united-parks-of-america/",
     "title": "[英] Take an interactive journey through America’s national parks",
     "date": "2026-08-21 00:00:00"
@@ -25,13 +30,13 @@
     "date": "2026-08-20 03:00:00"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
-    "title": "[英] Start the semester with one year of Gemini, on us",
+    "link": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
+    "title": "[英] Back to School 2026",
     "date": "2026-08-20 03:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
-    "title": "[英] Back to School 2026",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+    "title": "[英] Start the semester with one year of Gemini, on us",
     "date": "2026-08-20 03:00:00"
   },
   {
@@ -55,23 +60,18 @@
     "date": "2026-08-19 01:30:00"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
-    "title": "[英] Keep your SAT prep on track with practice tests in Gemini.",
+    "link": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
+    "title": "[英] Ask a Scientist: How can researchers use AI to predict a flood?",
     "date": "2026-08-19 00:00:00"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
-    "title": "[英] Ask a Scientist: How can researchers use AI to predict a flood?",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
+    "title": "[英] Keep your SAT prep on track with practice tests in Gemini.",
     "date": "2026-08-19 00:00:00"
   },
   {
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/",
     "title": "[英] Operation Blue Skies: Reducing aviation climate impact with AI",
     "date": "2026-08-18 17:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-    "title": "[英] Get closer to the game with Gemini and Pixel",
-    "date": "2026-08-17 16:00:00"
   }
 ]
