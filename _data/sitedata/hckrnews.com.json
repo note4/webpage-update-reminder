@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+    "title": "[英] People of ACM – Russ Cox",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
+    "title": "[英] A look under our trunk: what's in our compute",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
+    "title": "[英] A look under our trunk: what’s in our compute",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+    "title": "[英] Scientists release biggest 2D map of the universe",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://interconnected.org/home/2026/08/21/galactic",
     "title": "[英] Galactic Compass 2: now with new augmented reality mode",
     "date": "2026-08-22"
@@ -52,26 +72,6 @@
   {
     "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
     "title": "[英] Rebuilding our Electron meeting-recording engine in Swift",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://github.com/proliferate-ai/proliferate",
-    "title": "[英] Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
-    "title": "[英] Another better lower bound for n=17 square packing",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
-    "title": "[英] LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://bandarlabs.github.io/Cobalt/",
-    "title": "[英] Kobo can run apps now",
     "date": "2026-08-22"
   }
 ]
