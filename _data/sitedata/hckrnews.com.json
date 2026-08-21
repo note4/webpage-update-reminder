@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.0xsid.com/blog/just-want-to-search",
+    "title": "[英] I Just Want to Search",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://github.com/uncognic/steppewm",
+    "title": "[英] Show HN: SteppeWM – a stacking IceWM-like Wayland compositor",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://bisecto.com/every-shape-can-be-cut-in-half.html",
+    "title": "[英] Every shape can be cut exactly in half with one straight line",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49389912",
+    "title": "[英] undefined",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49389948",
+    "title": "[英] undefined",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+    "title": "[英] Omacom Foundation Launches with $8M",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
     "title": "[英] How We Made a Text-to-Speech Model Respond in Sub-50 ms",
     "date": "2026-08-22"
@@ -10,23 +40,23 @@
     "date": "2026-08-22"
   },
   {
-    "link": "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
-    "title": "[英] Code Obfuscation via Local Mixing",
-    "date": "2026-08-22"
-  },
-  {
     "link": "https://www.felonybench.com/",
     "title": "[英] Felony Bench",
     "date": "2026-08-22"
   },
   {
-    "link": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504",
-    "title": "[英] Cancer-Related Mortality Among US Pilots and Flight Attendants",
+    "link": "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
+    "title": "[英] Code Obfuscation via Local Mixing",
     "date": "2026-08-22"
   },
   {
     "link": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
     "title": "[英] Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504",
+    "title": "[英] Cancer-Related Mortality Among US Pilots and Flight Attendants",
     "date": "2026-08-22"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://github.com/kulikov0/desktop-vibe-fly",
     "title": "[英] Show HN: A desktop fly drawn to the scent of vibecode",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://www.winonapost.com/news/wpd-wont-replace-stolen-flock-cameras-citing-public-trust/article_06a67859-2d97-414b-aa8f-d8751ad214bb.html",
-    "title": "[英] WPD won't replace stolen Flock cameras, citing public trust",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-    "title": "[英] Zig's Io.Threaded Is Neat",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
-    "title": "[英] The B-right/V R2 Operating System",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://caligra.com/c100/",
-    "title": "[英] c100",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://blog.coredump.cx/p/getting-silly-with-c-part-and-int1",
-    "title": "[英] Getting silly with C, part and((int*)-8)[3]",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-    "title": "[英] Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
     "date": "2026-08-22"
   }
 ]
