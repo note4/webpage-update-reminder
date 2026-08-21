@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://openrouter.ai/stealth/ox-alpha",
+    "title": "[英] Stealth Model",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+    "title": "[英] There's no such thing as a small software team anymore",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://mathstodon.xyz/@maxpool/117128107757895678",
+    "title": "[英] Copyright does not protect AI-generated content in EU",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://www.maayanroth.com/blog/posts/hundred-page-lm-book-chapter-2.html",
     "title": "[英] In Which I Lose My Mind over Embeddings (HPLM Chapter 2)",
     "date": "2026-08-21"
@@ -36,7 +51,7 @@
   },
   {
     "link": "https://www.massdriver.cloud/blogs/the-citizen-developer",
-    "title": "[英] Citizen Devs: Everyone is an engineer now",
+    "title": "[英] The Citizen Developer",
     "date": "2026-08-21"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00137-4",
     "title": "[英] Fossilisation processes and our reading of animal antiquity",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://strn.cat/posts/spacetime/",
-    "title": "[英] SpacetimeDB: A Short Technical Review",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://tidalcycles.org/",
-    "title": "[英] Tidal Cycles – Live coding music with Algorithmic patterns",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-    "title": "[英] GitHub, autoscaling, and the component substitution fallacy",
     "date": "2026-08-21"
   }
 ]
