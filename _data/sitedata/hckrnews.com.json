@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://annas-archive.pk/blog/physical-destruction.html",
+    "title": "[英] AI companies destroy physical books – let's scan rare books before it's too late",
+    "date": "2026-08-21"
+  },
+  {
+    "link": "https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen",
+    "title": "[英] The Mystery of Dark Oxygen",
+    "date": "2026-08-21"
+  },
+  {
     "link": "https://api-docs.deepseek.com/guides/vision/",
     "title": "[英] DeepSeek-v4-flash-vision-exp",
     "date": "2026-08-21"
@@ -62,16 +72,6 @@
   {
     "link": "https://github.com/vivekhaldar/seed",
     "title": "[英] Seed: Minimal, self-modifying agent harness",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://Argentic.network",
-    "title": "[英] Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
-    "date": "2026-08-21"
-  },
-  {
-    "link": "https://tyoverby.com/posts/version-control-for-everything-else/",
-    "title": "[英] Version Control for Everything",
     "date": "2026-08-21"
   }
 ]
