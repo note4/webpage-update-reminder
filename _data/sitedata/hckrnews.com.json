@@ -1,7 +1,37 @@
 [
   {
+    "link": "https://interconnected.org/home/2026/08/21/galactic",
+    "title": "[英] Galactic Compass 2: now with new augmented reality mode",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://wolfoo2931.github.io/declarative-forms/",
+    "title": "[英] Show HN: Declarative-forms – await an object the way prompt() awaits a string",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
+    "title": "[英] How orchids inspired the work of Charles Darwin",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://bastian.rieck.me/blog/2026/unix/",
+    "title": "[英] LLMs are proof that Unix won",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://pointinthecloud.com/2026-08-19-144600.html",
+    "title": "[英] I ran Photoshop on a £0.60 computer chip",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+    "title": "[英] AI boosted homework scores, then exam scores dropped: study",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
-    "title": "[英] When the Shortage Is the Strategy",
+    "title": "[英] When the shortage is the strategy",
     "date": "2026-08-22"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://bandarlabs.github.io/Cobalt/",
     "title": "[英] Kobo can run apps now",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-    "title": "[英] Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix",
-    "title": "[英] Three ways to smuggle SQLite into Nix",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-    "title": "[英] What happens when a GPU reads memory",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://passo.uno/if-you-are-an-agent-read-this/",
-    "title": "[英] Does whispering to agents in docs help?",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://www.0xsid.com/blog/just-want-to-search",
-    "title": "[英] I Just Want to Search",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://github.com/uncognic/steppewm",
-    "title": "[英] Show HN: SteppeWM – a stacking IceWM-like Wayland compositor",
     "date": "2026-08-22"
   }
 ]
