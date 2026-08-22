@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+    "title": "[英] How Thailand Resisted Colonization",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://munderdiffl.in/",
     "title": "[英] Munder Difflin – Agent harness to run an office of your clones",
     "date": "2026-08-22"
@@ -25,13 +30,13 @@
     "date": "2026-08-22"
   },
   {
-    "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-    "title": "[英] GPT 5.6 Sol 20% price reduction",
+    "link": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+    "title": "[英] Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
     "date": "2026-08-22"
   },
   {
-    "link": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-    "title": "[英] Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+    "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+    "title": "[英] GPT 5.6 Sol 20% price reduction",
     "date": "2026-08-22"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://danluu.com/perf-opt/",
     "title": "[英] There's no reason for software to be slow anymore",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "title": "[英] OTel isn’t going well",
     "date": "2026-08-22"
   }
 ]
