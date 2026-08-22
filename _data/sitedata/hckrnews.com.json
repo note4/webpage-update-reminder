@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+    "title": "[英] Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
     "title": "[英] Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
     "date": "2026-08-22"
@@ -35,18 +40,18 @@
     "date": "2026-08-22"
   },
   {
-    "link": "https://danluu.com/perf-opt/",
-    "title": "[英] There's no reason for software to be slow anymore",
-    "date": "2026-08-22"
-  },
-  {
     "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
     "title": "[英] Initial focus for our partnership with Motorola is a regular non-folding device",
     "date": "2026-08-22"
   },
   {
+    "link": "https://danluu.com/perf-opt/",
+    "title": "[英] There's no reason for software to be slow anymore",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "title": "[英] OTel isn't going well (and I made a spreadsheet about it)",
+    "title": "[英] OTel isn’t going well",
     "date": "2026-08-22"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://github.com/peterkelly/rex",
     "title": "[英] Show HN: Rex, a parallel functional language for scientific workflows",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://danluu.com/hn-comments/",
-    "title": "[英] HN: The Good Parts (2016)",
     "date": "2026-08-22"
   }
 ]
