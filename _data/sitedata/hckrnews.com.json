@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/",
+    "title": "[英] ESP32 Firmware Development with Docker Sandboxes",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
     "title": "[英] Canada will match US tariffs 'dollar for dollar' as trade talks break down",
     "date": "2026-08-22"
@@ -67,11 +72,6 @@
   {
     "link": "https://rust-glancer.github.io/blog/hello-world/",
     "title": "[英] Rust Glancer: Rust LSP using 100x less RAM",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://github.com/peterkelly/rex",
-    "title": "[英] Show HN: Rex, a parallel functional language for scientific workflows",
     "date": "2026-08-22"
   }
 ]
