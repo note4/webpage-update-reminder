@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+    "title": "[英] NanoGPT Speedrun Frontier",
+    "date": "2026-08-23"
+  },
+  {
     "link": "https://bactra.org/reviews/wolfram/",
     "title": "[英] A New Kind of Science by Stephen Wolfram: Monster Raving Egomania",
     "date": "2026-08-23"
@@ -36,7 +41,7 @@
   },
   {
     "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-    "title": "[英] NetBSD and My Life (2005)",
+    "title": "[英] NetBSD and my life (2005)",
     "date": "2026-08-23"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
     "title": "[英] One night in Uzbekistan: Why was this one data point so influential?",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://github.com/omarfakih1/zcomplete",
-    "title": "[英] Show HN: Zcomplete – Shell Typo Correction",
     "date": "2026-08-23"
   }
 ]
