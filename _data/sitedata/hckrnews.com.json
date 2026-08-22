@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+    "title": "[英] Initial focus for our partnership with Motorola is a regular non-folding device",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://danluu.com/perf-opt/",
+    "title": "[英] There's no reason for software to be slow anymore",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "title": "[英] OTel isn't going well (and I made a spreadsheet about it)",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://www.lambda-symbolics.com/autolith",
+    "title": "[英] Autolith: A programming agent with a live runtime",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+    "title": "[英] Everyone says assembly is untyped—everyone is wrong",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://rust-glancer.github.io/blog/hello-world/",
+    "title": "[英] Rust Glancer: Rust LSP using 100x less RAM",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://github.com/peterkelly/rex",
+    "title": "[英] Show HN: Rex, a parallel functional language for scientific workflows",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://danluu.com/hn-comments/",
+    "title": "[英] HN: The Good Parts (2016)",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/",
     "title": "[英] Electric shock gloves in use by police departments in Bellevue, Omaha",
     "date": "2026-08-22"
@@ -16,7 +56,7 @@
   },
   {
     "link": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
-    "title": "[英] Paul Atkins Misreads Adam Smith and the American Founding",
+    "title": "[英] Paul Atkins misreads Adam Smith and the American founding",
     "date": "2026-08-22"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
     "title": "[英] Three important steps in my maturation process",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
-    "title": "[英] 'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49394759",
-    "title": "[英] undefined",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
-    "title": "[英] Remotely Unlocking Electric Scooters",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://wsvn.com/news/help-me-howard/man-loses-so-much-weight-employer-doesnt-recognize-him/",
-    "title": "[英] Man loses so much weight employer doesn't recognize him",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-    "title": "[英] SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html",
-    "title": "[英] Church of the TigerBeetle: A Look at Tech Evangelism",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-    "title": "[英] Quick impressions: A week of using Codex more than Claude",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://monocyte.blog/using-an-old-android-phone-as-a-music-player/",
-    "title": "[英] Using an old Android phone as a music player",
     "date": "2026-08-22"
   }
 ]
