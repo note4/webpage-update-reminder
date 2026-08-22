@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+    "title": "[英] Z80–The 1970s Microprocessor Still Alive",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+    "title": "[英] Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/",
     "title": "[英] ESP32 Firmware Development with Docker Sandboxes",
     "date": "2026-08-22"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.lambda-symbolics.com/autolith",
     "title": "[英] Autolith: A programming agent with a live runtime",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-    "title": "[英] Everyone says assembly is untyped—everyone is wrong",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://rust-glancer.github.io/blog/hello-world/",
-    "title": "[英] Rust Glancer: Rust LSP using 100x less RAM",
     "date": "2026-08-22"
   }
 ]
