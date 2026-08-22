@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+    "title": "[英] Fast and Hard Code",
+    "date": "2026-08-23"
+  },
+  {
     "link": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
     "title": "[英] Knowing When to Stop: The Art of Making a Loop Converge",
     "date": "2026-08-23"
@@ -67,11 +72,6 @@
   {
     "link": "https://sgoedecke.github.io/watermark-quiz/",
     "title": "[英] Guess which of these LLM outputs is watermarked",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://www.mythic.ai",
-    "title": "[英] Mythic's analog compute-in-memory architecture",
     "date": "2026-08-23"
   }
 ]
