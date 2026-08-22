@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://static.laszlokorte.de/rotor-reflect/",
+    "title": "[英] Show HN: Rotation via Double Reflection",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+    "title": "[英] Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "title": "[英] A Friendly Introduction to Racket",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://nostarch.com/embedded-ai",
     "title": "[英] Embedded AI",
     "date": "2026-08-22"
@@ -36,7 +51,7 @@
   },
   {
     "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-    "title": "[英] Z80–The 1970s Microprocessor Still Alive",
+    "title": "[英] Z80 – The 1970s Microprocessor Still Alive (2021)",
     "date": "2026-08-22"
   },
   {
@@ -55,23 +70,8 @@
     "date": "2026-08-22"
   },
   {
-    "link": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-    "title": "[英] Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
-    "date": "2026-08-22"
-  },
-  {
     "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
     "title": "[英] GPT 5.6 Sol 20% price reduction",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content",
-    "title": "[英] 4 in 10 travellers visit tourist sites to capture social media content",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
-    "title": "[英] Early Humans Likely Ate Carbs and Sugary Foods",
     "date": "2026-08-22"
   }
 ]
