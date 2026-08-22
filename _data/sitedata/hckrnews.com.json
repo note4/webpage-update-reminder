@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
+    "title": "[英] Knowing When to Stop: The Art of Making a Loop Converge",
+    "date": "2026-08-23"
+  },
+  {
+    "link": "https://programasweights.com/claudish",
+    "title": "[英] English ↔ Claudish Translator",
+    "date": "2026-08-23"
+  },
+  {
     "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
     "title": "[英] Why your local LLM feels dumber than it is",
     "date": "2026-08-23"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.mythic.ai",
     "title": "[英] Mythic's analog compute-in-memory architecture",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://terminal-code.com",
-    "title": "[英] Show HN: terminal-code – VS Code inside the terminal",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/",
-    "title": "[英] Protocol-Aware Deterministic Simulation Testing",
     "date": "2026-08-23"
   }
 ]
