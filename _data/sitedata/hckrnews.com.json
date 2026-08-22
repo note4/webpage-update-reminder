@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://nostarch.com/embedded-ai",
+    "title": "[英] Embedded AI",
+    "date": "2026-08-22"
+  },
+  {
+    "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "title": "[英] The New MCP Roadmap",
+    "date": "2026-08-22"
+  },
+  {
     "link": "https://zaksa.zip/blog/formal-education-is-the-answer/",
     "title": "[英] A formal degree and algorithmic problem-solving is the answer. Always has been",
     "date": "2026-08-22"
@@ -25,13 +35,13 @@
     "date": "2026-08-22"
   },
   {
-    "link": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
-    "title": "[英] Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+    "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+    "title": "[英] Z80–The 1970s Microprocessor Still Alive",
     "date": "2026-08-22"
   },
   {
-    "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-    "title": "[英] Z80–The 1970s Microprocessor Still Alive",
+    "link": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+    "title": "[英] Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
     "date": "2026-08-22"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
     "title": "[英] Early Humans Likely Ate Carbs and Sugary Foods",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://www.science.org/content/blog-post/fault-not-our-trees-ourselves",
-    "title": "[英] Ozone: The fault is not in our trees, but in ourselves",
-    "date": "2026-08-22"
-  },
-  {
-    "link": "https://www.us-debt-clock.com/debt-to-gdp",
-    "title": "[英] US Debt-to-GDP Ratio",
     "date": "2026-08-22"
   }
 ]
