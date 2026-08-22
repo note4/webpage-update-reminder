@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://bactra.org/reviews/wolfram/",
+    "title": "[英] A New Kind of Science by Stephen Wolfram: Monster Raving Egomania",
+    "date": "2026-08-23"
+  },
+  {
+    "link": "https://thinkinginpython.com/",
+    "title": "[英] Thinking in Python by Bruce Eckel",
+    "date": "2026-08-23"
+  },
+  {
     "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
     "title": "[英] Fast and Hard Code",
     "date": "2026-08-23"
@@ -62,16 +72,6 @@
   {
     "link": "https://github.com/omarfakih1/zcomplete",
     "title": "[英] Show HN: Zcomplete – Shell Typo Correction",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://www.pianoify.net/",
-    "title": "[英] Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://sgoedecke.github.io/watermark-quiz/",
-    "title": "[英] Guess which of these LLM outputs is watermarked",
     "date": "2026-08-23"
   }
 ]
