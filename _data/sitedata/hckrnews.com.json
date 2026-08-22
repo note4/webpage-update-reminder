@@ -1,7 +1,27 @@
 [
   {
+    "link": "https://twitter.com/moxie/status/2091218652133732491",
+    "title": "[英] Scrap",
+    "date": "2026-08-23"
+  },
+  {
+    "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+    "title": "[英] How a Texas student blew the whistle on a rogue AI hacking attempt",
+    "date": "2026-08-23"
+  },
+  {
+    "link": "https://blog.veitheller.de/abulafia.html",
+    "title": "[英] The Creation of Abulafia",
+    "date": "2026-08-23"
+  },
+  {
+    "link": "https://blog.coredump.cx/p/conways-game-of-life-in-real-life",
+    "title": "[英] Conway's Game of Life in real life",
+    "date": "2026-08-23"
+  },
+  {
     "link": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
-    "title": "[英] One Night in Uzbekistan",
+    "title": "[英] One night in Uzbekistan: Why was this one data point so influential?",
     "date": "2026-08-23"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://hister.org/",
     "title": "[英] Hister – A private, full content search index that you control",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
-    "title": "[英] Why it might be time to rethink the human family tree",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology",
-    "title": "[英] Dynamical dark energy and the week that broke cosmology",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://typ.ing/",
-    "title": "[英] typ.ing",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://editide.com/blog/what-is-a-pptx-file/",
-    "title": "[英] What's in a PowerPoint File?",
     "date": "2026-08-23"
   }
 ]
