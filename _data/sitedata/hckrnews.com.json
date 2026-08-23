@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
+    "title": "[英] US Military newspaper editor voices censorship fears after being fired",
+    "date": "2026-08-23"
+  },
+  {
     "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
     "title": "[英] NanoGPT Speedrun Frontier",
     "date": "2026-08-23"
@@ -67,11 +72,6 @@
   {
     "link": "https://blog.coredump.cx/p/conways-game-of-life-in-real-life",
     "title": "[英] Conway's Game of Life in real life",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
-    "title": "[英] One night in Uzbekistan: Why was this one data point so influential?",
     "date": "2026-08-23"
   }
 ]
