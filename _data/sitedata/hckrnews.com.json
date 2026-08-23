@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+    "title": "[英] Microsoft Blames Windows Gaming Issues on RGB Lighting Devices",
+    "date": "2026-08-23"
+  },
+  {
+    "link": "https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding",
+    "title": "[英] The Covid-19 scandal is still unfolding",
+    "date": "2026-08-23"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+    "title": "[英] Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
+    "date": "2026-08-23"
+  },
+  {
+    "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "title": "[英] The Golden Rule for Becoming a Better Writer",
+    "date": "2026-08-23"
+  },
+  {
     "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
     "title": "[英] I Dream of Quieter Computing",
     "date": "2026-08-23"
@@ -52,26 +72,6 @@
   {
     "link": "https://thinkinginpython.com/",
     "title": "[英] Thinking in Python",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-    "title": "[英] Fast and Hard Code",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
-    "title": "[英] Knowing When to Stop: The Art of Making a Loop Converge",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://programasweights.com/claudish",
-    "title": "[英] English ↔ Claudish Translator",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-    "title": "[英] Why your local LLM feels dumber than it is",
     "date": "2026-08-23"
   }
 ]
