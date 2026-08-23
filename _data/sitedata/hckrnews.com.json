@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+    "title": "[英] Fast and Hard Code",
+    "date": "2026-08-23"
+  },
+  {
     "link": "https://malisper.me/jit-compiling-code-in-5-us/",
     "title": "[英] JIT Compiling Code in 5μs",
     "date": "2026-08-23"
@@ -36,7 +41,7 @@
   },
   {
     "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "title": "[英] The Golden Rule for Becoming a Better Writer",
+    "title": "[英] To become a better writer, read as much as you can",
     "date": "2026-08-23"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
     "title": "[英] I set a trap for a book-marketing scammer (2025)",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://marcua.net/minitools/figmimic/",
-    "title": "[英] Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
     "date": "2026-08-23"
   }
 ]
