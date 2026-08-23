@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.jepeake.com/ai-chip-architectures",
+    "title": "[英] AI Chip Architectures",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://layer3intel.com/blog/residential-proxy-bandwidth-drain",
+    "title": "[英] Residential proxies scraping your site? Drain their bandwidth",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://github.com/AlpinDale/gpt2.cmake",
     "title": "[英] Implementation of GPT-2 in pure CMake",
     "date": "2026-08-24"
@@ -20,13 +30,13 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
-    "title": "[英] The planet now has more trees than it did 35 years ago (2018)",
+    "link": "https://kpres12.github.io/Cicada.OS/",
+    "title": "[英] Cicada.os – Graphene.os for Your Laptop",
     "date": "2026-08-24"
   },
   {
-    "link": "https://kpres12.github.io/Cicada.OS/",
-    "title": "[英] Cicada.os – Graphene.os for Your Laptop",
+    "link": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
+    "title": "[英] The planet now has more trees than it did 35 years ago (2018)",
     "date": "2026-08-24"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
     "title": "[英] The Remote Work Challenge: Lessons from 5 Cities",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
-    "title": "[英] Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49411634",
-    "title": "[英] Claude reaching limits quickly then ever",
     "date": "2026-08-24"
   }
 ]
