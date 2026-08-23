@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+    "title": "[英] Things I want in a modern relational query language",
+    "date": "2026-08-23"
+  },
+  {
+    "link": "https://github.com/rust-lang/rust/issues/161441",
+    "title": "[英] Rust 1.98 got a P-critical miscompilation",
+    "date": "2026-08-23"
+  },
+  {
+    "link": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+    "title": "[英] Death to px, long live ch",
+    "date": "2026-08-23"
+  },
+  {
+    "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+    "title": "[英] My favorite nonfiction books about cults, scams, and schemes",
+    "date": "2026-08-23"
+  },
+  {
     "link": "https://twitter.com/AndrewYNg/status/2090840747738374568",
     "title": "[英] Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
     "date": "2026-08-23"
@@ -52,26 +72,6 @@
   {
     "link": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
     "title": "[英] The Sloppification of Peptides",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://olli.unt.edu/handouts/fall24/tk-writing-sample.pdf",
-    "title": "[英] Mathematicians will probably become obsolete before anyone else [pdf]",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://erikengdahl.se/autism/isnt/",
-    "title": "[英] Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-    "title": "[英] Fast and Hard Code",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://malisper.me/jit-compiling-code-in-5-us/",
-    "title": "[英] JIT Compiling Code in 5μs",
     "date": "2026-08-23"
   }
 ]
