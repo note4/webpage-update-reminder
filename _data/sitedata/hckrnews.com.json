@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+    "title": "[英] Iranian hackers shut down UK power plant for 4 days",
+    "date": "2026-08-23"
+  },
+  {
     "link": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
     "title": "[英] Sydney Marathon medal mistakenly depicts Munich stadium",
     "date": "2026-08-23"
@@ -67,11 +72,6 @@
   {
     "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
     "title": "[英] The End of an Athlon",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
-    "title": "[英] Microsoft Blames Windows Gaming Issues on RGB Lighting Devices",
     "date": "2026-08-23"
   }
 ]
