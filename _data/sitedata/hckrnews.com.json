@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/",
+    "title": "[英] Doomscrolling at work wastes time, but the real cost is what happens after",
+    "date": "2026-08-23"
+  },
+  {
     "link": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
     "title": "[英] The Sloppification of Peptides",
     "date": "2026-08-23"
@@ -67,11 +72,6 @@
   {
     "link": "https://martypc.net/",
     "title": "[英] MartyPC is a cross-platform emulator of early PCs written in Rust",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-    "title": "[英] The Art and Beauty of Blade Runner (2015)",
     "date": "2026-08-23"
   }
 ]
