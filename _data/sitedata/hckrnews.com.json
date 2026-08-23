@@ -1,22 +1,12 @@
 [
   {
-    "link": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-    "title": "[英] AI and Infrastructure Engineering",
+    "link": "https://news.ycombinator.com/item?id=49411634",
+    "title": "[英] Claude reaching limits quickly then ever",
     "date": "2026-08-24"
   },
   {
-    "link": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
-    "title": "[英] Yuval Noah Harari on the economic and political perils of AI",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://adayinthelifeof.nl/2026/08/23/powerful-extensions-do-not-need-powerful-code/",
-    "title": "[英] Powerful extensions do not need powerful code",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
-    "title": "[英] I turned Unix talk from 1983 into the interface for my AI",
+    "link": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/",
+    "title": "[英] Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
     "date": "2026-08-24"
   },
   {
@@ -25,8 +15,13 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://fabiensanglard.net/agent.md/index.html",
-    "title": "[英] My agent.md to improve LLM-assisted code quality",
+    "link": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+    "title": "[英] AI and Infrastructure Engineering",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+    "title": "[英] I turned Unix talk from 1983 into the interface for my AI",
     "date": "2026-08-24"
   },
   {
@@ -35,8 +30,23 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
-    "title": "[英] 'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
+    "link": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
+    "title": "[英] Yuval Noah Harari on the economic and political perils of AI",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://fabiensanglard.net/agent.md/index.html",
+    "title": "[英] My agent.md to improve LLM-assisted code quality",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://adayinthelifeof.nl/2026/08/23/powerful-extensions-do-not-need-powerful-code/",
+    "title": "[英] Powerful extensions do not need powerful code",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
+    "title": "[英] Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
     "date": "2026-08-24"
   },
   {
@@ -50,8 +60,8 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
-    "title": "[英] Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+    "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
+    "title": "[英] 'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
     "date": "2026-08-24"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
     "title": "[英] Fable and the End of the Free Lunch",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49411611",
-    "title": "[英] undefined",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://comuniq.xyz/Politics/post?t=1612",
-    "title": "[英] Reaganomics Didn't Trickle Down – It Just Broke Unions",
     "date": "2026-08-24"
   }
 ]
