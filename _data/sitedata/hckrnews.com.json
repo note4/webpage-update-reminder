@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.theregister.com/software/2026/08/18/tim-king-amigados-royalty-dies-aged-70/5289101",
+    "title": "[英] My Obituary for Dr Tim King, Tripos, AmigaOS, Helios and UK Online Pioneer",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://tarjan.itch.io/thoreaubasic",
     "title": "[英] I wrote a BASIC interpreter that boots on UEFI machines and ported it to Windows",
     "date": "2026-08-24"
@@ -11,7 +16,7 @@
   },
   {
     "link": "https://www.sciencedirect.com/science/article/abs/pii/S1389945726001991?via%3Dihub",
-    "title": "[英] Vit D assoc w better cognition in those w sleep disturb./mild cognitive impair",
+    "title": "[英] Vit D assoc w better cognition in those w sleep disturb + mild cognitive impair",
     "date": "2026-08-24"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://twitter.com/christianreber/status/2091532545577849008",
     "title": "[英] Universal Housing",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
-    "title": "[英] Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi",
     "date": "2026-08-24"
   }
 ]
