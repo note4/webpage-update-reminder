@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
+    "title": "[英] Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
+    "title": "[英] The Remote Work Challenge: Lessons from 5 Cities",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=49411634",
     "title": "[英] Claude reaching limits quickly then ever",
     "date": "2026-08-24"
@@ -10,8 +20,8 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://pikuma.com/blog/pdp-8-minicomputer",
-    "title": "[英] From Front Panel to Program: Thinking Like a PDP-8",
+    "link": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
+    "title": "[英] Yuval Noah Harari on the economic and political perils of AI",
     "date": "2026-08-24"
   },
   {
@@ -20,8 +30,13 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
-    "title": "[英] I turned Unix talk from 1983 into the interface for my AI",
+    "link": "https://fabiensanglard.net/agent.md/index.html",
+    "title": "[英] My agent.md to improve LLM-assisted code quality",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://pikuma.com/blog/pdp-8-minicomputer",
+    "title": "[英] From Front Panel to Program: Thinking Like a PDP-8",
     "date": "2026-08-24"
   },
   {
@@ -30,28 +45,13 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
-    "title": "[英] Yuval Noah Harari on the economic and political perils of AI",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://fabiensanglard.net/agent.md/index.html",
-    "title": "[英] My agent.md to improve LLM-assisted code quality",
-    "date": "2026-08-24"
-  },
-  {
     "link": "https://adayinthelifeof.nl/2026/08/23/powerful-extensions-do-not-need-powerful-code/",
     "title": "[英] Powerful extensions do not need powerful code",
     "date": "2026-08-24"
   },
   {
-    "link": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
-    "title": "[英] Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://www.khola.blog/p/say-it-four-times",
-    "title": "[英] Say It Four Times (In Your System Prompt)",
+    "link": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+    "title": "[英] I turned Unix talk from 1983 into the interface for my AI",
     "date": "2026-08-24"
   },
   {
@@ -65,13 +65,13 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://lalitm.com/post/find-problems-staff-engineer/",
-    "title": "[英] How I Find Problems to Solve as a Staff Engineer",
+    "link": "https://www.khola.blog/p/say-it-four-times",
+    "title": "[英] Say It Four Times (In Your System Prompt)",
     "date": "2026-08-24"
   },
   {
-    "link": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-    "title": "[英] Fable and the End of the Free Lunch",
+    "link": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
+    "title": "[英] Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
     "date": "2026-08-24"
   }
 ]
