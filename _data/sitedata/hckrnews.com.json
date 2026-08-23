@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://github.com/AlpinDale/gpt2.cmake",
+    "title": "[英] Implementation of GPT-2 in pure CMake",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+    "title": "[英] Declarative WebGPU with S-Expressions",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://schlarp.com/posts/everything-i-own-owned/",
     "title": "[英] Everything I own, owned",
     "date": "2026-08-24"
@@ -10,13 +20,13 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://kpres12.github.io/Cicada.OS/",
-    "title": "[英] Cicada.os – Graphene.os for Your Laptop",
+    "link": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
+    "title": "[英] The planet now has more trees than it did 35 years ago (2018)",
     "date": "2026-08-24"
   },
   {
-    "link": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
-    "title": "[英] The Planet Now Has More Trees Than It Did 35 Years Ago (2018)",
+    "link": "https://kpres12.github.io/Cicada.OS/",
+    "title": "[英] Cicada.os – Graphene.os for Your Laptop",
     "date": "2026-08-24"
   },
   {
@@ -50,28 +60,18 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
-    "title": "[英] Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
-    "date": "2026-08-24"
-  },
-  {
     "link": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
     "title": "[英] The Remote Work Challenge: Lessons from 5 Cities",
     "date": "2026-08-24"
   },
   {
+    "link": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
+    "title": "[英] Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=49411634",
     "title": "[英] Claude reaching limits quickly then ever",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/",
-    "title": "[英] Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
-    "title": "[英] I turned Unix talk from 1983 into the interface for my AI",
     "date": "2026-08-24"
   }
 ]
