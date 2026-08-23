@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://arxiv.org/abs/2608.20186",
+    "title": "[英] Decoding silent reading from non-invasive EEG",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
     "title": "[英] Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
     "date": "2026-08-24"
@@ -20,8 +25,8 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
-    "title": "[英] Yuval Noah Harari on the economic and political perils of AI",
+    "link": "https://pikuma.com/blog/pdp-8-minicomputer",
+    "title": "[英] From Front Panel to Program: Thinking Like a PDP-8",
     "date": "2026-08-24"
   },
   {
@@ -30,13 +35,8 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://fabiensanglard.net/agent.md/index.html",
-    "title": "[英] My agent.md to improve LLM-assisted code quality",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://pikuma.com/blog/pdp-8-minicomputer",
-    "title": "[英] From Front Panel to Program: Thinking Like a PDP-8",
+    "link": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
+    "title": "[英] Yuval Noah Harari on the economic and political perils of AI",
     "date": "2026-08-24"
   },
   {
@@ -55,8 +55,13 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://insufferable.dev/posts/vibe-tax/",
-    "title": "[英] The Vibe Tax",
+    "link": "https://fabiensanglard.net/agent.md/index.html",
+    "title": "[英] My agent.md to improve LLM-assisted code quality",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
+    "title": "[英] Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
     "date": "2026-08-24"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://www.khola.blog/p/say-it-four-times",
     "title": "[英] Say It Four Times (In Your System Prompt)",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
-    "title": "[英] Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
     "date": "2026-08-24"
   }
 ]
