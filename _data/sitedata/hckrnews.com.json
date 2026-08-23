@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/",
+    "title": "[英] Canada now 'at war' with United States over trade, Prime Minister says",
+    "date": "2026-08-23"
+  },
+  {
     "link": "https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/",
     "title": "[英] Doomscrolling at work wastes time, but the real cost is what happens after",
     "date": "2026-08-23"
@@ -67,11 +72,6 @@
   {
     "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
     "title": "[英] I Dream of Quieter Computing",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://martypc.net/",
-    "title": "[英] MartyPC is a cross-platform emulator of early PCs written in Rust",
     "date": "2026-08-23"
   }
 ]
