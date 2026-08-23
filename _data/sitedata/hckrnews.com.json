@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+    "title": "[英] Google Workspace thinks my domain is an email provider",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
+    "title": "[英] Kodak DC50 now usable on the Apple II",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://www.wsj.com/lifestyle/linkedin-has-accidentally-become-a-dating-sitedespite-its-no-romance-rules-560705bb",
+    "title": "[英] LinkedIn Has Accidentally Become a Dating Site",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://theaijudge.com/en/blog/we-gave-nine-llms-the-same-pdf/",
     "title": "[英] We gave nine LLMs the same PDF. Two answered without reading it",
     "date": "2026-08-24"
@@ -30,28 +45,13 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://fabiensanglard.net/agent.md/index.html",
-    "title": "[英] My agent.md to improve LLM-assisted code quality",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
-    "title": "[英] Yuval Noah Harari on the economic and political perils of AI",
-    "date": "2026-08-24"
-  },
-  {
     "link": "https://pikuma.com/blog/pdp-8-minicomputer",
     "title": "[英] From Front Panel to Program: Thinking Like a PDP-8",
     "date": "2026-08-24"
   },
   {
-    "link": "https://releaseoracle.xyz/",
-    "title": "[英] Predicting AI model release dates with stats",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
-    "title": "[英] I turned Unix talk from 1983 into the interface for my AI",
+    "link": "https://fabiensanglard.net/agent.md/index.html",
+    "title": "[英] My agent.md to improve LLM-assisted code quality",
     "date": "2026-08-24"
   },
   {
@@ -60,18 +60,18 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://adayinthelifeof.nl/2026/08/23/powerful-extensions-do-not-need-powerful-code/",
-    "title": "[英] Powerful extensions do not need powerful code",
+    "link": "https://releaseoracle.xyz/",
+    "title": "[英] Predicting AI model release dates with stats",
     "date": "2026-08-24"
   },
   {
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
-    "title": "[英] 'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
+    "link": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
+    "title": "[英] Yuval Noah Harari on the economic and political perils of AI",
     "date": "2026-08-24"
   },
   {
-    "link": "https://www.khola.blog/p/say-it-four-times",
-    "title": "[英] Say It Four Times (In Your System Prompt)",
+    "link": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+    "title": "[英] I turned Unix talk from 1983 into the interface for my AI",
     "date": "2026-08-24"
   }
 ]
