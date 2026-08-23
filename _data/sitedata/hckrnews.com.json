@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://surya.website/rling-qwen-to-paint-with-code",
+    "title": "[英] Training AI to Paint with Code",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://kpres12.github.io/Cicada.OS/",
+    "title": "[英] Cicada.os – Graphene.os for Your Laptop",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
+    "title": "[英] The Planet Now Has More Trees Than It Did 35 Years Ago",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://alpo.ge/s6.pdf",
     "title": "[英] A complex structure on S^6 [pdf]",
     "date": "2026-08-24"
@@ -30,13 +45,13 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
-    "title": "[英] Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
+    "link": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
+    "title": "[英] The Remote Work Challenge: Lessons from 5 Cities",
     "date": "2026-08-24"
   },
   {
-    "link": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
-    "title": "[英] The Remote Work Challenge: Lessons from 5 Cities",
+    "link": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
+    "title": "[英] Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
     "date": "2026-08-24"
   },
   {
@@ -50,28 +65,13 @@
     "date": "2026-08-24"
   },
   {
+    "link": "https://releaseoracle.xyz/",
+    "title": "[英] Predicting AI model release dates with stats",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://fabiensanglard.net/agent.md/index.html",
     "title": "[英] My agent.md to improve LLM-assisted code quality",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
-    "title": "[英] Yuval Noah Harari on the economic and political perils of AI",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
-    "title": "[英] I turned Unix talk from 1983 into the interface for my AI",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://pikuma.com/blog/pdp-8-minicomputer",
-    "title": "[英] From Front Panel to Program: Thinking Like a PDP-8",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-    "title": "[英] AI and Infrastructure Engineering",
     "date": "2026-08-24"
   }
 ]
