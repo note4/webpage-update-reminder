@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/",
+    "title": "[英] Parallel development without the headaches using Git worktree",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+    "title": "[英] Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://www.jepeake.com/ai-chip-architectures",
     "title": "[英] AI Chip Architectures",
     "date": "2026-08-24"
@@ -62,16 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=49412274",
     "title": "[英] undefined",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.20186",
-    "title": "[英] Decoding silent reading from non-invasive EEG",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
-    "title": "[英] The Remote Work Challenge: Lessons from 5 Cities",
     "date": "2026-08-24"
   }
 ]
