@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://schlarp.com/posts/everything-i-own-owned/",
+    "title": "[英] Everything I own, owned",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://surya.website/rling-qwen-to-paint-with-code",
     "title": "[英] Training AI to Paint with Code",
     "date": "2026-08-24"
@@ -45,13 +50,13 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
-    "title": "[英] The Remote Work Challenge: Lessons from 5 Cities",
+    "link": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
+    "title": "[英] Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
     "date": "2026-08-24"
   },
   {
-    "link": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
-    "title": "[英] Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
+    "link": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
+    "title": "[英] The Remote Work Challenge: Lessons from 5 Cities",
     "date": "2026-08-24"
   },
   {
@@ -65,13 +70,8 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://releaseoracle.xyz/",
-    "title": "[英] Predicting AI model release dates with stats",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://fabiensanglard.net/agent.md/index.html",
-    "title": "[英] My agent.md to improve LLM-assisted code quality",
+    "link": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+    "title": "[英] I turned Unix talk from 1983 into the interface for my AI",
     "date": "2026-08-24"
   }
 ]
