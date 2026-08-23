@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+    "title": "[英] Sydney Marathon medal mistakenly depicts Munich stadium",
+    "date": "2026-08-23"
+  },
+  {
+    "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+    "title": "[英] I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+    "date": "2026-08-23"
+  },
+  {
     "link": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
     "title": "[英] 'AI refuser' quit her dream job, and hopes others follow",
     "date": "2026-08-23"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
     "title": "[英] Microsoft Blames Windows Gaming Issues on RGB Lighting Devices",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49406021",
-    "title": "[英] undefined",
-    "date": "2026-08-23"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-    "title": "[英] Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
     "date": "2026-08-23"
   }
 ]
