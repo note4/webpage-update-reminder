@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://alpo.ge/s6.pdf",
+    "title": "[英] A complex structure on S^6 [pdf]",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
     "title": "[英] Google Workspace thinks my domain is an email provider",
     "date": "2026-08-24"
@@ -45,23 +50,8 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://pikuma.com/blog/pdp-8-minicomputer",
-    "title": "[英] From Front Panel to Program: Thinking Like a PDP-8",
-    "date": "2026-08-24"
-  },
-  {
     "link": "https://fabiensanglard.net/agent.md/index.html",
     "title": "[英] My agent.md to improve LLM-assisted code quality",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-    "title": "[英] AI and Infrastructure Engineering",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://releaseoracle.xyz/",
-    "title": "[英] Predicting AI model release dates with stats",
     "date": "2026-08-24"
   },
   {
@@ -72,6 +62,16 @@
   {
     "link": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
     "title": "[英] I turned Unix talk from 1983 into the interface for my AI",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://pikuma.com/blog/pdp-8-minicomputer",
+    "title": "[英] From Front Panel to Program: Thinking Like a PDP-8",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+    "title": "[英] AI and Infrastructure Engineering",
     "date": "2026-08-24"
   }
 ]
