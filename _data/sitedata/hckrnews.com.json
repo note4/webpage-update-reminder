@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://tarjan.itch.io/thoreaubasic",
+    "title": "[英] I wrote a BASIC interpreter that boots on UEFI machines and ported it to Windows",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+    "title": "[英] We must not grant AI agents legal personhood",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://www.sciencedirect.com/science/article/abs/pii/S1389945726001991?via%3Dihub",
     "title": "[英] Vit D assoc w better cognition in those w sleep disturb./mild cognitive impair",
     "date": "2026-08-24"
@@ -62,16 +72,6 @@
   {
     "link": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
     "title": "[英] Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://earendil.com/posts/what-is-a-harness/",
-    "title": "[英] What Is a Harness?",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
-    "title": "[英] Authoritarianism of Code (2020)",
     "date": "2026-08-24"
   }
 ]
