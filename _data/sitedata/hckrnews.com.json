@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://ssx360.github.io/rack-02/?src=hn",
+    "title": "[英] Show HN: A techno machine in one HTML file, with verifiable renders",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
     "title": "[英] How Europe is killing makers and micro-entrepreneurs",
     "date": "2026-08-24"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
     "title": "[英] Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
-    "title": "[英] Fast drilldown dashboards from a single Parquet file",
     "date": "2026-08-24"
   }
 ]
