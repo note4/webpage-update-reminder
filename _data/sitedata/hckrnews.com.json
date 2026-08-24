@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
+    "title": "[英] LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html",
+    "title": "[英] Your Open Source Model Could Have a Hidden Time-Release Backdoor",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://status.claude.com/uptime",
+    "title": "[英] Anthropic Claude and API service outages",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration",
+    "title": "[英] Over 5,200 Ebola cases recorded in Congo",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+    "title": "[英] FDA clears blood test to aid evaluation for Alzheimer's disease",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://github.com/thiagotigaz/ocr-it",
+    "title": "[英] OCR It – pull text out of un-copyable documents for your LLM",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://twitter.com/paulg/status/2091544343589060625",
+    "title": "[英] I were 17, I'd learn how to build LLMs from scratch",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://status.claude.com/incidents/vgz5psbjmt1h",
+    "title": "[英] Elevated Errors for Multiple Models",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
     "title": "[英] New EU-wide product repair rules come into force",
     "date": "2026-08-24"
@@ -20,8 +60,8 @@
     "date": "2026-08-24"
   },
   {
-    "link": "https://twitter.com/BrianRoemmele/status/2091127620431933780",
-    "title": "[英] AI Is Quietly Draining the Public Internet of Thought",
+    "link": "https://news.ycombinator.com/item?id=49415237",
+    "title": "[英] undefined",
     "date": "2026-08-24"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://www.windy.com",
     "title": "[英] Worldwide animated weather map, with easy to use layer and precise spot forecast",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://pantel.is/projects/ai-gaming-companion/",
-    "title": "[英] I built a low-latency AI companion that plays Skyrim with me",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency",
-    "title": "[英] Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://www.shodan.io/",
-    "title": "[英] The first search engine for Internet-connected devices",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49414676",
-    "title": "[英] undefined",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
-    "title": "[英] Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/",
-    "title": "[英] Parallel development without the headaches using Git worktree",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-    "title": "[英] Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://www.jepeake.com/ai-chip-architectures",
-    "title": "[英] AI Chip Architectures",
     "date": "2026-08-24"
   }
 ]
