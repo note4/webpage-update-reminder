@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+    "title": "[英] New EU-wide product repair rules come into force",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://davidbessis.substack.com/p/attention-is-all-we-have",
+    "title": "[英] Attention is all we have: A conjectural theory of cognitive inequality",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://www.satisfice.com/blog/archives/488189",
     "title": "[英] This Fact About KPIs May Surprise You",
     "date": "2026-08-24"
@@ -62,16 +72,6 @@
   {
     "link": "https://www.jepeake.com/ai-chip-architectures",
     "title": "[英] AI Chip Architectures",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://layer3intel.com/blog/residential-proxy-bandwidth-drain",
-    "title": "[英] Residential proxies scraping your site? Drain their bandwidth",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://github.com/AlpinDale/gpt2.cmake",
-    "title": "[英] Implementation of GPT-2 in pure CMake",
     "date": "2026-08-24"
   }
 ]
