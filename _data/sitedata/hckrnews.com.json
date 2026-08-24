@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
+    "title": "[英] Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/",
     "title": "[英] Parallel development without the headaches using Git worktree",
     "date": "2026-08-24"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.wsj.com/lifestyle/linkedin-has-accidentally-become-a-dating-sitedespite-its-no-romance-rules-560705bb",
     "title": "[英] LinkedIn Has Accidentally Become a Dating Site",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49412274",
-    "title": "[英] undefined",
     "date": "2026-08-24"
   }
 ]
