@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://codefloe.com/",
+    "title": "[英] Codefloe Is a Professionally Hosted Public Git Forge",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://thehill.com/policy/technology/6042349-darth-vader-flock-surveillance/",
+    "title": "[英] Man Dressed as Darth Vader Defends Flock Cameras to San Diego City Council",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+    "title": "[英] Where Did All the Public Bathrooms Go?",
+    "date": "2026-08-25"
+  },
+  {
     "link": "https://sf.thijs.gg/",
     "title": "[英] The entire city of San Francisco as a video game",
     "date": "2026-08-25"
@@ -40,18 +55,8 @@
     "date": "2026-08-25"
   },
   {
-    "link": "https://github.com/ovenpasta/adi2",
-    "title": "[英] Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
-    "date": "2026-08-25"
-  },
-  {
     "link": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
     "title": "[英] A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://danubedata.ro/blog/storage-power-loss-postmortem-august-2026",
-    "title": "[英] A Server Lost Power at 00:32. We Found Out at 08:18",
     "date": "2026-08-25"
   },
   {
@@ -60,18 +65,13 @@
     "date": "2026-08-25"
   },
   {
-    "link": "https://gultsch.de/posts/25-years-of-digital-independence/",
-    "title": "[英] Jabber/XMPP: 25 Years of Digital Independence",
+    "link": "https://github.com/ovenpasta/adi2",
+    "title": "[英] Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
     "date": "2026-08-25"
   },
   {
-    "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA/m/iqfJV5cXEQAJ",
-    "title": "[英] Firefox intent to ship: JPEG XL",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://inferquest.org",
-    "title": "[英] Show HN: Free Inference Engineer and Model Training Roadmap",
+    "link": "https://danubedata.ro/blog/storage-power-loss-postmortem-august-2026",
+    "title": "[英] A Server Lost Power at 00:32. We Found Out at 08:18",
     "date": "2026-08-25"
   }
 ]
