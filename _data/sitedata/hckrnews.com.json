@@ -1,12 +1,32 @@
 [
   {
-    "link": "https://arxiv.org/abs/2608.16603",
-    "title": "[英] Public services are increasingly strained by LLM-written appeals for benefits",
+    "link": "https://sf.thijs.gg/",
+    "title": "[英] The entire city of San Francisco as a video game",
     "date": "2026-08-25"
   },
   {
-    "link": "https://picomq.com/",
-    "title": "[英] Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+    "link": "https://tinkerandsee.com/weekday/",
+    "title": "[英] Show HN: How to Mentally Calculate the Day of the Week for Any Date",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
+    "title": "[英] EuroHPC Launches 6 Quantum Calls with €119M in Funding",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://acko.net/blog/curvature-beziers/",
+    "title": "[英] Curvature Beziers – Improving on a timeless recipe",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+    "title": "[英] Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.16603",
+    "title": "[英] Public services are increasingly strained by LLM-written appeals for benefits",
     "date": "2026-08-25"
   },
   {
@@ -15,8 +35,8 @@
     "date": "2026-08-25"
   },
   {
-    "link": "https://blog.ydb.tech/making-coroutines-routine-building-a-scalable-tpc-c-client-in-c-b14f55a09471?postPublishedType=repub",
-    "title": "[英] A Practical Intuition for C++20 Coroutines",
+    "link": "https://picomq.com/",
+    "title": "[英] Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
     "date": "2026-08-25"
   },
   {
@@ -25,13 +45,18 @@
     "date": "2026-08-25"
   },
   {
+    "link": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+    "title": "[英] A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+    "date": "2026-08-25"
+  },
+  {
     "link": "https://danubedata.ro/blog/storage-power-loss-postmortem-august-2026",
     "title": "[英] A Server Lost Power at 00:32. We Found Out at 08:18",
     "date": "2026-08-25"
   },
   {
-    "link": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
-    "title": "[英] A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+    "link": "https://blog.ydb.tech/making-coroutines-routine-building-a-scalable-tpc-c-client-in-c-b14f55a09471?postPublishedType=repub",
+    "title": "[英] A Practical Intuition for C++20 Coroutines",
     "date": "2026-08-25"
   },
   {
@@ -45,33 +70,8 @@
     "date": "2026-08-25"
   },
   {
-    "link": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base",
-    "title": "[英] Hot Chips 2026: Samsung and HBM Base Die Opportunities",
-    "date": "2026-08-25"
-  },
-  {
     "link": "https://inferquest.org",
     "title": "[英] Show HN: Free Inference Engineer and Model Training Roadmap",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://johncarlosbaez.wordpress.com/2026/08/12/three-generations-in-e7/",
-    "title": "[英] Three Generations in E7",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
-    "title": "[英] Could We Dredge the Netherlands Without Fossil Fuels?",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://www.adafruit.com/product/6323",
-    "title": "[英] Adafruit USB Type C CC Resistor Fixer",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
-    "title": "[英] NetBSD GSoC 2026 Improving RAIDframe",
     "date": "2026-08-25"
   }
 ]
