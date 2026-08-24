@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.taylorforeman.com/p/technology-is-over",
+    "title": "[英] Technology Is Over",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
+    "title": "[英] Your \"File\" Menu Isn't About Files",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://github.com/getkern/kern",
+    "title": "[英] Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+    "title": "[英] Anger, Anxiety and Agency",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://textlog.cc/post/2059",
+    "title": "[英] Removed all counters, replies, following/ers, timestamps, from textlog",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
+    "title": "[英] Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
+    "title": "[英] What Is a Syslog Server?",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html",
+    "title": "[英] Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://github.com/ykdojo/claude-code-tips",
+    "title": "[英] Claude Code Tips",
+    "date": "2026-08-25"
+  },
+  {
     "link": "https://www.ycombinator.com/companies/autostep/jobs",
     "title": "[英] Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
     "date": "2026-08-25"
@@ -25,53 +70,8 @@
     "date": "2026-08-25"
   },
   {
-    "link": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
-    "title": "[英] EuroHPC Launches 6 Quantum Calls with €119M in Funding",
-    "date": "2026-08-25"
-  },
-  {
     "link": "https://tinkerandsee.com/weekday/",
     "title": "[英] Show HN: How to Mentally Calculate the Day of the Week for Any Date",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://acko.net/blog/curvature-beziers/",
-    "title": "[英] Curvature Beziers – Improving on a timeless recipe",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-    "title": "[英] Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.16603",
-    "title": "[英] Public services are increasingly strained by LLM-written appeals for benefits",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://picomq.com/",
-    "title": "[英] Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://glassbox.codecanary.org",
-    "title": "[英] Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://blog.ydb.tech/making-coroutines-routine-building-a-scalable-tpc-c-client-in-c-b14f55a09471?postPublishedType=repub",
-    "title": "[英] A Practical Intuition for C++20 Coroutines",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
-    "title": "[英] A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://github.com/ovenpasta/adi2",
-    "title": "[英] Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
     "date": "2026-08-25"
   }
 ]
