@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
+    "title": "[英] Omacom Foundation funding hits $10M",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://learn.omacom.io/3/omacom/76/omakase-computing",
+    "title": "[英] Omakase Computing",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
     "title": "[英] The treasury bond mess: is this the demise of the US as a safe haven?",
     "date": "2026-08-24"
@@ -62,16 +72,6 @@
   {
     "link": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
     "title": "[英] LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html",
-    "title": "[英] Your Open Source Model Could Have a Hidden Time-Release Backdoor",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://status.claude.com/uptime",
-    "title": "[英] Anthropic Claude and API service outages",
     "date": "2026-08-24"
   }
 ]
