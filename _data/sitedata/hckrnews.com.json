@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.assinafy.com.br",
+    "title": "[英] Assinafy – Assinatura eletrônica grátis and API liberada",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+    "title": "[英] Vintage Artificial Intelligence: Before It Got Awkward",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+    "title": "[英] One corner of China’s internet is insisting that the Tang Dynasty never existed",
+    "date": "2026-08-25"
+  },
+  {
     "link": "https://www.businessinsider.com/greg-abbott-texas-data-centers-backlash-2026-8",
     "title": "[英] Greg Abbott says data centers:'basically dug their own grave'",
     "date": "2026-08-25"
@@ -46,7 +61,7 @@
   },
   {
     "link": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
-    "title": "[英] Your \"File\" Menu Isn't About Files",
+    "title": "[英] The \"File\" menu isn't about files",
     "date": "2026-08-25"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://github.com/getkern/kern",
     "title": "[英] Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-    "title": "[英] Anger, Anxiety and Agency",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://textlog.cc/post/2059",
-    "title": "[英] Removed all counters, replies, following/ers, timestamps, from textlog",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
-    "title": "[英] Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
     "date": "2026-08-25"
   }
 ]
