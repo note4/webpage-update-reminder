@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+    "title": "[英] Agent Is Not the Model",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://proofcraft.systems/news-2026/#2026-08-21",
+    "title": "[英] SeL4 security proofs now complete on AArch64",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
+    "title": "[英] Anthropic candidates face blunt money question",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
     "title": "[英] Omacom Foundation funding hits $10M",
     "date": "2026-08-24"
@@ -57,21 +72,6 @@
   {
     "link": "https://employees.theworknumber.com",
     "title": "[英] The Work Number: credit score but for your employment history – by Equifax",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-    "title": "[英] Executable Is a SQLite Database",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://www.modelrepublic.org/articles/a16z-portfolio",
-    "title": "[英] Andreessen Horowitz is investing billions into a bleak future",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
-    "title": "[英] LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
     "date": "2026-08-24"
   }
 ]
