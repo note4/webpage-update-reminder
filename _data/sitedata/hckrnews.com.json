@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://essays.georgestrakhov.com/weird/",
+    "title": "[英] The Future Belongs to the Weird",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://corkmac.app/our-ai-stance/",
+    "title": "[英] We never use AI. For anything",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
+    "title": "[英] Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
+    "title": "[英] Fast drilldown dashboards from a single Parquet file",
+    "date": "2026-08-24"
+  },
+  {
+    "link": "https://lwn.net/Articles/1090098/",
+    "title": "[英] Mourning Steve French",
+    "date": "2026-08-24"
+  },
+  {
     "link": "https://cmart.blog/claude-writing/",
     "title": "[英] Why is Anthropic's public writing style so unlike Claude's?",
     "date": "2026-08-24"
@@ -47,31 +72,6 @@
   {
     "link": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
     "title": "[英] FDA clears blood test to aid evaluation for Alzheimer's disease",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://github.com/thiagotigaz/ocr-it",
-    "title": "[英] OCR It – pull text out of un-copyable documents for your LLM",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://twitter.com/paulg/status/2091544343589060625",
-    "title": "[英] I were 17, I'd learn how to build LLMs from scratch",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://status.claude.com/incidents/vgz5psbjmt1h",
-    "title": "[英] Elevated Errors for Multiple Models",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-    "title": "[英] New EU-wide product repair rules come into force",
-    "date": "2026-08-24"
-  },
-  {
-    "link": "https://davidbessis.substack.com/p/attention-is-all-we-have",
-    "title": "[英] Attention is all we have: A conjectural theory of cognitive inequality",
     "date": "2026-08-24"
   }
 ]
