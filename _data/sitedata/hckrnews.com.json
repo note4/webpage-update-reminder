@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.businessinsider.com/greg-abbott-texas-data-centers-backlash-2026-8",
+    "title": "[英] Greg Abbott says data centers:'basically dug their own grave'",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://yegge.ai/essays/fences-not-sandboxes/",
+    "title": "[英] Fences, Not Sandboxes",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
+    "title": "[英] Agent Lightning v1.0",
+    "date": "2026-08-25"
+  },
+  {
     "link": "https://skimmiq.com/pt/",
     "title": "[英] Show HN: A puzzle I couldn't solve for a year – cubers cracked it in an hour",
     "date": "2026-08-25"
@@ -57,21 +72,6 @@
   {
     "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
     "title": "[英] Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-    "title": "[英] What Is a Syslog Server?",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://github.com/ykdojo/claude-code-tips",
-    "title": "[英] Claude Code Tips",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html",
-    "title": "[英] Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9",
     "date": "2026-08-25"
   }
 ]
