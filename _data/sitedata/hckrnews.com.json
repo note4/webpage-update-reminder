@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.ycombinator.com/companies/autostep/jobs",
+    "title": "[英] Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+    "date": "2026-08-25"
+  },
+  {
     "link": "https://codefloe.com/",
     "title": "[英] Codefloe Is a Professionally Hosted Public Git Forge",
     "date": "2026-08-25"
@@ -20,13 +25,13 @@
     "date": "2026-08-25"
   },
   {
-    "link": "https://tinkerandsee.com/weekday/",
-    "title": "[英] Show HN: How to Mentally Calculate the Day of the Week for Any Date",
+    "link": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
+    "title": "[英] EuroHPC Launches 6 Quantum Calls with €119M in Funding",
     "date": "2026-08-25"
   },
   {
-    "link": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
-    "title": "[英] EuroHPC Launches 6 Quantum Calls with €119M in Funding",
+    "link": "https://tinkerandsee.com/weekday/",
+    "title": "[英] Show HN: How to Mentally Calculate the Day of the Week for Any Date",
     "date": "2026-08-25"
   },
   {
@@ -45,18 +50,13 @@
     "date": "2026-08-25"
   },
   {
-    "link": "https://glassbox.codecanary.org",
-    "title": "[英] Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-    "date": "2026-08-25"
-  },
-  {
     "link": "https://picomq.com/",
     "title": "[英] Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
     "date": "2026-08-25"
   },
   {
-    "link": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
-    "title": "[英] A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+    "link": "https://glassbox.codecanary.org",
+    "title": "[英] Show HN: GlassBox – what the browser reveals, and how identifiable you are",
     "date": "2026-08-25"
   },
   {
@@ -65,13 +65,13 @@
     "date": "2026-08-25"
   },
   {
-    "link": "https://github.com/ovenpasta/adi2",
-    "title": "[英] Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
+    "link": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+    "title": "[英] A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
     "date": "2026-08-25"
   },
   {
-    "link": "https://danubedata.ro/blog/storage-power-loss-postmortem-august-2026",
-    "title": "[英] A Server Lost Power at 00:32. We Found Out at 08:18",
+    "link": "https://github.com/ovenpasta/adi2",
+    "title": "[英] Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
     "date": "2026-08-25"
   }
 ]
