@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+    "title": "[英] Oceans hit highest temperature on record",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://github.com/l3a0/claude-plugins",
+    "title": "[英] A Claude Code skill that recovers export-blocked Kindle highlights",
+    "date": "2026-08-25"
+  },
+  {
     "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
     "title": "[英] Octopus intelligence may be related to never-before-seen mutation",
     "date": "2026-08-25"
@@ -15,13 +25,13 @@
     "date": "2026-08-25"
   },
   {
-    "link": "https://www.taylorforeman.com/p/technology-is-over",
-    "title": "[英] Technology Is Over",
+    "link": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
+    "title": "[英] Your \"File\" Menu Isn't About Files",
     "date": "2026-08-25"
   },
   {
-    "link": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
-    "title": "[英] Your \"File\" Menu Isn't About Files",
+    "link": "https://www.taylorforeman.com/p/technology-is-over",
+    "title": "[英] Technology Is Over",
     "date": "2026-08-25"
   },
   {
@@ -50,28 +60,18 @@
     "date": "2026-08-25"
   },
   {
-    "link": "https://github.com/ykdojo/claude-code-tips",
-    "title": "[英] Claude Code Tips",
-    "date": "2026-08-25"
-  },
-  {
     "link": "https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html",
     "title": "[英] Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9",
     "date": "2026-08-25"
   },
   {
-    "link": "https://www.ycombinator.com/companies/autostep/jobs",
+    "link": "https://github.com/ykdojo/claude-code-tips",
+    "title": "[英] Claude Code Tips",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
     "title": "[英] Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://codefloe.com/",
-    "title": "[英] Codefloe Is a Professionally Hosted Public Git Forge",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://thehill.com/policy/technology/6042349-darth-vader-flock-surveillance/",
-    "title": "[英] Man Dressed as Darth Vader Defends Flock Cameras to San Diego City Council",
     "date": "2026-08-25"
   }
 ]
