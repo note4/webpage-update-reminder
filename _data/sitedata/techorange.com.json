@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/08/25/china-z-ai-glm-5-2-safety-gap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【開源 AI 安全警訊】中國 AI 開源模型能力逼近西方巨頭，但任何人都能下載並移除安全護欄",
+    "date": "2026-08-25 09:54:11"
+  },
+  {
+    "link": "https://techorange.com/2026/08/25/ai-x/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【AI+X 雙棲人才缺口】八成 AI 專案失敗，企業缺的不是更強模型而是懂產業的 AI 人",
+    "date": "2026-08-25 09:53:36"
+  },
+  {
+    "link": "https://techorange.com/2026/08/25/ai-agent-security-cycraft/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "當員工把公司帳密全交給 AI，Zero Trust 正淪為「Null Trust」？專訪奧義賽博邱銘彰",
+    "date": "2026-08-25 09:35:29"
+  },
+  {
     "link": "https://techorange.com/2026/08/25/nvidia-ai-server-price-china-humanoid-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】NVIDIA 財報季收估 920 億美元、AI 伺服器傳漲逾 15%；中國包辦全球人形機器人前五大",
     "date": "2026-08-25 05:30:00"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/08/24/nvidia-poolside-ai-deal-apple-siri-vision-pro-layoffs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】【科技早餐】NVIDIA 傳砸 60 億美元搶 AI 技術，Apple 裁減逾 200 職位波及 Siri、Vision Pro",
     "date": "2026-08-24 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/22/how-organizations-use-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【OpenAI 企業 AI 導入實證】高管偏好決策概述與合規查詢，推動「流程再造」與「人機磨合」才是轉型核心",
-    "date": "2026-08-22 06:29:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/21/unitree-robot-software-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "宇樹科技王興興：機器人軟體最快還要 2 至 3 年突破，泛化仍是關鍵瓶頸",
-    "date": "2026-08-21 17:01:06"
-  },
-  {
-    "link": "https://techorange.com/2026/08/21/terrapower-natrium/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "GPU 負載劇烈波動，TerraPower 如何讓核能同時做到穩定與快速調度？",
-    "date": "2026-08-21 15:00:00"
   }
 ]
