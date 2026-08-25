@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
+    "title": "[英] OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+    "title": "[英] France's tax agency got hacked (in French)",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://dontwordle.com/",
+    "title": "[英] Don't Wordle",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+    "title": "[英] HelloAssembly The smallest possible complete Windows application",
+    "date": "2026-08-25"
+  },
+  {
     "link": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
     "title": "[英] Credit Card Rewards Became a $9.2B Wealth Transfer",
     "date": "2026-08-25"
@@ -52,26 +72,6 @@
   {
     "link": "https://dejan.ai/blog/ox-alpha/",
     "title": "[英] Ox-Alpha Is GLM?",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://kylezhe.ng/writes/crafting-qr-codes",
-    "title": "[英] Crafting QR Codes: A deep dive into QR code art (2024)",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://github.com/tobi/walgit",
-    "title": "[英] Walgit – a Git server that is one binary in front of an object store",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://nostr.org/",
-    "title": "[英] Nostr is an inclusive communication commons",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-    "title": "[英] What's new in Emacs 31.1",
     "date": "2026-08-25"
   }
 ]
