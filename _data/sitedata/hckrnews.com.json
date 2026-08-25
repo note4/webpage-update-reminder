@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://arxiv.org/abs/2608.21590",
+    "title": "[英] Black hole singularity is a surface not a point",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+    "title": "[英] Tooltips Need a Delay, and Then They Need to Skip It",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://rorz.io/writing/my-friend-aaron",
+    "title": "[英] My Friend Aaron",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers",
+    "title": "[英] Water Behind the Watts: The Hidden Risk of Powering Data Centers",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://dl.acm.org/doi/pdf/10.1145/3820012",
+    "title": "[英] Warnock: Harnessing GPU Geometry Amplification for Vector Graphics",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
     "title": "[英] Solving the 1+N Query Problem",
     "date": "2026-08-26"
@@ -47,31 +72,6 @@
   {
     "link": "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/",
     "title": "[英] Windows 95 released August 24, 1995",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
-    "title": "[英] MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-    "title": "[英] Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-    "title": "[英] Building a backyard office, the build and cost breakdown",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-    "title": "[英] Anthropic tells staff to work from home due to possible security team strike",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-    "title": "[英] New Mac mini, featuring M6 and M5 Pro",
     "date": "2026-08-26"
   }
 ]
