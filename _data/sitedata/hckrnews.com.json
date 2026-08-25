@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://fdeploy.com/",
+    "title": "[英] Show HN: I built self-hosted deployment automation tool for Windows and IIS",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49440786",
+    "title": "[英] XCancel also down, at least for time being",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
+    "title": "[英] One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+    "title": "[英] A brief history of federal lift ticket regulation",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid",
+    "title": "[英] Ripping Off the Hey.com Band-Aid",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
     "title": "[英] Python's pre-declared constants are kinda weird",
     "date": "2026-08-26"
@@ -47,31 +72,6 @@
   {
     "link": "https://twitter.com/WinRAR_RARLAB/status/2092182008319386067",
     "title": "[英] Trial is 40 days. Not until you're 40",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-    "title": "[英] OpenAI Jalapeño: Better than Nvidia Blackwell",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.instagram.com/reel/DceNXgPJyZ9/",
-    "title": "[英] A Message from the Family of Dolly Parton",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://freedom.press/the-classifieds/doj-prosecutes-single-foia-dodger-while-defending-systemwide-evasion/",
-    "title": "[英] DOJ prosecutes single FOIA dodger while defending systemwide evasion",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-death",
-    "title": "[英] Dolly Parton, queen of country music and humanitarian hero, dead at 80",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-    "title": "[英] Dolly Parton has died",
     "date": "2026-08-26"
   }
 ]
