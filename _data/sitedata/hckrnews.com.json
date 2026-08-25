@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://github.com/swimmingbrain/texbrain",
+    "title": "[英] Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://fdeploy.com/",
     "title": "[英] Show HN: I built self-hosted deployment automation tool for Windows and IIS",
     "date": "2026-08-26"
@@ -67,11 +72,6 @@
   {
     "link": "https://pgbot.dev/",
     "title": "[英] Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://twitter.com/WinRAR_RARLAB/status/2092182008319386067",
-    "title": "[英] Trial is 40 days. Not until you're 40",
     "date": "2026-08-26"
   }
 ]
