@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Dolly_Parton",
+    "title": "[英] Dolly Parton Has Died",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
+    "title": "[英] Behaviorally fingerprinting Ox Alpha's provenance",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+    "title": "[英] FDA Authorizes First Wearable Device That Monitors Ketone and Glucose Levels",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://github.com/ThinkOffApp/CarWatch",
+    "title": "[英] Show HN: I made a Raspberry with Qwen my local car AI",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://pgbot.dev/",
     "title": "[英] Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
     "date": "2026-08-26"
@@ -52,26 +72,6 @@
   {
     "link": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
     "title": "[英] Run Minecraft in a Windows sandbox for computer use agents",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-    "title": "[英] Fuzzing the Gleam Compiler",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://github.com/jeffhajewski/latticedb",
-    "title": "[英] Show HN: LatticeDB – Like SQLite but for graph databases",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
-    "title": "[英] A new ceiling for Λ: the de Bruijn–Newman constant",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-    "title": "[英] Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
     "date": "2026-08-26"
   }
 ]
