@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://paulgraham.com/prepare.html",
+    "title": "[英] How Universities Should Prepare Founders",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://plicara.ai/research/agent-skill-languages/",
+    "title": "[英] What languages are agent skills written in?",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://flostep.dev/",
+    "title": "[英] Show HN: Flostep – Diagrams people can actually walkthrough",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas",
+    "title": "[英] Iran Is Using Foreign Criminals to Attack Its Critics Overseas",
+    "date": "2026-08-25"
+  },
+  {
     "link": "https://github.com/murerkinn/bookshelf",
     "title": "[英] Bookshelf – Self-hosted eBook library that runs on object storage",
     "date": "2026-08-25"
@@ -20,8 +40,8 @@
     "date": "2026-08-25"
   },
   {
-    "link": "https://www.assinafy.com.br",
-    "title": "[英] Assinafy – Assinatura eletrônica grátis and API liberada",
+    "link": "https://news.ycombinator.com/item?id=49425867",
+    "title": "[英] undefined",
     "date": "2026-08-25"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://skimmiq.com/pt/",
     "title": "[英] Show HN: A puzzle I couldn't solve for a year – cubers cracked it in an hour",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-    "title": "[英] Oceans hit highest temperature on record",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://github.com/l3a0/claude-plugins",
-    "title": "[英] A Claude Code skill that recovers export-blocked Kindle highlights",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-    "title": "[英] Octopus intelligence may be related to never-before-seen mutation",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-    "title": "[英] LLMs could control their host machines by exploiting inference engines",
     "date": "2026-08-25"
   }
 ]
