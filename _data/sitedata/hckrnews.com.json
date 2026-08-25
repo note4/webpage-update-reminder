@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
+    "title": "[英] SiFive's First Server Platform",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://github.com/dragthelake/ambient-context",
+    "title": "[英] Show HN: Screen memory without screenshots, just text to Markdown",
+    "date": "2026-08-25"
+  },
+  {
     "link": "https://dejan.ai/blog/ox-alpha/",
     "title": "[英] Ox-Alpha Is GLM?",
     "date": "2026-08-25"
@@ -41,7 +51,7 @@
   },
   {
     "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-    "title": "[英] Was Modern Art a CIA Psy-Op? (2020)",
+    "title": "[英] Was modern art a CIA psy-op? (2020)",
     "date": "2026-08-25"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas",
     "title": "[英] Iran Is Using Foreign Criminals to Attack Its Critics Overseas",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://github.com/murerkinn/bookshelf",
-    "title": "[英] Bookshelf – Self-hosted eBook library that runs on object storage",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://ciechanow.ski/moon/",
-    "title": "[英] Moon (2024)",
     "date": "2026-08-25"
   }
 ]
