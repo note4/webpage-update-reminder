@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+    "title": "[英] Credit Card Rewards Became a $9.2B Wealth Transfer",
+    "date": "2026-08-25"
+  },
+  {
     "link": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
     "title": "[英] Quantum battery upends the rules of charging",
     "date": "2026-08-25"
@@ -67,11 +72,6 @@
   {
     "link": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
     "title": "[英] What's new in Emacs 31.1",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-    "title": "[英] Headlong: A Microharness for Persistent Agents",
     "date": "2026-08-25"
   }
 ]
