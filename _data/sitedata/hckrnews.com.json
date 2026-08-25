@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+    "title": "[英] Run OpenBSD on DigitalOcean for $4/month",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
+    "title": "[英] Run Minecraft in a Windows Sandbox for Computer Use Agents",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+    "title": "[英] Fuzzing the Gleam Compiler",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
+    "title": "[英] A new ceiling for Λ: the de Bruijn–Newman constant is at most 0.1787854",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://github.com/jeffhajewski/latticedb",
+    "title": "[英] LatticeDB – Like SQLite but for graph databases",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+    "title": "[英] Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://github.com/leodeim/vpsmon",
+    "title": "[英] Lightweight system monitor for Linux VPS written in Go",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://github.com/zedeus/nitter/issues/1442",
+    "title": "[英] Nitter project received cease and desist",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://www.spacex.com/sites/starbase-la",
+    "title": "[英] SpaceX – Starbase, LA",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://arxiv.org/abs/2608.21590",
     "title": "[英] Black hole singularity is a surface not a point",
     "date": "2026-08-26"
@@ -10,13 +55,13 @@
     "date": "2026-08-26"
   },
   {
-    "link": "https://rorz.io/writing/my-friend-aaron",
-    "title": "[英] My Friend Aaron",
+    "link": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers",
+    "title": "[英] Water Behind the Watts: The Hidden Risk of Powering Data Centers",
     "date": "2026-08-26"
   },
   {
-    "link": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers",
-    "title": "[英] Water Behind the Watts: The Hidden Risk of Powering Data Centers",
+    "link": "https://rorz.io/writing/my-friend-aaron",
+    "title": "[英] My Friend Aaron",
     "date": "2026-08-26"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
     "title": "[英] Solving the 1+N Query Problem",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49436556",
-    "title": "[英] undefined",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea",
-    "title": "[英] Anthropic Sees over $30T in Potential Revenue",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
-    "title": "[英] Visualizing Binary Files",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-    "title": "[英] AI is hitting entry-level jobs hardest, Stanford study finds",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-    "title": "[英] How much of HN is AI?",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
-    "title": "[英] Beyond Good and Evil: Nietzsche and the Great War",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.apple.com/shop/product/mlh74am/a/polishing-cloth",
-    "title": "[英] Polishing Cloth",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/",
-    "title": "[英] Apple Releases New Polishing Cloth",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/",
-    "title": "[英] Windows 95 released August 24, 1995",
     "date": "2026-08-26"
   }
 ]
