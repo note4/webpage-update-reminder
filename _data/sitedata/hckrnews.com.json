@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+    "title": "[英] Perplexity Portable Computer",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://en.wikipedia.org/wiki/Dolly_Parton",
     "title": "[英] Dolly Parton Has Died",
     "date": "2026-08-26"
@@ -11,7 +16,7 @@
   },
   {
     "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-    "title": "[英] FDA Authorizes First Wearable Device That Monitors Ketone and Glucose Levels",
+    "title": "[英] FDA authorizes first wearable device that monitors ketone and blood sugar levels",
     "date": "2026-08-26"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
     "title": "[英] Run OpenBSD on DigitalOcean for $4/month",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
-    "title": "[英] Run Minecraft in a Windows sandbox for computer use agents",
     "date": "2026-08-26"
   }
 ]
