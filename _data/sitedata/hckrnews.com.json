@@ -1,12 +1,47 @@
 [
   {
+    "link": "https://dejan.ai/blog/ox-alpha/",
+    "title": "[英] Ox-Alpha Is GLM?",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://kylezhe.ng/writes/crafting-qr-codes",
+    "title": "[英] Crafting QR Codes: A deep dive into QR code art (2024)",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://github.com/tobi/walgit",
+    "title": "[英] Walgit – a Git server that is one binary in front of an object store",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://nostr.org/",
+    "title": "[英] Nostr is an inclusive communication commons",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
+    "title": "[英] What's new in Emacs 31.1",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "title": "[英] Headlong: A Microharness for Persistent Agents",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49428842",
+    "title": "[英] Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
+    "date": "2026-08-25"
+  },
+  {
     "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
     "title": "[英] Thomson Reuters Launches Its Own Frontier Model",
     "date": "2026-08-25"
   },
   {
     "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-    "title": "[英] Was Modern Art a CIA Psy-Op?",
+    "title": "[英] Was Modern Art a CIA Psy-Op? (2020)",
     "date": "2026-08-25"
   },
   {
@@ -21,7 +56,7 @@
   },
   {
     "link": "https://flostep.dev/",
-    "title": "[英] Show HN: Flostep – Diagrams people can actually walkthrough",
+    "title": "[英] Show HN: Flostep – Diagrams people can actually walk through",
     "date": "2026-08-25"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://ciechanow.ski/moon/",
     "title": "[英] Moon (2024)",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://developer.apple.com/news/?id=1ptvdtcm",
-    "title": "[英] iCloud+ Hide My Email addresses will remain on icloud.com",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://shop.nist.gov/ccrz__ProductDetails?sku=2387",
-    "title": "[英] NIST is selling Peanut Butter for $415.33 per jar",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49425867",
-    "title": "[英] undefined",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-    "title": "[英] One corner of China’s internet is insisting that the Tang Dynasty never existed",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-    "title": "[英] Vintage Artificial Intelligence: Before It Got Awkward",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://www.businessinsider.com/greg-abbott-texas-data-centers-backlash-2026-8",
-    "title": "[英] Greg Abbott says data centers:'basically dug their own grave'",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://yegge.ai/essays/fences-not-sandboxes/",
-    "title": "[英] Fences, Not Sandboxes",
     "date": "2026-08-25"
   }
 ]
