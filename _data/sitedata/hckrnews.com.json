@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+    "title": "[英] The state of AI in 2026: On the road to ROI",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/",
+    "title": "[英] US data centers tripled annual water consumption to 17B gallons",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+    "title": "[英] Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "title": "[英] Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+    "date": "2026-08-25"
+  },
+  {
+    "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+    "title": "[英] Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+    "date": "2026-08-25"
+  },
+  {
     "link": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
     "title": "[英] OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
     "date": "2026-08-25"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom",
     "title": "[英] 'Never seen this level of objection': Scotland pushes back against datacentres",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
-    "title": "[英] Volcanoes that made history",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49429345",
-    "title": "[英] undefined",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
-    "title": "[英] SiFive's First Server Platform",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://github.com/dragthelake/ambient-context",
-    "title": "[英] Show HN: Screen memory without screenshots, just text to Markdown",
-    "date": "2026-08-25"
-  },
-  {
-    "link": "https://dejan.ai/blog/ox-alpha/",
-    "title": "[英] Ox-Alpha Is GLM?",
     "date": "2026-08-25"
   }
 ]
