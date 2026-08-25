@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.jack.bio/blog/costco-gas-tracking",
+    "title": "[英] Tracking Costco gas prices",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
     "title": "[英] Run OpenBSD on DigitalOcean for $4/month",
     "date": "2026-08-26"
@@ -41,7 +46,7 @@
   },
   {
     "link": "https://www.spacex.com/sites/starbase-la",
-    "title": "[英] SpaceX – Starbase, LA",
+    "title": "[英] Starbase, LA",
     "date": "2026-08-26"
   },
   {
@@ -55,23 +60,18 @@
     "date": "2026-08-26"
   },
   {
-    "link": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers",
-    "title": "[英] Water Behind the Watts: The Hidden Risk of Powering Data Centers",
-    "date": "2026-08-26"
-  },
-  {
     "link": "https://rorz.io/writing/my-friend-aaron",
     "title": "[英] My Friend Aaron",
     "date": "2026-08-26"
   },
   {
-    "link": "https://dl.acm.org/doi/pdf/10.1145/3820012",
-    "title": "[英] Warnock: Harnessing GPU Geometry Amplification for Vector Graphics",
+    "link": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers",
+    "title": "[英] Water Behind the Watts: The Hidden Risk of Powering Data Centers",
     "date": "2026-08-26"
   },
   {
-    "link": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-    "title": "[英] Solving the 1+N Query Problem",
+    "link": "https://dl.acm.org/doi/pdf/10.1145/3820012",
+    "title": "[英] Warnock: Harnessing GPU Geometry Amplification for Vector Graphics",
     "date": "2026-08-26"
   }
 ]
