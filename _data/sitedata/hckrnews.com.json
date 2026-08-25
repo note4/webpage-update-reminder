@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+    "title": "[英] When str.lower() is a security vulnerability in Python – Seth Larson",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+    "title": "[英] C2PA Cameras Do Not Survive Contact with Reality",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
     "title": "[英] Perplexity Portable Computer",
     "date": "2026-08-26"
@@ -62,16 +72,6 @@
   {
     "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
     "title": "[英] Firefox 157 will include JPEG XL by default on all platforms",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.jack.bio/blog/costco-gas-tracking",
-    "title": "[英] Tracking Costco gas prices",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-    "title": "[英] Run OpenBSD on DigitalOcean for $4/month",
     "date": "2026-08-26"
   }
 ]
