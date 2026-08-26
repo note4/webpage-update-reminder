@@ -1,7 +1,17 @@
 [
   {
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+    "title": "[英] Disrupting a new covert influence campaign from Russia",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://www.apple.com/mac-studio/",
+    "title": "[英] Apple Mac Studio M5 Ultra with 1.2TB/S Memory Bandwidth",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-    "title": "[英] Secret Cold War IBM Supercomputer Was Built for One Job",
+    "title": "[英] Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
     "date": "2026-08-26"
   },
   {
@@ -62,16 +72,6 @@
   {
     "link": "https://fdeploy.com/",
     "title": "[英] Show HN: I built self-hosted deployment automation tool for Windows and IIS",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49440786",
-    "title": "[英] XCancel also down, at least for time being",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
-    "title": "[英] One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
     "date": "2026-08-26"
   }
 ]
