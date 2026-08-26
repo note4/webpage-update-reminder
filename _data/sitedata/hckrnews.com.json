@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.theguardian.com/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court",
+    "title": "[英] The journalist facing an $800 daily fine to keep her sources secret",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+    "title": "[英] U.S. gov't moves to suppress pushback on data centers",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://archive.org/details/1958-02_IF",
     "title": "[英] The Feeling of Power (Asimov, 1958)",
     "date": "2026-08-26"
@@ -62,16 +72,6 @@
   {
     "link": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
     "title": "[英] I miss the old Claude Code",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
-    "title": "[英] Disrupting a new covert influence campaign from Russia",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.apple.com/mac-studio/",
-    "title": "[英] Apple Mac Studio M5 Ultra with 1.2TB/S Memory Bandwidth",
     "date": "2026-08-26"
   }
 ]
