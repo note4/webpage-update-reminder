@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+    "title": "[英] Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+    "title": "[英] AWS Acquires DuckDB",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+    "title": "[英] A curmudgeon tries a language server",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+    "title": "[英] Bill Gates: The turbulent AI era is here",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+    "title": "[英] Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548",
+    "title": "[英] X sends in the lawyers to shut down open source project",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+    "title": "[英] Omarchy development practices lead to predictable security issues",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
     "title": "[英] Proliferate (YC S25) Is Hiring",
     "date": "2026-08-26"
@@ -37,41 +72,6 @@
   {
     "link": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
     "title": "[英] U.S. gov't moves to suppress pushback on data centers",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://archive.org/details/1958-02_IF",
-    "title": "[英] The Feeling of Power (Asimov, 1958)",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://gordonbeeming.com/blog/2026-04-29/nobody-wants-artisanal-code-anymore",
-    "title": "[英] Nobody Wants Artisanal Code Anymore",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-    "title": "[英] Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
-    "title": "[英] Social media use on the rise among Australian under-16s after ban: data",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-    "title": "[英] Value Classes Still Need Compiler Sympathy",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-    "title": "[英] RAG Is Simpler Than You Think",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49445787",
-    "title": "[英] undefined",
     "date": "2026-08-26"
   }
 ]
