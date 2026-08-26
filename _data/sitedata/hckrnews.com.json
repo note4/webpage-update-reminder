@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+    "title": "[英] Secret Cold War IBM Supercomputer Was Built for One Job",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
     "title": "[英] More than half of adults in U.S. say they lack basic statistical understanding",
     "date": "2026-08-26"
@@ -67,11 +72,6 @@
   {
     "link": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
     "title": "[英] One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-    "title": "[英] A brief history of federal lift ticket regulation",
     "date": "2026-08-26"
   }
 ]
