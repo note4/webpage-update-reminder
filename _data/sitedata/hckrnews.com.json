@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://arxiv.org/abs/2607.21503",
+    "title": "[英] Agentic Context Management: Memory and Cost as Architecture Problems",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=49443820",
     "title": "[英] Ask HN: What is one simple thing LLMs are insanely bad at?",
     "date": "2026-08-26"
@@ -67,11 +72,6 @@
   {
     "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "title": "[英] When str.lower() is a security vulnerability in Python – Seth Larson",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-    "title": "[英] C2PA Cameras Do Not Survive Contact with Reality",
     "date": "2026-08-26"
   }
 ]
