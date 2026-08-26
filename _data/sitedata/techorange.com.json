@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/08/26/openai-jalapeno-built-for-fast-inference-at-scale/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 首款自研晶片跑贏 NVIDIA Blackwell，為何 Jalapeño 第一代就追上 GPU？",
+    "date": "2026-08-26 11:10:32"
+  },
+  {
     "link": "https://techorange.com/2026/08/26/creating-a-new-cto/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "CTO 不再是招募主管、拍板架構，而是設計持續判斷 AI 程式碼好壞的系統",
     "date": "2026-08-26 10:12:41"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/08/24/semicon-supplychain-cycraft-gss-txone-devcore-ey-vicone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "「駭客不再偷設計圖，而是綁架產線。」奧義、叡揚、TXOne、DEVCORE、安永、VicOne 專家解密供應鏈資安威脅與國際接單通行證",
     "date": "2026-08-24 16:56:33"
-  },
-  {
-    "link": "https://techorange.com/2026/08/24/anthropic-fable-5-demand-from-corporate-clients/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Anthropic 最強模型只占 11% 客戶模型支出，Fable 5 暴露 AI「能力溢價」難題",
-    "date": "2026-08-24 16:43:19"
   }
 ]
