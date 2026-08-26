@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/08/26/apple-unveils-mac-mini-featuring-new-m6-m5-pro/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "迎戰本地 AI 代理時代：新款 Mac mini 挾 M6 晶片登場，蘋果打造「微型 AI 工作站」",
+    "date": "2026-08-26 12:56:03"
+  },
+  {
     "link": "https://techorange.com/2026/08/26/openai-jalapeno-built-for-fast-inference-at-scale/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "OpenAI 首款自研晶片跑贏 NVIDIA Blackwell，為何 Jalapeño 第一代就追上 GPU？",
     "date": "2026-08-26 11:10:32"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/08/24/gss-bitsight-mendio-codesonar-trackosecops/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "從單點風險到產線韌性，叡揚資訊打造製造業資安閉環：看得見、隔得開、追得完",
     "date": "2026-08-24 17:01:50"
-  },
-  {
-    "link": "https://techorange.com/2026/08/24/semicon-supplychain-cycraft-gss-txone-devcore-ey-vicone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "「駭客不再偷設計圖，而是綁架產線。」奧義、叡揚、TXOne、DEVCORE、安永、VicOne 專家解密供應鏈資安威脅與國際接單通行證",
-    "date": "2026-08-24 16:56:33"
   }
 ]
