@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://archive.org/details/1958-02_IF",
+    "title": "[英] The Feeling of Power (Asimov, 1958)",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://gordonbeeming.com/blog/2026-04-29/nobody-wants-artisanal-code-anymore",
+    "title": "[英] Nobody Wants Artisanal Code Anymore",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "title": "[英] Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
     "title": "[英] Social media use on the rise among Australian under-16s after ban: data",
     "date": "2026-08-26"
@@ -15,8 +30,8 @@
     "date": "2026-08-26"
   },
   {
-    "link": "http://alessandrorosa.altervista.org/pages/my.anti.ai.manifesto.html",
-    "title": "[英] My Anti-AI Manifesto",
+    "link": "https://news.ycombinator.com/item?id=49445787",
+    "title": "[英] undefined",
     "date": "2026-08-26"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://www.apple.com/mac-studio/",
     "title": "[英] Apple Mac Studio M5 Ultra with 1.2TB/S Memory Bandwidth",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-    "title": "[英] Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-    "title": "[英] More than half of adults in U.S. say they lack basic statistical understanding",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=656058JxTM0",
-    "title": "[英] Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
     "date": "2026-08-26"
   }
 ]
