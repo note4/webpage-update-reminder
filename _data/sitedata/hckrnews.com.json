@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.reuters.com/world/middle-east/us-removes-syrias-designation-state-sponsor-terrorism-2026-08-24/",
+    "title": "[英] US removes Syria from terrorism sponsor list, lifting major investment obstacle",
+    "date": "2026-08-26"
+  },
+  {
+    "link": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
+    "title": "[英] I miss the old Claude Code",
+    "date": "2026-08-26"
+  },
+  {
     "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
     "title": "[英] Disrupting a new covert influence campaign from Russia",
     "date": "2026-08-26"
@@ -62,16 +72,6 @@
   {
     "link": "https://climatecasino.substack.com/p/more-fucked-today-than-yesterday",
     "title": "[英] More Fucked Today Than Yesterday",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://github.com/swimmingbrain/texbrain",
-    "title": "[英] Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-    "date": "2026-08-26"
-  },
-  {
-    "link": "https://fdeploy.com/",
-    "title": "[英] Show HN: I built self-hosted deployment automation tool for Windows and IIS",
     "date": "2026-08-26"
   }
 ]
