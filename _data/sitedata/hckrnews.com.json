@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
+    "title": "[英] Memory Ordering in CPUs",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+    "title": "[英] VMs won't contain cyber-capable agents",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "title": "[英] The turbulent AI era is here",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Tim_Curry",
+    "title": "[英] Tim Curry Has Died",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+    "title": "[英] Tim Curry, Star of Rocky Horror Picture Show and Stephen King's It, Dies Aged 80",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://www.risklytics.ai/",
+    "title": "[英] Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+    "date": "2026-08-27"
+  },
+  {
     "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
     "title": "[英] It's so hard to finish an idea that is not yours (and suggested by AI)",
     "date": "2026-08-27"
@@ -40,38 +70,8 @@
     "date": "2026-08-27"
   },
   {
-    "link": "https://sshfighter.com?hn2",
-    "title": "[英] SSH Sshfighter.com",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://github.com/qisutu/qisutu",
-    "title": "[英] How HN: Qisutu – an open-source, self-hosted ticketing and service desk",
-    "date": "2026-08-27"
-  },
-  {
     "link": "https://www.bookandsword.com/2026/08/25/a-citation-to-asimov/",
     "title": "[英] A Citation to Asimov",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://stoacentral.com/library/on-anger-book-i",
-    "title": "[英] Seneca: On Anger, Book I",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://www6.slac.stanford.edu/public-tours",
-    "title": "[英] Take a Tour of SLAC",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://hnstats.com",
-    "title": "[英] Show HN: How much of Hacker News is AI?",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
-    "title": "[英] You could have invented PageRank",
     "date": "2026-08-27"
   }
 ]
