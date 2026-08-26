@@ -1,7 +1,17 @@
 [
   {
+    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "title": "[英] Robotics startup Generalist reaches $3B valuation, sources say",
+    "date": "2026-08-26 08:40:59"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "title": "[英] OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "date": "2026-08-26 08:06:20"
+  },
+  {
     "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
-    "title": "[英] X sends cease-and-desist to open-source project Nitter over alleged scraping",
+    "title": "[英] X sends cease-and-desist to open source project Nitter over alleged scraping",
     "date": "2026-08-26 04:44:12"
   },
   {
@@ -63,15 +73,5 @@
     "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
     "title": "[英] Apple rescues Hide My Email feature from the privacy scrap heap",
     "date": "2026-08-25 22:46:32"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-    "title": "[英] OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-    "date": "2026-08-25 22:22:04"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
-    "title": "[英] Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
-    "date": "2026-08-25 22:10:36"
   }
 ]
