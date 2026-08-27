@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://pnpm.io/blog/releases/12.0",
+    "title": "[英] Pnpm 12.0",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://intestinate.com/pilfs/",
+    "title": "[英] PiLFS Linux from Scratch on the Raspberry Pi",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+    "title": "[英] Humanity has the debate about AI consciousness backwards",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
+    "title": "[英] Kusama Yayoi has died",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://projects.laion.ai/bvd/",
+    "title": "[英] Laion Big Video Dataset",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://www.linum.ai/field-notes/data-filtering-gen-video",
+    "title": "[英] Getting video models to learn better, faster",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://github.com/SenteLabsAI/OpenExecutive",
+    "title": "[英] CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://infrequently.org/2025/11/performance-inequality-gap-2026/",
+    "title": "[英] The Performance Inequality Gap, 2026",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+    "title": "[英] Nvidia agrees to acquire Hugging Face for $13B",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.21560",
+    "title": "[英] High-Resolution Imaging for Statistical Validation of TESS Planet Candidates",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://api.github.com/meta",
+    "title": "[英] GitHub Publishes IPv6 Addresses for Git SSH remotes",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+    "title": "[英] Zohran and the Short Link",
+    "date": "2026-08-27"
+  },
+  {
+    "link": "https://www.mturk.com/",
+    "title": "[英] Mechanical Turk shutting down September 30",
+    "date": "2026-08-27"
+  },
+  {
     "link": "https://asahilinux.org/2026/08/progress-report-7-2/",
-    "title": "[英] Progress Linux 7.2 – Asahi Linux",
+    "title": "[英] Asahi Linux Progress Report: Linux 7.2",
     "date": "2026-08-27"
   },
   {
     "link": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
     "title": "[英] The Harness Is the Thing",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://www.clerky.com/blog/clerky-is-joining-stripe",
-    "title": "[英] Clerky Is Joining Stripe",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
-    "title": "[英] Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://polign.com/blog-edge-agent-memory",
-    "title": "[英] Show HN: A lightweight, stateless database for agent memory",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://www.magicpatterns.com/theme-park",
-    "title": "[英] Show HN: Build your own theme park",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49456134",
-    "title": "[英] undefined",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://lois.postu.la/posts/infrastructure-as-a-raclette",
-    "title": "[英] Infrastructure as Raclette",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://pushup.quest/",
-    "title": "[英] Show HN: Every push-up becomes an attack in a camera-counted RPG game",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.23228",
-    "title": "[英] mold: A Parallel Linker",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://revyl.com/blog/product-development-is-being-rewritten/",
-    "title": "[英] Product Development is being Rewritten",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://ICML.cc/virtual/2026/invited-talk/67274",
-    "title": "[英] What will be left for us to work on",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49455202",
-    "title": "[英] undefined",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://openai.com/webmcp-challenge/",
-    "title": "[英] WebMCP Challenge – OpenAI",
-    "date": "2026-08-27"
-  },
-  {
-    "link": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
-    "title": "[英] IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
     "date": "2026-08-27"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/intl/zh-tw/products/cloud/flexible-billing-and-cost-controls-for-agents-on-google-cloud/",
+    "title": "AI 時代下的 FinOps：針對 AI 代理推出全新彈性計費與成本控制工具",
+    "date": "2026-08-27 18:10:00"
+  },
+  {
     "link": "https://blog.google/intl/zh-tw/products/cloud/gemini-enterprise-for-financial-service-and-legal/",
     "title": "Gemini Enterprise 現為各行各業量身打造專屬解決方案",
     "date": "2026-08-26 19:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/intl/zh-tw/products/cloud/7-eleven--drives-innovation-with-google-cloud-ai/",
     "title": "統一超商以 Google Cloud AI 技術驅動創新，從飲食建議到智慧生活圈的消費體驗",
     "date": "2026-05-25 18:10:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/cloud/2026-google-io-google-cloud-highlights/",
-    "title": "2026 Google I/O：Google Cloud 重點精華",
-    "date": "2026-05-20 10:20:00"
   }
 ]
