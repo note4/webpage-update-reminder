@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/08/27/ai-semiconductor-revenue-apple-m6-2nm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【科技早餐】全球半導體營收估增 92%，Apple M6 首採 2 奈米、Mac mini AI 效能最高達前代 4 倍",
+    "date": "2026-08-27 05:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/08/26/perplexity-nvidia-portable-computer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI Agent 不必全程上雲？Perplexity 聯手 NVIDIA 推 Portable Computer",
     "date": "2026-08-26 18:02:08"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/08/25/groq-3-lpx-nvidia-gpu/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Groq 3 LPX 正式量產：NVIDIA 為何願意讓 GPU「少做一點」？",
     "date": "2026-08-25 11:10:51"
-  },
-  {
-    "link": "https://techorange.com/2026/08/25/china-z-ai-glm-5-2-safety-gap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【開源 AI 安全警訊】中國 AI 開源模型能力逼近西方巨頭，但任何人都能下載並移除安全護欄",
-    "date": "2026-08-25 09:54:11"
   }
 ]
