@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://techorange.com/2026/08/28/2026-tie-ai-mftss-sil4/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "鐵道安全技術進軍智慧國防： 高科大「多源感測融合目標追蹤與抑制系統」首度亮相 2026 tie 未來科技館",
+    "date": "2026-08-28 11:27:35"
+  },
+  {
+    "link": "https://techorange.com/2026/08/28/cloudmile-agent-aegis-ai-foundry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI Agent 每一步都合法，但最後為什麼它會走偏了？",
+    "date": "2026-08-28 11:11:39"
+  },
+  {
+    "link": "https://techorange.com/2026/08/28/accelerated-understanding-4d-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "世界模型之外，Accelerated Understanding 押注 4D Physical AI",
+    "date": "2026-08-28 10:03:49"
+  },
+  {
+    "link": "https://techorange.com/2026/08/28/ai-new-resilience-in-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【製造業 AI 韌性】系統失效比預期更早到，建立 AI 韌性是製造業的利潤來源而非保險措施",
+    "date": "2026-08-28 09:45:12"
+  },
+  {
+    "link": "https://techorange.com/2026/08/28/nvidia-hugging-face-openai-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【科技早餐】NVIDIA 傳以 129 億美元收購 Hugging Face，約 700 個 OpenAI 測試代理入侵平台",
+    "date": "2026-08-28 05:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/08/27/ai-sk-hynix-samsung-electronics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 代理進晶圓廠：SK 海力士綁 KPI 衝 2030，三星要求供應商「列為標配」",
     "date": "2026-08-27 17:02:22"
@@ -48,30 +73,5 @@
     "link": "https://techorange.com/2026/08/26/aiongrowth2026-zerone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI ON Growth 2026 臺灣 AI 加速大會：零壹集團集結產官學研，共築企業 AI 規模落地新路徑",
     "date": "2026-08-26 16:50:31"
-  },
-  {
-    "link": "https://techorange.com/2026/08/26/owasp-ai-agent-goal-hijack/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "資安指標 OWASP 為 AI Agent 列出十大風險，第一名不用寫任何程式碼",
-    "date": "2026-08-26 16:34:31"
-  },
-  {
-    "link": "https://techorange.com/2026/08/26/apple-unveils-mac-mini-featuring-new-m6-m5-pro/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "迎戰本地 AI 代理時代：新款 Mac mini 挾 M6 晶片登場，蘋果打造「微型 AI 工作站」",
-    "date": "2026-08-26 12:56:03"
-  },
-  {
-    "link": "https://techorange.com/2026/08/26/openai-jalapeno-built-for-fast-inference-at-scale/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "OpenAI 首款自研晶片跑贏 NVIDIA Blackwell，為何 Jalapeño 第一代就追上 GPU？",
-    "date": "2026-08-26 11:10:32"
-  },
-  {
-    "link": "https://techorange.com/2026/08/26/creating-a-new-cto/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "CTO 不再是招募主管、拍板架構，而是設計持續判斷 AI 程式碼好壞的系統",
-    "date": "2026-08-26 10:12:41"
-  },
-  {
-    "link": "https://techorange.com/2026/08/26/target-proxima-digital-twin/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "63 項生鮮試點、貨架供貨率拉高 2.5%：零售巨頭 Target 如何用數位分身重塑供應鏈？",
-    "date": "2026-08-26 08:00:00"
   }
 ]
