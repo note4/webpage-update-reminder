@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/08/28/microduck-hugging-face-unveils-singing-skating-duck-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Hugging Face 推 399 美元雙足機器人 Microduck，主打開源、可教學與自主反應",
+    "date": "2026-08-28 16:32:14"
+  },
+  {
+    "link": "https://techorange.com/2026/08/28/cyberbiz-ai-agent-deployment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI Agent 上線三個月就被冷凍？CYBERBIZ 技術長：會反悔的 AI 才是能上線的 AI",
+    "date": "2026-08-28 15:28:46"
+  },
+  {
+    "link": "https://techorange.com/2026/08/28/openai-anthropic-issue-cyber-threat-warning/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI、Anthropic 等逾百家企業聯合示警：AI 網攻門檻大降，防禦只剩數月",
+    "date": "2026-08-28 12:18:51"
+  },
+  {
+    "link": "https://techorange.com/2026/08/28/anthropic-mhs-model-hardware-standard/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Anthropic 向實體設備出手：推 MHS 要讓 AI Agent 更容易跨設備操作",
+    "date": "2026-08-28 11:46:54"
+  },
+  {
     "link": "https://techorange.com/2026/08/28/2026-tie-ai-mftss-sil4/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "鐵道安全技術進軍智慧國防： 高科大「多源感測融合目標追蹤與抑制系統」首度亮相 2026 tie 未來科技館",
     "date": "2026-08-28 11:27:35"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/08/27/nvidia-jetson-orin-nano-2-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "生成式 AI 往入門級機器人下放，NVIDIA 新 Jetson 透露 Physical AI 硬體門檻變化",
     "date": "2026-08-27 08:00:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/27/ai-semiconductor-revenue-apple-m6-2nm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】全球半導體營收估增 92%，Apple M6 首採 2 奈米、Mac mini AI 效能最高達前代 4 倍",
-    "date": "2026-08-27 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/26/perplexity-nvidia-portable-computer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI Agent 不必全程上雲？Perplexity 聯手 NVIDIA 推 Portable Computer",
-    "date": "2026-08-26 18:02:08"
-  },
-  {
-    "link": "https://techorange.com/2026/08/26/skild-ai-context-learning-icl-new-robot-tasks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "單次示範就讓機器人學會新任務？Skild AI 推 S1 挑戰數百小時訓練舊模式",
-    "date": "2026-08-26 16:57:23"
-  },
-  {
-    "link": "https://techorange.com/2026/08/26/aiongrowth2026-zerone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI ON Growth 2026 臺灣 AI 加速大會：零壹集團集結產官學研，共築企業 AI 規模落地新路徑",
-    "date": "2026-08-26 16:50:31"
   }
 ]
