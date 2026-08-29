@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://frequal.com/aptera/ProductionDealAug2026.html",
+    "title": "[英] $44M Solar-Powered EV Production Deal Struck",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
+    "title": "[英] A safe MySQL upgrade that wasn't so safe",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer",
+    "title": "[英] What we want is a hunter gatherer lifestyle with space age tools",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
+    "title": "[英] Nancy Grace Roman Space Telescope Launches this Sunday",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
+    "title": "[英] LLMs are making me lose my savviness",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+    "title": "[英] Functional State Machines in Rust: Typestate and Newtype Patterns",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://coldtake.dev/blog/domain-driven-agents",
+    "title": "[英] Domain-Driven Agents",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://shitposting.ai/pickup-incident/",
+    "title": "[英] The elementary school pickup incident and the road ahead",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
+    "title": "[英] Recovering Corrupt Zip Files",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+    "title": "[英] Tencent Releases and Open-Sources Tencent Hy4 Preview",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+    "title": "[英] vLLM v0.28.0",
+    "date": "2026-08-30"
+  },
+  {
     "link": "https://mason.bearblog.dev/kmart-digicam-mod-part-2/",
     "title": "[英] Kmart Digicam Mod Part 2",
     "date": "2026-08-30"
@@ -17,61 +72,6 @@
   {
     "link": "https://mat.leaflet.pub/3mu35coarbs2o",
     "title": "[英] I hate AI images and music",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
-    "title": "[英] The Internet Is Kind of a Predatory Cesspit Now",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://prela-lang.org/tutorial/",
-    "title": "[英] A better SQL in 11 lines of code",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
-    "title": "[英] Trees for a Changing Climate and Resilient Urban Forest (2022)",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
-    "title": "[英] The growing divide between AI hype and software engineering reality",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://tucker.wales/writing/bias-towards-action/",
-    "title": "[英] Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://evanhahn.com/usergettingbored-vim/",
-    "title": "[英] Vim's UserGettingBored Autocmd",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
-    "title": "[英] Claude permanently raising weekly limits by 25%",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-    "title": "[英] Good Culture Is the Biggest Productivity Hack, Not AI",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
-    "title": "[英] Claude Code is going reduce limits by 25% from September 14",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
-    "title": "[英] Sleepwalker: Passive Backdoor with Its Own Command Language",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://ekunazanu.foo/lab/quantifying-colour/",
-    "title": "[英] Quantifying Colour",
     "date": "2026-08-30"
   }
 ]
