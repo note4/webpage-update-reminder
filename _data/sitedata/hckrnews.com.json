@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://ekunazanu.foo/lab/quantifying-colour/",
+    "title": "[英] Quantifying Colour",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://science.nasa.gov/mission/roman-space-telescope/",
+    "title": "[英] Nancy Grace Roman Space Telescope",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://zackbartel.com/blog/2026/08/tether/",
+    "title": "[英] Tether: iMessage, SMS, etc. on Linux",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+    "title": "[英] GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://www.dampfkraft.com/posuto.html",
+    "title": "[英] Parsing the Infamous Japanese Postal CSV",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://store.steampowered.com/news/app/1675200/view/689767056035283412",
+    "title": "[英] SteamOS 3.9.0 Preview",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://dgl.cx/2020/06/sqlite-json-support",
+    "title": "[英] SQLite as a Document Database (2020)",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://uecker.codeberg.page/2026-08-29.html",
+    "title": "[英] Indirect Calling of Nested Functions on GCC Without Executable Stack",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49489864",
+    "title": "[英] undefined",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://lwn.net/Articles/1091231/",
+    "title": "[英] Debian votes to allow \"responsible use of generative AI\"",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://typebase.io",
+    "title": "[英] Show HN: Typebase – A single-folder back end you write in TypeScript",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://haz.ee/posts/aetheryte-radio.html",
+    "title": "[英] Creating the Aetheryte Radio",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+    "title": "[英] EVE Online moves to Python 3",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49489504",
+    "title": "[英] undefined",
+    "date": "2026-08-30"
+  },
+  {
     "link": "https://galaxium.app",
     "title": "[英] Show HN: Galaxium, an experimental WebGPU space explorer",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
-    "title": "[英] Iceland votes on whether to restart talks on joining EU",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Glacier_mice",
-    "title": "[英] Glacier Mice",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://docs.python.org/3.16/library/time-complexity.html",
-    "title": "[英] Time complexity of operations on Python's built-in types",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
-    "title": "[英] You Know GDPR Is Good Based on Who Hates It",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-    "title": "[英] Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://www.inventati.org/who/manifesto",
-    "title": "[英] Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://github.com/paveluv/e",
-    "title": "[英] e is a customizable self-aware Emacs-like editor written in Chez Scheme",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://parowozowniawolsztyn.pl/?page_id=2141",
-    "title": "[英] Europe's last regular standard-gauge steam passenger service",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-    "title": "[英] Samsung's Processing-in-Memory (PIM)",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244",
-    "title": "[英] Queen Caroline turned King Arthur into an 18C royal PR strategy",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://twitterwebviewer.com/",
-    "title": "[英] Twitterwebviewer.com Service Discontinued",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/",
-    "title": "[英] Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://aconcan.io/blog/flyway-for-freeloaders/",
-    "title": "[英] Flyway for freeloaders, rollback implemented in Python",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
-    "title": "[英] I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
-    "date": "2026-08-29"
+    "date": "2026-08-30"
   }
 ]
