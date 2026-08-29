@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://galaxium.app",
+    "title": "[英] Show HN: Galaxium, an experimental WebGPU space explorer",
+    "date": "2026-08-29"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+    "title": "[英] Iceland votes on whether to restart talks on joining EU",
+    "date": "2026-08-29"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Glacier_mice",
+    "title": "[英] Glacier Mice",
+    "date": "2026-08-29"
+  },
+  {
+    "link": "https://docs.python.org/3.16/library/time-complexity.html",
+    "title": "[英] Time complexity of operations on Python's built-in types",
+    "date": "2026-08-29"
+  },
+  {
+    "link": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
+    "title": "[英] You Know GDPR Is Good Based on Who Hates It",
+    "date": "2026-08-29"
+  },
+  {
+    "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+    "title": "[英] Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+    "date": "2026-08-29"
+  },
+  {
+    "link": "https://www.inventati.org/who/manifesto",
+    "title": "[英] Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+    "date": "2026-08-29"
+  },
+  {
+    "link": "https://github.com/paveluv/e",
+    "title": "[英] e is a customizable self-aware Emacs-like editor written in Chez Scheme",
+    "date": "2026-08-29"
+  },
+  {
+    "link": "https://parowozowniawolsztyn.pl/?page_id=2141",
+    "title": "[英] Europe's last regular standard-gauge steam passenger service",
+    "date": "2026-08-29"
+  },
+  {
     "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
     "title": "[英] Samsung's Processing-in-Memory (PIM)",
     "date": "2026-08-29"
@@ -27,51 +72,6 @@
   {
     "link": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
     "title": "[英] I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-    "title": "[英] Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://github.com/kingroryg/turbokv",
-    "title": "[英] TurboKV: Insanely fast Rust key-value store",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://www.kumander.org/",
-    "title": "[英] Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-    "title": "[英] Our decision on Cursor following its acquisition by SpaceX",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
-    "title": "[英] Monzo Stand-In",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://github.com/stemdeckapp/stemdeck",
-    "title": "[英] StemDeck, a free, open-source and local AI stem separator",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://sometimes.digital/posts/experiments-with-plotter-art/",
-    "title": "[英] Experiments with Plotter Art",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
-    "title": "[英] PPWR lands another blow to an precarious tabletop industry",
-    "date": "2026-08-29"
-  },
-  {
-    "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "title": "[英] I accidentally turned LLM memory into program analysis",
     "date": "2026-08-29"
   }
 ]
