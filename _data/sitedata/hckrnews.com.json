@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://pcsx2.net/blog/2026/pcsx2-2.8/",
-    "title": "[英] PCSX2 2.8.0 is now out This release is PACKED",
+    "link": "https://wiki.xxiivv.com/site/pop2.html",
+    "title": "[英] A few feral cats in an ALGOL trenchcoat.",
     "date": "2026-08-30"
   },
   {
-    "link": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-    "title": "[英] RISC-V is now officially supported by CPython",
+    "link": "https://archive.org/details/vintageai",
+    "title": "[英] The Internet Archive's Vintage AI Collection",
     "date": "2026-08-30"
   },
   {
-    "link": "https://danluu.com/bug-blind/",
-    "title": "[英] Bug Blindness",
+    "link": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
+    "title": "[英] Google: Lake Ontario/Lake America name change in the U.S. will appear in Maps",
     "date": "2026-08-30"
   },
   {
-    "link": "https://iafisher.com/2026/08/sigprint",
-    "title": "[英] Is it safe to call print in a Python signal handler?",
+    "link": "https://www.dwarkesh.com/p/openai-huggingface",
+    "title": "[英] The Rise and Fall of Agent Civilizations",
     "date": "2026-08-30"
   },
   {
-    "link": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-    "title": "[英] Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://www.washingtonpost.com/technology/2026/08/19/we-found-cops-who-misused-flock-their-police-departments-didnt-know/",
-    "title": "[英] Police departments weren’t looking for Flock abuse. We did it for them.",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://twitter.now/maintenance/",
-    "title": "[英] Twitter (Not affiliated with X Corp)",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
-    "title": "[英] Highest-ever ocean temperature measured as powerful El Niño forms",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
-    "title": "[英] I co-founded Burning Man. The festival has lost its soul",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://github.com/YuriKovalov22/the-finn",
-    "title": "[英] The Finn – an agent that lives in my router and complains about it",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://defrag98.com",
-    "title": "[英] Defrag98: Windows 98 Disk Defragmenter Simulator Online",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49493660",
+    "link": "https://news.ycombinator.com/item?id=49495976",
     "title": "[英] undefined",
     "date": "2026-08-30"
   },
   {
-    "link": "https://cinemasojourns.com/2026/08/27/the-wandering-yamamura-theater-troupe/",
-    "title": "[英] The Wandering Yamamura Theater Troupe",
+    "link": "https://worksinprogress.co/issue/daycare-pseudoscience/",
+    "title": "[英] Daycare Pseudoscience",
     "date": "2026-08-30"
   },
   {
-    "link": "https://frequal.com/aptera/ProductionDealAug2026.html",
-    "title": "[英] Aptera announces a $44M to design and build a solar electric vehicle",
+    "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+    "title": "[英] California lawmakers unanimously pass Linux exemption from age-verification law",
     "date": "2026-08-30"
   },
   {
-    "link": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
-    "title": "[英] A safe MySQL upgrade that wasn't so safe",
+    "link": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+    "title": "[英] Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+    "title": "[英] Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+    "title": "[英] Benchmarking Pocket-Scale Inference",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://github.com/mk6i/open-oscar-server",
+    "title": "[英] Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians",
+    "title": "[英] No Country for Mediocre Mathematicians",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+    "title": "[英] Algorithmic rent-pricing litigation expands under new state and local laws",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://github.com/gbin/defragger",
+    "title": "[英] Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://freecore.org/",
+    "title": "[英] FreeCORE TrueNAS Core – Continued",
     "date": "2026-08-30"
   }
 ]
