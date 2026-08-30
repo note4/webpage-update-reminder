@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
+    "title": "[英] Sort branches by last commit date",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://github.com/KodeMunkie/sm750hdmifb",
+    "title": "[英] Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://kabaragoya.com/products/storm-summoner",
+    "title": "[英] Storm Summoner, a MIDI controller for effects pedals",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://www.404media.co/flocks-ceo-is-lying-to-cops-about-404-medias-reporting-on-abortion-case/",
+    "title": "[英] Flock's CEO Is Lying to Cops About 404 Media's Reporting on Abortion Case",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://www.maximum-progress.com/p/should-we-have-kept-the-american",
+    "title": "[英] Should We Have Kept the American Empire?",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://openrun.dev/blog/litestream/",
+    "title": "[英] Running SQLite Apps on Docker and Kubernetes with Litestream",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49500817",
+    "title": "[英] undefined",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://www.philrees.co.uk/articles/timecode.htm",
+    "title": "[英] Synchronisation and SMPTE timecode (time code)",
+    "date": "2026-08-31"
+  },
+  {
     "link": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
     "title": "[英] Artie (YC S23) Is Hiring Technical AES",
     "date": "2026-08-31"
@@ -32,46 +72,6 @@
   {
     "link": "https://www.tomshardware.com/video-games/pc-gaming/massive-12tb-steam-leak-reveals-decades-of-unreleased-games-archived-files-include-unseen-half-life-2-episode-3-builds-and-assets",
     "title": "[英] 12TB Steam leak reveals unseen Half-Life 2: Episode 3 builds",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-    "title": "[英] Haiku R1/beta6 has been released",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
-    "title": "[英] Dad's Custom Atari Peripherals – By Jim Trageser",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
-    "title": "[英] European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://imgur.com/a/0NQ0rFk",
-    "title": "[英] Zoom activated my mic and played \"recording in progress\" at 4AM",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://tech-insider.org/emacs-vs-vim-2026/",
-    "title": "[英] Emacs vs. Vim 2026: 24.3% vs. 8% Usage, 20x Memory Gap",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
-    "title": "[英] Europe's summer drought is so extreme that desertification is a growing threat",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/",
-    "title": "[英] When fruit is scarce, these monkeys hunt animals",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-    "title": "[英] Creepy Crawlies",
     "date": "2026-08-31"
   }
 ]
