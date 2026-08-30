@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html",
+    "title": "[英] Quest for the Eternal Dock – Lambdock",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://sander.ai/2026/08/24/continuous-dlms.html",
+    "title": "[英] Continuous Diffusion Language Models (CDLM's)",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://wilsonharper.net/projects/businesscard/",
+    "title": "[英] NFC Energy-Harvesting PCB Business Card with an MCU",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/",
+    "title": "[英] I am no longer letting Claude Code add itself as Co-author in my commits",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://async.cat/blog",
+    "title": "[英] 1kB Website as Status Symbol",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+    "title": "[英] Cores in space: The core memory module from a 1980 Spacelab computer",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://paragraph.com/@hagaetc/norway-shrugged",
+    "title": "[英] Norway Shrugged (2024)",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change",
+    "title": "[英] The world may have less time than it thinks on climate change",
+    "date": "2026-08-31"
+  },
+  {
+    "link": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
+    "title": "[英] Startup Anti-Patterns",
+    "date": "2026-08-31"
+  },
+  {
     "link": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
     "title": "[英] Sort branches by last commit date",
     "date": "2026-08-31"
@@ -27,51 +72,6 @@
   {
     "link": "https://openrun.dev/blog/litestream/",
     "title": "[英] Running SQLite Apps on Docker and Kubernetes with Litestream",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49500817",
-    "title": "[英] undefined",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://www.philrees.co.uk/articles/timecode.htm",
-    "title": "[英] Synchronisation and SMPTE timecode (time code)",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
-    "title": "[英] Artie (YC S23) Is Hiring Technical AES",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-    "title": "[英] METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://ziglang.org/devlog/2026/#2026-08-27",
-    "title": "[英] Zig: Pointer Stability for ArrayLists",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
-    "title": "[英] Electric rain can eat through metal",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://0xcc.io/posts/omarchy-root-creds/",
-    "title": "[英] Omarchy: Any User Process Can Escalate to Root",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://komoroske.com/slime-mold/",
-    "title": "[英] Coordination Headwind: How Organizations Are Like Slime Molds",
-    "date": "2026-08-31"
-  },
-  {
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/massive-12tb-steam-leak-reveals-decades-of-unreleased-games-archived-files-include-unseen-half-life-2-episode-3-builds-and-assets",
-    "title": "[英] 12TB Steam leak reveals unseen Half-Life 2: Episode 3 builds",
     "date": "2026-08-31"
   }
 ]
