@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://pcsx2.net/blog/2026/pcsx2-2.8/",
+    "title": "[英] PCSX2 2.8.0 is now out This release is PACKED",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+    "title": "[英] RISC-V is now officially supported by CPython",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://danluu.com/bug-blind/",
+    "title": "[英] Bug Blindness",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://iafisher.com/2026/08/sigprint",
+    "title": "[英] Is it safe to call print in a Python signal handler?",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+    "title": "[英] Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://www.washingtonpost.com/technology/2026/08/19/we-found-cops-who-misused-flock-their-police-departments-didnt-know/",
+    "title": "[英] Police departments weren’t looking for Flock abuse. We did it for them.",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://twitter.now/maintenance/",
+    "title": "[英] Twitter (Not affiliated with X Corp)",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+    "title": "[英] Highest-ever ocean temperature measured as powerful El Niño forms",
+    "date": "2026-08-30"
+  },
+  {
     "link": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
     "title": "[英] I co-founded Burning Man. The festival has lost its soul",
     "date": "2026-08-30"
@@ -32,46 +72,6 @@
   {
     "link": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
     "title": "[英] A safe MySQL upgrade that wasn't so safe",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer",
-    "title": "[英] What we want is a hunter gatherer lifestyle with space age tools",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
-    "title": "[英] Nancy Grace Roman Space Telescope Launches this Sunday",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
-    "title": "[英] LLMs are making me lose my savviness",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-    "title": "[英] Functional State Machines in Rust: Typestate and Newtype Patterns",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://coldtake.dev/blog/domain-driven-agents",
-    "title": "[英] Domain-Driven Agents",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://shitposting.ai/pickup-incident/",
-    "title": "[英] The elementary school pickup incident and the road ahead",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
-    "title": "[英] Recovering Corrupt Zip Files",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-    "title": "[英] Tencent Releases and Open-Sources Tencent Hy4 Preview",
     "date": "2026-08-30"
   }
 ]
