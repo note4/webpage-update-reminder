@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://wiki.xxiivv.com/site/pop2.html",
-    "title": "[英] A few feral cats in an ALGOL trenchcoat.",
+    "link": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+    "title": "[英] The turbulent AI era is here. The choices we make now are critical",
     "date": "2026-08-30"
   },
   {
-    "link": "https://archive.org/details/vintageai",
-    "title": "[英] The Internet Archive's Vintage AI Collection",
+    "link": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+    "title": "[英] Hacking IKEA Furniture",
     "date": "2026-08-30"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
-    "title": "[英] Google: Lake Ontario/Lake America name change in the U.S. will appear in Maps",
+    "link": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+    "title": "[英] An implementation of Conway's Game of Life for Windows 3.1x and later",
     "date": "2026-08-30"
   },
   {
-    "link": "https://www.dwarkesh.com/p/openai-huggingface",
-    "title": "[英] The Rise and Fall of Agent Civilizations",
+    "link": "https://smoores.dev/post/automating_immersive_reading/",
+    "title": "[英] Automating Immersive Reading",
     "date": "2026-08-30"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=49495976",
+    "link": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
+    "title": "[英] One Nix flake to rule them all",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://github.com/fugue-labs/monty-go",
+    "title": "[英] monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://www.pcgamer.com/games/fps/a-massive-cache-of-valve-data-has-reportedly-leaked-online-appearing-to-include-portal-2s-elusive-beta-build-and-a-potential-weapon-from-half-life-2-episode-3/",
+    "title": "[英] Leak of Internal Valve Data",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+    "title": "[英] Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+    "date": "2026-08-30"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49433573",
     "title": "[英] undefined",
     "date": "2026-08-30"
   },
   {
-    "link": "https://worksinprogress.co/issue/daycare-pseudoscience/",
-    "title": "[英] Daycare Pseudoscience",
+    "link": "https://github.com/AniketWathore/bolnee-chat",
+    "title": "[英] Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
     "date": "2026-08-30"
   },
   {
-    "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-    "title": "[英] California lawmakers unanimously pass Linux exemption from age-verification law",
+    "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+    "title": "[英] Fair Work Commission condemns 'plain wrong' AI legal advice",
     "date": "2026-08-30"
   },
   {
-    "link": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
-    "title": "[英] Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
+    "link": "https://community.webminal.org/t/my-fat-loss-experiments-with-chatgpt-and-water-fasting/8846",
+    "title": "[英] My fat loss experiments with ChatGPT and water fasting",
     "date": "2026-08-30"
   },
   {
-    "link": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-    "title": "[英] Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+    "link": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+    "title": "[英] Everyone Should Build Their Own Network Stack",
     "date": "2026-08-30"
   },
   {
-    "link": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-    "title": "[英] Benchmarking Pocket-Scale Inference",
+    "link": "https://git.zx2c4.com/spark/about/",
+    "title": "[英] Spark: Sparklines in your shell",
     "date": "2026-08-30"
   },
   {
-    "link": "https://github.com/mk6i/open-oscar-server",
-    "title": "[英] Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians",
-    "title": "[英] No Country for Mediocre Mathematicians",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
-    "title": "[英] Algorithmic rent-pricing litigation expands under new state and local laws",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://github.com/gbin/defragger",
-    "title": "[英] Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
-    "date": "2026-08-30"
-  },
-  {
-    "link": "https://freecore.org/",
-    "title": "[英] FreeCORE TrueNAS Core – Continued",
+    "link": "https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0",
+    "title": "[英] JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",
     "date": "2026-08-30"
   }
 ]
