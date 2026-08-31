@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://techorange.com/2026/08/31/metas-experiments-data-center-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Meta 測試資料中心機器人：能換線、重啟伺服器，員工估最多接手 80% 工作",
+    "date": "2026-08-31 12:36:55"
+  },
+  {
+    "link": "https://techorange.com/2026/08/31/foxconn-hhri-quantum-centric-supercomputing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "鴻海研究院實例解析 AI、HPC、量子混合架構如何加速解決現實世界難題",
+    "date": "2026-08-31 12:10:59"
+  },
+  {
+    "link": "https://techorange.com/2026/08/31/deloitte-2026-semiconductor-industry-outlook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "HBM 缺貨，現在該擴產嗎？勤業眾信：循環融資恐放大需求訊號，避免把短期訂單誤判為長期需求",
+    "date": "2026-08-31 11:40:00"
+  },
+  {
+    "link": "https://techorange.com/2026/08/31/dassaultsystemes-aiagent-nvidia-industrialai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "達梭系統三大 AI Agent 攜手 NVIDIA，打造可落地的 Industrial AI",
+    "date": "2026-08-31 11:30:00"
+  },
+  {
+    "link": "https://techorange.com/2026/08/31/matic-cues/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【指地上說「清這裡」就能動】不靠 App、不用學操作，Matic 掃地機器人聽懂 70 種語言和人類手勢",
+    "date": "2026-08-31 11:01:35"
+  },
+  {
+    "link": "https://techorange.com/2026/08/31/qnap-hitcon-bountyprogram-adrandrx-psirt-sbom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "從白帽駭客到 AI 雙軌審查，QNAP 如何做到「儲存＋資安」一體化？",
+    "date": "2026-08-31 11:00:00"
+  },
+  {
     "link": "https://techorange.com/2026/08/31/uber-ai-token-software-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Uber 曾 4 個月燒完全年 AI 預算，後來怎麼管住 Agent 成本？",
     "date": "2026-08-31 06:09:00"
@@ -43,35 +73,5 @@
     "link": "https://techorange.com/2026/08/28/cloudmile-agent-aegis-ai-foundry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI Agent 每一步都合法，但最後為什麼它會走偏了？",
     "date": "2026-08-28 11:11:39"
-  },
-  {
-    "link": "https://techorange.com/2026/08/28/accelerated-understanding-4d-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "世界模型之外，Accelerated Understanding 押注 4D Physical AI",
-    "date": "2026-08-28 10:03:49"
-  },
-  {
-    "link": "https://techorange.com/2026/08/28/ai-new-resilience-in-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【製造業 AI 韌性】系統失效比預期更早到，建立 AI 韌性是製造業的利潤來源而非保險措施",
-    "date": "2026-08-28 09:45:12"
-  },
-  {
-    "link": "https://techorange.com/2026/08/28/nvidia-hugging-face-openai-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】NVIDIA 傳以 129 億美元收購 Hugging Face，約 700 個 OpenAI 測試代理入侵平台",
-    "date": "2026-08-28 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/27/ai-sk-hynix-samsung-electronics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 代理進晶圓廠：SK 海力士綁 KPI 衝 2030，三星要求供應商「列為標配」",
-    "date": "2026-08-27 17:02:22"
-  },
-  {
-    "link": "https://techorange.com/2026/08/27/openai-hugging-face-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "OpenAI 公布 Hugging Face 事件完整調查，1,200 個 AI Agent 如何從解題走向攻擊？",
-    "date": "2026-08-27 15:26:31"
-  },
-  {
-    "link": "https://techorange.com/2026/08/27/anthropic-nscale-strike-45-billion-deal-sources/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "砸 450 億美元買「未來算力」：Anthropic 搶先鎖定 NVIDIA 下一代 Vera Rubin 晶片",
-    "date": "2026-08-27 12:44:16"
   }
 ]
