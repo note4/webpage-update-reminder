@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/09/01/nvidia-mediatek-partnership-build-ai-edge-cloud-computing-platforms/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "不只賣算力也賣架構：NVIDIA 砸 35 億美元投資聯發科，佈局客製化 AI 晶片生態系",
+    "date": "2026-09-01 11:58:39"
+  },
+  {
+    "link": "https://techorange.com/2026/09/01/ikea-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "導入 AI 不必樣樣都做，IKEA 用「雙軸四象限」決定投入順序",
+    "date": "2026-09-01 10:49:15"
+  },
+  {
+    "link": "https://techorange.com/2026/09/01/ai-context-engineering-jobs-boom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【情境工程人才缺口】不只是寫提示詞，企業需要能設計 AI 運作環境的人",
+    "date": "2026-09-01 09:38:29"
+  },
+  {
+    "link": "https://techorange.com/2026/09/01/ai-agents-are-reshaping-business/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【中小企業 AI 代理】AI 代理讓中小企業擁有數位勞動力，「信任邊界」決定它能走多遠",
+    "date": "2026-09-01 09:37:47"
+  },
+  {
     "link": "https://techorange.com/2026/09/01/tsmc-silicon-photonics-ai-interconnect/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】AI 算力愈強、傳輸愈吃緊！台積電：矽光子 2027 年市占破 50%",
     "date": "2026-09-01 05:30:00"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/08/31/uber-ai-token-software-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Uber 曾 4 個月燒完全年 AI 預算，後來怎麼管住 Agent 成本？",
     "date": "2026-08-31 06:09:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/31/openai-cursor-sk-hynix-hbm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】OpenAI 11 月停止供應 Cursor 模型，SK 海力士逾 40 億美元美國 HBM 廠動工",
-    "date": "2026-08-31 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/29/ai-in-financial-services-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【金融 AI 的生產力變現鴻溝】40% 機構實現獲利增長：年預算破 10 萬美元、微調自研專屬模型是關鍵",
-    "date": "2026-08-29 06:29:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/28/microduck-hugging-face-unveils-singing-skating-duck-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Hugging Face 推 399 美元雙足機器人 Microduck，主打開源、可教學與自主反應",
-    "date": "2026-08-28 16:32:14"
-  },
-  {
-    "link": "https://techorange.com/2026/08/28/cyberbiz-ai-agent-deployment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI Agent 上線三個月就被冷凍？CYBERBIZ 技術長：會反悔的 AI 才是能上線的 AI",
-    "date": "2026-08-28 15:28:46"
   }
 ]
