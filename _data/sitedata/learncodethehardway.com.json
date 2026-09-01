@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://learncodethehardway.com/emails/41-one-day-left/",
+    "title": "[英] 📧 One Day Left for 25% Off All Programming Courses",
+    "date": "2026-09-01"
+  },
+  {
     "link": "https://learncodethehardway.com/emails/40-flash-fall-sale/",
     "title": "[英] 📧 Day 1 of 20% Off All Courses",
     "date": "2026-09-01"
@@ -67,11 +72,6 @@
   {
     "link": "https://learncodethehardway.com/emails/29-mistaken-epic-supporter-sale-price/",
     "title": "[英] 📧 Epic Supporter Pack is Actually 15% Off Now",
-    "date": "2026-09-01"
-  },
-  {
-    "link": "https://learncodethehardway.com/emails/28-the-great-rewrite-and-other-changes/",
-    "title": "[英] 📧 The Great Rewrite Announcement",
     "date": "2026-09-01"
   }
 ]

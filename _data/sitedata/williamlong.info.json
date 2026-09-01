@@ -1,7 +1,12 @@
 [
   {
+    "link": "https://www.williamlong.info/archives/7559.html",
+    "title": "Hugo搭建静态网站教程",
+    "date": "2026-08-30 22:14:30"
+  },
+  {
     "link": "https://www.williamlong.info/archives/7558.html",
-    "title": "解决Cloudflare Pages的308自动重定向功能",
+    "title": "解决Cloudflare Pages的308自动重定向问题",
     "date": "2026-08-20 18:40:04"
   },
   {
@@ -43,10 +48,5 @@
     "link": "https://www.williamlong.info/archives/7550.html",
     "title": "《网络测评活动规范》出台",
     "date": "2026-06-20 16:39:58"
-  },
-  {
-    "link": "https://www.williamlong.info/archives/7549.html",
-    "title": "粉笔科技的人大讲座事件的说明与致歉",
-    "date": "2026-06-10 11:53:09"
   }
 ]
