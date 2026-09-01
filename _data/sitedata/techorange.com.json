@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/09/01/semicon-quantum-taiwan-forum-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "量子電腦如何才算「有用」？SEMICON 上，各家正在給出不同答案",
+    "date": "2026-09-01 17:43:06"
+  },
+  {
+    "link": "https://techorange.com/2026/09/01/the-pentagon-version-chatgpt-grok/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "ChatGPT、Grok 進駐五角大廈：300 萬美軍用生成式 AI，敏感資料如何不外流？",
+    "date": "2026-09-01 17:06:39"
+  },
+  {
+    "link": "https://techorange.com/2026/09/01/cloudmile-bindplane-google-secops/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "日誌分散、警示疲勞，企業如何以 Bindplane 與 Google SecOps 破解資安盲點",
+    "date": "2026-09-01 14:06:19"
+  },
+  {
     "link": "https://techorange.com/2026/09/01/nvidia-mediatek-partnership-build-ai-edge-cloud-computing-platforms/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "不只賣算力也賣架構：NVIDIA 砸 35 億美元投資聯發科，佈局客製化 AI 晶片生態系",
     "date": "2026-09-01 11:58:39"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/08/31/dassaultsystemes-aiagent-nvidia-industrialai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "達梭系統三大 AI Agent 攜手 NVIDIA，打造可落地的 Industrial AI",
     "date": "2026-08-31 11:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/31/matic-cues/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【指地上說「清這裡」就能動】不靠 App、不用學操作，Matic 掃地機器人聽懂 70 種語言和人類手勢",
-    "date": "2026-08-31 11:01:35"
-  },
-  {
-    "link": "https://techorange.com/2026/08/31/qnap-hitcon-bountyprogram-adrandrx-psirt-sbom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "從白帽駭客到 AI 雙軌審查，QNAP 如何做到「儲存＋資安」一體化？",
-    "date": "2026-08-31 11:00:00"
-  },
-  {
-    "link": "https://techorange.com/2026/08/31/uber-ai-token-software-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Uber 曾 4 個月燒完全年 AI 預算，後來怎麼管住 Agent 成本？",
-    "date": "2026-08-31 06:09:00"
   }
 ]

@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://community.openstreetmap.org/t/lake-ontario-lake-america/146975",
+    "title": "[英] Lake Ontario (\"Lake America\")",
+    "date": "2026-09-01"
+  },
+  {
+    "link": "https://github.com/aalsanie/codes",
+    "title": "[英] Codes – typed application outcomes for Kotlin and Java",
+    "date": "2026-09-01"
+  },
+  {
+    "link": "https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/",
+    "title": "[英] NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
+    "date": "2026-09-01"
+  },
+  {
+    "link": "https://github.com/ankidroid/Anki-Android/issues/21656",
+    "title": "[英] AnkiDroid: Google Play no longer allowing Open Collective donation link",
+    "date": "2026-09-01"
+  },
+  {
+    "link": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "title": "[英] 44% on ARC-AGI-1 in 67 cents",
+    "date": "2026-09-01"
+  },
+  {
+    "link": "https://acoup.blog/2026/08/28/collections-global-trade-and-united-states-navy/",
+    "title": "[英] Global Trade and the United States Navy",
+    "date": "2026-09-01"
+  },
+  {
+    "link": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+    "title": "[英] American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+    "date": "2026-09-01"
+  },
+  {
+    "link": "https://512pixels.net/2026/08/polishing-cloth-updated/",
+    "title": "[英] Polishing Cloth Updated",
+    "date": "2026-09-01"
+  },
+  {
+    "link": "https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/",
+    "title": "[英] Not Becoming a Cyborg",
+    "date": "2026-09-01"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49518916",
+    "title": "[英] undefined",
+    "date": "2026-09-01"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
+    "title": "[英] CollectWise (YC F24) Is Hiring",
+    "date": "2026-09-01"
+  },
+  {
+    "link": "https://tmpout.sh/5/",
+    "title": "[英] Tmp.0ut Volume 5",
+    "date": "2026-09-01"
+  },
+  {
     "link": "https://www.hostiqen.com/2026/08/google-ads-vs-facebook-ads-which-is.html",
     "title": "[英] Google Ads vs. Facebook Ads: Which Is Better for Small Businesses?",
     "date": "2026-09-01"
@@ -12,66 +72,6 @@
   {
     "link": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
     "title": "[英] Roget's Thesaurus",
-    "date": "2026-09-01"
-  },
-  {
-    "link": "https://github.com/vermellcc/vermell",
-    "title": "[英] Vermell – Minimal, dependency-free C++ web framework using epoll",
-    "date": "2026-09-01"
-  },
-  {
-    "link": "https://ismcpgoodyet.com",
-    "title": "[英] Is MCP Good Yet?",
-    "date": "2026-09-01"
-  },
-  {
-    "link": "https://www.gpuworld.org/",
-    "title": "[英] GPU World",
-    "date": "2026-09-01"
-  },
-  {
-    "link": "https://www.gpuworld.org/",
-    "title": "[英] GPU World",
-    "date": "2026-09-01"
-  },
-  {
-    "link": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
-    "title": "[英] Flat vs. segmented memory – it's recursive",
-    "date": "2026-09-01"
-  },
-  {
-    "link": "https://restroomarchive.com",
-    "title": "[英] Restroom Archive",
-    "date": "2026-09-01"
-  },
-  {
-    "link": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
-    "title": "[英] DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
-    "date": "2026-09-01"
-  },
-  {
-    "link": "https://byopiapress.wordpress.com/2024/05/19/a-cyanometer-and-a-cloud-colourimeter/",
-    "title": "[英] A Cyanometer and a Cloud Colourimeter",
-    "date": "2026-09-01"
-  },
-  {
-    "link": "https://github.com/fregacmols/RotaryCell",
-    "title": "[英] RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
-    "date": "2026-09-01"
-  },
-  {
-    "link": "https://tailscale.com/blog/tailcat",
-    "title": "[英] Tailcat: Tailscale Without Tailscale, by Tailscale",
-    "date": "2026-09-01"
-  },
-  {
-    "link": "https://fastpotify.rocks/",
-    "title": "[英] Fastpotify",
-    "date": "2026-09-01"
-  },
-  {
-    "link": "https://antigravity.google/docs/boost/",
-    "title": "[英] Google Antigravity introduces Boost deep reasoning (/boost)",
     "date": "2026-09-01"
   }
 ]
