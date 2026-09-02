@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://owntime.app/",
+    "title": "[英] Show HN: OwnTime – a chess clock for your day's priorities",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://blog.val.town/aeo",
+    "title": "[英] A docs page is a search query to find AI agents and route them to your company",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+    "title": "[英] Mamdani Bans AI in NYC Schools",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://www.vidact.dev/",
+    "title": "[英] Vidact – a compiler that turns React into direct DOM operations",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
+    "title": "[英] Earth's organisms developed via evolution. What if the cosmos did, too?",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://werwolv.net/posts/file_format_reverse_engineering/",
+    "title": "[英] Reverse Engineering Unknown File Formats with ImHex",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://nango.dev/careers",
+    "title": "[英] Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+    "title": "[英] Altair Basic Interpreter Source Code (1975) [pdf]",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://github.com/zvec-ai/zvec-grep",
+    "title": "[英] Z: Local-first search layer for humans and agents",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://github.com/PhiloLabs/fable51-worlds",
+    "title": "[英] Fable 5.1 World Modeling",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+    "title": "[英] I wanna live an NPC life",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://www.gpupartner.com/blog/a-practical-guide-to-running-8x-rtx-pro-6000s",
+    "title": "[英] A practical guide to running 8x RTX PRO 6000's",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
+    "title": "[英] AI Agents and the Refactoring That Never Happens",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/",
+    "title": "[英] Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form",
+    "date": "2026-09-03"
+  },
+  {
     "link": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/",
     "title": "[英] The Post-AI Internet Doesn't Look Great",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://seerofthe.net/the-death-of-physical-media/",
-    "title": "[英] The Death of Physical Media",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
-    "title": "[英] Introducing Muse Spark 1.3",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://developer.meta.com/ai/models/muse-spark/",
-    "title": "[英] Muse Spark 1.3",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
-    "title": "[英] Embedded Rust RTOS vs. C RTOS",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://coyotetracks.org/blog/stay-in-tech/",
-    "title": "[英] I Don't Think I Can Stay in Tech",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-    "title": "[英] Google avoids a breakup of its ad tech business",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://www.reuters.com/legal/litigation/google-defeats-us-bid-force-ad-tech-sale-2026-09-02/",
-    "title": "[英] Google escapes ad tech breakup in third Big Tech antitrust loss for US",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-    "title": "[英] The Qantas A380 engine disintegration in 2010",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
-    "title": "[英] Wendell Berry has died",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://www.marginallycompelling.com/p/the-american-worker-vs-the-most-qualified",
-    "title": "[英] The American Worker vs. the Most Qualified",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://ariadne.space/2026/09/01/humanity-has-built-the-records.html",
-    "title": "[英] Humanity has built the records of FATE by accident",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://blog.cloudflare.com/cache-transcoding/",
-    "title": "[英] We could save petabytes of cache storage with Zstandard and Pingora",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://marius.blog/firefox-155-ai-kill-switch-retest/",
-    "title": "[英] Firefox's AI Switch Is Off. Telemetry Isn't",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://textlog.cc/post/895",
-    "title": "[英] Why do so many tools have JSON config files?",
     "date": "2026-09-03"
   }
 ]
