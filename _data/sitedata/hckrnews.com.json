@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://benholmen.com/blog/halfmoon-chimes/",
+    "title": "[英] Building an interactive instrument for a one-of-a-kind festival",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://jx0.ca/building-autonomous-goal-loops-that-deliver/",
+    "title": "[英] Building Autonomous Goal Loops That Deliver",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+    "title": "[英] The efficient frontier of LLM inference",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "title": "[英] Improving our alignment and security efforts",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://strado.info/",
+    "title": "[英] What's within a 10-minute walk in 50 European cities",
+    "date": "2026-09-02"
+  },
+  {
     "link": "https://sonic-pi.net/",
     "title": "[英] Sonic Pi",
     "date": "2026-09-02"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue",
     "title": "[英] Dyson CameraJet electric toothbrush",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49528000",
-    "title": "[英] undefined",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://iurii.net/en/blog/posts/software-engineering/i-used-fable-to-rewrite-65kloc-to-rust/",
-    "title": "[英] I used Fable to rewrite 65kLoC of Go in Rust. It cost $400",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://newtonsorchard.app",
-    "title": "[英] Show HN: Newton's Orchard – Browser-based space/gravity playground",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-    "title": "[英] Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-    "title": "[英] The ChatGPT/Codex app bundles a full copy of LibreOffice",
     "date": "2026-09-02"
   }
 ]
