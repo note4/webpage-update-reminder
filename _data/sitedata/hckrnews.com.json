@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://contemporary-home-computing.org/prof-dr-style/",
+    "title": "[英] Top Web Design Styles of 1993",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.29530",
+    "title": "[英] The Emergent Symbolic Structure of Artificial Neural Networks",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://webfpga.io/",
+    "title": "[英] WebFPGA",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors",
+    "title": "[英] Forgotten History of Small Nuclear Reactors (2015)",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://dbushell.com/2026/09/01/text-editor/",
+    "title": "[英] Fine, I'll build my own text editor",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://www.lisep.org/tru",
+    "title": "[英] True Rate of Unemployment",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
+    "title": "[英] Anthropic banned me for \"suspicious signals\"",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://www.texasmonthly.com/culture/mike-judge-idiocracy-turns-20/",
+    "title": "[英] 'Idiocracy' Predicted All of This",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
+    "title": "[英] Solving the Flat Cube",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "title": "[英] FBI Probes Service Selling 153M+ Drivers Licenses",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo",
+    "title": "[英] Laurie Anderson’s next manuscript to be locked away for 88 years",
+    "date": "2026-09-02"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+    "title": "[英] Claude Fable 5.1 made me a nice animated pelican",
+    "date": "2026-09-02"
+  },
+  {
     "link": "https://benholmen.com/blog/halfmoon-chimes/",
     "title": "[英] Building an interactive instrument for a one-of-a-kind festival",
     "date": "2026-09-02"
@@ -12,66 +72,6 @@
   {
     "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
     "title": "[英] The efficient frontier of LLM inference",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-    "title": "[英] Improving our alignment and security efforts",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://strado.info/",
-    "title": "[英] What's within a 10-minute walk in 50 European cities",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://sonic-pi.net/",
-    "title": "[英] Sonic Pi",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://lws.io/blog/my-local-model-setup/",
-    "title": "[英] My local model setup on an M4 Pro Mac Mini",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://spectrum.ieee.org/mechanical-tv-2677767814",
-    "title": "[英] Make a Portable Wide-screen Mechanical TV",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
-    "title": "[英] Hang on to Your Firefox",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://masteranza.github.io/weedout/",
-    "title": "[英] Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
-    "title": "[英] Fluorescent lamps (don't) have ears",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://inside.java/2026/05/28/podcast-059/",
-    "title": "[英] Java is memory efficient [audio]",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://hnmatchmaker.com/",
-    "title": "[英] Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://openai.com/index/path-to-astra/",
-    "title": "[英] Path to Astra: critical capabilities and frontier safeguards",
-    "date": "2026-09-02"
-  },
-  {
-    "link": "https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue",
-    "title": "[英] Dyson CameraJet electric toothbrush",
     "date": "2026-09-02"
   }
 ]
