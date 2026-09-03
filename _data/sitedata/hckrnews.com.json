@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://kciter.so/posts/the-expensive-main-thread/en/",
+    "title": "[英] The Browser's Main Thread Is Expensive",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+    "title": "[英] Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://internetofbugs.substack.com/p/noai-agents-did-not-build-secret",
+    "title": "[英] No–AI Agents Did Not Build Secret Civilizations Stop Anthropomorphizing Malware",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://pola.rs/posts/announcing-polars-2/",
+    "title": "[英] Pre-Release of Polars 2.0",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://www.damninteresting.com/much-ado-about-adenoids/",
+    "title": "[英] Much Ado About Adenoids",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49546432",
+    "title": "[英] Ask HN: Advice on Migrating from 1Password?",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://scottaaronson.blog/?p=10046",
+    "title": "[英] LLMs and Self-Referentiality",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://compute.cheap/",
+    "title": "[英] Show HN: The cheapest GPU cloud – H100s at $2.04/HR, H200s at $3/HR",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://computer-museum.org/wp/",
+    "title": "[英] The Computer Museum of America reclamation project",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://runnrr.io",
+    "title": "[英] How I turned Granola action items into to-do list",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
+    "title": "[英] Dutch central bank moves 86 tonnes of gold from US citing 'geopolitical unrest'",
+    "date": "2026-09-03"
+  },
+  {
     "link": "https://eldermyr.com/",
     "title": "[英] Wk. 6 of Vibecoding an MMO",
     "date": "2026-09-03"
@@ -17,61 +72,6 @@
   {
     "link": "https://www.nature.com/articles/s41562-026-02550-0",
     "title": "[英] The shrinking landscape of linguistic diversity in the age of LLMs",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://www.betonit.ai/p/reflections-on-americans-net-worth",
-    "title": "[英] Reflections on Americans' Net Worth",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
-    "title": "[英] Whistleblower warns Postal Service mail ballot system has catastrophic problems",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://martinfowler.com/rachels-ramblings/code-review.html",
-    "title": "[英] Maybe We Shouldn't Be Reviewing All This Code",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-    "title": "[英] METR Report on OpenAI / Hugging Face Hacking Incident",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-    "title": "[英] Reasons robotics is hard",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
-    "title": "[英] Holden's Lightning Flight",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://theyfell.com/",
-    "title": "[英] Show HN: Every AI agrees with you. This writes your startup's obituary instead",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49543530",
-    "title": "[英] Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
-    "title": "[英] Uber shuts operations in Nigeria and Uganda with immediate effect",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
-    "title": "[英] Engineering of the fastest WebAssembly interpreters",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://www.prodpad.com/blog/backlog-hierarchy-problem/",
-    "title": "[英] Product Backlog Problems: Why Your Hierarchy Is Broken",
     "date": "2026-09-03"
   }
 ]
