@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://martinfowler.com/rachels-ramblings/code-review.html",
+    "title": "[英] Maybe We Shouldn't Be Reviewing All This Code",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+    "title": "[英] METR Report on OpenAI / Hugging Face Hacking Incident",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+    "title": "[英] Reasons robotics is hard",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+    "title": "[英] Holden's Lightning Flight",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://theyfell.com/",
+    "title": "[英] Show HN: Every AI agrees with you. This writes your startup's obituary instead",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://ronanrx.com/",
+    "title": "[英] Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
+    "title": "[英] Uber shuts operations in Nigeria and Uganda with immediate effect",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
+    "title": "[英] Engineering of the fastest WebAssembly interpreters",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://www.prodpad.com/blog/backlog-hierarchy-problem/",
+    "title": "[英] Product Backlog Problems: Why Your Hierarchy Is Broken",
+    "date": "2026-09-03"
+  },
+  {
     "link": "https://owntime.app/",
     "title": "[英] Show HN: OwnTime – a chess clock for your day's priorities",
     "date": "2026-09-03"
@@ -27,51 +72,6 @@
   {
     "link": "https://werwolv.net/posts/file_format_reverse_engineering/",
     "title": "[英] Reverse Engineering Unknown File Formats with ImHex",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://nango.dev/careers",
-    "title": "[英] Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-    "title": "[英] Altair Basic Interpreter Source Code (1975) [pdf]",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://github.com/zvec-ai/zvec-grep",
-    "title": "[英] Z: Local-first search layer for humans and agents",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://github.com/PhiloLabs/fable51-worlds",
-    "title": "[英] Fable 5.1 World Modeling",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
-    "title": "[英] I wanna live an NPC life",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://www.gpupartner.com/blog/a-practical-guide-to-running-8x-rtx-pro-6000s",
-    "title": "[英] A practical guide to running 8x RTX PRO 6000's",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
-    "title": "[英] AI Agents and the Refactoring That Never Happens",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/",
-    "title": "[英] Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/",
-    "title": "[英] The Post-AI Internet Doesn't Look Great",
     "date": "2026-09-03"
   }
 ]
