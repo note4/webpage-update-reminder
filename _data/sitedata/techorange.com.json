@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/09/04/semicon-2026-tsmc-ai-demand-openai-safety/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【科技早餐】台積電近 20 廠仍追不上 AI，OpenAI 開發 AI 自動關閉機制",
+    "date": "2026-09-04 05:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/09/03/semicon-2026-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Google 看 AI 硬體下一步：運算便宜、搬資料昂貴，專用化還會加深",
     "date": "2026-09-03 18:13:17"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/09/02/cloudmile-ai-agent-token/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI Agent 的 Token 燒得比預期快，不想收到超額帳單該注意哪些事？",
     "date": "2026-09-02 13:40:31"
-  },
-  {
-    "link": "https://techorange.com/2026/09/02/claude-fable-and-mythos-5-1/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "能自主跑 38 小時、成本最多省 45%：Anthropic 推出 Fable 5.1，預告 EFS 架構秋季上線",
-    "date": "2026-09-02 13:04:59"
   }
 ]
