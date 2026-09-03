@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://spectrum.ieee.org/ai-engineer-skills",
+    "title": "[英] Protecting Engineers' Skills in the AI Era",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+    "title": "[英] GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+    "title": "[英] Models Don't Go Rogue",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://www.kevin.md/the-business-card-that-lights-up.md/",
+    "title": "[英] A PCB business card with a batteryless LED, powered by the phone that taps it",
+    "date": "2026-09-04"
+  },
+  {
     "link": "https://iscinumpy.dev/post/flake8-lazy/",
     "title": "[英] Working to Make Python Lazy",
     "date": "2026-09-04"
@@ -52,26 +72,6 @@
   {
     "link": "https://zed.dev/blog/agentic-xanadu",
     "title": "[英] Xanadu was waiting for agents",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://deploymentsafety.openai.com/gpt-6-astra",
-    "title": "[英] GPT-6 Astra System Card",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://github.com/openai/PrimeGaps186",
-    "title": "[英] Prime Gaps at Most 186",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-    "title": "[英] The asteroid currently hitting front end web development",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://www.anildash.com/2026/09/02/cancer-capital/",
-    "title": "[英] VC isn't VC anymore",
     "date": "2026-09-04"
   }
 ]
