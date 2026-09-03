@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://eldermyr.com/",
+    "title": "[英] Wk. 6 of Vibecoding an MMO",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://smarmelling.com/posts/creating-backup-storage-sucks.html",
+    "title": "[英] Creating Backup Storage Sucks",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://arxiv.org/abs/2504.00506",
+    "title": "[英] Higher Multipoles of the Cow",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://www.nature.com/articles/s41562-026-02550-0",
+    "title": "[英] The shrinking landscape of linguistic diversity in the age of LLMs",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://www.betonit.ai/p/reflections-on-americans-net-worth",
+    "title": "[英] Reflections on Americans' Net Worth",
+    "date": "2026-09-03"
+  },
+  {
+    "link": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+    "title": "[英] Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+    "date": "2026-09-03"
+  },
+  {
     "link": "https://martinfowler.com/rachels-ramblings/code-review.html",
     "title": "[英] Maybe We Shouldn't Be Reviewing All This Code",
     "date": "2026-09-03"
@@ -25,7 +55,7 @@
     "date": "2026-09-03"
   },
   {
-    "link": "https://ronanrx.com/",
+    "link": "https://news.ycombinator.com/item?id=49543530",
     "title": "[英] Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
     "date": "2026-09-03"
   },
@@ -42,36 +72,6 @@
   {
     "link": "https://www.prodpad.com/blog/backlog-hierarchy-problem/",
     "title": "[英] Product Backlog Problems: Why Your Hierarchy Is Broken",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://owntime.app/",
-    "title": "[英] Show HN: OwnTime – a chess clock for your day's priorities",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://blog.val.town/aeo",
-    "title": "[英] A docs page is a search query to find AI agents and route them to your company",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-    "title": "[英] Mamdani Bans AI in NYC Schools",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://www.vidact.dev/",
-    "title": "[英] Vidact – a compiler that turns React into direct DOM operations",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
-    "title": "[英] Earth's organisms developed via evolution. What if the cosmos did, too?",
-    "date": "2026-09-03"
-  },
-  {
-    "link": "https://werwolv.net/posts/file_format_reverse_engineering/",
-    "title": "[英] Reverse Engineering Unknown File Formats with ImHex",
     "date": "2026-09-03"
   }
 ]

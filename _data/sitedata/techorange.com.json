@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://techorange.com/2026/09/03/cloudmile-aegis-ai-foundry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Hugging Face 為什麼攔得住 AI 代理入侵？企業該建的是這 4 件事",
+    "date": "2026-09-03 11:41:17"
+  },
+  {
+    "link": "https://techorange.com/2026/09/03/meta-muse-spark-1-3-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
+    "date": "2026-09-03 11:23:00"
+  },
+  {
+    "link": "https://techorange.com/2026/09/03/tie-itri-iii-satellite/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "強化海事通訊韌性！工研院與資策會聯手打造「多軌道衛星閘道器」，亮相台灣創博會",
+    "date": "2026-09-03 10:52:00"
+  },
+  {
+    "link": "https://techorange.com/2026/09/03/physical-ai-opportunity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "物理 AI 最大商機或許不在人形機器人，而是替既有設備裝上大腦",
+    "date": "2026-09-03 09:51:06"
+  },
+  {
+    "link": "https://techorange.com/2026/09/03/fintechon-2026-afa-summit-jaclyntsai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "跨境金流跟不上供應鏈成長速度，亞洲金融科技聯盟主席蔡玉玲：臺灣穩定幣應從最強的 B2B 場景切入",
+    "date": "2026-09-03 09:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/09/03/openai-astra-zero-day-vulnerabilities-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】OpenAI Astra 可自主找出零日漏洞，戴爾 AI 伺服器年營收上看 740 億美元",
     "date": "2026-09-03 05:30:00"
@@ -48,30 +73,5 @@
     "link": "https://techorange.com/2026/09/02/afa-awards-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "首屆 AFA Awards 2026 得獎名單出爐，馬來西亞、新加坡及臺灣五家企業奪下五大獎",
     "date": "2026-09-02 09:51:15"
-  },
-  {
-    "link": "https://techorange.com/2026/09/02/nvidia-mediatek-investment-anthropic-ai-compute-deals/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】NVIDIA 35 億美元「準入股」聯發科，Anthropic 傳一週簽 800 億美元算力合約",
-    "date": "2026-09-02 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/09/01/semicon-quantum-taiwan-forum-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "量子電腦如何才算「有用」？SEMICON 上，各家正在給出不同答案",
-    "date": "2026-09-01 17:43:06"
-  },
-  {
-    "link": "https://techorange.com/2026/09/01/the-pentagon-version-chatgpt-grok/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "ChatGPT、Grok 進駐五角大廈：300 萬美軍用生成式 AI，敏感資料如何不外流？",
-    "date": "2026-09-01 17:06:39"
-  },
-  {
-    "link": "https://techorange.com/2026/09/01/cloudmile-bindplane-google-secops/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "日誌分散、警示疲勞，企業如何以 Bindplane 與 Google SecOps 破解資安盲點",
-    "date": "2026-09-01 14:06:19"
-  },
-  {
-    "link": "https://techorange.com/2026/09/01/nvidia-mediatek-partnership-build-ai-edge-cloud-computing-platforms/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "不只賣算力也賣架構：NVIDIA 砸 35 億美元投資聯發科，佈局客製化 AI 晶片生態系",
-    "date": "2026-09-01 11:58:39"
   }
 ]
