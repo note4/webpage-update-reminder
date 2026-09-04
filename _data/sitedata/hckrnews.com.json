@@ -1,12 +1,37 @@
 [
   {
+    "link": "https://www.cbc.ca/lite/story/9.7328614",
+    "title": "[英] New type of dice guarantees no tie when deciding who goes first",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49548600",
+    "title": "[英] Ask HN: Who is using MCP in production?",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49555592",
+    "title": "[英] Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49550479",
+    "title": "[英] Show HN: I made a word building game supporting anagrams and one handed use",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://github.com/ce-store/ce-store",
+    "title": "[英] ITA Controlled English (CE)",
+    "date": "2026-09-04"
+  },
+  {
     "link": "https://spectrum.ieee.org/ai-engineer-skills",
     "title": "[英] Protecting Engineers' Skills in the AI Era",
     "date": "2026-09-04"
   },
   {
     "link": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
-    "title": "[英] GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
+    "title": "[英] GLP-1s are being linked to fewer serious infections, including TB",
     "date": "2026-09-04"
   },
   {
@@ -41,37 +66,12 @@
   },
   {
     "link": "https://monfak.top/blog/posts/dextroproporphan",
-    "title": "[英] Dextroproporphan: An Analogue for a Better Dextromethorphan",
+    "title": "[英] Dextroproporphan: An Analogue for a Better Dextromethorphan?",
     "date": "2026-09-04"
   },
   {
     "link": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
     "title": "[英] GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://www.noahpinion.blog/p/the-death-of-market-street",
-    "title": "[英] The death of San Francisco's Market Street",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://three-llm.ben3d.ca",
-    "title": "[英] Three-LLM: Three.js-based WebGPU LLM inference engine",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-    "title": "[英] The largest electric aircraft just flew [video]",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://arcprize.org/blog/astra",
-    "title": "[英] OpenAI's GPT-6 Astra on ARC-AGI-3",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://zed.dev/blog/agentic-xanadu",
-    "title": "[英] Xanadu was waiting for agents",
     "date": "2026-09-04"
   }
 ]
