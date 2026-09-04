@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+    "title": "[英] Government Rails Site Hit Hours After CVE Patch",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49533840",
+    "title": "[英] Resources to Get Good at Soldering?",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+    "title": "[英] Shutting down our public encrypted DNS",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+    "title": "[英] Stop Thinking of LLMs as Next-Token Predictors",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "title": "[英] Formalizing Fermat's Last Theorem",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+    "title": "[英] The Rust React Compiler is now native in Vite",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express",
+    "title": "[英] Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Hayes_AT_command_set",
+    "title": "[英] Hayes AT command set",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://nityasnotes.com/writing/decades/",
+    "title": "[英] People that worked on the same idea for decades",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "title": "[英] Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+    "title": "[英] Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://opentrailpaper.com",
+    "title": "[英] Show HN: Open-Source eInk Bike Computer",
+    "date": "2026-09-05"
+  },
+  {
     "link": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
     "title": "[英] Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
     "date": "2026-09-05"
@@ -12,66 +72,6 @@
   {
     "link": "https://twitter.com/ggerganov/status/2095897173376618881",
     "title": "[英] Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://www.cs.cmu.edu/~bryant/pubdir/MIT-LCS-TR-259.pdf",
-    "title": "[英] A Switch-Level Simulation Model for Integrated Logic Circuits (1981) [pdf]",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-    "title": "[英] Project HydraFusion: Frontier quality via multi-model orchestration",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://bnb.im/posts/atproto-essential-resources/",
-    "title": "[英] Getting Started with AT Protocol",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-    "title": "[英] Corporate America is getting hooked on open-source AI",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://www.pnas.org/doi/10.1073/pnas.1118373109",
-    "title": "[英] Higher social class predicts increased unethical behavior",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://garymarcus.substack.com/p/pause-openai-now",
-    "title": "[英] Pause OpenAI Now",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
-    "title": "[英] US Military disables ad trackers on troops' phones",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://support.google.com/mail/answer/22370?hl=en",
-    "title": "[英] Gmail to end support for \"Send as\" for third-party addresses, such as @yahoo.com",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49524872",
-    "title": "[英] undefined",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week/",
-    "title": "[英] Burnt out on a three-day week",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
-    "title": "[英] Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
-    "title": "[英] The Two Abstractions of System Design: Hide or Reduce",
     "date": "2026-09-05"
   }
 ]
