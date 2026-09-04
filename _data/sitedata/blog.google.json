@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
+    "title": "[英] Create your best tracks yet with Lyria 3.5 in Gemini.",
+    "date": "2026-09-05 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/",
+    "title": "[英] Google Translate rolls out new upgrades for iOS and Android.",
+    "date": "2026-09-05 00:00:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/",
     "title": "[英] Start the year AI-ready with the Google AI Educator Series",
     "date": "2026-09-04 01:00:00"
@@ -25,13 +35,13 @@
     "date": "2026-09-03 01:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
-    "title": "[英] Our latest Linux Foundation Europe donation will build a more private digital world.",
+    "link": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
+    "title": "[英] Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
     "date": "2026-09-03 00:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
-    "title": "[英] Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
+    "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
+    "title": "[英] Our latest Linux Foundation Europe donation will build a more private digital world.",
     "date": "2026-09-03 00:00:00"
   },
   {
@@ -63,15 +73,5 @@
     "link": "https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/",
     "title": "[英] September Android Drop: Remember where you put things, ease motion sickness, and more",
     "date": "2026-09-02 02:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
-    "title": "[英] Introducing agentic video understanding with Gemini",
-    "date": "2026-09-02 01:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-    "title": "[英] Try Google Pics: Easy image creation and editing in Google Workspace",
-    "date": "2026-09-02 00:00:00"
   }
 ]
