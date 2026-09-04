@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.economist.com/interactive/1843/2026/08/28/inside-colombias-cocaine-factories",
+    "title": "[英] Inside Colombia's Cocaine Factories",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+    "title": "[英] Sing-song: a speakable encoding for long numbers and keys",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://reactoratlas.com",
+    "title": "[英] Show HN: Reactor Atlas",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+    "title": "[英] Grep beats LSP? Why coding agents ignore your fancier tools",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+    "title": "[英] A Mysterious Kidney Disease Has Arrived in Texas",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49560015",
+    "title": "[英] undefined",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+    "title": "[英] How an MIT research project became the Julia programming language",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+    "title": "[英] From Hookswitch to Grave",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://gwern.net/xanadu",
+    "title": "[英] Project Xanadu: Even More Hindsight",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://nicolalosito.it/2026/09/03/1password-replied-to-my-disappointment/",
+    "title": "[英] 1Password Replied to My Disappointment",
+    "date": "2026-09-04"
+  },
+  {
+    "link": "https://jactl.io/blog/2026/08/28/jactl-virtual-threads",
+    "title": "[英] Virtual Threads for a scripting language in Java 8 without Loom",
+    "date": "2026-09-04"
+  },
+  {
     "link": "https://www.cbc.ca/lite/story/9.7328614",
     "title": "[英] New type of dice guarantees no tie when deciding who goes first",
     "date": "2026-09-04"
@@ -17,61 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=49550479",
     "title": "[英] Show HN: I made a word building game supporting anagrams and one handed use",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://github.com/ce-store/ce-store",
-    "title": "[英] ITA Controlled English (CE)",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://spectrum.ieee.org/ai-engineer-skills",
-    "title": "[英] Protecting Engineers' Skills in the AI Era",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
-    "title": "[英] GLP-1s are being linked to fewer serious infections, including TB",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
-    "title": "[英] Models Don't Go Rogue",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://www.kevin.md/the-business-card-that-lights-up.md/",
-    "title": "[英] A PCB business card with a batteryless LED, powered by the phone that taps it",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://iscinumpy.dev/post/flake8-lazy/",
-    "title": "[英] Working to Make Python Lazy",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://armature.tech/blog/which-tools-coding-agents-install",
-    "title": "[英] Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://www.thetrueengineer.com/p/ego-equity-or-exit-checklist-to-decide",
-    "title": "[英] If a startup worth your career",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://tasklet.ai/careers/customer-success-engineer",
-    "title": "[英] Tasklet (YC P26) Is Hiring a Customer Success Engineer",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://monfak.top/blog/posts/dextroproporphan",
-    "title": "[英] Dextroproporphan: An Analogue for a Better Dextromethorphan?",
-    "date": "2026-09-04"
-  },
-  {
-    "link": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
-    "title": "[英] GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
     "date": "2026-09-04"
   }
 ]
