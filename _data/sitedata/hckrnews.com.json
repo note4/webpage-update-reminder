@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.crowdsupply.com/sutajio-kosagi/fomu",
+    "title": "[英] Fomu An FPGA board that fits inside your USB port",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://www.reuters.com/world/africa/un-approves-resolution-support-map-that-shows-africas-true-size-2026-09-04/",
+    "title": "[英] UN approves resolution in support of map that shows Africa's true size",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://rznicolet.com/2026/07/05/wormhole-hall-of-shame/",
+    "title": "[英] The Wormhole Hall of Shame",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+    "title": "[英] Fermat's Last Theorem: Anthropic has beaten me to it",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://www.statichost.eu/",
+    "title": "[英] Statichost.eu – 100% European static site hosting",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://ceu.su/letter_to_america.html",
+    "title": "[英] Bin Laden's \"Letter to America\"",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+    "title": "[英] How to Create a Tor Exit Node",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://github.com/anthropics/fermats-last-theorem",
+    "title": "[英] Fermat's Last Theorem in Lean 4",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://quad9.net/",
+    "title": "[英] An open DNS recursive service for free security and high privacy",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://photoni.st/index.php/2026/07/12/deadpan-photography-enjoying-the-pretence/",
+    "title": "[英] Deadpan Photography: Enjoying the Pretence",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "title": "[英] Can AI design circuit boards yet?",
+    "date": "2026-09-05"
+  },
+  {
     "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
     "title": "[英] Government Rails Site Hit Hours After CVE Patch",
     "date": "2026-09-05"
@@ -16,62 +71,7 @@
   },
   {
     "link": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-    "title": "[英] Stop Thinking of LLMs as Next-Token Predictors",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-    "title": "[英] Formalizing Fermat's Last Theorem",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
-    "title": "[英] The Rust React Compiler is now native in Vite",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express",
-    "title": "[英] Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Hayes_AT_command_set",
-    "title": "[英] Hayes AT command set",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://nityasnotes.com/writing/decades/",
-    "title": "[英] People that worked on the same idea for decades",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "title": "[英] Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-    "title": "[英] Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://opentrailpaper.com",
-    "title": "[英] Show HN: Open-Source eInk Bike Computer",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
-    "title": "[英] Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://desec.io/",
-    "title": "[英] deSEC – Free Secure DNS",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://twitter.com/ggerganov/status/2095897173376618881",
-    "title": "[英] Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+    "title": "[英] \"Next-token predictor\" is the wrong mental model for LLMs",
     "date": "2026-09-05"
   }
 ]
