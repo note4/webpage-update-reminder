@@ -1,5 +1,35 @@
 [
   {
+    "link": "http://terpstrakeyboard.com/",
+    "title": "[英] Terpstra Keyboard",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://dl.acm.org/doi/abs/10.1162/coli_a_00197",
+    "title": "[英] Pushdown automata in statistical machine translation (2014)",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://www.historytoday.com/archive/review/fakers-rory-cormac-review",
+    "title": "[英] 'Fakers' by Rory Cormac Review",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=IvFu343KNek",
+    "title": "[英] LG TVs aren't the only ones spying on you [video]",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+    "title": "[英] Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://skymap2000.com/",
+    "title": "[英] Sky Map 2000 – Star Atlas and Planetarium",
+    "date": "2026-09-05"
+  },
+  {
     "link": "https://arxiv.org/abs/2608.26345",
     "title": "[英] Kale: A Transformation-Safe Spreadsheet System",
     "date": "2026-09-05"
@@ -42,36 +72,6 @@
   {
     "link": "https://ipv6.hanazo.no/posts/anniversary-personal/",
     "title": "[英] The Highest Point in the Netherlands",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
-    "title": "[英] Git Submodules as a Package Manager",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-    "title": "[英] Nitter has more working instances than before the takedowns",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://greatcircle.com/blog/2026/08/11/declaring-incidents-for-side-effects/",
-    "title": "[英] When declaring an incident becomes everyone's favorite workaround",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/",
-    "title": "[英] Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://github.com/camilochs/exacttex",
-    "title": "[英] ExactTex. A gradually-typed superset of LaTeX",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-    "title": "[英] Artificial Analysis Intelligence Index v4.2",
     "date": "2026-09-05"
   }
 ]
