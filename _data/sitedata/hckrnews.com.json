@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+    "title": "[英] GPT-6 Astra in code review: Gains, privacy, and cost",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://ipv6.hanazo.no/posts/anniversary-personal/",
+    "title": "[英] The Highest Point in the Netherlands",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
+    "title": "[英] Git Submodules as a Package Manager",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+    "title": "[英] Nitter has more working instances than before the takedowns",
+    "date": "2026-09-05"
+  },
+  {
+    "link": "https://greatcircle.com/blog/2026/08/11/declaring-incidents-for-side-effects/",
+    "title": "[英] When declaring an incident becomes everyone's favorite workaround",
+    "date": "2026-09-05"
+  },
+  {
     "link": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/",
     "title": "[英] Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
     "date": "2026-09-05"
@@ -47,31 +72,6 @@
   {
     "link": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
     "title": "[英] Can guitar frets perform multiplication?",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
-    "title": "[英] Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
-    "title": "[英] Record-High 89% in U.S. Say Government Corruption Widespread",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://thephp.foundation/blog/2026/09/02/digital-sovereignty-is-written-in-php/",
-    "title": "[英] Digital Sovereignty is written in PHP",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://twitter.com/penlume/status/2095372672356212876",
-    "title": "[英] RSA-260 Factorized",
-    "date": "2026-09-05"
-  },
-  {
-    "link": "https://vondra.me/posts/some-more-thoughts-on-random-page-cost/",
-    "title": "[英] Some more thoughts on random_page_cost",
     "date": "2026-09-05"
   }
 ]
