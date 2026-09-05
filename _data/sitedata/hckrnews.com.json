@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
+    "title": "[英] Delidded Intel I9-14900KS CT Scan",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+    "title": "[英] The Luxuries in Life",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://usr.lmf.cnrs.fr/lpo/",
+    "title": "[英] Learn Programming with OCaml",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html",
+    "title": "[英] Steffen's Polyhedron – Greg Egan",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "title": "[英] Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "date": "2026-09-06"
+  },
+  {
     "link": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
     "title": "[英] Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
     "date": "2026-09-06"
@@ -47,31 +72,6 @@
   {
     "link": "https://kk.org/cooltools/the-1930-poetry-book-that-anthropic-tried-to-censor/",
     "title": "[英] Poetry book that Anthropic tried to censor",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
-    "title": "[英] How the Disaster of \"Forever Chemicals\" Was Kept Secret",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-    "title": "[英] There's No Limit to How Bad Code Can Get",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://packagemain.tech/p/gitignore-everything-by-default",
-    "title": "[英] .gitignore Everything by Default",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-    "title": "[英] Claude's new system prompt doesn't want to reproduce song lyrics",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
-    "title": "[英] A Million Falcons Went Missing. Here’s How They Were Found",
     "date": "2026-09-06"
   }
 ]
