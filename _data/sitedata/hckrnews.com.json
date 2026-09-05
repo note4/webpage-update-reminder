@@ -1,12 +1,47 @@
 [
   {
+    "link": "https://dreamstation.systems/personal/lanfalsehoods.html",
+    "title": "[英] Falsehoods Programmers Believe About LANs",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://isaraerospace.com/mission-updates-overview",
+    "title": "[英] ISAR Aerospace 5 Sept Mission Onward and Upward",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://michaelteter.com/flyby.html",
+    "title": "[英] Show HN: Fly By – retro biplane flying game",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+    "title": "[英] America's Two Largest School Districts Impose AI Moratoriums",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://lazygit.dev/",
+    "title": "[英] Lazygit",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
+    "title": "[英] South African diamond mines are closing due to weak sales and lab-grown stones",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+    "title": "[英] How Swiss tables work in Go built-in map",
+    "date": "2026-09-06"
+  },
+  {
     "link": "https://arxiv.org/abs/2609.03344",
     "title": "[英] LLMs as a Cognitive Virus",
     "date": "2026-09-06"
   },
   {
     "link": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-    "title": "[英] Finite time blowup for an averaged three-dimensional Navier-Stokes equation",
+    "title": "[英] Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
     "date": "2026-09-06"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish",
     "title": "[英] The moral panic over data centres is foolish",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
-    "title": "[英] Delidded Intel I9-14900KS CT Scan",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-    "title": "[英] The Real Luxuries In Life",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://usr.lmf.cnrs.fr/lpo/",
-    "title": "[英] Learn Programming with OCaml",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html",
-    "title": "[英] Steffen's Polyhedron",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-    "title": "[英] Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
-    "title": "[英] Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/",
-    "title": "[英] Flock used >100 times to track veteran who recorded traffic stop",
     "date": "2026-09-06"
   }
 ]
