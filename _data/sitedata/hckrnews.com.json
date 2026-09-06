@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://sayyss.github.io/human-archive/",
+    "title": "[英] Human archive: They were only human",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://xcancel.com/about",
+    "title": "[英] XCancel is available again",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://github.com/mmeyerlein/meclaw",
+    "title": "[英] Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://getvodforge.com/",
+    "title": "[英] Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+    "title": "[英] GrapheneOS Overhauled Default Apps and Secure Clipboard",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "title": "[英] It took a year to ship WebAssembly in Anubis",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://github.com/marsbos/mador",
+    "title": "[英] Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
+    "title": "[英] Black Hole of Los Alamos Seller of surplus nuclear research materials",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://out-of-hell.xylon.me.uk/shortage.html",
+    "title": "[英] There Gonna Be a Shortage of Everything",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml",
+    "title": "[英] They're Made Out of Meat",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
+    "title": "[英] The car industry A/B tested selling a car with and without CarPlay",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49589730",
+    "title": "[英] Ask HN: UK Rescue Rocket Sheds/Houses Information",
+    "date": "2026-09-07"
+  },
+  {
     "link": "https://kepter.app/finder",
     "title": "[英] Finder is so frustrating and has been since day one",
     "date": "2026-09-07"
   },
   {
     "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-    "title": "[英] Nitter is unarchived and will continue",
+    "title": "[英] Nitter and XCancel resume service after legal advice",
     "date": "2026-09-07"
   },
   {
     "link": "https://medium.com/@fsaint/the-best-home-for-your-agent-is-in-your-junk-drawer-3afe0b0976e8",
     "title": "[英] Running a personal AI agent on an old Android phone instead of a server",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://github.com/zedeus/nitter",
-    "title": "[英] Following legal advice, the Nitter project will continue",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
-    "title": "[英] Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
-    "title": "[英] Any Nix package, live in the browser",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
-    "title": "[英] How we monitor internal coding agents for misalignment",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
-    "title": "[英] Opalite Health (YC W26) Is Hiring – Founding GTM",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://openai.com/index/an-alien-mind/",
-    "title": "[英] An Alien Mind",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
-    "title": "[英] Recreating Minecraft Is Not a Benchmark",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "title": "[英] Research acceleration: The view inside OpenAI",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
-    "title": "[英] Electronic skin for prosthetics to sense temperature and pressure",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://www.reddit.com/r/AskHistorians/comments/39v00a/comment/cs72af6/",
-    "title": "[英] When did French fries become the standard side to serve with a hamburger?",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://www.netbsd.org/gallery/research.html",
-    "title": "[英] Research carried out using NetBSD",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-    "title": "[英] NetBSD 9.5 released and EOL for NetBSD-9",
     "date": "2026-09-07"
   }
 ]
