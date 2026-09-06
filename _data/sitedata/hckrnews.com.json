@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://kepter.app/finder",
+    "title": "[英] Finder is so frustrating and has been since day one",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+    "title": "[英] Nitter is unarchived and will continue",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://medium.com/@fsaint/the-best-home-for-your-agent-is-in-your-junk-drawer-3afe0b0976e8",
+    "title": "[英] Running a personal AI agent on an old Android phone instead of a server",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://github.com/zedeus/nitter",
+    "title": "[英] Following legal advice, the Nitter project will continue",
+    "date": "2026-09-07"
+  },
+  {
     "link": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
     "title": "[英] Babylonian Lamb Stew with Beets (1750–1730 BCE)",
     "date": "2026-09-07"
@@ -11,7 +31,7 @@
   },
   {
     "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
-    "title": "[英] We monitor internal coding agents for misalignment",
+    "title": "[英] How we monitor internal coding agents for misalignment",
     "date": "2026-09-07"
   },
   {
@@ -52,26 +72,6 @@
   {
     "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
     "title": "[英] NetBSD 9.5 released and EOL for NetBSD-9",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
-    "title": "[英] Cultivating Trust",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49586970",
-    "title": "[英] undefined",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub",
-    "title": "[英] Is There I/O After Death? What Happens to Io_uring When a Process Dies",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/",
-    "title": "[英] Alberta (Canada) slaps punitive tax on solar panels",
     "date": "2026-09-07"
   }
 ]
