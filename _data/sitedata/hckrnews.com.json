@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://github.com/FulltimeFeline/Sol",
+    "title": "[英] Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://www.dispatch.com/story/news/politics/2026/09/06/armed-man-attacks-ohio-governor-candidate-amy-acton-several-injured/91644512007/",
+    "title": "[英] Armed man attacks Ohio governor candidate Amy Acton, several injured",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html",
+    "title": "[英] A Week of Bug Reporting",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://d2lang.com/blog/d2-non-profit/",
+    "title": "[英] D2 Is Non-Profit",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+    "title": "[英] Icy Moons Are Ocean Worlds",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
+    "title": "[英] Windows 11's \"special\" developer edition looks like another marketing misfire",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://arxiv.org/abs/2505.12540",
+    "title": "[英] Harnessing the Universal Geometry of Embeddings",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://blog.glazer.ee/posts/converting-cronos/",
+    "title": "[英] Reverse engineering the storage format for an undocumented database",
+    "date": "2026-09-07"
+  },
+  {
     "link": "https://sayyss.github.io/human-archive/",
     "title": "[英] Human archive: They were only human",
     "date": "2026-09-07"
@@ -10,13 +50,18 @@
     "date": "2026-09-07"
   },
   {
+    "link": "https://getvodforge.com/",
+    "title": "[英] Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+    "date": "2026-09-07"
+  },
+  {
     "link": "https://github.com/mmeyerlein/meclaw",
     "title": "[英] Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
     "date": "2026-09-07"
   },
   {
-    "link": "https://getvodforge.com/",
-    "title": "[英] Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+    "link": "https://github.com/marsbos/mador",
+    "title": "[英] Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
     "date": "2026-09-07"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
     "title": "[英] It took a year to ship WebAssembly in Anubis",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://github.com/marsbos/mador",
-    "title": "[英] Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
-    "title": "[英] Black Hole of Los Alamos Seller of surplus nuclear research materials",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://out-of-hell.xylon.me.uk/shortage.html",
-    "title": "[英] There Gonna Be a Shortage of Everything",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml",
-    "title": "[英] They're Made Out of Meat",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-    "title": "[英] The car industry A/B tested selling a car with and without CarPlay",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49589730",
-    "title": "[英] Ask HN: UK Rescue Rocket Sheds/Houses Information",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://kepter.app/finder",
-    "title": "[英] Finder is so frustrating and has been since day one",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-    "title": "[英] Nitter and XCancel resume service after legal advice",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://medium.com/@fsaint/the-best-home-for-your-agent-is-in-your-junk-drawer-3afe0b0976e8",
-    "title": "[英] Running a personal AI agent on an old Android phone instead of a server",
     "date": "2026-09-07"
   }
 ]
