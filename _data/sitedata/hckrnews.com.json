@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html",
+    "title": "[英] CHC5: Open Camera System – Image Sensor Specification Comparison",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://cloudinabottle.org/blog/launch-post",
+    "title": "[英] Cloud in a Bottle: making self-hosting accessible to everyone",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
+    "title": "[英] Topologist's Map of the World",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "title": "[英] The revolt of the reader",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://github.com/okf-memory/okf-agent-memory",
+    "title": "[英] OKF Agent Memory – Git-native persistent memory for AI coding agents",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+    "title": "[英] How AI is breaking the British state",
+    "date": "2026-09-06"
+  },
+  {
     "link": "https://dreamstation.systems/personal/lanfalsehoods.html",
     "title": "[英] Falsehoods Programmers Believe About LANs",
     "date": "2026-09-06"
@@ -16,7 +46,7 @@
   },
   {
     "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-    "title": "[英] America's Two Largest School Districts Impose AI Moratoriums",
+    "title": "[英] America's two largest school districts impose AI moratoriums",
     "date": "2026-09-06"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
     "title": "[英] Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-    "title": "[英] Private German rocket makes history, reaches orbit from European soil",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
-    "title": "[英] Space industry lacks workers needed to rebuild satellites lost in war: report",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-    "title": "[英] Isar Aerospace launch into orbit [video]",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://github.com/iczelia/balrogg",
-    "title": "[英] Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/aug/10/dogs-distinguish-fearful-angry-sad-human-faces-brain-scans",
-    "title": "[英] Dogs can distinguish between fearful and angry or sad human faces",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish",
-    "title": "[英] The moral panic over data centres is foolish",
     "date": "2026-09-06"
   }
 ]
