@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993",
+    "title": "[英] Vancouver strip club's Instagram taken down over sign featuring lake joke",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+    "title": "[英] The ColorChecker, photography's most important 24 squares, turns 50",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c62k677d4lzo",
+    "title": "[英] Trump signs order to remove endangered species protection for grey wolves",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "title": "[英] AI, Tools and Transformation",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "http://miod.online.fr/software/openbsd/stories/smd.html",
+    "title": "[英] OpenBSD Stories: Strange Medieval Devices",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://openai.robocurve.org/gpt-6-astra/",
+    "title": "[英] GPT-6 Astra on robot arms",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://mm-dev.rocks/series/recursecenter.return/",
+    "title": "[英] RecurseCenter.return()",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://www.tsa.gov/precheck/gateside-tsa-precheck",
+    "title": "[英] Gateside by TSA Precheck",
+    "date": "2026-09-06"
+  },
+  {
+    "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "title": "[英] Chrome again exempts Google from user site data settings",
+    "date": "2026-09-06"
+  },
+  {
     "link": "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html",
     "title": "[英] CHC5: Open Camera System – Image Sensor Specification Comparison",
     "date": "2026-09-06"
@@ -27,51 +72,6 @@
   {
     "link": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
     "title": "[英] How AI is breaking the British state",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://dreamstation.systems/personal/lanfalsehoods.html",
-    "title": "[英] Falsehoods Programmers Believe About LANs",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://isaraerospace.com/mission-updates-overview",
-    "title": "[英] ISAR Aerospace 5 Sept Mission Onward and Upward",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://michaelteter.com/flyby.html",
-    "title": "[英] Show HN: Fly By – retro biplane flying game",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-    "title": "[英] America's two largest school districts impose AI moratoriums",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://lazygit.dev/",
-    "title": "[英] Lazygit",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
-    "title": "[英] South African diamond mines are closing due to weak sales and lab-grown stones",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
-    "title": "[英] How Swiss tables work in Go built-in map",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.03344",
-    "title": "[英] LLMs as a Cognitive Virus",
-    "date": "2026-09-06"
-  },
-  {
-    "link": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-    "title": "[英] Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
     "date": "2026-09-06"
   }
 ]
