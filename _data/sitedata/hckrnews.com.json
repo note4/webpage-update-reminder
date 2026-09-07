@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/",
+    "title": "[英] Every Novel Is Boring–Until It Isn't",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+    "title": "[英] Is mathematics about to enter the conservatory?",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://www.uniklinik-freiburg.de/en/press/press-releases/detailed-view/6938-vier-wochen-vegane-ernaehrung-veraendern-entzuendungs-und-alterungssignale.html",
+    "title": "[英] Four Weeks of a Vegan Diet Alter Signs of Inflammation and Aging",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://machow.ski/posts/markouts_and_adverse_selection/",
+    "title": "[英] Adverse Selection and Markouts",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
+    "title": "[英] UN backs new map showing Africa's true relative size with US alone in opposition",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+    "title": "[英] GOP issues stark warning to AI companies",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://austinhenley.com/blog/python1024.html",
+    "title": "[英] Making a Python interpreter in 1024 bytes",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+    "title": "[英] Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+    "date": "2026-09-07"
+  },
+  {
+    "link": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
+    "title": "[英] Political meddling at the Census Bureau damages the US statistical system",
+    "date": "2026-09-07"
+  },
+  {
     "link": "https://github.com/FulltimeFeline/Sol",
     "title": "[英] Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
     "date": "2026-09-07"
@@ -25,53 +70,8 @@
     "date": "2026-09-07"
   },
   {
-    "link": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
-    "title": "[英] Windows 11's \"special\" developer edition looks like another marketing misfire",
-    "date": "2026-09-07"
-  },
-  {
     "link": "https://arxiv.org/abs/2505.12540",
     "title": "[英] Harnessing the Universal Geometry of Embeddings",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://blog.glazer.ee/posts/converting-cronos/",
-    "title": "[英] Reverse engineering the storage format for an undocumented database",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://sayyss.github.io/human-archive/",
-    "title": "[英] Human archive: They were only human",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://xcancel.com/about",
-    "title": "[英] XCancel is available again",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://getvodforge.com/",
-    "title": "[英] Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://github.com/mmeyerlein/meclaw",
-    "title": "[英] Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://github.com/marsbos/mador",
-    "title": "[英] Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-    "title": "[英] GrapheneOS Overhauled Default Apps and Secure Clipboard",
-    "date": "2026-09-07"
-  },
-  {
-    "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-    "title": "[英] It took a year to ship WebAssembly in Anubis",
     "date": "2026-09-07"
   }
 ]
