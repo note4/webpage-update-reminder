@@ -1,7 +1,22 @@
 [
   {
+    "link": "https://techorange.com/2026/09/07/ascii-smuggling-ai-prompt-injection-phishing-evasion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "原本用來攻擊 AI，現在拿來躲郵件偵測：「ASCII 走私」隱形字元攻擊單日逾 230 萬封",
+    "date": "2026-09-07 17:10:35"
+  },
+  {
+    "link": "https://techorange.com/2026/09/07/research-acceleration-coding-agents-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI「研究實習生」達標：OpenAI 中位數研究人員每日燒 600 美元 token，前段班破 7,000 美元",
+    "date": "2026-09-07 15:49:43"
+  },
+  {
+    "link": "https://techorange.com/2026/09/07/gss-vital-crm-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "助攻國際業務拓展 叡揚 Vital CRM 升級 AI 名片辨識",
+    "date": "2026-09-07 14:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/09/07/openai-confirms-wiki-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "OpenAI Agent 把德文 Wiki 變留言板，為何公司早就知道卻沒有公開？",
+    "title": "OpenAI Agent 把德文 Wiki 變留言板，為何他們早就知道卻沒有公開？",
     "date": "2026-09-07 12:57:18"
   },
   {
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/09/04/omron-nvidia-are-creating-ai-skillless-inspection/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "問 AI「這塊基板為什麼翹曲？」OMRON 導入視覺檢測代理，新手也問得出根因",
     "date": "2026-09-04 17:36:18"
-  },
-  {
-    "link": "https://techorange.com/2026/09/04/mediatek-hugging-face-nvidia-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "從聯發科到 Hugging Face，NVIDIA 為何接連往 AI 生態不同環節出手？",
-    "date": "2026-09-04 16:11:37"
-  },
-  {
-    "link": "https://techorange.com/2026/09/04/aws-departmentforyouth-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "前進 AWS 學 AI！新北青年局「AI 實戰職涯營」協助青年接軌科技職場",
-    "date": "2026-09-04 12:44:22"
-  },
-  {
-    "link": "https://techorange.com/2026/09/04/nvidia-rtx-personal-ai-router/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "NVIDIA 開源 PAIR 登場：與其付錢上雲，不如用家中閒置設備跑 AI？",
-    "date": "2026-09-04 12:37:58"
   }
 ]

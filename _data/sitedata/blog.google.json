@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/",
+    "title": "[英] Our new contrail avoidance trial in Asia-Pacific",
+    "date": "2026-09-07 16:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac/",
     "title": "[英] Backing 16 green AI projects in Asia-Pacific",
     "date": "2026-09-07 09:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/west-virginia-long-duration-energy-storage/",
     "title": "[英] Our new partnership brings long-duration energy storage to West Virginia.",
     "date": "2026-09-02 20:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-    "title": "[英] The latest AI news we announced in August 2026",
-    "date": "2026-09-02 04:45:00"
   }
 ]
