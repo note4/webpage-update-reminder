@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html",
+    "title": "[英] PISA 2025 Students' reading and mathematics performance declined across the OECD",
+    "date": "2026-09-08"
+  },
+  {
+    "link": "https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html",
+    "title": "[英] Picolibrary: A Small Press",
+    "date": "2026-09-08"
+  },
+  {
+    "link": "https://www.wired.com/story/robot-writing/",
+    "title": "[英] Robot writes in languages it has never seen before (2019)",
+    "date": "2026-09-08"
+  },
+  {
+    "link": "https://vale.rocks/posts/html-relics",
+    "title": "[英] Antiquated HTML Snippets and Artefacts",
+    "date": "2026-09-08"
+  },
+  {
+    "link": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+    "title": "[英] Why getting your hands dirty is good for you",
+    "date": "2026-09-08"
+  },
+  {
+    "link": "https://docs.appliedcompute.com",
+    "title": "[英] End-to-end infrastructure for training and inferencing open weight models",
+    "date": "2026-09-08"
+  },
+  {
     "link": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
     "title": "[英] Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
     "date": "2026-09-08"
@@ -11,7 +41,7 @@
   },
   {
     "link": "https://lanparty.house/",
-    "title": "[英] We built our house for LAN parties",
+    "title": "[英] We built our house for LAN parties (2024)",
     "date": "2026-09-08"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
     "title": "[英] Mistral raises €3B",
-    "date": "2026-09-08"
-  },
-  {
-    "link": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
-    "title": "[英] Understanding Computer Memory Architecture and SSD Internals",
-    "date": "2026-09-08"
-  },
-  {
-    "link": "https://weirdgloop.org/blog/google-jail",
-    "title": "[英] There's a new \"Google Jail\" for independent wikis",
-    "date": "2026-09-08"
-  },
-  {
-    "link": "https://www.pm.gov.au/media/my-feed-my-way",
-    "title": "[英] My Feed, My Way",
-    "date": "2026-09-08"
-  },
-  {
-    "link": "https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n",
-    "title": "[英] GamersNexus and LG: Or why rooting your TV is a bad idea",
-    "date": "2026-09-08"
-  },
-  {
-    "link": "https://rohanadwankar.github.io/posts/platforms.html",
-    "title": "[英] The VMs Powering Mobile Agents (Instinct, Claude Code)",
-    "date": "2026-09-08"
-  },
-  {
-    "link": "https://jyn.dev/a-year-to-fix-security/",
-    "title": "[英] We have a year to fix security everywhere",
     "date": "2026-09-08"
   }
 ]
