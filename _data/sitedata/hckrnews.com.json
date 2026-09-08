@@ -1,7 +1,32 @@
 [
   {
+    "link": "https://d2lang.com/blog/tala-is-open-source/",
+    "title": "[英] TALA Is Open-Source",
+    "date": "2026-09-08"
+  },
+  {
+    "link": "https://github.com/Sadpainy/Stuxnet",
+    "title": "[英] Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+    "date": "2026-09-08"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49603434",
+    "title": "[英] undefined",
+    "date": "2026-09-08"
+  },
+  {
+    "link": "https://jigsawhaiku.com/",
+    "title": "[英] Show HN: I built an aesthetically pleasing puzzle",
+    "date": "2026-09-08"
+  },
+  {
+    "link": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
+    "title": "[英] Working on Economics with Fable 5",
+    "date": "2026-09-08"
+  },
+  {
     "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-    "title": "[英] Leaving VMware Just Got Harder After Broadcom Pulled VDDK Downloads",
+    "title": "[英] Leaving VMware just got harder after Broadcom pulled VDDK downloads",
     "date": "2026-09-08"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
     "title": "[英] Scientists observe Einstein's gravity in the quantum world",
-    "date": "2026-09-08"
-  },
-  {
-    "link": "https://kallus.org/blog/dummit_and_foote.html",
-    "title": "[英] Finding a bug in Dummit and Foote's Abstract Algebra",
-    "date": "2026-09-08"
-  },
-  {
-    "link": "https://www.frankchiarulli.com/blog/best-silicone-usb-cable/",
-    "title": "[英] Searching for the best silicone USB cable",
-    "date": "2026-09-08"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.24888",
-    "title": "[英] Trusting-Trust Attack against an Entire Linux Distribution",
-    "date": "2026-09-08"
-  },
-  {
-    "link": "https://deepmind.google/science/weathernext/",
-    "title": "[英] WeatherNext 3",
-    "date": "2026-09-08"
-  },
-  {
-    "link": "https://werwolv.net/posts/linux_bringup/",
-    "title": "[英] How to bring up the Linux Kernel on a new platform",
     "date": "2026-09-08"
   }
 ]
