@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/",
+    "title": "[英] Missouri and Google partner on AI and career training",
+    "date": "2026-09-08 23:05:00"
+  },
+  {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/electric-semi-trucks-texas/",
+    "title": "[英] We’re helping put 25 new electric semi trucks on the road in Texas.",
+    "date": "2026-09-08 23:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "title": "[英] AlphaGenome Atlas: a high-resolution map of human DNA",
+    "date": "2026-09-08 22:00:00"
+  },
+  {
     "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/route-66-small-businesses/",
     "title": "[英] Helping small businesses win with AI",
     "date": "2026-09-08 21:00:00"
@@ -50,28 +65,13 @@
     "date": "2026-09-03 01:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
-    "title": "[英] Our latest Linux Foundation Europe donation will build a more private digital world.",
-    "date": "2026-09-03 00:00:00"
-  },
-  {
     "link": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
     "title": "[英] Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
     "date": "2026-09-03 00:00:00"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-    "title": "[英] Proactive cyber defense for governments and enterprises",
-    "date": "2026-09-02 23:40:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-    "title": "[英] Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "date": "2026-09-02 23:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/",
-    "title": "[英] MrBeast partners with Gemini to turn impossibly big ideas into reality",
-    "date": "2026-09-02 21:00:00"
+    "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
+    "title": "[英] Our latest Linux Foundation Europe donation will build a more private digital world.",
+    "date": "2026-09-03 00:00:00"
   }
 ]
