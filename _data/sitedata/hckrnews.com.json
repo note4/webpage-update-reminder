@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+    "title": "[英] Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://kjartanvandriel.github.io/asic/",
+    "title": "[英] Reverse Engineering an ASIC",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://www.tvo.org/article/analysis-lake-america-makes-one-thing-clear-we-cant-trust-us-tech-companies",
+    "title": "[英] 'Lake America' makes one thing clear: We can't trust U.S. tech companies",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://twitter.com/SouthPark/status/2097364141237539116",
+    "title": "[英] Trey Parker and Matt Stone Are Changing the Name of South Park to South America",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://blog.veitheller.de/numpy.html",
+    "title": "[英] Tracing np.add, all the way down",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+    "title": "[英] Mercury 2.5",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://github.com/argonautlabsai/deltafin",
+    "title": "[英] Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "title": "[英] OpenAI fought dirty on career-making math problem",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://glocq.com/en/blog/20260827/",
+    "title": "[英] Animation in Bevy: The Big Picture",
+    "date": "2026-09-09"
+  },
+  {
     "link": "https://hvpandya.com/tyranny-of-optionality",
     "title": "[英] Tyranny of Optionality",
     "date": "2026-09-09"
@@ -16,7 +61,7 @@
   },
   {
     "link": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
-    "title": "[英] 100s of flights cancelled at UK airports due to ATC issue",
+    "title": "[英] Flights cancelled at UK airports due to ATC issue",
     "date": "2026-09-09"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
     "title": "[英] ChatGPT Images 2.5",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://www.propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
-    "title": "[英] DOJ Blocked ICE Agent Shooting Charge over Federal Prosecutor's Objections",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-    "title": "[英] Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://www.openui.com/blog/oui-1",
-    "title": "[英] OUI-1: world's first model for Generative UI",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://openai.com/index/navier-stokes-solution/",
-    "title": "[英] On the Navier–Stokes Millennium Prize Problem",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://businessasusual.io/p/executive-search-methods-for-engineering",
-    "title": "[英] Hire Every Engineer Like You'd Hire a VP",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://events.ycombinator.com/yc-early-access-fall-26",
-    "title": "[英] Y Combinator Early Access Network",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://cepr.org/publications/dp21706",
-    "title": "[英] Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://ishamf.dev/p/llm-attention-visualizer/",
-    "title": "[英] Show HN: LLM Attention Visualization",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://herdr.dev/blog/connecting-the-machines/",
-    "title": "[英] Connecting the Machines",
     "date": "2026-09-09"
   }
 ]
