@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/09/08/china-readies-humanoid-robots-for-combat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "中國軍方加速佈局人形機器人，從採購到訓練資料已走到哪一步？",
+    "date": "2026-09-08 16:19:44"
+  },
+  {
+    "link": "https://techorange.com/2026/09/08/scientists-ultrafast-magnetic-memory-system-ai-data-center-energy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 資料中心節能新突破？愛丁堡大學提出新型磁性記憶體理論，能耗有望逼近物理極限",
+    "date": "2026-09-08 12:57:36"
+  },
+  {
+    "link": "https://techorange.com/2026/09/08/siraya-tidb-model-router/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 不只拚模型：SIRAYA 獲台灣首家 TiDB 白金級合作夥伴，深化企業 AI 基礎架構布局",
+    "date": "2026-09-08 12:33:10"
+  },
+  {
+    "link": "https://techorange.com/2026/09/08/arm-total-design-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Hugging Face、宇樹科技都加入：Arm 擴大實體 AI 生態系，同步推機器人六級能力框架",
+    "date": "2026-09-08 12:28:55"
+  },
+  {
     "link": "https://techorange.com/2026/09/08/snowflake-cortex-ai-gateway/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【AI 模型路由新解】Snowflake 不只比快比省，真正賣的是資料留在受控邊界內",
     "date": "2026-09-08 09:30:03"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/09/07/chen-liang-gee-podcast-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 硬體進入削價競爭，陳良基：AI 的算力是個假議題，真正客戶要的是 AI 的能力",
     "date": "2026-09-07 11:00:00"
-  },
-  {
-    "link": "https://techorange.com/2026/09/07/hennge-cybersecurity-aiagents-henngeone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "陪伴企業從零建構資安防線，HENNGE 惠頂益登台 10 年的「資安陪跑哲學」",
-    "date": "2026-09-07 10:50:28"
-  },
-  {
-    "link": "https://techorange.com/2026/09/07/course-for-an-ai-job/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【首席 AI 官一年衝上 76%】CAIO 職稱未定、教材未成形，商學院已搶開 28,000 美元課程",
-    "date": "2026-09-07 10:49:03"
-  },
-  {
-    "link": "https://techorange.com/2026/09/07/ai-software-services-saas-and-trust/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 讓開發速度成基本籌碼，SaaS 與軟體業如何建立差異化護城河？",
-    "date": "2026-09-07 09:57:33"
-  },
-  {
-    "link": "https://techorange.com/2026/09/07/hitachi-ai-lumada/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "生產排程不再是一張「死表格」：日立如何靠 AI 把交期砍半？",
-    "date": "2026-09-07 06:51:00"
   }
 ]
