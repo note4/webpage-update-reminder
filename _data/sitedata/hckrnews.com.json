@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://codeberg.org/jjba23/maak.el",
+    "title": "[英] Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://galoisrepresentations.org/2026/09/05/look-mom-i-pressed-a-button/",
+    "title": "[英] Look, Mom, I pressed a button",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://twitter.com/sama/status/2097385167002415140",
+    "title": "[英] Sam Altman's statement on the Navier-Stokes dispute",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://openai.com/index/codex-quantum-computing-experiments/",
+    "title": "[英] How GPT‑5.6 Sol helps run quantum computing experiments",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+    "title": "[英] “Tweet” and the bird logo apparently enter the public domain",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://gwern.net/on-really-trying",
+    "title": "[英] On Really Trying (2009)",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://grapheneos.social/@GrapheneOS/117231186011306184",
+    "title": "[英] Copyright does more harm than good and should be abolished",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://mhacevedo.com/posts/the-discovery-problem",
+    "title": "[英] AI Has a Discovery Problem",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+    "title": "[英] The Navier–Stokes Millennium Prize Problem",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://lukesmith.xyz/articles/science-of-the-gaps/",
+    "title": "[英] Science of the Gaps (2025)",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://dearheadofmine.substack.com/p/the-nonfiction-book-market-is-collapsing",
+    "title": "[英] The Nonfiction Book Market is Collapsing?",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+    "title": "[英] A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
+    "title": "[英] Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://dl.acm.org/doi/10.1145/2980983.2908081",
+    "title": "[英] Into the depths of C: Elaborating the de facto standards (2016)",
+    "date": "2026-09-09"
+  },
+  {
     "link": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
-    "title": "[英] The UK origins of the Slovenian \"Partner\" 80s microcomputer's case",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-    "title": "[英] Tension wood: A 'muscle' that can both bend and straighten plants",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://www.reuters.com/world/middle-east/iran-says-it-captured-us-submarine-drone-strait-hormuz-2026-09-08/",
-    "title": "[英] Iran says it captured US submarine drone in Strait of Hormuz",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://twitter.com/hilbertspaess/status/2097476196791709843",
-    "title": "[英] AI Responsibility – OpenAI and Anthropic",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
-    "title": "[英] Harvard study predicts most suicide attempts a week in advance",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://spader.zone/wtf/",
-    "title": "[英] Codex silently begs agents to make arbitrary web requests",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://gpu-lexer.vercel.app/",
-    "title": "[英] 27.5KB language-agnostic WebGPU syntax highlighter",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-    "title": "[英] An Accidental Blackboard",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://www.reuters.com/business/us-ban-canadian-dairy-alcohol-motor-vehicle-imports-september-29-2026-09-08/",
-    "title": "[英] US to ban Canadian dairy, alcohol, motor vehicle imports on September 29",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-    "title": "[英] I resigned from Anthropic today",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49598009",
-    "title": "[英] Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
-    "title": "[英] Getting phpBB 1.4.4 working in Docker",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://e-infinity.space/picture-book/",
-    "title": "[英] A Topological Picture Book, Rendered",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
-    "title": "[英] The Microeconomics of Artificial Intelligence (2025)",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://mathstodon.xyz/@tao/117237320796901560",
-    "title": "[英] Tao: Open math problems being non-renewably mined by AI",
+    "title": "[英] The origins of Partner’s computer case",
     "date": "2026-09-09"
   }
 ]

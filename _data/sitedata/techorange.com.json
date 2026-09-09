@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/09/09/ai-meta-muse-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Meta 推出專屬 AI 代理 Muse：主打「第二大腦」，內部實測卻踩安全隱憂",
+    "date": "2026-09-09 13:06:48"
+  },
+  {
     "link": "https://techorange.com/2026/09/09/chatgptads-openai-anthropic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "ChatGPT 廣告營收破 10 億！為什麼「搜尋入口」最後都走上廣告這條路？",
     "date": "2026-09-09 12:02:12"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/09/08/openai-ai-research-intern-jensen-huang-agi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】OpenAI「AI 研究實習生」達標，黃仁勳稱 AGI 已到來、40 萬顆 GPU 將上線",
     "date": "2026-09-08 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/09/07/ascii-smuggling-ai-prompt-injection-phishing-evasion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "原本用來攻擊 AI，現在拿來躲郵件偵測：「ASCII 走私」隱形字元攻擊單日逾 230 萬封",
-    "date": "2026-09-07 17:10:35"
   }
 ]
