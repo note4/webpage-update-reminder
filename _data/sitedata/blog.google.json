@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/",
+    "title": "[英] Tackle your to-do list with new features in our Google AI plans.",
+    "date": "2026-09-10 01:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "title": "[英] Get ready for the game with new football features in Search",
+    "date": "2026-09-10 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/",
+    "title": "[英] 4 ways Gemini makes administrative chores quick and easy",
+    "date": "2026-09-10 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+    "title": "[英] Recreating a 70-year love story frame by frame",
+    "date": "2026-09-10 00:00:00"
+  },
+  {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/",
+    "title": "[英] Google Accelerators have spent the last decade helping global startups succeed.",
+    "date": "2026-09-10 00:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
     "title": "[英] Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
     "date": "2026-09-09 15:00:00"
@@ -48,30 +73,5 @@
     "link": "https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/",
     "title": "[英] Google Translate rolls out new upgrades for iOS and Android.",
     "date": "2026-09-05 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/",
-    "title": "[英] Start the year AI-ready with the Google AI Educator Series",
-    "date": "2026-09-04 01:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/",
-    "title": "[英] Use your voice to get more done in Gmail, Docs, and Keep",
-    "date": "2026-09-04 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
-    "title": "[英] 5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience",
-    "date": "2026-09-03 23:05:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
-    "title": "[英] Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "date": "2026-09-03 23:00:00"
-  },
-  {
-    "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/",
-    "title": "[英] Build a measurement stack you can rely on to steer your campaigns.",
-    "date": "2026-09-03 01:00:00"
   }
 ]
