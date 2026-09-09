@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/09/10/333-robots-community-meetup-august/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【333 Robots Community Meetup】從 Gesture HW1 到人形格鬥機器人，開發者怎麼把機器人做出來？",
+    "date": "2026-09-10 06:01:00"
+  },
+  {
+    "link": "https://techorange.com/2026/09/10/amazon-qualcomm-60-billion-ai-chip-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【科技早餐】Amazon 最高 600 億美元採購高通 AI 晶片，AI 戰線延伸至電力、代理與資安",
+    "date": "2026-09-10 05:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/09/09/moda-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "台灣開始思考 AI Agent 怎麼管，數發部點出能力、身分、問責等六個治理層次",
     "date": "2026-09-09 18:54:32"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/09/08/arm-total-design-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Hugging Face、宇樹科技都加入：Arm 擴大實體 AI 生態系，同步推機器人六級能力框架",
     "date": "2026-09-08 12:28:55"
-  },
-  {
-    "link": "https://techorange.com/2026/09/08/snowflake-cortex-ai-gateway/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【AI 模型路由新解】Snowflake 不只比快比省，真正賣的是資料留在受控邊界內",
-    "date": "2026-09-08 09:30:03"
-  },
-  {
-    "link": "https://techorange.com/2026/09/08/the-public-sector-workforce/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "公務員不必會寫程式，但能自己調整 AI 代理，政府的 AI 改革才真正開始",
-    "date": "2026-09-08 09:29:45"
   }
 ]
