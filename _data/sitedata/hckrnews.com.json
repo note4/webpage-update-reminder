@@ -1,7 +1,32 @@
 [
   {
+    "link": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
+    "title": "[英] Getting phpBB 1.4.4 working in Docker",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://e-infinity.space/picture-book/",
+    "title": "[英] A Topological Picture Book, Rendered",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+    "title": "[英] The Microeconomics of Artificial Intelligence (2025)",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://mathstodon.xyz/@tao/117237320796901560",
+    "title": "[英] Tao: Open math problems being non-renewably mined by AI",
+    "date": "2026-09-09"
+  },
+  {
+    "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "title": "[英] How to build a printer",
+    "date": "2026-09-09"
+  },
+  {
     "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-    "title": "[英] Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+    "title": "[英] Large language models develop novel social biases through adaptive exploration",
     "date": "2026-09-09"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://hvpandya.com/tyranny-of-optionality",
     "title": "[英] Tyranny of Optionality",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
-    "title": "[英] Function Arguments Are Not Function Colors",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://ai.meta.com/muse/",
-    "title": "[英] Muse: Meta's personal AI agent, features and capabilities",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
-    "title": "[英] Flights cancelled at UK airports due to ATC issue",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://uecker.codeberg.page/2026-09-05.html",
-    "title": "[英] Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
-    "date": "2026-09-09"
-  },
-  {
-    "link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-    "title": "[英] ChatGPT Images 2.5",
     "date": "2026-09-09"
   }
 ]
