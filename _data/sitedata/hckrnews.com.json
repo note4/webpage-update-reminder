@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "title": "[英] Detecting and countering misuse of AI: September 2026",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://merybenavente.me/blog/proof-of-capture",
+    "title": "[英] Proof of Capture: Apple Reference Image, but open source and using steganography",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+    "title": "[英] What happens when a GPU writes memory",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+    "title": "[英] Creativity is the New Moat",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://chaimsapps.com/",
+    "title": "[英] Show HN: Two small Chrome extensions for Hebrew text and dates",
+    "date": "2026-09-11"
+  },
+  {
     "link": "https://ai-2027.com",
     "title": "[英] AI 2027 (2025)",
     "date": "2026-09-11"
@@ -47,31 +72,6 @@
   {
     "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
     "title": "[英] Forgejo <=16.0.3 Critical RCE",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://greaber.github.io/syq/",
-    "title": "[英] Show HN: Syq – copy files between machines fast (better than rsync)",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/",
-    "title": "[英] Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
-    "title": "[英] Silicon Valley Is Transforming the Military-Industrial Complex",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://graybeard.ing/software-drives-people-insane/",
-    "title": "[英] I have a theory that software drives people insane",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://forgeeks.net/iphone-duo-galaxy-fold-animation/",
-    "title": "[英] Galaxy Z Fold 8 get the same folding animation as iPhone Duo",
     "date": "2026-09-11"
   }
 ]
