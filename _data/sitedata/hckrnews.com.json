@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://blog.coredump.cx/p/recursion-into-madness",
+    "title": "[英] Recursion into Madness",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://vester.si/bodily-oddities/",
+    "title": "[英] Bodily Oddities",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+    "title": "[英] NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+    "title": "[英] The part of Navier-Stokes no one is talking about",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://vertumnus.fyi",
+    "title": "[英] Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "title": "[英] OpenAI Agents API",
+    "date": "2026-09-11"
+  },
+  {
     "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
     "title": "[英] Detecting and countering misuse of AI: September 2026",
     "date": "2026-09-11"
@@ -42,36 +72,6 @@
   {
     "link": "https://openjdk.org/jeps/544",
     "title": "[英] JEP 544: Ahead-of-Time Code Compilation",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
-    "title": "[英] The Four-Color Theorem Gets a Rare New Proof",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://ayles.github.io/doom-in-kernel/",
-    "title": "[英] Show HN: DOOM in the kernel, or fibers in eBPF",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-    "title": "[英] Douglas Hofstadter: Analogy as the Core of Cognition [video]",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://tokenstead.ai/models/swe-2",
-    "title": "[英] Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://usefeyn.com/blog/multimatte/",
-    "title": "[英] Show HN: MultiMatte, a Promptable Image Background Removal Model",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-    "title": "[英] Forgejo <=16.0.3 Critical RCE",
     "date": "2026-09-11"
   }
 ]
