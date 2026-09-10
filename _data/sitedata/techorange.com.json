@@ -1,8 +1,23 @@
 [
   {
+    "link": "https://techorange.com/2026/09/10/openai-anthropic-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI Agent 越界範圍再擴大、Anthropic 揭第 4 起事故：AI 安全進入「事故治理」階段",
+    "date": "2026-09-10 12:37:03"
+  },
+  {
+    "link": "https://techorange.com/2026/09/10/anthropic-research-ai-economics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Anthropic 三情境拆解 AI 經濟衝擊：極端情境 GDP 增 32%、失業率恐近 12%",
+    "date": "2026-09-10 12:19:43"
+  },
+  {
+    "link": "https://techorange.com/2026/09/10/robots-that-cant-communicate/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【機器人的下一關：聽覺】會走路、拿東西還不夠，聽不懂人話就難被採用",
+    "date": "2026-09-10 10:08:13"
+  },
+  {
     "link": "https://techorange.com/2026/09/10/333-robots-community-meetup-august/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【333 Robots Community Meetup】從 Gesture HW1 到人形格鬥機器人，開發者怎麼把機器人做出來？",
-    "date": "2026-09-10 06:01:00"
+    "date": "2026-09-10 10:00:00"
   },
   {
     "link": "https://techorange.com/2026/09/10/amazon-qualcomm-60-billion-ai-chip-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/09/08/china-readies-humanoid-robots-for-combat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "中國軍方加速佈局人形機器人，從採購到訓練資料已走到哪一步？",
     "date": "2026-09-08 16:19:44"
-  },
-  {
-    "link": "https://techorange.com/2026/09/08/scientists-ultrafast-magnetic-memory-system-ai-data-center-energy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 資料中心節能新突破？愛丁堡大學提出新型磁性記憶體理論，能耗有望逼近物理極限",
-    "date": "2026-09-08 12:57:36"
-  },
-  {
-    "link": "https://techorange.com/2026/09/08/siraya-tidb-model-router/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 不只拚模型：SIRAYA 獲台灣首家 TiDB 白金級合作夥伴，深化企業 AI 基礎架構布局",
-    "date": "2026-09-08 12:33:10"
-  },
-  {
-    "link": "https://techorange.com/2026/09/08/arm-total-design-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Hugging Face、宇樹科技都加入：Arm 擴大實體 AI 生態系，同步推機器人六級能力框架",
-    "date": "2026-09-08 12:28:55"
   }
 ]
