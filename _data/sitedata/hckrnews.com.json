@@ -1,7 +1,27 @@
 [
   {
+    "link": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
+    "title": "[英] Embedding a bitmap font in your HyperCard stack",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://asm-editor.specy.app/",
+    "title": "[英] Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+    "title": "[英] Nine coding harnesses vs. your laptop",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://auberon.xyz/blog/posts/deathray/",
+    "title": "[英] The Deathray: A simple way for an untrusted site to freeze a Mac",
+    "date": "2026-09-11"
+  },
+  {
     "link": "https://blog.coredump.cx/p/recursion-into-madness",
-    "title": "[英] Recursion into Madness",
+    "title": "[英] Recursion into madness",
     "date": "2026-09-11"
   },
   {
@@ -11,12 +31,12 @@
   },
   {
     "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-    "title": "[英] NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
+    "title": "[英] NTSB issues investigative update on B-767 runway excursion accident in Miami",
     "date": "2026-09-11"
   },
   {
     "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-    "title": "[英] The part of Navier-Stokes no one is talking about",
+    "title": "[英] OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
     "date": "2026-09-11"
   },
   {
@@ -46,32 +66,12 @@
   },
   {
     "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
-    "title": "[英] Creativity is the New Moat",
+    "title": "[英] Creativity is the new moat",
     "date": "2026-09-11"
   },
   {
     "link": "https://chaimsapps.com/",
     "title": "[英] Show HN: Two small Chrome extensions for Hebrew text and dates",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://ai-2027.com",
-    "title": "[英] AI 2027 (2025)",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-    "title": "[英] Music Theory for the 21st-Century Classroom",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
-    "title": "[英] Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://openjdk.org/jeps/544",
-    "title": "[英] JEP 544: Ahead-of-Time Code Compilation",
     "date": "2026-09-11"
   }
 ]
