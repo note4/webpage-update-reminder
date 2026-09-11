@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Neijuan",
+    "title": "[英] Neijuan",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+    "title": "[英] Cherenkov Radiation - traveling faster than light",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+    "title": "[英] So you want to use OpenRouter?",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://www.ft.com/content/ebfa69a3-323b-450d-8bfd-0b12e01d2a5b",
+    "title": "[英] US diesel hits record $6 a gallon on Iran supply shock",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+    "title": "[英] GPT‑Live‑1 in the API",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cx2zrrpkx20o",
+    "title": "[英] Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+    "title": "[英] Testing race conditions with mem access tracing and stack-based delay injection",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+    "title": "[英] DeepSeek v4.1 Flash Uncensored",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
+    "title": "[英] Stop making swap partitions–use swap files instead",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+    "title": "[英] Astra for Coding: Why Are We Doing This Again?",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
+    "title": "[英] We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://ersc.io/blog/what-comes-after-git",
+    "title": "[英] What Comes After Git",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+    "title": "[英] Working with Git Worktrees in Magit",
+    "date": "2026-09-11"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+    "title": "[英] The Gemini app is now available for Windows",
+    "date": "2026-09-11"
+  },
+  {
     "link": "https://edconway.substack.com/p/the-little-holes-in-your-bread-are",
     "title": "[英] The little holes in your bread are telling you something",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
-    "title": "[英] Exercise intensity is associated with cardiometabolic health",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/",
-    "title": "[英] Finite time blowup with smooth forcing term for the incompressible porous medium",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://github.com/HimanshuJ16/Algo-Trading-Skills",
-    "title": "[英] Show HN: Algo-Trading-Skills - 501 agent skills for trading infrastructure",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
-    "title": "[英] LLM Visualizer – Build a Transformer from Scratch",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://jo3-l.dev/posts/bitap/",
-    "title": "[英] Bitap: My favorite string matching algorithm",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://powerfooI.github.io/herdr-studio/",
-    "title": "[英] Herdr Studio",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-    "title": "[英] Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://benzi.fly.dev/benchmark",
-    "title": "[英] Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://tensorsandtokens.com/posts/opencode-ollama/",
-    "title": "[英] Setting up OpenCode with Ollama and sbx on Mac",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://mic.sandboxx.us/",
-    "title": "[英] YouTuber, or someone, wants to send nice emails to active military personnel",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://blog.webb.page/WM-102",
-    "title": "[英] Customizing my Compaq MX-11800 keyboard",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://www.details.so/inspo",
-    "title": "[英] Details.so",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://map-yue2.github.io/",
-    "title": "[英] YuE2 · Frontier Music with Symbolic Planning",
-    "date": "2026-09-11"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-    "title": "[英] Google will buy half the electricity from one of Finland's nuclear power plants",
     "date": "2026-09-11"
   }
 ]
