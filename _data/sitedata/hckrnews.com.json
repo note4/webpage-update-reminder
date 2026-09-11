@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.rubyhack.ai/",
+    "title": "[英] OpenAI agents carried out an undisclosed attack on RubyGems",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md",
+    "title": "[英] DeCloudflare",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.fink-translate.com/blog/hepburn-romanization.html",
+    "title": "[英] Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+    "title": "[英] QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://blinkenlights.de/en/",
+    "title": "[英] Project Blinkenlights",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://earth.ethanplus.ai/",
+    "title": "[英] GPT-6 built this earth exploration site in 5 prompts",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://github.com/mirza-rizvi/ResolveHQ",
+    "title": "[英] Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://infisical.com/blog/folder-based-rbac",
+    "title": "[英] There is no 10x RBAC",
+    "date": "2026-09-12"
+  },
+  {
     "link": "https://txt.hellman.io/",
     "title": "[英] Txt: A fast, keyboard-driven terminal text editor for engineers",
     "date": "2026-09-12"
@@ -32,46 +72,6 @@
   {
     "link": "https://www.psypost.org/creatine-improves-muscle-mass-and-cognitive-function-in-older-adults-even-without-exercise/",
     "title": "[英] Creatine improves muscle mass and cognitive function even without exercise",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://pgadey.ca/blog/eating-fruit-skins/",
-    "title": "[英] Eating Fruit Skins",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-    "title": "[英] GrapheneOS' rewritten Messages app is released",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.economist.com/science-and-technology/2026/09/11/hot-coffee-could-cause-oesophageal-cancer",
-    "title": "[英] Hot coffee could cause oesophageal cancer",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-    "title": "[英] Mind-altering drugs played key role in rise of Andean civilization",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://spectrum.ieee.org/alphagenome-atlas",
-    "title": "[英] AlphaGenome maps 9B DNA variants",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://suno.com/blog/introducing-v6",
-    "title": "[英] Suno v6 released for music creation",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-    "title": "[英] CIA Releases President's Daily Briefs in Commemoration of 9/11",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://mathandai.org/",
-    "title": "[英] A misalignment of AI in mathematics",
     "date": "2026-09-12"
   }
 ]
