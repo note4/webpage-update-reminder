@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://txt.hellman.io/",
+    "title": "[英] Txt: A fast, keyboard-driven terminal text editor for engineers",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://pikuma.com/blog/pdp-8-minicomputer",
+    "title": "[英] From Front Panel to Program: Thinking Like a PDP-8",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "title": "[英] A Design Space Exploration of Async/Await",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://elevenmusic.io/blog/introducing-music-v2-5",
+    "title": "[英] ElevenLabs Music v2.5",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "title": "[英] I spent $220 on Google app ads and 60% of the installs were robots",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49664530",
+    "title": "[英] undefined",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.psypost.org/creatine-improves-muscle-mass-and-cognitive-function-in-older-adults-even-without-exercise/",
+    "title": "[英] Creatine improves muscle mass and cognitive function even without exercise",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://pgadey.ca/blog/eating-fruit-skins/",
+    "title": "[英] Eating Fruit Skins",
+    "date": "2026-09-12"
+  },
+  {
     "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
     "title": "[英] GrapheneOS' rewritten Messages app is released",
     "date": "2026-09-12"
@@ -25,53 +65,13 @@
     "date": "2026-09-12"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=49663054",
-    "title": "[英] undefined",
+    "link": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
+    "title": "[英] CIA Releases President's Daily Briefs in Commemoration of 9/11",
     "date": "2026-09-12"
   },
   {
     "link": "https://mathandai.org/",
     "title": "[英] A misalignment of AI in mathematics",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49661997",
-    "title": "[英] undefined",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-    "title": "[英] Top mathematicians are outraged by OpenAI's methods",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "title": "[英] A Misalignment of AI in Mathematics",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-    "title": "[英] The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Room_641A",
-    "title": "[英] Room 641A",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://github.com/kennethwolters/litelm",
-    "title": "[英] Litelm: LiteLLM Without the Bloat",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://github.com/paradise-runner/toast",
-    "title": "[英] Show HN: Toast, a beautiful by default in terminal IDE",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://thorstenball.com/talks/how-i-prompt/",
-    "title": "[英] How I Prompt",
     "date": "2026-09-12"
   }
 ]
