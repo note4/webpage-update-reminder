@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://hachyderm.io/@simontatham/117201594980991062",
+    "title": "[英] Linux Zoom client proactively reading everything written to X11 clipboard",
+    "date": "2026-09-13"
+  },
+  {
+    "link": "https://modelrift.com/blog/cadquery-vs-openscad/",
+    "title": "[英] Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
+    "date": "2026-09-13"
+  },
+  {
+    "link": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
+    "title": "[英] The Magic Behind Cubacadabra",
+    "date": "2026-09-13"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49676243",
+    "title": "[英] undefined",
+    "date": "2026-09-13"
+  },
+  {
+    "link": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+    "title": "[英] An open letter to Dario: if you mean it, open the weights",
+    "date": "2026-09-13"
+  },
+  {
+    "link": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+    "title": "[英] Stabilizing Rust's Never Type",
+    "date": "2026-09-13"
+  },
+  {
+    "link": "https://bookdna.com/best-books/how-we-build-absurd-societies-and-keep-justifying",
+    "title": "[英] My favorite sci-fi books about how we build societies and keep justifying them",
+    "date": "2026-09-13"
+  },
+  {
     "link": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
     "title": "[英] Anthropic CEO Says It's Time to Slow AI Model Advances",
     "date": "2026-09-13"
@@ -37,41 +72,6 @@
   {
     "link": "https://arxiv.org/abs/2609.01877",
     "title": "[英] Will There Be a 7G?",
-    "date": "2026-09-13"
-  },
-  {
-    "link": "https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality",
-    "title": "[英] How we manage and engage with our horses shapes their personality",
-    "date": "2026-09-13"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-    "title": "[英] Anthropic boss Dario Amodei calls for AI development to slow down",
-    "date": "2026-09-13"
-  },
-  {
-    "link": "https://twitter.com/GrapheneOS/status/2098792171058889006",
-    "title": "[英] GrapheneOS: Nearly all of our recent posts on Hacker News are being flagged",
-    "date": "2026-09-13"
-  },
-  {
-    "link": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-    "title": "[英] A Few Good Ideas in Programming Languages",
-    "date": "2026-09-13"
-  },
-  {
-    "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
-    "title": "[英] Make your first edit to OpenStreetMap",
-    "date": "2026-09-13"
-  },
-  {
-    "link": "https://github.com/nefarius/vd_agent/",
-    "title": "[英] I refuse to let SPICE die",
-    "date": "2026-09-13"
-  },
-  {
-    "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-    "title": "[英] Microcode in Intel's 8087 floating-point chip: the scale instruction",
     "date": "2026-09-13"
   }
 ]
