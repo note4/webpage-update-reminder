@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://github.com/gauravapiscean/agentic-kv-cache",
+    "title": "[英] LRU is harder to beat than the KV-cache papers suggest",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://liniora.com",
+    "title": "[英] Show HN: Liniora – Ever thought about replacing your project manager?",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+    "title": "[英] I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+    "title": "[英] Forgotten Woodlands",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://grahamdumpleton.me/posts/2026/09/finding-slow-code-with-wrapture/",
+    "title": "[英] Finding Slow Code with Wrapture",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/",
+    "title": "[英] Altman tells staff OpenAI is open to slowing AI development",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+    "title": "[英] The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "title": "[英] Fuck it, make it anyway",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
+    "title": "[英] Crypto farm in Mexican mountains puts spotlight on cartel funding",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist",
+    "title": "[英] Naomi Klein: Extreme wealth has a deranging effect. Turns you into a supremacist",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
+    "title": "[英] SystemIO conflicts are not firmware bugs",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825",
+    "title": "[英] AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
+    "date": "2026-09-12"
+  },
+  {
     "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
     "title": "[英] We've followed their lives for six decades; now the stars of 7 Up are bowing out",
     "date": "2026-09-12"
@@ -12,66 +72,6 @@
   {
     "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
     "title": "[英] Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-    "title": "[英] Detailed report on the use of solar geoengineering",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-    "title": "[英] IKEA made a mod for Skyrim [video]",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://eiln.github.io/posts/ane.html",
-    "title": "[英] Retrospectively Reverse-Engineering Apple's Neural Engine",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
-    "title": "[英] Another way to leak traffic on Android has been discovered",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
-    "title": "[英] Inverse Kinematics and Foot Locking",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://calif.io/research/weworm",
-    "title": "[英] WeWorm: Zero-Click WeChat Worm",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://macos-defaults.com",
-    "title": "[英] macOS defaults list: Incomplete list of macOS defaults commands with demos",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://matheuzsecurity.github.io/hacking/linux-kernel-keyring-fileless-exec/",
-    "title": "[英] Fileless ELF Execution via Kernel Keyring",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-    "title": "[英] OpenAI agents attacked RubyGems back in May",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.cognivisehub.com/blogs/the-kernel-does-not-care-what-you-named-the-tool",
-    "title": "[英] The kernel does not care what you named the tool",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.claymath.org/news/navier-stokes-announcement/",
-    "title": "[英] Navier-Stokes Announcement",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.usenet-rewind.com/",
-    "title": "[英] Usenet rewind archive search engine",
     "date": "2026-09-12"
   }
 ]
