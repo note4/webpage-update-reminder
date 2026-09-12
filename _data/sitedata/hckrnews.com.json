@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://eiln.github.io/posts/ane-dma.html",
+    "title": "[英] Getting 50 GB/S Back from the Apple Neural Engine",
+    "date": "2026-09-13"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "title": "[英] OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+    "date": "2026-09-13"
+  },
+  {
+    "link": "https://www.ft.com/article/404",
+    "title": "[英] Financial Times' 404 Page not Found",
+    "date": "2026-09-13"
+  },
+  {
+    "link": "https://dunstanorchard.com/apple-ipod-engraver/",
+    "title": "[英] Apple iPod Engraver (2019)",
+    "date": "2026-09-13"
+  },
+  {
+    "link": "https://withspecific.com/benchmarks/real-swe",
+    "title": "[英] Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "date": "2026-09-13"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+    "title": "[英] LG Says We're Fake News [video]",
+    "date": "2026-09-13"
+  },
+  {
     "link": "https://hachyderm.io/@simontatham/117201594980991062",
     "title": "[英] Linux Zoom client proactively reading everything written to X11 clipboard",
     "date": "2026-09-13"
@@ -42,36 +72,6 @@
   {
     "link": "https://www.d3s.mff.cuni.cz/files/publications/antoch_experimental_2026.pdf",
     "title": "[英] Experimental Evaluation Methodology for the Era of No Steady Performance [pdf]",
-    "date": "2026-09-13"
-  },
-  {
-    "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-    "title": "[英] How Trail of Bits helps verify the integrity of Signal chats",
-    "date": "2026-09-13"
-  },
-  {
-    "link": "https://lalitm.com/post/buildprof/",
-    "title": "[英] I made a build visualizer to understand Bun's compile times",
-    "date": "2026-09-13"
-  },
-  {
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-    "title": "[英] LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-    "date": "2026-09-13"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49674396",
-    "title": "[英] How SaaS startup guys get first 100 customers first, make fkn $500k ARR fast?",
-    "date": "2026-09-13"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-    "title": "[英] ClickFix attacks infecting PCs and Macs are going viral",
-    "date": "2026-09-13"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.01877",
-    "title": "[英] Will There Be a 7G?",
     "date": "2026-09-13"
   }
 ]
