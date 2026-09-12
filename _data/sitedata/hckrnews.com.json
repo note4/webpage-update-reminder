@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://matheuzsecurity.github.io/hacking/linux-kernel-keyring-fileless-exec/",
+    "title": "[英] Fileless ELF Execution via Kernel Keyring",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+    "title": "[英] OpenAI agents attacked RubyGems back in May",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.cognivisehub.com/blogs/the-kernel-does-not-care-what-you-named-the-tool",
+    "title": "[英] The kernel does not care what you named the tool",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.claymath.org/news/navier-stokes-announcement/",
+    "title": "[英] Navier-Stokes Announcement",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.usenet-rewind.com/",
+    "title": "[英] Usenet rewind archive search engine",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+    "title": "[英] Designing for Dual Screen and Foldable Devices with CSS (2023)",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49668196",
+    "title": "[英] Ask HN: Did Google kill its enterprise workhorse model?",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.autom.dev/blog/google-search-goto-links",
+    "title": "[英] google.com/goto: Google's anti-scraping update",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
+    "title": "[英] Google stole open source code without crediting the authors (Artemis/Minitap)",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+    "title": "[英] Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+    "title": "[英] Pandas Should Go Extinct",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://en.quantumgame.love/guide/how-old-is-snakes-and-ladders.html",
+    "title": "[英] The oldest known Snakes and Ladders board is probably a forgery",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://abio.substack.com/p/how-poor-people-buy-cars",
+    "title": "[英] How Poor People Buy Cars",
+    "date": "2026-09-12"
+  },
+  {
     "link": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
     "title": "[英] Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
     "date": "2026-09-12"
@@ -7,71 +72,6 @@
   {
     "link": "https://www.youtube.com/watch?v=LYCcejLdFR4",
     "title": "[英] How do you rotate in four dimensions? From Zero to Geo 3.10 [video]",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://github.com/zachsaw/graphify-csharp",
-    "title": "[英] Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.firecrawl.dev/blog/ai-software-factory",
-    "title": "[英] How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.dwarkesh.com/p/john-beren-charlie",
-    "title": "[英] AI researchers debate how close we are to recursive self-improvement",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-    "title": "[英] Testing Race Conditions",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.rubyhack.ai/",
-    "title": "[英] OpenAI agents carried out an undisclosed attack on RubyGems",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md",
-    "title": "[英] DeCloudflare",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.fink-translate.com/blog/hepburn-romanization.html",
-    "title": "[英] Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
-    "title": "[英] QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://blinkenlights.de/en/",
-    "title": "[英] Project Blinkenlights",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://earth.ethanplus.ai/",
-    "title": "[英] GPT-6 built this earth exploration site in 5 prompts",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://github.com/mirza-rizvi/ResolveHQ",
-    "title": "[英] Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://infisical.com/blog/folder-based-rbac",
-    "title": "[英] How we rebuilt complex permissions without migrating to Zanzibar",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://txt.hellman.io/",
-    "title": "[英] Txt: A fast, keyboard-driven terminal text editor for engineers",
     "date": "2026-09-12"
   }
 ]
