@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+    "title": "[英] Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=LYCcejLdFR4",
+    "title": "[英] How do you rotate in four dimensions? From Zero to Geo 3.10 [video]",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://github.com/zachsaw/graphify-csharp",
+    "title": "[英] Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.firecrawl.dev/blog/ai-software-factory",
+    "title": "[英] How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://www.dwarkesh.com/p/john-beren-charlie",
+    "title": "[英] AI researchers debate how close we are to recursive self-improvement",
+    "date": "2026-09-12"
+  },
+  {
+    "link": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+    "title": "[英] Testing Race Conditions",
+    "date": "2026-09-12"
+  },
+  {
     "link": "https://www.rubyhack.ai/",
     "title": "[英] OpenAI agents carried out an undisclosed attack on RubyGems",
     "date": "2026-09-12"
@@ -36,42 +66,12 @@
   },
   {
     "link": "https://infisical.com/blog/folder-based-rbac",
-    "title": "[英] There is no 10x RBAC",
+    "title": "[英] How we rebuilt complex permissions without migrating to Zanzibar",
     "date": "2026-09-12"
   },
   {
     "link": "https://txt.hellman.io/",
     "title": "[英] Txt: A fast, keyboard-driven terminal text editor for engineers",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://pikuma.com/blog/pdp-8-minicomputer",
-    "title": "[英] From Front Panel to Program: Thinking Like a PDP-8",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "title": "[英] A Design Space Exploration of Async/Await",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://elevenmusic.io/blog/introducing-music-v2-5",
-    "title": "[英] ElevenLabs Music v2.5",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-    "title": "[英] I spent $220 on Google app ads and 60% of the installs were robots",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49664530",
-    "title": "[英] undefined",
-    "date": "2026-09-12"
-  },
-  {
-    "link": "https://www.psypost.org/creatine-improves-muscle-mass-and-cognitive-function-in-older-adults-even-without-exercise/",
-    "title": "[英] Creatine improves muscle mass and cognitive function even without exercise",
     "date": "2026-09-12"
   }
 ]
