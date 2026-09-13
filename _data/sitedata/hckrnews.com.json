@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "title": "[英] AI recursive self-improvement might not come so quickly after all (August 2026)",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+    "title": "[英] Global Shortage Has Led to Motor Oil Rationing at Costco",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
+    "title": "[英] Device Drivers lab exercise – COSC562",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=koclOnlde0E",
+    "title": "[英] Flock cameras used to arrest a child for playing on a swing",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+    "title": "[英] Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://textlog.cc/post/3662?hn",
+    "title": "[英] You delete a file on Linux while a program has it open. What happens? (quiz)",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://www.paulgraham.com/powerful.html",
+    "title": "[英] Making Startups Powerful",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://github.com/Dillonsmart/docket",
+    "title": "[英] Docket – Per-commit evidence records for agent-written code",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://dreamstation.systems/personal/tesla.html",
+    "title": "[英] I'm being cyberattacked by Tesla, Inc",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+    "title": "[英] Why is Google still serving dodgy ads?",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=_TBNJyztai0",
+    "title": "[英] Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49686293",
+    "title": "[英] undefined",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49686380",
+    "title": "[英] Ask HN: What are you working on? (September 2026)",
+    "date": "2026-09-14"
+  },
+  {
     "link": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
     "title": "[英] Romania soccer introduces black card to 'combat abusive behaviour' from parents",
     "date": "2026-09-14"
@@ -7,71 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=49686233",
     "title": "[英] Ask HN: How can I browse HN in dark mode?",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://twitter.com/DavidSacks/status/2098973625252708460",
-    "title": "[英] David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://github.com/OSPreservProject/sprite/blob/master/sprite.txt",
-    "title": "[英] A Brief Retrospective on the Sprite Network Operating System",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://github.com/unempyd/revenueos",
-    "title": "[英] RevenueOS – open-source revenue automation that waits for your approval",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49685036",
-    "title": "[英] Ask HN: Are we losing our engineering literacy?",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "title": "[英] Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://cpak.it/",
-    "title": "[英] Cpak – OCI application package format for Linux desktops, servers and devices",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://alanbellows.com/experiments/insult/index.html",
-    "title": "[英] Alan's Random Insult Generator (1999)",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://prior.chat/",
-    "title": "[英] Predictive intelligence to anticipate anything.",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://paulgraham.com/powerful.html",
-    "title": "[英] Making Startups Powerful",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-    "title": "[英] Libraries Run Rust Inside Python (With PyO3)",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-    "title": "[英] CUDA for AMD on Windows",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
-    "title": "[英] Key symbols we lost to time, pt. 1: The PC side",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-    "title": "[英] Astra and Fable still hack on simple variants of alignment evals from 2025",
     "date": "2026-09-14"
   }
 ]
