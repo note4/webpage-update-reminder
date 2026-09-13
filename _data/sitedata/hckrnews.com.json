@@ -1,7 +1,57 @@
 [
   {
+    "link": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
+    "title": "[英] Why is privacy so hard?",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+    "title": "[英] Registration without a phone number on Signal will use zero-knowledge proofs",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://openai.com/index/better-language-models/",
+    "title": "[英] Due to concerns about malicious applications, GPT2 will not be released (2019)",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/",
+    "title": "[英] It's All Fun and Games Until You Give AI Your Credit Card",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+    "title": "[英] The Contagion of Fear",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
+    "title": "[英] The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49688761",
+    "title": "[英] Ask HN: In The Matrix, the bad guys are the 'agents'. Coincidence? Clairvoyance?",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://github.com/misqe/zero-trust-llm",
+    "title": "[英] A computational constitution to stop LLM agents from bricking servers",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://allcentury.github.io/2026/09/02/what-a-dispute-actually-costs/",
+    "title": "[英] Why a dispute costs $229 on a $129 pair of shoes",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://gornak40.org/blog/ai-is-destroying-the-world.html",
+    "title": "[英] AI Is Destroying the World",
+    "date": "2026-09-14"
+  },
+  {
     "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "title": "[英] Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "title": "[英] Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
     "date": "2026-09-14"
   },
   {
@@ -22,56 +72,6 @@
   {
     "link": "https://twitter.com/TechEmails/status/2099214399840059428",
     "title": "[英] Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
-    "title": "[英] There Is No AI (It's Just People) with Jaron Lanier",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-    "title": "[英] Julia 1.13 Highlights",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-    "title": "[英] AI recursive self-improvement might not come so quickly after all (August 2026)",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
-    "title": "[英] Global Shortage Has Led to Motor Oil Rationing at Costco",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
-    "title": "[英] Device Drivers lab exercise – COSC562",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=koclOnlde0E",
-    "title": "[英] Flock cameras used to arrest a child for playing on a swing",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-    "title": "[英] Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://textlog.cc/post/3662?hn",
-    "title": "[英] You delete a file on Linux while a program has it open. What happens? (quiz)",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://www.paulgraham.com/powerful.html",
-    "title": "[英] Making Startups Powerful",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://github.com/Dillonsmart/docket",
-    "title": "[英] Docket – Per-commit evidence records for agent-written code",
     "date": "2026-09-14"
   }
 ]
