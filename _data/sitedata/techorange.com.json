@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://techorange.com/2026/09/14/ikala-sega-tmmlu-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 夠不夠「台」，誰說了算？iKala 程世嘉：TMMLU+ 為主權 AI 訂出繁中標準",
+    "date": "2026-09-14 13:20:47"
+  },
+  {
+    "link": "https://techorange.com/2026/09/14/anthropic-pace-frontier-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 要減速，誰來訂規則？Anthropic、微軟與川普政府各有主張",
+    "date": "2026-09-14 12:31:16"
+  },
+  {
+    "link": "https://techorange.com/2026/09/14/sam-altman-openai-ipo-delay-safety-concerns/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 證實不於 2026 啟動 IPO：優先建構技術安全與對齊，AI 企業醞釀減速協議？",
+    "date": "2026-09-14 12:06:15"
+  },
+  {
+    "link": "https://techorange.com/2026/09/14/q2-26-venture-pulse-report-global/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "亞洲 AI 投資焦點從模型走向工業體系，KPMG：台灣新創要先回答技術、部署、效益三個問題",
+    "date": "2026-09-14 11:00:00"
+  },
+  {
+    "link": "https://techorange.com/2026/09/14/when-ai-saves-time-at-work/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 省下的工時算誰的？生產力紅利正在換主人，雇傭關係舊規被 AI 重新談判",
+    "date": "2026-09-14 10:37:57"
+  },
+  {
+    "link": "https://techorange.com/2026/09/14/shieldfont-for-ai-scrapers-html/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【用字型也能反制 AI】讓 AI 爬蟲抓到假資料，設計師推 ShieldFont 保護創作者",
+    "date": "2026-09-14 09:43:52"
+  },
+  {
     "link": "https://techorange.com/2026/09/14/hyundai-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "停機時間砍 86%、維修回應快 42%！現代汽車如何把 AI 鋪進 VIN、搬運車與維修廠？",
     "date": "2026-09-14 07:01:00"
@@ -43,35 +73,5 @@
     "link": "https://techorange.com/2026/09/11/deepseek-v4-1-flash-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "快取價格低至 0.003 美元：DeepSeek V4.1-Flash 省 API 推理，私有化部署卻面臨硬體新考驗",
     "date": "2026-09-11 11:51:35"
-  },
-  {
-    "link": "https://techorange.com/2026/09/11/tie-2026-transverse-laser/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "衡奕精密工業「雷射雙技術」探索細胞修復新可能，2026 創博會現場亮相",
-    "date": "2026-09-11 10:30:24"
-  },
-  {
-    "link": "https://techorange.com/2026/09/11/ai-shopping-assistant-hacked/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【AI 購物助手大破口】研究人員突破多層防護，證明零售商系統可被完全掌控",
-    "date": "2026-09-11 09:29:15"
-  },
-  {
-    "link": "https://techorange.com/2026/09/11/ai-home-depot-in-store-guidance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 購物的下一個戰場，不在電商而在貨架前：Home Depot 如何把導購搬進門市走道",
-    "date": "2026-09-11 06:58:00"
-  },
-  {
-    "link": "https://techorange.com/2026/09/11/apple-siri-ai-nvidia-groq-antitrust/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】Apple Siri AI 9/14 Beta 上線，NVIDIA 170 億美元 Groq 交易傳遭美國司法部調查",
-    "date": "2026-09-11 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/09/10/cost-of-humanoid-robot-factory-worker-agility-robotics-digit-v5/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Agility 揭人形機器人的「勞工成本」：一台 Digit 5 年 40 萬美元，多久幫你賺回來？",
-    "date": "2026-09-10 18:28:56"
-  },
-  {
-    "link": "https://techorange.com/2026/09/10/dynamic-creatures-aldebaran/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "波士頓動力分拆新創亮相：Dynamic Creatures 打造「紫色貴賓」，搶攻樂園與零售陪伴商機",
-    "date": "2026-09-10 16:07:31"
   }
 ]
