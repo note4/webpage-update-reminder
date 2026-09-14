@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://giannirosato.com/blog/post/case-against-jxl/",
+    "title": "[英] The case against JPEG XL",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "title": "[英] Open-Source AI and Open Models Reading List",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://zenodo.org/records/1430991",
+    "title": "[英] Necker, 1832: \"An optical phænomenon on viewing a figure of a geometrical solid\"",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+    "title": "[英] Mullenweg has returned as CEO after attempted board ouster",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+    "title": "[英] The Coming War on General Computation (2011)",
+    "date": "2026-09-14"
+  },
+  {
+    "link": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
+    "title": "[英] I build a mechanical watch face: a real gear train for a watch with no gears",
+    "date": "2026-09-14"
+  },
+  {
     "link": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
     "title": "[英] Why is privacy so hard?",
     "date": "2026-09-14"
@@ -21,7 +51,7 @@
   },
   {
     "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-    "title": "[英] The Contagion of Fear",
+    "title": "[英] The contagion of fear",
     "date": "2026-09-14"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://allcentury.github.io/2026/09/02/what-a-dispute-actually-costs/",
     "title": "[英] Why a dispute costs $229 on a $129 pair of shoes",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://gornak40.org/blog/ai-is-destroying-the-world.html",
-    "title": "[英] AI Is Destroying the World",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "title": "[英] Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/",
-    "title": "[英] Bad Code Is Kudzu",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-    "title": "[英] Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://www.thetimes.com/uk/crime/article/us-diplomat-flown-home-immunity-bv58b3v7q",
-    "title": "[英] US diplomat secretly flown home ‘had child abuse images at flat’",
-    "date": "2026-09-14"
-  },
-  {
-    "link": "https://twitter.com/TechEmails/status/2099214399840059428",
-    "title": "[英] Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
     "date": "2026-09-14"
   }
 ]
