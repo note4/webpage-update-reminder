@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://github.com/enactic/OpenArm",
+    "title": "[英] OpenArm: An open-source 7DOF humanoid arm",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030",
+    "title": "[英] Oil Executives Say the Great Fuel Crisis Is Here",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://github.com/stoix-dev/sefaz-webservices-postman",
+    "title": "[英] Every invoice in Brazil's economy runs on SOAP 1.2. We mapped it all",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://poltora.dev/redis",
+    "title": "[英] Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://sunkcost.ai/",
+    "title": "[英] Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+    "title": "[英] Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841",
+    "title": "[英] The biggest dinosaurs couldn't sit on their eggs",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+    "title": "[英] 4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://explorator.dev/addiction/",
+    "title": "[英] I'm not addicted to the internet or my smartphone. I'm addicted to information",
+    "date": "2026-09-15"
+  },
+  {
     "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
     "title": "[英] Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
     "date": "2026-09-15"
@@ -27,51 +72,6 @@
   {
     "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
     "title": "[英] Charts built for Chat",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49704226",
-    "title": "[英] Tell HN: iOS 27 does not allow Apple Intelligence to be disabled",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://read.vantezzen.io/miniflags",
-    "title": "[英] Compressing a Flag to 11 Bits",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://pub.sakana.ai/pc-alm/",
-    "title": "[英] Backprop Alternative: Augmented Lagrangian Predictive Coding",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://www.effort.news/irregular",
-    "title": "[英] A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-    "title": "[英] Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-    "title": "[英] Optimizing a Spin-Lock",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://www.regulations.gov/document/USCIS-2026-0364-0001/comment",
-    "title": "[英] Proposed Rule: Eliminating the Discretionary 60-Day Grace Period",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/",
-    "title": "[英] A Beginning for Mathematics",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-    "title": "[英] GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
     "date": "2026-09-15"
   }
 ]
