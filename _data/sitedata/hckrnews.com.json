@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://google.github.io/xls/",
+    "title": "[英] XLS: Accelerated HW Synthesis",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+    "title": "[英] Why I'm still bearish on LLMs after Navier-Stokes",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://mnoukhov.github.io/posts/ngu/",
+    "title": "[英] Learning to solve hard problems in RL for LLMs by never giving up",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://github.com/pizza-bot-app/pizza-bot",
+    "title": "[英] Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
+    "title": "[英] Data races and the limits of ThreadSanitizer in C and Go",
+    "date": "2026-09-16"
+  },
+  {
     "link": "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html",
     "title": "[英] Iran war has cost on average $246M per day in its first five months",
     "date": "2026-09-16"
@@ -47,31 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=49717386",
     "title": "[英] undefined",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-    "title": "[英] Introducing System One Models and Jev",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://www.reddit.com/r/reinforcementlearning/comments/1wg1unx/google_copied_our_opensource_code_removed_our/",
-    "title": "[英] Google copied our open-source code, removed engineers' names without credit",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-    "title": "[英] Chopping up books when they're physically too big",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://publicdomainreview.org/collection/atlantic-city-sand-sculpture/",
-    "title": "[英] Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
-    "title": "[英] Hugging Face is billing OpenAI $100M for hacking it",
     "date": "2026-09-16"
   }
 ]
