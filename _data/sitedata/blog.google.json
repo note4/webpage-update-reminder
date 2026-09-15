@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/devices/pixel/september-2026-pixel-drop/",
+    "title": "[英] September Pixel Drop: New Pixel VIP updates, Pixel Watch features, and more",
+    "date": "2026-09-16 02:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/",
+    "title": "[英] Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+    "date": "2026-09-16 01:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "title": "[英] Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "date": "2026-09-16 01:00:00"
+  },
+  {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/ai-government-innovation-recipients/",
+    "title": "[英] 15 organizations transforming public service with AI",
+    "date": "2026-09-16 00:30:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "title": "[英] AI for Societal Impact",
+    "date": "2026-09-16 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "title": "[英] Building AI to accelerate science and improve lives",
+    "date": "2026-09-16 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "title": "[英] AI for everyone in every language",
+    "date": "2026-09-16 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/",
+    "title": "[英] Ask a Scientist: How can researchers use AI to spot a wildfire?",
+    "date": "2026-09-16 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/",
+    "title": "[英] We’re committing $10 million toward Nevada’s cleaner, more affordable energy future.",
+    "date": "2026-09-16 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/",
+    "title": "[英] Sharpen your study routine with new Gemini Notebook tools",
+    "date": "2026-09-16 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/",
+    "title": "[英] 4 ways to tackle household chores with Gemini",
+    "date": "2026-09-16 00:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
     "title": "[英] New insights from Google’s AI & Economy ATLAS",
     "date": "2026-09-15 21:00:00"
@@ -18,60 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/",
     "title": "[英] We’re exploring a potential data center in Lea County, New Mexico.",
     "date": "2026-09-14 22:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/",
-    "title": "[英] Three Google supported projects premiere during the 83rd Venice International Film Festival.",
-    "date": "2026-09-11 19:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/",
-    "title": "[英] Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
-    "date": "2026-09-11 02:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "title": "[英] 3 ways to prep for your next big race with Search",
-    "date": "2026-09-11 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-    "title": "[英] The Gemini app is now available for Windows",
-    "date": "2026-09-11 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/platforms/android/switch-password-managers/",
-    "title": "[英] Switching password managers is easy and safe on Android",
-    "date": "2026-09-11 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products/ads-commerce/data-strength-updates/",
-    "title": "[英] Drive profitable growth with new data and measurement tools",
-    "date": "2026-09-10 21:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/exploring-creative-intelligence-with-londons-southbank-centre/",
-    "title": "[英] Exploring Creative Intelligence with London’s Southbank Centre",
-    "date": "2026-09-10 19:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/",
-    "title": "[英] A new deep learning model maps global methane emissions from space.",
-    "date": "2026-09-10 02:15:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/",
-    "title": "[英] Tackle your to-do list with new features in our Google AI plans.",
-    "date": "2026-09-10 01:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-    "title": "[英] Recreating a 70-year love story frame by frame",
-    "date": "2026-09-10 00:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/",
-    "title": "[英] Google Accelerators have spent the last decade helping global startups succeed.",
-    "date": "2026-09-10 00:00:00"
   }
 ]
