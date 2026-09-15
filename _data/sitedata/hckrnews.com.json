@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "title": "[英] Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://britishslavetraders.org/",
+    "title": "[英] The Register of British Slave-Traders",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://www.thechemicalengineer.com/news/us-coal-biggest-contributor-by-far-to-rise-in-global-emissions/",
+    "title": "[英] US coal 'biggest contributor by far' to rise in global emissions",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://github.com/JamesRyanATX/fcbnerd",
+    "title": "[英] Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49705130",
+    "title": "[英] undefined",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+    "title": "[英] Charts built for Chat",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49704226",
+    "title": "[英] Tell HN: iOS 27 does not allow Apple Intelligence to be disabled",
+    "date": "2026-09-15"
+  },
+  {
+    "link": "https://read.vantezzen.io/miniflags",
+    "title": "[英] Compressing a Flag to 11 Bits",
+    "date": "2026-09-15"
+  },
+  {
     "link": "https://pub.sakana.ai/pc-alm/",
     "title": "[英] Backprop Alternative: Augmented Lagrangian Predictive Coding",
     "date": "2026-09-15"
@@ -32,46 +72,6 @@
   {
     "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
     "title": "[英] GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://github.com/PJHkorea/jax-softmax-bypass",
-    "title": "[英] Show HN: Bypassing Transformer Softmax via Static Contraction",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
-    "title": "[英] Oracle’s 6am layoff emails hit staff amid new wave of cuts",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://neomacs.org/",
-    "title": "[英] Neo Emacs – Emacs from the Future",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://pop.rdi.sh/dario-please/",
-    "title": "[英] Dario, Please",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://www.eff.org/deeplinks/2026/09/high-crime-lmao-how-cops-are-treating-mass-surveillance-joke",
-    "title": "[英] The High Crime of \"LMAO\": How Cops Are Treating Mass Surveillance as a Joke",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://aclanthology.org/2025.coling-main.468/",
-    "title": "[英] NüshuRescue: Reviving the Endangered Nüshu Language with AI",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://gosandeep.com/eagles-descent/",
-    "title": "[英] Show HN: Apollo Lunar Module landing simulation",
-    "date": "2026-09-15"
-  },
-  {
-    "link": "https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/",
-    "title": "[英] Iranian banks' SSL certificates are being revoked due to OFAC sanctions",
     "date": "2026-09-15"
   }
 ]
