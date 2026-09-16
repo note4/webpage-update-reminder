@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.science.org/doi/10.1126/sciadv.aea8318",
+    "title": "[英] Piezoelectric effect in polycrystalline diamond membranes",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://github.com/rapiddweller/datamimic",
+    "title": "[英] Datamimic – don't let your coding agent invent its own test world",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://yosefk.com/blog/doing-everyone-elses-job.html",
+    "title": "[英] Doing Everyone Else's Job",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://inflightsimulator.com",
+    "title": "[英] Show HN: I made a flight simulator, except you're just a passenger",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://originmap.sunnyguha.com/",
+    "title": "[英] An interactive world map of the stories cultures have told",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+    "title": "[英] Negativland, Culture Jamming, and the Art of Making Something New",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://security.apple.com/blog/apple-reference-image/",
+    "title": "[英] Apple Reference Image: A New Approach for Verified Photography",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+    "title": "[英] Stay discoverable in search while disallowing AI training",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://www.wsj.com/arts-culture/books/the-madmans-guide-to-stamp-collecting-review-sticking-to-what-they-know-e96da0e9?st=dT9wdV&reflink=desktopwebshare_permalink",
+    "title": "[英] The madman's guide to stamp collecting",
+    "date": "2026-09-16"
+  },
+  {
     "link": "https://gruhn.me/blog/2026-09-14/",
     "title": "[英] The Beauty of Roundabouts",
     "date": "2026-09-16"
@@ -27,51 +72,6 @@
   {
     "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
     "title": "[英] Why I'm still bearish on LLMs after Navier-Stokes",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://mnoukhov.github.io/posts/ngu/",
-    "title": "[英] Learning to solve hard problems in RL for LLMs by never giving up",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://github.com/pizza-bot-app/pizza-bot",
-    "title": "[英] Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
-    "title": "[英] Data races and the limits of ThreadSanitizer in C and Go",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html",
-    "title": "[英] Iran war has cost on average $246M per day in its first five months",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-    "title": "[英] German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-    "title": "[英] Vibe Coding is the new Internet Dating?",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-    "title": "[英] Jean-Pierre Serre is 100 years old today",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://zatona.dev/blog/the-two-mmlu-scores",
-    "title": "[英] The Two MMLU Scores: What a Benchmark Name Does Not Fix",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://runarcn.no/leaving-proton-mail/",
-    "title": "[英] Leaving Proton Mail",
     "date": "2026-09-16"
   }
 ]
