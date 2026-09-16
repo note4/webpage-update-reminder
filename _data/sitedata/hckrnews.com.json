@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-    "title": "[英] Small Programming Tricks",
+    "link": "https://rohanbansal.com/qorl",
+    "title": "[英] Training a 4B model to produce 81% faster query plans than Postgres",
     "date": "2026-09-17"
   },
   {
-    "link": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
-    "title": "[英] Can We Stop with the Uptime Percentages?",
+    "link": "https://arxiv.org/abs/2609.13009",
+    "title": "[英] How good are frontier models at physics?",
     "date": "2026-09-17"
   },
   {
-    "link": "https://agentlien.github.io/texture/",
-    "title": "[英] Anatomy of a Texture",
+    "link": "https://www.reuters.com/live/live-fed-rate-hike-expected-inflation-worries-push-up-bond-yields-2026-09-16/",
+    "title": "[英] Fed hikes rates as inflation worries push up bond yields",
     "date": "2026-09-17"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=49728159",
-    "title": "[英] Show HN: Give your AI agents access to WhatsApp",
+    "link": "https://sarah-robin.com/blog/debian-12-13",
+    "title": "[英] 145 Days of Uptime, 56 TiB of Traffic, One Debian Upgrade",
     "date": "2026-09-17"
   },
   {
-    "link": "https://ohhelloana.blog/tell-the-speakers/",
-    "title": "[英] Tell the speakers that you liked their talks",
+    "link": "https://arxiv.org/abs/2609.14845",
+    "title": "[英] Accurate Models of AMD Matrix Cores",
     "date": "2026-09-17"
   },
   {
-    "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
-    "title": "[英] Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+    "link": "https://github.com/itskie/friday",
+    "title": "[英] Show HN: Friday – Self-hosted persistent memory for AI coding agents (MCP)",
     "date": "2026-09-17"
   },
   {
-    "link": "https://asteriskmag.substack.com/p/we-already-know-what-a-world-without",
-    "title": "[英] We know what a world without work looks like",
+    "link": "https://chuckgreenman.com/2026/09/16/counting-at-github",
+    "title": "[英] GitHub is having trouble counting things",
     "date": "2026-09-17"
   },
   {
-    "link": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
-    "title": "[英] PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+    "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+    "title": "[英] Vectorized and performance-portable Quicksort",
     "date": "2026-09-17"
   },
   {
-    "link": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-    "title": "[英] A warning about 'model welfare'",
+    "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+    "title": "[英] Anecdotally, Programmers Dislike \"Reduce\"",
     "date": "2026-09-17"
   },
   {
-    "link": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-    "title": "[英] DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+    "link": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
+    "title": "[英] ER visits for gambling disorders doubled after expanded online gambling market",
     "date": "2026-09-17"
   },
   {
-    "link": "https://arxiv.org/abs/2609.14858",
-    "title": "[英] Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+    "link": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
+    "title": "[英] The Siberian Ice Maiden and the Scythian World",
     "date": "2026-09-17"
   },
   {
-    "link": "https://openai.com/index/reimagining-advertising-with-ai/",
-    "title": "[英] OpenAI expands ChatGPT ads with Sponsored Agents",
+    "link": "https://dayzlegame.com/blog/google-ads-normal-user-behavior/",
+    "title": "[英] I sent Google proof of a bot farm. They called it \"normal user behavior.\"",
     "date": "2026-09-17"
   },
   {
-    "link": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
-    "title": "[英] How Big Are Factorials?",
+    "link": "https://blog.simbastack.com/four-round-trips-six-months/",
+    "title": "[英] Prisma's pgbouncer=true on Supabase made every query 4 round-trips (postmortem)",
     "date": "2026-09-17"
   },
   {
-    "link": "https://stale.jock.pl/",
-    "title": "[英] Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+    "link": "https://institute.deepmind.com/",
+    "title": "[英] The DeepMind Institute",
     "date": "2026-09-17"
   },
   {
-    "link": "https://www.theatlantic.com/ideas/2026/09/trump-iran-superpower-decline/688639/",
-    "title": "[英] The American Age Is Over",
+    "link": "https://claude.com/blog/cowork-is-now-claude",
+    "title": "[英] Claude Cowork and chat are now one Claude",
     "date": "2026-09-17"
   }
 ]

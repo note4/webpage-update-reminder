@@ -5,6 +5,11 @@
     "date": "2026-09-17 00:00:00"
   },
   {
+    "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/",
+    "title": "[英] Rethink your strategy to drive sales this holiday season.",
+    "date": "2026-09-17 00:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/",
     "title": "[英] 5 things to know about teens' views on AI today",
     "date": "2026-09-16 23:00:00"
@@ -50,18 +55,8 @@
     "date": "2026-09-16 00:30:00"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-    "title": "[英] AI for everyone in every language",
-    "date": "2026-09-16 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/",
-    "title": "[英] 4 ways to tackle household chores with Gemini",
-    "date": "2026-09-16 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/",
-    "title": "[英] Ask a Scientist: How can researchers use AI to spot a wildfire?",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "title": "[英] AI for Societal Impact",
     "date": "2026-09-16 00:00:00"
   },
   {
@@ -70,8 +65,13 @@
     "date": "2026-09-16 00:00:00"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "title": "[英] AI for Societal Impact",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/",
+    "title": "[英] 4 ways to tackle household chores with Gemini",
+    "date": "2026-09-16 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "title": "[英] AI for everyone in every language",
     "date": "2026-09-16 00:00:00"
   }
 ]
