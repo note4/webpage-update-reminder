@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://gruhn.me/blog/2026-09-14/",
+    "title": "[英] The Beauty of Roundabouts",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+    "title": "[英] Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
+    "title": "[英] Sierra digital cameras on the Apple II",
+    "date": "2026-09-16"
+  },
+  {
+    "link": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+    "title": "[英] Saving Jet Fuel",
+    "date": "2026-09-16"
+  },
+  {
     "link": "https://google.github.io/xls/",
     "title": "[英] XLS: Accelerated HW Synthesis",
     "date": "2026-09-16"
@@ -52,26 +72,6 @@
   {
     "link": "https://runarcn.no/leaving-proton-mail/",
     "title": "[英] Leaving Proton Mail",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://codyho.dev/blog/gpu-driver/",
-    "title": "[英] Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://www.depletion.org",
-    "title": "[英] How much oil-market buffer is left?",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://github.com/GraafHenk/numberwang",
-    "title": "[英] WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-    "date": "2026-09-16"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49717386",
-    "title": "[英] undefined",
     "date": "2026-09-16"
   }
 ]
