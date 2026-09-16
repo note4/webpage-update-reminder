@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://rohanbansal.com/qorl",
-    "title": "[英] Training a 4B model to produce 81% faster query plans than Postgres",
+    "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "title": "[英] Nvidia announces native GPU programming in Rust",
     "date": "2026-09-17"
   },
   {
-    "link": "https://arxiv.org/abs/2609.13009",
-    "title": "[英] How good are frontier models at physics?",
+    "link": "https://www.autism.org.uk/blog/autism-is-genetic-%E2%80%93-and-why-this-information-matters-now",
+    "title": "[英] Autism is genetic – and why this information matters now",
     "date": "2026-09-17"
   },
   {
-    "link": "https://www.reuters.com/live/live-fed-rate-hike-expected-inflation-worries-push-up-bond-yields-2026-09-16/",
-    "title": "[英] Fed hikes rates as inflation worries push up bond yields",
+    "link": "https://attalambda.com",
+    "title": "[英] Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
     "date": "2026-09-17"
   },
   {
-    "link": "https://sarah-robin.com/blog/debian-12-13",
-    "title": "[英] 145 Days of Uptime, 56 TiB of Traffic, One Debian Upgrade",
+    "link": "https://arxiv.org/abs/2609.16338",
+    "title": "[英] Breaking the 1.58-bit Barrier for Ternary LLMs",
     "date": "2026-09-17"
   },
   {
-    "link": "https://arxiv.org/abs/2609.14845",
-    "title": "[英] Accurate Models of AMD Matrix Cores",
+    "link": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
+    "title": "[英] Japan's book scene is moving from bookstores to libraries",
     "date": "2026-09-17"
   },
   {
-    "link": "https://github.com/itskie/friday",
-    "title": "[英] Show HN: Friday – Self-hosted persistent memory for AI coding agents (MCP)",
+    "link": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+    "title": "[英] AWS says it can't restore some data from mideast facilities struck by Iran",
     "date": "2026-09-17"
   },
   {
-    "link": "https://chuckgreenman.com/2026/09/16/counting-at-github",
-    "title": "[英] GitHub is having trouble counting things",
+    "link": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+    "title": "[英] Performance Improvements in .NET 11",
     "date": "2026-09-17"
   },
   {
-    "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
-    "title": "[英] Vectorized and performance-portable Quicksort",
+    "link": "https://arxiv.org/abs/2609.15063",
+    "title": "[英] Randomized query complexity can beat certificate complexity",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://seasonmap.app",
+    "title": "[英] Show HN: SeasonMap – when to travel where? visualized with climate data",
     "date": "2026-09-17"
   },
   {
     "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-    "title": "[英] Anecdotally, Programmers Dislike \"Reduce\"",
+    "title": "[英] Anecdotally, programmers dislike \"reduce\"",
     "date": "2026-09-17"
   },
   {
-    "link": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
-    "title": "[英] ER visits for gambling disorders doubled after expanded online gambling market",
+    "link": "https://github.com/vinnylarouge/jevlike",
+    "title": "[英] Reverse-engineered Jev-like model",
     "date": "2026-09-17"
   },
   {
-    "link": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
-    "title": "[英] The Siberian Ice Maiden and the Scythian World",
+    "link": "https://restarted.io/",
+    "title": "[英] Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
     "date": "2026-09-17"
   },
   {
-    "link": "https://dayzlegame.com/blog/google-ads-normal-user-behavior/",
-    "title": "[英] I sent Google proof of a bot farm. They called it \"normal user behavior.\"",
+    "link": "https://clickhouse.com/blog/introducing-walshadow",
+    "title": "[英] WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
     "date": "2026-09-17"
   },
   {
-    "link": "https://blog.simbastack.com/four-round-trips-six-months/",
-    "title": "[英] Prisma's pgbouncer=true on Supabase made every query 4 round-trips (postmortem)",
+    "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+    "title": "[英] macOS 27 Golden Gate – Review",
     "date": "2026-09-17"
   },
   {
-    "link": "https://institute.deepmind.com/",
-    "title": "[英] The DeepMind Institute",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://claude.com/blog/cowork-is-now-claude",
-    "title": "[英] Claude Cowork and chat are now one Claude",
+    "link": "https://www.linum.ai/field-notes/jit-ddt",
+    "title": "[英] Training Text-to-Image Models 3.6× Faster",
     "date": "2026-09-17"
   }
 ]
