@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+    "title": "[英] Making global data easier to explore",
+    "date": "2026-09-18 04:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
     "title": "[英] The new CC, an AI agent built for families",
     "date": "2026-09-18 02:15:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/ai-government-innovation-recipients/",
     "title": "[英] 15 organizations transforming public service with AI",
     "date": "2026-09-16 00:30:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "title": "[英] AI for Societal Impact",
-    "date": "2026-09-16 00:00:00"
   }
 ]
