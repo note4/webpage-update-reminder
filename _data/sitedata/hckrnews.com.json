@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://harnesstax.github.io/",
+    "title": "[英] HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://www.historytoday.com/archive/great-debates/william-bucklands-theology-geology",
+    "title": "[英] William Buckland's Theology of Geology",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://suganthan.com/blog/x402-pay-per-crawl/",
+    "title": "[英] My website charged AI agents a penny per page. I watched Claude pay it",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://www.truegrittexturesupply.com/blogs/news/destroy-after-reading",
+    "title": "[英] Destroy After Reading: photocopiers,cheap paper and DIY gave metal it's look",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+    "title": "[英] Australia says it could follow Canada in forging deeper ties with EU",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://openspec.dev/",
+    "title": "[英] OpenSpec – A lightweight and configurable AI spec framework",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://oldmanrahul.com/2026/09/14/hush/",
+    "title": "[英] I replaced my brown-noise browser tab with a menu bar app",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
+    "title": "[英] Why Does the Universe Expand?",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "title": "[英] Backups Aren't Simple",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+    "title": "[英] The engineering behind the US Strategic Petroleum Reserve",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://commoncrawl.org/blog/getting-started-with-common-crawl-data-on-hugging-face",
+    "title": "[英] Common Crawl Data Stored on a Hugging Face Bucket",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+    "title": "[英] Flock cameras are riddled with security vulnerabilities and hardcoded creds",
+    "date": "2026-09-17"
+  },
+  {
     "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
     "title": "[英] Nvidia announces native GPU programming in Rust",
     "date": "2026-09-17"
@@ -12,66 +72,6 @@
   {
     "link": "https://attalambda.com",
     "title": "[英] Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.16338",
-    "title": "[英] Breaking the 1.58-bit Barrier for Ternary LLMs",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
-    "title": "[英] Japan's book scene is moving from bookstores to libraries",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-    "title": "[英] AWS says it can't restore some data from mideast facilities struck by Iran",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-    "title": "[英] Performance Improvements in .NET 11",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.15063",
-    "title": "[英] Randomized query complexity can beat certificate complexity",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://seasonmap.app",
-    "title": "[英] Show HN: SeasonMap – when to travel where? visualized with climate data",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-    "title": "[英] Anecdotally, programmers dislike \"reduce\"",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://github.com/vinnylarouge/jevlike",
-    "title": "[英] Reverse-engineered Jev-like model",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://restarted.io/",
-    "title": "[英] Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://clickhouse.com/blog/introducing-walshadow",
-    "title": "[英] WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-    "title": "[英] macOS 27 Golden Gate – Review",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://www.linum.ai/field-notes/jit-ddt",
-    "title": "[英] Training Text-to-Image Models 3.6× Faster",
     "date": "2026-09-17"
   }
 ]
