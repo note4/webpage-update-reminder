@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/",
+    "title": "[英] Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
+    "title": "[英] More than 100k people in Japan are now aged 100 or older",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+    "title": "[英] Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "title": "[英] How to Write with an LLM",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://snapdrop.me",
+    "title": "[英] Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+    "title": "[英] How Uber Protects Against Retry Storms",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+    "title": "[英] Sex, AI, and the Apocalypse",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://flet.dev/",
+    "title": "[英] Flet 1.0 – Build cross-platform apps in Python",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://henriquenunez.eu/posts/you_did_it_again_ms/",
+    "title": "[英] I hate you Microsoft",
+    "date": "2026-09-18"
+  },
+  {
     "link": "https://graphs.grevian.org/graph/6322783643500544",
     "title": "[英] GraphViz Pocket Reference – Make a Graph",
     "date": "2026-09-18"
@@ -21,57 +66,12 @@
   },
   {
     "link": "https://bend-lang.com/",
-    "title": "[英] Bend",
+    "title": "[英] Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
     "date": "2026-09-18"
   },
   {
     "link": "https://openai.com/index/astra-for-law/",
     "title": "[英] Astra for Law",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-    "title": "[英] Everybody's Lost Their Minds",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://wisprflow.ai/canto",
-    "title": "[英] Canto: A speech model built for the real world",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
-    "title": "[英] How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://nohello.net/en/",
-    "title": "[英] Don't Just Say Hello",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://jiahao116.github.io/Articles/",
-    "title": "[英] André Weil and the Hodge Conjecture",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://www.stlpr.org/news-briefs/2026-09-16/flock-cameras-guardrails-missouri-kehoe",
-    "title": "[英] Missouri governor orders guardrails on Flock cameras and ALPRs",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Wax_motor",
-    "title": "[英] Wax motor",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://blog.melashri.net/micro/public-job-referral/",
-    "title": "[英] Don't Make Job Referrals Public",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
-    "title": "[英] TSMC revealing details about next gen A14 node",
     "date": "2026-09-18"
   }
 ]
