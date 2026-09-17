@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://openai.com/index/model-misalignment-reporting-framework/",
+    "title": "[英] OpenAI Model Misalignment Report",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "title": "[英] GLM Built Its Own Inference Infrastructure",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://hpc.guix.info/blog/2022/05/back-to-the-future-modules-for-guix-packages/",
+    "title": "[英] Back to the future: modules for Guix packages (2022)",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+    "title": "[英] I didn't sign the Fields medallists' letter",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+    "title": "[英] AI Safety Is Mostly a Sex Cult",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+    "title": "[英] Lucasart's Afterlife",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+    "title": "[英] One Year of Sponsored Servo Development",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
+    "title": "[英] The Relation Between Mathematics and Physics by Paul Dirac",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
+    "title": "[英] US interest rates raised for first time in three years",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://jakeasmith.com/blog/http-build-url/",
+    "title": "[英] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://github.com/cloudflare/security-audit-skill",
+    "title": "[英] Cloudflare/Security-Audit-Skill",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://github.com/browser-use/jev-ultrafast",
+    "title": "[英] Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+    "date": "2026-09-17"
+  },
+  {
+    "link": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
+    "title": "[英] Comparison of Malloc() Algorithms",
+    "date": "2026-09-17"
+  },
+  {
     "link": "https://medium.com/freedomofthought/the-presidents-power-to-pardon-friends-and-allies-must-end-b9574f9eedfb",
     "title": "[英] The President's Power to Pardon Friends and Allies Must End",
     "date": "2026-09-17"
@@ -7,71 +72,6 @@
   {
     "link": "https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/",
     "title": "[英] The Painful Truth: The RAM Crisis Is Only Just the Beginning",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://asciicity.live/",
-    "title": "[英] ASCII City",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://ryan.science/blog/keys-not-included",
-    "title": "[英] Keys Not Included: recovering the signing keys for US driver's license barcodes",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
-    "title": "[英] A 32-year-old bug walks into a Telnet server",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://www.vanityfair.com/news/2008/05/monsanto200805",
-    "title": "[英] Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/c60m3k28j81mo",
-    "title": "[英] Part-human part-mouse brain developed in science breakthrough",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://www.pangram.com",
-    "title": "[英] Pangram – AI detector for text and images",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-    "title": "[英] DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://www.danvk.org/2026/09/10/mapsnap.html",
-    "title": "[英] Mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://nypost.com/2026/09/14/business/big-short-trader-michael-burry-slams-openai-anthropic-for-self-serving-calls-to-slow-ai/",
-    "title": "[英] Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-    "title": "[英] The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
-    "title": "[英] Developing provably correct Rust code with Verus",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
-    "title": "[英] OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
-    "date": "2026-09-17"
-  },
-  {
-    "link": "https://harnesstax.github.io/",
-    "title": "[英] HarnessTax: How Much Does the Harness Matter for Coding Agents?",
     "date": "2026-09-17"
   }
 ]

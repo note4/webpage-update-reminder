@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/",
+    "title": "[英] Helping bring the world’s first large-scale, near-zero emissions steel plant online",
+    "date": "2026-09-17 15:00:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/",
     "title": "[英] 3 new ways we're improving Search profiles for publishers",
     "date": "2026-09-17 00:00:00"
@@ -55,23 +60,18 @@
     "date": "2026-09-16 00:30:00"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "title": "[英] AI for Societal Impact",
-    "date": "2026-09-16 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-    "title": "[英] Building AI to accelerate science and improve lives",
-    "date": "2026-09-16 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/",
-    "title": "[英] 4 ways to tackle household chores with Gemini",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/",
+    "title": "[英] We’re committing $10 million toward Nevada’s cleaner, more affordable energy future.",
     "date": "2026-09-16 00:00:00"
   },
   {
     "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
     "title": "[英] AI for everyone in every language",
+    "date": "2026-09-16 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/",
+    "title": "[英] Ask a Scientist: How can researchers use AI to spot a wildfire?",
     "date": "2026-09-16 00:00:00"
   }
 ]
