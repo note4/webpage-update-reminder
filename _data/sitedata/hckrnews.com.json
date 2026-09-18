@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://github.com/aardappel/goose/tree/master",
-    "title": "[英] Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
+    "link": "https://sam.dev/blog/gearhash-on-arm64",
+    "title": "[英] Speeding up gearhash on ARM64",
     "date": "2026-09-18"
   },
   {
-    "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-    "title": "[英] Alibaba releases Qwen 3.8 Omni Flash",
+    "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+    "title": "[英] Jemalloc 5.4.0",
     "date": "2026-09-18"
   },
   {
-    "link": "https://www.air.security/blog-posts/plugin4shell",
-    "title": "[英] Plugin4Shell – Zero Click RCE Vulnerability found in top four coding agents",
+    "link": "https://fex-emu.com/Scourge-of-emulation/",
+    "title": "[英] The scourge of x86 emulation",
     "date": "2026-09-18"
   },
   {
-    "link": "https://www.ax-check.com/",
-    "title": "[英] Show HN: Ax-check.com – Can agents use your product?",
+    "link": "https://www.khipufieldguide.com/",
+    "title": "[英] Khipu (Quipu) Field Guide",
     "date": "2026-09-18"
   },
   {
-    "link": "https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/",
-    "title": "[英] Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime",
+    "link": "https://waymo.com/waymo-in-singapore/",
+    "title": "[英] Waymo in Singapore",
     "date": "2026-09-18"
   },
   {
-    "link": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
-    "title": "[英] More than 100k people in Japan are now aged 100 or older",
+    "link": "https://linguisticdiscovery.com/posts/pre-greek/",
+    "title": "[英] Pre-Greek: The lost language hidden within Ancient Greek",
     "date": "2026-09-18"
   },
   {
-    "link": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
-    "title": "[英] Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+    "link": "https://github.com/zqiren/Orbital",
+    "title": "[英] The open source version of Claude Project that gives you the context ownershp",
     "date": "2026-09-18"
   },
   {
-    "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-    "title": "[英] How to Write with an LLM",
+    "link": "https://byteshape.com/blogs/Qwen3.8-27B/",
+    "title": "[英] Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
     "date": "2026-09-18"
   },
   {
-    "link": "https://snapdrop.me",
-    "title": "[英] Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+    "link": "https://minimalcompany.com/",
+    "title": "[英] Minimal Phone 2",
     "date": "2026-09-18"
   },
   {
-    "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
-    "title": "[英] How Uber Protects Against Retry Storms",
+    "link": "https://devin.ai/blog/introducing-code-scans",
+    "title": "[英] Code Scans",
     "date": "2026-09-18"
   },
   {
-    "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-    "title": "[英] Sex, AI, and the Apocalypse",
+    "link": "https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/",
+    "title": "[英] Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
     "date": "2026-09-18"
   },
   {
-    "link": "https://flet.dev/",
-    "title": "[英] Flet 1.0 – Build cross-platform apps in Python",
+    "link": "https://www.hacktron.ai/blog/hacking-openai",
+    "title": "[英] Hacking OpenAI",
     "date": "2026-09-18"
   },
   {
-    "link": "https://henriquenunez.eu/posts/you_did_it_again_ms/",
-    "title": "[英] I hate you Microsoft",
+    "link": "https://askamonk.online",
+    "title": "[英] Ask A Monk – A digital wilderness for thoughts with no immediate answer",
     "date": "2026-09-18"
   },
   {
-    "link": "https://graphs.grevian.org/graph/6322783643500544",
-    "title": "[英] GraphViz Pocket Reference – Make a Graph",
+    "link": "https://ishadeed.com/article/aligning-list-icons/",
+    "title": "[英] Better Icon and Label Alignment",
     "date": "2026-09-18"
   },
   {
-    "link": "https://dfarq.homeip.net/computer-reset-dallas/",
-    "title": "[英] Computer Reset, Dallas",
+    "link": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+    "title": "[英] Telstra outage: The night a network decided the year was 2006",
     "date": "2026-09-18"
   }
 ]
