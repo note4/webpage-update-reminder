@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+    "title": "[英] C++26: Trivial infinite loops are no longer undefined behaviour",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/",
+    "title": "[英] Rabbit Hole: Minimum L-seams",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+    "title": "[英] I Vibed a Proof of Conway's Conjecture",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion",
+    "title": "[英] Second Circuit Allows Government to Search Electronic Devices at the Border",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
+    "title": "[英] NATS publishes preliminary report on technical incident of 8 September",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c6x2zgv9rr4ro",
+    "title": "[英] New wild cat species discovered – with only one known living member",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+    "title": "[英] AI chatbots becoming experts at changing people's minds. What's their secret?",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://www.jstor.org/stable/24704177",
+    "title": "[英] If materialism is true, the United States is probably conscious",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://arxiv.org/abs/2609.20804",
+    "title": "[英] An Empirical Study of Harness Design for Coding Agents",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://gods.art/articles/equation_shadows",
+    "title": "[英] The Shadows Lurking in the Equations – Underwater Islands",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
+    "title": "[英] I don't like passkeys",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+    "title": "[英] Bend 2 and the Vibe-Coding Trap",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+    "title": "[英] Cekura (YC F24) Is Hiring",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
+    "title": "[英] Subnormal floating-point numbers are expensive on Intel processors",
+    "date": "2026-09-18"
+  },
+  {
     "link": "https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c",
     "title": "[英] Google illegally retains customer data,and I am taking legal action against them",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-    "title": "[英] ZCode, the GLM coding agent, silently uploads your Git history",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-    "title": "[英] Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://publicdomainreview.org/collection/dr-julius-neubronner-s-miniature-pigeon-camera/",
-    "title": "[英] Dr Julius Neubronner's Miniature Pigeon Camera",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://openjev.com/",
-    "title": "[英] OpenJev",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "title": "[英] Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://zed.dev/blog/delta-public-beta",
-    "title": "[英] Replacing Pull Requests with Delta",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
-    "title": "[英] When the fractional part of a float fixes your shader",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://sam.dev/blog/gearhash-on-arm64",
-    "title": "[英] Speeding up gearhash on ARM64",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-    "title": "[英] Jemalloc 5.4.0",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://fex-emu.com/Scourge-of-emulation/",
-    "title": "[英] The scourge of x86 emulation",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://www.khipufieldguide.com/",
-    "title": "[英] Khipu (Quipu) Field Guide",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://waymo.com/waymo-in-singapore/",
-    "title": "[英] Waymo in Singapore",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://linguisticdiscovery.com/posts/pre-greek/",
-    "title": "[英] Pre-Greek: The lost language hidden within Ancient Greek",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://github.com/zqiren/Orbital",
-    "title": "[英] The open source version of Claude Project that gives you the context ownershp",
     "date": "2026-09-18"
   }
 ]
