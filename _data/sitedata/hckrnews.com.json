@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
+    "title": "[英] US troop deaths during Iran war exceed Pentagon count by at least four",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://go.dev/blog/size-specialized-allocations",
+    "title": "[英] Size-Specialized Memory Allocation",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://sf.gazetteer.co/y-combinators-pac-is-throwing-money-at-a-bunch-of-republicans-across-the-country",
+    "title": "[英] Y Combinator's PAC is throwing money at Republicans across the country",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cmn0jke547r5o",
+    "title": "[英] War may be coming. Are we psychologically ready?",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+    "title": "[英] Cyclomatic Complexity in C#",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://code.claude.com/docs/en/changelog",
+    "title": "[英] Claude Code now reads AGENTS.md if there is no Claude.md",
+    "date": "2026-09-19"
+  },
+  {
     "link": "https://blog.herlein.com/post/build-another-engineer/",
     "title": "[英] Senior Engineers Are the Next DRAM Shortage",
     "date": "2026-09-19"
@@ -11,7 +41,7 @@
   },
   {
     "link": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
-    "title": "[英] \"From Geometry to Algebra and Back Again: 4000 Years of Papers\" (2023) [video]",
+    "title": "[英] From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
     "date": "2026-09-19"
   },
   {
@@ -21,12 +51,12 @@
   },
   {
     "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-    "title": "[英] Apple releases iPhone Duo simulator and Xcode 27.1 beta",
+    "title": "[英] Xcode 27.1 Beta Release Notes",
     "date": "2026-09-19"
   },
   {
     "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-    "title": "[英] Saving another 100TB of RAM with math (and Rust)",
+    "title": "[英] Saving another 100TB of RAM",
     "date": "2026-09-19"
   },
   {
@@ -36,42 +66,12 @@
   },
   {
     "link": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-    "title": "[英] Our brain evolved from two primitive nervous systems that merged: Study",
+    "title": "[英] Two parallel neural ectoderm progenitors contribute to the developing brain",
     "date": "2026-09-19"
   },
   {
     "link": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
     "title": "[英] The first new cat species discovered in 100 years",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-    "title": "[英] Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://arxiv.org/abs/2510.03215",
-    "title": "[英] Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-    "title": "[英] Inside ZCode: Silently uploading your Git history to the cloud",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
-    "title": "[英] How SpaceX streamlined the Raptor engine",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.02852",
-    "title": "[英] The Implications of Linguistic Illegibility for LLM Security",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49757973",
-    "title": "[英] undefined",
     "date": "2026-09-19"
   }
 ]
