@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://github.com/aardappel/goose/tree/master",
+    "title": "[英] Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+    "title": "[英] Alibaba releases Qwen 3.8 Omni Flash",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://www.air.security/blog-posts/plugin4shell",
+    "title": "[英] Plugin4Shell – Zero Click RCE Vulnerability found in top four coding agents",
+    "date": "2026-09-18"
+  },
+  {
+    "link": "https://www.ax-check.com/",
+    "title": "[英] Show HN: Ax-check.com – Can agents use your product?",
+    "date": "2026-09-18"
+  },
+  {
     "link": "https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/",
     "title": "[英] Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime",
     "date": "2026-09-18"
@@ -52,26 +72,6 @@
   {
     "link": "https://dfarq.homeip.net/computer-reset-dallas/",
     "title": "[英] Computer Reset, Dallas",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://liamnugent.me/posts/what-you-dont-build/",
-    "title": "[英] The most important product decision is what you don't build",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://prismml.com/news/bonsai-2-27b",
-    "title": "[英] Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://bend-lang.com/",
-    "title": "[英] Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-    "date": "2026-09-18"
-  },
-  {
-    "link": "https://openai.com/index/astra-for-law/",
-    "title": "[英] Astra for Law",
     "date": "2026-09-18"
   }
 ]
