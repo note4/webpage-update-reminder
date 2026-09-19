@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+    "title": "[英] \"The Secret Life of Circuits\" is here",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://browser.geekbench.com/v7/cpu/389219",
+    "title": "[英] Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://github.com/alegrey91/vex8s",
+    "title": "[英] Suppress vulnerabilities applying Kubernetes context to scans",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with/",
+    "title": "[英] The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49764057",
+    "title": "[英] How come AI-related posts get so many points on HN?",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://publicdomainreview.org/essay/veroneses-dogs",
+    "title": "[英] Veronese's Dogs",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+    "title": "[英] Google's Gemini AI hacked three companies in security test",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://artificialanalysis.ai/models/step-5",
+    "title": "[英] Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49763874",
+    "title": "[英] undefined",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+    "title": "[英] GPT-6 Astra Solves a WWI German Radio Cipher",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+    "title": "[英] If math is more than proof, we need to better celebrate the rest of it",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+    "title": "[英] Ctenophores: Wonders of Biology",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+    "title": "[英] Human brain is two separate organs, Stanford Medicine-led research finds",
+    "date": "2026-09-19"
+  },
+  {
     "link": "https://www.tigrisdata.com/blog/objgit-packfiles/",
     "title": "[英] You can run Git on object storage if you re-make packfiles",
     "date": "2026-09-19"
@@ -7,71 +72,6 @@
   {
     "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
     "title": "[英] NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://github.com/jasonepage/Seal",
-    "title": "[英] Show HN: Seal – Letters and passwords that open for your family after you die",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.20779",
-    "title": "[英] Harm Laundering in GPT Models: Gender Discrimination Transformed Rather Than",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://onionfutures.com/",
-    "title": "[英] San Francisco Onion Futures Company",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
-    "title": "[英] Flock Offers Employees Buyouts as Customers Flee",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://github.com/awlevin/typesafe-computer-use",
-    "title": "[英] Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://go.dev/blog/goroutine-leak-profiles",
-    "title": "[英] Goroutine Leak Profiles",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://sdcc.sourceforge.net/",
-    "title": "[英] SDCC – Small Device C Compiler",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://3quarksdaily.com/3quarksdaily/2026/09/the-contract-on-america.html",
-    "title": "[英] The Contract on America",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
-    "title": "[英] Gemini hacked three companies in first known breakout by Google's AI",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://jepedersen.dk/blog/202505_research/",
-    "title": "[英] Science Is Open Software",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-    "title": "[英] Why building a Rust LSP is hard",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://www.lispbm.com/",
-    "title": "[英] LispBM is a concurrent Lisp for microcontrollers with message passing",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://liveworld.info/",
-    "title": "[英] Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
     "date": "2026-09-19"
   }
 ]
