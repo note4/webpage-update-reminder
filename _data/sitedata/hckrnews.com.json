@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://column.com/card-issuing/",
+    "title": "[英] Column built an issuer processor from scratch",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://simonklee.dk/farnese-letter",
+    "title": "[英] The Farnese letter",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49761106",
+    "title": "[英] undefined",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://spectrum.ieee.org/llms-for-chip-design",
+    "title": "[英] How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "date": "2026-09-19"
+  },
+  {
     "link": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
     "title": "[英] US troop deaths during Iran war exceed Pentagon count by at least four",
     "date": "2026-09-19"
@@ -52,26 +72,6 @@
   {
     "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
     "title": "[英] Xcode 27.1 Beta Release Notes",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-    "title": "[英] Saving another 100TB of RAM",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://antfly.io/research/antfly-zig",
-    "title": "[英] A search-and-inference database from scratch in pure Zig",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-    "title": "[英] Two parallel neural ectoderm progenitors contribute to the developing brain",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-    "title": "[英] The first new cat species discovered in 100 years",
     "date": "2026-09-19"
   }
 ]
