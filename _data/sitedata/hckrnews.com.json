@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://github.com/trycua/cua",
+    "title": "[英] Show HN: CUA-S1 – A System One Model for Computer Use",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+    "title": "[英] Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
+    "title": "[英] Suzanne Ciani's Buchla Cookbook",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://vrash.substack.com/p/the-people-who-know-the-most-often",
+    "title": "[英] People who know the most often sound the least certain",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/",
+    "title": "[英] Adventures in Microcontroller Circuit Debugging",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+    "title": "[英] Almost Never Use AI to Write Anything Substantive",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://supabase.link/orioledbjob",
+    "title": "[英] Supabase (YC S20) Is Hiring for OrioleDB",
+    "date": "2026-09-20"
+  },
+  {
     "link": "https://keith.is/post/leaving-digitalocean/",
     "title": "[英] Leaving DigitalOcean, one site at a time",
     "date": "2026-09-20"
@@ -37,41 +72,6 @@
   {
     "link": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
     "title": "[英] Asking Authors About Their Own Papers",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://github.com/mindbox77/zxdesk",
-    "title": "[英] A graphical desktop for the ZX Spectrum",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://planetscale.com/blog/introducing-tin",
-    "title": "[英] Tin: full-text search for Postgres",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-    "title": "[英] What Zig felt like, coming from Rust",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-    "title": "[英] Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://reproof.app/blog/lotus-notes-history",
-    "title": "[英] Ray Ozzie and the Optimism of Being Early",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://github.com/Tackx/c8-ass",
-    "title": "[英] Show HN: I wrote a custom assembler for CHIP-8 in C++",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://laya.convaiinnovations.com/",
-    "title": "[英] Laya the open source version of Jev",
     "date": "2026-09-20"
   }
 ]
