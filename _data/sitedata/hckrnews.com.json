@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.avabear.xyz/p/notes-on-the-brothers-karamazov",
+    "title": "[英] Notes on the Brothers Karamazov",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
+    "title": "[英] You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+    "title": "[英] How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "http://www.maydaymystery.org/mayday/",
+    "title": "[英] Mayday Mysteries",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+    "title": "[英] English: A vs. An",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://arxiv.org/abs/2603.23696",
+    "title": "[英] Compiler-style optimization for drawing via Skia",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://www.praveentechworld.com/research/degoogle-telemetry-2026",
+    "title": "[英] I captured 72 hours of idle Android packets behind pfSense",
+    "date": "2026-09-20"
+  },
+  {
     "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
     "title": "[英] Microsoft director: AI scraping 'the largest theft of labor in human history'",
     "date": "2026-09-20"
@@ -37,41 +72,6 @@
   {
     "link": "https://ufoseries.com/",
     "title": "[英] UFO Series Home Page: \"UFO\" TV Series from 1970",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://github.com/trycua/cua",
-    "title": "[英] Show HN: CUA-S1 – A System One Model for Computer Use",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-    "title": "[英] Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
-    "title": "[英] Suzanne Ciani's Buchla Cookbook",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://vrash.substack.com/p/the-people-who-know-the-most-often",
-    "title": "[英] People who know the most often sound the least certain",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/",
-    "title": "[英] Adventures in Microcontroller Circuit Debugging",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-    "title": "[英] I think you should almost never use AI to write",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://supabase.link/orioledbjob",
-    "title": "[英] Supabase (YC S20) Is Hiring for OrioleDB",
     "date": "2026-09-20"
   }
 ]
