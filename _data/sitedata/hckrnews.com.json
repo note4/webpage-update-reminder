@@ -1,7 +1,42 @@
 [
   {
+    "link": "https://github.com/Tackx/c8-ass",
+    "title": "[英] Show HN: I wrote a custom assembler for CHIP-8 in C++",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://laya.convaiinnovations.com/",
+    "title": "[英] Laya the open source version of Jev",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters",
+    "title": "[英] From Stonemasons to Carpenters",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://fuck-off.ai",
+    "title": "[英] Dear Customer, Fuck You",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Roman_timekeeping",
+    "title": "[英] Roman Timekeeping",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
+    "title": "[英] Communication by means of modulated Johnson noise",
+    "date": "2026-09-19"
+  },
+  {
+    "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "title": "[英] AI-generated posters don’t have to be horrible",
+    "date": "2026-09-19"
+  },
+  {
     "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-    "title": "[英] \"The Secret Life of Circuits\" is here",
+    "title": "[英] “The Secret Life of Circuits” is here",
     "date": "2026-09-19"
   },
   {
@@ -35,43 +70,8 @@
     "date": "2026-09-19"
   },
   {
-    "link": "https://artificialanalysis.ai/models/step-5",
-    "title": "[英] Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
-    "date": "2026-09-19"
-  },
-  {
     "link": "https://news.ycombinator.com/item?id=49763874",
     "title": "[英] undefined",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-    "title": "[英] GPT-6 Astra Solves a WWI German Radio Cipher",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-    "title": "[英] If math is more than proof, we need to better celebrate the rest of it",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
-    "title": "[英] Ctenophores: Wonders of Biology",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-    "title": "[英] Human brain is two separate organs, Stanford Medicine-led research finds",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://www.tigrisdata.com/blog/objgit-packfiles/",
-    "title": "[英] You can run Git on object storage if you re-make packfiles",
-    "date": "2026-09-19"
-  },
-  {
-    "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-    "title": "[英] NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
     "date": "2026-09-19"
   }
 ]
