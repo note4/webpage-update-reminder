@@ -1,12 +1,32 @@
 [
   {
+    "link": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
+    "title": "[英] Not all AI workers think the tech could kill everyone",
+    "date": "2026-09-21"
+  },
+  {
+    "link": "https://github.com/BytedTsinghua-SIA/DAPO",
+    "title": "[英] DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+    "date": "2026-09-21"
+  },
+  {
+    "link": "https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/",
+    "title": "[英] The LLMs Yearn for the Spines",
+    "date": "2026-09-21"
+  },
+  {
+    "link": "https://amigaux.org/",
+    "title": "[英] Amiga Unix, Again",
+    "date": "2026-09-21"
+  },
+  {
     "link": "https://nullprogram.com/blog/2026/09/20/",
     "title": "[英] What's been going on in w64devkit the past year",
     "date": "2026-09-21"
   },
   {
     "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-    "title": "[英] What Happened to the Snowden Archive",
+    "title": "[英] What happened to the Snowden archive",
     "date": "2026-09-21"
   },
   {
@@ -46,32 +66,12 @@
   },
   {
     "link": "https://datagubbe.se/crt/",
-    "title": "[英] The Effect of CRTs on Pixel Art",
+    "title": "[英] The Effect of CRTs on Pixel Art (2024)",
     "date": "2026-09-21"
   },
   {
     "link": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
     "title": "[英] OpenAI's Sam Altman to Brief UN Security Council Next Week",
-    "date": "2026-09-21"
-  },
-  {
-    "link": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
-    "title": "[英] Frontier Labs Are Selling Garbage to Fools in Washington",
-    "date": "2026-09-21"
-  },
-  {
-    "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-    "title": "[英] Why MCP Was Always a Bad Idea",
-    "date": "2026-09-21"
-  },
-  {
-    "link": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
-    "title": "[英] The Hierarchy of Money",
-    "date": "2026-09-21"
-  },
-  {
-    "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
-    "title": "[英] Software Sandboxing: The Basics (2025)",
     "date": "2026-09-21"
   }
 ]
