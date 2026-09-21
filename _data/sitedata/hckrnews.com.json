@@ -1,5 +1,45 @@
 [
   {
+    "link": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+    "title": "[英] Grim Fandango Puzzle Document (1996) [pdf]",
+    "date": "2026-09-21"
+  },
+  {
+    "link": "https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/",
+    "title": "[英] Far-left party wins Berlin election, pledging to nationalise housing",
+    "date": "2026-09-21"
+  },
+  {
+    "link": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
+    "title": "[英] Winning the Visa Lottery",
+    "date": "2026-09-21"
+  },
+  {
+    "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+    "title": "[英] AI chatbots give wrong answers to financial queries 'most of the time'",
+    "date": "2026-09-21"
+  },
+  {
+    "link": "https://paramrathour.github.io/blog/coding-theory/",
+    "title": "[英] Coding Theory: A Playful Introduction",
+    "date": "2026-09-21"
+  },
+  {
+    "link": "https://outdata.net/blog/260803",
+    "title": "[英] Deterministic Core, Non-Deterministic Shell",
+    "date": "2026-09-21"
+  },
+  {
+    "link": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+    "title": "[英] Can I Let My AI Agent Run on Shabbat?",
+    "date": "2026-09-21"
+  },
+  {
+    "link": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+    "title": "[英] Why back propagation goes backward",
+    "date": "2026-09-21"
+  },
+  {
     "link": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
     "title": "[英] Not all AI workers think the tech could kill everyone",
     "date": "2026-09-21"
@@ -31,47 +71,7 @@
   },
   {
     "link": "https://agentexecutor.io",
-    "title": "[英] Google's Open Agentic Orchestrator",
-    "date": "2026-09-21"
-  },
-  {
-    "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-    "title": "[英] Bill to Ban Private Equity from Owning Medical Practices",
-    "date": "2026-09-21"
-  },
-  {
-    "link": "https://tinybrains.dev",
-    "title": "[英] Show HN: A competition for small neural networks that play strategy games",
-    "date": "2026-09-21"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cx2z7ejn891o",
-    "title": "[英] Nipple tattooist 'frustrated' by online censorship",
-    "date": "2026-09-21"
-  },
-  {
-    "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
-    "title": "[英] Ogre Battle 64 Recompiled Project at 99.05%",
-    "date": "2026-09-21"
-  },
-  {
-    "link": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
-    "title": "[英] I stopped drinking the AI Kool-Aid",
-    "date": "2026-09-21"
-  },
-  {
-    "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-    "title": "[英] Nobody pays for FOSS, we can force them to",
-    "date": "2026-09-21"
-  },
-  {
-    "link": "https://datagubbe.se/crt/",
-    "title": "[英] The Effect of CRTs on Pixel Art (2024)",
-    "date": "2026-09-21"
-  },
-  {
-    "link": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
-    "title": "[英] OpenAI's Sam Altman to Brief UN Security Council Next Week",
+    "title": "[英] AX – Google’s Open Agentic Orchestrator",
     "date": "2026-09-21"
   }
 ]
