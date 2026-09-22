@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://thecodinggopher.substack.com/p/epoll-and-kqueue-how-operating-systems",
+    "title": "[英] Epoll and Kqueue: How Operating Systems Learned to Wait Efficiently",
+    "date": "2026-09-22"
+  },
+  {
+    "link": "https://hunterworks.software/teardowns/rust-in-windows-11",
+    "title": "[英] Where Rust actually is in Windows 11",
+    "date": "2026-09-22"
+  },
+  {
+    "link": "https://gwern.net/blog/2022/pdf-forgery",
+    "title": "[英] PDF Forgeries Are Surprisingly Rare (2022)",
+    "date": "2026-09-22"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/smart-ring-maker-oura-backers-seek-2-2-billion-in-us-ipo",
+    "title": "[英] Smart Ring Maker Oura, Backers Seek $2.2B in US IPO",
+    "date": "2026-09-22"
+  },
+  {
+    "link": "https://www.copper-robotics.com/whats-new/copper-12-live-telemetry-and-replayable-logs-over-a-lossy-one-way-connection-with-twinning",
+    "title": "[英] Copper-Rs: Live Telemetry Deterministic Twins for Robots",
+    "date": "2026-09-22"
+  },
+  {
+    "link": "https://trumanworld.live",
+    "title": "[英] Truman World",
+    "date": "2026-09-22"
+  },
+  {
+    "link": "https://www.polyhedra.net/en/",
+    "title": "[英] Paper Models of Polyhedra",
+    "date": "2026-09-22"
+  },
+  {
+    "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+    "title": "[英] Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+    "date": "2026-09-22"
+  },
+  {
+    "link": "https://wondermark.com/socrates-vs-writing/",
+    "title": "[英] Socrates vs. the Written Word (2011)",
+    "date": "2026-09-22"
+  },
+  {
+    "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+    "title": "[英] Claude Status – Elevated errors for multiple models",
+    "date": "2026-09-22"
+  },
+  {
+    "link": "https://wizardzines.com/comics/floating-point-alternatives/",
+    "title": "[英] More floating point alternatives",
+    "date": "2026-09-22"
+  },
+  {
+    "link": "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html",
+    "title": "[英] The agents, they just want to talk",
+    "date": "2026-09-22"
+  },
+  {
     "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
     "title": "[英] Looking forward to Git 2.56 – and 3.0",
     "date": "2026-09-22"
@@ -12,66 +72,6 @@
   {
     "link": "https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html",
     "title": "[英] There Are Over 1M NYC Street Signs. Here is How They Are Made.",
-    "date": "2026-09-22"
-  },
-  {
-    "link": "https://www.gdquest.com/library/first_shader_godot4_portal/",
-    "title": "[英] First Shader from Zero in Godot 4",
-    "date": "2026-09-22"
-  },
-  {
-    "link": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
-    "title": "[英] Do not fear AI. Fear AI companies",
-    "date": "2026-09-22"
-  },
-  {
-    "link": "https://brand.io/article/spymarks/",
-    "title": "[英] Spymarks, Not Watermarks",
-    "date": "2026-09-22"
-  },
-  {
-    "link": "https://www.newyorker.com/magazine/2026/09/21/the-incredible-journey-of-a-migratory-shorebird",
-    "title": "[英] The Journey of a Migratory Shorebird",
-    "date": "2026-09-22"
-  },
-  {
-    "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-    "title": "[英] I don't want to read what you didn't write",
-    "date": "2026-09-22"
-  },
-  {
-    "link": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
-    "title": "[英] Data Protection Commission fines Google €403M over processing of location data",
-    "date": "2026-09-22"
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-026-02981-9",
-    "title": "[英] 'Epigenetic' editing banishes hepatitis B virus",
-    "date": "2026-09-22"
-  },
-  {
-    "link": "https://www.personalimportation.org/advocacy",
-    "title": "[英] Suspension of the de minimis administrative exemption for imports $800 or less",
-    "date": "2026-09-22"
-  },
-  {
-    "link": "https://www.nongnu.org/txr/",
-    "title": "[英] TXR: An Original, New Programming Language for Convenient Data Munging",
-    "date": "2026-09-22"
-  },
-  {
-    "link": "https://gabrieloc.com/2026/09/15/perspective.html",
-    "title": "[英] Divide by depth for instant 3D",
-    "date": "2026-09-22"
-  },
-  {
-    "link": "https://www.kadoa.com/food-prices",
-    "title": "[英] Show HN: A website that tracks US food prices every day",
-    "date": "2026-09-22"
-  },
-  {
-    "link": "https://mimo.xiaomi.com/mimo-v2-6",
-    "title": "[英] Xiaomi MiMo v2.6",
     "date": "2026-09-22"
   }
 ]
