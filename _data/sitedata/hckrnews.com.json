@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://512pixels.net/2026/09/apple-dimensional-drawings/",
+    "title": "[英] Apple's Dimensional Drawings",
+    "date": "2026-09-23"
+  },
+  {
+    "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "title": "[英] The current balance of power in open models",
+    "date": "2026-09-23"
+  },
+  {
+    "link": "https://github.com/xCuri0/ReBarUEFI",
+    "title": "[英] ReBarUEFI: Resizable BAR for almost any UEFI system",
+    "date": "2026-09-23"
+  },
+  {
+    "link": "https://www.assbench.com/",
+    "title": "[英] LLM Ass Bench",
+    "date": "2026-09-23"
+  },
+  {
+    "link": "https://blog.djnavarro.net/posts/2026-09-20_the-trouble-with-ntile/",
+    "title": "[英] The trouble with 'ntile()'",
+    "date": "2026-09-23"
+  },
+  {
     "link": "https://foxscript.org/",
     "title": "[英] Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
     "date": "2026-09-23"
@@ -20,13 +45,13 @@
     "date": "2026-09-23"
   },
   {
-    "link": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
-    "title": "[英] Did OpenAI solve the wrong Navier-Stokes problem?",
+    "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
+    "title": "[英] The JavaScript Midlife Crisis",
     "date": "2026-09-23"
   },
   {
-    "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
-    "title": "[英] The JavaScript Midlife Crisis",
+    "link": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+    "title": "[英] Did OpenAI solve the wrong Navier-Stokes problem?",
     "date": "2026-09-23"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
     "title": "[英] People hooked on vapes try a new way to quit: cigarettes",
-    "date": "2026-09-23"
-  },
-  {
-    "link": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
-    "title": "[英] An update on how we confirm your age group on Discord",
-    "date": "2026-09-23"
-  },
-  {
-    "link": "https://electrek.co/2026/09/18/its-finally-here-porsche-puts-wireless-ev-charging-into-production-video/",
-    "title": "[英] Porsche puts wireless EV charging into production",
-    "date": "2026-09-23"
-  },
-  {
-    "link": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-    "title": "[英] How did AMD Ryzen get 50% faster in two years?",
-    "date": "2026-09-23"
-  },
-  {
-    "link": "https://github.com/geastack/examples",
-    "title": "[英] Native apps written in TypeScript and CSS",
-    "date": "2026-09-23"
-  },
-  {
-    "link": "https://www.vals.ai/blogs/faster-shortest-path-algorithm",
-    "title": "[英] A Faster Shortest Path Algorithm",
     "date": "2026-09-23"
   }
 ]
