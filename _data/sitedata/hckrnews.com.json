@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+    "title": "[英] Grammarly will send unhinged messages to all your users if you try to cancel",
+    "date": "2026-09-23"
+  },
+  {
+    "link": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+    "title": "[英] No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+    "date": "2026-09-23"
+  },
+  {
+    "link": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+    "title": "[英] Data-only attacks are easier than you think (2024)",
+    "date": "2026-09-23"
+  },
+  {
+    "link": "https://waymo.com/blog/2026/09/transit-rewards/",
+    "title": "[英] Transit rewards (Waymo pays you to take the train)",
+    "date": "2026-09-23"
+  },
+  {
+    "link": "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
+    "title": "[英] Delta: Highly available, strongly consistent storage using chain replication (2022)",
+    "date": "2026-09-23"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+    "title": "[英] US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+    "date": "2026-09-23"
+  },
+  {
+    "link": "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
+    "title": "[英] The softness of metal",
+    "date": "2026-09-23"
+  },
+  {
     "link": "https://augusto.at/augustosfaces/",
     "title": "[英] Augustofaces: Pareidolia Fine Art",
     "date": "2026-09-23"
@@ -37,41 +72,6 @@
   {
     "link": "https://blog.djnavarro.net/posts/2026-09-20_the-trouble-with-ntile/",
     "title": "[英] The trouble with 'ntile()'",
-    "date": "2026-09-23"
-  },
-  {
-    "link": "https://foxscript.org/",
-    "title": "[英] Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-    "date": "2026-09-23"
-  },
-  {
-    "link": "https://no-sloptober.com/",
-    "title": "[英] No Sloptober",
-    "date": "2026-09-23"
-  },
-  {
-    "link": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
-    "title": "[英] The UV index is not the warm sensation of sunlight on bare skin",
-    "date": "2026-09-23"
-  },
-  {
-    "link": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-    "title": "[英] What California is learning from solar panels built over irrigation canals",
-    "date": "2026-09-23"
-  },
-  {
-    "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
-    "title": "[英] The JavaScript Midlife Crisis",
-    "date": "2026-09-23"
-  },
-  {
-    "link": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
-    "title": "[英] Did OpenAI solve the wrong Navier-Stokes problem?",
-    "date": "2026-09-23"
-  },
-  {
-    "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-    "title": "[英] 'We hacked the FBI:' Hackers say they have data on all FBI employees",
     "date": "2026-09-23"
   }
 ]
