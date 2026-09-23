@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://github.com/0xAX/BootLife",
+    "title": "[英] Show HN: Conway's Game of Life in boot sector",
+    "date": "2026-09-24"
+  },
+  {
+    "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+    "title": "[英] How we made claude.ai 3x faster in two weeks",
+    "date": "2026-09-24"
+  },
+  {
+    "link": "https://normanponte.io/19df691f",
+    "title": "[英] Cloud Agents Are Inevitable AI Prisons",
+    "date": "2026-09-24"
+  },
+  {
+    "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "title": "[英] Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "date": "2026-09-24"
+  },
+  {
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+    "title": "[英] A brief history of Windows scroll bar shortcuts",
+    "date": "2026-09-24"
+  },
+  {
+    "link": "https://www.ft.com/content/9cc479a6-8206-4af3-a6e5-77176b8d43c4",
+    "title": "[英] What to do when your Waymo holds up a Secret Service motorcade",
+    "date": "2026-09-24"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
+    "title": "[英] UK military jamming other nations' satellites to defend itself, BBC told",
+    "date": "2026-09-24"
+  },
+  {
+    "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+    "title": "[英] Italian parliament votes for return to nuclear energy",
+    "date": "2026-09-24"
+  },
+  {
+    "link": "https://blog.master.dev/what-to-know-in-javascript-2026-edition/",
+    "title": "[英] What to Know About JavaScript in 2026",
+    "date": "2026-09-24"
+  },
+  {
     "link": "https://unlisted.careers/ghost-jobs/report/2026-09",
     "title": "[英] 28% of job postings on company career sites have been open over 90 days",
     "date": "2026-09-24"
@@ -11,7 +56,7 @@
   },
   {
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-    "title": "[英] Gemini 3.8 text-to-speech says hello",
+    "title": "[英] Gemini 3.8 text-to-speech",
     "date": "2026-09-24"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
     "title": "[英] Radicle: Disclosure of Vulnerability in the Network Protocol",
-    "date": "2026-09-24"
-  },
-  {
-    "link": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
-    "title": "[英] Seattle City Council votes to ban surveillance pricing in sale of groceries",
-    "date": "2026-09-24"
-  },
-  {
-    "link": "https://www.alexmolas.com/2026/09/23/jev-cant-be-calibrated.html",
-    "title": "[英] Jev Can't Be Calibrated",
-    "date": "2026-09-24"
-  },
-  {
-    "link": "https://drivingbench.com/",
-    "title": "[英] GPT-6 Astra has gained the ability to drive a car",
-    "date": "2026-09-24"
-  },
-  {
-    "link": "https://drewdevault.com/blog/Why-is-HN-like-that/",
-    "title": "[英] Why is Hacker News like that?",
-    "date": "2026-09-24"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cmlyq09jp49eo",
-    "title": "[英] Community condemn Bedminster AI mural as 'insult' to artists",
-    "date": "2026-09-24"
-  },
-  {
-    "link": "https://pointinthecloud.com/2026-04-11-211700.html",
-    "title": "[英] Fixing the Portobello Police Station Clock",
-    "date": "2026-09-24"
-  },
-  {
-    "link": "https://strandsagents.com/blog/introducing-strands-harness/",
-    "title": "[英] Strands Harness",
-    "date": "2026-09-24"
-  },
-  {
-    "link": "https://github.com/pkimpel/retro-1620",
-    "title": "[英] Web-based IBM 1620 emulator and IPL-V from 1963",
-    "date": "2026-09-24"
-  },
-  {
-    "link": "https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920",
-    "title": "[英] Montreal adopts bylaw banning insults against police, municipal employees",
     "date": "2026-09-24"
   }
 ]
