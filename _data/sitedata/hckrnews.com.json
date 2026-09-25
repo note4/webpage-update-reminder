@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+    "title": "[英] Writing Parquet files using Haskell",
+    "date": "2026-09-25"
+  },
+  {
+    "link": "https://status.gitlab.com/",
+    "title": "[英] GitLab Outage",
+    "date": "2026-09-25"
+  },
+  {
+    "link": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
+    "title": "[英] Back and shoulder surgery is often worse than useless",
+    "date": "2026-09-25"
+  },
+  {
     "link": "https://www.critic.run/",
     "title": "[英] Show HN: Critic – Review code with the agent that wrote it",
     "date": "2026-09-25"
@@ -57,21 +72,6 @@
   {
     "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
     "title": "[英] Sourcehut account takeover via build logs (XSS in ansi2html)",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-    "title": "[英] Using LLMs to trace alchemical knowledge and decode 17th century letters",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://robrace.dev/blog/programming-tutorials-are-dead/",
-    "title": "[英] Programming Tutorials Are Dead",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://radix-os.com",
-    "title": "[英] Show HN: Radix – Visual UI for agentic programming",
     "date": "2026-09-25"
   }
 ]
