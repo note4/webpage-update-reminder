@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.inkandswitch.com/",
+    "title": "[英] Ink and Switch Interactive Homepage",
+    "date": "2026-09-25"
+  },
+  {
+    "link": "https://passo.uno/tech-needs-humanists-more-than-ever/",
+    "title": "[英] Tech Needs Humanists More",
+    "date": "2026-09-25"
+  },
+  {
+    "link": "https://www.echohive.ai/experiments/dinosaurs",
+    "title": "[英] Show HN: The last day of the dinosaurs, as an interactive painting",
+    "date": "2026-09-25"
+  },
+  {
+    "link": "https://openai.com/index/special-projects/",
+    "title": "[英] Special Projects (2016)",
+    "date": "2026-09-25"
+  },
+  {
+    "link": "https://www.dawo.community/en/",
+    "title": "[英] Dutch governments builds alternative for Microsoft based on NixOS",
+    "date": "2026-09-25"
+  },
+  {
+    "link": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+    "title": "[英] Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+    "date": "2026-09-25"
+  },
+  {
+    "link": "https://jardo.dev/what-about-rails",
+    "title": "[英] What About Rails?",
+    "date": "2026-09-25"
+  },
+  {
+    "link": "https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/",
+    "title": "[英] The Efficiency-Throughput Gap with GitHub Copilot",
+    "date": "2026-09-25"
+  },
+  {
+    "link": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+    "title": "[英] CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+    "date": "2026-09-25"
+  },
+  {
+    "link": "https://github.com/egma-ai/jev-code-reviewer",
+    "title": "[英] Jev Based Code Review",
+    "date": "2026-09-25"
+  },
+  {
+    "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+    "title": "[英] Goodbye Google",
+    "date": "2026-09-25"
+  },
+  {
     "link": "https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
     "title": "[英] Jev and System One Models: Calibration Beats Accuracy",
     "date": "2026-09-25"
@@ -17,61 +72,6 @@
   {
     "link": "https://status.gitlab.com/",
     "title": "[英] GitLab Outage",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
-    "title": "[英] Back and shoulder surgery is often worse than useless",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://www.critic.run/",
-    "title": "[英] Show HN: Critic – Review code with the agent that wrote it",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken",
-    "title": "[英] International observers to investigate Swedish election fraud",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://koi.rest",
-    "title": "[英] Show HN: Koi.rest – watch some fish and regain your balance",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-    "title": "[英] California is chasing wealth that has feet",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://rackcrunch.com/security-headers-2026",
-    "title": "[英] Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit",
-    "title": "[英] Vibe Coding Production Kit – a production workflow for AI coding agents",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
-    "title": "[英] The Board Game of the Alpha Nerds (2014)",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://2dwillneverdie.com/",
-    "title": "[英] 2DWillNeverDie",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49836342",
-    "title": "[英] undefined",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://launchvideo.io",
-    "title": "[英] Opus 5.5 is good at explainer videos",
     "date": "2026-09-25"
   }
 ]
