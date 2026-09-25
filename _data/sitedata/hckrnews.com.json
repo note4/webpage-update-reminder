@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
+    "title": "[英] Jev and System One Models: Calibration Beats Accuracy",
+    "date": "2026-09-25"
+  },
+  {
+    "link": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
+    "title": "[英] The Bayeux Tapestry: Woven by the Victors",
+    "date": "2026-09-25"
+  },
+  {
     "link": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
     "title": "[英] Writing Parquet files using Haskell",
     "date": "2026-09-25"
@@ -55,23 +65,13 @@
     "date": "2026-09-25"
   },
   {
-    "link": "https://www.nydailynews.com/2026/09/23/mamdani-is-the-most-popular-elected-official-in-nyc-poll/",
-    "title": "[英] Mamdani is the most popular elected official in NYC: poll",
+    "link": "https://news.ycombinator.com/item?id=49836342",
+    "title": "[英] undefined",
     "date": "2026-09-25"
   },
   {
     "link": "https://launchvideo.io",
     "title": "[英] Opus 5.5 is good at explainer videos",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/",
-    "title": "[英] August 27 TCRF DDoS Attack Postmortem",
-    "date": "2026-09-25"
-  },
-  {
-    "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-    "title": "[英] Sourcehut account takeover via build logs (XSS in ansi2html)",
     "date": "2026-09-25"
   }
 ]
