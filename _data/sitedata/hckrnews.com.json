@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+    "title": "[英] How to keep enjoying programming in a world of LLMs",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://floci.io",
+    "title": "[英] Floci: Locally emulating any cloud service",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://tuckerosman.com/projects/16gb-ipod-nano",
+    "title": "[英] 16GB iPod Nano 3G Upgrade",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/",
+    "title": "[英] CAPTCHAs don't prove you're human – they prove you're American",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://safenotsafe.dev/",
+    "title": "[英] Is your Postgres migration safe or not safe?",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://amutable.com/blog/tine-build-system",
+    "title": "[英] From Thin Air to Bootable Images: The Tine Build System",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+    "title": "[英] Alberta's image as world's only rat-free region shattered by discovery of rat",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
+    "title": "[英] Scientists build most accurate atomic clock",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://computer.rip/2026-09-20-denver-baggage.html",
+    "title": "[英] A new world airport and its baggage",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+    "title": "[英] Can AI Shopping Agents Be Trusted?",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://www.homelabfest.org",
+    "title": "[英] HomelabFest will be in St. Louis in September 2027",
+    "date": "2026-09-26"
+  },
+  {
     "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
     "title": "[英] How I changed teaching after AI managed to do all my homework assignments",
     "date": "2026-09-26"
@@ -17,61 +72,6 @@
   {
     "link": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
     "title": "[英] A single function Jev-like wrapper for LLMs, including vision models",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
-    "title": "[英] The Murky History of Soviet-Born Tetris",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://www.educationprogress.org/p/the-failed-hostage-theory-of-nikole",
-    "title": "[英] The Failed \"Hostage Theory\" of Nikole Hannah-Jones",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-    "title": "[英] We're gonna need a lot more mathematicians",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://tracydurnell.com/2026/09/16/two-and-a-half-years-without-a-gallbladder/",
-    "title": "[英] Two and a half years without a gallbladder",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
-    "title": "[英] Postgres SELECT DISTINCT Does Not Scale",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://robertsdotpm.github.io/_static/tiddlyinstall.html",
-    "title": "[英] TiddlyInstall: A universal, reusable, install system",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-    "title": "[英] Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-    "title": "[英] One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://adekau.github.io/posts/2020/llamas.html",
-    "title": "[英] Fourier Analysis: Drawing Llamas with Circles",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
-    "title": "[英] Lab on a Contact Lens Can Measure Stress Through Serotonin",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://www.gptbeyond.com/try?home=1",
-    "title": "[英] Show HN: Ekselio – Loveable for finance workflows (local first)",
     "date": "2026-09-26"
   }
 ]
