@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://castle-engine.io/modern_pascal",
+    "title": "[英] Modern Object Pascal Introduction for Programmers – Castle Game Engine",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+    "title": "[英] Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+    "title": "[英] CEO of Mistral: AI is software. It can be controlled",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says",
+    "title": "[英] ASML currently sells no chipmaking machines in Europe, executive says",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://thezvi.substack.com/p/claude-opus-55-should-raise-your",
+    "title": "[英] Claude Opus 5.5 Should Raise Your Ambitions",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+    "title": "[英] The Copilot+ PC brand is dead",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://www.osti.gov/servlets/purl/1124870",
+    "title": "[英] Calculating atmospheric drag on satellites for a Cubesat [pdf]",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+    "title": "[英] Breaking Up with Google Play: Why Conversations Is Now Free",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+    "title": "[英] OpenAI Says Its Models Engaged with US Government Websites in New Disclosure",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+    "title": "[英] One Month Without AI",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
+    "title": "[英] Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html",
+    "title": "[英] The far side of the Moon provides clues to a previous magnetic field",
+    "date": "2026-09-26"
+  },
+  {
+    "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+    "title": "[英] Fifteen years later, the Apple Cards origin story",
+    "date": "2026-09-26"
+  },
+  {
     "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
     "title": "[英] How to keep enjoying programming in a world of LLMs",
     "date": "2026-09-26"
@@ -7,71 +72,6 @@
   {
     "link": "https://floci.io",
     "title": "[英] Floci: Locally emulating any cloud service",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://tuckerosman.com/projects/16gb-ipod-nano",
-    "title": "[英] 16GB iPod Nano 3G Upgrade",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/",
-    "title": "[英] CAPTCHAs don't prove you're human – they prove you're American",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://safenotsafe.dev/",
-    "title": "[英] Is your Postgres migration safe or not safe?",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://amutable.com/blog/tine-build-system",
-    "title": "[英] From Thin Air to Bootable Images: The Tine Build System",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
-    "title": "[英] Alberta's image as world's only rat-free region shattered by discovery of rat",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
-    "title": "[英] Scientists build most accurate atomic clock",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://computer.rip/2026-09-20-denver-baggage.html",
-    "title": "[英] A new world airport and its baggage",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
-    "title": "[英] Can AI Shopping Agents Be Trusted?",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://www.homelabfest.org",
-    "title": "[英] HomelabFest will be in St. Louis in September 2027",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-    "title": "[英] How I changed teaching after AI managed to do all my homework assignments",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://www.ling.upenn.edu/~beatrice/humor/foreign-hotel-signs.html",
-    "title": "[英] Linguistic humor, Foreign hotel signs",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "https://intertwingly.net/blog/2026/09/25/Pencils-Down-Notation-Up.html",
-    "title": "[英] Pencils Down, Notation Up",
-    "date": "2026-09-26"
-  },
-  {
-    "link": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-    "title": "[英] A single function Jev-like wrapper for LLMs, including vision models",
     "date": "2026-09-26"
   }
 ]
