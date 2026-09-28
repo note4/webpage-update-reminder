@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://zachholman.com/posts/you-should-have-an-llc",
+    "title": "[英] Have an LLC",
+    "date": "2026-09-28"
+  },
+  {
+    "link": "https://www.tabletmag.com/sections/arts-letters/articles/coltranes-shadow-tiberi-tapes",
+    "title": "[英] Coltrane's Shadow",
+    "date": "2026-09-28"
+  },
+  {
+    "link": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/",
+    "title": "[英] Hitachi to double US production of small and medium-sized power transformers",
+    "date": "2026-09-28"
+  },
+  {
+    "link": "https://chillphysicsenjoyer.substack.com/p/a-new-experiment-meta-strategy",
+    "title": "[英] A New Experiment Meta-Strategy",
+    "date": "2026-09-28"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49871747",
+    "title": "[英] undefined",
+    "date": "2026-09-28"
+  },
+  {
+    "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+    "title": "[英] Self-Hosting on the Dark Web",
+    "date": "2026-09-28"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs",
+    "title": "[英] EV Sales Are Booming in Europe with Gasoline at $10 a Gallon",
+    "date": "2026-09-28"
+  },
+  {
+    "link": "https://notoriousbfg.com/recent-woodworking-projects/",
+    "title": "[英] My Recent Woodworking Projects",
+    "date": "2026-09-28"
+  },
+  {
+    "link": "https://code.garage44.eu/jeroen/cartopolis",
+    "title": "[英] Show HN: Cartopolis, interactive globe-sized 3D world",
+    "date": "2026-09-28"
+  },
+  {
+    "link": "https://btrblocks.com/blog/s3_is_the_future_and_the_past/",
+    "title": "[英] S3 Is the Future, S3 Is the Past",
+    "date": "2026-09-28"
+  },
+  {
     "link": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
     "title": "[英] There is more to code review than (automatable) detection",
     "date": "2026-09-28"
@@ -22,56 +72,6 @@
   {
     "link": "https://globalnews.ca/news/12073854/quebec-election-u-s-interference/",
     "title": "[英] Allegations of US interference in Quebec election",
-    "date": "2026-09-28"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Standard_diving_dress",
-    "title": "[英] Wiki Deep dive into Standard diving dress",
-    "date": "2026-09-28"
-  },
-  {
-    "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-    "title": "[英] Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
-    "date": "2026-09-28"
-  },
-  {
-    "link": "https://github.com/deepfates/imp",
-    "title": "[英] Imp is a full port of DSPy to the BEAM",
-    "date": "2026-09-28"
-  },
-  {
-    "link": "https://dspy.ai/current/",
-    "title": "[英] DSPy – Program, don't prompt, your LLMs",
-    "date": "2026-09-28"
-  },
-  {
-    "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-    "title": "[英] The state of SIMD in Rust in 2026",
-    "date": "2026-09-28"
-  },
-  {
-    "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-    "title": "[英] The state of SIMD in Rust in 2026",
-    "date": "2026-09-28"
-  },
-  {
-    "link": "https://icm.museum/blog/?p=207",
-    "title": "[英] KICKI: a DECsystem1060",
-    "date": "2026-09-28"
-  },
-  {
-    "link": "https://loficities.com/",
-    "title": "[英] Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-    "date": "2026-09-28"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=e1Xn3030IvM",
-    "title": "[英] Oral history of John Chowning, inventor of FM synthesis [video]",
-    "date": "2026-09-28"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49869360",
-    "title": "[英] undefined",
     "date": "2026-09-28"
   }
 ]
