@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/09/29/ai-recall-bottleneck-think-longer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Google 研究：AI 有幻覺是因為「想不起來」！增加規模無助提取問題，靠思考才能找回答案",
+    "date": "2026-09-29 10:00:06"
+  },
+  {
+    "link": "https://techorange.com/2026/09/29/token-as-a-service/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "每發出一次提示詞都是一次採購決策，企業需要 Token-as-a-Service 新框架",
+    "date": "2026-09-29 10:00:03"
+  },
+  {
     "link": "https://techorange.com/2026/09/29/hpe-pqc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "PQC 遷移動輒 2 至 4 年、近半企業卻還沒動！HPE 台灣暨香港董事長談量子安全",
     "date": "2026-09-29 06:00:00"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/09/23/jev-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Jev 為何爆紅？AI Agent 正重新分配「誰來做決策」",
     "date": "2026-09-23 18:33:17"
-  },
-  {
-    "link": "https://techorange.com/2026/09/23/anthropic-google-yahoo-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【劉永信專欄】Anthropic 會是下一個 Google，還是下一個 Yahoo？",
-    "date": "2026-09-23 16:53:58"
-  },
-  {
-    "link": "https://techorange.com/2026/09/23/talosintelligclosed-quorum-inside-autonomous-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "當惡意軟體學會開會決策：Cisco 釋出 CAIRN 追蹤框架，揭 AI 自動化攻擊新威脅",
-    "date": "2026-09-23 16:45:31"
   }
 ]
