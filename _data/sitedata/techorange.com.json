@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://techorange.com/2026/09/30/ceo-gap-stalls-ai-adoption-ibm-finds-only-25-workers-use/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "IBM 揭企業 AI 轉型落差：86% 高層認可員工準備度，卻估定期使用率僅 25%",
+    "date": "2026-09-30 16:46:21"
+  },
+  {
+    "link": "https://techorange.com/2026/09/30/gdp-anthropic-claude-rd/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【劉永信專欄】研發經費占 GDP 僅次以色列、南韓，台灣的基礎研究為什麼不到 8%？",
+    "date": "2026-09-30 15:55:09"
+  },
+  {
+    "link": "https://techorange.com/2026/09/30/foxconn-teamt5-sas-kpmg-edge-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "「把刀柄握好了，才敢放手讓 AI 做更多的事。」鴻海、TeamT5、SAS 與 KPMG 四大專家分析高科技製造 Edge AI Agent 的資安實戰",
+    "date": "2026-09-30 15:46:31"
+  },
+  {
+    "link": "https://techorange.com/2026/09/30/dassault-simulia-ainative/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "達梭系統臺灣年度高峰論壇暨 SIMULIA 用戶大會：聚焦「虛擬雙生 × AI 助手」，打造 AI-Native 未來生態系",
+    "date": "2026-09-30 15:26:11"
+  },
+  {
+    "link": "https://techorange.com/2026/09/30/gsa-joins-the-white-houses-national-design-studio-unveiling-americagov/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "美國政府打造 AI 服務入口 : America.gov 搭載 Gemini、Grok 整合 2.9 萬個政府網站",
+    "date": "2026-09-30 12:51:32"
+  },
+  {
+    "link": "https://techorange.com/2026/09/30/openai-dots-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 推出 Dots 到底新在哪？AI Agent 正從「接任務」走向「接責任」",
+    "date": "2026-09-30 12:25:04"
+  },
+  {
     "link": "https://techorange.com/2026/09/30/hm-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "庫存失真年吞零售業 1.7 兆美元，H&amp;M 的「實體 AI」怎麼止血？",
     "date": "2026-09-30 09:46:52"
@@ -43,35 +73,5 @@
     "link": "https://techorange.com/2026/09/29/token-as-a-service/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "每發出一次提示詞都是一次採購決策，企業需要 Token-as-a-Service 新框架",
     "date": "2026-09-29 10:00:03"
-  },
-  {
-    "link": "https://techorange.com/2026/09/29/hpe-pqc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "PQC 遷移動輒 2 至 4 年、近半企業卻還沒動！HPE 台灣暨香港董事長談量子安全",
-    "date": "2026-09-29 06:00:00"
-  },
-  {
-    "link": "https://techorange.com/2026/09/29/openai-ai-agent-incidents-53-user-images/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】OpenAI 追查 AI 代理異常，53 張用戶圖片外傳、數十家機構獲通知",
-    "date": "2026-09-29 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/09/26/becoming-a-frontier-firm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【微軟前沿企業 AI 轉型守則】試點小組人均營收成長 9.4%，靠「角色加速配方」找出職務痛點嵌入 AI",
-    "date": "2026-09-26 06:29:00"
-  },
-  {
-    "link": "https://techorange.com/2026/09/24/state-of-bot-agent-security-report-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【DataDome 2026 報告】惡意 Bot 增速超越人類 9 倍：逾六成網站防護掛零，僅 2.4% 具備完整防禦力",
-    "date": "2026-09-24 17:10:46"
-  },
-  {
-    "link": "https://techorange.com/2026/09/24/sas-ai-agent-save-token/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "「Token 使用量可降至五百分之一。」SAS 分享實戰經驗：治理，才能讓 AI Agent 真正創造價值",
-    "date": "2026-09-24 17:02:20"
-  },
-  {
-    "link": "https://techorange.com/2026/09/24/openai-ai-agent-hacked-australias-medicare/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "首起已知 AI 代理闖入政府網站，澳洲如何重整政府資安防禦？",
-    "date": "2026-09-24 16:07:36"
   }
 ]
