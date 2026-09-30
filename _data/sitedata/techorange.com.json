@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/09/30/openai-ai-self-replicating-prompt-injections/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 研究揭 AI Agent 新風險：惡意上下文可能從 Email 一路傳到工具操作",
+    "date": "2026-09-30 17:47:17"
+  },
+  {
     "link": "https://techorange.com/2026/09/30/ceo-gap-stalls-ai-adoption-ibm-finds-only-25-workers-use/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "IBM 揭企業 AI 轉型落差：86% 高層認可員工準備度，卻估定期使用率僅 25%",
     "date": "2026-09-30 16:46:21"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/09/29/ai-recall-bottleneck-think-longer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Google 研究：AI 有幻覺是因為「想不起來」！增加規模無助提取問題，靠思考才能找回答案",
     "date": "2026-09-29 10:00:06"
-  },
-  {
-    "link": "https://techorange.com/2026/09/29/token-as-a-service/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "每發出一次提示詞都是一次採購決策，企業需要 Token-as-a-Service 新框架",
-    "date": "2026-09-29 10:00:03"
   }
 ]
