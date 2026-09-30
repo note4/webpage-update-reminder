@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://github.com/mogrinz/AMT630A",
-    "title": "[英] Reverse-engineering a $35 backup camera display (AMT630A)",
+    "link": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+    "title": "[英] Dear Software Makers",
     "date": "2026-10-01"
   },
   {
-    "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-    "title": "[英] The AI Race Just Got Awkward",
+    "link": "https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a-new-model",
+    "title": "[英] Carnegie Mellon University Announces Historic $3B Gift from Ken Griffin",
     "date": "2026-10-01"
   },
   {
-    "link": "https://spectrum.ieee.org/bloomberg-terminal",
-    "title": "[英] A Brief History of the Bloomberg Terminal",
+    "link": "https://america.gov/chat",
+    "title": "[英] America.gov goes crazy on \"play Minecraft\"",
     "date": "2026-10-01"
   },
   {
-    "link": "https://blog.murphytrueman.com/i-cant-tell-whos-teaching-who-anymore/",
-    "title": "[英] I can't tell who's teaching who anymore",
+    "link": "https://cairnc.github.io/posts/understanding-the-dual-polytope/",
+    "title": "[英] Understanding the Dual Polytope for Hull Simplification",
     "date": "2026-10-01"
   },
   {
-    "link": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
-    "title": "[英] I Could've Accessed 17T Microsoft Records",
+    "link": "https://www.chompiclub.com/opensource",
+    "title": "[英] Chompi portable sampler instrument is now open-source (hardware and software)",
     "date": "2026-10-01"
   },
   {
-    "link": "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/",
-    "title": "[英] Getting out of the way: my robotics crash course",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "title": "[英] Gemini 4 Argon",
     "date": "2026-10-01"
   },
   {
-    "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-    "title": "[英] SDF vs. MSDF vs. Slug: GPU Text Rendering",
+    "link": "https://www.mattkeeter.com/projects/halfspace/",
+    "title": "[英] Halfspace experimental IDE for solid modeling with distance fields",
     "date": "2026-10-01"
   },
   {
-    "link": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
-    "title": "[英] Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
+    "link": "https://ohhfishal.net/Posts/claude",
+    "title": "[英] Claude Says",
     "date": "2026-10-01"
   },
   {
-    "link": "https://www.iflscience.com/scientists-have-found-a-weird-physical-sign-that-someone-is-interested-in-you-romantically-84795",
-    "title": "[英] Scientists Have Found a Weird Physical Sign That Someone Is Interested in You",
+    "link": "https://edgcpp.org/#transition",
+    "title": "[英] EDG C++ front-end goes public",
     "date": "2026-10-01"
   },
   {
-    "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
-    "title": "[英] The last time my family was replaced by technology",
+    "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+    "title": "[英] Surprisingly Complex Waves Reveal the Brain's Inner Workings",
     "date": "2026-10-01"
   },
   {
-    "link": "https://comonad.com/reader/1995/wavelets-in-3d-graphics/",
-    "title": "[英] Wavelets in 3D Graphics",
+    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+    "title": "[英] 5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
     "date": "2026-10-01"
   },
   {
-    "link": "https://mathigon.org/origami",
-    "title": "[英] Mathematical Origami",
+    "link": "https://www.tomshardware.com/networking/the-ethernet-spec-was-first-drafted-on-this-day-in-1980-dec-intel-and-xerox-defined-the-standard-several-years-before-the-internet-existed",
+    "title": "[英] The Ethernet spec was first drafted on this day in 1980",
     "date": "2026-10-01"
   },
   {
-    "link": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
-    "title": "[英] Most data centers refusing to say how much water, electricity they use",
+    "link": "https://www.eia.gov/kids/history-of-energy/timelines/photovoltaic.php",
+    "title": "[英] Energy Timelines Photovoltaic",
     "date": "2026-10-01"
   },
   {
-    "link": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-    "title": "[英] Show HN: JBR-001 – An open-source 3D printable desktop robot",
+    "link": "https://strata.do/",
+    "title": "[英] Show HN: Strata – an expressive semantic layer that can say no to your LLM",
     "date": "2026-10-01"
   },
   {
-    "link": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
-    "title": "[英] GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+    "link": "https://github.com/magnitudedev/magnitude",
+    "title": "[英] Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
     "date": "2026-10-01"
   }
 ]
