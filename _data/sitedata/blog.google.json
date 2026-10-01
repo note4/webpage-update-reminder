@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
+    "title": "[英] Turn your existing social assets into high-impact YouTube ads.",
+    "date": "2026-10-02 04:30:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
+    "title": "[英] Guided Vision in Gemini Live: built for accessibility",
+    "date": "2026-10-02 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/",
+    "title": "[英] 1,400 educators joined our Badge-a-thon: Day of AI Learning.",
+    "date": "2026-10-02 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/",
+    "title": "[英] 5 ways Search can help you perfect your at-home coffee routine",
+    "date": "2026-10-01 21:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
     "title": "[英] Google's AI ranks #1 for predicting flu hospitalizations.",
     "date": "2026-10-01 05:30:00"
@@ -53,25 +73,5 @@
     "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/las-art-foundation-ai-residency/",
     "title": "[英] Experience two artists’ perspectives on philosophy, science, and AI",
     "date": "2026-09-30 00:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/public-policy/america-gov-google-public-sector/",
-    "title": "[英] Google is a technology partner for the launch of America.gov.",
-    "date": "2026-09-29 22:15:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "title": "[英] Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "date": "2026-09-29 03:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/",
-    "title": "[英] Google Arts & Culture turns 15 — and gives its app a makeover",
-    "date": "2026-09-29 00:30:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/",
-    "title": "[英] See what 4 builders are making with Gemini 3.8 Flash",
-    "date": "2026-09-29 00:00:00"
   }
 ]
