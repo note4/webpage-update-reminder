@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
+    "title": "[英] Google's AI ranks #1 for predicting flu hospitalizations.",
+    "date": "2026-10-01 05:30:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
     "title": "[英] Gemini 4 Argon: our next era of frontier intelligence",
     "date": "2026-10-01 04:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/",
     "title": "[英] See what 4 builders are making with Gemini 3.8 Flash",
     "date": "2026-09-29 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/",
-    "title": "[英] 3 ways this grocer cooks for 200 guests with Gemini",
-    "date": "2026-09-28 23:00:00"
   }
 ]

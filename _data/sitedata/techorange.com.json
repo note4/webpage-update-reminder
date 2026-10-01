@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/10/01/pg-siemens-samsung/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "P&amp;G 測紙巾、三星 SDI 測電池內部金屬：AI 視覺如何攻下傳統光學檢測盲點？",
+    "date": "2026-10-01 06:24:00"
+  },
+  {
+    "link": "https://techorange.com/2026/10/01/anthropic-ipo-ai-risk/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【科技早餐】Anthropic IPO 文件警告：先進 AI 恐帶來災難性風險",
+    "date": "2026-10-01 05:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/09/30/openai-ai-self-replicating-prompt-injections/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "OpenAI 研究揭 AI Agent 新風險：惡意上下文可能從 Email 一路傳到工具操作",
     "date": "2026-09-30 17:47:17"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/09/29/openai-nvidia-gpt-6-open-agent-safety-platform/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "OpenAI 新模型喊卡、NVIDIA 集結百家企業：AI Agent 安全為何不再只靠對齊？",
     "date": "2026-09-29 13:58:05"
-  },
-  {
-    "link": "https://techorange.com/2026/09/29/amd-acquire-fei-fei-lis-world-labs-82-billion-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AMD 將以 82 億美元收購李飛飛 World Labs：搶進「實體 AI」，正面對決 NVIDIA",
-    "date": "2026-09-29 12:01:53"
-  },
-  {
-    "link": "https://techorange.com/2026/09/29/ai-recall-bottleneck-think-longer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Google 研究：AI 有幻覺是因為「想不起來」！增加規模無助提取問題，靠思考才能找回答案",
-    "date": "2026-09-29 10:00:06"
   }
 ]
