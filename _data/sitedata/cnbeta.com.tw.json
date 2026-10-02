@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1580528.htm",
+    "title": "Meta开源Muse智能体硬件方案 普通开发板也能打造自己的AI设备",
+    "date": "2026-10-03 06:01:18"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1580526.htm",
+    "title": "美国陆军将设自主系统司令部 五角大楼另筹建四星级自主战争司令部",
+    "date": "2026-10-03 06:00:43"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/tech/1580524.htm",
     "title": "AMD Ryzen 9 5900X3D工程样品曝光：Zen 3架构再添X3D型号 L3缓存达到128MB",
     "date": "2026-10-03 02:31:27"
@@ -63,15 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/tech/1580500.htm",
     "title": "亚马逊拟将约80亿美元英伟达芯片转入融资载体 华尔街审视GPU抵押价值",
     "date": "2026-10-02 21:57:48"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1580498.htm",
-    "title": "英伟达停产标准版Shield TV Shield TV Pro涨价至299美元",
-    "date": "2026-10-02 21:55:27"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1580496.htm",
-    "title": "英伟达推出64GB版DGX Spark：售价4999美元 128GB版本价格已突破6000美元",
-    "date": "2026-10-02 21:51:00"
   }
 ]
