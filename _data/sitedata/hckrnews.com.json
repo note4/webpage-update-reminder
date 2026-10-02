@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+    "title": "[英] Memory executives expect RAM shortage to continue through 2028",
+    "date": "2026-10-02"
+  },
+  {
+    "link": "https://www.commondreams.org/news/trump-election-interference-brazil",
+    "title": "[英] Alarm Grows over 'Clearly Illegal' US Election Meddling in Brazil",
+    "date": "2026-10-02"
+  },
+  {
+    "link": "https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/",
+    "title": "[英] European payments groups join forces to challenge US dominance",
+    "date": "2026-10-02"
+  },
+  {
+    "link": "https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/",
+    "title": "[英] Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
+    "date": "2026-10-02"
+  },
+  {
+    "link": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
+    "title": "[英] Why media fans want to escape algorithms with CDs, DVDs and vinyl",
+    "date": "2026-10-02"
+  },
+  {
+    "link": "https://github.com/kvoltmer/Audionaut",
+    "title": "[英] Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+    "date": "2026-10-02"
+  },
+  {
+    "link": "https://fortune.com/2026/10/01/yann-lecun-anthropic-ceo-dario-amodei-deluded-crazy-cybersecurity/",
+    "title": "[英] AI godfather Yann LeCun: Anthropic CEO deluded, doesn't understand cybersecurity",
+    "date": "2026-10-02"
+  },
+  {
     "link": "https://www.firezone.dev/blog/building-reliable-directory-sync",
     "title": "[英] Building reliable (and fast) directory sync",
     "date": "2026-10-02"
@@ -31,47 +66,12 @@
   },
   {
     "link": "https://www.deepseek.com/en/harness/",
-    "title": "[英] DeepSeek Harness",
+    "title": "[英] DeepSeek Harness Desktop for macOS and Windows",
     "date": "2026-10-02"
   },
   {
     "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
     "title": "[英] How Singapore's government-run dating service works",
-    "date": "2026-10-02"
-  },
-  {
-    "link": "https://www.frogandtoad.ai/",
-    "title": "[英] Frog and Toad and the Increasingly Capable Machines",
-    "date": "2026-10-02"
-  },
-  {
-    "link": "https://ideas.imbue.com/p/personal-computing-20",
-    "title": "[英] Personal Computing 2.0: It's time for a personal computing revolution",
-    "date": "2026-10-02"
-  },
-  {
-    "link": "https://neow.in/NGxhb3d6",
-    "title": "[英] Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
-    "date": "2026-10-02"
-  },
-  {
-    "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
-    "title": "[英] Butterflies use optical illusions to dodge predators",
-    "date": "2026-10-02"
-  },
-  {
-    "link": "https://dogbench.ai/",
-    "title": "[英] DoGBench: The first user-facing docs generation benchmark. No model scores >50%",
-    "date": "2026-10-02"
-  },
-  {
-    "link": "https://lwn.net/Articles/1097401/",
-    "title": "[英] Several vulnerabilities have been discovered in the Linux kernel",
-    "date": "2026-10-02"
-  },
-  {
-    "link": "https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/",
-    "title": "[英] Apple's smart home camera reportedly won't record video",
     "date": "2026-10-02"
   }
 ]
