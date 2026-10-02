@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/10/02/ai-agent-salesforce/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "一個 AI Agent 別管超過 8～10 類任務，Salesforce 如何重新設計企業分工？",
+    "date": "2026-10-02 06:36:00"
+  },
+  {
+    "link": "https://techorange.com/2026/10/02/micron-memory-supply-32-billion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【科技早餐】美光客戶長約承諾增至 320 億美元，預期記憶體供應更吃緊",
+    "date": "2026-10-02 05:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/10/01/connected-cars-steer-next-shopping-decision/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "車內支付生態系崛起：掌握「儀表板介面」即掌握商業入口？憑證與數據控制權成競逐焦點",
     "date": "2026-10-01 17:06:20"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/09/30/foxconn-teamt5-sas-kpmg-edge-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "「把刀柄握好了，才敢放手讓 AI 做更多的事。」鴻海、TeamT5、SAS 與 KPMG 四大專家分析高科技製造 Edge AI Agent 的資安實戰",
     "date": "2026-09-30 15:46:31"
-  },
-  {
-    "link": "https://techorange.com/2026/09/30/dassault-simulia-ainative/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "達梭系統臺灣年度高峰論壇暨 SIMULIA 用戶大會：聚焦「虛擬雙生 × AI 助手」，打造 AI-Native 未來生態系",
-    "date": "2026-09-30 15:26:11"
-  },
-  {
-    "link": "https://techorange.com/2026/09/30/gsa-joins-the-white-houses-national-design-studio-unveiling-americagov/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "美國政府打造 AI 服務入口：America.gov 搭載 Gemini、Grok 整合 2.9 萬個政府網站",
-    "date": "2026-09-30 12:51:32"
   }
 ]
