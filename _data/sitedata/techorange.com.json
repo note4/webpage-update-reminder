@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/10/02/shopping-with-chatgpt-search/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 零售新局：ChatGPT 虛擬試穿＋收藏上線，把「探索到決策」搬進對話框",
+    "date": "2026-10-02 12:35:34"
+  },
+  {
+    "link": "https://techorange.com/2026/10/02/google-tpu-ai-project-suncatcher/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Google 首度把 4 顆 TPU 送上太空！開始實測「軌道 AI 資料中心」",
+    "date": "2026-10-02 11:57:44"
+  },
+  {
+    "link": "https://techorange.com/2026/10/02/agile-robots-physical-ai-automation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Agile Robots 的產品是「工廠」，機械手臂、人形機器人都只是其中一環",
+    "date": "2026-10-02 09:29:28"
+  },
+  {
     "link": "https://techorange.com/2026/10/02/ai-agent-salesforce/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "一個 AI Agent 別管超過 8～10 類任務，Salesforce 如何重新設計企業分工？",
     "date": "2026-10-02 06:36:00"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/09/30/openai-ai-self-replicating-prompt-injections/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "OpenAI 研究揭 AI Agent 新風險：惡意上下文可能從 Email 一路傳到工具操作",
     "date": "2026-09-30 17:47:17"
-  },
-  {
-    "link": "https://techorange.com/2026/09/30/ceo-gap-stalls-ai-adoption-ibm-finds-only-25-workers-use/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "IBM 揭企業 AI 轉型落差：86% 高層認可員工準備度，卻估定期使用率僅 25%",
-    "date": "2026-09-30 16:46:21"
-  },
-  {
-    "link": "https://techorange.com/2026/09/30/gdp-anthropic-claude-rd/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【劉永信專欄】研發經費占 GDP 僅次以色列、南韓，台灣的基礎研究為什麼不到 8%？",
-    "date": "2026-09-30 15:55:09"
-  },
-  {
-    "link": "https://techorange.com/2026/09/30/foxconn-teamt5-sas-kpmg-edge-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "「把刀柄握好了，才敢放手讓 AI 做更多的事。」鴻海、TeamT5、SAS 與 KPMG 四大專家分析高科技製造 Edge AI Agent 的資安實戰",
-    "date": "2026-09-30 15:46:31"
   }
 ]
