@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+    "title": "[英] Things That Apparently Cause Cancer",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "http://whereistheplanet.com",
+    "title": "[英] Where Is the Planet",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
+    "title": "[英] Billions of Triangles Redux",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "https://inference.debian.net/",
+    "title": "[英] Debian Inference Portal",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "https://publicdomainreview.org/essay/philip-sidney-and-the-extreme-disgraces-of-the-parenthesis/",
+    "title": "[英] Philip Sidney and the Extreme (Dis)Graces of the Parenthesis",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "https://tanin.nanakorn.com/input-type-password-maxlength-20-is-considered-harmful-and-why-i-couldnt-login-into-vanguard/",
+    "title": "[英] <input type=\"password\" maxlength=\"20\"> prevents me from logging into Vanguard",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+    "title": "[英] The Forgetful CPU (Linux on M4)",
+    "date": "2026-10-03"
+  },
+  {
     "link": "https://allenai.org/blog/astabrief",
     "title": "[英] Open-sourcing AstaBrief, the fast report-generation model in Asta",
     "date": "2026-10-03"
@@ -11,7 +46,7 @@
   },
   {
     "link": "https://blog.sshh.io/p/the-harness-is-the-company",
-    "title": "[英] The Harness Is the Company",
+    "title": "[英] Every SaaS business will become a harness around a model",
     "date": "2026-10-03"
   },
   {
@@ -37,41 +72,6 @@
   {
     "link": "https://github.com/anteloc/ldraw-nova",
     "title": "[英] Show HN: Made an open-source Lego AI generator",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
-    "title": "[英] GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://developer.apple.com/news/?id=p6zjojqw",
-    "title": "[英] Updates to Full Disk Access in macOS",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://jardo.dev/hardly-promethean",
-    "title": "[英] Hardly Promethean",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://www.nber.org/papers/w35655",
-    "title": "[英] Crypto Capture of Foreign Aid",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
-    "title": "[英] The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://gizmodo.com/colorectal-cancer-is-rising-among-kids-and-teens-and-its-not-the-same-disease-adults-get-2000818128",
-    "title": "[英] Colorectal Cancer Is Rising Among the Young, Even Kids and Teens",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://www.greenend.org.uk/rjk/misc/nipple.html",
-    "title": "[英] \"The only intuitive interface is the nipple\" (2012)",
     "date": "2026-10-03"
   }
 ]
