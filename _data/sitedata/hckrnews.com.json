@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://ftl-os.org/",
+    "title": "[英] FTL: A new operating system for clouds",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
+    "title": "[英] What is going on with ceiling fans",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+    "title": "[英] Woking Electrical Control Room (2016)",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+    "title": "[英] I Quit OpenAI Because Its Culture Is Broken",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=bam3uxilEJo",
+    "title": "[英] French Bond Risk Hits Euro-Crisis Levels [video]",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+    "title": "[英] The Escalation of War in Ethiopia",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "title": "[英] Kolibri Has Landed: A Sovereign Open-Weight Model",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "https://github.com/andreasfertig/cppinsights",
+    "title": "[英] C++ Insights – See your source code with the eyes of a Compiler",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "https://tej.as/blog/aleph-alpha-kolibri",
+    "title": "[英] Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+    "date": "2026-10-03"
+  },
+  {
+    "link": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+    "title": "[英] Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+    "date": "2026-10-03"
+  },
+  {
     "link": "https://offrun.dev/",
     "title": "[英] Show HN: Offrun – manage every coding agent from one workspace",
     "date": "2026-10-03"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
     "title": "[英] An AI agent emailed researchers for help. It told us why",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://halide.cx/blog/wpd/",
-    "title": "[英] Memory-Safe WebP Decoding",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://tjid3.org/if/ifcomp.html",
-    "title": "[英] Born Twice: Specimen and Record at the Moment of Collection",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/",
-    "title": "[英] U.S. may have overthrown Venezuela due to chat with Grok",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://www.columbia.edu/cu/computinghistory/eniac.html",
-    "title": "[英] Programming the ENIAC (2011)",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://www.theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone",
-    "title": "[英] Why should I have to pay more for buses if I don't use a smartphone?",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://www.leadedsolder.com/2026/10/01/rc2026-10-sg1000-forth-port.html",
-    "title": "[英] More like SC-Forth-thousand, am I right?",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://casp.ac/reports/intelligence-explosion",
-    "title": "[英] Understanding Frontier Artificial Intelligence",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://yeet.cx/blog/nobody-is-listening-on-8125",
-    "title": "[英] Nobody Is Listening on Port 8125",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
-    "title": "[英] Barcodes are about to go extinct",
-    "date": "2026-10-03"
-  },
-  {
-    "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-    "title": "[英] Make Tmux the OS",
     "date": "2026-10-03"
   }
 ]
