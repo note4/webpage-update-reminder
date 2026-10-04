@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://automatictransmission.khoury.northeastern.edu/",
+    "title": "[英] Car is a smartphone on wheels. Here's who's listening",
+    "date": "2026-10-04"
+  },
+  {
+    "link": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
+    "title": "[英] GVisor is being donated to CNCF",
+    "date": "2026-10-04"
+  },
+  {
+    "link": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
+    "title": "[英] Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
+    "date": "2026-10-04"
+  },
+  {
+    "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+    "title": "[英] What's the Future for Pure Math Research in the Age of AI?",
+    "date": "2026-10-04"
+  },
+  {
+    "link": "https://math.tejstead.com/heilbronn/",
+    "title": "[英] The Heilbronn Problem",
+    "date": "2026-10-04"
+  },
+  {
+    "link": "https://github.com/Niko1221/Strata",
+    "title": "[英] Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "date": "2026-10-04"
+  },
+  {
+    "link": "https://niklasroy.com/gtc/",
+    "title": "[英] Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+    "date": "2026-10-04"
+  },
+  {
+    "link": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+    "title": "[英] Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+    "date": "2026-10-04"
+  },
+  {
+    "link": "https://cognitivemedium.com/tat/index.html",
+    "title": "[英] Thought as a Technology (2016)",
+    "date": "2026-10-04"
+  },
+  {
+    "link": "https://github.com/allenv0/SCM",
+    "title": "[英] Show HN: AI search for every photo and every frame of video on macOS",
+    "date": "2026-10-04"
+  },
+  {
     "link": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
     "title": "[英] Sea Monkeys Show Scientists How to Rewrite a Rule of Turbulence",
     "date": "2026-10-04"
@@ -22,56 +72,6 @@
   {
     "link": "https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns",
     "title": "[英] OpenBSD Developers Reject Uutils Coreutils",
-    "date": "2026-10-04"
-  },
-  {
-    "link": "https://github.com/PowderworksCode/headstart",
-    "title": "[英] Emitting metadata early makes building/checking Rust up to twice as fast",
-    "date": "2026-10-04"
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-    "title": "[英] 'This can't go on': thousands protest against housing crisis in Spain",
-    "date": "2026-10-04"
-  },
-  {
-    "link": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
-    "title": "[英] \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
-    "date": "2026-10-04"
-  },
-  {
-    "link": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-    "title": "[英] In Ukraine, distributed renewables foil Russia's assaults",
-    "date": "2026-10-04"
-  },
-  {
-    "link": "https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics",
-    "title": "[英] UK Government Body Kept Files on People Criticizing Prevent Program",
-    "date": "2026-10-04"
-  },
-  {
-    "link": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
-    "title": "[英] Dirty Optimization Secrets (C for Playdate)",
-    "date": "2026-10-04"
-  },
-  {
-    "link": "https://www.404media.co/our-solar-system-is-terminally-unstable-and-will-be-completely-destroyed-study-finds/",
-    "title": "[英] Our Solar System Is Terminally Unstable",
-    "date": "2026-10-04"
-  },
-  {
-    "link": "https://alexeyindeev.substack.com/p/i-stopped-reviewing-my-agents-code",
-    "title": "[英] I stopped reviewing my agents' code. Here's what I do instead",
-    "date": "2026-10-04"
-  },
-  {
-    "link": "https://play.runescape.com/4",
-    "title": "[英] We're working on a new RuneScape MMO",
-    "date": "2026-10-04"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49950283",
-    "title": "[英] undefined",
     "date": "2026-10-04"
   }
 ]
