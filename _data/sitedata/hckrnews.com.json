@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://www.cambridge.org/core/journals/iraq/article/gods-in-the-classroom-religion-and-education-in-1st-millennium-bce-babylonia/EB059EE81804DCBC1848CACBD6298E0B",
+    "title": "[英] Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
+    "date": "2026-10-05"
+  },
+  {
+    "link": "https://linuxiac.com/kagi-ends-orion-browser-development-for-linux-will-open-source-it/",
+    "title": "[英] Kagi Ends Orion Browser Development for Linux, Will Open-Source It",
+    "date": "2026-10-05"
+  },
+  {
+    "link": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
+    "title": "[英] The AI industry is booming. Women are getting left behind",
+    "date": "2026-10-05"
+  },
+  {
+    "link": "https://frn.sh/go-gc/",
+    "title": "[英] A 40ms Go garbage collector pause caused by swap",
+    "date": "2026-10-05"
+  },
+  {
+    "link": "https://pvk.ca/Blog/2012/02/19/fixed-points-and-strike-mandates/",
+    "title": "[英] Fixed Points and Strike Mandates",
+    "date": "2026-10-05"
+  },
+  {
+    "link": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+    "title": "[英] Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+    "date": "2026-10-05"
+  },
+  {
+    "link": "https://plicerin.github.io/riverraid-rom-port/",
+    "title": "[英] A tribute to one of the best games on the Atari 2600",
+    "date": "2026-10-05"
+  },
+  {
+    "link": "https://qcaml.com/index.html",
+    "title": "[英] Quantitative Finance with OCaml",
+    "date": "2026-10-05"
+  },
+  {
+    "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+    "title": "[英] Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+    "date": "2026-10-05"
+  },
+  {
+    "link": "http://www.taobackup.com/index.html",
+    "title": "[英] The Tao of Backup",
+    "date": "2026-10-05"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html",
+    "title": "[英] The logic of gambling undergirds everything coming out of Silicon Valley",
+    "date": "2026-10-05"
+  },
+  {
+    "link": "https://getartcraft.com/apps",
+    "title": "[英] ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+    "date": "2026-10-05"
+  },
+  {
     "link": "https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say",
     "title": "[英] 1 in 8 cancer cases are caused by infections",
     "date": "2026-10-05"
   },
   {
     "link": "https://tuftesrazor.scienceux.org/",
-    "title": "[英] Demystifying Tufte's data-ink ratio – Tufte's Razor",
+    "title": "[英] Demystifying Tufte's data-ink ratio",
     "date": "2026-10-05"
   },
   {
     "link": "https://ferran.sh/writing/no-vendor-lock-in-is-code-for-no-product",
     "title": "[英] \"No Vendor Lock-In\" Is Code for \"No Product\"",
-    "date": "2026-10-05"
-  },
-  {
-    "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-    "title": "[英] In the wake of closure, a digital archive of animated materials appears online",
-    "date": "2026-10-05"
-  },
-  {
-    "link": "https://alexalejandre.com/interviews/peter-bex/",
-    "title": "[英] Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-    "date": "2026-10-05"
-  },
-  {
-    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-    "title": "[英] Self-hosted HTTP tunnels with SSH and Nginx",
-    "date": "2026-10-05"
-  },
-  {
-    "link": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
-    "title": "[英] AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-    "date": "2026-10-05"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49958482",
-    "title": "[英] undefined",
-    "date": "2026-10-05"
-  },
-  {
-    "link": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-    "title": "[英] Infidel goes wild",
-    "date": "2026-10-05"
-  },
-  {
-    "link": "https://wieslawsoltes.github.io/VB6/",
-    "title": "[英] A browser-native classic Visual Basic VB6 IDE",
-    "date": "2026-10-05"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49957602",
-    "title": "[英] undefined",
-    "date": "2026-10-05"
-  },
-  {
-    "link": "https://jacobg.co/emails-at-jacobg-co/",
-    "title": "[英] All I wanted was a custom domain email",
-    "date": "2026-10-05"
-  },
-  {
-    "link": "https://blue-continuum.com/the-man-who-listens-to-whales",
-    "title": "[英] A man who listens to whales",
-    "date": "2026-10-05"
-  },
-  {
-    "link": "https://github.com/net4people/bbs/issues/672",
-    "title": "[英] Xray-core concealed a certificate verification bypass vulnerability",
-    "date": "2026-10-05"
-  },
-  {
-    "link": "https://island-three.gruberbuilds.workers.dev/",
-    "title": "[英] I asked Claude build a physically accurate O'Neill cylinder you can walk around",
     "date": "2026-10-05"
   }
 ]
