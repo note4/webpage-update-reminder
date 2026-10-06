@@ -1,7 +1,37 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/",
+    "title": "[英] Making global public health more proactive with Google Earth AI",
+    "date": "2026-10-06 23:00:00"
+  },
+  {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/",
+    "title": "[英] More than 100 startups joining our Google for Startups Gemini Startup Forum",
+    "date": "2026-10-06 22:00:00"
+  },
+  {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/frieze-london-2026/",
+    "title": "[英] Meet the artist who built a giant spider for a virtual world",
+    "date": "2026-10-06 21:30:00"
+  },
+  {
+    "link": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/",
+    "title": "[英] Why we're backing America's existing nuclear plants",
+    "date": "2026-10-06 18:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
+    "title": "[英] I teach my students that in the AI era, critical thinking comes first.",
+    "date": "2026-10-06 00:00:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
     "title": "[英] I use technology to give students a voice and become critical digital citizens.",
+    "date": "2026-10-06 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
+    "title": "[英] Gemini helps me give a voice to students who cannot write.",
     "date": "2026-10-06 00:00:00"
   },
   {
@@ -20,8 +50,18 @@
     "date": "2026-10-06 00:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
-    "title": "[英] I teach my students that in the AI era, critical thinking comes first.",
+    "link": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/",
+    "title": "[英] I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
+    "date": "2026-10-06 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/",
+    "title": "[英] Gemini helps me bring hands-on learning into the classroom.",
+    "date": "2026-10-06 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/education-officer-gemini/",
+    "title": "[英] Technology is helping my fellow math teachers trade weekend prep for personalized learning.",
     "date": "2026-10-06 00:00:00"
   },
   {
@@ -33,45 +73,5 @@
     "link": "https://blog.google/products-and-platforms/products/education/teacher-voices-gemini-creativity/",
     "title": "[英] My students use Gemini to brainstorm creative ideas.",
     "date": "2026-10-06 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/education/education-officer-gemini/",
-    "title": "[英] Technology is helping my fellow math teachers trade weekend prep for personalized learning.",
-    "date": "2026-10-06 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/",
-    "title": "[英] Gemini helps me bring hands-on learning into the classroom.",
-    "date": "2026-10-06 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/",
-    "title": "[英] I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
-    "date": "2026-10-06 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
-    "title": "[英] Gemini helps me give a voice to students who cannot write.",
-    "date": "2026-10-06 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/",
-    "title": "[英] Wheels up: Trends and tips for 2026 holiday travel",
-    "date": "2026-10-05 20:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/",
-    "title": "[英] Making AI training available to UK and Ireland educators",
-    "date": "2026-10-05 15:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "title": "[英] The latest AI news we announced in September 2026",
-    "date": "2026-10-02 23:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
-    "title": "[英] Our Project Suncatcher prototype satellite is in orbit.",
-    "date": "2026-10-02 07:30:00"
   }
 ]
