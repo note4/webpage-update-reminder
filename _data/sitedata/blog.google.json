@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
+    "title": "[英] Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
+    "date": "2026-10-07 02:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
+    "title": "[英] Producers can now vibe code their own music production tools using Google Flow Music.",
+    "date": "2026-10-07 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+    "title": "[英] EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "date": "2026-10-07 00:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/",
     "title": "[英] Making global public health more proactive with Google Earth AI",
     "date": "2026-10-06 23:00:00"
@@ -20,18 +35,13 @@
     "date": "2026-10-06 18:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
-    "title": "[英] I teach my students that in the AI era, critical thinking comes first.",
-    "date": "2026-10-06 00:00:00"
-  },
-  {
     "link": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
     "title": "[英] I use technology to give students a voice and become critical digital citizens.",
     "date": "2026-10-06 00:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
-    "title": "[英] Gemini helps me give a voice to students who cannot write.",
+    "link": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
+    "title": "[英] My eighth-grade students built our school newscast from scratch with Gemini.",
     "date": "2026-10-06 00:00:00"
   },
   {
@@ -50,28 +60,18 @@
     "date": "2026-10-06 00:00:00"
   },
   {
+    "link": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
+    "title": "[英] Gemini helps me give a voice to students who cannot write.",
+    "date": "2026-10-06 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
+    "title": "[英] I teach my students that in the AI era, critical thinking comes first.",
+    "date": "2026-10-06 00:00:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/",
     "title": "[英] I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
-    "date": "2026-10-06 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/",
-    "title": "[英] Gemini helps me bring hands-on learning into the classroom.",
-    "date": "2026-10-06 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/education/education-officer-gemini/",
-    "title": "[英] Technology is helping my fellow math teachers trade weekend prep for personalized learning.",
-    "date": "2026-10-06 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
-    "title": "[英] My eighth-grade students built our school newscast from scratch with Gemini.",
-    "date": "2026-10-06 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/education/teacher-voices-gemini-creativity/",
-    "title": "[英] My students use Gemini to brainstorm creative ideas.",
     "date": "2026-10-06 00:00:00"
   }
 ]

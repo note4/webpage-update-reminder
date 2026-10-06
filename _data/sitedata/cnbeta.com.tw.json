@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1580954.htm",
+    "title": "专家认为华为提出的LogicFolding 3D堆叠芯片架构的散热难题仍难解决",
+    "date": "2026-10-07 02:37:33"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1580952.htm",
+    "title": "科学家找到细胞“节能开关”：激活AMPK可让多种模式生物寿命延长超25%",
+    "date": "2026-10-07 02:31:46"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1580950.htm",
+    "title": "Raspberry Pi Desktop四年后重返PC和Mac 升级至Debian 13并加入远程控制",
+    "date": "2026-10-07 02:30:17"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1580948.htm",
+    "title": "macOS 27.2再现关键线索 苹果触控版MacBook或即将登场",
+    "date": "2026-10-07 02:29:33"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1580946.htm",
+    "title": "Google发布Nano Banana 2.1：图像编辑能力大幅提升 人物和物体一致性进一步增强",
+    "date": "2026-10-07 02:28:46"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1580944.htm",
+    "title": "Claude中文版悄悄上线了",
+    "date": "2026-10-07 01:22:20"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1580942.htm",
+    "title": "荷兰税务部门放弃微软365迁移计划 将转向自建服务器与欧洲开源方案",
+    "date": "2026-10-06 23:38:06"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1580940.htm",
+    "title": "Xbox Elite Series 3手柄疑似现身Design Lab后台 带来磁感摇杆与高级触觉反馈",
+    "date": "2026-10-06 23:30:48"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/tech/1580938.htm",
     "title": "Bluesky申请“.bsky”顶级域名后缀 用户或可获得更短账号名",
     "date": "2026-10-06 22:52:49"
@@ -33,45 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/tech/1580926.htm",
     "title": "盗窃与效率争议推动越来越多零售商开始缩减自助结账业务",
     "date": "2026-10-06 20:47:55"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1580924.htm",
-    "title": "Blender开发者讨论在6.0版移除OpenGL 但尚未定案",
-    "date": "2026-10-06 20:46:53"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/music/1580922.htm",
-    "title": "Apple Music迎来11年来首次Logo改版 经典“Music”字样变得更粗、更宽并全部小写",
-    "date": "2026-10-06 20:45:04"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1580920.htm",
-    "title": "苹果开放iPhone Duo应用提交：开发者力争首发当天完成适配",
-    "date": "2026-10-06 19:50:10"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1580918.htm",
-    "title": "HomePod mini多地配送等待时间升至八周 换代传闻升温",
-    "date": "2026-10-06 19:48:49"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1580916.htm",
-    "title": "​Google签下3590MW超级电力协议 超43亿美元投入核电扩容",
-    "date": "2026-10-06 19:48:20"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1580914.htm",
-    "title": "AMD计划2027年大幅增加芯片供应",
-    "date": "2026-10-06 19:47:09"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1580912.htm",
-    "title": "韩国拟投4.7万亿韩元发展前沿AI 国产基础模型项目将双轨推进",
-    "date": "2026-10-06 19:45:32"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1580910.htm",
-    "title": "微软或考虑让经典3D弹球重返Windows 11 Windows负责人首次公开回应",
-    "date": "2026-10-06 19:44:42"
   }
 ]
