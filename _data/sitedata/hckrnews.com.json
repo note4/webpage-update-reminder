@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-    "title": "[英] The Era of Software Quality, or the Era of Ostriches?",
-    "date": "2026-10-05"
+    "link": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+    "title": "[英] An Algorithmic Failure Beneath the Secret Ballot",
+    "date": "2026-10-06"
   },
   {
-    "link": "https://blog.haskell.org/foldl-and-foldr/",
-    "title": "[英] Differences Between `Foldl` and `Foldr`",
-    "date": "2026-10-05"
+    "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+    "title": "[英] Samon: Designing a Zen Garden Raking Puzzle",
+    "date": "2026-10-06"
   },
   {
-    "link": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
-    "title": "[英] Type Safe Generic Data Structures in C",
-    "date": "2026-10-05"
+    "link": "https://edworkingpapers.com/ai26-1551",
+    "title": "[英] AI Tutoring with Khanmigo in a Two-Year School Experiment",
+    "date": "2026-10-06"
   },
   {
-    "link": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-    "title": "[英] Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-    "date": "2026-10-05"
+    "link": "https://dbushell.com/2026/10/03/deno-to-node/",
+    "title": "[英] Friendship ended with Deno, now Node is my best friend",
+    "date": "2026-10-06"
   },
   {
-    "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-    "title": "[英] Web Search API",
-    "date": "2026-10-05"
+    "link": "https://almostimplemented.github.io/jazz-pianist-style/",
+    "title": "[英] Learning Jazz Pianist Style with Cross-Attention Conditioning",
+    "date": "2026-10-06"
   },
   {
-    "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
-    "title": "[英] Press Release: Nobel Prize in Physiology or Medicine 2026",
-    "date": "2026-10-05"
+    "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+    "title": "[英] Ephemeral Testing",
+    "date": "2026-10-06"
   },
   {
-    "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-    "title": "[英] Apple and a Hacker's Future",
-    "date": "2026-10-05"
+    "link": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
+    "title": "[英] Testing 12 different Zigbee temperature/humidity sensors",
+    "date": "2026-10-06"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=49962726",
-    "title": "[英] undefined",
-    "date": "2026-10-05"
+    "link": "https://docs.google.com/document/d/e/2PACX-1vTSh-pyNP3Gi99WMmsinnLmE9V5CDI0HEm6WGbIPMNt3V5SGlClHF8-BetotKHOImrvQDSXmFdiOw8D/pub",
+    "title": "[英] Is mathematics over, or just graduating?",
+    "date": "2026-10-06"
   },
   {
-    "link": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
-    "title": "[英] First Implantable Cochlear Implant Launches",
-    "date": "2026-10-05"
+    "link": "https://globalsolaratlas.info/",
+    "title": "[英] Global Solar Atlas: summary of solar power potential globally",
+    "date": "2026-10-06"
   },
   {
-    "link": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-    "title": "[英] Denmark Data Breach Exposes 8.8M People's Personal Data",
-    "date": "2026-10-05"
+    "link": "https://nivdayan.github.io/dostoevsky.pdf",
+    "title": "[英] Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
+    "date": "2026-10-06"
   },
   {
-    "link": "https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold",
-    "title": "[英] Sales of sub-€25,000 electric car models set to rise sevenfold",
-    "date": "2026-10-05"
+    "link": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+    "title": "[英] ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "date": "2026-10-06"
   },
   {
-    "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-    "title": "[英] Huawei and Qualcomm Announce Broad Patent License Agreement",
-    "date": "2026-10-05"
+    "link": "https://knowledgeartist.org/pages/food-atlas",
+    "title": "[英] Food Atlas: Connections behind the dishes we love",
+    "date": "2026-10-06"
   },
   {
-    "link": "http://databasearchitects.blogspot.com/2026/04/safe-optimistic-lock-coupling.html",
-    "title": "[英] Safe Optimistic Lock Coupling",
-    "date": "2026-10-05"
+    "link": "https://www.graphicalui.com/",
+    "title": "[英] Graphical UI",
+    "date": "2026-10-06"
   },
   {
-    "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-    "title": "[英] Anthropic reported diary entry to police, woman faces felony charge",
-    "date": "2026-10-05"
+    "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+    "title": "[英] Example.com Just Launched the Biggest Redesign in Decades",
+    "date": "2026-10-06"
   },
   {
-    "link": "https://cedardb.com/blog/sqldoom/",
-    "title": "[英] We ported the original Doom to SQL",
-    "date": "2026-10-05"
+    "link": "https://armstr.ng/writing/worth-building",
+    "title": "[英] Worth Building",
+    "date": "2026-10-06"
   }
 ]
