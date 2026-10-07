@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/10/07/perplexity-portable-computer-windows/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【劉永信專欄】Perplexity Portable Computer 登陸 Windows！一張顯卡就能跑 AI，代價是什麼？",
+    "date": "2026-10-07 18:30:05"
+  },
+  {
+    "link": "https://techorange.com/2026/10/07/personal-agent-protocol-pap-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Meta 再推 AI Agent 新標準 PAP，為什麼 Agent 協議越來越多？",
+    "date": "2026-10-07 17:27:10"
+  },
+  {
     "link": "https://techorange.com/2026/10/07/the-top-100-gen-ai-consumer-apps-7th-edition/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "誰真的在為生成式 AI 買單？a16z：前 1% 付費者支出超過後 50% 總和",
     "date": "2026-10-07 16:00:08"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/10/06/lumana-ai-via-1-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "監視攝影機成實體 AI 天然起點，新創 Lumana 教 AI 分辨監視畫面並壓低運算費用",
     "date": "2026-10-06 09:39:10"
-  },
-  {
-    "link": "https://techorange.com/2026/10/06/enterprises-open-weight-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "通用 AI 懂最多卻搞不定公司內部流程，企業需要訓練自己的專屬模型",
-    "date": "2026-10-06 09:38:50"
-  },
-  {
-    "link": "https://techorange.com/2026/10/06/edge-ai-agent-kpmg/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI Agent 斷網還能繼續動作，KPMG：Edge AI Agent 需要另一套治理方式",
-    "date": "2026-10-06 06:36:00"
   }
 ]
