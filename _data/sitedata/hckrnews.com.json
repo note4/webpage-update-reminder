@@ -1,12 +1,52 @@
 [
   {
+    "link": "https://github.com/pingdotgg/ts-rust",
+    "title": "[英] Rust Port of TypeScript (Tsc)",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
+    "title": "[英] A minimal kernel in Swift, running in QEMU",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+    "title": "[英] In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+    "title": "[英] 'Jonathan' is the oldest land animal on Earth",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+    "title": "[英] A new write and space optimized storage engine for MySQL is here",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49999606",
+    "title": "[英] undefined",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/",
+    "title": "[英] If somebody tries to hot-patch an already-hot-patched function",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+    "title": "[英] Margaret Hamilton has died",
+    "date": "2026-10-08"
+  },
+  {
     "link": "https://gregorygundersen.com/blog/2026/04/22/brownian-motion/",
     "title": "[英] Brownian Motion",
     "date": "2026-10-08"
   },
   {
     "link": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
-    "title": "[英] Despite what Watson said, Rosalind Franklin understood structure of DNA first",
+    "title": "[英] Photograph 49 is the key to understanding Rosalind Franklin’s DNA Photograph 51",
     "date": "2026-10-08"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://news.ycombinator.lol",
     "title": "[英] Show HN: Pointless but mostly-exact clone of Hacker News",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://milos.fyi/blog/fitts-law-why-the-menu-bar-is-at-the-top",
-    "title": "[英] Fitts's law: why the menu bar is at the top",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-    "title": "[英] Push ifs up and fors down: The idiom, its algebra, and its limits",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-    "title": "[英] Meta and Microsoft take steps to reduce employee usage of Claude AI",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
-    "title": "[英] ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://glinscott.github.io/how-machines-learned-precision/",
-    "title": "[英] How machines learned precision",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://agent.reviews/",
-    "title": "[英] Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://watch.wilsoniumite.com/",
-    "title": "[英] AI, Work, and the Next Downturn",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/",
-    "title": "[英] AI Model Groupthink",
     "date": "2026-10-08"
   }
 ]

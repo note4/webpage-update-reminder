@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
+    "title": "[英] This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
+    "date": "2026-10-08 08:01:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
     "title": "[英] We're making it easier to identify AI-generated content globally.",
     "date": "2026-10-07 22:00:00"
@@ -15,13 +20,13 @@
     "date": "2026-10-07 02:00:00"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-    "title": "[英] EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
+    "title": "[英] Producers can now vibe code their own music production tools using Google Flow Music.",
     "date": "2026-10-07 00:00:00"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
-    "title": "[英] Producers can now vibe code their own music production tools using Google Flow Music.",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+    "title": "[英] EmbeddingGemma 2: an open, lightweight multimodal embedding model",
     "date": "2026-10-07 00:00:00"
   },
   {
@@ -50,13 +55,13 @@
     "date": "2026-10-06 00:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
-    "title": "[英] I teach my students that in the AI era, critical thinking comes first.",
+    "link": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
+    "title": "[英] My eighth-grade students built our school newscast from scratch with Gemini.",
     "date": "2026-10-06 00:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/education/media-teacher-gemini/",
-    "title": "[英] Technology helps my students balance big creative ideas with tight deadlines.",
+    "link": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/",
+    "title": "[英] Gemini helps me bring hands-on learning into the classroom.",
     "date": "2026-10-06 00:00:00"
   },
   {
@@ -67,11 +72,6 @@
   {
     "link": "https://blog.google/products-and-platforms/products/education/world-teachers-day-2026/",
     "title": "[英] World Teachers’ Day 2026",
-    "date": "2026-10-06 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/",
-    "title": "[英] I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
     "date": "2026-10-06 00:00:00"
   }
 ]
