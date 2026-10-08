@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+    "title": "[英] I think I found a planet nobody knew existed. I used Claude Code to find it",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://dat-ecosystem.org/",
+    "title": "[英] Dat-ecosystem: high level applications built on top of P2P protocols",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://sheets.works/data-viz/holding-up-the-internet",
+    "title": "[英] People Holding Up the Internet",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://pavel-krivanek.github.io/The-Analog-Thing-Simulator/public/",
+    "title": "[英] Analog Computer Simulator in the Browser",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://github.com/dkremsa/claude-pacer",
+    "title": "[英] Show HN: Pacer – will your AI coding subscription last until the reset?",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://www.lesswrong.com/posts/7wrzfaiCq3u8xkY5G/self-modeling-interventions-modulate-emergent-misalignment",
+    "title": "[英] Self-Modeling Interventions Modulate Emergent Misalignment",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://mathstodon.xyz/@tao/117395269325940185",
+    "title": "[英] “Math 2.0” will need to value mathematical progress more holistically",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://shahidhussain.com/writing/search-for-salvage/",
+    "title": "[英] The 15-year search for a band that charted once and vanished",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://github.com/zerobrewhq/zerobrew",
+    "title": "[英] A 100x faster* alternative to homebrew",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://www.columbia.edu/cu/computinghistory/eniac.html",
+    "title": "[英] ENIAC Programmers (2011)",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://100r.ca/site/home.html",
+    "title": "[英] Living off-grid: Hundred Rabbits",
+    "date": "2026-10-08"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+    "title": "[英] Cleo (Mathematician)",
+    "date": "2026-10-08"
+  },
+  {
     "link": "https://github.com/pingdotgg/ts-rust",
     "title": "[英] Rust Port of TypeScript (Tsc)",
     "date": "2026-10-08"
@@ -12,66 +72,6 @@
   {
     "link": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
     "title": "[英] In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
-    "title": "[英] 'Jonathan' is the oldest land animal on Earth",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
-    "title": "[英] A new write and space optimized storage engine for MySQL is here",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49999606",
-    "title": "[英] undefined",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/",
-    "title": "[英] If somebody tries to hot-patch an already-hot-patched function",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-    "title": "[英] Margaret Hamilton has died",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://gregorygundersen.com/blog/2026/04/22/brownian-motion/",
-    "title": "[英] Brownian Motion",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
-    "title": "[英] Photograph 49 is the key to understanding Rosalind Franklin’s DNA Photograph 51",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://scottaaronson.blog/",
-    "title": "[英] The Mathocalypse",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://dev.arie.bovenberg.net/blog/pendulum-cursed-plus-operator/",
-    "title": "[英] Why Pendulum had to write the most cursed \"+\" operator in all of Python",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://gtlds.fyi/",
-    "title": "[英] Show HN: gtlds.fyi – All the proposed new gTLDs",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://scottaaronson.blog/?p=10169",
-    "title": "[英] The Mathocalypse",
-    "date": "2026-10-08"
-  },
-  {
-    "link": "https://news.ycombinator.lol",
-    "title": "[英] Show HN: Pointless but mostly-exact clone of Hacker News",
     "date": "2026-10-08"
   }
 ]

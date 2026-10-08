@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://techorange.com/2026/10/08/cloudmile-2026-ai-masters-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "CloudMile 萬里雲 2026 AI MASTERS 登場，攜手 OpenAI、台達電子從 AI 試驗走向可衡量的回報",
+    "date": "2026-10-08 14:15:14"
+  },
+  {
+    "link": "https://techorange.com/2026/10/08/artcraft-software-ai-developer-adobe/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 讓重建成熟軟體的門檻降低？開發者用 Claude 打造 7 款 Adobe 替代品，揚言數月內追上 99% 功能",
+    "date": "2026-10-08 12:11:58"
+  },
+  {
+    "link": "https://techorange.com/2026/10/08/anthropic-claude-haiku-5-5-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 小模型戰升溫，Anthropic 推 Haiku 5.5，價格更低、Agent 能力卻更強？",
+    "date": "2026-10-08 11:16:22"
+  },
+  {
+    "link": "https://techorange.com/2026/10/08/wiadvance-aiready/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "「先解決人怎麼做，再試試 AI 怎麼做。」緯謙科技為智慧工廠推進 AI Ready 到 AI 落地",
+    "date": "2026-10-08 11:08:32"
+  },
+  {
+    "link": "https://techorange.com/2026/10/08/gss-forrester/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "叡揚資訊提供三大 Forrester 微分段解方 打造更貼近企業環境的零信任架構",
+    "date": "2026-10-08 10:39:13"
+  },
+  {
+    "link": "https://techorange.com/2026/10/08/construction-robotics-vision-ai-safety/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "視覺 AI 為建築工地打造「感知層」，讓機器人讀懂人類在哪裡、正要做什麼",
+    "date": "2026-10-08 09:28:02"
+  },
+  {
     "link": "https://techorange.com/2026/10/08/800-ai-agents-now-run-ge-appliances-factory-floor/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "800+ AI 代理進駐 GE 家電廠房：員工開口就能問數據，欠單降 25%",
     "date": "2026-10-08 06:19:00"
@@ -43,35 +73,5 @@
     "link": "https://techorange.com/2026/10/07/robot-relations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【AI 已能建議解雇員工】人資體系跟不上，企業需要「機器人關係」部門接住員工申訴",
     "date": "2026-10-07 10:38:55"
-  },
-  {
-    "link": "https://techorange.com/2026/10/07/333-robots-community-meetup-september/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【333 Robots Community Meetup】台灣開發者用 LeRobot 玩什麼？從機械手臂一路玩到移動抓取",
-    "date": "2026-10-07 09:55:51"
-  },
-  {
-    "link": "https://techorange.com/2026/10/07/openai-agents-wikimedia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】OpenAI 代理遭指未授權活動，維基媒體揭大量請求疑涉服務中斷",
-    "date": "2026-10-07 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/10/06/ghost-ai-core-a16z/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "為何不直接用 Mac mini？Ghost 為個人 Agent 造專用電腦，19 歲創辦人獲 a16z 領投",
-    "date": "2026-10-06 17:28:19"
-  },
-  {
-    "link": "https://techorange.com/2026/10/06/foxconn-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "鴻海研究院資安所所長李維斌分析：一天遭 6 億次攻擊的防禦哲學",
-    "date": "2026-10-06 17:24:14"
-  },
-  {
-    "link": "https://techorange.com/2026/10/06/physical-ai-builder-robco-doubles-valuation-billion-dollars/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "RobCo 估值 9 個月翻倍破 10 億美元：德國實體 AI 機器人新創晉升獨角獸",
-    "date": "2026-10-06 16:48:45"
-  },
-  {
-    "link": "https://techorange.com/2026/10/06/binance-launches-retail-ai-assistant-repackages-trading-tools/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "免寫程式也能讓 AI 自動交易？幣安 Binance Intelligence 從市場資訊一路做到策略執行",
-    "date": "2026-10-06 12:18:30"
   }
 ]
