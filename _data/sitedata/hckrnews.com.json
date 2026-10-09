@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://quake-srp.pages.dev/",
+    "title": "[英] Show HN: Quake ported to safe Rust, playable in browser",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://ai-cybernetics.grok.me",
+    "title": "[英] Cybernetics of AI Companies",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304",
+    "title": "[英] Anger as man sentenced to death for Facebook comment",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+    "title": "[英] Keyboard differences between Windows and Macs",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+    "title": "[英] What should we tell our students?",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://lwn.net/Articles/1095811/",
+    "title": "[英] Reducing undefined behavior in the C language",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://bevy.org/news/bevy-0-20/",
+    "title": "[英] Bevy 0.20",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+    "title": "[英] Scaling and benchmarking a critical message bus using a new indexing strategy",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://spinal.sh/",
+    "title": "[英] Spinal: A near-instant, predictive surface for any codebase",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://github.com/edrisranjbar/lifeos",
+    "title": "[英] Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://svg-spark.vercel.app/",
+    "title": "[英] Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+    "date": "2026-10-09"
+  },
+  {
     "link": "https://karagila.org/2026/openai-pp/",
     "title": "[英] OpenAI, the Partition Principle, and Mathematics",
     "date": "2026-10-09"
@@ -17,61 +72,6 @@
   {
     "link": "https://twitter.com/matthew_d_green/status/2108278850555674975",
     "title": "[英] I think we might lose public key cryptography",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://github.com/thesnarkitecht/rembrandt",
-    "title": "[英] Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-    "title": "[英] AI-ready biological data: $1.8B global commitment",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://opper.ai/jevman-benchmark/",
-    "title": "[英] Show HN: Jevman – AI decision models play Pac-Man",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://github.com/ymcrcat/rgpu",
-    "title": "[英] Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://huggingface.co/joe-gibbs/terrainsr",
-    "title": "[英] Show HN: TerrainSR – fast, realistic heightmap upscaling model",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://naturalsystems.io/eth68",
-    "title": "[英] ETH-68: Ethernet Audio Interface for Linux",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://mitchellh.com/writing/program-status-osc7501",
-    "title": "[英] A Terminal Protocol for Program Status (OSC 7501)",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://theconversation.com/the-dawn-of-the-age-of-the-exoskeleton-281804",
-    "title": "[英] The dawn of the age of the exoskeleton",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10546-z",
-    "title": "[英] A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49985548",
-    "title": "[英] Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
-    "title": "[英] License update: AI derivation prohibited on all my art, lore, stories, comics",
     "date": "2026-10-09"
   }
 ]
