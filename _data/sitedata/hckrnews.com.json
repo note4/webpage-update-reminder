@@ -1,12 +1,47 @@
 [
   {
-    "link": "https://huggingface.co/joe-gibbs/terrainsr",
-    "title": "[英] Show HN: TerrainSR – fast, realistic heightmap upscaling model",
+    "link": "https://karagila.org/2026/openai-pp/",
+    "title": "[英] OpenAI, the Partition Principle, and Mathematics",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://amendary.com/blog/keeping-docs-in-sync-with-code",
+    "title": "[英] We have LLMs now. Why are the docs still wrong?",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+    "title": "[英] ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://twitter.com/matthew_d_green/status/2108278850555674975",
+    "title": "[英] I think we might lose public key cryptography",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://github.com/thesnarkitecht/rembrandt",
+    "title": "[英] Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+    "title": "[英] AI-ready biological data: $1.8B global commitment",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://opper.ai/jevman-benchmark/",
+    "title": "[英] Show HN: Jevman – AI decision models play Pac-Man",
     "date": "2026-10-09"
   },
   {
     "link": "https://github.com/ymcrcat/rgpu",
     "title": "[英] Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+    "date": "2026-10-09"
+  },
+  {
+    "link": "https://huggingface.co/joe-gibbs/terrainsr",
+    "title": "[英] Show HN: TerrainSR – fast, realistic heightmap upscaling model",
     "date": "2026-10-09"
   },
   {
@@ -30,48 +65,13 @@
     "date": "2026-10-09"
   },
   {
-    "link": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
-    "title": "[英] License update: AI derivation prohibited on all my art, lore, stories, comics",
-    "date": "2026-10-09"
-  },
-  {
     "link": "https://news.ycombinator.com/item?id=49985548",
     "title": "[英] Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
     "date": "2026-10-09"
   },
   {
-    "link": "https://www.theranos.world/",
-    "title": "[英] Theranos.World",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://github.com/duckdb/ducklake",
-    "title": "[英] DuckDB Ducklake",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
-    "title": "[英] I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-    "title": "[英] Man discovers his parents' coffee machine used 1TB of data in 10 days",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://pocketty.app/",
-    "title": "[英] Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
-    "title": "[英] US man given prison sentence for bot-farming music streams",
-    "date": "2026-10-09"
-  },
-  {
-    "link": "https://htmx.org/essays/yes-and/",
-    "title": "[英] Yes, and",
+    "link": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
+    "title": "[英] License update: AI derivation prohibited on all my art, lore, stories, comics",
     "date": "2026-10-09"
   }
 ]
