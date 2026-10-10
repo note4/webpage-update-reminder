@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://projecttimestamper.org/blog/common-crawl/",
+    "title": "[英] Timestamping a Giant Record of the Web",
+    "date": "2026-10-10"
+  },
+  {
+    "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+    "title": "[英] I Would Like the Value of My Home to Rise, While My Property Taxes Fall",
+    "date": "2026-10-10"
+  },
+  {
+    "link": "https://carette.xyz/posts/lobbying_and_corruption/",
+    "title": "[英] Lobbying Is Corruption",
+    "date": "2026-10-10"
+  },
+  {
+    "link": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+    "title": "[英] LLMs Aren't Inevitable",
+    "date": "2026-10-10"
+  },
+  {
+    "link": "https://www.opengroup.org//openbrand/register/",
+    "title": "[英] Apple/macOS silently removed from official Unix registry",
+    "date": "2026-10-10"
+  },
+  {
+    "link": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+    "title": "[英] C for Rust Programmers",
+    "date": "2026-10-10"
+  },
+  {
+    "link": "https://github.com/rociiu/talorys",
+    "title": "[英] Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "date": "2026-10-10"
+  },
+  {
+    "link": "https://www.datocms.com/blog/handling-less-common-scripts",
+    "title": "[英] Noto means \"no tofu\": fixing dotted circles in Myanmar text",
+    "date": "2026-10-10"
+  },
+  {
+    "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+    "title": "[英] `123456' password used in Danish CPR data breach",
+    "date": "2026-10-10"
+  },
+  {
+    "link": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
+    "title": "[英] WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
+    "date": "2026-10-10"
+  },
+  {
+    "link": "https://typeincube.com/",
+    "title": "[英] Cube Type – Isometric Typography Generator",
+    "date": "2026-10-10"
+  },
+  {
     "link": "https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/",
     "title": "[英] I tried to move my notes out of Emacs. I failed. Again",
     "date": "2026-10-10"
@@ -17,61 +72,6 @@
   {
     "link": "https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html",
     "title": "[英] Vegetative Electron Microscopy WTF? (2025)",
-    "date": "2026-10-10"
-  },
-  {
-    "link": "https://ilia.page/writing/introducing-nagare",
-    "title": "[英] Show HN: A simple to-do app for iPhone, Mac, and your agent",
-    "date": "2026-10-10"
-  },
-  {
-    "link": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
-    "title": "[英] How to head into VR without wearing a headset",
-    "date": "2026-10-10"
-  },
-  {
-    "link": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
-    "title": "[英] If AI is conscient, then we are making slaves",
-    "date": "2026-10-10"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours",
-    "title": "[英] Data Center Darling's $30B IPO Dream Crushed in 48 Hours",
-    "date": "2026-10-10"
-  },
-  {
-    "link": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
-    "title": "[英] Lobbying",
-    "date": "2026-10-10"
-  },
-  {
-    "link": "https://shrub.industries/words/problem.html",
-    "title": "[英] Communication Between the Compiler, the Build System, and Beyond",
-    "date": "2026-10-10"
-  },
-  {
-    "link": "https://nextjs.org/blog/next-16-4",
-    "title": "[英] Next.js 16.4",
-    "date": "2026-10-10"
-  },
-  {
-    "link": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
-    "title": "[英] Put a price on breakthroughs",
-    "date": "2026-10-10"
-  },
-  {
-    "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-    "title": "[英] Telegram Desktop vulnerability allowed any user's file to be stolen",
-    "date": "2026-10-10"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
-    "title": "[英] Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-    "date": "2026-10-10"
-  },
-  {
-    "link": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
-    "title": "[英] Clinical trial of a prion disease drug candidate begins enrolling participants",
     "date": "2026-10-10"
   }
 ]
