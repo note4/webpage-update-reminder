@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1581678.htm",
+    "title": "扫码寄件后，快递“不翼而飞”？丰巢柜“一格多投”漏洞频遭投诉",
+    "date": "2026-10-12 03:54:49"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1581676.htm",
+    "title": "硅谷科技巨头纷纷响应特朗普为AI改名的倡议",
+    "date": "2026-10-12 02:48:43"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1581674.htm",
+    "title": "苹果入门级 iPad 升级换代或推迟至 2027 年初完成",
+    "date": "2026-10-12 02:19:33"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1581672.htm",
+    "title": "美国法官质疑RISC-V处理器的现实竞争力",
+    "date": "2026-10-12 02:19:02"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1581670.htm",
+    "title": "1960年人口学预言迎来“审判时刻”：曾预测人类将在2026年达到“无限大”",
+    "date": "2026-10-12 02:17:34"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1581668.htm",
+    "title": "开发者让Googlebook OS在Apple Silicon Mac虚拟机中运行 但仍不适合日常使用",
+    "date": "2026-10-12 02:16:52"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1581666.htm",
+    "title": "Tim Cook卸任苹果CEO后首次访华 强调扩大在华业务布局",
+    "date": "2026-10-12 02:16:09"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1581664.htm",
+    "title": "微软将完整Office功能带入Copilot：Word、Excel和PowerPoint可直接协作编辑",
+    "date": "2026-10-12 02:15:06"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1581662.htm",
+    "title": "初代Apple TV 4K被苹果列为“复古产品” 官方维修或仍视零件供应而定",
+    "date": "2026-10-12 02:14:13"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/science/1581660.htm",
     "title": "NASA公开阿尔忒弥斯2号逾800GB月球科学资料 含1.1万余张影像和8.5小时录音",
     "date": "2026-10-11 23:46:57"
@@ -28,50 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/game/1581650.htm",
     "title": "20多年前的CRT显示器竟成了玩《上古卷轴3》的最佳选择",
     "date": "2026-10-11 23:12:57"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1581648.htm",
-    "title": "传新款HomePod mini与Apple TV或随HomeView平台一同亮相",
-    "date": "2026-10-11 23:11:29"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1581646.htm",
-    "title": "消息称苹果智能家居控制中心将被命名为“HomeView”",
-    "date": "2026-10-11 23:11:06"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1581644.htm",
-    "title": "高通CEO暗示到2028年或将出现能够运行1000亿参数的大型语言模型",
-    "date": "2026-10-11 20:58:26"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1581642.htm",
-    "title": "CUDA生态优势推动RTX Spark笔记本热销 微软128GB版Surface Laptop开始缺货",
-    "date": "2026-10-11 17:54:34"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1581640.htm",
-    "title": "CPU、DRAM和SSD如今占了一台主流级别笔记本电脑制造成本的68%",
-    "date": "2026-10-11 17:54:04"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1581638.htm",
-    "title": "才道歉又叫板，马斯克喊话印度首富：你不会倒闭",
-    "date": "2026-10-11 17:47:57"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1581636.htm",
-    "title": "苹果被曝正研发“不能录像的摄像头”",
-    "date": "2026-10-11 17:47:10"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1581634.htm",
-    "title": "丹麦CPR数据大规模泄露事件中的多个涉事账户使用了密码“123456”",
-    "date": "2026-10-11 15:20:41"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1581632.htm",
-    "title": "MIT开发SANDO无人机规划系统 可在未知环境中规避移动障碍",
-    "date": "2026-10-11 15:19:40"
   }
 ]
