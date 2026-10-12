@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
+    "title": "[英] Applying technology to understand and treat disease",
+    "date": "2026-10-13 01:30:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
     "title": "[英] Google Health: Evolving so you can focus on living better",
     "date": "2026-10-12 21:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
     "title": "[英] Introducing Playground: Create and play custom games",
     "date": "2026-10-07 20:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
-    "title": "[英] Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
-    "date": "2026-10-07 02:00:00"
   }
 ]
