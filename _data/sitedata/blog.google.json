@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
+    "title": "[英] New on Google Play: More ways to create, discover, and play",
+    "date": "2026-10-14 01:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/",
+    "title": "[英] A new app experience is coming to cars with Google built-in",
+    "date": "2026-10-14 01:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+    "title": "[英] Gemini 4 Argon comes to the Gemini app.",
+    "date": "2026-10-14 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+    "title": "[英] Gemini 4 Argon is now available for developers.",
+    "date": "2026-10-14 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
+    "title": "[英] Build your data strength with October’s Demand Gen drop.",
+    "date": "2026-10-14 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/indiana-energy-imact-program/",
+    "title": "[英] We're helping Indiana communities save with clean energy investments.",
+    "date": "2026-10-14 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "title": "[英] Gemini 4 Argon: Built to solve your hardest problems",
+    "date": "2026-10-14 00:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
     "title": "[英] Applying technology to understand and treat disease",
     "date": "2026-10-13 01:30:00"
@@ -38,40 +73,5 @@
     "link": "https://blog.google/products-and-platforms/platforms/google-play/play-fest/",
     "title": "[英] Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13",
     "date": "2026-10-08 23:30:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/",
-    "title": "[英] Sign in quickly and securely with passkeys.",
-    "date": "2026-10-08 23:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
-    "title": "[英] Google Cloud introduces the Gemini agent.",
-    "date": "2026-10-08 20:05:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/",
-    "title": "[英] Google Maps reveals the top food trends and popular restaurants across 10 cities",
-    "date": "2026-10-08 20:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/",
-    "title": "[英] 3 ways Google Maps can help you navigate your next culinary adventure.",
-    "date": "2026-10-08 20:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
-    "title": "[英] This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
-    "date": "2026-10-08 08:01:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
-    "title": "[英] We're making it easier to identify AI-generated content globally.",
-    "date": "2026-10-07 22:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "title": "[英] Introducing Playground: Create and play custom games",
-    "date": "2026-10-07 20:00:00"
   }
 ]
