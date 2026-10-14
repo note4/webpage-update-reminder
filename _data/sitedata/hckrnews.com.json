@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://felixrieseberg.com/",
+    "title": "[英] Felix Rieseberg Homepage",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://arxiv.org/abs/2609.19214",
+    "title": "[英] A Strongly Aperiodic Monotile in Three Dimensions",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
+    "title": "[英] Do Frameworks Matter Anymore?",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+    "title": "[英] Is 'Attention' the Essence of Intelligence?",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://ciechanow.ski/sound/",
+    "title": "[英] Sound – Bartosz Ciechanowski (2022)",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://anitab.org/press-release",
+    "title": "[英] Grace Hopper Celebration Cancelled",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://blog.plover.com/prog/git/history-proposal.html",
+    "title": "[英] Maybe a better way to track the release history of a Git repo",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://blumify.io/people",
+    "title": "[英] I built a tool to track what AI leaders say and how their views change on video",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+    "title": "[英] High-speed video reveals how honey bee stingers pump venom",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://brian-armstrong.github.io/yagi/lab.html",
+    "title": "[英] Show HN: Yagi DSP Modulation SIM",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html",
+    "title": "[英] How Do Cuttlefish Hide?",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
+    "title": "[英] Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
+    "date": "2026-10-14"
+  },
+  {
     "link": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
     "title": "[英] 900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
     "date": "2026-10-14"
@@ -12,66 +72,6 @@
   {
     "link": "https://www.cphiri.dev/presentations/recreational-programming",
     "title": "[英] Recreational Programming",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://www.pi.website/blog/api-beta",
-    "title": "[英] Physical Intelligence API Beta: Frontier Models for Every Robot",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://alpha-nist.github.io/",
-    "title": "[英] AlphaNIST",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://nexus-q.link/",
-    "title": "[英] Nexus-Q: un motor open source de Rust para PQC",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://meshapplied.com",
-    "title": "[英] Running Qwen3.8 at 255 tok/s on a single 5090",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-    "title": "[英] OpenAI engineer arrested in bugging of executive conference room",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://blog.plover.com/prog/git/history-proposal.html",
-    "title": "[英] Maybe a better way to track the release history of a Git repo",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://wrla.ch/log/2026/10/idrs-as-records-of-intent/",
-    "title": "[英] IDRs as Records of Intent",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-    "title": "[英] PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://parsimony.lasu.dev/",
-    "title": "[英] Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://twitter.com/OpenAINewsroom/status/2110095403198849132",
-    "title": "[英] OpenAI finds recording device in one of their offices",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
-    "title": "[英] Hiking the world in search of rare cheeses",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://docs.hypermass.io/docs/cli/",
-    "title": "[英] Show HN: Stream live open data in two commands",
     "date": "2026-10-14"
   }
 ]
