@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/intl/zh-tw/products/android-chrome-play/google-play-2026/",
+    "title": "在 Google Play 上探索、遊玩與創作的新方式",
+    "date": "2026-10-14 09:00:00"
+  },
+  {
     "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/introducing-gemini-4-argon/",
     "title": "Gemini 4 Argon：為解決你最棘手的難題而生",
     "date": "2026-10-14 08:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/intl/zh-tw/products/cloud/security_operations_launch_in_taiwan_region/",
     "title": "Google Cloud 在台啟用資安營運平台，協助組織強化數位主權",
     "date": "2026-08-07 21:00:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/devices-services/gemini-spark-ai/",
-    "title": "隆重介紹 Gemini Spark：你全天候的個人 AI 代理",
-    "date": "2026-07-29 20:00:00"
   }
 ]

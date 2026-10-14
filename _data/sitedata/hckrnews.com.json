@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://chillphysicsenjoyer.substack.com/p/how-to-select-an-experiment",
+    "title": "[英] How to Select an Experiment",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+    "title": "[英] What agents mean for Rust (and vice versa)",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex",
+    "title": "[英] Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://typeof.net/Iosevka/",
+    "title": "[英] Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://strafe.chat/",
+    "title": "[英] Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+    "title": "[英] Same Job, Two Engines: InnoDB and Iceberg Internals",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html",
+    "title": "[英] Why Sweden is abandoning its cashless society",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://tautasgramatuplaukts.lv/en/",
+    "title": "[英] The People's Bookshelf (Riga, Latvia)",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
+    "title": "[英] Arena Allocators in C",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://github.com/android/ndk/issues/2260",
+    "title": "[英] AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+    "title": "[英] Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
+    "date": "2026-10-14"
+  },
+  {
+    "link": "https://kristaps.bsd.lv/kcgi/",
+    "title": "[英] Kcgi – minimal CGI and FastCGI library for C/C++",
+    "date": "2026-10-14"
+  },
+  {
     "link": "https://felixrieseberg.com/",
     "title": "[英] Felix Rieseberg Homepage",
     "date": "2026-10-14"
@@ -12,66 +72,6 @@
   {
     "link": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
     "title": "[英] Do Frameworks Matter Anymore?",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-    "title": "[英] Is 'Attention' the Essence of Intelligence?",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://ciechanow.ski/sound/",
-    "title": "[英] Sound – Bartosz Ciechanowski (2022)",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://anitab.org/press-release",
-    "title": "[英] Grace Hopper Celebration Cancelled",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://blog.plover.com/prog/git/history-proposal.html",
-    "title": "[英] Maybe a better way to track the release history of a Git repo",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://blumify.io/people",
-    "title": "[英] I built a tool to track what AI leaders say and how their views change on video",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
-    "title": "[英] High-speed video reveals how honey bee stingers pump venom",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://brian-armstrong.github.io/yagi/lab.html",
-    "title": "[英] Show HN: Yagi DSP Modulation SIM",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html",
-    "title": "[英] How Do Cuttlefish Hide?",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
-    "title": "[英] Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-    "title": "[英] 900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://pulseos.finance",
-    "title": "[英] Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-    "date": "2026-10-14"
-  },
-  {
-    "link": "https://www.cphiri.dev/presentations/recreational-programming",
-    "title": "[英] Recreational Programming",
     "date": "2026-10-14"
   }
 ]
