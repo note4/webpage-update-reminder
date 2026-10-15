@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://ghuntley.com/remix/",
+    "title": "[英] A new model for open source: closed to pull requests, open to remix",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50067325",
+    "title": "[英] Ask HN: CAD for wood working with LLM support?",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+    "title": "[英] LFM2.5-24B-A2B: Built for fast on-device agents",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://github.com/enes-alatas/spool",
+    "title": "[英] How I manage persistent Claude Code loops: Spool",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://oxetene.net/problems-with-the-rust-language/",
+    "title": "[英] Problems with the Rust Language",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6",
+    "title": "[英] Anthropic revenue jumps to $16.8B in third quarter, claims profitable",
+    "date": "2026-10-15"
+  },
+  {
     "link": "https://tinylittleoffice.com/",
     "title": "[英] Tiny Little Office",
     "date": "2026-10-15"
@@ -35,43 +65,13 @@
     "date": "2026-10-15"
   },
   {
-    "link": "https://www.economist.com/business/2026/10/13/elon-musks-foundation-is-opaque-miserly-and-self-serving",
-    "title": "[英] Elon Musk's foundation is opaque, miserly and self-serving",
+    "link": "https://news.ycombinator.com/item?id=50094972",
+    "title": "[英] undefined",
     "date": "2026-10-15"
   },
   {
     "link": "https://sunshowers.io/posts/anthropic-mononoke/",
     "title": "[英] Anthropic's Scion is heavily inspired by Mononoke",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://blog.cloudflare.com/yandex-outage/",
-    "title": "[英] Yandex outage: data shows that instead of going dark, malicious bots moved",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50093913",
-    "title": "[英] undefined",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-    "title": "[英] Things to know when you get cancer – 2026 Edition",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://timurschess.com",
-    "title": "[英] Show HN: Timur's Chess – A 14th century chess variant with giraffes",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://nytpu.com/gemlog/2026-03-18",
-    "title": "[英] Fancy Curl Sites",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://www.dentaleconomics.com/macro-op-ed/industry-news/news/55341670/how-does-private-equity-ownership-really-affect-dental-practices",
-    "title": "[英] Private equity ownership affects dental practices",
     "date": "2026-10-15"
   }
 ]
