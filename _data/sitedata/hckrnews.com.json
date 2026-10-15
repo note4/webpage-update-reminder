@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://weli.dev/blog/the-cost-of-getting-a-job-today/",
+    "title": "[英] The cost of getting a job today",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+    "title": "[英] The First Social Network: In rural Argentina residents send messages w AM radio",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+    "title": "[英] AI was great until it was not",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://jackantico.io/garmin-mcp",
+    "title": "[英] Creating a Garmin \"MCP\"",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://github.com/awslabs/aidlc-workflows",
+    "title": "[英] Aidlc: Adaptive workflow steering rules for AI coding agents",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://indigene.app/",
+    "title": "[英] Show HN: Indigene – Native plants for where you stand",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+    "title": "[英] Wanted to download an ISO, ended up writing a kernel exploit",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://uji.sh/ito/",
+    "title": "[英] Show HN: Ito – Build Terminal UIs in Lua",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+    "title": "[英] Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
+    "title": "[英] David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://github.com/andunieee/flipflop",
+    "title": "[英] Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
+    "title": "[英] The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
+    "date": "2026-10-15"
+  },
+  {
+    "link": "https://www.elevationlab.com/blogs/news/an-apology",
+    "title": "[英] An Apology",
+    "date": "2026-10-15"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=50098454",
     "title": "[英] Show HN: My Terminal Themes Web App",
     "date": "2026-10-15"
@@ -7,71 +72,6 @@
   {
     "link": "https://kennedn.com/blog/posts/glitching/",
     "title": "[英] It took me nine years to hack my Xbox 360",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://hannahritchie.substack.com/p/how-old-are-leaders",
-    "title": "[英] One in ten people are older than 65. Three in four live under a leader who is",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://sijbrandijfoundation.org/fcct",
-    "title": "[英] Future of Cancer Care Today (FCCT)",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
-    "title": "[英] Donaldson Futuro House in Idyllwild, California, USA",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://capsem.org/",
-    "title": "[英] Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-    "title": "[英] The Double Headed Stack Allocator",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://catchabird.com",
-    "title": "[英] Catch a Bird – I made it for my own sanity",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive",
-    "title": "[英] Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://sebsite.pw/w/20261012-notstdc.html",
-    "title": "[英] Your C is not standard C",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://ghuntley.com/remix/",
-    "title": "[英] A new model for open source: closed to pull requests, open to remix",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50067325",
-    "title": "[英] Ask HN: CAD for wood working with LLM support?",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-    "title": "[英] LFM2.5-24B-A2B: Built for fast on-device agents",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://github.com/enes-alatas/spool",
-    "title": "[英] How I manage persistent Claude Code loops: Spool",
-    "date": "2026-10-15"
-  },
-  {
-    "link": "https://oxetene.net/problems-with-the-rust-language/",
-    "title": "[英] Problems with the Rust Language",
     "date": "2026-10-15"
   }
 ]
