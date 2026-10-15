@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+    "title": "[英] Bringing the magic: Google breaks open a bottleneck in quantum computing",
+    "date": "2026-10-16 02:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
+    "title": "[英] Check if a text message is a scam using Circle to Search.",
+    "date": "2026-10-16 01:30:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
+    "title": "[英] How we're helping the world prepare for natural disasters",
+    "date": "2026-10-16 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
+    "title": "[英] Android earthquake alerts now available in more than 200 regions",
+    "date": "2026-10-16 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
+    "title": "[英] 400 publications are now partnering with us on our News AI pilot program.",
+    "date": "2026-10-16 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
+    "title": "[英] More ways to connect with the web from Search",
+    "date": "2026-10-16 00:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/",
+    "title": "[英] Making your Pixel devices last longer through design, repair, and reuse",
+    "date": "2026-10-15 23:00:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
     "title": "[英] An intelligent new shopping cart",
     "date": "2026-10-15 21:00:00"
@@ -38,40 +73,5 @@
     "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/",
     "title": "[英] 17 organizations using AI to accelerate scientific breakthroughs",
     "date": "2026-10-14 17:30:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/",
-    "title": "[英] We’re powering European scientific discovery with advanced AI compute and frontier models.",
-    "date": "2026-10-14 16:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/",
-    "title": "[英] Enabling an AI-first European economy",
-    "date": "2026-10-14 15:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
-    "title": "[英] Developing Gemini 4 Argon responsibly and safely",
-    "date": "2026-10-14 02:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
-    "title": "[英] New on Google Play: More ways to create, discover, and play",
-    "date": "2026-10-14 01:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/",
-    "title": "[英] A new app experience is coming to cars with Google built-in",
-    "date": "2026-10-14 01:00:00"
-  },
-  {
-    "link": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
-    "title": "[英] Build your data strength with October’s Demand Gen drop.",
-    "date": "2026-10-14 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/indiana-energy-imact-program/",
-    "title": "[英] We're helping Indiana communities save with clean energy investments.",
-    "date": "2026-10-14 00:00:00"
   }
 ]
