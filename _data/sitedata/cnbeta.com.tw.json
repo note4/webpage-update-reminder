@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1582422.htm",
+    "title": "RTX 5090从NVIDIA官方商城下架 引发停产与新品接替猜测",
+    "date": "2026-10-16 04:05:23"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1582420.htm",
+    "title": "Google调整AI搜索呈现方式 强化链接展示以回应出版商流量担忧",
+    "date": "2026-10-16 03:48:20"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1582418.htm",
+    "title": "Google新闻AI试点计划扩容至400多家媒体 美国地方新闻机构加入合作",
+    "date": "2026-10-16 03:47:12"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1582416.htm",
+    "title": "英伟达与思科推出新一代高速光模块USFP 单通道速率达400Gbps",
+    "date": "2026-10-16 03:46:46"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1582414.htm",
+    "title": "以色列英特尔工厂爆炸致两名工人身亡 警方调查疑似气瓶故障",
+    "date": "2026-10-16 03:46:10"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1582412.htm",
+    "title": "沃尔沃扩大与英伟达合作 下一代车型将搭载新自动驾驶技术栈",
+    "date": "2026-10-16 03:41:37"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1582410.htm",
+    "title": "​苹果iPhone Duo将于明日开启预购 美国起售价1999美元",
+    "date": "2026-10-16 03:39:57"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1582408.htm",
+    "title": "丹麦推出可穿戴反无人机设备 单兵可在6公里外发现空中威胁",
+    "date": "2026-10-16 03:39:33"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1582406.htm",
+    "title": "Meta携手苹果将8160亿参数AI模型引入Mac Studio",
+    "date": "2026-10-16 03:37:07"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1582404.htm",
+    "title": "谷歌宣布突破量子计算核心资源瓶颈 Willow计算误差降低40倍",
+    "date": "2026-10-16 03:27:36"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/tech/1582402.htm",
     "title": "索尼更新高端Walkman产品线：三款新旗舰亮相 顶级型号售价高达5899美元",
     "date": "2026-10-16 00:28:27"
@@ -23,55 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/tech/1582394.htm",
     "title": "特朗普叫停尼达尔·哈桑死刑直播计划：执行仍按原定日期进行 遇难者直系亲属可现场观看",
     "date": "2026-10-15 23:46:46"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1582392.htm",
-    "title": "英伟达发布Nemotron 3.5系列模型 1200亿参数旗舰与轻量级边缘AI同步亮相",
-    "date": "2026-10-15 23:46:24"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1582390.htm",
-    "title": "美国第二大水源地鲍威尔湖水位跌至有记录以来最低点 科罗拉多河流域水资源危机加剧",
-    "date": "2026-10-15 23:44:36"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1582388.htm",
-    "title": "北极融化季节延长趋势意外停滞 科学家发现新变化信号",
-    "date": "2026-10-15 23:43:58"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1582386.htm",
-    "title": "微软重构Windows 11照片应用：全新界面上线 AI功能进一步增强",
-    "date": "2026-10-15 23:42:18"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1582384.htm",
-    "title": "苹果CEO特努斯早在2011年就参与了折叠设备专利探索",
-    "date": "2026-10-15 23:41:00"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1582382.htm",
-    "title": "苹果高管谈AI竞争：我们的目标不是取悦“狂热派”",
-    "date": "2026-10-15 23:40:04"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1582380.htm",
-    "title": "中子号火箭首飞推迟至2027年 火箭实验室股价大跌",
-    "date": "2026-10-15 23:37:05"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1582378.htm",
-    "title": "消息人士：乌克兰爱国者防空导弹已耗尽 抵御俄袭击能力下降",
-    "date": "2026-10-15 23:36:31"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1582376.htm",
-    "title": "巴克莱：特斯拉与SpaceX最快12月前宣布合并 马斯克或借此掌握新公司56%投票权",
-    "date": "2026-10-15 23:32:30"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1582374.htm",
-    "title": "德国计划与英伟达开展大规模合作 西门子、奥迪等12家企业参与",
-    "date": "2026-10-15 23:29:35"
   }
 ]
