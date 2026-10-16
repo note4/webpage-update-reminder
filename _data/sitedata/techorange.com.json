@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/10/16/amazon-personal-ai-bee-frontier-bee-eclipse/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "日常聊天也能變購物提醒？亞馬遜推 Bee 新 AI 裝置，串接 Alexa+ 與電商平台",
+    "date": "2026-10-16 12:52:44"
+  },
+  {
+    "link": "https://techorange.com/2026/10/16/meta-muse-spark-open-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Meta 推美最強開放模型 Muse Spark Open，8,160 億參數為何兩台 Mac 就能跑？",
+    "date": "2026-10-16 11:51:31"
+  },
+  {
+    "link": "https://techorange.com/2026/10/16/humanoid-ai-robot-companies-win/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "美國上百家人形機器人公司，機器人投資基金執行長為何只看好特斯拉、Figure AI 與 Apptronik？",
+    "date": "2026-10-16 09:35:12"
+  },
+  {
     "link": "https://techorange.com/2026/10/16/grok-voice-3-0-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Grok Voice 3.0 超車 OpenAI、Google，星鏈、特斯拉已如何應用語音 Agent？",
     "date": "2026-10-16 06:30:00"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/10/15/japan-us-chip-fabs-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】日本出資、美國持股！最高 210 億美元晶圓廠計畫出爐",
     "date": "2026-10-15 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/10/14/anthropic-self-replicating-ai-iot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 蠕蟲年底成形？Anthropic 示警小模型自我複製，外媒質疑實驗條件",
-    "date": "2026-10-14 18:15:13"
-  },
-  {
-    "link": "https://techorange.com/2026/10/14/meta-introducing-your-algorithm-facebook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Facebook 推「可以對話的演算法」：用 LLM 讓使用者描述喜好，推薦內容即時調整",
-    "date": "2026-10-14 16:31:56"
-  },
-  {
-    "link": "https://techorange.com/2026/10/14/deepseek-winverse-ai-robot-seed-round/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "繼宇樹之後再押機器人大腦，DeepSeek 傳領投前騰訊科學家新創 Winverse",
-    "date": "2026-10-14 15:51:08"
   }
 ]
