@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://danieltemkin.com/Esolangs/Olympus/",
+    "title": "[英] Olympus: Correcting the power dynamic of code (2024)",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://kashgar.com.au/blogs/history/the-bawdy-graffiti-of-pompeii-and-herculaneu",
+    "title": "[英] The Bawdy Graffiti of Pompeii and Herculaneum (2017)",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/",
+    "title": "[英] PGO or not PGO this is the dilemma. Step 2",
+    "date": "2026-10-17"
+  },
+  {
     "link": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
     "title": "[英] Why harnesses matter for energy (and token) efficiency",
     "date": "2026-10-17"
@@ -40,13 +55,13 @@
     "date": "2026-10-17"
   },
   {
-    "link": "https://stoke.money",
-    "title": "[英] Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+    "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+    "title": "[英] C++26: The New Debugging Header",
     "date": "2026-10-17"
   },
   {
-    "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-    "title": "[英] C++26: The New Debugging Header",
+    "link": "https://stoke.money",
+    "title": "[英] Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
     "date": "2026-10-17"
   },
   {
@@ -57,21 +72,6 @@
   {
     "link": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
     "title": "[英] Monte-Carlo Simulations",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-    "title": "[英] How the Claude Code team does code review",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://gifcities.org/",
-    "title": "[英] GifCities",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "title": "[英] Claude reveals ECDSA curve origins",
     "date": "2026-10-17"
   }
 ]

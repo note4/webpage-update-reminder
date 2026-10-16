@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/10/17/control-your-ai-costs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【企業 AI 成本報告】代理型 AI 與 AI 開發工具成本衝擊商業決策，建立「主動式財務防線」防範失控帳單",
+    "date": "2026-10-17 06:29:00"
+  },
+  {
     "link": "https://techorange.com/2026/10/16/keypasco-ai-agent-summit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "「AI Agent 也需要自己的身分證。」從持續驗證到責任歸屬，來毅數位攜手合作夥伴拆解信任治理關鍵",
     "date": "2026-10-16 18:12:34"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/10/15/cloudriches-microsoft-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "台灣微軟、雲馥數位從 KPI、成本到 Agent 治理談企業 AI 主權實戰",
     "date": "2026-10-15 14:07:16"
-  },
-  {
-    "link": "https://techorange.com/2026/10/15/anthropic-source-control-redesigning/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Anthropic 為何捨棄 Git？自研 Scion 揭 AI Agent 時代開發新瓶頸",
-    "date": "2026-10-15 12:52:55"
   }
 ]
