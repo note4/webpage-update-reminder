@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/10/16/keypasco-ai-agent-summit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "「AI Agent 也需要自己的身分證。」從持續驗證到責任歸屬，來毅數位攜手合作夥伴拆解信任治理關鍵",
+    "date": "2026-10-16 18:12:34"
+  },
+  {
+    "link": "https://techorange.com/2026/10/16/bank-of-america-contractors-patch-mythos-flaws/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 揪出的漏洞誰來補？美國銀行加派 1,000 名承包商，少見公開修補人力規模",
+    "date": "2026-10-16 17:47:12"
+  },
+  {
+    "link": "https://techorange.com/2026/10/16/tech-firms-metals-supply-anglo-wanblad/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "科技巨頭想當礦商股東？英美資源證實洽談入股，尋求保障 AI 資料中心金屬供應",
+    "date": "2026-10-16 17:24:45"
+  },
+  {
+    "link": "https://techorange.com/2026/10/16/neural-networks-already-clean-goodfire/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 黑盒子沒那麼黑？Goodfire 研究員：神經元「亂塞概念」可能是誤讀",
+    "date": "2026-10-16 14:39:03"
+  },
+  {
     "link": "https://techorange.com/2026/10/16/amazon-personal-ai-bee-frontier-bee-eclipse/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "日常聊天也能變購物提醒？亞馬遜推 Bee 新 AI 裝置，串接 Alexa+ 與電商平台",
     "date": "2026-10-16 12:52:44"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/10/15/anthropic-source-control-redesigning/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Anthropic 為何捨棄 Git？自研 Scion 揭 AI Agent 時代開發新瓶頸",
     "date": "2026-10-15 12:52:55"
-  },
-  {
-    "link": "https://techorange.com/2026/10/15/asml-ai-chip-demand-stretching-2030-expects-supply-shortages/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 需求延伸至 2030 年：客戶搶先洽談訂單，ASML 坦言擴產 30% 恐仍不夠",
-    "date": "2026-10-15 11:39:48"
-  },
-  {
-    "link": "https://techorange.com/2026/10/15/rogue-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【監控的 AI 也會被騙】專家警告惡意代理人可能騙過監控者，建議另加不靠 AI 的日誌與網路分析",
-    "date": "2026-10-15 10:07:26"
-  },
-  {
-    "link": "https://techorange.com/2026/10/15/rea-ai-agent-reverse-engineer-github/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "GitHub 爆紅的 REA 真能逆向任何軟體？從 51 件實作看 AI Agent 的能力與限制",
-    "date": "2026-10-15 06:33:00"
-  },
-  {
-    "link": "https://techorange.com/2026/10/15/japan-us-chip-fabs-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】日本出資、美國持股！最高 210 億美元晶圓廠計畫出爐",
-    "date": "2026-10-15 05:30:00"
   }
 ]
