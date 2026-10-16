@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.tesla.com/roadster",
+    "title": "[英] Tesla Roadster",
+    "date": "2026-10-16"
+  },
+  {
+    "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+    "title": "[英] Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+    "date": "2026-10-16"
+  },
+  {
+    "link": "https://svpow.com/2026/10/02/speculative-sauropods/",
+    "title": "[英] Speculative Sauropods",
+    "date": "2026-10-16"
+  },
+  {
+    "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+    "title": "[英] Rpki now protects 70% of internet routes",
+    "date": "2026-10-16"
+  },
+  {
+    "link": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+    "title": "[英] Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+    "date": "2026-10-16"
+  },
+  {
+    "link": "https://github.com/johnrash/bebox",
+    "title": "[英] BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+    "date": "2026-10-16"
+  },
+  {
+    "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+    "title": "[英] U.K. Sanctions Cryptomus for RU Money Laundering",
+    "date": "2026-10-16"
+  },
+  {
     "link": "https://opennet.ru/base/maillist/169.txt.html",
     "title": "[英] Major ICQ security hole (1998)",
     "date": "2026-10-16"
@@ -37,41 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=50109272",
     "title": "[英] undefined",
-    "date": "2026-10-16"
-  },
-  {
-    "link": "https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits",
-    "title": "[英] 2026 State of the Climate Report",
-    "date": "2026-10-16"
-  },
-  {
-    "link": "https://www.acollectedman.com/blogs/journal/rediscovering-travel-clocks",
-    "title": "[英] Rediscovering the Romance of Travel Clocks",
-    "date": "2026-10-16"
-  },
-  {
-    "link": "https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/",
-    "title": "[英] We are entering a period of overlapping crises",
-    "date": "2026-10-16"
-  },
-  {
-    "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-    "title": "[英] Someone on Torrent Sites Kept Fucking with My Sonarr",
-    "date": "2026-10-16"
-  },
-  {
-    "link": "https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/",
-    "title": "[英] The engineering that allows articulated buses to bend",
-    "date": "2026-10-16"
-  },
-  {
-    "link": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
-    "title": "[英] Why I Wrote PGP (1991, revised 1999)",
-    "date": "2026-10-16"
-  },
-  {
-    "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-    "title": "[英] E Ink Kaleido 4",
     "date": "2026-10-16"
   }
 ]
