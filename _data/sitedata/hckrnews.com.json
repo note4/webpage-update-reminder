@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.lf-lang.org/",
+    "title": "[英] Intuitive concurrent programming in any language",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://llmspeed.dev/",
+    "title": "[英] Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+    "title": "[英] Israeli settlers attack olive framers & Washington Post journalist in West Bank",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+    "title": "[英] 0/1 Knapsack Problem in PyTorch",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50127732",
+    "title": "[英] undefined",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges",
+    "title": "[英] Compiler bootstrapping depends on more than you might think",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
+    "title": "[英] \"In every study that considered the question\"",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
+    "title": "[英] California is building a $400M shield for Yosemite's most dangerous highway",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://fakeipedia.org",
+    "title": "[英] Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://www.paperinstruments.com/ultramarine",
+    "title": "[英] Ultramarine 1 Flash",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://www.themarysue.com/monty-python-holy-grail-coconuts/",
+    "title": "[英] Coconuts in Medieval Britain (2015)",
+    "date": "2026-10-17"
+  },
+  {
     "link": "https://www.paperinstruments.com/ultramarine",
     "title": "[英] Ultramarine 1 Flash: Frontier Model 100X Cheaper",
     "date": "2026-10-17"
@@ -17,61 +72,6 @@
   {
     "link": "https://www.flexport.com/company/careers/",
     "title": "[英] Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://leangineer.com/blog/realworld-in-lean/",
-    "title": "[英] I built the RealWorld app in Lean 4",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-    "title": "[英] Nine-Inch Snails",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://danieltemkin.com/Esolangs/Olympus/",
-    "title": "[英] Olympus: Correcting the power dynamic of code (2024)",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://kashgar.com.au/blogs/history/the-bawdy-graffiti-of-pompeii-and-herculaneu",
-    "title": "[英] The Bawdy Graffiti of Pompeii and Herculaneum (2017)",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/",
-    "title": "[英] PGO or not PGO this is the dilemma. Step 2",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
-    "title": "[英] Why harnesses matter for energy (and token) efficiency",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-    "title": "[英] Wireless magnetic millirobots that deliver medicine inside the beating heart",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
-    "title": "[英] I never authorized an integration that scans my secrets",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://ap29600.github.io/boolean_scans.html",
-    "title": "[英] Symmetries in Boolean Scan",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://alexwang.ai/posts/associative-memory/",
-    "title": "[英] You could have invented transformers from memory",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://bfl.ai/blog/flux-3-image-klein",
-    "title": "[英] FLUX 3 Image Klein",
     "date": "2026-10-17"
   }
 ]
