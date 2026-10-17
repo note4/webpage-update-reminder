@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://humanpro.co/articles/we-still-use-paper/",
+    "title": "[英] We Still Use Paper",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://github.com/CLoaKY233/siltop",
+    "title": "[英] Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module",
+    "title": "[英] Recipes Are Moving from Maven Central to the Code Genome Project",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+    "title": "[英] Is MCP becoming the common foundation of smart, decentralised search?",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
+    "title": "[英] \"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+    "title": "[英] DeepSeek: DeepSeek v4.1 Flash 1017",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50089577",
+    "title": "[英] Tell HN: Remember to migrate away from .name domain",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "title": "[英] DeepSeek-v4.1-Flash-1017",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://raymyers.org/post/math-dumped-openai/",
+    "title": "[英] Why Math Dumped OpenAI",
+    "date": "2026-10-17"
+  },
+  {
+    "link": "https://scrollprize.substack.com/p/50k-first-letters-prize-awarded-for",
+    "title": "[英] $50k First Letters Prize Awarded for PHerc 343",
+    "date": "2026-10-17"
+  },
+  {
     "link": "https://www.lf-lang.org/",
     "title": "[英] Intuitive concurrent programming in any language",
     "date": "2026-10-17"
@@ -22,56 +72,6 @@
   {
     "link": "https://news.ycombinator.com/item?id=50127732",
     "title": "[英] undefined",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges",
-    "title": "[英] Compiler bootstrapping depends on more than you might think",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
-    "title": "[英] \"In every study that considered the question\"",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
-    "title": "[英] California is building a $400M shield for Yosemite's most dangerous highway",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://fakeipedia.org",
-    "title": "[英] Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://www.paperinstruments.com/ultramarine",
-    "title": "[英] Ultramarine 1 Flash",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://www.themarysue.com/monty-python-holy-grail-coconuts/",
-    "title": "[英] Coconuts in Medieval Britain (2015)",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://www.paperinstruments.com/ultramarine",
-    "title": "[英] Ultramarine 1 Flash: Frontier Model 100X Cheaper",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-    "title": "[英] Butlerian Jihad",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://adamschaefers.com/blog/2026-10-13-a-week-on-the-farm/",
-    "title": "[英] A week on the farm with Dylan Araps",
-    "date": "2026-10-17"
-  },
-  {
-    "link": "https://www.flexport.com/company/careers/",
-    "title": "[英] Flexport Is Hiring a Biz Ops Leader in Office of CEO",
     "date": "2026-10-17"
   }
 ]
