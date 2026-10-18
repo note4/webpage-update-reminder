@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Hatching_(heraldry)",
+    "title": "[英] Hatching (Heraldry)",
+    "date": "2026-10-18"
+  },
+  {
+    "link": "https://www.visualcapitalist.com/cp/where-germanys-immigrants-come-from/",
+    "title": "[英] Germany's 17M Immigrants: Where They Come From",
+    "date": "2026-10-18"
+  },
+  {
+    "link": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
+    "title": "[英] A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
+    "date": "2026-10-18"
+  },
+  {
+    "link": "https://github.com/0x23/MicroManipulatorStepper",
+    "title": "[英] Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+    "date": "2026-10-18"
+  },
+  {
+    "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+    "title": "[英] Legal experts warn Meta's new terms still grant broad scraping permissions",
+    "date": "2026-10-18"
+  },
+  {
+    "link": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
+    "title": "[英] Lorenz and Little: How Much Does Your Tail Cost?",
+    "date": "2026-10-18"
+  },
+  {
+    "link": "https://www.anthropic.com/research/employment-at-anthropic",
+    "title": "[英] How employment is changing at Anthropic",
+    "date": "2026-10-18"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+    "title": "[英] Kids are outsmarting social media bans. That's not a problem we need to solve",
+    "date": "2026-10-18"
+  },
+  {
+    "link": "https://alinush.github.io//tee",
+    "title": "[英] It's time to talk about TEEs",
+    "date": "2026-10-18"
+  },
+  {
+    "link": "https://www.regexmarblerun.com/",
+    "title": "[英] Regex visualized as 3D marble run",
+    "date": "2026-10-18"
+  },
+  {
+    "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
+    "title": "[英] Parser Combinators",
+    "date": "2026-10-18"
+  },
+  {
     "link": "https://thebaffler.com/latest/go-piss-girl-wagner",
     "title": "[英] Go Piss, Girl: The plight of the public potty",
     "date": "2026-10-18"
@@ -17,61 +72,6 @@
   {
     "link": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
     "title": "[英] A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
-    "date": "2026-10-18"
-  },
-  {
-    "link": "https://api-docs.deepseek.com/guides/search/",
-    "title": "[英] DeepSeek search and fetch – $0.75 per 1000 successful requests",
-    "date": "2026-10-18"
-  },
-  {
-    "link": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
-    "title": "[英] Notes on the Complex Roots of Unity",
-    "date": "2026-10-18"
-  },
-  {
-    "link": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
-    "title": "[英] Fun Extending the C Preprocessor",
-    "date": "2026-10-18"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html",
-    "title": "[英] The Elizabeth Holmes Documentary, via the Eyes of the Reporter Who Exposed Her",
-    "date": "2026-10-18"
-  },
-  {
-    "link": "https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash",
-    "title": "[英] The game industry is broken – can we fix it?",
-    "date": "2026-10-18"
-  },
-  {
-    "link": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
-    "title": "[英] Matthew Prince on why Cloudflare offers a free version and always will (2016)",
-    "date": "2026-10-18"
-  },
-  {
-    "link": "https://tkgally.github.io/500-clocks/",
-    "title": "[英] Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
-    "date": "2026-10-18"
-  },
-  {
-    "link": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
-    "title": "[英] Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
-    "date": "2026-10-18"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50137826",
-    "title": "[英] undefined",
-    "date": "2026-10-18"
-  },
-  {
-    "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
-    "title": "[英] A Mole Infiltrated the Highest Ranks of American Militias (2025)",
-    "date": "2026-10-18"
-  },
-  {
-    "link": "https://sphinx-six-theta.vercel.app/",
-    "title": "[英] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
     "date": "2026-10-18"
   }
 ]
