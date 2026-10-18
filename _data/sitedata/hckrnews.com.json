@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://github.com/omnipty-terminal/omnipty",
+    "title": "[英] Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux",
+    "date": "2026-10-19"
+  },
+  {
+    "link": "https://github.com/finereli/whatsapp-mcp",
+    "title": "[英] Show HN: WhatsApp MCP running free on Cloudflare",
+    "date": "2026-10-19"
+  },
+  {
+    "link": "https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+    "title": "[英] They war-gamed dimming the Sun. It went worse than you think",
+    "date": "2026-10-19"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
+    "title": "[英] 16-bit fully functional DIY magnetic core memory",
+    "date": "2026-10-19"
+  },
+  {
+    "link": "https://github.com/Netflix/vmaf",
+    "title": "[英] Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+    "date": "2026-10-19"
+  },
+  {
     "link": "https://blog.picheta.me/post/killswitch-lang/",
     "title": "[英] I built a programming language that LLMs can't use",
     "date": "2026-10-19"
@@ -16,7 +41,7 @@
   },
   {
     "link": "https://arxiv.org/abs/2610.18861",
-    "title": "[英] Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference",
+    "title": "[英] Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
     "date": "2026-10-19"
   },
   {
@@ -47,31 +72,6 @@
   {
     "link": "https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868/",
     "title": "[英] Geographical Fun: Being Humourous Outlines of Various Countries (1868)",
-    "date": "2026-10-19"
-  },
-  {
-    "link": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
-    "title": "[英] Tiny Brutalism – Thanks to HN it's on Steam",
-    "date": "2026-10-19"
-  },
-  {
-    "link": "https://www.getlazarus.org/dynamic/",
-    "title": "[英] Free Pascal compiler now supports dynamic packages",
-    "date": "2026-10-19"
-  },
-  {
-    "link": "https://www.anthropic.com/news/public-benefit-fund",
-    "title": "[英] Investing in the public benefit",
-    "date": "2026-10-19"
-  },
-  {
-    "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
-    "title": "[英] Florida's HOAs and condo associations are making the housing crisis worse",
-    "date": "2026-10-19"
-  },
-  {
-    "link": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
-    "title": "[英] CFPB Opens Debanking Investigation into Nine Large National Banks",
     "date": "2026-10-19"
   }
 ]
