@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/10/19/ai-neocloud-shakeout-looms-nvidia-coreweave/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 雲端市場醞釀洗牌，NVIDIA 除了 GPU 訂單，還有哪些風險？",
+    "date": "2026-10-19 18:53:03"
+  },
+  {
+    "link": "https://techorange.com/2026/10/19/us-banks-block-ai-agents-moving-money/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "美國銀行、券商擋 AI 代理動用客戶資金：摩根大通、嘉信、花旗如何劃定界線？",
+    "date": "2026-10-19 17:54:03"
+  },
+  {
+    "link": "https://techorange.com/2026/10/19/ai-models-quantum-magic-state-cultivation-computing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "量子電腦最多 95% 資源得用來「備料」：Google 降低魔態錯誤率 40 倍，比特幣早期錢包風險受關注",
+    "date": "2026-10-19 17:00:17"
+  },
+  {
+    "link": "https://techorange.com/2026/10/19/qnap2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "QNAP《2026 台灣企業資安韌性大調查》：78% 企業已建立異地備份，但其中近七成仍處可被刪除的失守危機",
+    "date": "2026-10-19 14:52:31"
+  },
+  {
     "link": "https://techorange.com/2026/10/19/shanghai-humanoid-robots-factories/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "8,000 台人形機器人計畫進上海工廠，西門子：沒有工廠想當 AI 試錯場",
     "date": "2026-10-19 13:43:07"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/10/16/tech-firms-metals-supply-anglo-wanblad/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "科技巨頭想當礦商股東？英美資源證實洽談入股，尋求保障 AI 資料中心金屬供應",
     "date": "2026-10-16 17:24:45"
-  },
-  {
-    "link": "https://techorange.com/2026/10/16/neural-networks-already-clean-goodfire/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 黑盒子沒那麼黑？Goodfire 研究員：神經元「亂塞概念」可能是誤讀",
-    "date": "2026-10-16 14:39:03"
-  },
-  {
-    "link": "https://techorange.com/2026/10/16/amazon-personal-ai-bee-frontier-bee-eclipse/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "日常聊天也能變購物提醒？亞馬遜推 Bee 新 AI 裝置，串接 Alexa+ 與電商平台",
-    "date": "2026-10-16 12:52:44"
-  },
-  {
-    "link": "https://techorange.com/2026/10/16/meta-muse-spark-open-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Meta 推美最強開放模型 Muse Spark Open，8,160 億參數為何兩台 Mac 就能跑？",
-    "date": "2026-10-16 11:51:31"
-  },
-  {
-    "link": "https://techorange.com/2026/10/16/humanoid-ai-robot-companies-win/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "美國上百家人形機器人公司，機器人投資基金執行長為何只看好特斯拉、Figure AI 與 Apptronik？",
-    "date": "2026-10-16 09:35:12"
   }
 ]
