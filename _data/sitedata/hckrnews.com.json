@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.maddox.pro/?p=448",
+    "title": "[英] Laptop Based on 6502 CPU",
+    "date": "2026-10-19"
+  },
+  {
+    "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+    "title": "[英] What the heck is /pkg?",
+    "date": "2026-10-19"
+  },
+  {
+    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+    "title": "[英] If you don't run your own LLM proxy, how do you know whats going on?",
+    "date": "2026-10-19"
+  },
+  {
+    "link": "https://khalidhamadeh.com/writing/rc2-pi-table",
+    "title": "[英] How RC2's π table was made",
+    "date": "2026-10-19"
+  },
+  {
+    "link": "https://colo.to/cyberspace.html",
+    "title": "[英] William Gibson and the trademarking of cyberspace",
+    "date": "2026-10-19"
+  },
+  {
+    "link": "https://verdagon.dev/blog/reverse-borrow-checking",
+    "title": "[英] A new way to think about borrow checking (in reverse)",
+    "date": "2026-10-19"
+  },
+  {
+    "link": "https://unsung.aresluna.org/traditional-but-puzzling/",
+    "title": "[英] \"Traditional, but Puzzling\"",
+    "date": "2026-10-19"
+  },
+  {
     "link": "https://github.com/omnipty-terminal/omnipty",
     "title": "[英] Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux",
     "date": "2026-10-19"
@@ -37,41 +72,6 @@
   {
     "link": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
     "title": "[英] \"I'm on a war footing\": Terry Tao and the crisis in math",
-    "date": "2026-10-19"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.18861",
-    "title": "[英] Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "date": "2026-10-19"
-  },
-  {
-    "link": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
-    "title": "[英] One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
-    "date": "2026-10-19"
-  },
-  {
-    "link": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
-    "title": "[英] Developing for Debugging (2025)",
-    "date": "2026-10-19"
-  },
-  {
-    "link": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-    "title": "[英] Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-    "date": "2026-10-19"
-  },
-  {
-    "link": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa",
-    "title": "[英] US threatens Europe over Starlink restrictions",
-    "date": "2026-10-19"
-  },
-  {
-    "link": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
-    "title": "[英] Personal software factories are a waste of time",
-    "date": "2026-10-19"
-  },
-  {
-    "link": "https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868/",
-    "title": "[英] Geographical Fun: Being Humourous Outlines of Various Countries (1868)",
     "date": "2026-10-19"
   }
 ]
