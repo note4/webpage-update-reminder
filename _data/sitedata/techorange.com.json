@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/10/20/qnap-hdp-for-businessnas/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "QNAP 推出「HDP for Business」，NAS 升級為零信任勒索防禦備份中心",
+    "date": "2026-10-20 18:18:36"
+  },
+  {
+    "link": "https://techorange.com/2026/10/20/cybersecurity-jobs-report-ciso/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "美國資安職缺年減 8.4 萬筆，AI 資安工程師卻逆勢增 268%，人才需求如何轉變？",
+    "date": "2026-10-20 17:30:30"
+  },
+  {
+    "link": "https://techorange.com/2026/10/20/rock-tsai-open-source-sovereign-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "台廠也能打造自己的「CUDA 護城河」？開源基金會董事長蔡祈岩：開源如何提高硬體競爭力",
+    "date": "2026-10-20 16:19:42"
+  },
+  {
     "link": "https://techorange.com/2026/10/20/hacker-ai-agents-cairn-breaches/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "一名駭客靠 AI 代理攻破 100 多家企業網站，研究員估每次成功入侵約 50 美元",
     "date": "2026-10-20 13:36:27"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/10/19/qnap2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "QNAP《2026 台灣企業資安韌性大調查》：78% 企業已建立異地備份，但其中近七成仍處可被刪除的失守危機",
     "date": "2026-10-19 14:52:31"
-  },
-  {
-    "link": "https://techorange.com/2026/10/19/shanghai-humanoid-robots-factories/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "8,000 台人形機器人計畫進上海工廠，西門子：沒有工廠想當 AI 試錯場",
-    "date": "2026-10-19 13:43:07"
-  },
-  {
-    "link": "https://techorange.com/2026/10/19/qualcomm-physical-ai-dragonwingiq/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "打造通用型機器人  ：高通攜手生態系解鎖 Physical AI「手腦合一」新世代",
-    "date": "2026-10-19 11:59:52"
-  },
-  {
-    "link": "https://techorange.com/2026/10/19/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "三星 HBM 一條龍模式鬆動？傳接受 NVIDIA 要求，基底晶粒首度交由台積電 3 奈米生產",
-    "date": "2026-10-19 11:57:27"
   }
 ]
