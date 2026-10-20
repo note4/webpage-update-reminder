@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=zcWkApGjyGM",
+    "title": "[英] Making Solar Panels with a Microwave [video]",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://www.iranintl.com/en/202610207766",
+    "title": "[英] Third US aircraft carrier, 10k troops head to Middle East",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+    "title": "[英] Academics have a duty to defend open knowledge systems like Wikipedia",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
+    "title": "[英] Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+    "title": "[英] Meta's GB{2,3}00 Cluster",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://www.bolkunov.com/p/on-ai-writing",
+    "title": "[英] On AI writing",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://github.com/zolagonano/RawLink",
+    "title": "[英] Show HN: RawLink – Building a VPN protocol from scratch",
+    "date": "2026-10-21"
+  },
+  {
     "link": "https://rouler.io/",
     "title": "[英] Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces",
     "date": "2026-10-21"
@@ -37,41 +72,6 @@
   {
     "link": "https://openai.com/index/low-resource-programming-languages/",
     "title": "[英] Advanced coding in low-resource programming languages",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://archiveofourown.org/",
-    "title": "[英] Archive of Our Own",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://stevekrouse.com/ends",
-    "title": "[英] What shall I teach my son?",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://towardsdev.com/10-go-conventions-that-clicked-too-late-for-an-ai-engineer-78319f2d538f?sk=5858de12ec208931b984d8f55436a7a2",
-    "title": "[英] Go Conventions That Clicked Too Late for an AI Engineer",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-    "title": "[英] Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://sael.net/flatpack/",
-    "title": "[英] IKEA – 3D Guide",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
-    "title": "[英] JAXA is about to perform a Phobos sample return mission",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://github.com/google-pytorch/torch_tpu",
-    "title": "[英] Google open-sources TorchTPU, a native PyTorch back end for TPUs",
     "date": "2026-10-21"
   }
 ]
