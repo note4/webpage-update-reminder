@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://news.northwestern.edu/stories/2026/10/the-ovary-doesnt-retire-after-menopause?fj=1&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
+    "title": "[英] The ovary doesn't retire after menopause",
+    "date": "2026-10-20"
+  },
+  {
+    "link": "https://ipinfo.io/blog/france-fridges-hack",
+    "title": "[英] France's supermarket fridges were vulnerable online for months",
+    "date": "2026-10-20"
+  },
+  {
+    "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+    "title": "[英] “bonsoir, Elliot”: How abliterated models can get you pwned",
+    "date": "2026-10-20"
+  },
+  {
+    "link": "https://openrouter.ai/rankings",
+    "title": "[英] Token-maxxing is dead, OpenRouter's token usage plateaus",
+    "date": "2026-10-20"
+  },
+  {
+    "link": "https://www.globus.org/blog/gridftp-a-brief-history-of-fast-file-transfer",
+    "title": "[英] GridFTP: A Brief History of Fast File Transfer (2024)",
+    "date": "2026-10-20"
+  },
+  {
+    "link": "https://www.funwithcomputervision.com/weball/",
+    "title": "[英] Weball: Play Katamari on Websites",
+    "date": "2026-10-20"
+  },
+  {
     "link": "https://cakehonolulu.github.io/honey-i-shrunk-the-tv/",
     "title": "[英] Honey, I shrunk the TV",
     "date": "2026-10-20"
@@ -15,13 +45,13 @@
     "date": "2026-10-20"
   },
   {
-    "link": "https://lastwordonnothing.com/2026/10/19/my-neighbor-me-and-a-grand-principle/",
-    "title": "[英] My Neighbor, Me, and a Grand Principle",
+    "link": "https://sanketsaurav.com/writing/end-of-rationing",
+    "title": "[英] The End of Rationing",
     "date": "2026-10-20"
   },
   {
-    "link": "https://sanketsaurav.com/writing/end-of-rationing",
-    "title": "[英] The End of Rationing",
+    "link": "https://lastwordonnothing.com/2026/10/19/my-neighbor-me-and-a-grand-principle/",
+    "title": "[英] My Neighbor, Me, and a Grand Principle",
     "date": "2026-10-20"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://d2survivors.lol/",
     "title": "[英] Diablo 2 Survivors",
-    "date": "2026-10-20"
-  },
-  {
-    "link": "https://bsd.network/@brynet/117407035545900963",
-    "title": "[英] OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-    "date": "2026-10-20"
-  },
-  {
-    "link": "https://josie.lol/blog/linux-rtx-spark",
-    "title": "[英] Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-    "date": "2026-10-20"
-  },
-  {
-    "link": "https://blog.cloudflare.com/clairic-extraction-model/",
-    "title": "[英] Introducing Clairic, a new System One class of extraction models",
-    "date": "2026-10-20"
-  },
-  {
-    "link": "https://hexane.cc/",
-    "title": "[英] Germany's far-right AfD: half a million internal documents leaked",
-    "date": "2026-10-20"
-  },
-  {
-    "link": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
-    "title": "[英] Detecting model weight tampering in GPU memory (Rome attacks)",
-    "date": "2026-10-20"
-  },
-  {
-    "link": "https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/",
-    "title": "[英] Cloud of suspicion lifted from NIST curves",
     "date": "2026-10-20"
   }
 ]
