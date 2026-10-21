@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/10/22/spacex-tesla-merger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【科技早餐】SpaceX、特斯拉評估合併！潛在市值逾 3 兆美元",
+    "date": "2026-10-22 05:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/10/21/copyright-ai-anthropic-nicole-chan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 訓練使用正版書就合法？NCC 前主委詹婷怡解析 Anthropic 15 億美元著作權爭議",
     "date": "2026-10-21 18:35:57"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/10/20/dream-labs-seed-build-brain-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "號稱首個公開機器人基礎模型 API：NVIDIA 前研究員創 Dream Labs，獲 9,000 萬美元種子輪",
     "date": "2026-10-20 13:15:07"
-  },
-  {
-    "link": "https://techorange.com/2026/10/20/aws-amazon-torchneuron-nvidia-cuda/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 模型換晶片免重寫程式碼？亞馬遜推 TorchNeuron，挑戰 NVIDIA CUDA 優勢",
-    "date": "2026-10-20 12:18:42"
   }
 ]

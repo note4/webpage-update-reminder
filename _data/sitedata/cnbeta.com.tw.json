@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/game/1583278.htm",
+    "title": "EA关闭BioWare工作室 《质量效应》新作开发取消",
+    "date": "2026-10-22 06:26:47"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583276.htm",
+    "title": "特斯拉三季度资本支出远逊预期 马斯克推动的转型计划面临考验",
+    "date": "2026-10-22 06:25:30"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1583274.htm",
+    "title": "美航空航天局公布月球车最新研发进展及任务规划",
+    "date": "2026-10-22 06:25:11"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583272.htm",
+    "title": "Anthropic推出Claude Duet主动式AI代理 可后台处理任务并在关键操作前征求批准",
+    "date": "2026-10-22 05:06:55"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583270.htm",
+    "title": "Bose收购Skullcandy 瞄准年轻消费群体与更广泛市场",
+    "date": "2026-10-22 04:37:33"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1583268.htm",
+    "title": "EA启动大规模重组：裁员400人 《模拟人生》新项目被搁置",
+    "date": "2026-10-22 04:36:15"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/tech/1583266.htm",
     "title": "通用汽车公布未来技术路线图：AI加速研发、算力提升40倍、自动驾驶瞄准主力车型",
     "date": "2026-10-22 03:05:23"
@@ -43,35 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/tech/1583250.htm",
     "title": "英伟达发布DSX POD AI工厂现场部署最快从六个月缩短至14天",
     "date": "2026-10-21 22:46:56"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583248.htm",
-    "title": "欧盟议员警告：马斯克旗下SpaceX的扩张野心可能对欧洲构成“危险”",
-    "date": "2026-10-21 22:44:21"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583246.htm",
-    "title": "英伟达CEO黄仁勋：欧洲要想吃AI红利 全行业都该拥抱AI",
-    "date": "2026-10-21 22:42:45"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583244.htm",
-    "title": "Cloudflare提前部署PHP漏洞防护规则 但网站仍须尽快安装官方补丁",
-    "date": "2026-10-21 22:38:41"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583242.htm",
-    "title": "OpenAI宣布利用先进AI发现PHP严重漏洞 联合全球安全机构展开紧急修复行动",
-    "date": "2026-10-21 22:37:23"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583240.htm",
-    "title": "两项严重漏洞可导致服务器遭远程代码执行 PHP官方紧急发布安全补丁",
-    "date": "2026-10-21 22:36:00"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583238.htm",
-    "title": "PHP曝出严重安全漏洞 全球网站运营商紧急进入修补状态",
-    "date": "2026-10-21 19:52:37"
   }
 ]
