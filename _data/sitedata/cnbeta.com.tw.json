@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/game/1583252.htm",
+    "title": "经济学家估算《GTA6/侠盗猎车6》发售或致美国150万人缺勤",
+    "date": "2026-10-21 22:52:19"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583250.htm",
+    "title": "英伟达发布DSX POD AI工厂现场部署最快从六个月缩短至14天",
+    "date": "2026-10-21 22:46:56"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583248.htm",
+    "title": "欧盟议员警告：马斯克旗下SpaceX的扩张野心可能对欧洲构成“危险”",
+    "date": "2026-10-21 22:44:21"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583246.htm",
+    "title": "英伟达CEO黄仁勋：欧洲要想吃AI红利 全行业都该拥抱AI",
+    "date": "2026-10-21 22:42:45"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583244.htm",
+    "title": "Cloudflare提前部署PHP漏洞防护规则 但网站仍须尽快安装官方补丁",
+    "date": "2026-10-21 22:38:41"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583242.htm",
+    "title": "OpenAI宣布利用先进AI发现PHP严重漏洞 联合全球安全机构展开紧急修复行动",
+    "date": "2026-10-21 22:37:23"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583240.htm",
+    "title": "两项严重漏洞可导致服务器遭远程代码执行 PHP官方紧急发布安全补丁",
+    "date": "2026-10-21 22:36:00"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583238.htm",
+    "title": "PHP曝出严重安全漏洞 全球网站运营商紧急进入修补状态",
+    "date": "2026-10-21 19:52:37"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583236.htm",
+    "title": "富士康加码美国AI布局 斥资逾5400万美元扩展硅谷生产基地",
+    "date": "2026-10-21 19:35:26"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583234.htm",
+    "title": "美光与台湾台中工会达成劳资协议 桃园厂工会罢工计划仍存变数",
+    "date": "2026-10-21 19:35:04"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583232.htm",
+    "title": "亚特兰大拟禁止“机器警察”上岗 市议会一致支持限制武装机器人",
+    "date": "2026-10-21 19:31:20"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583230.htm",
+    "title": "SK海力士加速部署iHBM技术 新一代HBM散热能力提升30%",
+    "date": "2026-10-21 19:27:41"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1583228.htm",
+    "title": "联合国环境署报告：全球升温或突破1.5℃门槛 但大幅减排仍有望扭转趋势",
+    "date": "2026-10-21 19:20:30"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583226.htm",
+    "title": "美国法官要求Meta披露批准通过BitTorrent下载盗版书库的员工",
+    "date": "2026-10-21 19:13:58"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/tech/1583224.htm",
     "title": "Synaptics推出Astra SR200边缘AI处理器 最高400 GOPS并集成Google Coral NPU",
     "date": "2026-10-21 17:12:44"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583222.htm",
-    "title": "苹果CEO约翰·特努斯谈“好设计”：用户体验优先 设计与工程密不可分",
-    "date": "2026-10-21 16:41:32"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583220.htm",
-    "title": "特斯拉Roadster电池曝光：10分钟补能70%",
-    "date": "2026-10-21 16:00:27"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583218.htm",
-    "title": "马斯克称X等社交平台上负面信息过多：“显得有些阴暗”",
-    "date": "2026-10-21 16:00:03"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583216.htm",
-    "title": "英伟达旗下Groq下一代LPU架构转向3D堆叠DRAM 瞄准更大模型时代的容量需求",
-    "date": "2026-10-21 15:55:14"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583214.htm",
-    "title": "DeepSeek把自家“印钞机”开源了 这才是真的OpenAI",
-    "date": "2026-10-21 15:26:13"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583212.htm",
-    "title": "腾讯港股股价跌破400港元 逼近一年来最低",
-    "date": "2026-10-21 15:25:44"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1583210.htm",
-    "title": "多家私募评估超千亿美元收购微软Xbox业务",
-    "date": "2026-10-21 15:25:27"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583208.htm",
-    "title": "问界回应车辆起火事故",
-    "date": "2026-10-21 15:22:25"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583206.htm",
-    "title": "千年日本传统食品走向全球 纳豆因长寿与健康研究再受关注",
-    "date": "2026-10-21 14:15:39"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1583204.htm",
-    "title": "迈阿密现《GTA6》线下广告 大量双关标语吸人眼球",
-    "date": "2026-10-21 14:14:29"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583202.htm",
-    "title": "FSR 4.1将登陆Xbox 而FSR钻石将登陆下一代Xbox主机Project Helix",
-    "date": "2026-10-21 14:14:09"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1583200.htm",
-    "title": "曝PS6零部件成本或比新Xbox主机低约200美元",
-    "date": "2026-10-21 14:14:00"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583198.htm",
-    "title": "Anthropic招股书透露大量信息：营收暴增却巨亏 算力成掣肘",
-    "date": "2026-10-21 14:11:09"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583196.htm",
-    "title": "Claude狂算64小时首次设计出抗蝎毒蛋白 已过实测",
-    "date": "2026-10-21 14:10:03"
   }
 ]
