@@ -10,6 +10,11 @@
     "date": "2026-10-21 21:00:00"
   },
   {
+    "link": "https://blog.google/waze/waze-the-cat-in-the-hat/",
+    "title": "[英] Drive with “The Cat in the Hat” on Waze.",
+    "date": "2026-10-21 19:39:00"
+  },
+  {
     "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
     "title": "[英] Southeast Asia’s digital economy to hit $368 billion",
     "date": "2026-10-21 12:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
     "title": "[英] Bringing the magic: Google breaks open a bottleneck in quantum computing",
     "date": "2026-10-16 02:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
-    "title": "[英] Check if a text message is a scam using Circle to Search.",
-    "date": "2026-10-16 01:30:00"
   }
 ]
