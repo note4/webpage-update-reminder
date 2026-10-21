@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/10/21/delta-diaems/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "金屬加工大廠明昌國際攜手台達加速數位轉型，導入設備管理系統 DIAEMS",
+    "date": "2026-10-21 12:48:01"
+  },
+  {
+    "link": "https://techorange.com/2026/10/21/unifying-edge-ai-coral-npus-open-standard-brings-portable-energy-viable-intelligence-model-silicon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Google 免授權費 Coral NPU 擴大商用：新思國際推最高 400 GOPS 晶片瞄準智慧眼鏡",
+    "date": "2026-10-21 12:41:00"
+  },
+  {
+    "link": "https://techorange.com/2026/10/21/deepseek-deepinfer-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "DeepSeek 把 AI 推論框架開源了！揭露單一叢集日處理 155 兆 Tokens 的系統設計",
+    "date": "2026-10-21 11:40:40"
+  },
+  {
+    "link": "https://techorange.com/2026/10/21/how-to-implement-ai-agents-singapore/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "新加坡政府如何因應 AI 代理風險：沿用現行法規、讓政府機關先試驗",
+    "date": "2026-10-21 10:34:36"
+  },
+  {
     "link": "https://techorange.com/2026/10/21/nvidia-germany-industrial-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】德國攜 NVIDIA 推工業 AI，黃仁勳：下一波是實體 AI",
     "date": "2026-10-21 05:30:00"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/10/20/etsy-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "手作電商 Etsy 為逾 70% 買家建立 AI 顧客檔案，個人化推薦如何協助平台重返成長？",
     "date": "2026-10-20 08:43:22"
-  },
-  {
-    "link": "https://techorange.com/2026/10/20/microsoft-nscale-ai-data-center-power/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】微軟傳退出英國 AI 資料中心案，電網供電恐等到 2030 年代",
-    "date": "2026-10-20 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/10/19/ai-neocloud-shakeout-looms-nvidia-coreweave/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 雲端市場醞釀洗牌，NVIDIA 除了 GPU 訂單，還有哪些風險？",
-    "date": "2026-10-19 18:53:03"
-  },
-  {
-    "link": "https://techorange.com/2026/10/19/us-banks-block-ai-agents-moving-money/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "美國銀行、券商擋 AI 代理動用客戶資金：摩根大通、嘉信、花旗如何劃定界線？",
-    "date": "2026-10-19 17:54:03"
-  },
-  {
-    "link": "https://techorange.com/2026/10/19/ai-models-quantum-magic-state-cultivation-computing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "量子電腦最多 95% 資源得用來「備料」：Google 降低魔態錯誤率 40 倍，比特幣早期錢包風險受關注",
-    "date": "2026-10-19 17:00:17"
   }
 ]
