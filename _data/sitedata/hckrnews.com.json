@@ -1,12 +1,42 @@
 [
   {
+    "link": "https://www.microagi.ai/",
+    "title": "[英] Microagi: Accelerating Embodied AGI",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://gamowlabs.com/lab-robot-bench-v0-1",
+    "title": "[英] LabRobotBench v0.1: Benchmarking wet lab robotics",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://dovepass.com",
+    "title": "[英] Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://www.thebeliever.net/the-other-epidemic/",
+    "title": "[英] The Other Epidemic: Trying to get off benzodiazepines",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://www.nature.com/articles/s41377-024-01478-2",
+    "title": "[英] Silicon-photonics-enabled chip-based 3D printer (2024)",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+    "title": "[英] Feds suspect ransom negotiator ran ShinyHunters extortion site",
+    "date": "2026-10-21"
+  },
+  {
     "link": "https://www.youtube.com/watch?v=zcWkApGjyGM",
     "title": "[英] Making Solar Panels with a Microwave [video]",
     "date": "2026-10-21"
   },
   {
-    "link": "https://www.iranintl.com/en/202610207766",
-    "title": "[英] Third US aircraft carrier, 10k troops head to Middle East",
+    "link": "https://news.ycombinator.com/item?id=50172809",
+    "title": "[英] undefined",
     "date": "2026-10-21"
   },
   {
@@ -42,36 +72,6 @@
   {
     "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
     "title": "[英] Claude designed protein binders against scorpion neurotoxins",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
-    "title": "[英] Jepsen: Orkes Conductor 5.3.2",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-    "title": "[英] SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://permit.petercai.com/",
-    "title": "[英] SimCity, but with Permits",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://research.poh.org/bot-benchmarking-2026/",
-    "title": "[英] Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-    "title": "[英] Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://openai.com/index/low-resource-programming-languages/",
-    "title": "[英] Advanced coding in low-resource programming languages",
     "date": "2026-10-21"
   }
 ]
