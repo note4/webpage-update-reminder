@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.pagetable.com/303",
+    "title": "[英] Way to Play Super Mario 64: On Apple Vision Pro",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+    "title": "[英] The 1.5°C goal of the Paris Agreement is no longer viable",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+    "title": "[英] Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
+    "title": "[英] Bonanza of new dates rewrites the history of the Inca",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://maevyn.codes/decoherence",
+    "title": "[英] The Decoherence Trap",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
+    "title": "[英] Composite objects and C++26 the std:polymorphic type",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://github.com/zion-sati/NetWasm",
+    "title": "[英] C# now beats Rust on WASM size",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://alterauth.com/",
+    "title": "[英] Launch HN: Alter (YC S25) – Access control for multi-user agents",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://saasisdead.si/",
+    "title": "[英] SaaS Is Dead",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://www.basis.ai/blog/ship-your-interpreters/",
+    "title": "[英] Ship Your Interpreter",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead",
+    "title": "[英] Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%",
+    "date": "2026-10-21"
+  },
+  {
+    "link": "https://www.anthropic.com/research/attack-surface-reduction",
+    "title": "[英] Using Claude to reduce the attack surface of code",
+    "date": "2026-10-21"
+  },
+  {
     "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
     "title": "[英] Setting Up SSH Keys on macOS with Touch ID",
     "date": "2026-10-21"
@@ -11,67 +71,7 @@
   },
   {
     "link": "https://jackalsyn.com/posts/php-up-2026.html",
-    "title": "[英] Major PHP Vulnerability Leaked",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://github.com/xamrayev/nexus-cli",
-    "title": "[英] Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://www.pillowfort.social/posts/8413273",
-    "title": "[英] Pillowfort Is Closing",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://beyondloom.com/blog/fouryearsdecker.html",
-    "title": "[英] Four Years with Decker",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-    "title": "[英] Muse exposes users' personal and business secrets when they share conversations",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://antelang.org/blog/safe_cyclic_mutability/",
-    "title": "[英] Borrow Checking Zero-Cost Cyclic Mutability",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
-    "title": "[英] ZX Spectrum Next Laptop",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://fulcrumsec.vg/pingcap/",
-    "title": "[英] PingCap TiDB Leaks",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-    "title": "[英] In Hilbert space, all things are quantumly possible",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://www.joshwcomeau.com/css/interop-2027/",
-    "title": "[英] The Future of CSS",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
-    "title": "[英] To Make, or to Buy: The Economics of Decision Models",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/",
-    "title": "[英] GitHub package firewall",
-    "date": "2026-10-21"
-  },
-  {
-    "link": "https://git.cafe/pingdotgg/t3code",
-    "title": "[英] T3 Code now synced between GitHub and GitCafe",
+    "title": "[英] PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)",
     "date": "2026-10-21"
   }
 ]
