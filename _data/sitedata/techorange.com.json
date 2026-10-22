@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/10/22/php-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "PHP 多年未解的漏洞為何現在才緊急修補？歐洲政府、醫院預防性停站，台灣資安署示警",
+    "date": "2026-10-22 12:45:37"
+  },
+  {
+    "link": "https://techorange.com/2026/10/22/anthropic-claude-duet-proactive-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Anthropic 推主動式 AI 代理 Claude Duet：查發票、備薪資，付款簽約先問你",
+    "date": "2026-10-22 12:12:17"
+  },
+  {
+    "link": "https://techorange.com/2026/10/22/fight-ai-scams/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "不必專職資安團隊，專家列出中小企業現在就能做的低成本防詐做法",
+    "date": "2026-10-22 10:05:20"
+  },
+  {
     "link": "https://techorange.com/2026/10/22/spacex-tesla-merger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】SpaceX、特斯拉評估合併！潛在市值逾 3 兆美元",
     "date": "2026-10-22 05:30:00"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/10/20/cybersecurity-jobs-report-ciso/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "美國資安職缺年減 8.4 萬筆，AI 資安工程師卻逆勢增 268%，人才需求如何轉變？",
     "date": "2026-10-20 17:30:30"
-  },
-  {
-    "link": "https://techorange.com/2026/10/20/rock-tsai-open-source-sovereign-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "台廠也能打造自己的「CUDA 護城河」？開源基金會董事長蔡祈岩：開源如何提高硬體競爭力",
-    "date": "2026-10-20 16:19:42"
-  },
-  {
-    "link": "https://techorange.com/2026/10/20/hacker-ai-agents-cairn-breaches/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "一名駭客靠 AI 代理攻破 100 多家企業網站，研究員估每次成功入侵約 50 美元",
-    "date": "2026-10-20 13:36:27"
-  },
-  {
-    "link": "https://techorange.com/2026/10/20/dream-labs-seed-build-brain-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "號稱首個公開機器人基礎模型 API：NVIDIA 前研究員創 Dream Labs，獲 9,000 萬美元種子輪",
-    "date": "2026-10-20 13:15:07"
   }
 ]

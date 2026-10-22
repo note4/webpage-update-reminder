@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/intl/zh-tw/products/cloud/google_cloud_brings_openai_models_to_customers/",
+    "title": "Google Cloud 擴大模型選擇與彈性：正式為企業客戶帶來 OpenAI 模型",
+    "date": "2026-10-22 17:00:00"
+  },
+  {
     "link": "https://blog.google/intl/zh-tw/company-news/technology/android-mobile-scam-protection/",
     "title": "Android 全新防詐機制阻擋行動詐騙",
     "date": "2026-10-20 17:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/intl/zh-tw/products/devices-services/pixel-11-series/",
     "title": "全新 Pixel 11 系列手機正式在台登場",
     "date": "2026-08-13 20:00:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/youtube-partner-program-update/",
-    "title": "YouTube 合作夥伴計畫全新收益管道與異動",
-    "date": "2026-08-11 07:00:00"
   }
 ]
