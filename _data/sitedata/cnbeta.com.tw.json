@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/science/1583438.htm",
+    "title": "英国启动太空垃圾清理计划 将移除两颗报废卫星",
+    "date": "2026-10-23 02:57:32"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583436.htm",
+    "title": "The Browser Company宣布Arc浏览器停运 全面押注AI新品Dia",
+    "date": "2026-10-23 02:55:44"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/movie/1583434.htm",
+    "title": "索尼日本停产最后一款独立4K蓝光机 普通蓝光播放器仍在售",
+    "date": "2026-10-23 02:54:49"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583432.htm",
+    "title": "微软推出AI医疗诊断系统 复杂病例准确率达83%",
+    "date": "2026-10-23 02:54:20"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1583430.htm",
+    "title": "Valve员工首次公开提及“HLX” 《半条命3》传闻再起",
+    "date": "2026-10-23 02:51:06"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583428.htm",
+    "title": "前OpenAI科学负责人创办Warp Sciences 融资2.15亿美元打造机器人药物实验室",
+    "date": "2026-10-23 02:50:35"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583426.htm",
+    "title": "微软警告企业AI智能体不能被盲目信任：必须让安全机制独立于AI",
+    "date": "2026-10-23 02:50:09"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/movie/1583424.htm",
+    "title": "马斯克据报向天空之舞投资10亿美元 为新媒体巨头提供资金支持",
+    "date": "2026-10-23 02:49:34"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583422.htm",
+    "title": "交友软件砸近万元仍加不上联系方式 记者实测：充值6元只够聊9分钟",
+    "date": "2026-10-23 02:46:34"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583420.htm",
+    "title": "美国IPO市场陷入“瘫痪” Anthropic被寄望打破僵局",
+    "date": "2026-10-23 00:35:47"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583418.htm",
+    "title": "PHP漏洞危机进入第二天：黑客攻击激增至百万次 多国政府服务仍处于中断状态",
+    "date": "2026-10-23 00:35:11"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583416.htm",
+    "title": "微软关闭创新项目“The Garage” 17年内部孵化平台走向终结",
+    "date": "2026-10-23 00:15:01"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583414.htm",
+    "title": "特朗普称曾考虑将大西洋改名 Google CEO皮查伊劝其放弃",
+    "date": "2026-10-23 00:14:41"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/tech/1583412.htm",
     "title": "iPhone Duo开售前全球果粉排队抢购 供应紧张或让多数人空手而归",
     "date": "2026-10-22 23:12:27"
@@ -8,70 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/tech/1583410.htm",
     "title": "报道称五角大楼设立技术支持办公室TSO 为秘密破坏行动研发工具",
     "date": "2026-10-22 22:24:21"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583408.htm",
-    "title": "Anthropic推出Claude Duet代理应用 主打主动处理专业工作",
-    "date": "2026-10-22 22:21:02"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583406.htm",
-    "title": "1Password推出AI智能体密码授权功能：让AI登录账户却不必知道用户密码",
-    "date": "2026-10-22 22:20:07"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583404.htm",
-    "title": "苹果为折叠屏 iPhone Duo 推出专属应用认证标识",
-    "date": "2026-10-22 22:18:41"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583402.htm",
-    "title": "云南发现巨型真菌“D-rex” 子实体高达50厘米 重达2.2公斤",
-    "date": "2026-10-22 22:17:33"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583400.htm",
-    "title": "Cloudflare已监测到数百万次针对PHP漏洞的攻击 建议开发者尽快升级",
-    "date": "2026-10-22 22:11:24"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583398.htm",
-    "title": "法国发现全球首例沙门达病毒感染人类病例",
-    "date": "2026-10-22 21:04:27"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583396.htm",
-    "title": "全球运维忙坏了，AI把互联网埋了14年的雷挖出来了",
-    "date": "2026-10-22 21:03:44"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583394.htm",
-    "title": "美国农机巨头AGCO 将于2027年引入人形机器人 强调旨在协助而非取代工人",
-    "date": "2026-10-22 20:43:27"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583392.htm",
-    "title": "三星将HBM基底芯片与2纳米工艺结合 或为高通提供台积电之外的新选择",
-    "date": "2026-10-22 20:42:49"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1583390.htm",
-    "title": "任天堂Switch 2首次被成功破解 首个越狱方案打开自制软件与游戏模组大门",
-    "date": "2026-10-22 20:40:53"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583388.htm",
-    "title": "比尔·盖茨曾称Ctrl+Alt+Del是个错误 那Windows为何至今仍保留这一组合键？",
-    "date": "2026-10-22 20:38:07"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583386.htm",
-    "title": "AMD复活锐龙7 5800X3D源于苏姿丰提议 AM4平台将继续获得支持至2029年",
-    "date": "2026-10-22 20:36:24"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583384.htm",
-    "title": "科学家为细胞“发电厂”披上智能外衣 线粒体疾病治疗研究迎来新突破",
-    "date": "2026-10-22 20:35:33"
   }
 ]
