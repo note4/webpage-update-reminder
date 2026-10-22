@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+    "title": "[英] Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+    "date": "2026-10-22"
+  },
+  {
+    "link": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+    "title": "[英] Achieving AI-style reasoning without an LLM",
+    "date": "2026-10-22"
+  },
+  {
+    "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+    "title": "[英] The Robot I Didn't Expect to Build",
+    "date": "2026-10-22"
+  },
+  {
+    "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+    "title": "[英] CVE-2026-111943: Compromised Intermediate Certificate Authority",
+    "date": "2026-10-22"
+  },
+  {
+    "link": "https://ego-lite.apposters.com",
+    "title": "[英] Show HN: The fastest browser for AI agents to run browser automation",
+    "date": "2026-10-22"
+  },
+  {
+    "link": "https://blog.ganets.ky/ClangGenericLambdas/",
+    "title": "[英] I can't use generic lambdas at compile-time, now what?",
+    "date": "2026-10-22"
+  },
+  {
+    "link": "https://joshuamorris.info/notes/2026/10/13/a-markdown-file-should-just-open/",
+    "title": "[英] A Markdown File Should Just Open",
+    "date": "2026-10-22"
+  },
+  {
+    "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+    "title": "[英] Claude Now Works with Google Docs, Sheets, and Slides",
+    "date": "2026-10-22"
+  },
+  {
+    "link": "https://github.com/vllm-project/vllm-torchtpu",
+    "title": "[英] PyTorch-native TPU back end for vLLM",
+    "date": "2026-10-22"
+  },
+  {
+    "link": "https://github.com/openai/openai-cli",
+    "title": "[英] OpenAI CLI",
+    "date": "2026-10-22"
+  },
+  {
     "link": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
     "title": "[英] What Is the Karakoram Anomaly?",
     "date": "2026-10-22"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.jhiblog.org/2026/10/19/clockwork-metaphors/",
     "title": "[英] Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
-    "date": "2026-10-22"
-  },
-  {
-    "link": "https://kairos-experiment.com/distinguish.html",
-    "title": "[英] Show HN: Can you tell an AI's real 30-day memory from a fabricated one?",
-    "date": "2026-10-22"
-  },
-  {
-    "link": "https://playgroundarcade.com/",
-    "title": "[英] Show HN: AI-built browser games, collected in one place",
-    "date": "2026-10-22"
-  },
-  {
-    "link": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
-    "title": "[英] Postgres recovery_prefetch can cause outages",
-    "date": "2026-10-22"
-  },
-  {
-    "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-    "title": "[英] Using LLM for confidence scoring is a bad idea",
-    "date": "2026-10-22"
-  },
-  {
-    "link": "https://wuemeli.com/blog/reversing-hitster-game/",
-    "title": "[英] I reverse engineered a board game",
-    "date": "2026-10-22"
-  },
-  {
-    "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-    "title": "[英] The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-    "date": "2026-10-22"
-  },
-  {
-    "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-    "title": "[英] Epic Games Inc v Apple Inc",
-    "date": "2026-10-22"
-  },
-  {
-    "link": "https://olivergrabner.com/research/pokemon/",
-    "title": "[英] LLM agents play Pokemon showdown",
-    "date": "2026-10-22"
-  },
-  {
-    "link": "https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned",
-    "title": "[英] The era of speedball capitalism",
-    "date": "2026-10-22"
-  },
-  {
-    "link": "https://lwn.net/Articles/1096028/",
-    "title": "[英] Beyond the &",
     "date": "2026-10-22"
   }
 ]
