@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/",
+    "title": "[英] Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://train.samismith.com/",
+    "title": "[英] Railpass",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50200997",
+    "title": "[英] Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://creilly11235.github.io/wood-cryptogram-1950/",
+    "title": "[英] Solving the 1950 cipher meant to test life after death",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes",
+    "title": "[英] Arc is being sunset on December 22, 2026",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50193416",
+    "title": "[英] Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
+    "title": "[英] A complete bypass of eMudhra’s 1FA OTP login system",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://chenglou.me/handwired/",
+    "title": "[英] Show HN: Turn regular JavaScript into a neural net",
+    "date": "2026-10-23"
+  },
+  {
     "link": "https://3d.camilleworld.com/play/",
     "title": "[英] Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
     "date": "2026-10-23"
@@ -26,52 +66,12 @@
   },
   {
     "link": "https://jamesyu.org/award-winning-ai-literature/",
-    "title": "[英] Award-Winning AI Literature",
+    "title": "[英] Award-winning AI literature",
     "date": "2026-10-23"
   },
   {
     "link": "https://juleflet.dk/en/",
     "title": "[英] Templates for Woven Christmas Hearts",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
-    "title": "[英] Mini brain organoids 'reading' Braille key step towards biohybrid computing",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://github.com/rbartoli/agent-usage-guard",
-    "title": "[英] Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://github.com/NVIDIA/OpenShell",
-    "title": "[英] Nvidia OpenShell",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-    "title": "[英] AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://intenex.github.io/personhood/",
-    "title": "[英] The public notebook of a Claude agent with a continuous life",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-    "title": "[英] Every AI model has the same \"controversial\" take on humans",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://arc.net/",
-    "title": "[英] A farewell to Arc browser",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://www.taler.net/en/news/2026-13.html",
-    "title": "[英] Getting ready to operate GNU Taler in Germany",
     "date": "2026-10-23"
   }
 ]
