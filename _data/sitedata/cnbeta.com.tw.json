@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/game/1583468.htm",
+    "title": "美国9月Xbox Series销量同比下降27% 创品牌同期新低",
+    "date": "2026-10-23 06:54:59"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583466.htm",
+    "title": "OpenAI CEO奥特曼：数学家已从“我们完了”转向接受AI",
+    "date": "2026-10-23 06:52:35"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583464.htm",
+    "title": "OpenAI接近完成最高300亿美元融资 投前估值达1.25万亿美元",
+    "date": "2026-10-23 06:52:11"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583462.htm",
+    "title": "特朗普要求马斯克取消在乌克兰对星链的限制",
+    "date": "2026-10-23 06:51:30"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583460.htm",
+    "title": "微软计划借助AI让原生WinUI应用开发变得更简单",
+    "date": "2026-10-23 06:50:53"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1583458.htm",
+    "title": "SpaceX据悉洽谈租用全美8万个通信基站 拟打造美国第四大全国性移动运营商",
+    "date": "2026-10-23 06:28:30"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583456.htm",
+    "title": "iPhone Duo在澳大利亚和新西兰开售 首批预购用户开始收货",
+    "date": "2026-10-23 06:27:15"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583454.htm",
+    "title": "微软发布修复补丁 Windows 11音频故障导致部分游戏和应用崩溃问题获解决",
+    "date": "2026-10-23 06:26:37"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583452.htm",
+    "title": "全球PC出货量第三季度暴跌逾两成 AI数据中心争抢内存推高电脑价格",
+    "date": "2026-10-23 06:24:11"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583450.htm",
+    "title": "英特尔Fab 62开始安装设备 目标在2028年底前投入运营",
+    "date": "2026-10-23 06:23:15"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1583448.htm",
+    "title": "研究发现价值10英镑的胶带防洪效果或优于沙袋",
+    "date": "2026-10-23 06:20:57"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/tech/1583446.htm",
     "title": "Fedora 45再次延期发布 最早或于11月初推出",
     "date": "2026-10-23 06:19:14"
@@ -18,60 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/tech/1583440.htm",
     "title": "微软低调测试全新AI记忆工具Pantheon Windows 11迎来非截屏版Recall",
     "date": "2026-10-23 03:29:29"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583438.htm",
-    "title": "英国启动太空垃圾清理计划 将移除两颗报废卫星",
-    "date": "2026-10-23 02:57:32"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583436.htm",
-    "title": "The Browser Company宣布Arc浏览器停运 全面押注AI新品Dia",
-    "date": "2026-10-23 02:55:44"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/movie/1583434.htm",
-    "title": "索尼日本停产最后一款独立4K蓝光机 普通蓝光播放器仍在售",
-    "date": "2026-10-23 02:54:49"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583432.htm",
-    "title": "微软推出AI医疗诊断系统 复杂病例准确率达83%",
-    "date": "2026-10-23 02:54:20"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1583430.htm",
-    "title": "Valve员工首次公开提及“HLX” 《半条命3》传闻再起",
-    "date": "2026-10-23 02:51:06"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583428.htm",
-    "title": "前OpenAI科学负责人创办Warp Sciences 融资2.15亿美元打造机器人药物实验室",
-    "date": "2026-10-23 02:50:35"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583426.htm",
-    "title": "微软警告企业AI智能体不能被盲目信任：必须让安全机制独立于AI",
-    "date": "2026-10-23 02:50:09"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/movie/1583424.htm",
-    "title": "马斯克据报向天空之舞投资10亿美元 为新媒体巨头提供资金支持",
-    "date": "2026-10-23 02:49:34"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583422.htm",
-    "title": "交友软件砸近万元仍加不上联系方式 记者实测：充值6元只够聊9分钟",
-    "date": "2026-10-23 02:46:34"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583420.htm",
-    "title": "美国IPO市场陷入“瘫痪” Anthropic被寄望打破僵局",
-    "date": "2026-10-23 00:35:47"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583418.htm",
-    "title": "PHP漏洞危机进入第二天：黑客攻击激增至百万次 多国政府服务仍处于中断状态",
-    "date": "2026-10-23 00:35:11"
   }
 ]

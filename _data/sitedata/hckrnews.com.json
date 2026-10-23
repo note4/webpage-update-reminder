@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://names.color.pizza",
+    "title": "[英] Color Names",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+    "title": "[英] AI compute is the new oil–and needs a new market",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "title": "[英] Docker Is Weird",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+    "title": "[英] Mapping the Northern Sky",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://www.anthropic.com/research/formal-verification",
+    "title": "[英] LLMs are making formal software verification feasible at a much larger scale",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://www.asimov.press/p/flowers",
+    "title": "[英] How to Design Flowers",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+    "title": "[英] Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://evans.bike/naicons",
+    "title": "[英] Show HN: An icon for every city in North America",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://lethain.com/small-changes/",
+    "title": "[英] Speeding up code review with `small-change`",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+    "title": "[英] Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+    "date": "2026-10-23"
+  },
+  {
     "link": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/",
     "title": "[英] Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
     "date": "2026-10-23"
@@ -22,56 +72,6 @@
   {
     "link": "https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes",
     "title": "[英] Arc is being sunset on December 22, 2026",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50193416",
-    "title": "[英] Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
-    "title": "[英] A complete bypass of eMudhra’s 1FA OTP login system",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://chenglou.me/handwired/",
-    "title": "[英] Show HN: Turn regular JavaScript into a neural net",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://3d.camilleworld.com/play/",
-    "title": "[英] Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://firstformoney.com/united-airlines-ceo-calls-for-national-wealth-tax-inheritance-tax-i-would-pay-them/",
-    "title": "[英] United Airlines CEO Calls for National Wealth Tax",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://www.typeui.sh/micro-interactions",
-    "title": "[英] Show HN: UI micro interactions prompts for AI",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-    "title": "[英] Hedra is a 3D open world game I wrote from scratch while in highschool",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.27251",
-    "title": "[英] AI and the Enclosure of the Scientific Commons",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://jamesyu.org/award-winning-ai-literature/",
-    "title": "[英] Award-winning AI literature",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://juleflet.dk/en/",
-    "title": "[英] Templates for Woven Christmas Hearts",
     "date": "2026-10-23"
   }
 ]
