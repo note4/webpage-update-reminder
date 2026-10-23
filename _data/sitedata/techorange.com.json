@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/10/23/fcc-grants-intel-waiver-foreign-made-robotic-devices/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "美國限制外國機器人反傷本土市場？IDC 估人形機器人 2030 年營收較預期少 58%",
+    "date": "2026-10-23 16:28:17"
+  },
+  {
+    "link": "https://techorange.com/2026/10/23/huawei-deepseek-ascend/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "華為與 DeepSeek 聯手挑戰 NVIDIA，SemiAnalysis 實測：軟體接近前沿、硬體仍落後",
+    "date": "2026-10-23 15:57:25"
+  },
+  {
+    "link": "https://techorange.com/2026/10/23/1password-for-agents-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI Agent 遇到登入畫面就卡關？1Password 推免交密碼新機制，串接 Meta、OpenAI",
+    "date": "2026-10-23 13:20:32"
+  },
+  {
     "link": "https://techorange.com/2026/10/23/hugging-face-bio-carbon-x-dna/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Hugging Face 推出開源模型 Carbon-X：DNA 基準測試逼近 GPT-6.1 Sol、成本估僅 1/1,800",
     "date": "2026-10-23 12:36:15"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/10/22/fight-ai-scams/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "不必專職資安團隊，專家列出中小企業現在就能做的低成本防詐做法",
     "date": "2026-10-22 10:05:20"
-  },
-  {
-    "link": "https://techorange.com/2026/10/22/spacex-tesla-merger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】SpaceX、特斯拉評估合併！潛在市值逾 3 兆美元",
-    "date": "2026-10-22 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/10/21/copyright-ai-anthropic-nicole-chan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 訓練使用正版書就合法？NCC 前主委詹婷怡解析 Anthropic 15 億美元著作權爭議",
-    "date": "2026-10-21 18:35:57"
-  },
-  {
-    "link": "https://techorange.com/2026/10/21/mastercard-agent-pay-for-machines/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "萬事達卡示範 AI 代理自己買數位服務：企業核准一筆預算，付款 9 次免開帳戶",
-    "date": "2026-10-21 17:48:43"
   }
 ]
