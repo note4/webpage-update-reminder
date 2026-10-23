@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583478.htm",
+    "title": "美国民众对人工智能日益悲观：57%认为AI不利于社会 72%反对在社区建设新数据中心",
+    "date": "2026-10-23 13:22:04"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1583476.htm",
+    "title": "边开车边思考 “毅力号”刷新太空行驶纪录",
+    "date": "2026-10-23 13:19:50"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583474.htm",
+    "title": "曝出惊人丑闻后 eMudhra 退出全球SSL/TLS证书业务",
+    "date": "2026-10-23 13:17:35"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1583472.htm",
+    "title": "Capcom发生重大数据泄露 超1170万个卡普空ID账户受影响",
+    "date": "2026-10-23 13:02:33"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583470.htm",
+    "title": "趋势科技不慎将多个未修复的Linux Kernel漏洞公开 疑似发邮件时出现操作失误",
+    "date": "2026-10-23 13:01:18"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/game/1583468.htm",
     "title": "美国9月Xbox Series销量同比下降27% 创品牌同期新低",
     "date": "2026-10-23 06:54:59"
@@ -48,30 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/tech/1583450.htm",
     "title": "英特尔Fab 62开始安装设备 目标在2028年底前投入运营",
     "date": "2026-10-23 06:23:15"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583448.htm",
-    "title": "研究发现价值10英镑的胶带防洪效果或优于沙袋",
-    "date": "2026-10-23 06:20:57"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583446.htm",
-    "title": "Fedora 45再次延期发布 最早或于11月初推出",
-    "date": "2026-10-23 06:19:14"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583444.htm",
-    "title": "科学家首次演示用激光制造的可调长度天线 有望用于卫星通信",
-    "date": "2026-10-23 06:18:37"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583442.htm",
-    "title": "苹果据称将iPhone Duo产量目标上调44% 首款折叠屏手机需求超预期",
-    "date": "2026-10-23 06:16:04"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583440.htm",
-    "title": "微软低调测试全新AI记忆工具Pantheon Windows 11迎来非截屏版Recall",
-    "date": "2026-10-23 03:29:29"
   }
 ]

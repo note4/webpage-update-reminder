@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://newsletter.kentbeck.com/p/take-my-toil-leave-me-my-struggle",
+    "title": "[英] Take my toil, leave me my struggle",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50204125",
+    "title": "[英] Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://www.awakin.org/v2/read/view.php?tid=468",
+    "title": "[英] This I Believe",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep",
+    "title": "[英] Why My Asus Laptop Kept Rebooting After Sleep and How to Fix It",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
+    "title": "[英] Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://jank-lang.org/",
+    "title": "[英] Jank – The native Clojure dialect with seamless C++ interop",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+    "title": "[英] The Secret Life of Circuits is now in stock everywhere",
+    "date": "2026-10-23"
+  },
+  {
+    "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+    "title": "[英] The foolishness of \"natural language programming\" (1978)",
+    "date": "2026-10-23"
+  },
+  {
     "link": "https://names.color.pizza",
     "title": "[英] Color Names",
     "date": "2026-10-23"
@@ -11,7 +51,7 @@
   },
   {
     "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-    "title": "[英] Docker Is Weird",
+    "title": "[英] Docker is weird",
     "date": "2026-10-23"
   },
   {
@@ -32,46 +72,6 @@
   {
     "link": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
     "title": "[英] Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://evans.bike/naicons",
-    "title": "[英] Show HN: An icon for every city in North America",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://lethain.com/small-changes/",
-    "title": "[英] Speeding up code review with `small-change`",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
-    "title": "[英] Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/",
-    "title": "[英] Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://train.samismith.com/",
-    "title": "[英] Railpass",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50200997",
-    "title": "[英] Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://creilly11235.github.io/wood-cryptogram-1950/",
-    "title": "[英] Solving the 1950 cipher meant to test life after death",
-    "date": "2026-10-23"
-  },
-  {
-    "link": "https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes",
-    "title": "[英] Arc is being sunset on December 22, 2026",
     "date": "2026-10-23"
   }
 ]
