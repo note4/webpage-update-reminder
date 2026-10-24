@@ -1,7 +1,52 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+    "title": "[英] One Man's Pan Am 747 Replica [video]",
+    "date": "2026-10-24"
+  },
+  {
+    "link": "https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026",
+    "title": "[英] The Anger Machine (Joan Kirner Social Justice Oration 2026)",
+    "date": "2026-10-24"
+  },
+  {
+    "link": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
+    "title": "[英] The Quake Fan who built the map editor everybody uses",
+    "date": "2026-10-24"
+  },
+  {
+    "link": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+    "title": "[英] The past, present, and future share a show floor at Pinball Expo 2026",
+    "date": "2026-10-24"
+  },
+  {
+    "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+    "title": "[英] Twelve years of distributed SQLite",
+    "date": "2026-10-24"
+  },
+  {
+    "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+    "title": "[英] Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+    "date": "2026-10-24"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+    "title": "[英] Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax",
+    "date": "2026-10-24"
+  },
+  {
+    "link": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+    "title": "[英] C vs. C#: racing VLC's Gaussian blur",
+    "date": "2026-10-24"
+  },
+  {
+    "link": "https://astral.sh/blog/uv-ty-integration",
+    "title": "[英] Bringing uv and ty together",
+    "date": "2026-10-24"
+  },
+  {
     "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-    "title": "[英] Evolving Threat: http2shell is an RCE in node, Python, and more",
+    "title": "[英] Evolving Threat: http2shell is an RCE in Node, Python, and more",
     "date": "2026-10-24"
   },
   {
@@ -27,51 +72,6 @@
   {
     "link": "https://johnsnow.rtwilson.com/",
     "title": "[英] John Snow Cholera Data",
-    "date": "2026-10-24"
-  },
-  {
-    "link": "https://www.computerworld.com/article/4239858/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more.html",
-    "title": "[英] Google will pay people to use less electricity so its data centers can use more",
-    "date": "2026-10-24"
-  },
-  {
-    "link": "https://cve.0xosprey.com/",
-    "title": "[英] CVE Tracker",
-    "date": "2026-10-24"
-  },
-  {
-    "link": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
-    "title": "[英] A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
-    "date": "2026-10-24"
-  },
-  {
-    "link": "https://queue.acm.org/doi/10.1145/945131.945155",
-    "title": "[英] No Source Code? No Problem",
-    "date": "2026-10-24"
-  },
-  {
-    "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-    "title": "[英] A whirlwind tour of systemd-nspawn containers",
-    "date": "2026-10-24"
-  },
-  {
-    "link": "https://rune.build/blog/rune-1-3-release",
-    "title": "[英] Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
-    "date": "2026-10-24"
-  },
-  {
-    "link": "https://altchan.org/sh/42",
-    "title": "[英] DNS: A Replacement for Finger",
-    "date": "2026-10-24"
-  },
-  {
-    "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-    "title": "[英] Securing our frontier model training environment",
-    "date": "2026-10-24"
-  },
-  {
-    "link": "https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left",
-    "title": "[英] Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left",
     "date": "2026-10-24"
   }
 ]
