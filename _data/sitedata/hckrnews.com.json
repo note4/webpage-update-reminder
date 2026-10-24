@@ -1,5 +1,50 @@
 [
   {
+    "link": "http://www.paritybit.ca/blog/free-software-is-an-abject-failure/",
+    "title": "[英] Free Software Is a Failure",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+    "title": "[英] I Built a Stereo Vision Board for Hardware Hackers",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://thomasunise.com/argus",
+    "title": "[英] Argus – a free, open-source agentic security operations platform – MIT",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://ratfactor.com/cards/limitations",
+    "title": "[英] The Importance of Limitations for Creativity and Learning",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://ratfactor.com/cards/pl-small",
+    "title": "[英] Small Programs and Languages",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://danluu.com/ambitious/",
+    "title": "[英] We should be more ambitious with the software we build",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://bbtree.xiangpeng.systems/post/",
+    "title": "[英] Bbtree: Fastest Ordered Map",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/",
+    "title": "[英] Forecasting Financial Markets with Timestral",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://www.apalrd.net/posts/2026/ent_luks/",
+    "title": "[英] Full Disk Encryption on Fedora with TPM2",
+    "date": "2026-10-25"
+  },
+  {
     "link": "https://railsatscale.com/2026-10-21-rails-is-a-jit-compiler/",
     "title": "[英] Rails Is a JIT Compiler",
     "date": "2026-10-25"
@@ -11,7 +56,7 @@
   },
   {
     "link": "https://stealmybitcoin.com/",
-    "title": "[英] Steal My Bitcoin",
+    "title": "[英] Show HN: Steal My Bitcoin",
     "date": "2026-10-25"
   },
   {
@@ -26,52 +71,7 @@
   },
   {
     "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-    "title": "[英] No Signs of AI Payoff Outside the Tech Sector",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://aardappel.github.io/goose/",
-    "title": "[英] The Goose Programming Language",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
-    "title": "[英] John Carmack on the Goose Language: multiple data stacks and relative references",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.29162",
-    "title": "[英] Why is AI generated language so hard to understand?",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
-    "title": "[英] PHP Foundation 'under-funded' with one full-time staff member, director says",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://sourceforge.net/projects/zac-os-9/",
-    "title": "[英] Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://dreamlabs.ai/research/dream-1/",
-    "title": "[英] Dream-1",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-    "title": "[英] Danish Government silently drops plan to dump MS Office",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-    "title": "[英] Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://www.southampton.ac.uk/~doug/relativity/index.html",
-    "title": "[英] I Do Understand Relativity",
+    "title": "[英] No signs of AI payoff outside the tech sector",
     "date": "2026-10-25"
   }
 ]
