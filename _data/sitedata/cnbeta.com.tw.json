@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583706.htm",
+    "title": "苹果首款折叠屏 iPhone Duo 拆解视频：磨砂膜揭开后折痕更明显",
+    "date": "2026-10-25 00:02:49"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583704.htm",
+    "title": "YouTube博主掰断iPhone Duo引发讨论 苹果门店尚未出现大规模屏幕损坏潮",
+    "date": "2026-10-25 00:01:40"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1583702.htm",
+    "title": "巨头蚂蚁挑战生物学经典规律：超大头部为何没有拖垮身体？",
+    "date": "2026-10-24 23:59:00"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1583700.htm",
+    "title": "科学家发现猫与主人存在意想不到的生理联系 与催产素水平相关",
+    "date": "2026-10-24 23:56:33"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1583698.htm",
+    "title": "研究发现奶牛能够识别人类个体 不只是“认人”那么简单",
+    "date": "2026-10-24 22:34:39"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583696.htm",
+    "title": "AI热潮遭遇电力瓶颈：亚马逊大量英伟达GPU到货后暂时闲置",
+    "date": "2026-10-24 22:33:52"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1583694.htm",
+    "title": "新型“人工树叶”实现海水制氢与净化污染物同步进行",
+    "date": "2026-10-24 22:31:52"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1583692.htm",
+    "title": "消息称《GTA6》评测禁令将在发售前一天解除",
+    "date": "2026-10-24 22:23:45"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1583690.htm",
+    "title": "开源工具gpu-unlock解除RTX 30系限制 部分计算性能提升近80%",
+    "date": "2026-10-24 22:23:36"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583688.htm",
+    "title": "英伟达RTX80系列、AMD RDNA7曝光 泄露路线图却漏洞百出",
+    "date": "2026-10-24 22:19:27"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583686.htm",
+    "title": "安克、耐克、盒马等企微账号发涉黄链接 企业微信：第三方外挂软件服务被攻破，将持续排查和清理外挂软件",
+    "date": "2026-10-24 21:54:32"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/game/1583684.htm",
     "title": "雅达利终止2021款VCS支持 推出自制应用供玩家拓展游戏",
     "date": "2026-10-24 18:43:04"
@@ -18,60 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/tech/1583678.htm",
     "title": "企微账号发涉黄链接 企业微信：某第三方外挂软件服务被攻破",
     "date": "2026-10-24 15:17:40"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583676.htm",
-    "title": "BAE系统测试多弹齐射反无人机方案 重型四旋翼无人机可连续拦截多个空中目标",
-    "date": "2026-10-24 14:58:25"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583674.htm",
-    "title": "宇树机器人侧空翻表演甩断腿 系新发布的H2-X人形机器人",
-    "date": "2026-10-24 14:23:45"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1583672.htm",
-    "title": "Epic总裁批评Steam强制AI披露 称逼开发者写政治声明遭恶意利用",
-    "date": "2026-10-24 14:22:28"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1583670.htm",
-    "title": "《塞尔达传说：时之笛》重制版新片展示三座神殿与多场首领战",
-    "date": "2026-10-24 14:22:08"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1583668.htm",
-    "title": "《塞尔达：时之笛》设计师原设娜薇为可爱少女 受N64机能限制才改成发光小球",
-    "date": "2026-10-24 14:20:39"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583666.htm",
-    "title": "“炼金术”成真 美国一公司宣布成功将汞转化成黄金",
-    "date": "2026-10-24 14:18:34"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583664.htm",
-    "title": "NASA加快推进月球基地建设 计划2028年实现载人登月",
-    "date": "2026-10-24 14:17:27"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583662.htm",
-    "title": "全球手机销量暴跌：存储成本增长300% 厂商卖不动是必然",
-    "date": "2026-10-24 14:17:06"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583660.htm",
-    "title": "捡漏有风险 网购5950X竟收到十年前速龙X4 卖家还死不承认",
-    "date": "2026-10-24 14:16:06"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583658.htm",
-    "title": "月之暗面发布Kimi K3.1 Pro：3万亿参数、100万上下文",
-    "date": "2026-10-24 14:15:44"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583656.htm",
-    "title": "交警有了新绝活 路上的龟速车得小心了",
-    "date": "2026-10-24 14:11:52"
   }
 ]
