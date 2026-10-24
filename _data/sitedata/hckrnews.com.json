@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://dreamlabs.ai/research/dream-1/",
+    "title": "[英] Dream-1",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+    "title": "[英] Danish Government silently drops plan to dump MS Office",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+    "title": "[英] Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://www.southampton.ac.uk/~doug/relativity/index.html",
+    "title": "[英] I Do Understand Relativity",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://github.com/astroautomata/PySR",
+    "title": "[英] Symbolic Learning in Python and Julia",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+    "title": "[英] Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50223295",
+    "title": "[英] undefined",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://github.com/thomasunise/argus",
+    "title": "[英] Show HN: Argus- open source security platform to protect against agentic attacks",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947",
+    "title": "[英] Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs'",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+    "title": "[英] Cecilia Berdichevsky, Clementina expert (1961)",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://de.numista.com/9866",
+    "title": "[英] The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+    "date": "2026-10-25"
+  },
+  {
     "link": "https://blog.roku.com/developer/gitlab-move",
     "title": "[英] Roku developer repositories moved from GitHub to GitLab",
     "date": "2026-10-25"
@@ -17,61 +72,6 @@
   {
     "link": "https://freedns.afraid.org/",
     "title": "[英] FreeDNS",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://github.com/mottopanikeiku/doomformer",
-    "title": "[英] I built a neural network using DOOM games",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
-    "title": "[英] Google illegally cut down 250K trees in Finland for data center",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://github.com/Zagitta/gpu-unlock",
-    "title": "[英] GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
-    "title": "[英] One Must Fall 2097 Remastered",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
-    "title": "[英] TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
-    "title": "[英] Elon Musk Just Gave Europe a Reason to Replace American Technology",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
-    "title": "[英] Tiling Noise – Procedural GPU Patterns",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50220540",
-    "title": "[英] undefined",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
-    "title": "[英] Appreciating the beauty of all your body's scars and scratches",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
-    "title": "[英] Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-    "title": "[英] AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
     "date": "2026-10-25"
   }
 ]
