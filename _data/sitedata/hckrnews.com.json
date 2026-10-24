@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://railsatscale.com/2026-10-21-rails-is-a-jit-compiler/",
+    "title": "[英] Rails Is a JIT Compiler",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://www.speedcrunch.org/",
+    "title": "[英] SpeedCrunch 1.1",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://stealmybitcoin.com/",
+    "title": "[英] Steal My Bitcoin",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50189693",
+    "title": "[英] undefined",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://missileer.watch",
+    "title": "[英] Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "title": "[英] No Signs of AI Payoff Outside the Tech Sector",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://aardappel.github.io/goose/",
+    "title": "[英] The Goose Programming Language",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+    "title": "[英] John Carmack on the Goose Language: multiple data stacks and relative references",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.29162",
+    "title": "[英] Why is AI generated language so hard to understand?",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+    "title": "[英] PHP Foundation 'under-funded' with one full-time staff member, director says",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://sourceforge.net/projects/zac-os-9/",
+    "title": "[英] Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
+    "date": "2026-10-25"
+  },
+  {
     "link": "https://dreamlabs.ai/research/dream-1/",
     "title": "[英] Dream-1",
     "date": "2026-10-25"
@@ -11,67 +66,12 @@
   },
   {
     "link": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-    "title": "[英] Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
+    "title": "[英] Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
     "date": "2026-10-25"
   },
   {
     "link": "https://www.southampton.ac.uk/~doug/relativity/index.html",
     "title": "[英] I Do Understand Relativity",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://github.com/astroautomata/PySR",
-    "title": "[英] Symbolic Learning in Python and Julia",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-    "title": "[英] Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50223295",
-    "title": "[英] undefined",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://github.com/thomasunise/argus",
-    "title": "[英] Show HN: Argus- open source security platform to protect against agentic attacks",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947",
-    "title": "[英] Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs'",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
-    "title": "[英] Cecilia Berdichevsky, Clementina expert (1961)",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://de.numista.com/9866",
-    "title": "[英] The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://blog.roku.com/developer/gitlab-move",
-    "title": "[英] Roku developer repositories moved from GitHub to GitLab",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-    "title": "[英] Neural chip decodes interactions between brain regions",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://github.com/AmadeusITGroup/Edison",
-    "title": "[英] Parsing EDIFACT in Python with syntax trees",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://freedns.afraid.org/",
-    "title": "[英] FreeDNS",
     "date": "2026-10-25"
   }
 ]
