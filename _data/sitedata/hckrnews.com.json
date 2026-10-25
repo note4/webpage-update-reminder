@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://rec98.nmlgc.net/blog/2026-10-05",
+    "title": "[英] Reverse engineer of PC-98 Touhou games retires",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://twitter.com/mike64_t/status/2114150399406202896",
+    "title": "[英] Samsung running a TensorFlow lite model on 960x540 image to track you",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+    "title": "[英] France asked ISPs to prepare temporary DNS blocks for major social platforms",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+    "title": "[英] Nikon photography contest winner loses title after scientists spot signs of AI",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://bmjopen.bmj.com/content/16/10/e111050",
+    "title": "[英] Cannabis legalisation and cardiovascular hospitalisations in the USA",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50228988",
+    "title": "[英] undefined",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+    "title": "[英] Online censorship is crushing indie webcomics",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+    "title": "[英] Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://boringsql.com/posts/tablesample/",
+    "title": "[英] Tablesample Picks Rows",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+    "title": "[英] Rewriting a Commercial Engine in Jai",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50229059",
+    "title": "[英] undefined",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+    "title": "[英] How Japanese Dried Bonito Is Made",
+    "date": "2026-10-25"
+  },
+  {
     "link": "https://github.com/sanxchep/licasa",
     "title": "[英] Picasa Photo Viewer Rebuilt for Linux, Project Named Licasa",
     "date": "2026-10-25"
@@ -12,66 +72,6 @@
   {
     "link": "https://github.com/slee-persis/GVS5H",
     "title": "[英] Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://pragtical.dev/blog/pragtical-v3140-release",
-    "title": "[英] Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
-    "title": "[英] Attention people who think UB is fine",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
-    "title": "[英] Xbox Turns Down Netflix $500M Offer",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://hitogata.neocities.org/Rainbows",
-    "title": "[英] In Rainbows",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
-    "title": "[英] Meta employees say Lula’s accounts restricted in Brazil election: Report",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-    "title": "[英] Cerebras Deploys Trillion-Parameter AI Models",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
-    "title": "[英] A story of a Figma bug that wasn't a bug at all (2021)",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films",
-    "title": "[英] \"Musk\" Documentary Pulled from Almost Every One of 472 Theaters After One Week",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50227131",
-    "title": "[英] Ask HN: Why a Great Product Won't Succeed Without a Community",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://tailworm.com/",
-    "title": "[英] Tailworm – Tailscale Vulnerabilities",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://xingjianbai.com/reactive-optimizers/",
-    "title": "[英] Reactive Optimizers: rewrite the optimizer's source code during training",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://codeberg.org/Misom/FindMyWeb",
-    "title": "[英] FindMyWeb: Apple Find My, reverse enginiered",
     "date": "2026-10-25"
   }
 ]
