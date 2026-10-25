@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://github.com/sanxchep/licasa",
+    "title": "[英] Picasa Photo Viewer Rebuilt for Linux, Project Named Licasa",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://arxiv.org/abs/1208.5205",
+    "title": "[英] Monoidal computer I: Basic computability by string diagrams (2012)",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://github.com/slee-persis/GVS5H",
+    "title": "[英] Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://pragtical.dev/blog/pragtical-v3140-release",
+    "title": "[英] Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+    "title": "[英] Attention people who think UB is fine",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+    "title": "[英] Xbox Turns Down Netflix $500M Offer",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://hitogata.neocities.org/Rainbows",
+    "title": "[英] In Rainbows",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+    "title": "[英] Meta employees say Lula’s accounts restricted in Brazil election: Report",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "title": "[英] Cerebras Deploys Trillion-Parameter AI Models",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+    "title": "[英] A story of a Figma bug that wasn't a bug at all (2021)",
+    "date": "2026-10-25"
+  },
+  {
+    "link": "https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films",
+    "title": "[英] \"Musk\" Documentary Pulled from Almost Every One of 472 Theaters After One Week",
+    "date": "2026-10-25"
+  },
+  {
     "link": "https://news.ycombinator.com/item?id=50227131",
     "title": "[英] Ask HN: Why a Great Product Won't Succeed Without a Community",
     "date": "2026-10-25"
@@ -17,61 +72,6 @@
   {
     "link": "https://codeberg.org/Misom/FindMyWeb",
     "title": "[英] FindMyWeb: Apple Find My, reverse enginiered",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-    "title": "[英] Why Gopher in 2026?",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
-    "title": "[英] Social dynamics of toxic metal industry in medieval Europe",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
-    "title": "[英] Google has officially turned these Nest thermostats back into dumb thermostats",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-    "title": "[英] America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "http://www.paritybit.ca/blog/free-software-is-an-abject-failure/",
-    "title": "[英] Free Software Is a Failure",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
-    "title": "[英] I Built a Stereo Vision Board for Hardware Hackers",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://thomasunise.com/argus",
-    "title": "[英] Argus – a free, open-source agentic security operations platform – MIT",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://ratfactor.com/cards/limitations",
-    "title": "[英] The Importance of Limitations for Creativity and Learning",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://ratfactor.com/cards/pl-small",
-    "title": "[英] Small Programs and Languages",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://danluu.com/ambitious/",
-    "title": "[英] We should be more ambitious with the software we build",
-    "date": "2026-10-25"
-  },
-  {
-    "link": "https://bbtree.xiangpeng.systems/post/",
-    "title": "[英] Bbtree: Fastest Ordered Map",
     "date": "2026-10-25"
   }
 ]
