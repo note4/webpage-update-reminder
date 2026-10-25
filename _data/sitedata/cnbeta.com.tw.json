@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583812.htm",
+    "title": "Google在芬兰为建设数据中心砍伐约1300英亩森林 当地居民发现狼群进入附近村庄觅食",
+    "date": "2026-10-26 01:14:18"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583810.htm",
+    "title": "英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约2000美元",
+    "date": "2026-10-26 00:46:17"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583808.htm",
+    "title": "Cloudflare警告AI正加速发现软件漏洞 互联网或面临多年安全震荡期",
+    "date": "2026-10-26 00:44:58"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583806.htm",
+    "title": "苹果零售店推出 iPhone 防盗检测设备：无需拆封即可检查手机是否完整 减少退货欺诈",
+    "date": "2026-10-26 00:43:08"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583804.htm",
+    "title": "特朗普宣布奥迪将在佐治亚州投资40亿美元建厂",
+    "date": "2026-10-25 23:10:27"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/funny/1583802.htm",
+    "title": "文件元数据显示微软用Mac制作Windows Insider 12周年纪念壁纸",
+    "date": "2026-10-25 23:09:07"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583800.htm",
+    "title": "苹果或于本周发布首款触控屏MacBook Pro OLED屏幕与灵动岛设计将同步登场",
+    "date": "2026-10-25 23:08:56"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1583798.htm",
+    "title": "美国空军与SpaceX测试利用轨道返回舱投送救生筏、饮用水和急救物资",
+    "date": "2026-10-25 23:08:40"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583796.htm",
+    "title": "三星HBM供应吃紧 数据中心客户愿为长期保障支付溢价",
+    "date": "2026-10-25 23:05:47"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/movie/1583794.htm",
+    "title": "AV2新一代免费视频编码标准加速落地 压缩效率有望比AV1提升约30%",
+    "date": "2026-10-25 23:04:55"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1583792.htm",
+    "title": "英特尔与微软合作推进APX技术 Windows 11未来有望获得64位性能提升",
+    "date": "2026-10-25 23:04:31"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/game/1583790.htm",
     "title": "微软上届领导层规划Xbox第一方掌机于Helix项目之后推出",
     "date": "2026-10-25 21:27:00"
@@ -18,60 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/game/1583784.htm",
     "title": "EA官网即将推出栏目全面空置 新作阵容处境尴尬",
     "date": "2026-10-25 21:25:57"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1583782.htm",
-    "title": "《使命召唤：现代战争4》Steam首发同时在线突破22.7万",
-    "date": "2026-10-25 21:25:38"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583780.htm",
-    "title": "原价888元实际179元 二手平台回收低至5折 蟹卡面值藏着“数字游戏”",
-    "date": "2026-10-25 21:23:59"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583778.htm",
-    "title": "开售仅三天 苹果首款折叠屏iPhone Duo已破发",
-    "date": "2026-10-25 21:22:15"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583776.htm",
-    "title": "OpenAI造了个“假互联网” 两个被隔离的AI竟靠CPU缓存暗中传话",
-    "date": "2026-10-25 21:21:27"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583774.htm",
-    "title": "“中国制造”如何成为懂行的象征？彭博聚焦海外发烧友的消费转变",
-    "date": "2026-10-25 21:20:44"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1583772.htm",
-    "title": "长鑫存储拒绝苹果低价采购要求 优先推进中国内存自主化布局",
-    "date": "2026-10-25 21:07:54"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583770.htm",
-    "title": "北半球冰盖扩张可能促使南极周边海洋吸收更多二氧化碳",
-    "date": "2026-10-25 21:03:43"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583768.htm",
-    "title": "模拟揭示地球磁层边界波动为何不对称 太阳风磁场会抑制部分区域的波浪",
-    "date": "2026-10-25 21:02:56"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583766.htm",
-    "title": "南极“末日冰川”风险重新评估 科学家警告海平面升幅或达先前预测的两倍",
-    "date": "2026-10-25 20:45:52"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583764.htm",
-    "title": "仿生甲虫机器人问世 昆虫级机动能力或改变灾后搜救方式",
-    "date": "2026-10-25 20:41:21"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1583762.htm",
-    "title": "抚摸狗不能立刻减压 但能帮身体扛住下一次压力",
-    "date": "2026-10-25 20:40:02"
   }
 ]
