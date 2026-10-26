@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://dark-mountain.net/two-million-hornets/",
+    "title": "[英] Two Million Hornets",
+    "date": "2026-10-26"
+  },
+  {
+    "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+    "title": "[英] Birdwatching rewires the brain and slows cognitive decline",
+    "date": "2026-10-26"
+  },
+  {
+    "link": "https://blocks.manifold3d.ch/",
+    "title": "[英] Switzerland. Block by block. At 1:1 scale",
+    "date": "2026-10-26"
+  },
+  {
+    "link": "https://www.a16z.news/p/superhuman-hardware-design-is-the",
+    "title": "[英] Superhuman Hardware Design Is the Easy Part",
+    "date": "2026-10-26"
+  },
+  {
+    "link": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+    "title": "[英] The result of the C++26 DIS ballot",
+    "date": "2026-10-26"
+  },
+  {
+    "link": "https://brashandplucky.com/2026/10/15/growing-trees.html",
+    "title": "[英] Growing Trees",
+    "date": "2026-10-26"
+  },
+  {
+    "link": "https://blog.hardill.me.uk/2026/10/24/the-curse-of-soldered-ram/",
+    "title": "[英] The Curse of Soldered RAM",
+    "date": "2026-10-26"
+  },
+  {
+    "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+    "title": "[英] Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+    "date": "2026-10-26"
+  },
+  {
+    "link": "https://proc-cli.com/",
+    "title": "[英] Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+    "date": "2026-10-26"
+  },
+  {
+    "link": "https://www.chronicle.com/article/who-cares-whether-academics-use-ai-to-write",
+    "title": "[英] Who Cares Whether Academics Use AI to Write?",
+    "date": "2026-10-26"
+  },
+  {
     "link": "https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf",
     "title": "[英] Learning to Be Me (1990) [pdf]",
     "date": "2026-10-26"
@@ -22,56 +72,6 @@
   {
     "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
     "title": "[英] Behind the scenes at the NeXT Computer office",
-    "date": "2026-10-26"
-  },
-  {
-    "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-    "title": "[英] PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-    "date": "2026-10-26"
-  },
-  {
-    "link": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
-    "title": "[英] If AI displaces human workers, they will lose more than just pay",
-    "date": "2026-10-26"
-  },
-  {
-    "link": "https://titleart.dvy.io/",
-    "title": "[英] Show HN: TitleArt – Make text like it's 1997",
-    "date": "2026-10-26"
-  },
-  {
-    "link": "https://github.com/notaroomba/keybytes",
-    "title": "[英] Show HN: A Truly Modular Keyboard",
-    "date": "2026-10-26"
-  },
-  {
-    "link": "https://rainbowsay.ai/",
-    "title": "[英] Show HN: RainbowSay – Learn, teach, research languages live with shows you love",
-    "date": "2026-10-26"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
-    "title": "[英] Brazil elections: Lula secures fourth term after dramatic comeback",
-    "date": "2026-10-26"
-  },
-  {
-    "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
-    "title": "[英] Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-    "date": "2026-10-26"
-  },
-  {
-    "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-    "title": "[英] IBM CEO says open weight models are now good and cheap on-prem",
-    "date": "2026-10-26"
-  },
-  {
-    "link": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-    "title": "[英] Steal My Bitcoin CTF PoC",
-    "date": "2026-10-26"
-  },
-  {
-    "link": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
-    "title": "[英] Iron Age salt-mining complex found beneath Hallstatt in Austria",
     "date": "2026-10-26"
   }
 ]
