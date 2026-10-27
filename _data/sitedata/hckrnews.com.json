@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://medium.com/@davidmonterocrespo24/turning-vs-code-into-the-control-panel-for-my-work-fcc674b28d6e",
+    "title": "[英] Turning VS Code into a control panel with custom extensions",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+    "title": "[英] Roblox downloaded 145GB models from us (including adult content) without asking",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+    "title": "[英] I will no longer upload to NEW",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
+    "title": "[英] AI is ruining haunted houses",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://benwinding.github.io/encarta_95_web/#/article/Art",
+    "title": "[英] Show HN: Encarta 95 Web",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://github.com/AnonimusShamshiAlex/LimonOS",
+    "title": "[英] LimonOS Custom x86-64 Kernel",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients",
+    "title": "[英] New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://shivakintali.github.io/papers/ETH.pdf",
+    "title": "[英] A simplified proof of ETH is False [pdf]",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "title": "[英] The Mythical Man-Month in the Age of AI",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://www.seeingthesystem.com/p/chemists-chemical-engineers-and-plant",
+    "title": "[英] Chemists, Chemical Engineers, and Plant Managers",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+    "title": "[英] Writing about pratt parsing so I remember it",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://johnhendersontravel.com/txoko/",
+    "title": "[英] Txoko: Basques' traditional feast a gastronomic peek into a culture (2024)",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
+    "title": "[英] UK to charge universities $1,200 per international student",
+    "date": "2026-10-27"
+  },
+  {
     "link": "https://lavik.dev/en/blog/300-redis-nodes-to-3-lavik-nodes/",
     "title": "[英] Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes",
     "date": "2026-10-27"
@@ -7,71 +72,6 @@
   {
     "link": "https://allmodels.io/llm/abliterated",
     "title": "[英] There are now 5 inference providers for abliterated DeepSeek",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
-    "title": "[英] How to grow a cacao tree at home",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
-    "title": "[英] I still teach OpenGL ES 3.0",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50254300",
-    "title": "[英] undefined",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://retronetworking.org/",
-    "title": "[英] Historical Telecommunications",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
-    "title": "[英] APC says let there be light, with standards to speed up photonics manufacturing",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
-    "title": "[英] Virtual and Real World Combine at LAN Party (1998)",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://github.com/otya128/winevdm",
-    "title": "[英] 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=P5eO7BNyJao",
-    "title": "[英] In Context [video]",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://t3x.org/lisp64k/index.html",
-    "title": "[英] LISPy things you can do in 64K bytes of core (2019)",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
-    "title": "[英] Just imagining a workout can make you stronger (2016)",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
-    "title": "[英] Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-    "title": "[英] The Exponential Time Hypothesis Is False [pdf]",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://twitter.com/macrofying/status/2112904628509528219",
-    "title": "[英] A Printer Printing onto Paper",
     "date": "2026-10-27"
   }
 ]
