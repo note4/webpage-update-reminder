@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "title": "[英] Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "date": "2026-10-27 22:59:09"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+    "title": "[英] Ford Fathom will be the cheapest American EV capable of powering a house",
+    "date": "2026-10-27 22:51:33"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+    "title": "[英] US government says hackers are now exploiting critical PHP web bugs",
+    "date": "2026-10-27 22:40:39"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+    "title": "[英] Apple unveils new 14-inch MacBook Pro with M6 chip",
+    "date": "2026-10-27 22:25:11"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+    "title": "[英] Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+    "date": "2026-10-27 21:54:51"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+    "title": "[英] Japan internet giant GMO says hackers posted stolen customer data",
+    "date": "2026-10-27 21:32:57"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+    "title": "[英] Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
+    "date": "2026-10-27 21:01:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+    "title": "[英] Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+    "date": "2026-10-27 21:00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "title": "[英] General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "date": "2026-10-27 21:00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "title": "[英] Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "date": "2026-10-27 21:00:00"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
     "title": "[英] Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
     "date": "2026-10-27 19:00:00"
@@ -23,55 +73,5 @@
     "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
     "title": "[英] Databricks co-founder shares his secrets for winning big enterprise customers",
     "date": "2026-10-27 06:00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-    "title": "[英] Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-    "date": "2026-10-27 05:05:11"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-    "title": "[英] Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-    "date": "2026-10-27 03:22:40"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-    "title": "[英] Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-    "date": "2026-10-27 02:59:52"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-    "title": "[英] This startup’s self-driving excavators help dig up $600M in new funding",
-    "date": "2026-10-27 01:45:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-    "title": "[英] Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-    "date": "2026-10-27 00:49:42"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-    "title": "[英] SpaceX locks in $40B GPU financing deal with Apollo",
-    "date": "2026-10-27 00:46:36"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-    "title": "[英] Microsoft offers buyouts to around 60,000 employees",
-    "date": "2026-10-26 23:58:25"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "title": "[英] Anthropic officially files for its public debut",
-    "date": "2026-10-26 22:35:22"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-    "title": "[英] Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-    "date": "2026-10-26 22:25:43"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-    "title": "[英] Matiks raises $10M to expand its math and puzzle gaming platform",
-    "date": "2026-10-26 22:08:04"
   }
 ]
