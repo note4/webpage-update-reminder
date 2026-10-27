@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/10/27/microsoft-buyout-ai-layoff-xbox/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "微軟向 6 萬名員工提出自願離職方案：一邊控制成本、一邊加碼 AI 資料中心",
+    "date": "2026-10-27 13:02:34"
+  },
+  {
+    "link": "https://techorange.com/2026/10/27/anthropic-ipo-s1/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Anthropic 送件上市、第二季首度營業獲利，長期算力合約與模型競爭仍是考驗",
+    "date": "2026-10-27 12:58:02"
+  },
+  {
+    "link": "https://techorange.com/2026/10/27/ai-skills-to-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "如何建構能擴展成代理的 AI 技能：先做可獨立測試的專項能力，再交給協調層串接",
+    "date": "2026-10-27 09:24:15"
+  },
+  {
+    "link": "https://techorange.com/2026/10/27/steel-to-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【鋼鐵之城轉攻物理 AI】匹茲堡把研究接上工業現場，客戶就在附近讓產品能快速修正",
+    "date": "2026-10-27 09:24:05"
+  },
+  {
     "link": "https://techorange.com/2026/10/27/ai-compute-funding-openai-spacex-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】AI 算力大戰進入資金淘汰賽？OpenAI 下修估值目標、SpaceX 稱融資 400 億美元",
     "date": "2026-10-27 05:30:00"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/10/23/taiwan-digital-ai-policy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "台灣軟體業如何擺脫接案模式？政府採購破百億，產品化還缺什麼？",
     "date": "2026-10-23 06:00:00"
-  },
-  {
-    "link": "https://techorange.com/2026/10/23/google-cloud-openai-gpt6-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】Google Cloud 引進 OpenAI GPT-6，兩大 AI 對手跨陣營合作",
-    "date": "2026-10-23 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/10/22/artificial-intelligence-finance-embraces-gen-ai-autonomous-cash-management/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "8 成美國企業財務團隊用生成式 AI 管現金流，採用代理式 AI 卻只有 5%",
-    "date": "2026-10-22 16:50:17"
-  },
-  {
-    "link": "https://techorange.com/2026/10/22/walmart-agent-gateway-ai-shopping-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Amazon 擋 Muse、Walmart 卻為 AI 代理「開窗」：可設定消費上限、卡號不交給代理",
-    "date": "2026-10-22 15:20:17"
-  },
-  {
-    "link": "https://techorange.com/2026/10/22/gartner-ai-industry-facing-trillion-shortfall/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 熱潮能回本嗎？Gartner 警告：逾 3.5 兆美元基礎設施投資 2030 年前恐面臨減損",
-    "date": "2026-10-22 13:52:53"
   }
 ]

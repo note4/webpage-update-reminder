@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://lavik.dev/en/blog/300-redis-nodes-to-3-lavik-nodes/",
+    "title": "[英] Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://allmodels.io/llm/abliterated",
+    "title": "[英] There are now 5 inference providers for abliterated DeepSeek",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+    "title": "[英] How to grow a cacao tree at home",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+    "title": "[英] I still teach OpenGL ES 3.0",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50254300",
+    "title": "[英] undefined",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://retronetworking.org/",
+    "title": "[英] Historical Telecommunications",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
+    "title": "[英] APC says let there be light, with standards to speed up photonics manufacturing",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
+    "title": "[英] Virtual and Real World Combine at LAN Party (1998)",
+    "date": "2026-10-27"
+  },
+  {
+    "link": "https://github.com/otya128/winevdm",
+    "title": "[英] 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+    "date": "2026-10-27"
+  },
+  {
     "link": "https://www.youtube.com/watch?v=P5eO7BNyJao",
     "title": "[英] In Context [video]",
     "date": "2026-10-27"
@@ -27,51 +72,6 @@
   {
     "link": "https://twitter.com/macrofying/status/2112904628509528219",
     "title": "[英] A Printer Printing onto Paper",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-    "title": "[英] Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://initlabs.si/",
-    "title": "[英] Init – a Rust agent harness that recompiles and hot-swaps its own core mid-task",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://corridorkey.com/",
-    "title": "[英] CorridorKey 2.0",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/",
-    "title": "[英] Native Prometheus Integration with Nginx",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-    "title": "[英] Announcing three new discoveries in mathematics, computer science, and physics",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://arxiv.org/abs/2512.13908",
-    "title": "[英] Magic state cultivation on a superconducting quantum processor",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
-    "title": "[英] Microsoft offers voluntary buyouts to a quarter of its workforce",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://qwac.com/blog/who-killed-the-ev-cert",
-    "title": "[英] Who killed the EV cert? A browser whodunit for Halloween",
-    "date": "2026-10-27"
-  },
-  {
-    "link": "https://www.stephensemler.com/p/us-fired-over-600-missile-interceptors",
-    "title": "[英] US fired over 600 missile interceptors defending Israel in three years",
     "date": "2026-10-27"
   }
 ]
