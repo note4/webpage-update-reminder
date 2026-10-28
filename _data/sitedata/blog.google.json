@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+    "title": "[英] Ads in AI Mode expand to new markets.",
+    "date": "2026-10-29 05:30:00"
+  },
+  {
+    "link": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
+    "title": "[英] Q3 2026 earnings call: Remarks from our CEO",
+    "date": "2026-10-29 05:05:00"
+  },
+  {
+    "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/",
+    "title": "[英] Adapt your ad strategy to meet the way people search today.",
+    "date": "2026-10-29 03:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+    "title": "[英] Dive into new topics with immersive explorations in the Gemini app.",
+    "date": "2026-10-29 02:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
     "title": "[英] Gemini 4 Carbon: our next frontier model",
     "date": "2026-10-29 01:00:00"
@@ -53,25 +73,5 @@
     "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/",
     "title": "[英] Powering sub-Saharan Africa beyond the grid",
     "date": "2026-10-26 23:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/digital-public-infrastructure-farmers/",
-    "title": "[英] We’re helping farmers around the world connect to essential services online.",
-    "date": "2026-10-26 22:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-uso-docuseries-service-members/",
-    "title": "[英] How Google Beam connects military families globally",
-    "date": "2026-10-26 21:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
-    "title": "[英] See what 5 builders are making with Gemini 4 Argon",
-    "date": "2026-10-24 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
-    "title": "[英] Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.",
-    "date": "2026-10-22 21:00:00"
   }
 ]
