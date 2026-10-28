@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "title": "[英] Gemini 4 Carbon: our next frontier model",
+    "date": "2026-10-29 01:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+    "title": "[英] XREAL AURA: Wired XR glasses to watch, work, and play",
+    "date": "2026-10-29 01:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+    "title": "[英] Build and manage Connected Apps in one place",
+    "date": "2026-10-29 01:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/",
+    "title": "[英] Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail.",
+    "date": "2026-10-29 01:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/platforms/google-pay/indie-games-fund-africa-selected-studios/",
+    "title": "[英] Indie Games Fund in Africa: Meet the selected studios",
+    "date": "2026-10-28 22:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
     "title": "[英] We’re announcing Genie 4, our new world model for real-time interactive simulation.",
     "date": "2026-10-28 00:00:00"
@@ -15,13 +40,13 @@
     "date": "2026-10-27 21:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
-    "title": "[英] 15 college students share their favorite Gemini features",
+    "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "title": "[英] Our newest AI Quest: Mapping the human brain",
     "date": "2026-10-27 00:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "title": "[英] Our newest AI Quest: Mapping the human brain",
+    "link": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
+    "title": "[英] 15 college students share their favorite Gemini features",
     "date": "2026-10-27 00:00:00"
   },
   {
@@ -48,30 +73,5 @@
     "link": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
     "title": "[英] Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.",
     "date": "2026-10-22 21:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/",
-    "title": "[英] We are working with Voltus to build a 1-gigawatt virtual power plant.",
-    "date": "2026-10-22 19:30:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/",
-    "title": "[英] Recreating the lost studios of women sculptors with Prune Nourry",
-    "date": "2026-10-21 22:00:00"
-  },
-  {
-    "link": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
-    "title": "[英] New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
-    "date": "2026-10-21 21:00:00"
-  },
-  {
-    "link": "https://blog.google/waze/waze-the-cat-in-the-hat/",
-    "title": "[英] Drive with “The Cat in the Hat” on Waze.",
-    "date": "2026-10-21 19:39:00"
-  },
-  {
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "title": "[英] Southeast Asia’s digital economy to hit $368 billion",
-    "date": "2026-10-21 12:00:00"
   }
 ]
