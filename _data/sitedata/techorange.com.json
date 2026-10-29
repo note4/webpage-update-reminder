@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://techorange.com/2026/10/29/91app-security-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "91APP 遭駭為何花了 11 天才查出破口？駭客是如何突破防線",
+    "date": "2026-10-29 21:00:52"
+  },
+  {
+    "link": "https://techorange.com/2026/10/29/ikala-ai-tmmlu/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "「五十年後，AI 會用什麼語言說話？」iKala 共同創辦人暨集團董事長程世嘉從「智慧通膨」談主權 AI",
+    "date": "2026-10-29 18:11:07"
+  },
+  {
+    "link": "https://techorange.com/2026/10/29/cloudmile-aiagent-aegis-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "如何管理沙箱關不住的 AI Agent？CloudMile 萬里雲台灣技術團隊主管 David Liang：用 AI 強化資安，也要用 AI 檢測 AI",
+    "date": "2026-10-29 16:38:39"
+  },
+  {
+    "link": "https://techorange.com/2026/10/29/ai-circuit-board-crunch-across-global-tech-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "NVIDIA、Broadcom、AMD 為何搶著確保 PCB 供應？AI 讓不起眼零件變兵家必爭之地",
+    "date": "2026-10-29 16:01:39"
+  },
+  {
+    "link": "https://techorange.com/2026/10/29/ai-agent-governance-identity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "誰負責、能碰什麼、出事誰喊停？Gartner：僅 13% 組織自認 AI 代理治理到位",
+    "date": "2026-10-29 15:31:48"
+  },
+  {
     "link": "https://techorange.com/2026/10/29/amazon-echo-apple-homeview-smart-home-devices/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Apple 做小、Amazon 做大：Echo Show 16 與 HomeView 智慧螢幕走完全相反路線",
     "date": "2026-10-29 13:11:25"
@@ -48,30 +73,5 @@
     "link": "https://techorange.com/2026/10/28/anthropic-hunger-beats-tenure-advice-junior-engineers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Anthropic 主管停考程式面試、Snowflake 新聘七至八成是初階工程師：AI 時代新人反而更搶手？",
     "date": "2026-10-28 13:05:53"
-  },
-  {
-    "link": "https://techorange.com/2026/10/28/anduril-qualcomm-bluechip-us-made-laptop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Anduril 聯手高通推「美國造」筆電 BlueChip，晶片擬交台積電亞利桑那廠，面板等零件仍是缺口",
-    "date": "2026-10-28 12:48:26"
-  },
-  {
-    "link": "https://techorange.com/2026/10/28/google-deepmind-genie-4-world-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Google 推 Genie 4 邁向「混合式世界模型」，為何生成虛擬世界還要加入 Gemini？",
-    "date": "2026-10-28 11:20:43"
-  },
-  {
-    "link": "https://techorange.com/2026/10/28/agent-costs-will-rise/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【token 變便宜，AI 帳單反而更貴】代理成本 2028 年前增逾 5 倍，Gartner 建議企業為推論分級",
-    "date": "2026-10-28 10:33:20"
-  },
-  {
-    "link": "https://techorange.com/2026/10/28/meta-ai-funding-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】Meta AI 投資有多燒錢？擬籌 950 億美元，4 座超大型算力園區同步興建",
-    "date": "2026-10-28 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/10/27/playground-global-pat-gelsinger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "季辛格：AI 運算效率得提升萬倍，下一代運算如何突破實體限制？",
-    "date": "2026-10-27 18:03:10"
   }
 ]
