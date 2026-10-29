@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/science/1584354.htm",
+    "title": "瑞士科学家利用细菌将沙子变成建筑材料 有望降低建筑业碳排放",
+    "date": "2026-10-30 04:29:16"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1584352.htm",
+    "title": "Solidigm拟在美国投资建设NAND闪存工厂 项目与中国大连工厂升级许可挂钩",
+    "date": "2026-10-30 03:55:35"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/tech/1584350.htm",
     "title": "微软统一GPU崩溃诊断机制：DirectX新增转储文件支持 帮助开发者更快定位显卡故障",
     "date": "2026-10-30 03:20:19"
@@ -63,15 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/tech/1584326.htm",
     "title": "微软AI基础设施支出低于华尔街预期65亿美元 数据中心建设延迟才是主因",
     "date": "2026-10-29 21:52:36"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1584324.htm",
-    "title": "美国员工工作热情持续下滑 AI与远程办公成最新争议焦点",
-    "date": "2026-10-29 21:51:59"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1584322.htm",
-    "title": "全球OLED笔记本电脑出货量预计2027年增长超40%",
-    "date": "2026-10-29 21:50:52"
   }
 ]
