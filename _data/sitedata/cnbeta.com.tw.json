@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1584350.htm",
+    "title": "微软统一GPU崩溃诊断机制：DirectX新增转储文件支持 帮助开发者更快定位显卡故障",
+    "date": "2026-10-30 03:20:19"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1584348.htm",
+    "title": "特朗普手机T1拆解视频证实此前猜测：实为HTC U24 Pro换壳产品",
+    "date": "2026-10-30 03:18:35"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1584346.htm",
+    "title": "美国情报机构调查疑似针对黄仁勋的间谍活动 英伟达否认涉及敏感信息泄露",
+    "date": "2026-10-30 00:58:16"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1584344.htm",
+    "title": "字母表市值或将蒸发5000亿美元 创下公司历史最大单日市值缩水",
+    "date": "2026-10-30 00:25:04"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1584342.htm",
+    "title": "奢华定制折叠旗舰 三星W27在中国正式发布",
+    "date": "2026-10-29 23:44:37"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1584340.htm",
+    "title": "Commodore 64C宣布回归：沿用1980年代原始模具 打造现代复刻版经典电脑",
+    "date": "2026-10-29 23:43:58"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1584338.htm",
+    "title": "《GTA6》剧情目标披露：双主角都想退出犯罪共同生活",
+    "date": "2026-10-29 23:40:31"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1584336.htm",
+    "title": "谷歌市值创纪录蒸发5000亿美元 AI侵蚀营收",
+    "date": "2026-10-29 23:37:16"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1584334.htm",
+    "title": "《影之刃零》交卷 国产3A还能再造一个《黑神话》吗？",
+    "date": "2026-10-29 23:36:23"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/movie/1584332.htm",
+    "title": "首部AI院线电影票房惨败 媒体锐评：不如《牛来》",
+    "date": "2026-10-29 22:13:33"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1584330.htm",
+    "title": "RTX5080涨成RTX 5090首发价 零售价突破1.3万元",
+    "date": "2026-10-29 22:13:10"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1584328.htm",
+    "title": "Xbox负责人称主机销量仍受供应限制 翻新计划正在扩大",
+    "date": "2026-10-29 22:12:43"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/tech/1584326.htm",
     "title": "微软AI基础设施支出低于华尔街预期65亿美元 数据中心建设延迟才是主因",
     "date": "2026-10-29 21:52:36"
@@ -13,65 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/tech/1584322.htm",
     "title": "全球OLED笔记本电脑出货量预计2027年增长超40%",
     "date": "2026-10-29 21:50:52"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1584320.htm",
-    "title": "苹果被曝为按时交付iPhone Duo下调质检标准 供应链人士对此说法存在分歧",
-    "date": "2026-10-29 21:43:29"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1584318.htm",
-    "title": "三星Galaxy S27系列充电速度曝光 基础款连续七代停留在25W",
-    "date": "2026-10-29 21:40:46"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1584316.htm",
-    "title": "俄罗斯将苹果和微软纳入国家监控名录 要求按需交出用户通信数据",
-    "date": "2026-10-29 21:26:58"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1584314.htm",
-    "title": "乌鸦视觉决策速度约为灵长类动物的两倍",
-    "date": "2026-10-29 21:19:03"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1584312.htm",
-    "title": "乐施会报告：全球最富有0.1%人群碳排放量超过35亿最贫困人口总和",
-    "date": "2026-10-29 21:18:27"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1584310.htm",
-    "title": "苹果采购部门曾强硬逼迫闪存供应商让步 审计频率高到德勤也给出批量折扣",
-    "date": "2026-10-29 17:44:48"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1584308.htm",
-    "title": "青沼英二坦言对《塞尔达传说：时之笛 重制版》推出感到紧张",
-    "date": "2026-10-29 16:50:45"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1584306.htm",
-    "title": "Rockstar确认《GTA6》主要开发完成 进入最终收尾阶段",
-    "date": "2026-10-29 16:50:26"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1584304.htm",
-    "title": "韩国将对使用AI眼镜高考作弊者追究刑责并禁考三年",
-    "date": "2026-10-29 16:44:07"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1584302.htm",
-    "title": "英特尔筹备Moon Lake与Wildcat Lake Refresh处理器 采用18A工艺",
-    "date": "2026-10-29 16:40:43"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1584300.htm",
-    "title": "特斯拉Model 3停车状态车内起火 三星手机成怀疑对象",
-    "date": "2026-10-29 15:14:13"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1584298.htm",
-    "title": "GTX 1060问世近十年，玩家回顾平价游戏硬件时代",
-    "date": "2026-10-29 15:12:18"
   }
 ]
