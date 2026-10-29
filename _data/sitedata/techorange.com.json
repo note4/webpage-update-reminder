@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/10/29/google-tpu-oracle-ai-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【科技早餐】Google TPU 首度跨雲進駐 Oracle！NVIDIA 擬擴張多 GW AI 算力",
+    "date": "2026-10-29 05:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/10/28/dutch-plan-cut-25-000-jobs-will-show-whether-ai-shrink-government/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "荷蘭擬 10 年縮減 2.5 萬個公職，AI 真能讓政府瘦身？專家警告申訴量可能增加",
     "date": "2026-10-28 18:03:10"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/10/27/anthropic-ipo-s1/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Anthropic 送件上市、第二季首度營業獲利，長期算力合約與模型競爭仍是考驗",
     "date": "2026-10-27 12:58:02"
-  },
-  {
-    "link": "https://techorange.com/2026/10/27/ai-skills-to-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "如何建構能擴展成代理的 AI 技能：先做可獨立測試的專項能力，再交給協調層串接",
-    "date": "2026-10-27 09:24:15"
   }
 ]
