@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+    "title": "[英] 'Elite North Korean hackers' blamed for $6.3B Binance hack",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
+    "title": "[英] Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history",
+    "title": "[英] North Korea Steals USD 6.36B from Binance in the Largest Hack in History",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://www.workatastartup.com/jobs/98722",
+    "title": "[英] Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
+    "title": "[英] An illustrated online book on Hewlett-Packard equipment",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://devenv.sh/blog/2026/10/28/keep-the-changelog-avoid-the-conflicts/",
+    "title": "[英] Keep the changelog, avoid the conflicts",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
+    "title": "[英] Python on My Wrist",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+    "title": "[英] CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://www.paradedb.com/blog/opening-a-closed-tin-part-2",
+    "title": "[英] Solving Postgres' Count Problem",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://cuis.st/",
+    "title": "[英] Cuis: The Modern Smalltalk-80",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://github.com/da-luce/astroterm",
+    "title": "[英] Astroterm: A Planetarium for Your Terminal",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+    "title": "[英] I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+    "title": "[英] Tracks along the longest drive on another world",
+    "date": "2026-10-30"
+  },
+  {
     "link": "https://github.com/Millillion/lasm",
     "title": "[英] Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
     "date": "2026-10-30"
@@ -7,71 +72,6 @@
   {
     "link": "https://github.com/zacharybenson/arken-protocol",
     "title": "[英] Show HN: Arken – Passwordless auth middleware using secp256k1 keys",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://github.com/picocss/pico/discussions/754",
-    "title": "[英] Pico CSS is no longer maintained",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858",
-    "title": "[英] Study: Schoolwide phone bans show no significant impact on mental health",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://github.com/herdrdev/herdr-app",
-    "title": "[英] Herdr has released native app",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://cormacmccarthy.lib.utk.edu/",
-    "title": "[英] Cormac McCarthy's Library",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://www.davidpriver.com/Iterating-backwards-in-C.html",
-    "title": "[英] Iterating Backwards in C",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
-    "title": "[英] Historical Scientific Instruments",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://convo.casa/@b/117525936178835007",
-    "title": "[英] Proton goes all in on using AI",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://github.com/mottopanikeiku/doomformer",
-    "title": "[英] Show HN: I Turned DOOM into a Transformer",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
-    "title": "[英] El Niño Is Flooding California's Coasts with the Highest Tides to Come",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://microsoft.github.io/flint-chart/#/interactions",
-    "title": "[英] Creating interactive data visualization with Flint-interactive",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://factsanddetails.com/china/cat3/sub10/entry-5577.html",
-    "title": "[英] DAO DE JING",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://epoch.ai/publications/open-weight-models-patch-gap",
-    "title": "[英] Open-weight AI models can exploit the patch gap",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://journal.animationstudies.org/article/id/66/",
-    "title": "[英] A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
     "date": "2026-10-30"
   }
 ]
