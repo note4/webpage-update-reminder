@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://github.com/Millillion/lasm",
+    "title": "[英] Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://github.com/zacharybenson/arken-protocol",
+    "title": "[英] Show HN: Arken – Passwordless auth middleware using secp256k1 keys",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://github.com/picocss/pico/discussions/754",
+    "title": "[英] Pico CSS is no longer maintained",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858",
+    "title": "[英] Study: Schoolwide phone bans show no significant impact on mental health",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://github.com/herdrdev/herdr-app",
+    "title": "[英] Herdr has released native app",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://cormacmccarthy.lib.utk.edu/",
+    "title": "[英] Cormac McCarthy's Library",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://www.davidpriver.com/Iterating-backwards-in-C.html",
+    "title": "[英] Iterating Backwards in C",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
+    "title": "[英] Historical Scientific Instruments",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://convo.casa/@b/117525936178835007",
+    "title": "[英] Proton goes all in on using AI",
+    "date": "2026-10-30"
+  },
+  {
+    "link": "https://github.com/mottopanikeiku/doomformer",
+    "title": "[英] Show HN: I Turned DOOM into a Transformer",
+    "date": "2026-10-30"
+  },
+  {
     "link": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
     "title": "[英] El Niño Is Flooding California's Coasts with the Highest Tides to Come",
     "date": "2026-10-30"
@@ -22,56 +72,6 @@
   {
     "link": "https://journal.animationstudies.org/article/id/66/",
     "title": "[英] A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://claremontreviewofbooks.com/the-great-american-rascal/",
-    "title": "[英] The Great American Rascal: Tom Sawyer at 150",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://adcochrane.wordpress.com/2026/10/29/lighthouses-war-and-a-puffling-the-isle-of-may/",
-    "title": "[英] Lighthouses, War and a Puffling",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
-    "title": "[英] Should a medical diagnosis reshape the past? (2025)",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://blog.invisiblethings.org/2011/03/13/partitioning-my-digital-life-into.html",
-    "title": "[英] Partitioning my digital life into security domains (2011)",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "http://twitter.com/emmettgallic/status/2115916025774723210",
-    "title": "[英] Over $5B drained from Binance in apparent hack",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://labs.ycombinator.com/projects/games/index.html",
-    "title": "[英] We ran AI agent swarms in Minecraft and Mindustry",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-    "title": "[英] Binance-hacker-1029 – $5.6B stolen from Binance",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://elementary.codes",
-    "title": "[英] ElementaryUI – Swift, in the Browser",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://projects.freehackers.org/sylphide-os/",
-    "title": "[英] Sylphide OS: a general-purpose OS for microcontroller-based computers",
-    "date": "2026-10-30"
-  },
-  {
-    "link": "https://www.scraping.club/p/tiktok-scraping-metadata",
-    "title": "[英] Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20",
     "date": "2026-10-30"
   }
 ]
