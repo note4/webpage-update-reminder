@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://github.com/arterialist/kube32",
+    "title": "[英] Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50312221",
+    "title": "[英] undefined",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://ideolalia.com/essays/trapped-in-the-technologist-factory.html",
+    "title": "[英] Trapped in the Technologist Factory",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://makemeacto.cc/be-a-loser/",
+    "title": "[英] Be a Loser",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://publicdomainreview.org/essay/wonderful-weather/",
+    "title": "[英] Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://tng.episodle.com/",
+    "title": "[英] Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "title": "[英] Anthropic to receive high 'junk' rating from credit agencies following IPO",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://openai.com/index/fair-use-benefits-everyone/",
+    "title": "[英] Fair Use Benefits Everyone",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50311373",
+    "title": "[英] undefined",
+    "date": "2026-10-31"
+  },
+  {
     "link": "https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says",
     "title": "[英] Federal Bureau of Prisons employees serve as election monitors at polling sites",
     "date": "2026-10-31"
@@ -27,51 +72,6 @@
   {
     "link": "https://www.otwstatus.org",
     "title": "[英] AO3 Down for Maintenance",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://www.firezone.dev/blog/introducing-sanstun",
-    "title": "[英] sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50310148",
-    "title": "[英] undefined",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-    "title": "[英] Turning a solar power system into its own backup",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://trypalomino.com/",
-    "title": "[英] Show HN: Ultrafast Rust Based Agent Workspace",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://lucaskostka.com/posts/ai-challenges-more-than-devs",
-    "title": "[英] Product Managers aren't safe either",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-    "title": "[英] Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
-    "title": "[英] Embraer's Atech aims to double in size by 2030 with drone traffic control",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://pgrust.com/blog/programming-at-light-speed/",
-    "title": "[英] Programming at Light Speed: Building the Gravity Query Engine",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
-    "title": "[英] Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
     "date": "2026-10-31"
   }
 ]
