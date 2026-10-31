@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://xoranth.net/gcc-switch/",
+    "title": "[英] Switch Lowering in GCC",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://zebra.rodeo/en/blog/marelleo/",
+    "title": "[英] Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://samosa-math.vercel.app",
+    "title": "[英] Show HN: Samosa – Linter for Math Derivations",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50313508",
+    "title": "[英] undefined",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://linuxjunkies.org/guides/configure-a-ups-with-nut",
+    "title": "[英] Configure a UPS on Linux with NUT",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://entropicthoughts.com/history-of-pdp-computers",
+    "title": "[英] Brief History of PDP Computers",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+    "title": "[英] OpenAI raises less than half of $30B target",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
+    "title": "[英] Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e",
+    "title": "[英] Flock camera searches fell 95% after a dispatcher's misconduct was caught",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://bellone.com/technical/double-buffering-with-cloudflare-queues",
+    "title": "[英] Double Buffering with Cloudflare Queues",
+    "date": "2026-10-31"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50312756",
+    "title": "[英] Tell HN: Scribd Breached",
+    "date": "2026-10-31"
+  },
+  {
     "link": "https://github.com/arterialist/kube32",
     "title": "[英] Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
     "date": "2026-10-31"
@@ -17,61 +72,6 @@
   {
     "link": "https://makemeacto.cc/be-a-loser/",
     "title": "[英] Be a Loser",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://publicdomainreview.org/essay/wonderful-weather/",
-    "title": "[英] Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://tng.episodle.com/",
-    "title": "[英] Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-    "title": "[英] Anthropic to receive high 'junk' rating from credit agencies following IPO",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://openai.com/index/fair-use-benefits-everyone/",
-    "title": "[英] Fair Use Benefits Everyone",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50311373",
-    "title": "[英] undefined",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says",
-    "title": "[英] Federal Bureau of Prisons employees serve as election monitors at polling sites",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://github.com/chris124567/cfsolve",
-    "title": "[英] Cloudflare Turnstile solver library (no headless browser required)",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
-    "title": "[英] France is getting download tax for content providers (€0.055/GB)",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://status.linode.com/incidents/nt58zhx3pmgm",
-    "title": "[英] Linode Security Incident",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://tailscale.com/blog/go-linker",
-    "title": "[英] Hey linker, can you spare a meg?",
-    "date": "2026-10-31"
-  },
-  {
-    "link": "https://www.otwstatus.org",
-    "title": "[英] AO3 Down for Maintenance",
     "date": "2026-10-31"
   }
 ]
