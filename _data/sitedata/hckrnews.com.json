@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+    "title": "[英] Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+    "date": "2026-11-01"
+  },
+  {
+    "link": "https://uvdn7.github.io/altoids-project/",
+    "title": "[英] Altoids Project",
+    "date": "2026-11-01"
+  },
+  {
+    "link": "https://chalmovsky.com/posts/inverse-zitron",
+    "title": "[英] Inverse Zitron: An Investment Strategy",
+    "date": "2026-11-01"
+  },
+  {
+    "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+    "title": "[英] AI text watermarking and quality loss",
+    "date": "2026-11-01"
+  },
+  {
+    "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+    "title": "[英] Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+    "date": "2026-11-01"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+    "title": "[英] First response from the Project Suncatcher prototype satellite",
+    "date": "2026-11-01"
+  },
+  {
+    "link": "https://www.nablag.com/spooky_cpp",
+    "title": "[英] Spooky C++",
+    "date": "2026-11-01"
+  },
+  {
+    "link": "https://spectrum.ieee.org/early-electric-vehicles",
+    "title": "[英] When electric cars were for women",
+    "date": "2026-11-01"
+  },
+  {
+    "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+    "title": "[英] An Italian farmer found some unknown seeds in his attic and planted them",
+    "date": "2026-11-01"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+    "title": "[英] Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+    "date": "2026-11-01"
+  },
+  {
     "link": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
     "title": "[英] Anthropic takes steps to block Claude from reverse-engineering video games",
     "date": "2026-11-01"
@@ -22,56 +72,6 @@
   {
     "link": "https://www.pgdp.net/c/",
     "title": "[英] Distributed Proofreaders",
-    "date": "2026-11-01"
-  },
-  {
-    "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-    "title": "[英] Anthropic blocks users for anything touching training larger models",
-    "date": "2026-11-01"
-  },
-  {
-    "link": "https://sourceforge.net/projects/cdesktopenv/",
-    "title": "[英] Common Desktop Environment available now as open-source",
-    "date": "2026-11-01"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-    "title": "[英] GPT-6.1 Terra",
-    "date": "2026-11-01"
-  },
-  {
-    "link": "https://www.jpl.nasa.gov/news/nasas-voyager-1-conserves-power-resolves-brief-communications-pause/",
-    "title": "[英] NASA's Voyager 1 Conserves Power, Resolves Brief Communications Pause",
-    "date": "2026-11-01"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=t5NklTNoKDI",
-    "title": "[英] The lithium hypothesis of obesity [video]",
-    "date": "2026-11-01"
-  },
-  {
-    "link": "https://oqtadrive.org/10.other/5-years/",
-    "title": "[英] 5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
-    "date": "2026-11-01"
-  },
-  {
-    "link": "https://karpathy.bearblog.dev/hacker-tube/",
-    "title": "[英] HackerTube: YouTube built from videos recommended by HN",
-    "date": "2026-11-01"
-  },
-  {
-    "link": "https://epoyraz.github.io/nes-contra-us/",
-    "title": "[英] Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-    "date": "2026-11-01"
-  },
-  {
-    "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-    "title": "[英] TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-    "date": "2026-11-01"
-  },
-  {
-    "link": "https://florianwilhelm.info/2026/10/sentinel_values/",
-    "title": "[英] Much Ado About None: Sentinel Values in Python",
     "date": "2026-11-01"
   }
 ]
