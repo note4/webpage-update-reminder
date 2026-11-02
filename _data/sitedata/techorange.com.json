@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://techorange.com/2026/11/02/binance-hack-north-korea-attack-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "史上最大加密貨幣竊案：FBI 指北韓盜走幣安逾 60 億美元，私鑰未外洩為何仍失守？",
+    "date": "2026-11-02 15:39:19"
+  },
+  {
+    "link": "https://techorange.com/2026/11/02/cloudriches-aiagent-fabric-iq/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "企業 AI 如何建立共同語言？雲馥數位蔡嘉豪：以 Fabric IQ 串起資料語意與業務脈絡",
+    "date": "2026-11-02 12:10:22"
+  },
+  {
+    "link": "https://techorange.com/2026/11/02/deepseek-super-agent-proactive-coding-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "DeepSeek 開源編碼代理 Super-Agent：沒人指派也能接單，預設卻只記錄不出手",
+    "date": "2026-11-02 12:07:53"
+  },
+  {
+    "link": "https://techorange.com/2026/11/02/ai-powered-solo-founders/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【一人公司不再只是副業】創辦人用 AI 工具撐起整個團隊，但最難補的是決策支持系統",
+    "date": "2026-11-02 11:12:24"
+  },
+  {
+    "link": "https://techorange.com/2026/11/02/meta-fourier-ai-humanoid-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Meta 聯手傅利葉打造人形機器人，3 個月完成原型、美國政策成潛在挑戰",
+    "date": "2026-11-02 11:09:17"
+  },
+  {
+    "link": "https://techorange.com/2026/11/02/ai-can-be-persuaded-security-boundary/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【AI 代理會被說服，也能說服人】失控代理以假身分施壓開發者，專家：授權不能交給模型判斷",
+    "date": "2026-11-02 10:35:03"
+  },
+  {
+    "link": "https://techorange.com/2026/11/02/hhtd-taiwan-ai-robotics-summit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【鴻海科技日直擊】AI 機器人如何真正落地？鴻海科技集團 C 事業群總經理李光曜提三大關鍵：場域驗證、系統整合、生態系合作",
+    "date": "2026-11-02 10:06:50"
+  },
+  {
+    "link": "https://techorange.com/2026/11/02/elite-cloud-mixroute-smart-routing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "「押對模型靠運氣，保有選擇權靠架構。」勤英科技 MixRoute 助企業掌握模型、成本與治理三大主導權",
+    "date": "2026-11-02 09:44:17"
+  },
+  {
     "link": "https://techorange.com/2026/11/02/mediatek-ai-asic-google-foxconn-tpu/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】聯發科 AI 晶片開始出貨！Google 攜鴻海挑戰半年部署 TPU",
     "date": "2026-11-02 05:30:00"
@@ -33,45 +73,5 @@
     "link": "https://techorange.com/2026/10/30/wireless-sensing-edge-ai-next/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Edge AI 不只靠攝影機：無線感測有望讓數十億台既有設備變身環境感測器",
     "date": "2026-10-30 12:01:46"
-  },
-  {
-    "link": "https://techorange.com/2026/10/30/amazon-alphabet-ai-capex-cloud-cash-flow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AWS 創近五年最快成長、Google Cloud 營收翻倍，股價卻下跌：華爾街為何擔心 AI 燒錢？",
-    "date": "2026-10-30 11:51:11"
-  },
-  {
-    "link": "https://techorange.com/2026/10/30/ai-model-fatigue-in-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【模型疲勞，中國更明顯】每次升級都重設價格底線，AI 業者積極開拓利基市場",
-    "date": "2026-10-30 10:02:30"
-  },
-  {
-    "link": "https://techorange.com/2026/10/30/google-cloud-microsoft-azure-ai-revenue-growth/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】Google Cloud 營收暴增 103%！Microsoft Azure 成長 48%，AI 投資成本攀升",
-    "date": "2026-10-30 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/10/29/91app-security-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "91APP 遭駭為何花了 11 天才查出破口？駭客是如何突破防線",
-    "date": "2026-10-29 21:00:52"
-  },
-  {
-    "link": "https://techorange.com/2026/10/29/ikala-ai-tmmlu/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "「五十年後，AI 會用什麼語言說話？」iKala 共同創辦人暨集團董事長程世嘉從「智慧通膨」談主權 AI",
-    "date": "2026-10-29 18:11:07"
-  },
-  {
-    "link": "https://techorange.com/2026/10/29/cloudmile-aiagent-aegis-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "如何管理沙箱關不住的 AI Agent？CloudMile 萬里雲台灣技術團隊主管 David Liang：用 AI 強化資安，也要用 AI 檢測 AI",
-    "date": "2026-10-29 16:38:39"
-  },
-  {
-    "link": "https://techorange.com/2026/10/29/ai-circuit-board-crunch-across-global-tech-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "NVIDIA、Broadcom、AMD 為何搶著確保 PCB 供應？AI 讓不起眼零件變兵家必爭之地",
-    "date": "2026-10-29 16:01:39"
-  },
-  {
-    "link": "https://techorange.com/2026/10/29/ai-agent-governance-identity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "誰負責、能碰什麼、出事誰喊停？Gartner：僅 13% 組織自認 AI 代理治理到位",
-    "date": "2026-10-29 15:31:48"
   }
 ]
