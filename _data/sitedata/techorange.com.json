@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://techorange.com/2026/11/03/lumentum-marvell/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Marvell 砸 1,150 億美元收購 Lumentum，下一代光互連為何可能衝擊既有 DSP 生意？",
+    "date": "2026-11-03 11:55:50"
+  },
+  {
+    "link": "https://techorange.com/2026/11/03/anthropic-s1a-ai-rd-acceleration-safety/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "用 AI 研發 AI 有多快？Anthropic 坦承曾未及時察覺加速，未來模型恐觸及新門檻",
+    "date": "2026-11-03 11:55:21"
+  },
+  {
+    "link": "https://techorange.com/2026/11/03/riministreet-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "「主權不是擁有更多工具，而是掌握 AI 行動的邊界與責任。」Rimini Street 資深客戶成功經理高治平點出掌握 AI 主權的五個控制權",
+    "date": "2026-11-03 11:02:26"
+  },
+  {
+    "link": "https://techorange.com/2026/11/03/market-to-machines/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【AI 對話框成新貨架】消費者讓 AI 比較完才下單，品牌 4 步驟爭取進入推薦名單",
+    "date": "2026-11-03 09:45:04"
+  },
+  {
+    "link": "https://techorange.com/2026/11/03/ai-agent-eko-built-temple/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【AI 代理行為學實驗】觀察「放假」中的 AI 代理，MIT 發現玩耍練出的技巧能用在後續任務",
+    "date": "2026-11-03 09:44:42"
+  },
+  {
     "link": "https://techorange.com/2026/11/03/shared-ai-training-opt-out-robots-txt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Google、微軟、OpenAI、Anthropic 支援網站一次退出 AI 訓練，但只管訓練、不擋爬蟲",
     "date": "2026-11-03 08:10:00"
@@ -48,30 +73,5 @@
     "link": "https://techorange.com/2026/11/02/ai-can-be-persuaded-security-boundary/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【AI 代理會被說服，也能說服人】失控代理以假身分施壓開發者，專家：授權不能交給模型判斷",
     "date": "2026-11-02 10:35:03"
-  },
-  {
-    "link": "https://techorange.com/2026/11/02/hhtd-taiwan-ai-robotics-summit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【鴻海科技日直擊】AI 機器人如何真正落地？鴻海科技集團 C 事業群總經理李光曜提三大關鍵：場域驗證、系統整合、生態系合作",
-    "date": "2026-11-02 10:06:50"
-  },
-  {
-    "link": "https://techorange.com/2026/11/02/elite-cloud-mixroute-smart-routing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "「押對模型靠運氣，保有選擇權靠架構。」勤英科技 MixRoute 助企業掌握模型、成本與治理三大主導權",
-    "date": "2026-11-02 09:44:17"
-  },
-  {
-    "link": "https://techorange.com/2026/11/02/mediatek-ai-asic-google-foxconn-tpu/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】聯發科 AI 晶片開始出貨！Google 攜鴻海挑戰半年部署 TPU",
-    "date": "2026-11-02 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/10/31/private-cloud-outlook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【博通私有雲展望報告】97% IT 決策者坦言公有雲支出遭浪費，布局「私有 AI」翻轉昂貴算力架構",
-    "date": "2026-10-31 06:29:00"
-  },
-  {
-    "link": "https://techorange.com/2026/10/30/hhtd-honhai-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "鴻海科技日揭製造效率：部分產品開發只需 3 週、AI 運算托盤組裝縮至 20 分鐘，怎麼做到？",
-    "date": "2026-10-30 19:06:36"
   }
 ]
