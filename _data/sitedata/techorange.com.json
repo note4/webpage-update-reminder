@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/11/03/weight-space-programming-mit-csail/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 不必重新訓練也能修補？MIT 新研究讓 GPT-6 Astra 直接修改 Qwen 權重，數學測試成績提升近 6 倍",
+    "date": "2026-11-03 16:35:01"
+  },
+  {
+    "link": "https://techorange.com/2026/11/03/itri-pei-zen-chang-quantum-tech-strategy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "專訪工研院院長張培仁：資源有限怎麼押技術？量子不搶當老大，專攻各路線都需要的低溫電子",
+    "date": "2026-11-03 15:18:38"
+  },
+  {
+    "link": "https://techorange.com/2026/11/03/tutor-intelligence-series-b-robot-labor-by-the-hour/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "買機器人的工作，卡關由真人遠端接手：Tutor Intelligence 獲 a16z 領投 7,500 萬美元",
+    "date": "2026-11-03 15:00:14"
+  },
+  {
     "link": "https://techorange.com/2026/11/03/lumentum-marvell/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Marvell 砸 1,150 億美元收購 Lumentum，下一代光互連為何可能衝擊既有 DSP 生意？",
     "date": "2026-11-03 11:55:50"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/11/02/deepseek-super-agent-proactive-coding-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "DeepSeek 開源編碼代理 Super-Agent：沒人指派也能接單，預設卻只記錄不出手",
     "date": "2026-11-02 12:07:53"
-  },
-  {
-    "link": "https://techorange.com/2026/11/02/ai-powered-solo-founders/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【一人公司不再只是副業】創辦人用 AI 工具撐起整個團隊，但最難補的是決策支持系統",
-    "date": "2026-11-02 11:12:24"
-  },
-  {
-    "link": "https://techorange.com/2026/11/02/meta-fourier-ai-humanoid-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Meta 聯手傅利葉打造人形機器人，3 個月完成原型、美國政策成潛在挑戰",
-    "date": "2026-11-02 11:09:17"
-  },
-  {
-    "link": "https://techorange.com/2026/11/02/ai-can-be-persuaded-security-boundary/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【AI 代理會被說服，也能說服人】失控代理以假身分施壓開發者，專家：授權不能交給模型判斷",
-    "date": "2026-11-02 10:35:03"
   }
 ]
