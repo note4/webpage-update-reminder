@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+    "title": "[英] We're sharing our framework for building safer and more helpful AI for health.",
+    "date": "2026-11-04 22:00:00"
+  },
+  {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
+    "title": "[英] Take a closer look at art with the Courtauld",
+    "date": "2026-11-04 18:00:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
     "title": "[英] New research shows how Guided Learning supports students",
     "date": "2026-11-03 22:00:00"
@@ -63,15 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
     "title": "[英] You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
     "date": "2026-10-30 00:15:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/",
-    "title": "[英] Colorado students joined a Google hackathon to tackle energy grid challenges.",
-    "date": "2026-10-30 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
-    "title": "[英] Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
-    "date": "2026-10-30 00:00:00"
   }
 ]
