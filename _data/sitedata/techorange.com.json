@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://techorange.com/2026/11/04/airbus-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Airbus 用 AI 讀取機上餐盤、提前 10 天預警設備異常，航空營運如何改變？",
+    "date": "2026-11-04 06:20:00"
+  },
+  {
+    "link": "https://techorange.com/2026/11/04/apple-memory-price-surge-gross-margin-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【科技早餐】Apple 營收創高！新任執行長示警記憶體漲價，旺季毛利率估降至 45%–46%",
+    "date": "2026-11-04 05:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/11/03/weight-space-programming-mit-csail/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 不必重新訓練也能修補？MIT 新研究讓 GPT-6 Astra 直接修改 Qwen 權重，數學測試成績提升近 6 倍",
     "date": "2026-11-03 16:35:01"
@@ -63,15 +73,5 @@
     "link": "https://techorange.com/2026/11/02/binance-hack-north-korea-attack-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "史上最大加密貨幣竊案：FBI 指北韓盜走幣安逾 60 億美元，私鑰未外洩為何仍失守？",
     "date": "2026-11-02 15:39:19"
-  },
-  {
-    "link": "https://techorange.com/2026/11/02/cloudriches-aiagent-fabric-iq/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "企業 AI 如何建立共同語言？雲馥數位蔡嘉豪：以 Fabric IQ 串起資料語意與業務脈絡",
-    "date": "2026-11-02 12:10:22"
-  },
-  {
-    "link": "https://techorange.com/2026/11/02/deepseek-super-agent-proactive-coding-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "DeepSeek 開源編碼代理 Super-Agent：沒人指派也能接單，預設卻只記錄不出手",
-    "date": "2026-11-02 12:07:53"
   }
 ]
