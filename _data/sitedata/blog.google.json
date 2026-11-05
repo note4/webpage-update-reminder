@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
+    "title": "[英] Check out our free livestream during National Veterans Small Business Week.",
+    "date": "2026-11-05 22:00:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/",
     "title": "[英] Watch Henry Cavill build a video game on his Googlebook",
     "date": "2026-11-05 02:00:00"
@@ -15,13 +20,8 @@
     "date": "2026-11-04 18:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
-    "title": "[英] New research shows how Guided Learning supports students",
-    "date": "2026-11-03 22:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
-    "title": "[英] We’re providing funding for organizations building AI for teachers.",
+    "link": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+    "title": "[英] Designing responsible AI for learning",
     "date": "2026-11-03 22:00:00"
   },
   {
@@ -30,8 +30,8 @@
     "date": "2026-11-03 22:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
-    "title": "[英] Designing responsible AI for learning",
+    "link": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+    "title": "[英] We’re providing funding for organizations building AI for teachers.",
     "date": "2026-11-03 22:00:00"
   },
   {
@@ -42,6 +42,11 @@
   {
     "link": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
     "title": "[英] Expanding AI educator training to new countries",
+    "date": "2026-11-03 22:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
+    "title": "[英] New research shows how Guided Learning supports students",
     "date": "2026-11-03 22:00:00"
   },
   {
@@ -68,10 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
     "title": "[英] We’ve received our first response from the Project Suncatcher prototype satellite.",
     "date": "2026-10-31 01:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
-    "title": "[英] See who has access to your Gmail inbox in 2 minutes.",
-    "date": "2026-10-31 00:00:00"
   }
 ]
