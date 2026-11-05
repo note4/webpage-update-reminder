@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://en.wikipedia.org/wiki/Chip_art",
+    "title": "[英] Chip Art",
+    "date": "2026-11-05"
+  },
+  {
+    "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+    "title": "[英] Want to Rent an Internet Address at the White House?",
+    "date": "2026-11-05"
+  },
+  {
+    "link": "https://www.reuters.com/science/nasas-22-year-old-swift-satellite-telescope-falls-orbit-fiery-finale-2026-11-04/",
+    "title": "[英] NASA's 22-year-old Swift satellite telescope falls from orbit",
+    "date": "2026-11-05"
+  },
+  {
+    "link": "https://ziglang.org/devlog/2026/#2026-10-24",
+    "title": "[英] Partial Operator Precedence",
+    "date": "2026-11-05"
+  },
+  {
+    "link": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+    "title": "[英] Future Maintenance of Mbed TLS",
+    "date": "2026-11-05"
+  },
+  {
+    "link": "https://www.altera.com/newsroom/agilex-2x",
+    "title": "[英] Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+    "date": "2026-11-05"
+  },
+  {
+    "link": "https://markblah.github.io/lemmings/",
+    "title": "[英] Lemmings CSS Animation",
+    "date": "2026-11-05"
+  },
+  {
+    "link": "https://www.karthihegde.dev/posts/dns_tampering",
+    "title": "[英] So my ISP was hijacking my DNS",
+    "date": "2026-11-05"
+  },
+  {
+    "link": "https://mofu-dev.com/en/blog/fluid-foundation/",
+    "title": "[英] Spreading Liquid with Three.js",
+    "date": "2026-11-05"
+  },
+  {
+    "link": "https://wiredream.com/anagram-fun/",
+    "title": "[英] 11 Nanoseconds per Word: Over-Optimizing Anagrams",
+    "date": "2026-11-05"
+  },
+  {
+    "link": "https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/",
+    "title": "[英] Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs",
+    "date": "2026-11-05"
+  },
+  {
     "link": "https://aspireai.kiranadimatyam.com/builds/pagescribe/",
     "title": "[英] PageScribe: Handwriting and offline dictionary audio for KOReader",
     "date": "2026-11-05"
@@ -17,61 +72,6 @@
   {
     "link": "https://lacuna.tiptreesystems.com/paper/bf16-might-be-freezing-your-weight-updates/art_487b1ed949e745a6ae0c42815b8d3cba",
     "title": "[英] Bf16 might be freezing your weight updates",
-    "date": "2026-11-05"
-  },
-  {
-    "link": "https://openai.com/index/introducing-images-2-6/",
-    "title": "[英] Images 2.6",
-    "date": "2026-11-05"
-  },
-  {
-    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-    "title": "[英] A thousand fewer paths to root",
-    "date": "2026-11-05"
-  },
-  {
-    "link": "https://blog.sparkcan.com/posts/ai-poisoning/",
-    "title": "[英] AI poisoning: are we using AI, or is AI using us?",
-    "date": "2026-11-05"
-  },
-  {
-    "link": "https://mony.lol/",
-    "title": "[英] Harmony: Chat like Discord. Federated like email",
-    "date": "2026-11-05"
-  },
-  {
-    "link": "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us",
-    "title": "[英] Is Curiosity Good for Us?",
-    "date": "2026-11-05"
-  },
-  {
-    "link": "https://dbushell.com/2026/11/03/xslt-rip/",
-    "title": "[英] Death Comes for XSLT",
-    "date": "2026-11-05"
-  },
-  {
-    "link": "https://github.com/gauge-sh/gauge-cli",
-    "title": "[英] Show HN: Gauge – Open-Source CLI to recursively improve your docs",
-    "date": "2026-11-05"
-  },
-  {
-    "link": "https://www.argmin.net/p/less-popular-than-coal",
-    "title": "[英] Less Popular Than Coal",
-    "date": "2026-11-05"
-  },
-  {
-    "link": "https://typesafe.ai/blog/dont-call-it-a-decision-model",
-    "title": "[英] Don't Call It a Decision Model",
-    "date": "2026-11-05"
-  },
-  {
-    "link": "https://blog.samaltman.com/successful-people",
-    "title": "[英] Successful People (2013)",
-    "date": "2026-11-05"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50372294",
-    "title": "[英] Ask HN: What your experience with the monthly \"who wants to be hired\" thread?",
     "date": "2026-11-05"
   }
 ]

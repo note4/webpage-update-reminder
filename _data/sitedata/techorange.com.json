@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/11/05/europe-fridge-cyberattacks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "歐洲超市冷凍櫃三週兩度遭駭、法國血庫也遇襲：設備管理介面為何成破口？",
+    "date": "2026-11-05 15:49:46"
+  },
+  {
+    "link": "https://techorange.com/2026/11/05/us-election-ai-data-center-buildout-taiwan-suppliers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "美國期中選舉後，德州約 13 GW 資料中心計畫恐延後：緯創等台廠會受波及嗎？",
+    "date": "2026-11-05 12:59:01"
+  },
+  {
+    "link": "https://techorange.com/2026/11/05/occ-ai-agent-super-intelligence-supervisory-framework/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "自主付款 Agent 列最高風險？美國 OCC 首度發布銀行 AI 監理框架，人工監督成重點",
+    "date": "2026-11-05 12:02:37"
+  },
+  {
+    "link": "https://techorange.com/2026/11/05/construction-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【工地機器人不必是人形】OG-1 有三輪底座與升降手臂，在雜亂工地自動批土、打磨牆面",
+    "date": "2026-11-05 10:22:12"
+  },
+  {
     "link": "https://techorange.com/2026/11/05/nvidia-china-cloud-restrictions-sk-hynix-us-chip-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】NVIDIA 傳設 51% 非中企門檻！SK 海力士 450 億美元美國建廠案遇阻",
     "date": "2026-11-05 05:30:00"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/11/03/weight-space-programming-mit-csail/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 不必重新訓練也能修補？MIT 新研究讓 GPT-6 Astra 直接修改 Qwen 權重，數學測試成績提升近 6 倍",
     "date": "2026-11-03 16:35:01"
-  },
-  {
-    "link": "https://techorange.com/2026/11/03/itri-pei-zen-chang-quantum-tech-strategy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "專訪工研院院長張培仁：資源有限怎麼押技術？量子不搶當老大，專攻各路線都需要的低溫電子",
-    "date": "2026-11-03 15:18:38"
-  },
-  {
-    "link": "https://techorange.com/2026/11/03/tutor-intelligence-series-b-robot-labor-by-the-hour/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "買機器人的工作，卡關由真人遠端接手：Tutor Intelligence 獲 a16z 領投 7,500 萬美元",
-    "date": "2026-11-03 15:00:14"
-  },
-  {
-    "link": "https://techorange.com/2026/11/03/lumentum-marvell/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Marvell 砸 1,150 億美元收購 Lumentum，下一代光互連為何可能衝擊既有 DSP 生意？",
-    "date": "2026-11-03 11:55:50"
-  },
-  {
-    "link": "https://techorange.com/2026/11/03/anthropic-s1a-ai-rd-acceleration-safety/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "用 AI 研發 AI 有多快？Anthropic 坦承曾未及時察覺加速，未來模型恐觸及新門檻",
-    "date": "2026-11-03 11:55:21"
   }
 ]
