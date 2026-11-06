@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://techorange.com/2026/11/06/marketer-influencer-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "連「有腸躁症的網紅」都找得到，AI 讓品牌選網紅更細，最後一關仍得靠人",
+    "date": "2026-11-06 16:10:20"
+  },
+  {
+    "link": "https://techorange.com/2026/11/06/us-midterms-crypto-clarity-act/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "美國期中選舉後，加密法案 CLARITY 更難過關？民主黨據報研議新法，擬擴大 SEC 監管權限",
+    "date": "2026-11-06 15:48:42"
+  },
+  {
+    "link": "https://techorange.com/2026/11/06/red-hat-summit-sovereign-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "以開放架構掌握 AI 主導權──Red Hat 全球巡迴年會揭企業 AI 算力、資安與主權治理新布局",
+    "date": "2026-11-06 15:10:58"
+  },
+  {
+    "link": "https://techorange.com/2026/11/06/kpmg-bank-security-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "KPMG：網銀防駭，首要補強交易授權防線",
+    "date": "2026-11-06 13:41:41"
+  },
+  {
+    "link": "https://techorange.com/2026/11/06/agility-robotics-nasdaq-humanoid-listing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Agility 成美國首家上市人形機器人專業公司：逾 3 億美元訂單，還得先通過效能驗收",
+    "date": "2026-11-06 12:27:31"
+  },
+  {
+    "link": "https://techorange.com/2026/11/06/destro-ai-robot-intelligence-layer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【不做機器人的機器人公司】新創 Destro 用 AI 智慧層協調人機作業，解決倉儲轉運自動化難題",
+    "date": "2026-11-06 10:09:35"
+  },
+  {
     "link": "https://techorange.com/2026/11/06/kneron-nasdaq-ipo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "耐能衝刺 Nasdaq IPO、營收達去年約 3 倍：從賣 AI 晶片跨足算力服務，瞄準什麼商機？",
     "date": "2026-11-06 09:27:21"
@@ -43,35 +73,5 @@
     "link": "https://techorange.com/2026/11/05/nvidia-china-cloud-restrictions-sk-hynix-us-chip-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】NVIDIA 傳設 51% 非中企門檻！SK 海力士 450 億美元美國建廠案遇阻",
     "date": "2026-11-05 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/04/chatgpt-search-one-fifth-google-query-growth/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "ChatGPT「類搜尋查詢」達 Google 五分之一，Google 查詢成長率卻創 5 年新高？兩組數字為何不矛盾",
-    "date": "2026-11-04 17:21:10"
-  },
-  {
-    "link": "https://techorange.com/2026/11/04/hkma-project-sage-agentic-finance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 代理替客戶動錢，誰來把關？美國大銀行先擋，香港金管局研議身分與授權驗證",
-    "date": "2026-11-04 16:41:56"
-  },
-  {
-    "link": "https://techorange.com/2026/11/04/vicone-gtc-berlin-rthena-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 機器人不只要聰明，更要安全！VicOne 於 GTC Berlin 展示 Rthena 即時資安防護技術",
-    "date": "2026-11-04 15:33:07"
-  },
-  {
-    "link": "https://techorange.com/2026/11/04/crowdstrike-ai-kill-switch-agent-governance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 代理失控喊停就夠了嗎？從 CrowdStrike「終止開關」看代理治理四道關卡",
-    "date": "2026-11-04 12:54:18"
-  },
-  {
-    "link": "https://techorange.com/2026/11/04/apple-siri-ai-open-to-all-developers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Apple 加速 Siri AI Agent 化：開放第三方 App 自訂操作，還能串接多步驟任務",
-    "date": "2026-11-04 11:10:58"
-  },
-  {
-    "link": "https://techorange.com/2026/11/04/designing-ai-agents-to-prevent-mistakes/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【可靠的代理人懂得暫停】讓 AI 代理行動前先產出計畫，比對權限範圍再決定執行",
-    "date": "2026-11-04 10:17:56"
   }
 ]
