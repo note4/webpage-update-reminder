@@ -1,11 +1,61 @@
 [
   {
+    "link": "https://github.com/matthewmrichter/mooftcp",
+    "title": "[英] MoofTCP – A modern replacement for MacTCP on 68k Macs",
+    "date": "2026-11-06"
+  },
+  {
+    "link": "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/",
+    "title": "[英] Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears",
+    "date": "2026-11-06"
+  },
+  {
+    "link": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
+    "title": "[英] Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+    "date": "2026-11-06"
+  },
+  {
+    "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+    "title": "[英] Inkling 2 Small",
+    "date": "2026-11-06"
+  },
+  {
+    "link": "https://www.fgc.org.br/comunicado",
+    "title": "[英] Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
+    "date": "2026-11-06"
+  },
+  {
+    "link": "https://firenook.dev/",
+    "title": "[英] Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+    "date": "2026-11-06"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50385764",
+    "title": "[英] undefined",
+    "date": "2026-11-06"
+  },
+  {
+    "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+    "title": "[英] Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+    "date": "2026-11-06"
+  },
+  {
+    "link": "https://www.404media.co/republicans-learn-x-is-an-echo-chamber/",
+    "title": "[英] Republicans Learn X Is the Echo Chamber",
+    "date": "2026-11-06"
+  },
+  {
+    "link": "https://github.com/anthropics/claude-code/issues/107757",
+    "title": "[英] Claude Code sends your email address to websites",
+    "date": "2026-11-06"
+  },
+  {
     "link": "https://www.columnblog.com/p/how-safety-rhetoric-is-weaponized",
     "title": "[英] How \"Safety\" Rhetoric Is Weaponized to Protect Israel and Smear Its Critics",
     "date": "2026-11-06"
   },
   {
-    "link": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
+    "link": "https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks",
     "title": "[英] $2.5T has been wiped from US stocks",
     "date": "2026-11-06"
   },
@@ -22,56 +72,6 @@
   {
     "link": "https://finance.yahoo.com/markets/article/chip-stocks-get-slaughtered-as-wall-street-heads-for-its-worst-post-midterm-day-since-1896-163413900.html",
     "title": "[英] Chip stocks get slaughtered as Wall Street in worst post-midterm day since 1896",
-    "date": "2026-11-06"
-  },
-  {
-    "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-    "title": "[英] MS Paint Remote Code Execution Vulnerability",
-    "date": "2026-11-06"
-  },
-  {
-    "link": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
-    "title": "[英] The Cost of Blogging",
-    "date": "2026-11-06"
-  },
-  {
-    "link": "https://kagi.com/changelog",
-    "title": "[英] Kagi Search for Everyone",
-    "date": "2026-11-06"
-  },
-  {
-    "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-    "title": "[英] Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-    "date": "2026-11-06"
-  },
-  {
-    "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-    "title": "[英] Goodbye from Salon",
-    "date": "2026-11-06"
-  },
-  {
-    "link": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-    "title": "[英] The Hackintosh Reborn",
-    "date": "2026-11-06"
-  },
-  {
-    "link": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-    "title": "[英] Hungary: Communist-era files released, up to 60k former agents revealed",
-    "date": "2026-11-06"
-  },
-  {
-    "link": "https://www.ryanprior.com/posts/nyquist-limit-frequency-of-changes-in-tech-invalidates-understanding/",
-    "title": "[英] Nyquist Limit:The frequency of changes in tech is invalidating our understanding",
-    "date": "2026-11-06"
-  },
-  {
-    "link": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
-    "title": "[英] NTS: Authenticated Time at Meta",
-    "date": "2026-11-06"
-  },
-  {
-    "link": "https://archive.org/details/howtoliewithstat00huff",
-    "title": "[英] How to Lie With Statistics (1954)",
     "date": "2026-11-06"
   }
 ]
