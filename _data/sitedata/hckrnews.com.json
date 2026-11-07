@@ -1,7 +1,62 @@
 [
   {
+    "link": "https://www.retrosongbird.com/",
+    "title": "[英] Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
+    "date": "2026-11-08"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+    "title": "[英] Uranium cubes reveal why the German nuclear project failed",
+    "date": "2026-11-08"
+  },
+  {
+    "link": "https://eyesrhythm.com/",
+    "title": "[英] Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+    "date": "2026-11-08"
+  },
+  {
+    "link": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+    "title": "[英] Shadow of the Sun",
+    "date": "2026-11-08"
+  },
+  {
+    "link": "https://wherewerewe.app/",
+    "title": "[英] Show HN: Where Were We",
+    "date": "2026-11-08"
+  },
+  {
+    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "title": "[英] Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "date": "2026-11-08"
+  },
+  {
+    "link": "https://unfix.dev/",
+    "title": "[英] Show HN: Green tests are not proof – verifier for C/C++ and firmware fixes",
+    "date": "2026-11-08"
+  },
+  {
+    "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+    "title": "[英] GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
+    "date": "2026-11-08"
+  },
+  {
+    "link": "https://cowboystatedaily.com/2026/11/04/yes-you-can-pass-a-nuclear-missile-driving-on-interstate-80-through-wyoming/",
+    "title": "[英] Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming",
+    "date": "2026-11-08"
+  },
+  {
+    "link": "https://www.sussi.dk/terry-pratchetts-study",
+    "title": "[英] Terry Pratchett's Study",
+    "date": "2026-11-08"
+  },
+  {
+    "link": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
+    "title": "[英] The typo generation is damaging literature",
+    "date": "2026-11-08"
+  },
+  {
     "link": "https://prog21.dadgum.com/19.html",
-    "title": "[英] Five Memorable Books About Programming",
+    "title": "[英] Five memorable books about programming (2008)",
     "date": "2026-11-08"
   },
   {
@@ -11,67 +66,12 @@
   },
   {
     "link": "https://blog.bosscher.ch/posts/openstick/",
-    "title": "[英] What I run on my $10 USD OpenStick, Linux, Homelab",
-    "date": "2026-11-08"
-  },
-  {
-    "link": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
-    "title": "[英] Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+    "title": "[英] What I run on my $10 USD OpenStick homelab",
     "date": "2026-11-08"
   },
   {
     "link": "https://sheets.works/data-viz/cpu-dies",
     "title": "[英] Every processor die anyone has photographed and given away",
-    "date": "2026-11-08"
-  },
-  {
-    "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-    "title": "[英] MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-    "date": "2026-11-08"
-  },
-  {
-    "link": "https://owenlacey.dev/railcube-optimisation/post",
-    "title": "[英] Optimising the Rail Cube",
-    "date": "2026-11-08"
-  },
-  {
-    "link": "https://github.com/ndrean/ZeBridge",
-    "title": "[英] ZeBridge – PostgreSQL replicas on devices, synchronized over NATS",
-    "date": "2026-11-08"
-  },
-  {
-    "link": "https://github.com/hedgerow-dev/coldframe",
-    "title": "[英] Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "date": "2026-11-08"
-  },
-  {
-    "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-    "title": "[英] Apple Keyboard has a blacklist of phrases you can't swipe",
-    "date": "2026-11-08"
-  },
-  {
-    "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-    "title": "[英] Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-    "date": "2026-11-08"
-  },
-  {
-    "link": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-    "title": "[英] How Long Can Life Wait?",
-    "date": "2026-11-08"
-  },
-  {
-    "link": "https://kevinboone.me/tpwin.html",
-    "title": "[英] They don't make 'em like that any more: Borland Turbo Pascal 7",
-    "date": "2026-11-08"
-  },
-  {
-    "link": "https://textjs.org/",
-    "title": "[英] Text.js: Build full-stack React apps that render inside console.log",
-    "date": "2026-11-08"
-  },
-  {
-    "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
-    "title": "[英] The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]",
     "date": "2026-11-08"
   }
 ]
