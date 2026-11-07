@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+    "title": "[英] Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+    "date": "2026-11-07"
+  },
+  {
+    "link": "https://mitchellh.com/writing/libghostty-1-0",
+    "title": "[英] Libghostty 1.0",
+    "date": "2026-11-07"
+  },
+  {
+    "link": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+    "title": "[英] Can GROUP BY still be optimized after all these years?",
+    "date": "2026-11-07"
+  },
+  {
+    "link": "https://developers.openai.com/api/docs/guides/voice-sip",
+    "title": "[英] Outbound SIP calling is now available to all organizations",
+    "date": "2026-11-07"
+  },
+  {
+    "link": "https://nocveday.com/",
+    "title": "[英] No CVE Today, Please",
+    "date": "2026-11-07"
+  },
+  {
+    "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+    "title": "[英] GitHub's new Git storage architecture",
+    "date": "2026-11-07"
+  },
+  {
+    "link": "https://www.vulture.com/article/annie-ernaux-interview-french-protests-nobel-prize.html",
+    "title": "[英] Annie Ernaux still feels like an outsider",
+    "date": "2026-11-07"
+  },
+  {
+    "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+    "title": "[英] Sodium-ion batteries approach cost parity with LFP",
+    "date": "2026-11-07"
+  },
+  {
+    "link": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+    "title": "[英] ChatGPT silently passes data between connectors and the bounty wants an ID card",
+    "date": "2026-11-07"
+  },
+  {
+    "link": "https://sunshowers.io/posts/sshole/",
+    "title": "[英] *sshole, or when are we going to get rid of C?",
+    "date": "2026-11-07"
+  },
+  {
+    "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+    "title": "[英] Google has acquired Crusoe's data center site in southeast Wyoming",
+    "date": "2026-11-07"
+  },
+  {
+    "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+    "title": "[英] The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+    "date": "2026-11-07"
+  },
+  {
     "link": "https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html",
     "title": "[英] The Valley Bubble Breaks",
     "date": "2026-11-07"
@@ -12,66 +72,6 @@
   {
     "link": "https://github.com/piercefreeman/waymark",
     "title": "[英] Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
-    "date": "2026-11-07"
-  },
-  {
-    "link": "https://sketchagent.dev/",
-    "title": "[英] SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-    "date": "2026-11-07"
-  },
-  {
-    "link": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-    "title": "[英] Show HN: Agents infer Lego mechanisms from sources, then animate them",
-    "date": "2026-11-07"
-  },
-  {
-    "link": "https://openai.com/index/partnering-with-hacktron/",
-    "title": "[英] Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-    "date": "2026-11-07"
-  },
-  {
-    "link": "https://github.com/tharun208/cloneguard",
-    "title": "[英] Show HN: CloneGuard – Scan a repo for credential-stealing tricks before it runs",
-    "date": "2026-11-07"
-  },
-  {
-    "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
-    "title": "[英] A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-    "date": "2026-11-07"
-  },
-  {
-    "link": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
-    "title": "[英] As the Japanese countryside empties out, wildlife is disappearing",
-    "date": "2026-11-07"
-  },
-  {
-    "link": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
-    "title": "[英] How octopuses squeeze through too small gaps",
-    "date": "2026-11-07"
-  },
-  {
-    "link": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-    "title": "[英] Restaurant Delivery Payment-Skimming Campaign",
-    "date": "2026-11-07"
-  },
-  {
-    "link": "https://pwn.ai/blog/firecracker-escape",
-    "title": "[英] Firecracker VM Escape: PwnEscape Part 2",
-    "date": "2026-11-07"
-  },
-  {
-    "link": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
-    "title": "[英] Democrats launching congressional investigations into SpaceXAI, META and Apple",
-    "date": "2026-11-07"
-  },
-  {
-    "link": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
-    "title": "[英] Replit rebuilt its sandbox engine with microVMs",
-    "date": "2026-11-07"
-  },
-  {
-    "link": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
-    "title": "[英] My first and last telegram was from Rebecca West",
     "date": "2026-11-07"
   }
 ]
