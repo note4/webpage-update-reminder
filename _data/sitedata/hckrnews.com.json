@@ -1,77 +1,77 @@
 [
   {
+    "link": "https://www.delorie.com/djgpp/history.html",
+    "title": "[英] The History of Djgpp",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50417407",
+    "title": "[英] Ask HN: What are you working on? (November 2026)",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+    "title": "[英] Playing with the STM32MP2",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+    "title": "[英] The Web Is More Than Enough, by Paul Ford",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://en.cppreference.com/cpp/numeric/random",
+    "title": "[英] Everything should be a random number generator",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+    "title": "[英] Nvidia Board of Directors Is Investigating Jensen Huang",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://www.spacex.com/launches/starship-flight-15",
+    "title": "[英] Starship Flight 15 on 11/13 plans to catch both booster and ship",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+    "title": "[英] How I Fight AI Brain Fry",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
+    "title": "[英] Edward Hopper's Iconic Painting, \"Nighthawks",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://kevinboone.me/cpmzork.html",
+    "title": "[英] Playing Zork 1 on a CP/M emulator on Linux (2021)",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://duxlabs.dev/",
+    "title": "[英] Dux: Free, open-source Wayland desktop shell with file manager and theming",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+    "title": "[英] Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://www.ricomputermuseum.org/collections-gallery/equipment/dec-pdp-8e/pdp-8e-restoration-log",
+    "title": "[英] PDP-8/E Restoration Log",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://declarative-dragging.github.io/",
+    "title": "[英] Declarative Dragging",
+    "date": "2026-11-09"
+  },
+  {
     "link": "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign",
     "title": "[英] UK House of Lords to propose mandatory CSAM detection software on smartphones",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-    "title": "[英] Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-    "title": "[英] Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://packethound.app/",
-    "title": "[英] A Little Snitch for Windows",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://github.com/vsmutok/FuckCaptcha",
-    "title": "[英] A field guide to CAPTCHA types and how they break",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
-    "title": "[英] Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-    "title": "[英] RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50414839",
-    "title": "[英] undefined",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-    "title": "[英] Show HN: Vegetable Gardening for Engineers",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
-    "title": "[英] Top Astrophysicist Leaves U.S.",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://www.epatters.org/post/e-graphs-1/",
-    "title": "[英] How to prove equations using diagrams, part 1",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://scrine.io/",
-    "title": "[英] Scrine – Joyscroll books. Read any book one sentence at a time",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
-    "title": "[英] Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow",
-    "title": "[英] I have never seen a game fail because the artists were too slow",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
-    "title": "[英] Drones built to look like birds evaded detection at Air Force tech exercise",
     "date": "2026-11-09"
   }
 ]
