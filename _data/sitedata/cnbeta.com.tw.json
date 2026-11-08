@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1585434.htm",
+    "title": "微软悄悄打造全新WinUI注册表编辑器 原生支持Windows 11视觉设计",
+    "date": "2026-11-08 15:34:04"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1585432.htm",
+    "title": "玩家在Claude指导下将故障微星笔记本拆至只剩主板 改造成挂墙智能家居服务器",
+    "date": "2026-11-08 15:28:05"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1585430.htm",
+    "title": "微软加码推广新版Outlook Windows 11用户试用即可获得奖励积分",
+    "date": "2026-11-08 15:27:13"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1585428.htm",
+    "title": "CPU-Z统计显示16GB内存配置重新走强 32GB与64GB容量占比出现下滑",
+    "date": "2026-11-08 15:22:22"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1585426.htm",
+    "title": "Epic确认新启动器将支持SteamOS Steam Deck原生体验有望迎来改善",
+    "date": "2026-11-08 15:13:21"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1585424.htm",
+    "title": "巴布亚新几内亚岩石记录90公里深处热史 俯冲带温度变化超出模型预期",
+    "date": "2026-11-08 15:12:34"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1585422.htm",
+    "title": "英国科学家破解1600年前罗马变色玻璃之谜 成功重现古代琉璃杯的光学效果",
+    "date": "2026-11-08 15:08:44"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1585420.htm",
+    "title": "科学家利用环境辐射为传感器供电 无需电池即可持续运行",
+    "date": "2026-11-08 15:07:32"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/tech/1585418.htm",
     "title": "Googlebook更新优化本地AI内存占用 最高可释放6GB系统内存",
     "date": "2026-11-08 07:11:11"
@@ -33,45 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/game/1585406.htm",
     "title": "收购EA之后 银湖资本与沙特公共投资基金据报出价250亿美元收购Unity",
     "date": "2026-11-08 00:58:17"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1585404.htm",
-    "title": "欧空局赫拉探测器首次近距离拍摄到Didymos双小行星系统",
-    "date": "2026-11-08 00:56:25"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1585402.htm",
-    "title": "任天堂将推更多重制作品 粉丝盼姆吉拉假面与马64",
-    "date": "2026-11-08 00:52:43"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/movie/1585400.htm",
-    "title": "消息称古天乐拟进军内地网剧市场 与马楚成再合作警匪剧",
-    "date": "2026-11-08 00:51:46"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1585398.htm",
-    "title": "51岁男子行凶致墨尔本华人骑手身亡 熊猫外卖正核实并帮扶家属",
-    "date": "2026-11-08 00:51:37"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1585396.htm",
-    "title": "今年双11 为什么收到的快递包装变烂了？",
-    "date": "2026-11-08 00:50:20"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1585394.htm",
-    "title": "被年轻人遗忘的磁带 正在AI时代闷声发大财",
-    "date": "2026-11-08 00:48:58"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1585392.htm",
-    "title": "索尼全球首发养老黑科技 不靠摄像头 Wi-Fi信号即可检测老人跌倒",
-    "date": "2026-11-08 00:46:53"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1585390.htm",
-    "title": "苹果研究团队披露机器人“大脑”进展 调用千问模型在宇树G1上验证",
-    "date": "2026-11-08 00:43:30"
   }
 ]
