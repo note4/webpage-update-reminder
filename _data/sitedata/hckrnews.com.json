@@ -1,7 +1,57 @@
 [
   {
+    "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+    "title": "[英] I'm Not Convinced the AI Bubble Exists",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+    "title": "[英] Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+    "title": "[英] Unlocking any car from X brand in most of the world",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://nautil.us/the-kekul-problem-236574",
+    "title": "[英] The Kekulé Problem – Cormac McCarthy",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://isocpp.org/files/papers/P4454R0.pdf",
+    "title": "[英] Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://github.com/SafeScript/safescript",
+    "title": "[英] Show HN: SafeScript, a safe version of JavaScript for executing untrusted code",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://ketchup3d.github.io/app/",
+    "title": "[英] KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://chimera-vocal-synth.vercel.app/",
+    "title": "[英] Chimera Vocal Synth",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://github.com/lecodev-26/nexus-q",
+    "title": "[英] Designing Rust APIs around KEM, AEAD and key derivation workflows",
+    "date": "2026-11-09"
+  },
+  {
+    "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+    "title": "[英] Nvidia CEO Jensen Huang's letter to staff about affair",
+    "date": "2026-11-09"
+  },
+  {
     "link": "https://www.delorie.com/djgpp/history.html",
-    "title": "[英] The History of Djgpp",
+    "title": "[英] The History of Djgpp (1998)",
     "date": "2026-11-09"
   },
   {
@@ -22,56 +72,6 @@
   {
     "link": "https://en.cppreference.com/cpp/numeric/random",
     "title": "[英] Everything should be a random number generator",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-    "title": "[英] Nvidia Board of Directors Is Investigating Jensen Huang",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://www.spacex.com/launches/starship-flight-15",
-    "title": "[英] Starship Flight 15 on 11/13 plans to catch both booster and ship",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-    "title": "[英] How I Fight AI Brain Fry",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
-    "title": "[英] Edward Hopper's Iconic Painting, \"Nighthawks",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://kevinboone.me/cpmzork.html",
-    "title": "[英] Playing Zork 1 on a CP/M emulator on Linux (2021)",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://duxlabs.dev/",
-    "title": "[英] Dux: Free, open-source Wayland desktop shell with file manager and theming",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-    "title": "[英] Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://www.ricomputermuseum.org/collections-gallery/equipment/dec-pdp-8e/pdp-8e-restoration-log",
-    "title": "[英] PDP-8/E Restoration Log",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://declarative-dragging.github.io/",
-    "title": "[英] Declarative Dragging",
-    "date": "2026-11-09"
-  },
-  {
-    "link": "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign",
-    "title": "[英] UK House of Lords to propose mandatory CSAM detection software on smartphones",
     "date": "2026-11-09"
   }
 ]
