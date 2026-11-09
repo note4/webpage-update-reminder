@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+    "title": "[英] Developers can now build with Google Maps Platform in AI Studio.",
+    "date": "2026-11-10 01:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "title": "[英] Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+    "date": "2026-11-09 21:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
+    "title": "[英] Holiday 100: Your guide to this year’s top trending gifts",
+    "date": "2026-11-09 20:00:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
     "title": "[英] Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
     "date": "2026-11-06 04:00:00"
@@ -45,18 +60,8 @@
     "date": "2026-11-03 22:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
-    "title": "[英] New research shows how Guided Learning supports students",
-    "date": "2026-11-03 22:00:00"
-  },
-  {
     "link": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
     "title": "[英] We’re providing funding for organizations building AI for teachers.",
-    "date": "2026-11-03 22:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/",
-    "title": "[英] Working collaboratively to fight scams in Asia Pacific",
     "date": "2026-11-03 22:00:00"
   },
   {
@@ -65,13 +70,8 @@
     "date": "2026-11-03 22:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
-    "title": "[英] Expanding AI educator training to new countries",
+    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/",
+    "title": "[英] Working collaboratively to fight scams in Asia Pacific",
     "date": "2026-11-03 22:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-    "title": "[英] Advancing research and partnering with universities in Singapore",
-    "date": "2026-11-03 12:30:00"
   }
 ]
