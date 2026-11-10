@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/intl/zh-tw/products/cloud/-tpu-8i-max-and-8tx/",
+    "title": "專為代理時代打造：最新 TPU 8tx 與 8i Max 登場",
+    "date": "2026-11-10 17:00:00"
+  },
+  {
     "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/gemini-shopping/",
     "title": "用 Gemini 讓購物變得更簡單",
     "date": "2026-11-09 17:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/intl/zh-tw/products/cloud/gemini-enterprise-for-financial-service-and-legal/",
     "title": "Gemini Enterprise 現為各行各業量身打造專屬解決方案",
     "date": "2026-08-26 19:00:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/explore-get-answers/back-to-school-2026/",
-    "title": "為台灣學生解鎖 AI 學習超能力",
-    "date": "2026-08-20 18:00:00"
   }
 ]
