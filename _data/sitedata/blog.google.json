@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "title": "[英] Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "date": "2026-11-12 02:00:00"
+  },
+  {
+    "link": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/",
+    "title": "[英] Built on Googlebook: Play Henry Cavill’s video game to support Movember",
+    "date": "2026-11-12 02:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+    "title": "[英] Talk it through with Gemini, now on Apple CarPlay",
+    "date": "2026-11-12 01:00:00"
+  },
+  {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/",
+    "title": "[英] Google’s ongoing commitment to the veteran community",
+    "date": "2026-11-12 01:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/",
+    "title": "[英] Google Cloud leaders share what to expect in cybersecurity for 2027.",
+    "date": "2026-11-12 01:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
+    "title": "[英] Get certified as a Google Cloud Professional Agentic Architect.",
+    "date": "2026-11-12 01:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
     "title": "[英] Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
     "date": "2026-11-12 00:00:00"
@@ -30,6 +60,11 @@
     "date": "2026-11-11 01:20:00"
   },
   {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
+    "title": "[英] Gemini 4 Carbon is now available for developers.",
+    "date": "2026-11-11 00:00:00"
+  },
+  {
     "link": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
     "title": "[英] Introducing 3 new domains: .eat, .fly, and .here",
     "date": "2026-11-11 00:00:00"
@@ -38,40 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
     "title": "[英] Gemini 4 Carbon is now available",
     "date": "2026-11-11 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
-    "title": "[英] Introducing the Multimodal Knowledge Agent benchmark",
-    "date": "2026-11-11 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
-    "title": "[英] Gemini 4 Carbon is now available for developers.",
-    "date": "2026-11-11 00:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/",
-    "title": "[英] 40 years of American culinary history with the James Beard Foundation",
-    "date": "2026-11-10 22:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-    "title": "[英] We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-    "date": "2026-11-10 22:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-    "title": "[英] Google Cloud launches Gemini for healthcare.",
-    "date": "2026-11-10 21:00:00"
-  },
-  {
-    "link": "https://blog.google/waze/garmin-safety-cyclists/",
-    "title": "[英] Waze and Garmin team up to boost driver awareness of cyclists.",
-    "date": "2026-11-10 20:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
-    "title": "[英] Developers can now build with Google Maps Platform in AI Studio.",
-    "date": "2026-11-10 01:00:00"
   }
 ]

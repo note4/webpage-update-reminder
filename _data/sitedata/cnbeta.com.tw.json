@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1586010.htm",
+    "title": "AWS CEO认为太空数据中心未来10-20年难以实现商业化 马斯克有不同看法",
+    "date": "2026-11-12 06:56:55"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1586008.htm",
+    "title": "美联航出手限制AI代理订票 未经授权的智能助手将被禁止访问平台",
+    "date": "2026-11-12 06:56:04"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1586006.htm",
+    "title": "科学家发现室温超导的关键条件：电子配对在室温下依然能够维持",
+    "date": "2026-11-12 06:54:41"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1586004.htm",
+    "title": "苹果员工因苹果园区附近致命交通肇事被控谋杀罪",
+    "date": "2026-11-12 06:52:06"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1586002.htm",
+    "title": "欧盟《数字公平法案》草案拟监管游戏战利品箱与虚拟货币",
+    "date": "2026-11-12 06:51:15"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1586000.htm",
+    "title": "PS5固件14.22破解者不公开越狱工具及《GTA6》文件",
+    "date": "2026-11-12 06:50:48"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1585998.htm",
+    "title": "《GTA6》约212GB预载推高欧洲多国网络流量",
+    "date": "2026-11-12 06:49:23"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1585996.htm",
+    "title": "行业观察：新一代玩家缺乏耐心 下载游戏习惯渐没落",
+    "date": "2026-11-12 06:49:18"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1585994.htm",
+    "title": "美国两位重量级议员称国会准备向英伟达黄仁勋发传票",
+    "date": "2026-11-12 06:48:18"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1585992.htm",
+    "title": "黄仁勋又被爆与向他汇报的英伟达高管有婚外情",
+    "date": "2026-11-12 06:47:24"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1585990.htm",
+    "title": "有消息称英伟达拟罢免首席执行官黄仁勋 英伟达盘后股价大跌8%",
+    "date": "2026-11-12 06:46:38"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1585988.htm",
+    "title": "英特尔256核至强Diamond Rapids处理器真身曝光",
+    "date": "2026-11-12 03:30:08"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1585986.htm",
+    "title": "IBM公布新一代量子处理器路线图 目标实现万次量子操作并突破千量子比特",
+    "date": "2026-11-12 02:24:17"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/game/1585984.htm",
     "title": "任天堂提交新一轮DMCA通知 GitHub下架144个Switch改机芯片仓库",
     "date": "2026-11-11 23:37:47"
@@ -8,70 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/tech/1585982.htm",
     "title": "连续7个月下滑超20% 中汽协：乘用车年销或不足1900万辆",
     "date": "2026-11-11 23:36:55"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1585980.htm",
-    "title": "巨型系外行星质量达木星11倍 颠覆科学家对行星形成的认知",
-    "date": "2026-11-11 23:26:44"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1585978.htm",
-    "title": "加州理工学院≈机器人首次在轨自主完成太空结构组装",
-    "date": "2026-11-11 23:26:21"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1585976.htm",
-    "title": "DeepMind发布AlphaGenome 2 深入单个细胞寻找遗传变异与疾病之间的联系",
-    "date": "2026-11-11 23:24:42"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1585974.htm",
-    "title": "Mozilla宣布开放Firefox免费内置VPN无限流量至2027年1月31日",
-    "date": "2026-11-11 23:23:36"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1585972.htm",
-    "title": "Adobe扩大Windows on Arm支持范围 InDesign和InCopy支持原生运行",
-    "date": "2026-11-11 23:07:54"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1585970.htm",
-    "title": "苹果供应商证实参与AI眼镜与智能AirPods开发",
-    "date": "2026-11-11 22:50:52"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1585968.htm",
-    "title": "5元能解决却收260元？啄木鸟再曝“小病大修” 网点负责人直接承认在骗",
-    "date": "2026-11-11 22:43:34"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1585966.htm",
-    "title": "腾讯28岁生日上线“元宝搜索”：广告与答案明确区分",
-    "date": "2026-11-11 22:43:00"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1585964.htm",
-    "title": "Anthropic IPO获数倍超额认购 最高拟募资904亿美元 或创全球IPO纪录",
-    "date": "2026-11-11 22:38:44"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1585962.htm",
-    "title": "Adobe MAX 2026展示未来创意工具 能理解物体间的关联关系",
-    "date": "2026-11-11 22:08:46"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/science/1585960.htm",
-    "title": "尘封40年的核聚变技术重获突破 高功率无线电波或助反应堆实现持续运行",
-    "date": "2026-11-11 22:05:04"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1585958.htm",
-    "title": "FreeBSD公布2026年第三季度开发报告 88%开发者支持制定AI使用政策",
-    "date": "2026-11-11 21:24:02"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1585956.htm",
-    "title": "《侠盗猎车手VI》热潮席卷职场 罗技为7000名员工推出“游戏假”",
-    "date": "2026-11-11 21:23:38"
   }
 ]
