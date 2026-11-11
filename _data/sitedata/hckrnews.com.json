@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+    "title": "[英] A great old-timey game-programming hack (2013)",
+    "date": "2026-11-11"
+  },
+  {
+    "link": "https://tis-100.wincon.dev/",
+    "title": "[英] LLMs Play Zachtronics' TIS-100",
+    "date": "2026-11-11"
+  },
+  {
+    "link": "https://en.wikipedia.org/wiki/Ergodic_literature",
+    "title": "[英] Ergodic Literature",
+    "date": "2026-11-11"
+  },
+  {
+    "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+    "title": "[英] AI is an information gateway. Audiences still don't want it making their news",
+    "date": "2026-11-11"
+  },
+  {
+    "link": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
+    "title": "[英] Research taste in history: the importance of learning Babylonian math",
+    "date": "2026-11-11"
+  },
+  {
+    "link": "https://aircad.com",
+    "title": "[英] Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+    "date": "2026-11-11"
+  },
+  {
+    "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
+    "title": "[英] $30M Raised to Redo the CPU",
+    "date": "2026-11-11"
+  },
+  {
+    "link": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
+    "title": "[英] Pinot Noir: inside the criminal gangs making fake wine",
+    "date": "2026-11-11"
+  },
+  {
+    "link": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+    "title": "[英] The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+    "date": "2026-11-11"
+  },
+  {
+    "link": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+    "title": "[英] Hacking the meta ray-ban smartglasses",
+    "date": "2026-11-11"
+  },
+  {
+    "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "title": "[英] After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+    "date": "2026-11-11"
+  },
+  {
     "link": "https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html",
     "title": "[英] Stable URLs for 42,000 Huts and Peaks",
     "date": "2026-11-11"
@@ -17,61 +72,6 @@
   {
     "link": "https://akashrajpurohit.com/blog/what-it-costs-to-run-4-apps-on-my-own-servers/",
     "title": "[英] What It Costs to Run 4 Apps on My Own Servers",
-    "date": "2026-11-11"
-  },
-  {
-    "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-    "title": "[英] Toyota brand Scion is back and it's going to sell a kei truck in America",
-    "date": "2026-11-11"
-  },
-  {
-    "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
-    "title": "[英] Six Math Essentials by Terence Tao",
-    "date": "2026-11-11"
-  },
-  {
-    "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
-    "title": "[英] Sherman Anti-Trust Act (1890",
-    "date": "2026-11-11"
-  },
-  {
-    "link": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
-    "title": "[英] Life on Claude Nine",
-    "date": "2026-11-11"
-  },
-  {
-    "link": "https://kevinboone.me/vulcan.html",
-    "title": "[英] The planet Vulcan: a cautionary tale",
-    "date": "2026-11-11"
-  },
-  {
-    "link": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
-    "title": "[英] Saltline: First-person shooter built by Fable 5.2",
-    "date": "2026-11-11"
-  },
-  {
-    "link": "https://fingerprinting.study/",
-    "title": "[英] A comprehensive study of how fingerprintable users are",
-    "date": "2026-11-11"
-  },
-  {
-    "link": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
-    "title": "[英] What objective is reasoning solving?",
-    "date": "2026-11-11"
-  },
-  {
-    "link": "https://tuneping.com/notes/twelve-things-to-build-on-a-live-radio-index/",
-    "title": "[英] Twelve things you could build on a live index of internet radio",
-    "date": "2026-11-11"
-  },
-  {
-    "link": "https://docs.modelplane.ai/guides/inference-guide",
-    "title": "[英] An Open Field Guide to Inference Engineering",
-    "date": "2026-11-11"
-  },
-  {
-    "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
-    "title": "[英] Claude Whiteboards, Claude Sheets, and Claude Data",
     "date": "2026-11-11"
   }
 ]
