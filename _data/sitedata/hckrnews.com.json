@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://www.stingray.no/en/technology/",
-    "title": "[英] Stingray Fish Laser",
+    "link": "http://blog.nozomi.space/posts/sw2_dock/",
+    "title": "[英] Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
     "date": "2026-11-12"
   },
   {
-    "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-    "title": "[英] Lean Grimoire",
+    "link": "https://pron.github.io/posts/correctness-and-complexity",
+    "title": "[英] Why Writing Correct Software Is Hard",
     "date": "2026-11-12"
   },
   {
-    "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-    "title": "[英] Critical RCE Vulnerability in Apache HTTP Server",
+    "link": "https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s",
+    "title": "[英] Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",
     "date": "2026-11-12"
   },
   {
-    "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
-    "title": "[英] Did Life Begin in an RNA World?",
+    "link": "https://blog.benjamin.ie/legocam",
+    "title": "[英] Legocam: My Lego webcam from 2000, working on a modern Mac",
     "date": "2026-11-12"
   },
   {
-    "link": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
-    "title": "[英] How to make a CNC plasma cutter with high-frequency start",
+    "link": "https://codeberg.org/wvhulle/bootvine",
+    "title": "[英] A live tree of systemd jobs on the boot console",
     "date": "2026-11-12"
   },
   {
-    "link": "https://animationobsessive.substack.com/p/making-the-iron-giant-live",
-    "title": "[英] Making the Iron Giant Live",
+    "link": "https://news.ycombinator.com/item?id=50463813",
+    "title": "[英] undefined",
     "date": "2026-11-12"
   },
   {
-    "link": "https://developer.chrome.com/blog/modern-web-guidance-v1",
-    "title": "[英] Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
+    "link": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+    "title": "[英] Humble Bundle just killed most of their security through vibecoding",
     "date": "2026-11-12"
   },
   {
-    "link": "https://github.com/tylertms/Stela",
-    "title": "[英] A general purpose Apple Silicon layer for x86-64 PCs",
+    "link": "https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/",
+    "title": "[英] The Lost World of Aquaterra",
     "date": "2026-11-12"
   },
   {
-    "link": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
-    "title": "[英] A Brief History of Sierra Online (2017)",
+    "link": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+    "title": "[英] Jane Street: Socratic Tutor",
     "date": "2026-11-12"
   },
   {
-    "link": "https://twitter.com/watcherguru/status/2120645607866188008",
-    "title": "[英] Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+    "link": "https://jatorre.github.io/garden/",
+    "title": "[英] I gave an agent a lakehouse and control of my garden",
     "date": "2026-11-12"
   },
   {
-    "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-    "title": "[英] Nvidia is preparing to oust Jensen Huang",
+    "link": "https://www.getlazarus.org/forums/topic/17/",
+    "title": "[英] I'm Working on a FOSS Linux Pinbal Simulation Engine",
     "date": "2026-11-12"
   },
   {
-    "link": "https://www.mcmillen.dev/sigbovik/",
-    "title": "[英] 93% of paint splatters are valid Perl programs (2019)",
+    "link": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
+    "title": "[英] Bad ideas that aren't bad anymore",
     "date": "2026-11-12"
   },
   {
-    "link": "https://nayak.im/posts/optimizing-reference-deletion/",
-    "title": "[英] Optimizing Reference Deletions in Git",
+    "link": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
+    "title": "[英] Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
     "date": "2026-11-12"
   },
   {
-    "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
-    "title": "[英] Lock Your GitHub Actions",
+    "link": "https://garrettstimpson.ca/posts/2026/11/11/caught-microsoft-red-handed-with-hodometer/",
+    "title": "[英] I caught Microsoft Defender uploading my unreleased software without asking",
     "date": "2026-11-12"
   },
   {
-    "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-    "title": "[英] Jensen Huang said to have had relationship with executive who reports to him",
+    "link": "https://github.com/DaleFranks/ramasite",
+    "title": "[英] Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
     "date": "2026-11-12"
   }
 ]

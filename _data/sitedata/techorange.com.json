@@ -1,7 +1,22 @@
 [
   {
+    "link": "https://techorange.com/2026/11/12/yc-startup-school-taipei-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "YC 創業學校首度來台，點名 AI 還做不好的事：晶片驗證、硬體設計藏哪些新創機會？",
+    "date": "2026-11-12 18:52:52"
+  },
+  {
+    "link": "https://techorange.com/2026/11/12/ibm-digital-sovereignty-index/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "資料留在境內就有數位主權？IBM 調查：44% 受訪者曾遇 AI 相關主權挑戰",
+    "date": "2026-11-12 14:37:46"
+  },
+  {
+    "link": "https://techorange.com/2026/11/12/linux-foundation-agent-name-service-ai-agent-identity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 代理的「護照」誰來發？Linux 基金會納入 ANS，但驗證過不等於可信",
+    "date": "2026-11-12 12:39:42"
+  },
+  {
     "link": "https://techorange.com/2026/11/12/google-gemini-decision-1-api/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Google 加入決策模型戰局！Gemini Decision 1 一次評估千項問題，與 Jev 有何不同？",
+    "title": "Google 的決策模型來了：Gemini Decision 1 一次評估千項問題，與 Jev 有何不同？",
     "date": "2026-11-12 11:07:51"
   },
   {
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/11/10/asegroup-sas-viya-agenticai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "日月光攜手 SAS 建構 Agentic AI 智慧營運中樞",
     "date": "2026-11-10 15:07:54"
-  },
-  {
-    "link": "https://techorange.com/2026/11/10/visionbay-kneron-ai-power-compute/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "從缺 GPU 到缺電：專訪亞灣超算姚延宗、耐能劉峻誠，企業 AI 算力上雲還是留地端？",
-    "date": "2026-11-10 14:59:24"
-  },
-  {
-    "link": "https://techorange.com/2026/11/10/google-tpu-8tx-8i-max/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Google 推 TPU 8tx、8i Max，一年推出四款系統：為何不必重新設計晶片？",
-    "date": "2026-11-10 12:19:47"
-  },
-  {
-    "link": "https://techorange.com/2026/11/10/brevo-has-been-blocked-by-taiwans-cib/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "行銷科技平台 Brevo 後台遭刑事局封鎖，寄信 API、表單仍正常",
-    "date": "2026-11-10 12:00:00"
   }
 ]
