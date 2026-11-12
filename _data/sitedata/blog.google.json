@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "title": "[英] Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "date": "2026-11-13 02:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+    "title": "[英] Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+    "date": "2026-11-13 02:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "title": "[英] Introducing Gemini 4 Hydrogen",
+    "date": "2026-11-13 02:00:00"
+  },
+  {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
+    "title": "[英] Scientists are using Google AI to help restore giant kelp forests.",
+    "date": "2026-11-13 01:00:00"
+  },
+  {
+    "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
+    "title": "[英] Meet the 2026 Google PhD Fellows",
+    "date": "2026-11-13 01:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/",
+    "title": "[英] We're launching a $10 million Energy Impact Program in West Virginia.",
+    "date": "2026-11-13 01:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+    "title": "[英] Get quick answers from Gemini on any website.",
+    "date": "2026-11-13 01:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
+    "title": "[英] Designing for privacy on intelligent eyewear",
+    "date": "2026-11-12 22:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+    "title": "[英] See our intelligent eyewear lineup and pre-order your pair",
+    "date": "2026-11-12 22:00:00"
+  },
+  {
+    "link": "https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/",
+    "title": "[英] We’re introducing a new transparency tool for invalid traffic in Google Ads.",
+    "date": "2026-11-12 21:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
     "title": "[英] Gemini Decisions API: Fast, calibrated multimodal decisions",
     "date": "2026-11-12 02:00:00"
@@ -15,63 +65,13 @@
     "date": "2026-11-12 01:00:00"
   },
   {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/",
-    "title": "[英] Google’s ongoing commitment to the veteran community",
-    "date": "2026-11-12 01:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/",
-    "title": "[英] Google Cloud leaders share what to expect in cybersecurity for 2027.",
-    "date": "2026-11-12 01:00:00"
-  },
-  {
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
     "title": "[英] Get certified as a Google Cloud Professional Agentic Architect.",
     "date": "2026-11-12 01:00:00"
   },
   {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-    "title": "[英] Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-    "date": "2026-11-12 00:00:00"
-  },
-  {
-    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-    "title": "[英] Experience the art and legacy of Dr. Esther Mahlangu",
-    "date": "2026-11-11 17:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-    "title": "[英] Gemini Intelligence: New features, on more devices",
-    "date": "2026-11-11 03:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
-    "title": "[英] Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
-    "date": "2026-11-11 03:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/",
-    "title": "[英] Get step-by-step workout guidance on your Pixel Watch.",
-    "date": "2026-11-11 03:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/",
-    "title": "[英] Introducing Google Fi’s new super network",
-    "date": "2026-11-11 01:20:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
-    "title": "[英] Gemini 4 Carbon is now available for developers.",
-    "date": "2026-11-11 00:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
-    "title": "[英] Introducing 3 new domains: .eat, .fly, and .here",
-    "date": "2026-11-11 00:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-    "title": "[英] Gemini 4 Carbon is now available",
-    "date": "2026-11-11 00:00:00"
+    "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/",
+    "title": "[英] Google’s ongoing commitment to the veteran community",
+    "date": "2026-11-12 01:00:00"
   }
 ]
