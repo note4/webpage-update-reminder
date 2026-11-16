@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://techorange.com/2026/11/16/fed-financial-stability-report-ai-data-center-debt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "聯準會盤點 AI 資料中心融資：發債 3 年增至 5 倍，風險落在誰身上？",
+    "date": "2026-11-16 15:36:35"
+  },
+  {
+    "link": "https://techorange.com/2026/11/16/openai-chatgpt-wallet-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "讓 AI Agent 代刷信用卡！OpenAI 推 ChatGPT Wallet，與先前 Instant Checkout 有何不同？",
+    "date": "2026-11-16 14:32:38"
+  },
+  {
+    "link": "https://techorange.com/2026/11/16/apple-smart-glasses-flagship-product-2027-wwdc-unveil/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Apple 智慧眼鏡傳 2027 年 WWDC 亮相：不必另寫 App，靠 Siri 串起 iPhone 生態系挑戰 Meta",
+    "date": "2026-11-16 12:42:43"
+  },
+  {
+    "link": "https://techorange.com/2026/11/16/us-allies-san-francisco-declaration-pax-silica-ai-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "美日英印等 9 國簽《舊金山宣言》，矽和平從結盟走向列清單、防 AI 技術外流",
+    "date": "2026-11-16 12:23:21"
+  },
+  {
+    "link": "https://techorange.com/2026/11/16/context-is-the-competitive-advantage/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【AI 人人都有，情境才稀缺】專屬資料、機構知識、治理與夥伴關係，決定企業長期 AI 優勢",
+    "date": "2026-11-16 10:50:18"
+  },
+  {
+    "link": "https://techorange.com/2026/11/16/bitcoin-backed-loan-btc-explained/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【比特幣成新型抵押品】從證券化交易到銀行推出服務，比特幣借貸越來越像傳統金融",
+    "date": "2026-11-16 10:16:57"
+  },
+  {
     "link": "https://techorange.com/2026/11/16/robbyant-lingbot-touch-tactile-foundation-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "換感測器就得重訓觸覺模型？螞蟻靈波開源 LingBot-Touch，主打跨靈巧手共用",
     "date": "2026-11-16 08:10:00"
@@ -43,35 +73,5 @@
     "link": "https://techorange.com/2026/11/13/amazon-ai-robot-and-future-human-work/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "亞馬遜擁超過 100 萬名機器人員工，AI 調度推升倉儲效率，重複性工傷卻成隱憂",
     "date": "2026-11-13 10:11:51"
-  },
-  {
-    "link": "https://techorange.com/2026/11/13/helsing-clarity-palantir-maven-rival/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Helsing 推 Clarity 挑戰 Palantir，稱數百個 AI 代理交叉比對情報、交戰仍由人類授權",
-    "date": "2026-11-13 08:10:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/13/beijing-humanoid-robots-samsung-hbm-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】北京拚年產 20 萬台機器人！三星 HBM 新廠動工、規劃投資 46 兆韓元",
-    "date": "2026-11-13 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/12/yc-startup-school-taipei-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "YC 創業學校首度來台，點名 AI 還做不好的事：晶片驗證、硬體設計藏哪些新創機會？",
-    "date": "2026-11-12 18:52:52"
-  },
-  {
-    "link": "https://techorange.com/2026/11/12/ibm-digital-sovereignty-index/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "資料留在境內就有數位主權？IBM 調查：44% 受訪者曾遇 AI 相關主權挑戰",
-    "date": "2026-11-12 14:37:46"
-  },
-  {
-    "link": "https://techorange.com/2026/11/12/linux-foundation-agent-name-service-ai-agent-identity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 代理的「護照」誰來發？Linux 基金會納入 ANS，但驗證過不等於可信",
-    "date": "2026-11-12 12:39:42"
-  },
-  {
-    "link": "https://techorange.com/2026/11/12/google-gemini-decision-1-api/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Google 的決策模型來了：Gemini Decision 1 一次評估千項問題，與 Jev 有何不同？",
-    "date": "2026-11-12 11:07:51"
   }
 ]
