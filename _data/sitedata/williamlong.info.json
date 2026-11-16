@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.williamlong.info/archives/7569.html",
+    "title": "折腾博客：Z-Blog静态化改造，从Windows换到Linux",
+    "date": "2026-11-10 23:22:43"
+  },
+  {
     "link": "https://www.williamlong.info/archives/7568.html",
     "title": "个人站长服务器迁移实战：从 Windows 转到 Linux，AI 帮我全搞定",
     "date": "2026-11-01 21:49:43"
@@ -43,10 +48,5 @@
     "link": "https://www.williamlong.info/archives/7559.html",
     "title": "Hugo搭建静态网站教程",
     "date": "2026-08-30 22:14:30"
-  },
-  {
-    "link": "https://www.williamlong.info/archives/7558.html",
-    "title": "解决Cloudflare Pages的308自动重定向问题",
-    "date": "2026-08-20 18:40:04"
   }
 ]
