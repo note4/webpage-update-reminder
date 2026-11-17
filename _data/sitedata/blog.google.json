@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+    "title": "[英] Regional voices are rolling out in the Gemini app.",
+    "date": "2026-11-17 02:45:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
+    "title": "[英] The era of autonomous attacks has arrived.",
+    "date": "2026-11-17 02:30:00"
+  },
+  {
     "link": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
     "title": "[英] New Google AdMob AI tools help app creators build, fix, and grow faster",
     "date": "2026-11-17 01:00:00"
@@ -7,6 +17,11 @@
   {
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
     "title": "[英] New AI training performance benchmarks for Google TPUs",
+    "date": "2026-11-17 00:00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+    "title": "[英] Transform notes, research, and sources into interactive sites with Gemini Notebook.",
     "date": "2026-11-17 00:00:00"
   },
   {
@@ -58,20 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
     "title": "[英] Connect Google Wallet to Gemini for personal finance insights",
     "date": "2026-11-14 01:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
-    "title": "[英] 5 new Google Flow Tools designed by visual artists",
-    "date": "2026-11-13 04:30:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
-    "title": "[英] Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
-    "date": "2026-11-13 02:00:00"
-  },
-  {
-    "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-    "title": "[英] Google Search gets a major upgrade with Gemini 4 Hydrogen",
-    "date": "2026-11-13 02:00:00"
   }
 ]
