@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://techorange.com/2026/11/17/hhtd-2026-taiwan-robot-panel/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "機器人規格尚未定型，台廠如何搶得話語權？鴻海、華碩、Google 談場域新機會",
+    "date": "2026-11-17 16:13:05"
+  },
+  {
+    "link": "https://techorange.com/2026/11/17/alibaba-qwen4-max-cost-per-task-enterprise/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "阿里巴巴稱 Qwen4-Max 任務成本降約六成，分析師：企業還要算重試與人工驗收",
+    "date": "2026-11-17 16:00:09"
+  },
+  {
+    "link": "https://techorange.com/2026/11/17/us-curbs-remote-access-ai-chips/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "美國堵中國企業遠端租 GPU：AI 晶片出口新加坡、馬來西亞等 5 國改採許可制",
+    "date": "2026-11-17 12:55:42"
+  },
+  {
+    "link": "https://techorange.com/2026/11/17/threat-intelligence-agentic-threat-activity-crosses-significant/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Google 首度發現 AI 自動化攻擊：無人介入就能從修補程式反推漏洞、發動攻擊",
+    "date": "2026-11-17 12:17:48"
+  },
+  {
+    "link": "https://techorange.com/2026/11/17/coding-ai-agent-terrible-at-deleting/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【AI 擅長新增，還不擅長刪除】工程師提醒，清理 AI 生成的程式碼仍需人類判斷",
+    "date": "2026-11-17 09:40:57"
+  },
+  {
+    "link": "https://techorange.com/2026/11/17/ai-agent-like-a-new-hire/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【別期待 AI 上線就完美】把 AI 代理當新人，企業須指定負責人、培養主管的管理能力",
+    "date": "2026-11-17 09:40:47"
+  },
+  {
+    "link": "https://techorange.com/2026/11/17/tpisoftware-ai-first-workflow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "「AI 的下一階段，不是更會回答，而是更會工作。」昕力資訊助企業重塑 AI-first 流程",
+    "date": "2026-11-17 09:35:39"
+  },
+  {
     "link": "https://techorange.com/2026/11/17/foxconn-circ-robotics-wintel-standard/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "機器人的「Wintel」還沒出現，誰來主導標準？鴻海：台灣這次有資源參與，中光電：力量仍分散",
     "date": "2026-11-17 08:10:00"
@@ -38,40 +73,5 @@
     "link": "https://techorange.com/2026/11/16/apple-smart-glasses-flagship-product-2027-wwdc-unveil/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Apple 智慧眼鏡傳 2027 年 WWDC 亮相：不必另寫 App，靠 Siri 串起 iPhone 生態系挑戰 Meta",
     "date": "2026-11-16 12:42:43"
-  },
-  {
-    "link": "https://techorange.com/2026/11/16/us-allies-san-francisco-declaration-pax-silica-ai-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "美日英印等 9 國簽《舊金山宣言》，矽和平從結盟走向列清單、防 AI 技術外流",
-    "date": "2026-11-16 12:23:21"
-  },
-  {
-    "link": "https://techorange.com/2026/11/16/context-is-the-competitive-advantage/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【AI 人人都有，情境才稀缺】專屬資料、機構知識、治理與夥伴關係，決定企業長期 AI 優勢",
-    "date": "2026-11-16 10:50:18"
-  },
-  {
-    "link": "https://techorange.com/2026/11/16/bitcoin-backed-loan-btc-explained/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【比特幣成新型抵押品】從證券化交易到銀行推出服務，比特幣借貸越來越像傳統金融",
-    "date": "2026-11-16 10:16:57"
-  },
-  {
-    "link": "https://techorange.com/2026/11/16/robbyant-lingbot-touch-tactile-foundation-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "換感測器就得重訓觸覺模型？螞蟻靈波開源 LingBot-Touch，主打跨靈巧手共用",
-    "date": "2026-11-16 08:10:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/16/333-robots-community-meetup-october/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【333 Robots Community Meetup】女媧創造、鴻海談機器人進場：真正難的是剩下那 5%",
-    "date": "2026-11-16 06:00:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/16/tsmc-arizona-profit-global-fab-subsidies/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】台積電美國廠前 3 季賺近 540 億！日本廠轉盈、四地政府補助 1,676 億創新高",
-    "date": "2026-11-16 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/14/gartner-trends-for-2027/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【Gartner 2027 十大科技趨勢報告】AI 開發工具引爆軟體極度豐富，2030 年 80% 新軟體將轉為「用完即拋」",
-    "date": "2026-11-14 06:29:00"
   }
 ]
