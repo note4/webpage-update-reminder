@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/intl/zh-tw/products/android-chrome-play/googleplay-best-of-2026/",
+    "title": "台灣 Google Play 2026 年度最佳榜單出爐",
+    "date": "2026-11-18 07:00:00"
+  },
+  {
     "link": "https://blog.google/intl/zh-tw/products/devices-services/google-pixel-tag/",
     "title": "全新 Google Pixel Tag 幫助你守護重要隨身物品",
     "date": "2026-11-11 23:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/intl/zh-tw/company-news/inside-google/age-of-intelligence/",
     "title": "深耕台灣二十載：擴展在地佈局，迎向智慧時代",
     "date": "2026-09-02 20:00:00"
-  },
-  {
-    "link": "https://blog.google/intl/zh-tw/products/cloud/flexible-billing-and-cost-controls-for-agents-on-google-cloud/",
-    "title": "AI 時代下的 FinOps：針對 AI 代理推出全新彈性計費與成本控制工具",
-    "date": "2026-08-27 18:10:00"
   }
 ]
