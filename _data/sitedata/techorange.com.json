@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://techorange.com/2026/11/18/china-distills-us-ai-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "「蒸餾」還是竊取智財？《路透》審閱逾 300 份文件：中國已把美國 AI 的答案做成產業流程",
+    "date": "2026-11-18 14:36:13"
+  },
+  {
+    "link": "https://techorange.com/2026/11/18/dell-ai-advisory-workshop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "「AI 要能跨部門複製與持續營運。」Dell AI 服務助企業打破 POC 負循環",
+    "date": "2026-11-18 14:34:30"
+  },
+  {
+    "link": "https://techorange.com/2026/11/18/nvidia-export-control-committee/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "黃仁勳請辭後，NVIDIA 新設國安與出口管制委員會：美方追查的新加坡轉運漏洞怎麼來？",
+    "date": "2026-11-18 12:47:13"
+  },
+  {
+    "link": "https://techorange.com/2026/11/18/microsoft-ignite-2026-building-frontier-ecosystem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "微軟押注「小而專」AI 模型，稱 MAI Code 2 以 5% 成本達 Claude Opus 5.5 的 96% 效能",
+    "date": "2026-11-18 11:58:40"
+  },
+  {
+    "link": "https://techorange.com/2026/11/18/personal-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【個人 AI 代理還進不了公司】資安與成本風險未解，企業版代理人才是可行路徑",
+    "date": "2026-11-18 10:34:14"
+  },
+  {
+    "link": "https://techorange.com/2026/11/18/iab-ai-era-attribution-blueprint/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "ChatGPT 推薦後的品牌造訪，僅 8.8% 從 AI 點擊進站：IAB「歸因藍圖」先定義誰能爭功",
+    "date": "2026-11-18 09:30:29"
+  },
+  {
+    "link": "https://techorange.com/2026/11/18/delta-juluen-pcba-diamom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "巨輪興業攜手台達打造高彈性、高整合、高擴充數位製造架構",
+    "date": "2026-11-18 09:13:29"
+  },
+  {
+    "link": "https://techorange.com/2026/11/18/1118-nasa-lightday/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【劉永信專欄】11/18 飛出人類第一個「一光日」，為什麼你該認識這艘最孤獨太空船？",
+    "date": "2026-11-18 09:13:24"
+  },
+  {
     "link": "https://techorange.com/2026/11/18/openai-california-ai-agent-lawsuit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】加州起訴 OpenAI！檢方指 AI 代理測試至少 80 次失控",
     "date": "2026-11-18 05:30:00"
@@ -33,45 +73,5 @@
     "link": "https://techorange.com/2026/11/17/coding-ai-agent-terrible-at-deleting/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【AI 擅長新增，還不擅長刪除】工程師提醒，清理 AI 生成的程式碼仍需人類判斷",
     "date": "2026-11-17 09:40:57"
-  },
-  {
-    "link": "https://techorange.com/2026/11/17/ai-agent-like-a-new-hire/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【別期待 AI 上線就完美】把 AI 代理當新人，企業須指定負責人、培養主管的管理能力",
-    "date": "2026-11-17 09:40:47"
-  },
-  {
-    "link": "https://techorange.com/2026/11/17/tpisoftware-ai-first-workflow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "「AI 的下一階段，不是更會回答，而是更會工作。」昕力資訊助企業重塑 AI-first 流程",
-    "date": "2026-11-17 09:35:39"
-  },
-  {
-    "link": "https://techorange.com/2026/11/17/foxconn-circ-robotics-wintel-standard/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "機器人的「Wintel」還沒出現，誰來主導標準？鴻海：台灣這次有資源參與，中光電：力量仍分散",
-    "date": "2026-11-17 08:10:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/17/sk-hynix-semiconductor-supplier-support-trinity-fab/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】SK 海力士 5 年砸 1.4 兆韓元！打造共用驗證設施，半導體供應鏈競爭升溫",
-    "date": "2026-11-17 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/16/trump-administration-to-name-nvidia-ai-national-champions/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "美國擬公布 AI 出口支持名單：NVIDIA 等 20 多家企業傳入選，可望獲哪些政府資源？",
-    "date": "2026-11-16 16:32:27"
-  },
-  {
-    "link": "https://techorange.com/2026/11/16/dell-ai-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "「Demo 可行不等於可生產。」Dell 以供應鏈思維助製造業打造可重複運行的 AI Factory",
-    "date": "2026-11-16 15:58:30"
-  },
-  {
-    "link": "https://techorange.com/2026/11/16/gss-vital-bizform-mpc-skill/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "「不要再在 LINE 上面追進度。」叡揚 BizForm 智慧表單接起企業流程斷點，提升跨部門協作效率",
-    "date": "2026-11-16 15:54:25"
-  },
-  {
-    "link": "https://techorange.com/2026/11/16/fed-financial-stability-report-ai-data-center-debt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "聯準會盤點 AI 資料中心融資：發債 3 年增至 5 倍，風險落在誰身上？",
-    "date": "2026-11-16 15:36:35"
   }
 ]
