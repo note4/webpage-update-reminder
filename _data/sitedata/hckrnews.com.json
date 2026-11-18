@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-    "title": "[英] GPT‑6.2 Astra and Sol",
+    "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+    "title": "[英] Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
     "date": "2026-11-18"
   },
   {
-    "link": "https://twitter.com/JensenHuang/status/2122726005219737649",
-    "title": "[英] Jensen Huang Posts on X",
+    "link": "https://github.com/microsoft/onnxruntime",
+    "title": "[英] Microsoft's ONNX Runtime has disappeared from GitHub",
     "date": "2026-11-18"
   },
   {
-    "link": "https://github.com/RunanywhereAI/trnrt",
-    "title": "[英] Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+    "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "title": "[英] Harvard researchers find AI coding agents shifted the bottleneck to code review",
     "date": "2026-11-18"
   },
   {
-    "link": "https://arxiv.org/abs/2611.18126",
-    "title": "[英] Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs",
+    "link": "https://hy.tencent.ai/research/hy4-flash",
+    "title": "[英] Tencent Hy4 Flash",
     "date": "2026-11-18"
   },
   {
-    "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-    "title": "[英] Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+    "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+    "title": "[英] Latent Lattice Language Models",
     "date": "2026-11-18"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=50534429",
-    "title": "[英] YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
-    "date": "2026-11-18"
-  },
-  {
-    "link": "https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11",
-    "title": "[英] Charles Schwab website goes down",
-    "date": "2026-11-18"
-  },
-  {
-    "link": "https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2",
-    "title": "[英] Antfly learned to stop worrying and love Apache 2.0",
-    "date": "2026-11-18"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
-    "title": "[英] Jensen Huang says he’s open to returning in first statement since resignation",
-    "date": "2026-11-18"
-  },
-  {
-    "link": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
-    "title": "[英] NSA Internal Network Down",
-    "date": "2026-11-18"
-  },
-  {
-    "link": "https://egm.dev/",
-    "title": "[英] Elephant-Goldfish Model",
-    "date": "2026-11-18"
-  },
-  {
-    "link": "https://x.com/MistralAI/status/2122713540666806397",
-    "title": "[英] Mistral offers three months of Vibe Pro free in Europe",
-    "date": "2026-11-18"
-  },
-  {
-    "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-    "title": "[英] Highly classified US national security communications network goes down",
-    "date": "2026-11-18"
-  },
-  {
-    "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-    "title": "[英] What is the best harness for each model?",
-    "date": "2026-11-18"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50532822",
+    "link": "https://news.ycombinator.com/item?id=50508388",
     "title": "[英] undefined",
+    "date": "2026-11-18"
+  },
+  {
+    "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "title": "[英] Quad9's withdrawal from France: A canary in the coal mine",
+    "date": "2026-11-18"
+  },
+  {
+    "link": "https://jgeekstudies.org/2026/11/15/zoltraak-military-innovation-in-frieren/",
+    "title": "[英] Zoltraak and the Dynamics of Military Innovation",
+    "date": "2026-11-18"
+  },
+  {
+    "link": "https://calif.io/java4shell/",
+    "title": "[英] Java4Shell: RCE in OpenJDK when processing Base64",
+    "date": "2026-11-18"
+  },
+  {
+    "link": "https://stripe.press/",
+    "title": "[英] Stripe Press",
+    "date": "2026-11-18"
+  },
+  {
+    "link": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
+    "title": "[英] Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
+    "date": "2026-11-18"
+  },
+  {
+    "link": "https://www.cve.org/CVERecord?id=CVE-2026-114938",
+    "title": "[英] CVE-2026-114938 – Java4Shell",
+    "date": "2026-11-18"
+  },
+  {
+    "link": "https://www.human-md.ai/",
+    "title": "[英] Human.md",
+    "date": "2026-11-18"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.09827",
+    "title": "[英] Effects of a Nuclear Detonation in Low Earth Orbit",
+    "date": "2026-11-18"
+  },
+  {
+    "link": "https://alistair.sh/thenables",
+    "title": "[英] Fixing a WebKit bug to see if promises are made of train tracks",
     "date": "2026-11-18"
   }
 ]
