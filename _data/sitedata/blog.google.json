@@ -1,5 +1,15 @@
 [
   {
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/cybersecurity-tips/",
+    "title": "[英] Cybersecurity tips and tools to keep you safe online",
+    "date": "2026-11-18 22:00:00"
+  },
+  {
+    "link": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-november/",
+    "title": "[英] Drive your best ROI reaching new holiday shoppers with November’s Google Marketing Platform Drop.",
+    "date": "2026-11-18 22:00:00"
+  },
+  {
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
     "title": "[英] How genome mapping can help researchers better understand disease",
     "date": "2026-11-18 06:00:00"
@@ -45,13 +55,13 @@
     "date": "2026-11-18 01:00:00"
   },
   {
-    "link": "https://blog.google/topics/google-asia/google-play-best-2026/",
-    "title": "[英] The best of Google Play in Asia Pacific",
+    "link": "https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/",
+    "title": "[英] Google Play unveils the best apps, games, and books of 2026",
     "date": "2026-11-17 23:00:00"
   },
   {
-    "link": "https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/",
-    "title": "[英] Google Play unveils the best apps, games, and books of 2026",
+    "link": "https://blog.google/topics/google-asia/google-play-best-2026/",
+    "title": "[英] The best of Google Play in Asia Pacific",
     "date": "2026-11-17 23:00:00"
   },
   {
@@ -63,15 +73,5 @@
     "link": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
     "title": "[英] Regional voices are rolling out in the Gemini app.",
     "date": "2026-11-17 02:45:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
-    "title": "[英] Outpace automated cyber threats with security built for nonstop defense.",
-    "date": "2026-11-17 02:30:00"
-  },
-  {
-    "link": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
-    "title": "[英] New Google AdMob AI tools help app creators build, fix, and grow faster",
-    "date": "2026-11-17 01:00:00"
   }
 ]

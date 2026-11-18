@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/11/18/general-motors-autos-transportation-gm-plans-boost-robotics-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "GM 擬擴大工廠自動化 20%，供應商自動化計畫也納入採購評分",
+    "date": "2026-11-18 17:22:16"
+  },
+  {
+    "link": "https://techorange.com/2026/11/18/ntpcec-21-seo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "新北電商學院陪跑 21 家企業，加速數位轉型拓商機",
+    "date": "2026-11-18 16:25:15"
+  },
+  {
+    "link": "https://techorange.com/2026/11/18/ai-code-verification-operations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 寫程式越來越快，驗證變得更重要：微軟 CEO 談「軟體工廠」新模式",
+    "date": "2026-11-18 16:21:46"
+  },
+  {
     "link": "https://techorange.com/2026/11/18/china-distills-us-ai-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "「蒸餾」還是竊取智財？《路透》審閱逾 300 份文件：中國已把美國 AI 的答案做成產業流程",
     "date": "2026-11-18 14:36:13"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/11/17/alibaba-qwen4-max-cost-per-task-enterprise/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "阿里巴巴稱 Qwen4-Max 任務成本降約六成，分析師：企業還要算重試與人工驗收",
     "date": "2026-11-17 16:00:09"
-  },
-  {
-    "link": "https://techorange.com/2026/11/17/us-curbs-remote-access-ai-chips/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "美國堵中國企業遠端租 GPU：AI 晶片出口新加坡、馬來西亞等 5 國改採許可制",
-    "date": "2026-11-17 12:55:42"
-  },
-  {
-    "link": "https://techorange.com/2026/11/17/threat-intelligence-agentic-threat-activity-crosses-significant/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Google 首度發現 AI 自動化攻擊：無人介入就能從修補程式反推漏洞、發動攻擊",
-    "date": "2026-11-17 12:17:48"
-  },
-  {
-    "link": "https://techorange.com/2026/11/17/coding-ai-agent-terrible-at-deleting/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【AI 擅長新增，還不擅長刪除】工程師提醒，清理 AI 生成的程式碼仍需人類判斷",
-    "date": "2026-11-17 09:40:57"
   }
 ]

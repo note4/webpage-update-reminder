@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://www.williamlong.info/archives/7570.html",
+    "title": "老树发新芽：九年老服务器焕新记",
+    "date": "2026-11-18 23:15:47"
+  },
+  {
     "link": "https://www.williamlong.info/archives/7569.html",
     "title": "折腾博客：Z-Blog静态化改造，从Windows换到Linux",
     "date": "2026-11-10 23:22:43"
@@ -43,10 +48,5 @@
     "link": "https://www.williamlong.info/archives/7560.html",
     "title": "母亲被配音兼职诈骗",
     "date": "2026-09-01 20:12:02"
-  },
-  {
-    "link": "https://www.williamlong.info/archives/7559.html",
-    "title": "Hugo搭建静态网站教程",
-    "date": "2026-08-30 22:14:30"
   }
 ]
