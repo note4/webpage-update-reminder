@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://notesbylex.com/weight-space-programming-1990s",
+    "title": "[英] Weight-Space Programming builds neural networks like a 1990s researcher",
+    "date": "2026-11-20"
+  },
+  {
+    "link": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
+    "title": "[英] Talking Venice with Mahesh Subramony at AMD In-Depth",
+    "date": "2026-11-20"
+  },
+  {
+    "link": "https://git-aarvin.github.io/mei/",
+    "title": "[英] Gemini 4 Neon is the new #1 on the Models Engineering Index",
+    "date": "2026-11-20"
+  },
+  {
+    "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+    "title": "[英] Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+    "date": "2026-11-20"
+  },
+  {
+    "link": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
+    "title": "[英] Computer Graphics from Scratch (2021)",
+    "date": "2026-11-20"
+  },
+  {
+    "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+    "title": "[英] Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
+    "date": "2026-11-20"
+  },
+  {
+    "link": "https://regexr.com/",
+    "title": "[英] RegExr: Temporarily Offline",
+    "date": "2026-11-20"
+  },
+  {
+    "link": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+    "title": "[英] How to CAD Almost Anything",
+    "date": "2026-11-20"
+  },
+  {
+    "link": "https://www.theatlantic.com/ideas/2026/11/software-beirut-ai-outages/689508/",
+    "title": "[英] Welcome to Software Beirut",
+    "date": "2026-11-20"
+  },
+  {
+    "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+    "title": "[英] Synology Security Advisory",
+    "date": "2026-11-20"
+  },
+  {
+    "link": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
+    "title": "[英] AI Came for the Coders. Understanding Why Tells Us Who's Next",
+    "date": "2026-11-20"
+  },
+  {
+    "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+    "title": "[英] Rebuilding my local voice assistant pipeline",
+    "date": "2026-11-20"
+  },
+  {
     "link": "https://www.tisonkun.io/posts/ai-repair-program/",
     "title": "[英] Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
     "date": "2026-11-20"
@@ -12,66 +72,6 @@
   {
     "link": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
     "title": "[英] Adding Fortran Support to LLDB (GSoC 2026)",
-    "date": "2026-11-20"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-    "title": "[英] Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-    "date": "2026-11-20"
-  },
-  {
-    "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-    "title": "[英] Pancreatic cancer halted by virus injection in three patients",
-    "date": "2026-11-20"
-  },
-  {
-    "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
-    "title": "[英] AI isn't replacing your job. It's turning it into low-paid gig work",
-    "date": "2026-11-20"
-  },
-  {
-    "link": "https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html",
-    "title": "[英] Chile: UFO Sightings by 18th Century Jesuits",
-    "date": "2026-11-20"
-  },
-  {
-    "link": "https://github.com/neoma-pcam/pcam-live",
-    "title": "[英] Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising",
-    "date": "2026-11-20"
-  },
-  {
-    "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-    "title": "[英] Anthropic hits $2T in Nasdaq debut",
-    "date": "2026-11-20"
-  },
-  {
-    "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-    "title": "[英] Claude solves two open problems in the physics of black holes",
-    "date": "2026-11-20"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50562528",
-    "title": "[英] Anthropic (ANT) stock lists at nearly $2T valuation",
-    "date": "2026-11-20"
-  },
-  {
-    "link": "https://benoitrostykus.com/data_to_silicon.html",
-    "title": "[英] From data to silicon: play Connect-4 against a chip",
-    "date": "2026-11-20"
-  },
-  {
-    "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-    "title": "[英] Chrome AI features wasting much bandwidth",
-    "date": "2026-11-20"
-  },
-  {
-    "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-    "title": "[英] UK government forced to admit it issued Apple a secret encryption order",
-    "date": "2026-11-20"
-  },
-  {
-    "link": "https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/",
-    "title": "[英] ICE Is Paying AT&T to Dig Through a Mountain of Call Records",
     "date": "2026-11-20"
   }
 ]

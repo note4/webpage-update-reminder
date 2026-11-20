@@ -1,5 +1,20 @@
 [
   {
+    "link": "https://techorange.com/2026/11/20/openai-amd-chip-design/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "旗艦 GPU 還能再升級？OpenAI 用 AI 重寫 RTL 電路，助 AMD PPA 最高再提升 14%",
+    "date": "2026-11-20 08:30:00"
+  },
+  {
+    "link": "https://techorange.com/2026/11/20/the-realreal-dual-ai-athena-ask-trr/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "當每件商品都只有一件，怎麼賣得快？二手精品平台 The RealReal 用兩套 AI 改造倉庫與搜尋",
+    "date": "2026-11-20 08:10:00"
+  },
+  {
+    "link": "https://techorange.com/2026/11/20/anthropic-record-ipo-ai-compute-competition/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【科技早餐】Anthropic 813 億美元 IPO 創紀錄！AI 模型競爭轉向算力與資本",
+    "date": "2026-11-20 05:30:00"
+  },
+  {
     "link": "https://techorange.com/2026/11/19/google-meta-ai-self-improving-memory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "AI 代理學會自己整理筆記？Google 記下「為何這樣改」、Meta 試著把技巧練進模型",
     "date": "2026-11-19 17:12:40"
@@ -58,20 +73,5 @@
     "link": "https://techorange.com/2026/11/18/china-distills-us-ai-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "「蒸餾」還是竊取智財？《路透》審閱逾 300 份文件：中國已把美國 AI 的答案做成產業流程",
     "date": "2026-11-18 14:36:13"
-  },
-  {
-    "link": "https://techorange.com/2026/11/18/dell-ai-advisory-workshop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "「AI 要能跨部門複製與持續營運。」Dell AI 服務助企業打破 POC 負循環",
-    "date": "2026-11-18 14:34:30"
-  },
-  {
-    "link": "https://techorange.com/2026/11/18/nvidia-export-control-committee/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "黃仁勳請辭後，NVIDIA 新設國安與出口管制委員會：美方追查的新加坡轉運漏洞怎麼來？",
-    "date": "2026-11-18 12:47:13"
-  },
-  {
-    "link": "https://techorange.com/2026/11/18/microsoft-ignite-2026-building-frontier-ecosystem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "微軟押注「小而專」AI 模型，稱 MAI Code 2 以 5% 成本達 Claude Opus 5.5 的 96% 效能",
-    "date": "2026-11-18 11:58:40"
   }
 ]
