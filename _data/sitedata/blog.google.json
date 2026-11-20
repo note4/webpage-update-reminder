@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+    "title": "[英] Get your year-end tasks done with new Connected Apps.",
+    "date": "2026-11-21 02:00:00"
+  },
+  {
     "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
     "title": "[英] How Watch Duty is using Gemini to get wildfire alerts out faster",
     "date": "2026-11-21 01:00:00"
@@ -68,10 +73,5 @@
     "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/",
     "title": "[英] Google’s water stewardship commitments for local communities",
     "date": "2026-11-19 18:00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-    "title": "[英] Introducing Gemini 4 Neon",
-    "date": "2026-11-19 05:00:00"
   }
 ]
