@@ -1,7 +1,62 @@
 [
   {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1587420.htm",
+    "title": "群联展示内置NPU与64GB内存的智能SSD方案 可直接运行AI模型",
+    "date": "2026-11-22 03:34:47"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1587418.htm",
+    "title": "台积电收紧对大陆代工业务 16nm以下先进芯片订单被叫停",
+    "date": "2026-11-22 00:58:54"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1587416.htm",
+    "title": "LG与三星拟将液态二氧化碳洗衣技术带入家庭：不用水、免烘干",
+    "date": "2026-11-22 00:57:18"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1587414.htm",
+    "title": "三星的内存产能至2029年已几乎全部预订一空 客户正寻求直至2031年的供货协议",
+    "date": "2026-11-22 00:56:44"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1587412.htm",
+    "title": "28核英特尔Nova Lake-S处理器现身测试平台 最高运行频率达5.2GHz",
+    "date": "2026-11-22 00:55:24"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1587410.htm",
+    "title": "Google Gemini推出AI生成GIF功能 部分国家免费用户也可使用",
+    "date": "2026-11-22 00:47:30"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/science/1587408.htm",
+    "title": "这张夜空照片展示了划过夜空的14000条卫星轨迹",
+    "date": "2026-11-22 00:45:57"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1587406.htm",
+    "title": "《GTA6》《塞尔达：时之笛 重制版》用户评分双双下滑",
+    "date": "2026-11-22 00:31:46"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1587404.htm",
+    "title": "《GTA6》Xbox代码泄露 PC移植版或一周内完成",
+    "date": "2026-11-22 00:03:34"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/game/1587402.htm",
+    "title": "《GTA6》PC版移植已悄然推进：40款显卡参与测试 连Steam Deck都能跑?",
+    "date": "2026-11-22 00:02:43"
+  },
+  {
+    "link": "https://www.cnbeta.com.tw/articles/tech/1587400.htm",
+    "title": "Anthropic创纪录IPO撞上华尔街科技股自2020年以来最糟糕的一周",
+    "date": "2026-11-22 00:00:30"
+  },
+  {
     "link": "https://www.cnbeta.com.tw/articles/tech/1587398.htm",
-    "title": "英特尔前CEO帕特·基辛格：摩尔定律尚未终结，AI需要1万倍效率跃升",
+    "title": "英特尔前CEO帕特·基辛格：摩尔定律尚未终结 AI需要1万倍效率跃升",
     "date": "2026-11-21 19:21:09"
   },
   {
@@ -18,60 +73,5 @@
     "link": "https://www.cnbeta.com.tw/articles/game/1587392.htm",
     "title": "《GTA6》Mandy在网络上火了 配音演员作出回应",
     "date": "2026-11-21 18:12:57"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1587390.htm",
-    "title": "IPO融资额增至1195亿美元 Anthropic股价大跌超8%",
-    "date": "2026-11-21 18:03:08"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1587388.htm",
-    "title": "AI造芯真能成 一年的活5个月干完：AMD已经拿去送厂流片",
-    "date": "2026-11-21 18:00:48"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1587386.htm",
-    "title": "问界M9车主开辅助驾驶熟睡引热议 网友痛批病得不轻",
-    "date": "2026-11-21 18:00:26"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1587384.htm",
-    "title": "离职风波未平又遭SEC会计调查 英伟达本周市值蒸发近9000亿美元跌出美股前三",
-    "date": "2026-11-21 17:58:58"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/game/1587382.htm",
-    "title": "《GTA6》首发收入达37.9亿美元 超越《复仇者联盟4》总票房刷新娱乐品纪录",
-    "date": "2026-11-21 17:58:07"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1587380.htm",
-    "title": "欧盟少了9.5亿件跨境包裹 国内卖家的长尾生意还能做吗？",
-    "date": "2026-11-21 17:52:45"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1587378.htm",
-    "title": "美国总统特朗普公开支持黄仁勋：期待回归英伟达 他让美国AI领先全球10年",
-    "date": "2026-11-21 17:13:53"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1587376.htm",
-    "title": "英伟达创金融危机以来最长连跌 累跌46%市值缩水一个亚马逊",
-    "date": "2026-11-21 17:13:22"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1587374.htm",
-    "title": "比特币跌破56000美元 风险资产抛售加剧下行压力",
-    "date": "2026-11-21 17:11:37"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1587372.htm",
-    "title": "韩国总统李在明称高考作弊等同“腐败犯罪” 重申举报者奖励1亿韩元",
-    "date": "2026-11-21 17:11:17"
-  },
-  {
-    "link": "https://www.cnbeta.com.tw/articles/tech/1587370.htm",
-    "title": "美国创企GG在印度起诉苹果 指控NameDrop功能侵权",
-    "date": "2026-11-21 17:09:41"
   }
 ]
