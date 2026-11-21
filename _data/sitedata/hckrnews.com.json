@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://substrate-lang.com",
+    "title": "[英] Substrate: A Lisp for WebAssembly",
+    "date": "2026-11-21"
+  },
+  {
+    "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+    "title": "[英] Clojure will affect the way you think about programming (2017)",
+    "date": "2026-11-21"
+  },
+  {
+    "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+    "title": "[英] I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+    "date": "2026-11-21"
+  },
+  {
+    "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+    "title": "[英] Serious cyberattack thought backed by wealthy operators",
+    "date": "2026-11-21"
+  },
+  {
+    "link": "https://m-slee.netlify.app/posts/integrals-galois-polynomials",
+    "title": "[英] Integrals of Polynomials with Galois Group S_p",
+    "date": "2026-11-21"
+  },
+  {
+    "link": "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/",
+    "title": "[英] Merkle Tree Certificates",
+    "date": "2026-11-21"
+  },
+  {
+    "link": "https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/",
+    "title": "[英] Uncontacted Indigenous people emerge from Amazon forest to ask for food",
+    "date": "2026-11-21"
+  },
+  {
+    "link": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+    "title": "[英] Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+    "date": "2026-11-21"
+  },
+  {
+    "link": "https://borretti.me/article/re-riemann",
+    "title": "[英] Re: Riemann",
+    "date": "2026-11-21"
+  },
+  {
+    "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+    "title": "[英] AI may have solved the most important problem in mathematics",
+    "date": "2026-11-21"
+  },
+  {
+    "link": "https://typedb.com/blog/replacing-implicit-optionals-with-a-none-type-in-typedb",
+    "title": "[英] Replacing implicit optionals with a None type in TypeDB",
+    "date": "2026-11-21"
+  },
+  {
+    "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+    "title": "[英] Sir Brian May adds new dimension to Hera asteroid",
+    "date": "2026-11-21"
+  },
+  {
+    "link": "https://nate.mecca1.net/posts/2026-11-20_help/",
+    "title": "[英] Help github just deleted me",
+    "date": "2026-11-21"
+  },
+  {
     "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
     "title": "[英] Nasdaq erases all 2026 gains",
     "date": "2026-11-21"
@@ -7,71 +72,6 @@
   {
     "link": "https://euler.dawei7.com",
     "title": "[英] Show HN: Professor Euler – Offline math desk, 300-function CAS, workbooks",
-    "date": "2026-11-21"
-  },
-  {
-    "link": "https://ninlive.com/",
-    "title": "[英] NINLIVE: The Nine Inch Nails live archive",
-    "date": "2026-11-21"
-  },
-  {
-    "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-    "title": "[英] The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-    "date": "2026-11-21"
-  },
-  {
-    "link": "https://prachataienglish.com/node/12123",
-    "title": "[英] Supreme Court sentences 29-year-old activist to prison over FB post",
-    "date": "2026-11-21"
-  },
-  {
-    "link": "https://github.com/google-deepmind/math-horizon",
-    "title": "[英] A few hours ago Google DeepMind created a math horizon repo",
-    "date": "2026-11-21"
-  },
-  {
-    "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-    "title": "[英] DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-    "date": "2026-11-21"
-  },
-  {
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-    "title": "[英] Microsoft announces Windows Server 2028 with hardened security",
-    "date": "2026-11-21"
-  },
-  {
-    "link": "https://master--ytulsiani.netlify.app/blog/furrytails/",
-    "title": "[英] Reverse Engineering my cat's litter box",
-    "date": "2026-11-21"
-  },
-  {
-    "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-    "title": "[英] And Yet, It Moves",
-    "date": "2026-11-21"
-  },
-  {
-    "link": "https://openai.com/index/combatting-adversarial-distillation/",
-    "title": "[英] Combatting Adversarial Distillation",
-    "date": "2026-11-21"
-  },
-  {
-    "link": "https://github.com/diggerhq/opencomputer",
-    "title": "[英] Show HN: OpenComputer – an open source alternative to Devin",
-    "date": "2026-11-21"
-  },
-  {
-    "link": "https://scottaaronson.blog/?p=10344",
-    "title": "[英] The stochastic parrots have apparently proved the Riemann Hypothesis",
-    "date": "2026-11-21"
-  },
-  {
-    "link": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
-    "title": "[英] Nvidia accounting under SEC investigation, sources say",
-    "date": "2026-11-21"
-  },
-  {
-    "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-    "title": "[英] Inkling 2 Mini",
     "date": "2026-11-21"
   }
 ]
