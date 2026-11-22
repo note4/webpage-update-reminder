@@ -1,77 +1,77 @@
 [
   {
-    "link": "https://github.com/jjba23/maak",
-    "title": "[英] Maak v1.0.0 – infinitely extensible command runner, build sys in Lisp",
+    "link": "https://joinmayberry.com/",
+    "title": "[英] Self-hosted library branch over public web OPDS",
     "date": "2026-11-22"
   },
   {
-    "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-    "title": "[英] The Mythology of Conscious AI",
+    "link": "https://arxiv.org/abs/2606.14068",
+    "title": "[英] Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
     "date": "2026-11-22"
   },
   {
-    "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-    "title": "[英] Data Processing Incidents on Inference Providers",
+    "link": "https://github.com/pithings/unkernel",
+    "title": "[英] A real Linux kernel, compiled to WebAssembly",
     "date": "2026-11-22"
   },
   {
-    "link": "https://github.com/ItsNotRexed/Leonida",
-    "title": "[英] Leonida – PC Recompilation of the Xbox Version of GTA 6",
+    "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "title": "[英] 87% of the Anthropic power will come from gas and 11% from coal in 2028",
     "date": "2026-11-22"
   },
   {
-    "link": "https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html",
-    "title": "[英] Unit-testing in the Ü programming language",
+    "link": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
+    "title": "[英] Is 'fork' missing operation in sandboxes?",
     "date": "2026-11-22"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=50595256",
+    "link": "https://news.ycombinator.com/item?id=50597505",
     "title": "[英] undefined",
     "date": "2026-11-22"
   },
   {
-    "link": "https://stulle.app/",
-    "title": "[英] Sandwich Simulator",
+    "link": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
+    "title": "[英] Reversing the Next-Page Prefetcher in Skylake-X",
     "date": "2026-11-22"
   },
   {
-    "link": "https://revyl.com/blog/pattern-engineering/",
-    "title": "[英] Shaping the Loops, Closing the Loops",
+    "link": "https://github.com/EL4CTEO/fast-anything",
+    "title": "[英] Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
     "date": "2026-11-22"
   },
   {
-    "link": "https://news.ycombinator.com/item?id=50595122",
-    "title": "[英] undefined",
+    "link": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+    "title": "[英] The Engineering Manager's role is under attack (again)",
     "date": "2026-11-22"
   },
   {
-    "link": "https://www.dataisland.org/blog/zlib-overlay-chase.html",
-    "title": "[英] Right Code, Wrong Comment: The Pointer Chase Inside Zlib",
+    "link": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
+    "title": "[英] If tiny 'primordial' black holes exist",
     "date": "2026-11-22"
   },
   {
-    "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-    "title": "[英] International UN talks on controlling use of autonomous weapons collapse",
+    "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+    "title": "[英] Notes on the discrete Fourier transform (DFT)",
     "date": "2026-11-22"
   },
   {
-    "link": "https://tinfoil.wtf/dispatches/tin-to-aluminum-switch/",
-    "title": "[英] Tin vs. Aluminum Foil in hat making applications",
+    "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+    "title": "[英] AI Supply Chain Security: What Canary Tokens Found",
     "date": "2026-11-22"
   },
   {
-    "link": "https://www.pandex.io",
-    "title": "[英] Pandex – Official European Law for AI Agents, over MCP",
+    "link": "https://github.com/tamnd/riemann-handbook",
+    "title": "[英] Show HN: The Riemann Proof Handbook",
     "date": "2026-11-22"
   },
   {
-    "link": "https://linebender.org/blog/next-100-guis/",
-    "title": "[英] Advice for the next 100 Rust GUIs",
+    "link": "https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/",
+    "title": "[英] Pion Interceptor: WebRTC for Hackers",
     "date": "2026-11-22"
   },
   {
-    "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-    "title": "[英] PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+    "link": "https://github.com/ThrudTheBarbarian/xc",
+    "title": "[英] Show HN: Compile the same source for GPUs and CPUs",
     "date": "2026-11-22"
   }
 ]
