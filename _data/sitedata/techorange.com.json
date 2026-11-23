@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://techorange.com/2026/11/23/singapore-mas-kya-agentic-money-sandbox/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "為 AI 代理交易設防線！新加坡擬推 KYA 授權協議，將設「代理式貨幣沙盒」探索應用",
+    "date": "2026-11-23 18:00:38"
+  },
+  {
+    "link": "https://techorange.com/2026/11/23/a16z-welcome-b2a-economy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "a16z 提 B2A 經濟：AI 代理的生意不只在購物車，連資料庫、雲端部署都開始用 AI",
+    "date": "2026-11-23 17:16:28"
+  },
+  {
+    "link": "https://techorange.com/2026/11/23/profetai-domaintwin/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "半導體擴廠面臨專業人才荒，Profet AI 助企業擴大專家量能",
+    "date": "2026-11-23 16:03:05"
+  },
+  {
+    "link": "https://techorange.com/2026/11/23/quantum-computing-energy-applications/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "量子運算最先見效的可能是能源，而非新藥？電網調度、製氫觸媒已展開測試",
+    "date": "2026-11-23 15:47:15"
+  },
+  {
+    "link": "https://techorange.com/2026/11/23/architect-labs-ai-cpu-frostbite/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 代理從零設計全新 CPU 架構「Frostbite」！Architect Labs 宣稱流片前模擬每瓦效能達循序核心 4.59 倍",
+    "date": "2026-11-23 15:00:14"
+  },
+  {
+    "link": "https://techorange.com/2026/11/23/security-ai-leaky-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 提示詞送出後誰看得到？近 200 萬筆誘餌實測：標記「零資料保留」的請求也遭竊，OpenRouter 下架 3 家推論服務供應商",
+    "date": "2026-11-23 12:51:22"
+  },
+  {
     "link": "https://techorange.com/2026/11/23/openai-perplexity-common-limits/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "OpenAI 公開內部「困惑度」數據，想替業界訂「煞車線」：這把量尺能成為共同標準嗎？",
     "date": "2026-11-23 11:56:55"
@@ -43,35 +73,5 @@
     "link": "https://techorange.com/2026/11/20/using-ai-delete-code-agentic-tech-debt-cleanup/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "Uber 清技術債，為何不全交給 AI 代理？拆解傳統工具、審查代理如何層層把關",
     "date": "2026-11-20 18:22:06"
-  },
-  {
-    "link": "https://techorange.com/2026/11/20/genesis-ai-500m-eno-deployment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Genesis AI 募資 5 億美元、稱已攻克靈巧操作，Eno 離上產線還有多遠？",
-    "date": "2026-11-20 15:25:10"
-  },
-  {
-    "link": "https://techorange.com/2026/11/20/amd-shares-slide-report-china-links-invite-scrutiny/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "NVIDIA 的麻煩 AMD 也躲不掉？放空機構點名中國黑名單與客戶融資兩大隱憂",
-    "date": "2026-11-20 13:12:03"
-  },
-  {
-    "link": "https://techorange.com/2026/11/20/anthropic-ipo-pricing-moskovitz/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Anthropic 上市募資 813 億美元，1,040 億美元淨損從何而來？",
-    "date": "2026-11-20 11:35:44"
-  },
-  {
-    "link": "https://techorange.com/2026/11/20/enterprise-employee-data-ai-training/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【企業資料掀起石油探勘式熱潮】AI 開發商砸錢收購員工私訊，連倒閉公司數據都有人買",
-    "date": "2026-11-20 10:21:59"
-  },
-  {
-    "link": "https://techorange.com/2026/11/20/nexcom-robowiz-physicalai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "NEXCOM RoboWIZ AI 機器人開放平台擴大招募生態系夥伴",
-    "date": "2026-11-20 10:00:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/20/openai-amd-chip-design/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "旗艦 GPU 還能再升級？OpenAI 用 AI 重寫 RTL 電路，助 AMD PPA 最高再提升 14%",
-    "date": "2026-11-20 08:30:00"
   }
 ]
