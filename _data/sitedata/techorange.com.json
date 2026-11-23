@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://techorange.com/2026/11/23/openai-perplexity-common-limits/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 公開內部「困惑度」數據，想替業界訂「煞車線」：這把量尺能成為共同標準嗎？",
+    "date": "2026-11-23 11:56:55"
+  },
+  {
+    "link": "https://techorange.com/2026/11/23/manufacturing-trends-2027/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【2027 製造業五大趨勢】AI、混合雲、人力、供應鏈與永續同時到來，統一營運平台可望成整合關鍵",
+    "date": "2026-11-23 10:37:09"
+  },
+  {
+    "link": "https://techorange.com/2026/11/23/ai-machenta-instant-learning-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【用氛圍編碼的方式教機器人】Machenta 以「模擬資料」取代真實世界蒐集，主打示範一次就教會新任務",
+    "date": "2026-11-23 09:49:05"
+  },
+  {
+    "link": "https://techorange.com/2026/11/23/kroger-rfid-ai-inventory-management/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "RFID 抓單品數據、AI 做事後分析，Kroger 如何讓庫存決策一次比一次準？",
+    "date": "2026-11-23 08:59:01"
+  },
+  {
     "link": "https://techorange.com/2026/11/23/us-ai-chip-export-rules-tsmc-samsung-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】美國 AI 晶片新規生效！台積電、三星暫停部分對中出貨，阿里巴巴雲端成長承壓",
     "date": "2026-11-23 05:30:00"
@@ -53,25 +73,5 @@
     "link": "https://techorange.com/2026/11/20/openai-amd-chip-design/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "旗艦 GPU 還能再升級？OpenAI 用 AI 重寫 RTL 電路，助 AMD PPA 最高再提升 14%",
     "date": "2026-11-20 08:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/20/the-realreal-dual-ai-athena-ask-trr/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "當每件商品都只有一件，怎麼賣得快？二手精品平台 The RealReal 用兩套 AI 改造倉庫與搜尋",
-    "date": "2026-11-20 08:10:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/20/anthropic-record-ipo-ai-compute-competition/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】Anthropic 813 億美元 IPO 創紀錄！AI 模型競爭轉向算力與資本",
-    "date": "2026-11-20 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/19/google-meta-ai-self-improving-memory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 代理學會自己整理筆記？Google 記下「為何這樣改」、Meta 試著把技巧練進模型",
-    "date": "2026-11-19 17:12:40"
-  },
-  {
-    "link": "https://techorange.com/2026/11/19/us-banks-ai-agent-liability/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "網銀帳密交給 AI 代理，連外洩被盜用都算客戶的？花旗改條款，美國大銀行陸續劃定責任歸屬",
-    "date": "2026-11-19 16:26:41"
   }
 ]
