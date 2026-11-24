@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://techorange.com/2026/11/24/mercedes-beats-tesla-eu-self-driving-approval/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "超車特斯拉！賓士成首家獲德國高階輔助駕駛認證車廠，取得 2027 歐盟部署先機",
+    "date": "2026-11-24 17:44:04"
+  },
+  {
+    "link": "https://techorange.com/2026/11/24/semantic-knowledge-graph-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "建了資料湖，AI 代理為何還是看不懂業務？拆解知識圖譜在企業 AI 的新角色",
+    "date": "2026-11-24 17:24:41"
+  },
+  {
+    "link": "https://techorange.com/2026/11/24/anthropic-claude-ship-ai-code-approvals/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Anthropic 推 Claude Ship 讓 AI 核准程式碼，企業如何設定核准規則？",
+    "date": "2026-11-24 15:24:49"
+  },
+  {
+    "link": "https://techorange.com/2026/11/24/ai-safety-cant-depend-emergency-brake-engineering/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 安全不能只靠「緊急煞車」，AWS 執行長：模型周邊的工程，比選哪個模型更重要",
+    "date": "2026-11-24 14:21:11"
+  },
+  {
+    "link": "https://techorange.com/2026/11/24/cybersecurity-crowdstrike-zscaler-merger-impact/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "CrowdStrike 以 439 億美元收購 Zscaler：端點與零信任平台整合將如何影響企業用戶資安？",
+    "date": "2026-11-24 14:20:50"
+  },
+  {
+    "link": "https://techorange.com/2026/11/24/nvidia-jensen-huang-reinstated-ceo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "黃仁勳 6 天重返 NVIDIA，只解決由誰當家：調查、出口管制、融資疑慮仍未解",
+    "date": "2026-11-24 12:31:14"
+  },
+  {
+    "link": "https://techorange.com/2026/11/24/maxinsights-ai-robot-training-data/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【機器人訓練需千萬小時數據】Maxinsights 付錢請人戴攝影機，主打高品質訓練資料",
+    "date": "2026-11-24 10:03:17"
+  },
+  {
+    "link": "https://techorange.com/2026/11/24/ai-agent-bank-loan-compliance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【AI 代理不是用來裁員】美國網銀合規審查時間縮短 87%，省下人力轉向承接更多貸款",
+    "date": "2026-11-24 10:02:59"
+  },
+  {
+    "link": "https://techorange.com/2026/11/24/nvidia-vision-reasoning-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "攝影機看懂很多事，只是以前沒人問它！NVIDIA 與生態系合作夥伴於「AI創新日」共同解析 Vision Reasoning 技術如何啟驅動實體 AI 新紀元",
+    "date": "2026-11-24 09:35:36"
+  },
+  {
+    "link": "https://techorange.com/2026/11/24/tecobot-tensegrity-modular-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "模組化機器人不必是硬積木，TeCoBot 靠「張拉整體」彎曲、抓取還能組隊",
+    "date": "2026-11-24 09:35:28"
+  },
+  {
     "link": "https://techorange.com/2026/11/24/ai-server-price-hike-45-percent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】AI 伺服器簽約後還被加價！最高漲 45%，Dell、HPE 等大廠重議價格",
     "date": "2026-11-24 05:30:00"
@@ -23,55 +73,5 @@
     "link": "https://techorange.com/2026/11/23/quantum-computing-energy-applications/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "量子運算最先見效的可能是能源，而非新藥？電網調度、製氫觸媒已展開測試",
     "date": "2026-11-23 15:47:15"
-  },
-  {
-    "link": "https://techorange.com/2026/11/23/architect-labs-ai-cpu-frostbite/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 代理從零設計全新 CPU 架構「Frostbite」！Architect Labs 宣稱流片前模擬每瓦效能達循序核心 4.59 倍",
-    "date": "2026-11-23 15:00:14"
-  },
-  {
-    "link": "https://techorange.com/2026/11/23/security-ai-leaky-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 提示詞送出後誰看得到？近 200 萬筆誘餌實測：標記「零資料保留」的請求也遭竊，OpenRouter 下架 3 家推論服務供應商",
-    "date": "2026-11-23 12:51:22"
-  },
-  {
-    "link": "https://techorange.com/2026/11/23/openai-perplexity-common-limits/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "OpenAI 公開內部「困惑度」數據，想替業界訂「煞車線」：這把量尺能成為共同標準嗎？",
-    "date": "2026-11-23 11:56:55"
-  },
-  {
-    "link": "https://techorange.com/2026/11/23/manufacturing-trends-2027/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【2027 製造業五大趨勢】AI、混合雲、人力、供應鏈與永續同時到來，統一營運平台可望成整合關鍵",
-    "date": "2026-11-23 10:37:09"
-  },
-  {
-    "link": "https://techorange.com/2026/11/23/ai-machenta-instant-learning-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【用氛圍編碼的方式教機器人】Machenta 以「模擬資料」取代真實世界蒐集，主打示範一次就教會新任務",
-    "date": "2026-11-23 09:49:05"
-  },
-  {
-    "link": "https://techorange.com/2026/11/23/kroger-rfid-ai-inventory-management/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "RFID 抓單品數據、AI 做事後分析，Kroger 如何讓庫存決策一次比一次準？",
-    "date": "2026-11-23 08:59:01"
-  },
-  {
-    "link": "https://techorange.com/2026/11/23/us-ai-chip-export-rules-tsmc-samsung-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】美國 AI 晶片新規生效！台積電、三星暫停部分對中出貨，阿里巴巴雲端成長承壓",
-    "date": "2026-11-23 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/21/future-of-global-money-movement/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【Visa 全球數位匯款報告】近七成民眾更看重「由誰提供」，信任與防詐是穩定幣普及關鍵",
-    "date": "2026-11-21 06:29:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/20/target-walmart-q3-ai-strategy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "美國零售雙雄 Q3 財報秀 AI 實力：Target 逾九成品項導入 AI 補貨，Walmart 為「自帶 AI 代理」鋪路",
-    "date": "2026-11-20 18:54:24"
-  },
-  {
-    "link": "https://techorange.com/2026/11/20/chrome-mirror-dimension-ai-agent-security/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Google Chrome 打造「鏡像維度」合成網路，以 30 倍效率安全測試 AI 瀏覽代理",
-    "date": "2026-11-20 18:41:54"
   }
 ]
