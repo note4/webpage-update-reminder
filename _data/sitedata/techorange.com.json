@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://techorange.com/2026/11/25/tech-industry-semiconductors-japan-chipmaking-labs-trucks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "不用大型無塵室也能學晶片製造？日本 mobileFab 把 30 公分微影設備搬上卡車",
+    "date": "2026-11-25 18:00:02"
+  },
+  {
+    "link": "https://techorange.com/2026/11/25/stablecoins-walled-gardens/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "穩定幣市值持平，業者仍搶築「圍牆花園」：Payoneer 籌設信託銀行、Visa 開放穩定幣預先撥款",
+    "date": "2026-11-25 14:55:49"
+  },
+  {
+    "link": "https://techorange.com/2026/11/25/ex-xai-founders-launch-epochal-time-portal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "前 xAI 共同創辦人成立新創 Epochal，推「時間傳送門」訓練 AI 預測未來",
+    "date": "2026-11-25 14:48:28"
+  },
+  {
+    "link": "https://techorange.com/2026/11/25/anthropic-openai-unreleased-ai-safety-risks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI、Anthropic 未發布模型強到難以控制？知情人士：許多員工不信能安全發布",
+    "date": "2026-11-25 12:46:42"
+  },
+  {
+    "link": "https://techorange.com/2026/11/25/anthropic-siren-ai-agent-honeypot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "Anthropic 實測新版 Claude 仍有 2～3 成情境越出沙箱，導入 AI 代理還能加哪些防線？",
+    "date": "2026-11-25 12:22:43"
+  },
+  {
     "link": "https://techorange.com/2026/11/25/booster-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "只做身體、大腦讓客戶自己裝，Booster Robotics 想成為人形機器人界的 Android",
     "date": "2026-11-25 09:24:07"
@@ -48,30 +73,5 @@
     "link": "https://techorange.com/2026/11/24/maxinsights-ai-robot-training-data/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【機器人訓練需千萬小時數據】Maxinsights 付錢請人戴攝影機，主打高品質訓練資料",
     "date": "2026-11-24 10:03:17"
-  },
-  {
-    "link": "https://techorange.com/2026/11/24/ai-agent-bank-loan-compliance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【AI 代理不是用來裁員】美國網銀合規審查時間縮短 87%，省下人力轉向承接更多貸款",
-    "date": "2026-11-24 10:02:59"
-  },
-  {
-    "link": "https://techorange.com/2026/11/24/nvidia-vision-reasoning-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "攝影機看懂很多事，只是以前沒人問它！NVIDIA 與生態系合作夥伴於「AI創新日」共同解析 Vision Reasoning 技術如何啟驅動實體 AI 新紀元",
-    "date": "2026-11-24 09:35:36"
-  },
-  {
-    "link": "https://techorange.com/2026/11/24/tecobot-tensegrity-modular-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "模組化機器人不必是硬積木，TeCoBot 靠「張拉整體」彎曲、抓取還能組隊",
-    "date": "2026-11-24 09:35:28"
-  },
-  {
-    "link": "https://techorange.com/2026/11/24/ai-server-price-hike-45-percent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】AI 伺服器簽約後還被加價！最高漲 45%，Dell、HPE 等大廠重議價格",
-    "date": "2026-11-24 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/23/singapore-mas-kya-agentic-money-sandbox/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "為 AI 代理交易設防線！新加坡擬推 KYA 授權協議，將設「代理式貨幣沙盒」探索應用",
-    "date": "2026-11-23 18:00:38"
   }
 ]
