@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://techorange.com/2026/11/26/u-quantum-act-sovereign-fund/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "歐盟《量子法案》亮相，將搭配最高 500 億歐元主權科技基金押注 AI 與量子",
+    "date": "2026-11-26 18:33:05"
+  },
+  {
+    "link": "https://techorange.com/2026/11/26/ai-b2a-economy-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "AI 代理怎麼挑商品？a16z 實測逾 1.1 萬次：特定需求能翻轉首選，遇到登入牆就卡關",
+    "date": "2026-11-26 17:38:31"
+  },
+  {
+    "link": "https://techorange.com/2026/11/26/fcc-approves-spacex-orbital-datacenter/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "FCC 首度放行太空資料中心：SpaceX 獲准部署百萬顆低軌 AI 衛星，規模達目前全球衛星總數近 60 倍",
+    "date": "2026-11-26 17:22:41"
+  },
+  {
+    "link": "https://techorange.com/2026/11/26/australia-duty-of-care-platform-design-liability/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "內容平台不能再說自己只是「布告欄」：澳洲立法管推薦演算法，美國法院追究設計過失",
+    "date": "2026-11-26 16:25:28"
+  },
+  {
+    "link": "https://techorange.com/2026/11/26/ai-digital-sovereignty-google-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【Google Cloud 林書平專欄】企業部署 AI，如何兼顧數位主權與技術創新？",
+    "date": "2026-11-26 14:50:47"
+  },
+  {
+    "link": "https://techorange.com/2026/11/26/perplexity-time-machine-ai-agents-past-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "測 AI 代理預測力，先別讓它偷看答案：Perplexity 推「時光機」，搜尋只看指定時間點前的網頁",
+    "date": "2026-11-26 12:35:40"
+  },
+  {
     "link": "https://techorange.com/2026/11/26/new-tariffs-14-trading-partners-fight-excess-factory-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "美 301 新關稅點名台灣等 14 個經濟體，台灣政府：有信心維持 15%、協議不重談",
     "date": "2026-11-26 12:04:30"
@@ -43,35 +73,5 @@
     "link": "https://techorange.com/2026/11/25/ex-xai-founders-launch-epochal-time-portal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "前 xAI 共同創辦人成立新創 Epochal，推「時間傳送門」訓練 AI 預測未來",
     "date": "2026-11-25 14:48:28"
-  },
-  {
-    "link": "https://techorange.com/2026/11/25/anthropic-openai-unreleased-ai-safety-risks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "OpenAI、Anthropic 未發布模型強到難以控制？知情人士：許多員工不信能安全發布",
-    "date": "2026-11-25 12:46:42"
-  },
-  {
-    "link": "https://techorange.com/2026/11/25/anthropic-siren-ai-agent-honeypot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Anthropic 實測新版 Claude 仍有 2～3 成情境越出沙箱，導入 AI 代理還能加哪些防線？",
-    "date": "2026-11-25 12:22:43"
-  },
-  {
-    "link": "https://techorange.com/2026/11/25/booster-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "只做身體、大腦讓客戶自己裝，Booster Robotics 想成為人形機器人界的 Android",
-    "date": "2026-11-25 09:24:07"
-  },
-  {
-    "link": "https://techorange.com/2026/11/25/twister5-elastic-enterprise-ai-governance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "誰在用 AI、Token 花多少都不清楚？極風雲創主張先做入口、控管與知識庫，Elastic 提醒資料先分類",
-    "date": "2026-11-25 08:10:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/25/openai-cisco-shirudo-ai-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【科技早餐】OpenAI 聯手 Cisco 推出開源資安工具！測試不重啟服務就能阻擋漏洞攻擊",
-    "date": "2026-11-25 05:30:00"
-  },
-  {
-    "link": "https://techorange.com/2026/11/24/mercedes-beats-tesla-eu-self-driving-approval/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "超車特斯拉！賓士成首家獲德國高階輔助駕駛認證車廠，取得 2027 歐盟部署先機",
-    "date": "2026-11-24 17:44:04"
   }
 ]
