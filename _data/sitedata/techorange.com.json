@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://techorange.com/2026/11/26/new-tariffs-14-trading-partners-fight-excess-factory-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "美 301 新關稅點名台灣等 14 個經濟體，台灣政府：有信心維持 15%、協議不重談",
+    "date": "2026-11-26 12:04:30"
+  },
+  {
+    "link": "https://techorange.com/2026/11/26/ai-chip-design-software-optimization/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 以 AI 設計電路、亞馬遜收購跨晶片最佳化技術，為半導體設計與軟體競爭帶來哪些新變數？",
+    "date": "2026-11-26 10:52:24"
+  },
+  {
+    "link": "https://techorange.com/2026/11/26/hpe-syscom-mananged-service/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "IT 維運如何跟上 AI 應用迭代速度？HPE 和凌羣攜手合作推廣標準化託管服務，釋放企業 IT 創新潛能",
+    "date": "2026-11-26 10:30:00"
+  },
+  {
+    "link": "https://techorange.com/2026/11/26/radianx/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【室內燈光也能發電】美國新創 RadianX 用新型太陽能板，延長感測器、穿戴裝置的續航",
+    "date": "2026-11-26 08:59:25"
+  },
+  {
+    "link": "https://techorange.com/2026/11/26/openai-openworks-small-business-ai-partners/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "OpenAI 推「OpenWorks」：每月最高付 8,000 美元請在地顧問，免費一對一教美國小企業用 AI",
+    "date": "2026-11-26 08:10:00"
+  },
+  {
     "link": "https://techorange.com/2026/11/26/tsmc-texas-fab-investment-dell-ai-server/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "【科技早餐】台積電美國擴產新進展！向德州申請減稅，評估 226 億美元晶圓廠投資",
     "date": "2026-11-26 05:30:00"
@@ -48,30 +73,5 @@
     "link": "https://techorange.com/2026/11/24/mercedes-beats-tesla-eu-self-driving-approval/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "超車特斯拉！賓士成首家獲德國高階輔助駕駛認證車廠，取得 2027 歐盟部署先機",
     "date": "2026-11-24 17:44:04"
-  },
-  {
-    "link": "https://techorange.com/2026/11/24/semantic-knowledge-graph-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "建了資料湖，AI 代理為何還是看不懂業務？拆解知識圖譜在企業 AI 的新角色",
-    "date": "2026-11-24 17:24:41"
-  },
-  {
-    "link": "https://techorange.com/2026/11/24/anthropic-claude-ship-ai-code-approvals/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "Anthropic 推 Claude Ship 讓 AI 核准程式碼，企業如何設定核准規則？",
-    "date": "2026-11-24 15:24:49"
-  },
-  {
-    "link": "https://techorange.com/2026/11/24/ai-safety-cant-depend-emergency-brake-engineering/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "AI 安全不能只靠「緊急煞車」，AWS 執行長：模型周邊的工程，比選哪個模型更重要",
-    "date": "2026-11-24 14:21:11"
-  },
-  {
-    "link": "https://techorange.com/2026/11/24/cybersecurity-crowdstrike-zscaler-merger-impact/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "CrowdStrike 以 439 億美元收購 Zscaler：端點與零信任平台整合將如何影響企業用戶資安？",
-    "date": "2026-11-24 14:20:50"
-  },
-  {
-    "link": "https://techorange.com/2026/11/24/nvidia-jensen-huang-reinstated-ceo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "黃仁勳 6 天重返 NVIDIA，只解決由誰當家：調查、出口管制、融資疑慮仍未解",
-    "date": "2026-11-24 12:31:14"
   }
 ]
