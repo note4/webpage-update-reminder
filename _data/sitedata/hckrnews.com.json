@@ -1,5 +1,60 @@
 [
   {
+    "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+    "title": "[英] \"What's Claude's Fursona?\" and Other Questions",
+    "date": "2026-11-27"
+  },
+  {
+    "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+    "title": "[英] The Cutthroat Business of Shipwrecks",
+    "date": "2026-11-27"
+  },
+  {
+    "link": "https://www.eso.org/public/news/eso2614/",
+    "title": "[英] ESO statement on approval of launch of one million space data centres",
+    "date": "2026-11-27"
+  },
+  {
+    "link": "https://www.london.edu/think/ai-bubble-about-to-burst",
+    "title": "[英] New AI research suggests AI bubble bursting and to expect major market collapse",
+    "date": "2026-11-27"
+  },
+  {
+    "link": "https://sqrin.app",
+    "title": "[英] Show HN: Sqrin – A better screen share for Mac",
+    "date": "2026-11-27"
+  },
+  {
+    "link": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+    "title": "[英] Google will show solo Android developers' phone numbers and addresses",
+    "date": "2026-11-27"
+  },
+  {
+    "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "title": "[英] Hard Drive pricing has gotten bad",
+    "date": "2026-11-27"
+  },
+  {
+    "link": "https://www.c82.net/naturalists-library/",
+    "title": "[英] The Naturalist's Library",
+    "date": "2026-11-27"
+  },
+  {
+    "link": "https://abc7news.com/post/oaklands-30-minimum-wage-push-advances-city-council-vote-alameda-workers-protest-alleged-theft-jack-box/19974057/",
+    "title": "[英] Oakland's $30 minimum wage push advances toward city council vote",
+    "date": "2026-11-27"
+  },
+  {
+    "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+    "title": "[英] AI agents now control part of DeepMind's compute for Gemini experiments",
+    "date": "2026-11-27"
+  },
+  {
+    "link": "http://themouseless.dev/vim/",
+    "title": "[英] Show HN: I wrote an entire Vim manual over 4 years",
+    "date": "2026-11-27"
+  },
+  {
     "link": "https://kendell.dev/blog/arkwrapper/",
     "title": "[英] Novita, StreamLake, etc. are ByteDance Ark wrappers",
     "date": "2026-11-27"
@@ -10,68 +65,13 @@
     "date": "2026-11-27"
   },
   {
-    "link": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
-    "title": "[英] Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
+    "link": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+    "title": "[英] A man in Denver has been throwing eggs at Waymo vehicles",
     "date": "2026-11-27"
   },
   {
     "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
     "title": "[英] Company Culture = Slack Emoji ÷ √Headcount",
-    "date": "2026-11-27"
-  },
-  {
-    "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-    "title": "[英] Top-cited AI scientists at four US companies compared",
-    "date": "2026-11-27"
-  },
-  {
-    "link": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
-    "title": "[英] Banks look to dump AI debt",
-    "date": "2026-11-27"
-  },
-  {
-    "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-    "title": "[英] Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-    "date": "2026-11-27"
-  },
-  {
-    "link": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
-    "title": "[英] IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
-    "date": "2026-11-27"
-  },
-  {
-    "link": "https://bui.preetham.top/charts/",
-    "title": "[英] Largest 2D Chart library in the world using BUI: BlenderUI",
-    "date": "2026-11-27"
-  },
-  {
-    "link": "https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo",
-    "title": "[英] Nvidia was right to bring back Jensen Huang, writes Sarah Guo",
-    "date": "2026-11-27"
-  },
-  {
-    "link": "https://github.com/gary23w/f-ck_data_brokers",
-    "title": "[英] Show HN: Fuck_data_brokers.py",
-    "date": "2026-11-27"
-  },
-  {
-    "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-    "title": "[英] An Introduction to Uncertainty in Machine Learning",
-    "date": "2026-11-27"
-  },
-  {
-    "link": "https://github.com/eisenzopf/rvoip",
-    "title": "[英] Rvoip 0.5 the complete VoIP stack in Rust",
-    "date": "2026-11-27"
-  },
-  {
-    "link": "https://karpathy.ai/usaciv/",
-    "title": "[英] The USA as a Civilizations-esque map",
-    "date": "2026-11-27"
-  },
-  {
-    "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-    "title": "[英] OpenAI may be in cost control mode",
     "date": "2026-11-27"
   }
 ]
