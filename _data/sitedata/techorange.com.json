@@ -1,5 +1,10 @@
 [
   {
+    "link": "https://techorange.com/2026/11/28/cloud-ciso-perspectives/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "title": "【Google Cloud 2027 資安展望報告】勒索集團轉向盜用算力，「LLMJacking」數小時內讓企業雲端帳單暴增",
+    "date": "2026-11-28 06:29:00"
+  },
+  {
     "link": "https://techorange.com/2026/11/27/us-curbs-delay-china-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "美國算力管制與反蒸餾雙重夾擊：傳中國 AI 旗艦模型恐延宕，月之暗面取消印尼交易轉向歐洲租算力",
     "date": "2026-11-27 19:02:42"
@@ -68,10 +73,5 @@
     "link": "https://techorange.com/2026/11/26/australia-duty-of-care-platform-design-liability/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "title": "內容平台不能再說自己只是「布告欄」：澳洲立法管推薦演算法，美國法院追究設計過失",
     "date": "2026-11-26 16:25:28"
-  },
-  {
-    "link": "https://techorange.com/2026/11/26/ai-digital-sovereignty-google-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-    "title": "【Google Cloud 林書平專欄】企業部署 AI，如何兼顧數位主權與技術創新？",
-    "date": "2026-11-26 14:50:47"
   }
 ]
